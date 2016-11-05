@@ -9,6 +9,12 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+
 public class FrontPageScrollingActivity extends AppCompatActivity {
 
     @Override
@@ -47,5 +53,61 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
             return true;
         }
         return super.onOptionsItemSelected(item);
+    }
+
+    protected String[] grabURL(/*String name*/) throws IOException {
+
+        int pageNum = 0;
+
+        String name = "bill?sort=created";
+
+        URL url = new URL(String.format("https://www.govtrack.us/api/v2/%s", name));
+
+        ////////////////JSON
+        HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
+        String[] result = new String[]{"Error"};
+
+        try {
+            BufferedReader reader = new BufferedReader(new InputStreamReader(urlConnection.getInputStream()));
+            StringBuilder sb = new StringBuilder();
+
+            String line = null;
+            while ((line = reader.readLine()) != null) {
+                sb.append(line + "\n");
+//                if (line.substring(0, 20) == "\"introduced_date\":"){
+//                    line.substring(22);
+//             }
+                /*
+                introduced_date
+                    "introduced_date": "2011-01-05",
+                current_status_date
+                    "current_status_date": "2011-01-05",
+                title
+                    "lock_title": false,
+                terms
+
+                 */
+            }
+            result = sb.toString().split("\n");
+
+        } catch (Exception e) {
+            // Oops
+
+        } finally {
+            //woopsss
+        }
+
+        return result;
+
+        ///////////////
+
+        /*
+        bill?sort=created
+        bills/{bill-type}/{bill-type}{number}/data.json
+        bills/{bill-type}/{bill-type}{number}/text-versions/{version}/...
+        amendments/{amdt-type}/{amdt-type}{amdt-number}/data.json
+        votes/{session}/{chamber}{vote-number}/data.json
+
+         */
     }
 }
