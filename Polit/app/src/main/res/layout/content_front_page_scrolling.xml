@@ -8,12 +8,10 @@
     tools:context="com.example.masterriku.polit.FrontPageScrollingActivity"
     tools:showIn="@layout/activity_front_page_scrolling">
 
-    <TextView
+    <ListView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/text_margin"
-        android:id="@+id/BillList"
-        android:text="" />
-
+        android:id="@+id/BillList"/>
 
 </android.support.v4.widget.NestedScrollView>
