@@ -9,7 +9,6 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.TextView;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -43,7 +42,10 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
             }
         });
 
-        new MyAsyncTask().execute("https://www.govtrack.us/api/v2/bill?sort=number");
+        String category = "bill?";
+        String sort = "sort=number";
+
+        new MyAsyncTask().execute(String.format("https://www.govtrack.us/api/v2/%s%s", category, sort ));
     }
 
     @Override
@@ -161,16 +163,24 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
                 statusList.add(j.toString());
             }
 
-            TextView textView = (TextView) findViewById(R.id.billList);
+            MiddleGround(titleList, introList, statusList);
 
-            StringBuilder sb = new StringBuilder();
-            for (String x: titleList) {
-                sb.append(x + "\n");
-            }
-            result = sb.toString();
 
-            textView.setText(result); //"a regular piece of text"
+
+//            TextView textView = (TextView) findViewById(R.id.billList);
+//
+//            StringBuilder sb = new StringBuilder();
+//            for (String x: titleList) {
+//                sb.append(x + "\n");
+//            }
+//            result = sb.toString();
+//
+//            textView.setText(result); //"a regular piece of text"
 //            JSONObject obj = new JSONObject("introduced_date");
+        }
+
+        public void MiddleGround(List<String> titleList, List<String> introList, List<String> statusList){
+
         }
     }
 }
