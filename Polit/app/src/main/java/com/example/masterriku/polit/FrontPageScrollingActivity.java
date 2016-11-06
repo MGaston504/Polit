@@ -40,6 +40,11 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_front_page_scrolling);
 
+        //final Spinner spinner = (Spinner) findViewById(R.id.spinner)
+        String sort = "current_status_date";
+
+
+
 //        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
 //        setSupportActionBar(toolbar);
 //
@@ -51,14 +56,18 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
 //                        .setAction("Action", null).show();
 //            }
 //        });
-
-        String sort = "current_status_date";
-        //"title_without_number" "introduced_date" 
-
-        new MyAsyncTask().execute(String.format("https://www.govtrack.us/api/v2/bill?sort=%s", sort));
+        new MyAsyncTask().execute(String.format("https://www.govtrack.us/api/v2/bill?sort=-%s", sort));
         // ATTENTION: This was auto-generated to implement the App Indexing API.
         // See https://g.co/AppIndexing/AndroidStudio for more information.
         client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
+    }
+    public void step2 (String sort){
+
+        //String sort = "current_status_date";
+
+        //"title_without_number" "introduced_date" 
+
+
     }
 
     @Override
@@ -231,21 +240,19 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
 
         public void MiddleGround(List<String> titleList, List<String> introList, List<String> statusList, List<String> webList) {
 
-            //View child = getLayoutInflater().inflate(R.layout.content_front_page_scrolling, null);
+
             ListView listView = (ListView) findViewById(R.id.BillList);
             List<String> listItems = new ArrayList<>();
-            //         List<String> listItems = new ArrayList<>();
 
             for (int i = 0; i < titleList.size(); i++) {
-                listItems.add(String.format("%s\t%s\n\t%s", titleList.get(i), introList.get(i), statusList.get(i)));
+                listItems.add(String.format("%s\nINTRODUCED:\t\t%s\nDATE OF LAST MAJOR ACTION:\t\t%s",
+                        titleList.get(i), introList.get(i), statusList.get(i)));
             }
 
             ArrayAdapter<String> adapter = new ArrayAdapter<>(FrontPageScrollingActivity.this,
                     android.R.layout.simple_list_item_1, listItems);
 
             listView.setAdapter(adapter);
-
-            //Spinner s = (Spinner) findViewById(R.id.spinner2);
         }
     }
 }

@@ -10,9 +10,10 @@
         <Spinner
             android:layout_width="match_parent"
             android:layout_height="108dp"
-            android:id="@+id/spinner2"
+            android:id="@+id/spinner"
             android:entries="@array/sort_list"
-            android:spinnerMode="dropdown"/>
+            android:spinnerMode="dropdown"
+            android:color="@color/colorPrimaryDark"/>
             <!--android:entries="@mipmap/ic_launcher"-->
 
         <ListView
