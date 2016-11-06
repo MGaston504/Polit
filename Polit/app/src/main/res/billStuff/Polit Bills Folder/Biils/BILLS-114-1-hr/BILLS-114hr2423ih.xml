@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF8495069E59643EABE9E41EB6B4EAD23" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2423 IH: To amend the Federal Food, Drug, and Cosmetic Act with respect to valid scientific evidence.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2423</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150519">May 19, 2015</action-date> 
+<action-desc><sponsor name-id="S000364">Mr. Shimkus</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Federal Food, Drug, and Cosmetic Act with respect to valid scientific evidence.</official-title> 
+</form> 
+<legis-body id="H90F2A457C4E54BB4BB70335BA175E718" style="OLC"> 
+<section id="HF96D5E0A4EC2498CB09E285079AD56CE" section-type="section-one" commented="no"><enum>1.</enum><header>Valid scientific evidence</header><text display-inline="no-display-inline">Section 513(a)(3)(B) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360c">21 U.S.C. 360c(a)(3)(B)</external-xref>) is amended—</text> <paragraph id="H0F65C77566174C64BDBBC13937630AC5" commented="no"><enum>(1)</enum><text>by redesignating clauses (i) and (ii) as subclauses (I) and (II), respectively;</text></paragraph> 
+<paragraph id="HAD8176D94D764F2889B7D28CA79FC603" commented="no"><enum>(2)</enum><text>by striking <quote>(B) If the Secretary</quote> and inserting <quote>(B)(i) If the Secretary</quote>; and</text></paragraph> <paragraph id="HD1C366001B824AAF9324848023194E51" commented="no"><enum>(3)</enum><text>by adding at the end the following:</text> 
+<quoted-block id="H46AB94B047F44C4396ED08D9FE7E6CF4" style="OLC"> 
+<clause id="HE16056A634B547E9B9C86C3E00EFF5D7" indent="up1" commented="no"><enum>(ii)</enum><text>Valid scientific evidence for purposes of clause (i) may include:</text> <subclause id="H0FC9893A9FA54BBC87681535CFB6661F" commented="no"><enum>(I)</enum><text>evidence described in well-documented case histories, including registry data, that are collected and monitored under an acceptable protocol;</text></subclause> 
+<subclause id="HE787D873EFCF4A528F07074551FB36A4" commented="no"><enum>(II)</enum><text>studies published in peer-reviewed journals; and</text></subclause> <subclause id="HBB0FAA4BAC8E4BE98F8E6A897F9928D9" commented="no"><enum>(III)</enum><text>data collected in countries other than the United States so long as such data otherwise meets the criteria specified in this subparagraph.</text></subclause></clause> 
+<clause id="H8B6D2AFF1CDF44949DAE30E27C17434B" indent="up1" commented="no"><enum>(iii)</enum><text>In the case of a study published in a peer-reviewed journal that is offered as valid scientific evidence for purposes of clause (i), the Secretary may request data underlying the study if—</text> <subclause id="HFEC86A544758405FAE19E26C2B8D9E4C" commented="no"><enum>(I)</enum><text>the Secretary, in making such request, complies with the requirement of subparagraph (D)(ii) to consider the least burdensome appropriate means of evaluating device effectiveness or subsection (i)(1)(D) to consider the least burdensome means of determining substantial equivalence, as applicable;</text></subclause> 
+<subclause id="HB3CE33D3302D4415BFC8214784982DAD" commented="no"><enum>(II)</enum><text>the Secretary furnishes a written rationale for so requesting the underlying data together with such request; and</text></subclause> <subclause id="HAFC2BD4C425C47E591941F930100FA60" commented="no"><enum>(III)</enum><text>if the requested underlying data for such a study are unavailable, the Secretary shall consider such study to be part of the totality of the evidence with respect to the device, as the Secretary determines appropriate.</text></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body> 
+</bill> 
+

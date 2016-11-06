@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1221 IS: Bulk-Power System Reliability Impact Statement Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1221</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150506">May 6, 2015</action-date>
+			<action-desc><sponsor name-id="S288">Ms. Murkowski</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Power Act to require periodic reports on electricity reliability and
+			 reliability impact statements for rules affecting the reliable operation
+			 of the bulk-power system.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Bulk-Power System Reliability Impact Statement Act</short-title></quote>.</text>
+ </section><section id="idf11f1adc93704850b9c759cbca6308a2"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds that—</text> <paragraph id="idac28ee62300f4790994300c5e5379a60"><enum>(1)</enum><text>no other electricity network in the world provides as much power to as many people as reliably and affordably as the electric grid in the United States, but keeping the lights on in the United States is a highly complex undertaking;</text>
+ </paragraph><paragraph id="idd2d4060758f94f93a2f72fab3e60eca0"><enum>(2)</enum><text>according to the 2015 Quadrennial Energy Review, the electric grid <quote>must handle a diverse and evolving mix of energy sources and energy products; link sources, processors, and users across immense distances; match demands that vary on multiple time scales; co-exist with competing uses of the same systems; and perform 24 hours a day, 365 days a year with high reliability</quote>;</text>
+ </paragraph><paragraph id="idcfb28112419e4908a06d0f7cc24dc32b"><enum>(3)</enum><text>diversity is the key characteristic of the electric system in the United States as the electric grid in the United States is immensely complicated due to the fact that—</text>
+ <subparagraph id="id6c1fca97a6dd4bd8b1a4344d6851f8cf"><enum>(A)</enum><text>wholesale electric service and the bulk-power system have evolved in many different regions of the United States with a variety of ownership and operational structures; and</text>
+ </subparagraph><subparagraph id="idc3aec9d0a2de41bf9fc4270a9450085e"><enum>(B)</enum><text>the electric grid must adapt to managing an increasingly variable energy mix and addressing retiring baseload capacity;</text>
+ </subparagraph></paragraph><paragraph id="id05e8a5366bdb45e4a99a52ef983c9aad"><enum>(4)</enum><text>as set forth in Presidential Policy Directive 21 entitled the <quote>Presidential Policy Directive on Critical Infrastructure Security and Resilience</quote>, even within critical infrastructure of the United States, energy systems are <quote>uniquely critical due to the enabling functions they provide across all critical infrastructure sectors</quote>;</text>
+ </paragraph><paragraph id="id1e44a9c851584faf911012ec50b50955"><enum>(5)</enum><text>the wholesale electric service and the bulk-power system of the United States should provide for the United States electric service that is abundant, affordable, clean, diverse, and secure;</text>
+ </paragraph><paragraph id="id35f492627d7d43f49bc2cfb56dda210a"><enum>(6)</enum><text>Federal regulators empowered by Congress should be directed to use their authority to enable and not impede, on balance, the reliability and affordability of electric service; and</text>
+ </paragraph><paragraph id="idf45b1064797f4876833e96053b36ed2c"><enum>(7)</enum><text>just as the benefits of the electric grid accrue to all, the burden of maintaining the electric grid must also be fairly borne by all.</text>
+ </paragraph></section><section id="idD7C0AEC75FAD494893304AB4C0D26144"><enum>3.</enum><header>Reliability reports</header><text display-inline="no-display-inline">Section 215(g) of the Federal Power Act (<external-xref legal-doc="usc" parsable-cite="usc/16/824o">16 U.S.C. 824o(g)</external-xref>) is amended—</text> <paragraph id="idEA980CBD622845598DB347C811669BE5"><enum>(1)</enum><text display-inline="yes-display-inline">by striking <quote>The ERO</quote> and inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id974C275953A5453495E0D11D40757140" style="OLC">
+ <paragraph id="idD8BA35F1CF4643C68439152E307AFA7B"><enum>(1)</enum><header>In general</header><text>The ERO</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block> </paragraph><paragraph id="id1F7971117B504893A31715413EF418E8"><enum>(2)</enum><text>by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idB66D4C6B80B24002AEF1482399D93463" style="OLC">
+ <paragraph id="idd2bfd08d2d4344978acde126cb341199"><enum>(2)</enum><header>Reliability coordinators</header><text>Not later than 180 days after the date of enactment of this paragraph and not less than every 3 years thereafter, each reliability coordinator registered with the ERO shall submit to the appropriate committees of Congress and the Commission a report that describes, as of the date of the report—</text>
+ <subparagraph commented="no" display-inline="no-display-inline" id="id86C9ED7020D54EFFBB78D5569937FCCF"><enum>(A)</enum><text>the state of and prospects for the reliability and affordability of electricity within the geographic area covered by the reliability coordinator; and</text>
+ </subparagraph><subparagraph id="id3307328b384f402c9e7b9c3a52ae94d0"><enum>(B)</enum><text>the most significant risks to the reliability of the bulk-power system that might arise or need to be monitored within the geographic area covered by the coordinator, including risks from proposed or final Federal regulations.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></section><section id="idDE37A5D713464BD683FC7468CBA4F7DC"><enum>4.</enum><header>Reliability impact statement</header><text display-inline="no-display-inline">Section 215 of the Federal Power Act (<external-xref legal-doc="usc" parsable-cite="usc/16/824o">16 U.S.C. 824o</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id9CCFA7CD92A6422983C15BAD8EFC2DFB" style="OLC">
+				<subsection id="id264872E26115423F8F55CF7E478406E9"><enum>(l)</enum><header>Reliability impact statement</header>
+					<paragraph id="idf2e5e4fd3ad34432bfc77650a954d5f5"><enum>(1)</enum><header>Solicitation by commission</header>
+ <text>Not later than 15 days after the date on which the head of a Federal agency proposes a major rule (as defined in section 804 of title 5, United States Code) that may significantly affect the reliable operation of the bulk-power system, the Commission shall solicit from any applicable reliability coordinator registered with the ERO affected by the proposed rule a reliability impact statement with respect to the proposed rule.</text>
+ </paragraph><paragraph id="id0BB690CFC45C4BE38AB1FD54E7672BF9"><enum>(2)</enum><header>Voluntary submission by reliability coordinator</header><text>A reliability coordinator may prepare, on the initiative of the reliability coordinator, a reliability impact statement for any proposed major Federal rule that the reliability coordinator determines would significantly affect the reliable operation of the bulk-power system within the jurisdiction of the reliability coordinator.</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="idCDBCE08CF6BA4DB08A5E4104A91283DC"><enum>(3)</enum><header display-inline="yes-display-inline">Multijurisdictional coordination</header><text display-inline="yes-display-inline">If a proposed rule subject to a reliability impact statement under paragraph (1) or (2) affects an area broader than the jurisdiction of a single reliability coordinator, the ERO shall convene a committee of the affected reliability coordinators to produce a single reliability impact statement that demonstrates for each affected area the reliability impact of the proposed rule.</text>
+ </paragraph><paragraph id="id18D2DEC49C174D44AAC4594BEA36A8E7"><enum>(4)</enum><header>Requirements</header><text display-inline="yes-display-inline">A reliability impact statement under paragraph (1) or (2) shall include a detailed statement on—</text>
+ <subparagraph id="id0077ca1c60484cc8a06fb2a7916b3f1f"><enum>(A)</enum><text>the impact of the proposed rule on the reliable operation of the bulk-power system;</text> </subparagraph><subparagraph id="idff427c5796974b8a885eecb582cad7e2"><enum>(B)</enum><text>any adverse effects on the reliable operation of the bulk-power system if the proposed rule was implemented; and</text>
+ </subparagraph><subparagraph id="id273c05839ea14c369218e246ecc6c08a"><enum>(C)</enum><text>alternatives to cure the identified adverse reliability impacts, including, at the discretion of the reliability coordinator, a no-action alternative.</text>
+ </subparagraph></paragraph><paragraph id="idD866349514B44BEFBE05591C7612B34F"><enum>(5)</enum><header>Submission to commission</header><text>On completion of a reliability impact statement under paragraph (1) or (2), the reliability coordinator or a committee of affected reliability coordinators convened under paragraph (3) shall submit to the Commission the reliability impact statement.</text>
+ </paragraph><paragraph id="idAC0D63A8008D4BCAA273D07FC22F018F"><enum>(6)</enum><header>Transmittal to head of federal agency</header><text>On receipt of a reliability impact statement submitted to the Commission under paragraph (5), the Commission shall transmit to the head of the applicable Federal agency the reliability impact statement prepared under this subsection for inclusion in the public record.</text>
+ </paragraph><paragraph id="idb7972d12c2024dafa9a0c93d23115361"><enum>(7)</enum><header>Inclusion of detailed response in final rule</header><text>In issuing a proposed major rule subject to a reliability impact statement prepared under paragraph (1) or (2), the head of the Federal agency shall—</text>
+ <subparagraph id="idC99EBA4146DD4A6696F8E883D1D75B5C"><enum>(A)</enum><text>consider the reliability impact statement in issuing the proposed major rule; and</text> </subparagraph><subparagraph id="idF86E3B0D2C664D1BA3374C85E91DE8EC"><enum>(B)</enum><text>include in the final rule a detailed response to the reliability impact statement.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

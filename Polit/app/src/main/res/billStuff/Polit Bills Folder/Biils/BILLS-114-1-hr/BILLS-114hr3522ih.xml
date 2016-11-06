@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HFC6DE273E9C44B8FAD7218B433D7E429" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3522 IH: PROVE Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3522</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150916">September 16, 2015</action-date>
+			<action-desc><sponsor name-id="B001292">Mr. Beyer</sponsor> (for himself, <cosponsor name-id="E000288">Mr. Ellison</cosponsor>, <cosponsor name-id="S001193">Mr. Swalwell of California</cosponsor>, <cosponsor name-id="J000032">Ms. Jackson Lee</cosponsor>, <cosponsor name-id="G000559">Mr. Garamendi</cosponsor>, <cosponsor name-id="M001137">Mr. Meeks</cosponsor>, <cosponsor name-id="H001038">Mr. Higgins</cosponsor>, <cosponsor name-id="C000984">Mr. Cummings</cosponsor>, <cosponsor name-id="H001034">Mr. Honda</cosponsor>, and <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the National Voter Registration Act of 1993 to require each State to implement a process
+			 under which individuals who are 16 years of age may apply to register to
+			 vote in elections for Federal office in the State, to direct the Election
+			 Assistance Commission to make grants to States to increase the involvement
+			 of minors in public election activities, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HDEDA2A3824684601A5F0673ADA741117" style="OLC">
+ <section id="HA98D73BFD9204AF1A39A104B528840A7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Pre-Registration of Voters Everywhere Act</short-title></quote> or the <quote>PROVE Act</quote>.</text> </section><section id="HB620F1E549DA4B4D90FDAB92676E8DD6"><enum>2.</enum><header>Pre-registration of minors for voting in Federal elections</header> <subsection id="HF535092360F142968D34F0D2C4A2A4FC"><enum>(a)</enum><header>Requiring Implementation of Process</header><text display-inline="yes-display-inline">The National Voter Registration Act of 1993 (<external-xref legal-doc="usc" parsable-cite="usc/52/20501">52 U.S.C. 20501 et seq.</external-xref>) is amended by inserting after section 8 the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="H6F422F257F4C42A48A6150A5C27CB3D3" style="OLC">
+					<section id="HF87DDA5A142146BA917DD72F6C6D809A"><enum>8A.</enum><header>Pre-registration process for minors</header>
+ <subsection id="HAD08545C549D4801A07EEC6B41BA53CB"><enum>(a)</enum><header>Requiring Implementation of Pre-Registration Process</header><text display-inline="yes-display-inline">Each State shall implement a process under which—</text> <paragraph id="HAD44C45A7F5D42F78EDBAB5AFAE25760"><enum>(1)</enum><text>an individual who is a resident of the State may apply to register to vote in elections for Federal office in the State at any time after the individual turns 16 years of age; and</text>
+ </paragraph><paragraph id="H92C040BA269C4625884959279995E45E"><enum>(2)</enum><text>if the individual is not 18 years of age or older at the time the individual applies under paragraph (1) but would be eligible to vote in such elections if the individual were 18 years of age, the State shall ensure that the individual is registered to vote in elections for Federal office in the State that are held on or after the date on which the individual turns 18 years of age.</text>
+ </paragraph></subsection><subsection id="HFA49B500FB4242129620BEA44AFADAE6"><enum>(b)</enum><header>Permitting Availability of Process for Younger Individuals</header><text>A State may, at its option, make the process implemented under subsection (a) available to individuals who are younger than 16 years of age.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HC8F4BB0E62D84750A008D00C3B8C37D3"><enum>(b)</enum><header>Effective Date</header><text>The amendment made by subsection (a) shall take effect upon the expiration of the 90-day period that begins on the date of the enactment of this Act.</text>
+			</subsection></section><section id="HD36161011B184525914F29AD60678174"><enum>3.</enum><header>Grants to States for Activities to Encourage Involvement of Minors in Election Activities</header>
+			<subsection id="HE9723E09CCD8486DA3A2855272E114F5"><enum>(a)</enum><header>Grants</header>
+ <paragraph id="H04C3699782BA46B1A6BD3B34335CDD07"><enum>(1)</enum><header>In general</header><text>The Election Assistance Commission (hereafter in this section referred to as the <quote>Commission</quote>) shall make grants to eligible States to enable such States to carry out a plan to increase the involvement of individuals under 18 years of age in public election activities in the State.</text>
+ </paragraph><paragraph id="HDF899653D37F4910BFB38B81659B5EF4"><enum>(2)</enum><header>Contents of plans</header><text>A State’s plan under this subsection shall include—</text> <subparagraph id="H5E713BC80E4941149AA5357C9B1B5E0C"><enum>(A)</enum><text>methods to promote the use of the pre-registration process implemented under section 8A of the National Voter Registration Act of 1993 (as added by section 2(a));</text>
+ </subparagraph><subparagraph id="HC2B103A00BB04947814C24A42910D988"><enum>(B)</enum><text>modifications to the curriculum of secondary schools in the State to promote civic engagement; and</text> </subparagraph><subparagraph id="HB779DC5F3297452688BC9963AB41A236"><enum>(C)</enum><text>such other activities to encourage the involvement of young people in the electoral process as the State considers appropriate.</text>
+ </subparagraph></paragraph></subsection><subsection id="HCF4E6D5E5624498EB83CB24BA18B1615"><enum>(b)</enum><header>Eligibility</header><text>A State is eligible to receive a grant under this section if the State submits to the Commission, at such time and in such form as the Commission may require, an application containing—</text>
+ <paragraph id="HC1B97BF267E6482A9627246C5A0E4049"><enum>(1)</enum><text>a description of the State’s plan under subsection (a);</text> </paragraph><paragraph id="H65410DF802464D138638A787039840AB"><enum>(2)</enum><text>a description of the performance measures and targets the State will use to determine its success in carrying out the plan; and</text>
+ </paragraph><paragraph id="H33A600A3C0074B2BBADDE35873CA3908"><enum>(3)</enum><text>such other information and assurances as the Commission may require.</text> </paragraph></subsection><subsection id="H11F5DFED55744E0E96CABBF70703C056"><enum>(c)</enum><header>Period of Grant; Report</header> <paragraph id="HFA1BD18FD37C42F0B29E147960369789"><enum>(1)</enum><header>Period of grant</header><text>A State receiving a grant under this section shall use the funds provided by the grant over a 2-year period agreed to between the State and the Commission.</text>
+ </paragraph><paragraph id="HC824797CE5B244CFB35892A7912A921F"><enum>(2)</enum><header>Report</header><text>Not later than 6 months after the end of the 2-year period agreed to under paragraph (1), the State shall submit to the Commission a report on the activities the State carried out with the funds provided by the grant, and shall include in the report an analysis of the extent to which the State met the performance measures and targets included in its application under subsection (b)(2).</text>
+ </paragraph></subsection><subsection id="H21F7D22F0CFF4D2D88E5D7F8B7877DD9"><enum>(d)</enum><header>State Defined</header><text>In this section, the term <term>State</term> means each of the several States and the District of Columbia.</text> </subsection><subsection id="H0719EC64E23A47E4BCBF101EEB8CCDB6"><enum>(e)</enum><header>Authorization of Appropriations</header><text>There are authorized to be appropriated for grants under this section $25,000,000, to remain available until expended.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

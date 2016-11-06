@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H620F7F53B6F84BE287ED0048E4911256" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1012 IH: MediFair Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1012</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150217">February 17, 2015</action-date>
+			<action-desc><sponsor name-id="S000510">Mr. Smith of Washington</sponsor> (for himself, <cosponsor name-id="H001064">Mr. Heck of Washington</cosponsor>, <cosponsor name-id="M000404">Mr. McDermott</cosponsor>, and <cosponsor name-id="K000381">Mr. Kilmer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to improve the provision of items and services
+			 provided to Medicare beneficiaries residing in rural areas, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="H4CE16D289FB94F68A1B95AD623F8E115" style="OLC">
+ <section id="H32DAB0B4470A4D7AA4DE0993E810237A" section-type="section-one"><enum>1.</enum><header>Short Title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>MediFair Act of 2015</short-title></quote>.</text> </section><section id="H03A36434BB5C457E842EFA5E645F13D0"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress makes the following findings:</text>
+ <paragraph id="H347FB87FF3864498A0AADC5CAB08EBE0"><enum>(1)</enum><text>Regional inequities in Medicare reimbursement have created barriers to care for seniors and the disabled.</text>
+ </paragraph><paragraph id="H8C35EF414EEA4DAE9D5EE7AFB4E99C20"><enum>(2)</enum><text>The regional inequities in Medicare reimbursement penalize States that have cost-effective health care delivery systems and reward those States with high utilization rates and that provide inefficient care.</text>
+ </paragraph><paragraph id="HE785828985DC4FD2B5A268B34A642131"><enum>(3)</enum><text>Comparatively, in 2007, the average per capita spending under traditional Medicare was $8,682 for beneficiaries in the United States, $7,320 for beneficiaries in Seattle, $11,303 for those in Los Angeles, and $17,274 for those in Miami.</text>
+ </paragraph><paragraph id="H5FECE926E61F448CBB36C14FA0C9FE7E"><enum>(4)</enum><text>Over a lifetime, regional inequities can mean as much as a $125,000 difference in the cost of care provided per beneficiary.</text>
+ </paragraph><paragraph id="H54AFB84A540C41C683D33844E8A5D7D2"><enum>(5)</enum><text>Regional inequities have resulted in creating very different Medicare programs and amount of care received for seniors and the disabled based on where they live.</text>
+ </paragraph><paragraph id="HD7770C385ACF479EB3B718E3F04AB271"><enum>(6)</enum><text>Because the Medicare Advantage rate is based on the fee-for-service reimbursement rate, regional inequities have allowed some Medicare beneficiaries access to Medicare Advantage plans with significantly more benefits and reduced cost sharing. Beneficiaries in States with lower Medicare Advantage reimbursement rates have not benefitted to the same degree as beneficiaries in other parts of the country.</text>
+ </paragraph><paragraph id="H7EA4FEBF72FB48DC877CDB56BD5F37C8"><enum>(7)</enum><text>Regional inequities in Medicare reimbursement have created an unfair competitive advantage for hospitals and other health care providers in States that receive above average payments. Higher payments mean that those providers can pay higher salaries in a tight, competitive market.</text>
+ </paragraph><paragraph id="H56CE6545F0A24C7A86CA0E92F41E94DB"><enum>(8)</enum><text>Regional inequities in Medicare reimbursement, if left unchecked, will reduce access to Medicare services and impact healthy outcomes for beneficiaries.</text>
+ </paragraph></section><section id="H5795B629737244348D38B5C5E4D4967C"><enum>3.</enum><header>Improving fairness of payments to providers under the medicare fee-for-service program</header><text display-inline="no-display-inline">Title XVIII of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395">42 U.S.C. 1395 et seq.</external-xref>) is amended by adding at the end the following new section:</text>
+			<quoted-block id="H1210A984616642F3B96E1C030D1D1B41" style="traditional">
+ <section id="H1CAB95F3568D40818BE6EB679723E72C"><enum>1899C.</enum><header>IMPROVING PAYMENT EQUITY UNDER THE ORIGINAL MEDICARE FEE-FOR-SERVICE PROGRAM</header><subsection commented="no" display-inline="yes-display-inline" id="H3865309DFDAD4ED4810149D698F85357"><enum>(a)</enum><header>In General</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, the Secretary shall establish a system for making adjustments to the amount of payment made to entities and individuals for items and services provided under the original Medicare fee-for-service program under parts A and B.</text>
+					</subsection><subsection id="HC4584D7F1403480798021B367942424A"><enum>(b)</enum><header>System requirements</header>
+ <paragraph id="H33EFDB5E0A6443C28EEBE1653982853F"><enum>(1)</enum><header>Increase for states below the national average</header><text display-inline="yes-display-inline">Under the system established under subsection (a), if a State average per beneficiary amount for a year is less than the national average per beneficiary amount for such year, then the Secretary (beginning in 2017) shall increase the amount of applicable payments in such a manner as will result (as estimated by the Secretary) in the State average per beneficiary amount for the subsequent year being equal to the national average per beneficiary amount for such subsequent year.</text>
+						</paragraph><paragraph id="HCD4A147C3269412C87D2E9B123313E28"><enum>(2)</enum><header>Reduction for certain states above the national average to enhance quality care and maintain budget
+			 neutrality</header>
+ <subparagraph id="HA22600706E9043F99E96D378BE97AE89"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary shall ensure that the increase in payments under paragraph (1) does not cause the estimated amount of expenditures under this title for a year to increase or decrease from the estimated amount of expenditures under this title that would have been made in such year if this section had not been enacted by reducing the amount of applicable payments in each State that the Secretary determines has—</text>
+ <clause id="H1051806B5A2B46F3B70E045411A9E4F7"><enum>(i)</enum><text display-inline="yes-display-inline">a State average per beneficiary amount for a year that is greater than the national average per beneficiary amount for such year; and</text>
+ </clause><clause id="H5902FB5D5A40454A86894918D482F078"><enum>(ii)</enum><text display-inline="yes-display-inline">healthy outcome measurements or quality care measurements that indicate that a reduction in applicable payments would encourage more efficient use of, and reduce overuse of, items and services for which payment is made under this title.</text>
+ </clause></subparagraph><subparagraph id="H151C2ABC210F4F3BB4ACB2A052E30477"><enum>(B)</enum><header>Limitation</header><text>The Secretary shall not reduce applicable payments under subparagraph (A) to a State that—</text> <clause id="H2A09FED079ED49AB8A5AEB58339A91E5"><enum>(i)</enum><text display-inline="yes-display-inline">has a State average per beneficiary amount for a year that is greater than the national average per beneficiary amount for such year; and</text>
+ </clause><clause id="H93798294A0F6461CAC2F7A5D0376606A"><enum>(ii)</enum><text display-inline="yes-display-inline">has healthy outcome measurements or quality care measurements that indicate that the applicable payments are being used to improve the access of beneficiaries to quality care.</text>
+								</clause></subparagraph></paragraph><paragraph id="H7B4F566743FF434EAA14BB34CC57CBEC"><enum>(3)</enum><header>Determination of averages</header>
+ <subparagraph id="HE0FF7F4F9B4643779D85E7E881E285EC"><enum>(A)</enum><header>State average per beneficiary amount</header><text display-inline="yes-display-inline">Each year (beginning in 2017), the Secretary shall determine a State average per beneficiary amount for each State which shall be equal to the Secretary's estimate of the average amount of expenditures under the original Medicare fee-for-service program under parts A and B for the year for a beneficiary enrolled under such parts that resides in the State.</text>
+ </subparagraph><subparagraph id="H906FBDD800B4434E8BDAA714B1E873D4"><enum>(B)</enum><header>National average per beneficiary amount</header><text display-inline="yes-display-inline">Each year (beginning in 2017), the Secretary shall determine the national average per beneficiary amount which shall be equal to the average of the State average per beneficiary amount determined under subparagraph (A) for the year.</text>
+ </subparagraph></paragraph><paragraph id="HF007100DA15A49528F27CBCF581CF9F6"><enum>(4)</enum><header>Definitions</header><text>In this section:</text> <subparagraph id="H7776F379040E4642A60E2BA3D824A3FF"><enum>(A)</enum><header>Applicable payments</header><text display-inline="yes-display-inline">The term <term>applicable payments</term> means payments made to entities and individuals for items and services provided under the original Medicare fee-for-service program under parts A and B to beneficiaries enrolled under such parts that reside in the State.</text>
+ </subparagraph><subparagraph id="HC6C509BAE6C548F1BFB3C0526722CEC4"><enum>(B)</enum><header>State</header><text>The term <term>State</term> has the meaning given such term in section 210(h).</text> </subparagraph></paragraph></subsection><subsection id="H0A46A567C16F4BD292696E36B2105E72"><enum>(c)</enum><header>Beneficiaries held harmless</header><text>The provisions of this section shall not affect—</text>
+ <paragraph id="H556A52CCCEB0482F9388C8BD4BEB92F2"><enum>(1)</enum><text display-inline="yes-display-inline">the entitlement to items and services of a beneficiary under this title, including the scope of such items and services; or</text>
+ </paragraph><paragraph id="H8C1CD285614649DABCEE54EC4885C308"><enum>(2)</enum><text display-inline="yes-display-inline">any liability of the beneficiary with respect to such items and services.</text> </paragraph></subsection><subsection id="H9448424AA608419C9740CB25FA1233C3"><enum>(d)</enum><header>Regulations</header> <paragraph id="H41AF07FB714648DFBEB5D65B3BBBDF10"><enum>(1)</enum><header>In general</header><text>The Secretary, in consultation with the Medicare Payment Advisory Commission, shall promulgate regulations to carry out this section.</text>
+ </paragraph><paragraph id="HEC0633FE431B43ADB395EFC9BC99204F"><enum>(2)</enum><header>Protecting rural communities</header><text>In promulgating the regulations pursuant to paragraph (1), the Secretary shall give special consideration to rural areas.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="H38FC3E005DCA4D73991C97DBE4FC0F52"><enum>4.</enum><header>Medpac recommendations on healthy outcomes and quality care</header>
+ <subsection id="HE81FF79F99E44A16862E1AA484202541"><enum>(a)</enum><header>Recommendations</header><text>The Medicare Payment Advisory Commission established under section 1805 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395b-6">42 U.S.C. 1395b–6</external-xref>) shall develop recommendations on policies and practices that, if implemented, would encourage—</text>
+ <paragraph id="HC4F9DCBC4A99477C914E06AF11F34476"><enum>(1)</enum><text display-inline="yes-display-inline">healthy outcomes and quality care under the Medicare program in States with respect to which payments are reduced under section 1899B(b)(2) of such Act (as added by section 3); and</text>
+ </paragraph><paragraph id="HF9E20C10A83245328148E1D509CF28F7"><enum>(2)</enum><text display-inline="yes-display-inline">the efficient use of payments made under the Medicare program in such States.</text> </paragraph></subsection><subsection id="H21EC50B8C80D424AB1BE251D1C44B35C"><enum>(b)</enum><header>Submission</header><text display-inline="yes-display-inline">Not later than the date that is 9 months after the date of the enactment of this Act, the Commission shall submit to Congress the recommendations developed under subsection (a).</text>
+			</subsection></section></legis-body>
+</bill>
+
+

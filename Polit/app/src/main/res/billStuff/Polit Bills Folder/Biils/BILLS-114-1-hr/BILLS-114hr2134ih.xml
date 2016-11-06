@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB839BE842B6E48A3B360778E72F0D195" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2134 IH: Listing Reform Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2134</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150430">April 30, 2015</action-date> 
+<action-desc><sponsor name-id="O000168">Mr. Olson</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Endangered Species Act of 1973 to require review of the economic cost of adding a species to the list of endangered species or threatened species, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H119ABE458BE448D48DD2B48CBDFE436C" style="OLC">
+<section id="HF8A11126938E4DDA990D42E6191468A5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Listing Reform Act</short-title></quote>.</text></section> <section id="H5B5E365A094D4DB8AA84874A07E481FC" section-type="subsequent-section"><enum>2.</enum><header>Consideration of economic cost in review of listing petitions under Endangered Species Act of 1973</header> <subsection id="H6EEF74C858BA44AC89526CFDB8FB604C"><enum>(a)</enum><header>Consideration required</header><text display-inline="yes-display-inline">Section 4(b)(3) of the Endangered Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1533">16 U.S.C. 1533(b)(3)</external-xref>) is amended—</text> 
+<paragraph id="HAE8672B83B8C46F8AE127241EB778D7A"><enum>(1)</enum><text>in subparagraph (A)—</text> <subparagraph id="H634F12FE599048848A375280EBBC100A"><enum>(A)</enum><text>by striking <quote>To the maximum extent practicable, within 90 days after</quote> and inserting <quote>(i) After</quote>; and</text></subparagraph> 
+<subparagraph id="H0021BA78D6714D5EBB37707EB73F6DA8"><enum>(B)</enum><text>by adding at the end the following:</text> <quoted-block style="OLC" id="H5DF58BC43AC54FE386E049F7B4CCCDB4" display-inline="no-display-inline"> <clause id="HE79C9C772B8E41E1B05D9BB60C2D7FDD" indent="up3"><enum>(ii)</enum><text display-inline="yes-display-inline">The Secretary may prioritize the consideration of petitions under this subparagraph other than in the order in which the petitions are received, except the Secretary may not give general priority to petitions to add species to such a list over petitions to remove a species from such a list.</text></clause><after-quoted-block>;</after-quoted-block></quoted-block></subparagraph></paragraph> 
+<paragraph id="H948F6361487D4D208E52BBCD4B8D157C"><enum>(2)</enum><text>in subparagraph (B)—</text> <subparagraph id="HAC1214CC041340EDB84ECB78F05261A6"><enum>(A)</enum><text>in the matter preceding clause (i), by striking <quote>Within 12 months</quote> and inserting <quote>As expeditiously as practicable</quote>; and</text></subparagraph> </paragraph> </subsection> 
+<subsection id="HBB376D001F294056BDF49702B2ABC124"><enum>(b)</enum><header>Consideration of significant, cumulative economic effects</header> 
+<paragraph id="H7103CA2AD3FD48F9B99E105BA66497FD"><enum>(1)</enum><header>In general</header><text>Section 4(b)(3)(B) of the Endangered Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1533">16 U.S.C. 1533(b)(3)(B)</external-xref>) is amended by adding at the end the following:</text> <quoted-block style="OLC" id="H2C2C1EFC691C4EE19F23A20A385A7B48" display-inline="no-display-inline"> <clause id="H0474477D93004FD2A5B908DFD49700D1" indent="up2"><enum>(iv)</enum> <subclause id="H9DA91ED9491346AC81A4B15DEF34DE8F" display-inline="yes-display-inline"><enum>(I)</enum><text>In the case of a petition to add a species to a list of threatened species, the petitioned action may be warranted but is precluded due to the likelihood of significant, cumulative economic effects that would result from listing or, to the extent it can be determined, from the likely resulting designation of critical habitat of the species.</text></subclause> 
+<subclause id="H37D13B08B71A4B87B294D96BBC55FED9" indent="up1"><enum>(II)</enum><text>The Secretary may not reconsider such finding unless—</text> <item id="H2AB4079A8A21470F9FABBC78808C2BDC"><enum>(aa)</enum><text>the Secretary determines there is endangerment of extinction of the species; or</text></item> 
+<item id="H70A733F6268748B68052D54888DF58E0"><enum>(bb)</enum><text>the Secretary receives a new petition to add such species to such list that includes a written qualitative and quantitative analyses reexamining the incremental and significant, cumulative economic effects of likely actions to protect the petitioned species and its potential habitat upon each State and locality that is affected by the petitioned species listing and that, in the opinion of the Secretary, credibly concludes that alternative actions are possible other than those resulting in significant, cumulative economic effects.</text> </item></subclause> <subclause id="H5223EE35A43E4D3CA7F565E80B3040E0" indent="up1"><enum>(III)</enum><text display-inline="yes-display-inline">In this clause the term <quote>significant, cumulative economic effects</quote> includes economic effects on—</text> 
+<item id="H57DACAABC24149F79CAC41427B322414" display-inline="no-display-inline"><enum>(aa)</enum><text display-inline="yes-display-inline">public land and, to the maximum extent practicable, private land and property values;</text></item> <item id="H1D61031DA05C4C8290DEACED7A773F0E"><enum>(bb)</enum><text>the provision of water, power, or other public services;</text></item> 
+<item id="H49F8B3BF3E5542FA8FFC3393F6C74510"><enum>(cc)</enum><text>employment; and</text></item> <item id="H2EAEBE89793241AF99D285BCD6D65737"><enum>(dd)</enum><text>revenues available for State and local governments.</text></item></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block></paragraph> 
+<paragraph id="H159599995DBC4062ACB276CD81C6F5C1"><enum>(2)</enum><header>Conforming amendment</header><text display-inline="yes-display-inline">Section 4(b)(1) of the Endangered Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1533">16 U.S.C. 1533(b)(1)</external-xref>) is amended by inserting <quote>(except as provided in clause (iv) of paragraph (3)(B))</quote> after <quote>solely</quote>.</text></paragraph></subsection> </section> </legis-body> </bill> 
+

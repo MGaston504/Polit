@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1451 IS: Veterans' Survivors Claims Processing Automation Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1451</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150521">May 21, 2015</action-date>
+			<action-desc><sponsor name-id="S361">Ms. Hirono</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSVA00">Committee on Veterans' Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to adjudicate
+			 and pay survivor's benefits without requiring the filing of a formal
+			 claim, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+ <section id="id7AD89B70BF734726B5FCA1F4498CAFDC" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans' Survivors Claims Processing Automation Act of 2015</short-title></quote>.</text> </section><section id="id0F51DBBA813F488CA2DE67E6FA1E4783" section-type="subsequent-section"><enum>2.</enum><header>Expedited payment of survivor's benefits</header> <subsection id="idC79D0C36DCEB436A9CB9DAE3622525AB"><enum>(a)</enum><header>In general</header><text>Section 5101(a)(1) of title 38, United States Code, is amended—</text>
+ <paragraph id="id83770EBFF3DE4A2B830E9333FA1D3F21"><enum>(1)</enum><text>by striking <quote>A specific</quote> and inserting <quote>(A) Except as provided in subparagraph (B), a specific</quote>; and</text> </paragraph><paragraph id="idAD799518440340BD840DC58FD8E54CFF"><enum>(2)</enum><text>by adding at the end the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="id4CD29420B5B04280BF556AEBD7BC2782" style="OLC">
+ <subparagraph id="ida46c85e9a1e24050bf6342ecb53fe385" indent="up2"><enum>(B)</enum><clause commented="no" display-inline="yes-display-inline" id="id54E36F2B37A94D438128BF2994849E98"><enum>(i)</enum><text>The Secretary may pay benefits under chapters 13 and 15 and sections 2302, 2307, and 5121 of this title to a survivor of a veteran who has not filed a formal claim if the Secretary determines that the record contains sufficient evidence to establish the entitlement of the survivor to such benefits.</text>
+ </clause><clause id="id84366DEB0F5B47689DAE4ADCC9664D7B" indent="up1"><enum>(ii)</enum><text>For purposes of this subparagraph and section 5110 of this title, the date on which a survivor of a veteran notifies the Secretary of the death of the veteran shall be treated as the date of the receipt of the survivor's application for benefits described in clause (i).</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="idde45033cf8464060b168cf546bdcb217"><enum>(b)</enum><header>Effective date</header><text>The amendments made by subsection (a) shall apply with respect to claims for benefits based on a death occurring on or after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

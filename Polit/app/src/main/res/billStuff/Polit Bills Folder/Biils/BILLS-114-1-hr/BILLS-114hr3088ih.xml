@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC72FF443387F405A973A669B347530B6" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3088 IH: Leveraging and Energizing America’s Apprenticeship Programs Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3088</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150716">July 16, 2015</action-date>
+			<action-desc><sponsor name-id="D000619">Mr. Rodney Davis of Illinois</sponsor> (for himself and <cosponsor name-id="L000563">Mr. Lipinski</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HGO00">Oversight and Government Reform</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to allow employers a credit against income tax for
+			 employees who participate in qualified apprenticeship programs.</official-title>
+	</form>
+	<legis-body id="HDFCD01722D4A465D84CBA41F2DB7FB74" style="OLC">
+ <section id="HCF37D504CBB142EBA344839678DB2A02" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Leveraging and Energizing America’s Apprenticeship Programs Act</short-title></quote> or the <quote><short-title>LEAP Act</short-title></quote>.</text> </section><section id="H23CDA1DA7FF64C3E96351F1FF0E6C641"><enum>2.</enum><header>Credit for employees participating in qualified apprenticeship programs</header> <subsection id="HAF3E4E77AC3D4256831E39B479A35F3F"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subpart D of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HA6E3BE901DC74EB88428C7082C872B5C" style="OLC">
+					<section id="H70B7439353C3445499DBB01FFF596B80"><enum>45S.</enum><header>Employees participating in qualified apprenticeship programs</header>
+ <subsection id="HBAB1630B49AA4B909E3EAC86B75473DB"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">For purposes of section 38, the apprenticeship credit determined under this section for the taxable year is an amount equal to the sum of the applicable credit amounts (as determined under subsection (b)) for each of the apprenticeship employees of the employer that exceeds the applicable apprenticeship level (as determined under subsection (e)) during such taxable year.</text>
+ </subsection><subsection id="HAFF8FD3425F144B4BAEDFA6240AA24B8"><enum>(b)</enum><header>Applicable credit amount</header><text display-inline="yes-display-inline">For purposes of subsection (a), the applicable credit amount for each apprenticeship employee for each taxable year is equal to—</text>
+ <paragraph id="HCC9ED14E04D84168AC298B1AA1815FD0"><enum>(1)</enum><text>in the case of an apprenticeship employee who has not attained 25 years of age at the close of the taxable year, $1,500, or</text>
+ </paragraph><paragraph id="H623F31C3B4B1434FA9B84661D1E0C5FB"><enum>(2)</enum><text>in the case of an apprenticeship employee who has attained 25 years of age at the close of the taxable year, $1,000.</text>
+ </paragraph></subsection><subsection id="H69EC27BE48BE47CC8B3506AB045B24BD"><enum>(c)</enum><header>Limitation on number of years which credit may be taken into account</header><text>The apprenticeship credit shall not be allowed for more than 2 taxable years with respect to any apprenticeship employee.</text>
+ </subsection><subsection id="HAEFC1AC344814C5F920CD2F94ACC0F05"><enum>(d)</enum><header>Apprenticeship employee</header><text display-inline="yes-display-inline">For purposes of this section, the term <term>apprenticeship employee</term> means any employee who is employed by the employer—</text> <paragraph id="H4F07B0BF4C244BA4934A8CA2D1EC55CA"><enum>(1)</enum><text display-inline="yes-display-inline">in an officially recognized apprenticeable occupation, as determined by the Office of Apprenticeship of the Employment and Training Administration of the Department of Labor, and</text>
+ </paragraph><paragraph id="HFFA4B2A9B23D48E5B470C6385ADD666C"><enum>(2)</enum><text display-inline="yes-display-inline">pursuant to an apprentice agreement registered with—</text> <subparagraph id="HA68BAC7D8C39412491F2AEA185C294D7"><enum>(A)</enum><text display-inline="yes-display-inline">the Office of Apprenticeship of the Employment and Training Administration of the Department of Labor, or</text>
+ </subparagraph><subparagraph id="H1AD858DF49F246E89D37095F1192414D"><enum>(B)</enum><text>a State apprenticeship agency.</text> </subparagraph></paragraph></subsection><subsection id="H8D9571F5328741B388EC37D11A98D145"><enum>(e)</enum><header>Applicable apprenticeship level</header> <paragraph id="H66568FE04C0F475DA06FDFD8AC6A3A56"><enum>(1)</enum><header>In general</header><text>For purposes of this section, the applicable apprenticeship level shall be equal to—</text>
+ <subparagraph id="H97296964C8A6443697FCEB14DD0AD23E"><enum>(A)</enum><text>in the case of any apprenticeship employees described in subsection (b)(1), the amount equal to 80 percent of the average number of such apprenticeship employees of the employer for the 3 taxable years preceding the taxable year for which the credit is being determined, rounded to the next lower whole number; and</text>
+ </subparagraph><subparagraph id="H3679F28055464F3A8749C71CBADBC368"><enum>(B)</enum><text>in the case of any apprenticeship employees described in subsection (b)(2), the amount equal to 80 percent of the average number of such apprenticeship employees of the employer for the 3 taxable years preceding the taxable year for which the credit is being determined, rounded to the next lower whole number.</text>
+ </subparagraph></paragraph><paragraph id="HE317C6B1CA074554BE5CC3FFAE531441"><enum>(2)</enum><header>First year of new apprenticeship programs</header><text>In the case of an employer which did not have any apprenticeship employees during any taxable year in the 3 taxable years preceding the taxable year for which the credit is being determined, the applicable apprenticeship level shall be equal to zero.</text>
+ </paragraph></subsection><subsection id="H695A673B07A6436CA4801A2259887863"><enum>(f)</enum><header>Coordination with other credits</header><text>The amount of credit otherwise allowable under sections 45A, 51(a), and 1396(a) with respect to any employee shall be reduced by the credit allowed by this section with respect to such employee.</text>
+ </subsection><subsection id="HE0466A59ED384AEE876A2EBEFA840FC5"><enum>(g)</enum><header>Certain rules To apply</header><text>Rules similar to the rules of subsections (i)(1) and (k) of section 51 shall apply for purposes of this section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HB72380C87ADF4650AC1C2AA9C11E3FB7"><enum>(b)</enum><header>Credit made part of general business credit</header><text display-inline="yes-display-inline">Subsection (b) of section 38 of such Code is amended by striking <quote>plus</quote> at the end of paragraph (35), by striking the period at the end of paragraph (36) and inserting <quote>, plus</quote>, and by adding at the end the following new paragraph:</text> <quoted-block display-inline="no-display-inline" id="H140A4DF109394021B4F27B6EB76E7991" style="OLC"> <paragraph id="HDB687D4247BC41F4B7F69BFA6A728F70"><enum>(37)</enum><text display-inline="yes-display-inline">the apprenticeship credit determined under section 45S(a).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HF0EDA47EB69043B8BE1F9403DE621565"><enum>(c)</enum><header>Denial of double benefit</header><text>Subsection (a) of section 280C of such Code is amended by inserting <quote>45S(a),</quote> after <quote>45P(a),</quote>.</text> </subsection><subsection id="HD86FDFC5951148E188FCB47D64C734BD"><enum>(d)</enum><header>Clerical amendment</header><text>The table of sections for subpart D of part IV of subchapter A of chapter 1 of such Code is amended by adding at the end the following new item:</text>
+				<toc regeneration="no-regeneration">
+					<toc-entry level="section"><quote>Sec. 45S. Employees participating in qualified apprenticeship programs.</quote>.</toc-entry></toc>
+ </subsection><subsection id="HE5F376643FD7407796D3DE01F23E6DD8"><enum>(e)</enum><header>Effective date</header><text>The amendments made by this section shall apply to individuals commencing apprenticeship programs after the date of the enactment of this Act.</text>
+ </subsection></section><section id="H0CF78D91FD2E420B9BA364B20A968241"><enum>3.</enum><header>Limitation on government printing costs</header><text display-inline="no-display-inline">Not later than 90 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall coordinate with the heads of Federal departments and independent agencies to—</text>
+ <paragraph id="H16B34CAB83F842F787FE972F1FD65141"><enum>(1)</enum><text>determine which Government publications could be available on Government websites and no longer printed and to devise a strategy to reduce overall Government printing costs over the 10-year period beginning with fiscal year 2016, except that the Director shall ensure that essential printed documents prepared for social security recipients, Medicare beneficiaries, and other populations in areas with limited Internet access or use continue to remain available;</text>
+ </paragraph><paragraph id="H434E1A92CE7644AD932CF2AAE70126F2"><enum>(2)</enum><text>establish Government-wide Federal guidelines on employee printing; and</text> </paragraph><paragraph id="H1A12C4653C784ABD94AF7AE3A1916211"><enum>(3)</enum><text>issue guidelines requiring every department, agency, commission, or office to list at a prominent place near the beginning of each publication distributed to the public and issued or paid for by the Federal Government—</text>
+ <subparagraph id="H87A1B322FD854639AE989171CD16FF51"><enum>(A)</enum><text>the name of the issuing agency, department, commission, or office;</text> </subparagraph><subparagraph id="H9E632FAFDD3B45B785CADA189769C5CC"><enum>(B)</enum><text>the total number of copies of the document printed;</text>
+ </subparagraph><subparagraph id="H16AFCA1D0FDC408590590BD2A92C381D"><enum>(C)</enum><text>the collective cost of producing and printing all of the copies of the document; and</text> </subparagraph><subparagraph id="H4826BCEC68CD4251B44C00D5A04AEE66"><enum>(D)</enum><text>the name of the entity publishing the document.</text>
+				</subparagraph></paragraph></section></legis-body>
+</bill>
+
+

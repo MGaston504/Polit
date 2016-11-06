@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEBF327A850574D04B3206C2134441712" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2429 IH: Student Loan Tax Debt Relief Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2429</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150519">May 19, 2015</action-date>
+			<action-desc><sponsor name-id="M000404">Mr. McDermott</sponsor> (for himself, <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>, <cosponsor name-id="L000559">Mr. Langevin</cosponsor>, <cosponsor name-id="K000009">Ms. Kaptur</cosponsor>, <cosponsor name-id="R000053">Mr. Rangel</cosponsor>, <cosponsor name-id="C000714">Mr. Conyers</cosponsor>, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, <cosponsor name-id="V000130">Mr. Vargas</cosponsor>, <cosponsor name-id="D000191">Mr. DeFazio</cosponsor>, <cosponsor name-id="H001034">Mr. Honda</cosponsor>, <cosponsor name-id="D000623">Mr. DeSaulnier</cosponsor>, <cosponsor name-id="H000324">Mr. Hastings</cosponsor>, <cosponsor name-id="B001285">Ms. Brownley of California</cosponsor>, <cosponsor name-id="V000128">Mr. Van Hollen</cosponsor>, <cosponsor name-id="M001160">Ms. Moore</cosponsor>, <cosponsor name-id="R000515">Mr. Rush</cosponsor>, <cosponsor name-id="M001137">Mr. Meeks</cosponsor>, <cosponsor name-id="H000636">Mr. Hinojosa</cosponsor>, <cosponsor name-id="C001101">Ms. Clark of Massachusetts</cosponsor>, <cosponsor name-id="G000535">Mr. Gutiérrez</cosponsor>, <cosponsor name-id="D000096">Mr. Danny K. Davis of Illinois</cosponsor>, <cosponsor name-id="C001036">Mrs. Capps</cosponsor>, <cosponsor name-id="C001097">Mr. Cárdenas</cosponsor>, <cosponsor name-id="W000800">Mr. Welch</cosponsor>, <cosponsor name-id="S001145">Ms. Schakowsky</cosponsor>, <cosponsor name-id="L000557">Mr. Larson of Connecticut</cosponsor>, <cosponsor name-id="D000399">Mr. Doggett</cosponsor>, <cosponsor name-id="M001166">Mr. McNerney</cosponsor>, <cosponsor name-id="L000560">Mr. Larsen of Washington</cosponsor>, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, <cosponsor name-id="B001296">Mr. Brendan F. Boyle of Pennsylvania</cosponsor>, <cosponsor name-id="C001084">Mr. Cicilline</cosponsor>, <cosponsor name-id="C000984">Mr. Cummings</cosponsor>, <cosponsor name-id="K000188">Mr. Kind</cosponsor>, and <cosponsor name-id="S000510">Mr. Smith of Washington</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to exclude from gross income any discharge of income
+			 contingent and income-based student loan indebtedness.</official-title>
+	</form>
+	<legis-body id="H24C42943C7A147869CE5CA9753E59185" style="OLC">
+ <section id="H0FFA5FB3DD194F3FB082EBD8E7325D67" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Student Loan Tax Debt Relief Act</short-title></quote>.</text> </section><section id="HC6B1F64BD3D147A7B4A3538BBA79FB4A" section-type="subsequent-section"><enum>2.</enum><header>Exclusion from gross income for discharge of income contingent and income-based student loan indebtedness</header> <subsection id="HFD320A508E084E869D387925CC77C05D"><enum>(a)</enum><header>In general</header><text>Paragraph (1) of <external-xref legal-doc="usc" parsable-cite="usc/26/108">section 108(f)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="HE899696D54954B0EB9B6A46AD530A4FF" style="OLC">
+ <paragraph id="HB23C1E7871874E3D813E1E59636E83F4"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">In the case of an individual, gross income does not include any amount which (but for this subsection) would be includible in gross income by reason of the discharge (in whole or in part) of any student loan if such discharge was pursuant to—</text>
+ <subparagraph commented="no" id="H8BC75C7CD19E4DE5A6C7D9462A57788C"><enum>(A)</enum><text display-inline="yes-display-inline">a provision of such loan under which all or part of the indebtedness of the individual would be discharged if the individual worked for a certain period of time in certain professions for any of a broad class of employers, or</text>
+ </subparagraph><subparagraph id="H1D17BD3837A14D69A0D5622A360507BF"><enum>(B)</enum><text display-inline="yes-display-inline">subsections (d)(1)(D) and (e)(7) of section 455 or section 493C(b)(7) of the Higher Education Act of 1965 (relating to income contingent and income-based repayment, respectively).</text>
+						</subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H85ACD128CD0E43AD8E177733FD8FBA46"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by this section shall apply to discharges of indebtedness after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

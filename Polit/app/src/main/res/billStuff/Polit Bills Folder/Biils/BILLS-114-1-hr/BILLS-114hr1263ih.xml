@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF97B8380E42D48B0B2D9FECB4EC1C814"
+    public-private="public" bill-type="olc">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1263 IH: Consumer Financial Protection Safety and Soundness Improvement Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code display="yes">I</distribution-code>
+        <congress>114th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>H. R. 1263</legis-num>
+        <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+        <action>
+            <action-date date="20150304">March 4, 2015</action-date>
+            <action-desc><sponsor name-id="D000614">Mr. Duffy</sponsor> (for himself, <cosponsor
+                    name-id="N000182">Mr. Neugebauer</cosponsor>, and <cosponsor name-id="B001282"
+                    >Mr. Barr</cosponsor>) introduced the following bill; which was referred to the
+                    <committee-name committee-id="HBA00">Committee on Financial
+                    Services</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Consumer Financial Protection Act of 2010 to strengthen the
+            review authority of the Financial Stability Oversight Council of regulations issued by
+            the Bureau of Consumer Financial Protection, and for other purposes.</official-title>
+    </form>
+    <legis-body id="H02DABF0EC9844EDF83172B2F7AD915F3" style="OLC">
+        <section id="HAF9EE7AF12DF4137A138E2632B753B44" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Consumer Financial Protection Safety and Soundness Improvement Act of 2015</short-title></quote>.</text>
+        </section>
+        <section id="HC539D29D57BC4F20BB9789C8DA4F9C7F">
+            <enum>2.</enum>
+            <header>Council voting procedure</header>
+ <text display-inline="no-display-inline">Section 1023(c)(3)(A) of the Consumer Financial Protection Act of 2010 (<external-xref legal-doc="usc" parsable-cite="usc/12/5513">12 U.S.C. 5513(c)(3)(A)</external-xref>) is amended—</text>
+            <paragraph id="H292861B505DE4C0DAD925F967DF85392">
+                <enum>(1)</enum>
+ <text>by striking <quote><short-title><fraction>2/3</fraction></short-title></quote> and inserting <quote>a majority</quote>; and</text>
+            </paragraph>
+            <paragraph id="HD0ED901EAE754E1BAD082D58F6F44BA5">
+                <enum>(2)</enum>
+ <text>by inserting before the period the following: <quote>, excluding the Director of the Bureau</quote>.</text>
+            </paragraph>
+        </section>
+        <section id="H0845CD0301D34502A6CB7535639952F1" section-type="subsequent-section">
+            <enum>3.</enum>
+            <header>Review authority of the Council</header>
+ <text display-inline="no-display-inline">Section 1023 of the Consumer Financial Protection Act of 2010 (<external-xref legal-doc="usc" parsable-cite="usc/12/5513">12 U.S.C. 5513</external-xref>) is amended—</text>
+            <paragraph id="H81C4DB050C6643EF89825D53EAC97C4D">
+                <enum>(1)</enum>
+ <text>in subsection (a)—</text> <subparagraph id="H3A54A7354A0D4BFFAB8103A3DFE9F16E"> <enum>(A)</enum> <text>by striking <quote>may</quote> and inserting <quote>shall</quote>; and</text>
+                </subparagraph>
+                <subparagraph id="H679CEDCB65FD49719332401A2744521C">
+                    <enum>(B)</enum>
+ <text>by striking <quote>regulation or provision would put the safety and soundness of the United States banking system or the stability of the financial system of the United States at risk</quote> and inserting <quote>regulation which is the subject of the petition is inconsistent with the safe and sound operations of United States financial institutions</quote>; and</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="H0CE3A6EF534D40869F11C1DAC2D0979D">
+                <enum>(2)</enum>
+ <text>in subsection (c)—</text> <subparagraph id="H0C5AE83D47074DAE8413DF52A400D3FC"> <enum>(A)</enum> <text>in paragraph (3)(B)(ii), by striking <quote>would put the safety and soundness of the United States banking system or the stability of the financial system of the United States at risk</quote> and inserting <quote>is inconsistent with the safe and sound operations of United States financial institutions</quote>;</text>
+                </subparagraph>
+                <subparagraph id="HD5E0C4E2491042979570A4FD33E2F7C0">
+                    <enum>(B)</enum>
+ <text>in paragraph (4)—</text> <clause id="H133D86321E0F4325BCB10D9200FA2362"> <enum>(i)</enum> <text>by striking subparagraph (B); and</text>
+                    </clause>
+                    <clause id="HD968F32B91994997AACEB8466605000A">
+                        <enum>(ii)</enum>
+ <text>by redesignating subparagraph (C) as subparagraph (B);</text> </clause> </subparagraph> <subparagraph id="H61B69AEC1CC046C1AFB221DC1240919D"> <enum>(C)</enum> <text>by striking paragraph (5); and</text>
+                </subparagraph>
+                <subparagraph id="H4706B9B60E824B639D1180977BEA6649">
+                    <enum>(D)</enum>
+ <text>by redesignating paragraphs (6), (7), and (8) as paragraphs (5), (6), and (7), respectively.</text>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <section id="H6CE279586C8E4516A8043FDC5579D983">
+            <enum>4.</enum>
+            <header>Safety and soundness check</header>
+ <text display-inline="no-display-inline">Section 1022(b)(2)(A) of the Consumer Financial Protection Act of 2010 (<external-xref legal-doc="usc" parsable-cite="usc/12/5512">12 U.S.C. 5512(b)(2)(A)</external-xref>) is amended—</text>
+            <paragraph id="HDB112F254D6E4CF8831D3EBF9C1E3CE5">
+                <enum>(1)</enum>
+ <text>in clause (i), by striking <quote>and</quote> at the end;</text> </paragraph> <paragraph id="H23FB029410A54CB8BBCF4B294F259278"> <enum>(2)</enum> <text>in clause (ii), by adding <quote>and</quote> at the end; and</text>
+            </paragraph>
+            <paragraph id="H2369656C6CB446BA8A7826F8CD565A55">
+                <enum>(3)</enum>
+ <text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="HEAE3FEEC3A0B40E6B4F772A36B209ABC" style="OLC"> <clause id="H5030EF8F50FE4C0A8C7A164F95EEB1A8"> <enum>(iii)</enum> <text display-inline="yes-display-inline">the impact of such rule on the financial safety or soundness of an insured depository institution;</text>
+                    </clause>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+
+

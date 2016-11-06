@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H3B19556C5B054E6E98E51C302BC1B7B9" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3471 IH: Veterans Mobility Safety Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3471</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150910">September 10, 2015</action-date>
+			<action-desc><sponsor name-id="W000813">Mrs. Walorski</sponsor> (for herself, <cosponsor name-id="B001285">Ms. Brownley of California</cosponsor>, <cosponsor name-id="R000599">Mr. Ruiz</cosponsor>, <cosponsor name-id="D000533">Mr. Duncan of Tennessee</cosponsor>, <cosponsor name-id="B001282">Mr. Barr</cosponsor>, and <cosponsor name-id="C001107">Mr. Curbelo of Florida</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to make certain improvements in the provision of automobiles
+			 and adaptive equipment by the Department of Veterans Affairs.</official-title>
+	</form>
+	<legis-body id="HABC70B91CB6B4527974AFB2CCD612FC0" style="OLC">
+ <section id="H45230B0F99314507BDA83F48F76038F9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans Mobility Safety Act of 2015</short-title></quote>.</text> </section><section id="HD4159C2879594D4498D5CE2BD45CAC42"><enum>2.</enum><header>Improvement of provision of automobiles and adaptive equipment by Department of Veterans Affairs</header> <subsection id="H275716697D3546B1AD6EA2523241638B"><enum>(a)</enum><header>Automobiles and adaptive equipment</header><text display-inline="yes-display-inline">Section 3903 of title 38, United States Code, is amended—</text>
+ <paragraph id="H8D1072D1D6F947039BF5D3147C607EA2"><enum>(1)</enum><text>in subsection (b)—</text> <subparagraph id="H64B1D1D8C3784AE0BCBA7FE68E5A816D"><enum>(A)</enum><text>by striking <quote>Except</quote> and inserting <quote>(1) Except</quote>; and</text>
+ </subparagraph><subparagraph id="HC5E2C995B03146079849C79A351ACF9B"><enum>(B)</enum><text>by adding at the end the following new paragraph:</text> <quoted-block display-inline="no-display-inline" id="H069A200A92BB429C92352734D9347E74" style="USC"> <paragraph id="HE269AD3C8B8B4D7094E3D4A88653310B" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">The Secretary shall ensure that to the extent practicable an eligible person who is provided an automobile or other conveyance under this chapter is given the opportunity to make personal selections relating to such automobile or other conveyance.</text></paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="HC8E14128D34E4B62B47BF3E269CAD92D"><enum>(2)</enum><text>in subsection (d)—</text> <subparagraph id="H8061657509B0480D862A580106BA86A8"><enum>(A)</enum><text>by striking <quote>Adaptive</quote> and inserting <quote>(1) Adaptive</quote>; and</text>
+ </subparagraph><subparagraph id="H0D8AD000D5EF4E87B1B5C94EF60A08C8"><enum>(B)</enum><text>by adding at the end the following new paragraphs:</text> <quoted-block display-inline="no-display-inline" id="H45860A65606445B9807514E45A3649FD" style="USC"> <paragraph id="H2428A068937C4B2FA92CC7142CCD89BA" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">For purposes of this subsection, minimum standards shall include that—</text>
+ <subparagraph id="H6B687137B73F4FEEA9A3A5D2E4766C7B"><enum>(A)</enum><text>the provider of any adaptive equipment modification services, including the repair, maintenance, or replacement of such equipment, shall be certified in the provision of the modification service performed by—</text>
+ <clause id="H1B48CA086EDB4BC4AD39C49F1AA1B921"><enum>(i)</enum><text>a certification organization; or</text> </clause><clause id="H58111E0791BA496E9DC56E7FE469BB35"><enum>(ii)</enum><text>the manufacturer of the adaptive equipment for which the modification services are performed;</text>
+ </clause></subparagraph><subparagraph id="H2B622E1B0A8248D0989594F9BFD6BAA9"><enum>(B)</enum><text>any individual performing such modification services on an automobile shall—</text> <clause id="H77782951107847E9868F2CB37E583936"><enum>(i)</enum><text>be certified in the provision of the modification service performed by—</text>
+ <subclause id="H1CD58B26A0214745BCF5A4498F5B0D4E"><enum>(I)</enum><text>a certification organization; or</text> </subclause><subclause id="HA118E3D807674B7998FD1CF63D6E117F"><enum>(II)</enum><text>the manufacturer of the adaptive equipment for the modification services are performed; or</text>
+ </subclause></clause><clause id="H5BBA7D8298EB41ED8CA2B068A718449B"><enum>(ii)</enum><text>be licensed or certified by the State in which the modification service is performed if such service is within the scope of practice, as determined by the State for the service; and</text>
+ </clause></subparagraph><subparagraph id="H7CA7C1701B854B7484713E008599CA2B"><enum>(C)</enum><text>the provider of the automobile or adaptive equipment or the provider of the modification services for such automobile or adaptive equipment shall—</text>
+ <clause id="H0A9C1AAECD4B4548AF550FD93EB15B3E"><enum>(i)</enum><text>adhere to <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/42/126">chapter 126</external-xref> of title 42 (commonly known as the <quote>Americans with Disabilities Act of 1990</quote>); and</text> </clause><clause id="H9D9F5162A48849138AF3049E3AFCF3F0"><enum>(ii)</enum><text display-inline="yes-display-inline">adhere to the <quote>make inoperative mandates</quote> of the National Highway Traffic Safety Administration Federal Motor Vehicle Safety Standards prescribed pursuant to section 30122 of title 49.</text>
+ </clause></subparagraph></paragraph><paragraph id="H507C823F56784458958863FA5CA4281E" indent="up1"><enum>(3)</enum><text>In this subsection:</text> <subparagraph id="H943F7D57C72C487AB895FF054789C701"><enum>(A)</enum><text>The term <term>certification organization</term> means an organization that—</text>
+ <clause id="HEE18C84D7D2C462CB47E23C86D2C031E"><enum>(i)</enum><text display-inline="yes-display-inline">is recognized as being qualified by the Secretary;</text> </clause><clause id="HCF2BDE3166D24B8E9B54565C2222ACD7"><enum>(ii)</enum><text>is a nonprofit organization;</text>
+ </clause><clause id="HAB3745C99B52402C90F690DBF2FDF07E"><enum>(iii)</enum><text>is a national or international organization with an accreditation program for automotive adaptive equipment; and</text>
+ </clause><clause id="HD33CFC44BC5B4724AC5CEBC8600A6636"><enum>(iv)</enum><text>has established standards for recordkeeping and to minimize the possibility of conflicts of interest as determined by the Secretary.</text>
+ </clause></subparagraph><subparagraph id="H46F0DCC629C74341976494BEC8E9BC2A"><enum>(B)</enum><text display-inline="yes-display-inline">The term <term>modification services</term> means structural modifications or the addition or installation of adaptive equipment intended to increase, maintain, or improve the functional capacity of a disabled driver to safely drive or ride as a passenger.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subparagraph></paragraph></subsection><subsection id="H702CED76ED134D1CBBF7D601A7F60A5B"><enum>(b)</enum><header>Rehabilitative services</header><text>Section 1718 of such title is amended by adding at the end the following new subsection:</text> <quoted-block display-inline="no-display-inline" id="H9E06FC80C522403896F50836CF440541" style="USC"> <subsection id="HC0FFE3579FC4447DBCAE50B0F6622866"><enum>(h)</enum><text display-inline="yes-display-inline">In providing rehabilitative services under this chapter, if the Secretary provides adaptive equipment, the Secretary shall ensure that such equipment meets the minimum standards prescribed under section 3903(d)(2) of this title.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H15ED58D675384BED86375CE7E5319451"><enum>(c)</enum><header>Vocational rehabilitation</header><text>Section 3104 of such title is amended by adding at the end the following new subsection:</text> <quoted-block display-inline="no-display-inline" id="H941E1F13DFBB4E2A8D1A551194DD3CC1" style="USC"> <subsection id="H5589A1F02415455692A8DF67E46B75D6"><enum>(c)</enum><text display-inline="yes-display-inline">In providing a rehabilitation program under this chapter, if the Secretary provides adaptive equipment, the Secretary shall ensure that such equipment meets the minimum standards prescribed under section 3903(d)(2) of this title.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HD9460D1E64DD4814B05C52F74D718847"><enum>(d)</enum><header>Deadline for regulations</header><text display-inline="yes-display-inline">Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall prescribe regulations to carry out the amendments made by this section.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

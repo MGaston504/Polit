@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HF1EA9B34414C410C8981332E2D36AF04" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3647 IH: Fairness for Families Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3647</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150929">September 29, 2015</action-date>
+			<action-desc><sponsor name-id="O000170">Mr. O’Rourke</sponsor> (for himself and <cosponsor name-id="P000588">Mr. Pearce</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Immigration and Nationality Act to provide that United States citizens’ sons and
+			 daughters with mental or physical disabilities be considered immediate
+			 relatives for purposes of exemption from numerical limitations on visas
+			 issued to such sons and daughters.</official-title>
+	</form>
+	<legis-body id="HC4A7269A085241D0B9124E7A8B704ACB" style="OLC">
+ <section id="HBC8D489732544EA2B58FE906B27826B1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fairness for Families Act of 2015</short-title></quote>.</text> </section><section id="H7EC97F57FA3C4521B5A995CF34B2BB37"><enum>2.</enum><header>Definition of mental or physical disability</header><text display-inline="no-display-inline">Section 101(a) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1101">8 U.S.C. 1101(a)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HB5C9C16CDC1F486DACF78A0A4488C00E" style="OLC">
+ <paragraph id="HCE0496C79C8E42F29EBB8857A5B8D83A"><enum>(53)</enum><text display-inline="yes-display-inline">The term <term>mental or physical disability</term> means, in the case of an individual, a mental or physical impairment, or physical disability that—</text>
+ <subparagraph id="HE3A41CD6F855408B95A9B9363FB35A82"><enum>(A)</enum><text>a licensed physician designated by the Secretary of State pursuant to section 40.11 of title 22, Code of Federal Regulations for purposes of making examinations pursuant to section 212(a)(1) has determined, by examining the individual, renders the individual unable to care for himself or herself as an adult; and</text>
+ </subparagraph><subparagraph id="HCF3455C965194E40825C6F89F24F861B"><enum>(B)</enum><text>due to such impairment or disability, the individual’s parent or sibling is solely responsible for the care of the individual.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="H9FF6E1C5AC6A4D1BAC870E4313971711"><enum>3.</enum><header>United States citizens’ sons and daughters with mental or physical disabilities to be considered
+ immediate relatives</header><text display-inline="no-display-inline">Section 201(b)(2)(A)(i) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1151">8 U.S.C. 1151(b)(2)(A)(i)</external-xref>) is amended by inserting after <quote>children, spouses,</quote> the following: <quote>sons and daughters with mental or physical disabilities,</quote>.</text>
+		</section></legis-body>
+</bill>
+
+

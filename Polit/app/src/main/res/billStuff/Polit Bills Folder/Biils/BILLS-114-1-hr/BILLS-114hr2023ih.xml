@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H0E498BB0CC65461B922749590EBB9512" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2023 IH: Hold Congress Accountable Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2023</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150423">April 23, 2015</action-date>
+			<action-desc><sponsor name-id="S001180">Mr. Schrader</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name>, and in addition to the Committee on <committee-name committee-id="HGO00">Oversight and Government Reform</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To reduce the annual rate of pay of Members of Congress if a Government shutdown occurs during a
+			 year, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HE8110CC72A384F978E1355075EBB0721" style="OLC">
+ <section id="H03424D67BBCE404194E888BD8FE905D8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Hold Congress Accountable Act</short-title></quote>.</text> </section><section id="H93DA687A510F4CC9B764EECDF1B1275C" section-type="subsequent-section"><enum>2.</enum><header>Requiring reduction of pay of Members of Congress if government shutdown occurs</header> <subsection id="H210EC2E7B65C44FFABE17A69516BFC46"><enum>(a)</enum><header>Reduction of Pay for Each Day of Government Shutdown</header><text display-inline="yes-display-inline">If on any day during a year a Government shutdown is in effect, the annual rate of pay applicable under section 601(a) of the Legislative Reorganization Act of 1946 (<external-xref legal-doc="usc" parsable-cite="usc/2/4501">2 U.S.C. 4501</external-xref>) with respect to each Member of Congress for the year shall be reduced by an amount equal to the product of—</text>
+ <paragraph id="H410BB5DFA9BA40CF9AEF4CC69A69E1FB"><enum>(1)</enum><text>an amount equal to one day’s worth of pay under such annual rate; and</text> </paragraph><paragraph id="H343E2741C7DD47ECB82CF0570F732317"><enum>(2)</enum><text>the number of 24-hour periods during which the Government shutdown is in effect.</text>
+ </paragraph></subsection><subsection id="HBBE5F6DD716C4D93B8CE8CF7D37A50B6"><enum>(b)</enum><header>Effective date</header><text>This section shall apply with respect to days occurring after the date of the regularly scheduled general election for Federal office held in November 2016.</text>
+			</subsection></section><section display-inline="no-display-inline" id="H8F85020F91E245D796A0CE126C9CEC89"><enum>3.</enum><header>Special rule for one hundred fourteenth congress</header>
+ <subsection id="HD3736B5943034E9A89A4E0B7C2FC40E7"><enum>(a)</enum><header>Holding Salaries in Escrow</header><text>If on any day during the One Hundred Fourteenth Congress a Government shutdown is in effect, the payroll administrator of that House of Congress shall—</text>
+ <paragraph id="H27E0D31052F94D96A00B14D308FCC78F"><enum>(1)</enum><text>withhold from the payments otherwise required to be made with respect to a pay period for the compensation of each Member of Congress who serves in that House of Congress an amount equal to the product of—</text>
+ <subparagraph id="H04EC0FBA69F14C50AC0E52BE84854B2F"><enum>(A)</enum><text display-inline="yes-display-inline">an amount equal to one day’s worth of pay under the annual rate of pay applicable to the Member under section 601(a) of the Legislative Reorganization Act of 1946 (<external-xref legal-doc="usc" parsable-cite="usc/2/4501">2 U.S.C. 4501</external-xref>), and</text>
+ </subparagraph><subparagraph id="HC5DCB32586334B82BF31CD668842364B"><enum>(B)</enum><text>the number of 24-hour periods during which the Government shutdown is in effect which occur during the pay period; and</text>
+ </subparagraph></paragraph><paragraph id="H3A05793F8B3E47668D28D9B47892232F"><enum>(2)</enum><text>deposit in an escrow account all amounts withheld under paragraph (1).</text> </paragraph></subsection><subsection id="H83285C7C467743DF8C4A8B327C0DA39F"><enum>(b)</enum><header>Release of amounts at end of the congress</header><text>In order to ensure that this section is carried out in a manner that shall not vary the compensation of Senators or Representatives in violation of the twenty-seventh article of amendment to the Constitution of the United States, the payroll administrator of a House of Congress shall release for payments to Members of that House of Congress any amounts remaining in any escrow account under this section on the last day of the One Hundred Fourteenth Congress.</text>
+ </subsection><subsection id="H66DD7F25B95B45129DD9265C61EEB7E4"><enum>(c)</enum><header>Role of secretary of the treasury</header><text>The Secretary of the Treasury shall provide the payroll administrators of the Houses of Congress with such assistance as may be necessary to enable the payroll administrators to carry out this section.</text>
+ </subsection><subsection id="HEBE5358DAADC4DE294A7E9258780C98E"><enum>(d)</enum><header>Payroll administrator defined</header><text>In this section, the <quote>payroll administrator</quote> of a House of Congress means—</text> <paragraph id="HC569D7EA407B4B9E867DDD4F41DB6617"><enum>(1)</enum><text display-inline="yes-display-inline">in the case of the House of Representatives, the Chief Administrative Officer of the House of Representatives, or an employee of the Office of the Chief Administrative Officer who is designated by the Chief Administrative Officer to carry out this section; and</text>
+ </paragraph><paragraph id="H825FD85B5D484F4E8A1B896A7E7C3099"><enum>(2)</enum><text>in the case of the Senate, the Secretary of the Senate, or an employee of the Office of the Secretary of the Senate who is designated by the Secretary to carry out this section.</text>
+ </paragraph></subsection><subsection id="HB3279004BB5E4955A2E402CC2FE5D0F9"><enum>(e)</enum><header>Exception for Days Occurring After General Election</header><text display-inline="yes-display-inline">This section does not apply with respect to any day during the One Hundred Fourteenth Congress which occurs after the date of the regularly scheduled general election for Federal office held in November 2016.</text>
+ </subsection></section><section display-inline="no-display-inline" id="H0AE539FE605B45F59A04FAF20501D6A1"><enum>4.</enum><header>Determination of Government shutdown</header><text display-inline="no-display-inline">For purposes of this Act, a Government shutdown shall be considered to be in effect if there is a lapse in appropriations for any Federal agency or department as a result of a failure to enact a regular appropriations bill or continuing resolution.</text>
+ </section><section id="H29E81FA013BD42B3913B20DCC76864F5"><enum>5.</enum><header>Member of Congress defined</header><text display-inline="no-display-inline">In this Act, the term <term>Member of Congress</term> means an individual serving in a position under subparagraph (A), (B), or (C) of section 601(a) of the Legislative Reorganization Act of 1946 (<external-xref legal-doc="usc" parsable-cite="usc/2/4501">2 U.S.C. 4501</external-xref>).</text>
+		</section></legis-body>
+</bill>
+
+

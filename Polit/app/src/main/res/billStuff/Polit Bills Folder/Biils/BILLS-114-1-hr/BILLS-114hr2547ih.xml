@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2153406030CA4FBBB3EB76913C9D7DE9" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2547 IH: Surrogate Endpoint Improvement and Utilization Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2547</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150521">May 21, 2015</action-date>
+			<action-desc><sponsor name-id="M001159">Mrs. McMorris Rodgers</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Food, Drug, and Cosmetic Act to provide for the development of accelerated
+			 approval development plans for investigational drugs and biological
+			 products.</official-title>
+	</form>
+	<legis-body id="HB386DC4237A1435B863BDB71628A40C5" style="OLC">
+ <section id="id31BE87660E594DD6B7302A0A83AD5787" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Surrogate Endpoint Improvement and Utilization Act of 2015</short-title></quote>.</text></section><section commented="no" id="HEF2770F6278148B59DDB5B50B74E092D" section-type="subsequent-section"><enum>2.</enum><header>Accelerated approval development plan</header> <subsection commented="no" id="HEA3E222FAE0944BCACB260CB4505DAB5"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 506 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/356">21 U.S.C. 356</external-xref>) is amended by adding the following subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="HB3A64187A7CC4072B084EAFA798671FA" style="OLC">
+					<subsection commented="no" id="H24F8BE11F339447385369E661300C362"><enum>(g)</enum><header>Accelerated approval development plan</header>
+ <paragraph commented="no" id="HA3B092A49EE044F099C803DB6381F14A"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">In the case of a drug determined to be eligible for accelerated approval under subsection (c), at any time after the submission of an application for the investigation of the drug under section 505(i) of this Act or section 351(a)(3) of the Public Health Service Act, the sponsor of such drug may voluntarily request agreement by the Secretary to an accelerated approval development plan with respect to a surrogate endpoint to be used to study the drug.</text>
+ </paragraph><paragraph commented="no" id="H8B57C5F559994E68B48E9785BBE59FBE"><enum>(2)</enum><header>Plan</header><text display-inline="yes-display-inline">A plan described in paragraph (1) shall include agreement on—</text> <subparagraph commented="no" id="H62AC8272FB7E4B41817048E2BFBB9265"><enum>(A)</enum><text display-inline="yes-display-inline">the surrogate endpoint to be assessed under the plan;</text>
+ </subparagraph><subparagraph commented="no" id="H52FAD98BA8C24CD68E2AF6FC496CBB72"><enum>(B)</enum><text display-inline="yes-display-inline">the design of the study that will utilize the surrogate endpoint; and</text> </subparagraph><subparagraph commented="no" id="H84EB249D448A4A34A0FC3768752096D1"><enum>(C)</enum><text display-inline="yes-display-inline">the magnitude of the effect of the drug on the surrogate endpoint that is the subject of the agreement that would be sufficient to form the primary basis of a claim that the drug is effective.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="H4555FBFFBFBE4894A5385FAFA8547E7A"><enum>(3)</enum><header>Modification; termination</header><text display-inline="yes-display-inline">The Secretary may require the sponsor of a drug that is the subject of an accelerated approval development plan to modify or terminate the plan if additional data or information indicates that—</text>
+ <subparagraph commented="no" id="HF1D383F9FC0148119E3636A52829F0C0"><enum>(A)</enum><text display-inline="yes-display-inline">the plan as originally agreed upon is no longer sufficient to demonstrate the safety and effectiveness of the drug involved; or</text>
+ </subparagraph><subparagraph commented="no" id="H8CF23751BD3A4779BBAB31D1335040B3"><enum>(B)</enum><text display-inline="yes-display-inline">the drug is no longer eligible for accelerated approval under subsection (c).</text> </subparagraph></paragraph><paragraph commented="no" id="H84A5B671173D40FEAF50293C643DAF26"><enum>(4)</enum><header>Sponsor consultation</header><text display-inline="yes-display-inline">If the Secretary requires the modification or termination of an accelerated approval development plan under paragraph (3), the sponsor shall be granted a request for a meeting to discuss the basis of the Secretary’s decision before the effective date of the modification or termination.</text>
+ </paragraph><paragraph commented="no" id="HC7FBE89D82BD431F8BE61A3C3AFE4FED"><enum>(5)</enum><header>Definition</header><text display-inline="yes-display-inline">In this section, the term <quote>accelerated approval development plan</quote> means a development plan agreed upon by the Secretary and the sponsor submitting the plan that contains study parameters for the use of a surrogate endpoint that—</text>
+ <subparagraph commented="no" id="H7656E4E64FD54F0F9CAFECFD886C1184"><enum>(A)</enum><text>is reasonably likely to predict clinical benefit; and</text> </subparagraph><subparagraph commented="no" id="H7C1227C5179F4A9DA53142DAEEE6E66E"><enum>(B)</enum><text>is intended to be the basis of the accelerated approval of a drug under subsection (c).</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection commented="no" id="HA87F528E567A465081CD80114CADB4FC"><enum>(b)</enum><header>Technical amendments</header><text>Section 506 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/356">21 U.S.C. 356</external-xref>) is amended—</text> <paragraph commented="no" id="H7F5C2A9BBB64445D8F2CC420595ECF77"><enum>(1)</enum><text>by striking <quote><header-in-text level="subsection" style="OLC"><enum-in-header>(f)<header-in-text level="subsection" style="OLC"> Awareness efforts</header-in-text></enum-in-header></header-in-text></quote> and inserting <quote><header-in-text level="subsection" style="OLC"><enum-in-header>(e) <header-in-text level="subsection" style="OLC">Awareness efforts</header-in-text></enum-in-header></header-in-text></quote>; and</text>
+ </paragraph><paragraph commented="no" id="HC77031878789459AA6347223DAC55795"><enum>(2)</enum><text>by striking <quote><header-in-text level="subsection" style="OLC"><enum-in-header>(e) <header-in-text level="subsection" style="OLC">Construction</header-in-text></enum-in-header></header-in-text></quote> and inserting <quote><header-in-text level="subsection" style="OLC"><enum-in-header>(f) <header-in-text level="subsection" style="OLC">Construction</header-in-text></enum-in-header></header-in-text></quote>.</text> </paragraph></subsection></section></legis-body> </bill> 
+

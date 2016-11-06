@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HF0B0A80E334E4798BF1BC7570FACD908" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4047 IH: Open Fuel Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4047</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151117">November 17, 2015</action-date>
+			<action-desc><sponsor name-id="E000179">Mr. Engel</sponsor> (for himself, <cosponsor name-id="R000435">Ms. Ros-Lehtinen</cosponsor>, <cosponsor name-id="I000057">Mr. Israel</cosponsor>, and <cosponsor name-id="C001053">Mr. Cole</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/329">chapter 329</external-xref> of title 49, United States Code, to ensure that new vehicles enable fuel
+			 competition so as to reduce the strategic importance of oil to the United
+			 States.</official-title>
+	</form>
+	<legis-body id="H2BA0BA01678A4AE29E1288170A799832" style="OLC">
+ <section id="HAE71CA934B5B4ECAB874E31523DE28F6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Open Fuel Act of 2015</short-title></quote>.</text> </section><section id="HDB2DB53B55064D088059DE72C0E60392"><enum>2.</enum><header>Open fuel requirement for motor vehicles</header><text display-inline="no-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/329">Chapter 329</external-xref> of title 49, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/49/32905">section 32905</external-xref> the following new section:</text>
+			<quoted-block display-inline="no-display-inline" id="HF7EBDFCF2BDE4D2F8EA7042CE921841E" style="USC">
+				<section id="HBED4E3B736E64DA3A2400743CE7738DE"><enum>32905A.</enum><header>Open fuel requirement for motor vehicles.</header>
+ <subsection id="H4313F700BB1A47BF8FA43AE7AA0E71A9"><enum>(a)</enum><header>Requirements</header><text display-inline="yes-display-inline">Except as provided in subsection (c), each manufacturer’s fleet of covered vehicles for a particular model year shall be comprised of—</text>
+ <paragraph id="H2DC890F1D80D4344AC834698C9485F65"><enum>(1)</enum><text display-inline="yes-display-inline">not less than 30 percent qualified vehicles beginning in model year 2018; and</text> </paragraph><paragraph id="HF006330851DE4583B41235A5994B0480"><enum>(2)</enum><text display-inline="yes-display-inline">not less than 50 percent qualified vehicles beginning in model year 2019 and each subsequent year.</text>
+ </paragraph></subsection><subsection id="HFAFFA2C48FF54F4C9AA42FDF303128F8"><enum>(b)</enum><header>Additional definitions</header><text display-inline="yes-display-inline">As used in this section—</text> <paragraph id="HB461265D2C1B4081880A0EFEB861FAD2"><enum>(1)</enum><text display-inline="yes-display-inline">the term <term>covered vehicle</term> means a passenger automobile, and includes a light-duty motor vehicle;</text>
+ </paragraph><paragraph id="HDED3A30DC10C40B59A7B0BDD6CA889FA"><enum>(2)</enum><text>the term <term>qualified vehicle</term> means covered vehicle that—</text> <subparagraph id="H8E1745559DCB456B932B5928CB5D89B1"><enum>(A)</enum><text>has been warranted by its manufacturer to operate on natural gas, hydrogen, or biodiesel;</text>
+ </subparagraph><subparagraph id="H47E57D49E6BB4DF2B6C6C40DC85330DB"><enum>(B)</enum><text display-inline="yes-display-inline">is a flexible fuel vehicle;</text> </subparagraph><subparagraph id="HC5C8733B70084F7288EA004169822F55"><enum>(C)</enum><text display-inline="yes-display-inline">is a plug-in electric drive vehicle;</text>
+ </subparagraph><subparagraph id="HF1111AB9057D44CD8E65EC13B9E15E5A"><enum>(D)</enum><text display-inline="yes-display-inline">is propelled solely by a fuel cell that produces power without the use of petroleum or a petroleum-based fuel; or</text>
+ </subparagraph><subparagraph id="H08D96E6C94F24B5BAA571F81C1F2534E"><enum>(E)</enum><text display-inline="yes-display-inline">is propelled solely by something other than an internal combustion engine, and produces power without the use of petroleum or a petroleum-based fuel;</text>
+ </subparagraph></paragraph><paragraph id="H43B083756C9146EBB32CB0941A7B1A69"><enum>(3)</enum><text>the term <term>flexible fuel vehicle</term> means a vehicle that has been warranted by its manufacturer to operate on gasoline, E85, and M85;</text> </paragraph><paragraph id="HAACFDF1208DA494995371BE1C39E3203"><enum>(4)</enum><text display-inline="yes-display-inline">the term <term>E85</term> means a fuel mixture containing up to 85 percent ethanol and meets the standards of ASTM D5798;</text>
+ </paragraph><paragraph id="HDEC2D998449E4E59AE4760C59ADAA512"><enum>(5)</enum><text display-inline="yes-display-inline">the term <term>M85</term> means a fuel mixture containing up to 85 percent methanol and meets the standards of ASTM D5797;</text> </paragraph><paragraph id="H1C13852AF9A047EF848E0C05EA2C3205"><enum>(6)</enum><text display-inline="yes-display-inline">the term <term>biodiesel</term> means diesel fuel which has been produced from a non-petroleum feedstock and which meets the standards of ASTM D6751–03;</text>
+ </paragraph><paragraph id="H2BD757FEEC7F48C382E650AB20C5DE31"><enum>(7)</enum><text display-inline="yes-display-inline">the term <term>plug-in electric drive vehicle</term> has the meaning given such term in section 508(a)(5) of the Energy Policy Act of 1992 (<external-xref legal-doc="usc" parsable-cite="usc/42/13258">42 U.S.C. 13258(a)(5)</external-xref>); and</text>
+ </paragraph><paragraph id="HB3DBEDBA2434469AAB2ED8B1C91FA93F"><enum>(8)</enum><text>the term <term>light-duty motor vehicle</term> means a light-duty truck or light-duty vehicle as such terms are defined in section 216(7) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7550">42 U.S.C. 7550(7)</external-xref>) of less than or equal to 8,500 pounds gross vehicle weight rating.</text>
+						</paragraph></subsection><subsection id="HD1D9599A51DE4B99999CE5C817749247"><enum>(c)</enum><header>Temporary Exemption from Requirements</header>
+ <paragraph id="H990290A951B547CEA19E564D8A5390DC"><enum>(1)</enum><header>Application</header><text display-inline="yes-display-inline">A manufacturer may request an exemption from the requirement described in subsection (a) by submitting an application to the Secretary, at such time, in such manner, and containing such information as the Secretary may require by regulation. Each such application shall specify the models, lines, and types of automobiles affected.</text>
+ </paragraph><paragraph id="HFFF3E7430B4F403CA398B0BC26E823CB"><enum>(2)</enum><header>Evaluation</header><text>After evaluating an application received from a manufacturer, the Secretary may at any time, under such terms and conditions, and to such extent as the Secretary considers appropriate, temporarily exempt, or renew the exemption of, a light-duty motor vehicle from the requirement described in subsection (a) if the Secretary determines that unavoidable events not under the control of the manufacturer prevent the manufacturer of such automobile from meeting its required production volume of qualified automobiles, including—</text>
+ <subparagraph id="H5B053EC258864364B0571B2F24E73B0C"><enum>(A)</enum><text>a disruption in the supply of any component required for compliance with the regulations; or</text> </subparagraph><subparagraph id="H35653E091275481E886002845D4C705F"><enum>(B)</enum><text>a disruption in the use and installation by the manufacturer of such component.</text>
+ </subparagraph></paragraph><paragraph id="HC4969E8EB6A54EA79D19791AE8B13368"><enum>(3)</enum><header>Consolidation</header><text>The Secretary may consolidate applications received from multiple manufacturers under subparagraph (A) if they are of a similar nature.</text>
+ </paragraph><paragraph id="H283B38063B354E0E805B63F49B92E637"><enum>(4)</enum><header>Conditions</header><text>Any exemption granted under paragraph (2) shall be conditioned upon the manufacturer’s commitment to recall the exempted automobiles for installation of the omitted components within a reasonable time proposed by the manufacturer and approved by the Secretary after such components become available in sufficient quantities to satisfy both anticipated production and recall volume requirements.</text>
+ </paragraph><paragraph id="H7A165A06845A49F98B5E57944FD5DF8C"><enum>(5)</enum><header>Notice</header><text>The Secretary shall publish in the Federal Register—</text> <subparagraph id="H761BAC58C14348978D1349DF814A23AD"><enum>(A)</enum><text>notice of each application received from a manufacturer;</text>
+ </subparagraph><subparagraph id="H747863CEF352476596356F89F6BFBBBD"><enum>(B)</enum><text>notice of each decision to grant or deny a temporary exemption; and</text> </subparagraph><subparagraph id="HFF200BA316F34DEE8841363AE90292A3"><enum>(C)</enum><text>the reasons for granting or denying such exemptions.</text>
+ </subparagraph></paragraph></subsection><subsection id="HB2E940CAA8BD4EE0AB1B8FFCDA7D8457"><enum>(d)</enum><header>Rulemaking</header><text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, the Secretary shall promulgate regulations as necessary to carry out this section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1921 IS: To amend title XIX of the Social Security Act to encourage States to adopt administrative procedures with respect to nonmedical exemptions for State immunization requirements.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-08-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1921</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150804">August 4, 2015</action-date>
+			<action-desc><sponsor name-id="S364">Mr. Murphy</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XIX of the Social Security Act to encourage States to adopt administrative
+			 procedures with respect to nonmedical exemptions for State immunization
+			 requirements.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Vaccinate America's Children through Complete Information &amp; Education Act of 2015</short-title></quote>.</text>
+		</section><section id="id4E0755097CA7416395335238D3E59651"><enum>2.</enum><header>Encouraging States to strengthen administrative procedures related to nonmedical exemptions from
+			 State vaccination requirements</header>
+ <subsection id="idB8FE3CE709B949A5B0FD18EDCB65E7E6"><enum>(a)</enum><header>In general</header><text>Section 1928 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396s">42 U.S.C. 1396s</external-xref>) is amended—</text> <paragraph id="id226A769D3CEC4AF3AED63211F34D94E2"><enum>(1)</enum><text>by redesignating subsection (h) as subsection (i); and</text>
+ </paragraph><paragraph id="idF63CAD0733D94BBC8E356EB0A463775F"><enum>(2)</enum><text>by inserting after subsection (g) the following new subsection:</text> <quoted-block display-inline="no-display-inline" id="id9C771940226049C48106B110EBDAA171" style="OLC"> <subsection id="id944F005F4802491FBDDA46233A143152"><enum>(h)</enum><header>Administrative procedures for granting nonmedical exemptions</header> <paragraph id="id1369E0C1883C4202B28B8211235EF775"><enum>(1)</enum><header>Certification of adoption of procedures</header> <subparagraph id="idBCFDE4BD12344082AF3278F0CF4C18D4"><enum>(A)</enum><header>In general</header><text>A State program under this section does not comply with the requirements of this section unless the State certifies to the Secretary that the State has established administrative procedures for granting nonmedical exemptions from State immunization requirements (as defined in subparagraph (B)) that include at least 2 of the prerequisites described in paragraph (2).</text>
+ </subparagraph><subparagraph id="idC242F2ED991A4D3B9A34A26A5B2F9C75"><enum>(B)</enum><header>Nonmedical exemption from State immunization requirement</header><text>For purposes of this subsection, the term <term>nonmedical exemption from State immunization requirements</term> means any exemption from a State law that requires a child to receive a pediatric vaccine (including school immunization requirements) that is not based on a medical reason.</text>
+ </subparagraph></paragraph><paragraph id="idEA60801E92C64A938DD5CD2457A527ED"><enum>(2)</enum><header>Nonmedical exemption prerequisites</header><text>The prerequisites for granting a nonmedical exemption from State immunization requirements described in this paragraph are the following:</text>
+ <subparagraph id="id6326D6DA18084E40AF8FF32962215BB0"><enum>(A)</enum><text>The State requires that prior to the exemption being granted, a parent or guardian seeking a nonmedical exemption from State immunization requirements for a child shall discuss the consequences of nonvaccination with the child's pediatrician or other primary care provider and that the discussion is noted in the child's medical record.</text>
+ </subparagraph><subparagraph id="id908FFE9ED7D04341878E231E7FCAEB7C"><enum>(B)</enum><text>The State requires that prior to the exemption being granted, a parent or guardian seeking a nonmedical exemption from State immunization requirements for a child read and sign a form that discusses the risks of nonvaccination and submits the form to the State.</text>
+ </subparagraph><subparagraph id="id76CFD382B3BF4D248B0D41C59B75323A"><enum>(C)</enum><text>The State requires that prior to the exemption being granted, a parent or guardian seeking a nonmedical exemption from State immunization requirements for a child submits to the State a notarized letter describing the parent's or guardian's reasons for seeking the exemption.</text>
+ </subparagraph><subparagraph id="idC70AB4B110874FF5840D5F82C1CA2B0B"><enum>(D)</enum><text>The State requires that all nonmedical exemptions from State immunization requirements shall only be granted for a 1-year period and shall be required to be renewed annually if a parent or guardian of a child wants the exemption to continue for another year.</text>
+								</subparagraph></paragraph><paragraph id="idBD19D2B67D6548988A845A24DE66E6AD"><enum>(3)</enum><header>Penalty</header>
+ <subparagraph id="id66AD1893B9954058A70BFB283D11FC8C"><enum>(A)</enum><header>In general</header><text>With respect to a fiscal year, if a State fails to submit the certification required under paragraph (1) or if the administrative procedures established by the State for granting nonmedical exemptions from State immunization requirements do not include at least 2 of the prerequisites described in paragraph (2), the State shall pay the Secretary an amount equal to—</text>
+ <clause id="idA132C5D884454C269785279C2D27714F"><enum>(i)</enum><text>in the case of a State that is not a manufacturer of pediatric vaccines, 5 percent of the value (as determined by the Secretary) of the vaccines provided to the State under subsection (b)(2)(A) for that fiscal year; and</text>
+ </clause><clause id="idA74CFD12036346DD8C72A2473A1ABF43"><enum>(ii)</enum><text>in the case of a State that is a manufacturer of pediatric vaccines, 5 percent of the sum of—</text> <subclause id="id0F3386AF63434548994957E73AF202D1"><enum>(I)</enum><text>the value (as determined by the Secretary) of any vaccines provided to the State under subsection (b)(2)(A) for that fiscal year; and</text>
+ </subclause><subclause id="idB326E9A859DE490A98BD8C7035FD8B9B"><enum>(II)</enum><text>the amount paid to the State for the fiscal year under subsection (b)(2)(C).</text> </subclause></clause></subparagraph><subparagraph commented="no" id="id1A5E610F1FCC43AE958446B20CCBF3FB"><enum>(B)</enum><header>Treatment as an overpayment</header><text>A State payment required to be made to the Secretary under subparagraph (A) shall be deemed an overpayment to the State under this title to be disallowed against the State's regular quarterly draw for all spending under section 1903(d)(2). Such a disallowance is not subject to a reconsideration under section 1116(e).</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="id63E06F24016749FAB494BE316CAC39FB"><enum>(b)</enum><header>Conforming amendments</header>
+ <paragraph id="id61D435057202409488E0263C6E087FC6"><enum>(1)</enum><text>Section 1928 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396s">42 U.S.C. 1396s</external-xref>), as amended by subsection (a), is further amended—</text>
+ <subparagraph id="id66CA7E835FDA47239DB1342A2986A5E7"><enum>(A)</enum><text>in subsection (a)(1)(A), by striking <quote>subsection (h)(8)</quote> and inserting <quote>subsection (i)(8)</quote>; and</text> </subparagraph><subparagraph id="idC5F87C2BC85E47D7B059C8888C3CD664"><enum>(B)</enum><text>in subsection (b)(2)(A)(iv), by striking <quote>subsection (h)(3)</quote> and inserting <quote>subsection (i)(3)</quote>.</text>
+ </subparagraph></paragraph><paragraph id="idA2547C5C7CDE45CDA115B3CD330EAE0D"><enum>(2)</enum><text>Section 609(d) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/42/1169">42 U.S.C. 1169(d)</external-xref>) is amended by striking <quote>section 1928(h)(6)</quote> and inserting <quote>section 1928(i)(6)</quote>.</text>
+ </paragraph></subsection><subsection id="idC0379B573477456CAA6B70CBC13902F4"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this Act shall take effect on the date that is 1 year after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

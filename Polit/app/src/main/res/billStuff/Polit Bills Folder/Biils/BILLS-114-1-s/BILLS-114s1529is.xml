@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1529 IS: Crime Gun Tracing Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-06-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 1529</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150609">June 9, 2015</action-date><action-desc><sponsor name-id="S253">Mr. Durbin</sponsor> (for himself, <cosponsor name-id="S316">Mr. Whitehouse</cosponsor>, <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>, <cosponsor name-id="S364">Mr. Murphy</cosponsor>, <cosponsor name-id="S259">Mr. Reed</cosponsor>, and <cosponsor name-id="S223">Mrs. Boxer</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To promote the tracing of firearms used in crimes, and for other purposes.</official-title></form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+ title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Crime Gun Tracing Act of 2015</short-title></quote>.</text>
+ </section><section id="id63A1D32638C04D46B881E22B8354677C"><enum>2.</enum><header>Definition</header><text display-inline="no-display-inline">Section 1709 of the Omnibus Crime Control and Safe Streets Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/42/3796dd-8">42 U.S.C. 3796dd–8</external-xref>) is amended by—</text>
+ <paragraph id="id4DE0EE8318C14F379A6D7FDA44B5C538"><enum>(1)</enum><text display-inline="yes-display-inline">redesignating paragraphs (1) through (4) as paragraphs (2) through (5), respectively; and</text>
+ </paragraph><paragraph id="id73463865F3804B4E88007AE66CD83F9E"><enum>(2)</enum><text>inserting before paragraph (2), as redesignated, the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idA4FAB792D89944B6B56B3D664E33F762" style="OLC">
+ <paragraph id="idCC537D4758F441E482DBB20340263132"><enum>(1)</enum><text><term>Bureau</term> means the Bureau of Alcohol, Tobacco, Firearms, and Explosives.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="id28022ACC1FE941BEAC28A3F8ED35DF03"><enum>3.</enum><header>Incentives for
+ tracing firearms used in crimes</header><text display-inline="no-display-inline">Section 1701 of the Omnibus Crime Control and Safe Streets Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/42/3796dd">42 U.S.C. 3796dd</external-xref>) is amended by striking subsection (c) and inserting the following:</text>
+			<quoted-block display-inline="no-display-inline" id="idF2F7EA9504DC4554B09FA610E60F9E6E" style="OLC">
+				<subsection id="id451E1AEC0F6C4FAF959435A319000BB5"><enum>(c)</enum><header>Preferential
+ consideration of applications for certain grants</header><text>In awarding grants under this part, the Attorney General, where feasible—</text>
+ <paragraph id="id73FF45D10F78473EB0A37D30A578EA1D"><enum>(1)</enum><text>may give preferential consideration to an application for hiring and rehiring additional career law enforcement officers that involves a non-Federal contribution exceeding the 25-percent minimum under subsection (g); and</text>
+ </paragraph><paragraph id="idFA196C2476204091BE16E53868ECE632"><enum>(2)</enum><text>shall give preferential consideration to an application submitted by an applicant that has reported all firearms recovered during the previous 12 months by the applicant at a crime scene or during the course of a criminal investigation to the Bureau for the purpose of tracing, or to a State agency that reports such firearms to the Bureau for the purpose of tracing.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="id37E4EB94AE594381AC17164AF5CDD3E7"><enum>4.</enum><header>Reporting of
+			 firearm tracing by applicants for Community Oriented Policing Services
+ grants</header><text display-inline="no-display-inline">Section 1702(c) of the Omnibus Crime Control and Safe Streets Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/42/3796dd-1">42 U.S.C. 3796dd–1(c)</external-xref>) is amended—</text>
+ <paragraph id="idD277D53F0A7447EFA45A596DE0179196"><enum>(1)</enum><text>in paragraph (10), by striking <quote>and</quote> at the end;</text>
+ </paragraph><paragraph id="id28D9D49E3B8F44E5B27082FC3CEB3F17"><enum>(2)</enum><text>in paragraph (11), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+ </paragraph><paragraph id="id86FBCDF77EB1467982B3163197686DC8"><enum>(3)</enum><text>by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id48F85DD49E8F4FC28AA54228F458616E" style="OLC">
+ <paragraph id="id40C6E128DCB3499A8A9F97467FF7D12E"><enum>(12)</enum><text>specify—</text> <subparagraph id="id4DA590B44CA64143ABE267EFC65B7A93"><enum>(A)</enum><text>whether the applicant recovered any firearms at a crime scene or during the course of a criminal investigation during the 12 months before the submission of the application;</text>
+ </subparagraph><subparagraph id="id938CFE63F86046B38CF4CD795EC3C927"><enum>(B)</enum><text>the number of firearms described in subparagraph (A);</text>
+ </subparagraph><subparagraph id="id7642E2D47C4147C39B044F6088FC388A"><enum>(C)</enum><text>the number of firearms described in subparagraph (A) that were reported to the Bureau for tracing, or to a State agency that reports such firearms to the Bureau for tracing; and</text>
+ </subparagraph><subparagraph id="id1CA3D9EF9661484EB37EFAD83ACC3FB5"><enum>(D)</enum><text>the reason why any firearms described under subparagraph (A) were not reported to the Bureau for tracing, or to a State agency that reports such firearms to the Bureau for tracing.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section></legis-body></bill>
+
+

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2283 IS: Small Business Broadband Deployment Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-11-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2283</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151116">November 16, 2015</action-date>
+			<action-desc><sponsor name-id="S375">Mr. Daines</sponsor> (for himself and <cosponsor name-id="S323">Mr. Risch</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To ensure that small business providers of broadband Internet access service can devote resources
+			 to broadband deployment rather than compliance with cumbersome regulatory
+			 requirements.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Business Broadband Deployment Act of 2015</short-title></quote>.</text>
+		</section><section id="id4DD74D1C61194A378E5579FC938EE243"><enum>2.</enum><header>Exception to enhancement to transparency requirements for small businesses</header>
+ <subsection id="id3EB95DAB324047E5B76C608103DF6E5B"><enum>(a)</enum><header>Definitions</header><text>In this Act—</text> <paragraph id="id36D3DFB2FC89453282610D43D178B783"><enum>(1)</enum><text>the term <term>broadband Internet access service</term>—</text>
+ <subparagraph id="id21BD2739EDFB4EEC96E40804C31CF230"><enum>(A)</enum><text>means a mass-market retail service by wire or radio that provides the capability to transmit data to and receive data from all or substantially all Internet endpoints, including any capability that is incidental to and enables the operation of the communications service; and</text>
+ </subparagraph><subparagraph id="id5BB543734E414CB8A18E5BB5AE99864A"><enum>(B)</enum><text>does not include dial-up Internet access service; and</text> </subparagraph></paragraph><paragraph id="id7ECDC03F69064E38AD875A469AD2F30E"><enum>(2)</enum><text>the term <term>small business</term> means any provider of broadband Internet access service that has not more than—</text>
+ <subparagraph id="idDC7FDEE0E8C243B1A00150D179803E05"><enum>(A)</enum><text>1,500 employees; or</text> </subparagraph><subparagraph id="idF6188DAAA28545CEA7D756AA102A82E7"><enum>(B)</enum><text>500,000 subscribers.</text>
+ </subparagraph></paragraph></subsection><subsection id="id6B76CDAB27974A51AC8AD56B8215B385"><enum>(b)</enum><header>Exception for small businesses</header><text>The enhancements to the transparency rule of the Federal Communications Commission under section 8.3 of title 47, Code of Federal Regulations, as described in paragraphs 162 through 184 of the Report and Order on Remand, Declaratory Ruling, and Order of the Federal Communications Commission with regard to protecting and promoting the open Internet (adopted February 26, 2015) (FCC 15–24), shall not apply to any small business.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

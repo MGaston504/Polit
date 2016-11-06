@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H757246EF3D8E46D9B5AE2A1F0B025018" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2990 IH: Accelerating Individuals into the Workforce Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2990</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150709">July 9, 2015</action-date>
+			<action-desc><sponsor name-id="D000613">Mr. Dold</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for the conduct of demonstration projects to test the effectiveness of subsidized
+			 employment for TANF recipients.</official-title>
+	</form>
+	<legis-body id="H1EB787F4D8E64CD0AD542A3F8D90DFB7" style="OLC">
+ <section id="H07F213C2153245369E85C7B9DFE7DCC7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Accelerating Individuals into the Workforce Act</short-title></quote>.</text> </section><section id="H8FAA85B6B0A34469A58141526CAA3132"><enum>2.</enum><header>Demonstration projects to support subsidized employment for TANF recipients</header><text display-inline="no-display-inline">Section 403 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/603">42 U.S.C. 603</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HD1958CF417AD4E6F8D7C969B1A6A1F4B" style="OLC">
+				<subsection display-inline="no-display-inline" id="H6355175496B54A70B5F55E4370349E2D"><enum>(c)</enum><header>Subsidized employment demonstration projects</header>
+ <paragraph id="HAB8DF96C6DBD4A1D9B3A7D8F467EC151"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary shall make grants to States to conduct demonstration projects designed to implement and evaluate strategies that provide wage subsidies to enable low-income individuals to enter into and retain employment.</text>
+ </paragraph><paragraph id="H9B9207E037B142909A0494F9D22A26DA"><enum>(2)</enum><header>Application requirements</header><text>The Secretary shall require each State that applies for a grant under this subsection to do the following:</text>
+ <subparagraph id="H962434D318A341528CCB699569C97A38"><enum>(A)</enum><text>Describe how wage subsidies will be provided (such as whether paid directly to the employer or the individual), the duration of the subsidies, the amount of the subsidies, the structure of the subsidies, and how employers will be recruited to participate in the subsidized employment program.</text>
+ </subparagraph><subparagraph id="H7961794AD7364932A149D562A240D66C"><enum>(B)</enum><text>Describe how the State expects those participating in subsidized employment to be able to retain employment after the subsidy ends.</text>
+ </subparagraph><subparagraph id="HAB2E57FD94514327BE4EB0DAAA7DEA14"><enum>(C)</enum><text>Describe how the State will coordinate subsidized employment funded under this subsection with other efforts to help low-income individuals enter work as conducted by the State.</text>
+						</subparagraph></paragraph><paragraph id="HBD66E94975DA44EB829A3B03144C82B6"><enum>(3)</enum><header>Use of funds</header>
+ <subparagraph id="H72CE79D644884A5CB7D250AF7CDC3241"><enum>(A)</enum><header>In general</header><text>A State to which a grant is made under this subsection may use the grant to subsidize the wages of an eligible recipient for a period not exceeding 12 months, and only to the extent that the total of the funds paid under this project and any other Federal funds so used with respect to the recipient does not exceed 50 percent of the amount of the wages received by the recipient during the period.</text>
+ </subparagraph><subparagraph id="H7F139D8A75804A4F908486EBF9444A1D"><enum>(B)</enum><header>Eligible recipient</header><text>For purposes of subparagraph (A), an eligible recipient is—</text> <clause id="H9F6FDD26DC2A4F26B239F8948D411042"><enum>(i)</enum> <subclause commented="no" display-inline="yes-display-inline" id="HD1C89A25E5244204978CB34876854957"><enum>(I)</enum><text>a recipient of assistance under the State program funded under this part;</text>
+ </subclause><subclause id="H1E5634A56F1240A494C87CFB1FB30D83" indent="up1"><enum>(II)</enum><text>an adult with children;</text> </subclause><subclause id="H48AEEE849F8A4DA4A9AA511694BDBC2E" indent="up1"><enum>(III)</enum><text>a noncustodial parent; or</text>
+ </subclause><subclause id="HBE70B0EE3C4F403AAEE026BC08BF22FC" indent="up1"><enum>(IV)</enum><text>an individual who has attained 16 years of age but not 26 years of age;</text> </subclause></clause><clause id="H0517FE253939423BBE833F2CC31272C5"><enum>(ii)</enum><text display-inline="yes-display-inline">who, at the time the subsidy begins, is unemployed; and</text>
+ </clause><clause id="HBD0D4AE292D044C2B4C9F4866A3591F5"><enum>(iii)</enum><text display-inline="yes-display-inline">whose income, at that time, is less than 200 percent of the poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 673(2) of the Omnibus Budget Reconciliation Act of 1981 (<external-xref legal-doc="usc" parsable-cite="usc/42/9902">42 U.S.C. 9902(2)</external-xref>)).</text>
+ </clause></subparagraph></paragraph><paragraph id="H2AEFBAC175134656A66A1AF59225EE9B"><enum>(4)</enum><header>Reports</header><text>As a condition of receiving funds under this subsection for a fiscal year, a State shall submit to the Secretary, within 6 months after the end of the fiscal year, a report that—</text>
+ <subparagraph id="HF88815FBB4FD497D9590E6BCA5D9F2C0"><enum>(A)</enum><text>specifies, for each month of the fiscal year, the number of individuals whose employment is subsidized with these funds;</text>
+ </subparagraph><subparagraph id="H5610C16F96384CFE81BF490905E1A127"><enum>(B)</enum><text>specifies, for each month of the fiscal year, the number of the individuals who remained employed by the same employer in an unsubsidized position in the month immediately succeeding the month in which the last subsidy payment was made with respect to the employment; and</text>
+ </subparagraph><subparagraph id="H4402F3C9156842CF969633C45BE7977A"><enum>(C)</enum><text>describes the structure of the State activities to use the funds to subsidize employment, including the amount and duration of the subsidies provided.</text>
+ </subparagraph></paragraph><paragraph display-inline="no-display-inline" id="H80349498E5F94EE79A1F768A9E1BA091"><enum>(5)</enum><header>Evaluation</header><text>The Secretary, in consultation with each State conducting a demonstration project, shall conduct a high-quality evaluation of the demonstration project, and may reserve funds made available under this subsection to conduct the evaluation in accordance with the following:</text>
+ <subparagraph id="H4D052A995E8C4FB1813CE8D356FFA9C8"><enum>(A)</enum><header>Evaluator qualifications</header><text>The Secretary may not enter into a contract with an evaluator unless the evaluator has demonstrated experience in conducting rigorous evaluations of program effectiveness including, where available and appropriate, well-implemented randomized controlled trials.</text>
+ </subparagraph><subparagraph id="H8B3649A9E3B04A58964E2D5A0FF40B77"><enum>(B)</enum><header>Methodologies to be used</header><text>The evaluation of a demonstration project shall use experimental designs using random assignment or other reliable, evidence-based research methodologies that allow for the strongest possible causal inferences when random assignment is not feasible.</text>
+ </subparagraph><subparagraph id="HFB47F9B01CE74E1A98E0610DB8FFAE85"><enum>(C)</enum><header>Public disclosure</header><text>The Secretary shall publish the results of the evaluation on the website of the Department of Health and Human Services in a location easily accessible by the public.</text>
+ </subparagraph></paragraph><paragraph id="H4FACF28F6E5746CE95A2AF22E3B984AB"><enum>(6)</enum><header>Recommendations to congress</header><text display-inline="yes-display-inline">The Secretary shall submit recommendations to the Congress on how to increase the employment, retention, and advancement of individuals currently or formerly receiving assistance under a State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i)).</text>
+ </paragraph><paragraph id="HA5D87BC4A58B42B9A564CF3935D46887"><enum>(7)</enum><header>Funding</header><text display-inline="yes-display-inline">Of the amounts made available to carry out subsection (b) for fiscal year 2016 and each succeeding fiscal year, the Secretary shall reserve $100,000,000 to carry out this subsection.</text>
+ </paragraph><paragraph id="HC1D5C87CFD13446CBDF24111744CFAA1"><enum>(8)</enum><header>Availability of funds</header><text>Funds provided to a State under this subsection for a fiscal year shall be expended by the State in the fiscal year or in the succeeding fiscal year.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="HDA4E2C41B071460D99B94D1018A178DE"><enum>3.</enum><header>Effective date</header><text display-inline="no-display-inline">The amendment made by this Act shall take effect on October 1, 2015.</text> </section></legis-body> </bill> 
+

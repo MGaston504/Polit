@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5CBB7040E9F441E9B937DC9A81093F04" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1781 IH: Workforce Development Tax Credit Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1781</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150414">April 14, 2015</action-date>
+			<action-desc><sponsor name-id="S001185">Ms. Sewell of Alabama</sponsor> (for herself, <cosponsor name-id="B001289">Mr. Byrne</cosponsor>, <cosponsor name-id="R000577">Mr. Ryan of Ohio</cosponsor>, <cosponsor name-id="V000128">Mr. Van Hollen</cosponsor>, <cosponsor name-id="R000599">Mr. Ruiz</cosponsor>, <cosponsor name-id="C001038">Mr. Crowley</cosponsor>, and <cosponsor name-id="C001083">Mr. Carney</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to allow employers a credit against income tax for wages
+			 paid to employees who participate in qualified apprenticeship programs.</official-title>
+	</form>
+	<legis-body id="H49AF9A1E6087429889C8C0DE72221D3B" style="OLC">
+ <section id="H2A88AA0925704D4EB862F36D1C107F39" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Workforce Development Tax Credit Act of 2015</short-title></quote>.</text> </section><section id="H2E43C9D096AE4782A6D5EF0943B84BA3"><enum>2.</enum><header>Credit for wages paid to employees participating in qualified apprenticeship programs</header> <subsection id="HCFEB332ABEAF48CC983B9B8CFCDF6D5C"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subpart D of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 (relating to business-related credits) is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="H23581D85314B447AA30896BFAD4FE258" style="OLC">
+					<section id="H5567CE886096471AA51EE37EA1640207"><enum>45S.</enum><header>Wages paid to employees participating in qualified apprenticeship programs</header>
+ <subsection id="H3A9F838521854B94BBE35CCCFD70F9BC"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">For purposes of section 38, the apprenticeship credit determined under this section for the taxable year is the sum of—</text>
+ <paragraph id="H0B7B056E39FE4C67A9059A9498537713"><enum>(1)</enum><text>the apprenticeship period credit, and</text> </paragraph><paragraph id="HBD04046734F64E64A9B99945CF7952EC"><enum>(2)</enum><text>the post-apprenticeship credit.</text>
+ </paragraph></subsection><subsection id="H571348FC1EA14F85B2E5128CEEA85BB1"><enum>(b)</enum><header>Apprenticeship period credit</header><text>For purposes of subsection (a)—</text> <paragraph id="H8ABC1F9EC11F48DDA69D17A0AD74A694"><enum>(1)</enum><header>In general</header><text>The apprenticeship period credit for the taxable year is 50 percent of the wages paid for services rendered during the taxable year to each apprenticeship employee but only if such wages are paid for services rendered during a qualified training year of such employee (whether or not such employee is an employee of the taxpayer as of the close of such taxable year).</text>
+ </paragraph><paragraph id="HA693CF658F34467A87D486705DA6D4D1"><enum>(2)</enum><header>Limitation on wages per year taken into account</header><text>The amount of wages which may be taken into account under paragraph (1) with respect to any apprenticeship employee for each qualified training year shall not exceed $2,000.</text>
+ </paragraph></subsection><subsection id="HB736A4BDE5A04490BAD4E6EA02ED98C1"><enum>(c)</enum><header>Post-Apprenticeship credit</header><text>For purposes of subsection (a)—</text> <paragraph id="HD6FB5F125F12414FAC1A928364EAEAE1"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The post-apprenticeship credit for the taxable year is 40 percent of the wages paid for services rendered during the taxable year and the preceding taxable year to each employee who has successfully completed a qualified training program of the employer, but only if—</text>
+ <subparagraph id="H841ED2251F9D45E6BC7E413EAC8900AD"><enum>(A)</enum><text>such wages are paid by such employer for services rendered during the 2-year period which begins on the day after the employee’s completion of such program, and</text>
+ </subparagraph><subparagraph id="HF8E394403D204407AF66E883B436828E"><enum>(B)</enum><text>the employee is performing such services in a position which utilizes skills acquired in the qualified training program.</text>
+ </subparagraph></paragraph><paragraph display-inline="no-display-inline" id="H701D9BDC85394B8D879E15A5785D1BC4"><enum>(2)</enum><header>Limitation on wages per year taken into account</header><text>The amount of wages which may be taken into account under paragraph (1) for a taxable year with respect to any apprenticeship employee shall not exceed $6,000.</text>
+ </paragraph><paragraph id="H5717124D3BCE425181A9C3F1DFBD41F7"><enum>(3)</enum><header>Recapture for failure of employee to serve at least 1 year after completion of apprenticeship</header><text display-inline="yes-display-inline">The Secretary shall, by regulations, provide for recapturing the amount of any post-apprenticeship credit allowed under subsection (a) with respect to any individual who is employed by the employer for less than 1 year after the individual completed such program.</text>
+ </paragraph></subsection><subsection id="H062653A2F4B44C07A6CC644010FEEF31"><enum>(d)</enum><header>Definitions</header><text>For purposes of this section—</text> <paragraph id="HC2B265987FAC4B6BAB3EF242B044FF16"><enum>(1)</enum><header>Wages</header><text>The term <term>wages</term> has the meaning given to such term by section 51(c), determined without regard to paragraph (4) thereof.</text>
+ </paragraph><paragraph id="HD132222827E941D2BE9331CB5C46A531"><enum>(2)</enum><header>Apprenticeship employee</header><text display-inline="yes-display-inline">The term <term>apprenticeship employee</term> means any employee who is employed by the employer pursuant to an apprentice agreement registered with the Office of Apprenticeship of the Employment and Training Administration of the Department of Labor.</text>
+							</paragraph><paragraph id="H8E099E5CF6DA4740BE95478481E85C50"><enum>(3)</enum><header>Qualified training year</header>
+ <subparagraph id="H7BE3D89B82E645529C8F91D2EA2D5DCF"><enum>(A)</enum><header>In general</header><text>The term <term>qualified training year</term> means each year during the training period in which—</text> <clause id="H0A7264535EBB43C4B9615B0F6B973987"><enum>(i)</enum><text display-inline="yes-display-inline">the employee is employed by the employer for at least 25 hours per week during 28 consecutive weeks of such year, and</text>
+ </clause><clause id="H75163C80815C4F4B940A583A7EBE2959"><enum>(ii)</enum><text>the employee completes at least 8 credit hours of classroom work under a qualified training program for each semester of such program ending during such year.</text>
+ </clause></subparagraph><subparagraph id="H133FA48EC29845FEAC306CE295E039D3"><enum>(B)</enum><header>Qualified training program</header><text>The term <term>qualified training program</term> means any training program undertaken pursuant to the agreement referred to in paragraph (2).</text> </subparagraph><subparagraph id="H15BF4476F10744E59065CA8EE86BE8C0"><enum>(C)</enum><header>Training period</header><text>The term <term>training period</term> means, with respect to an employee, the period—</text>
+ <clause id="HAFF7A6C26EA74259AC5EEE1FF2898CFD"><enum>(i)</enum><text>beginning on the date that the employee begins employment with the taxpayer as an apprentice under a qualified training program, and</text>
+ </clause><clause id="HAA44C290D7EE49948E12CF7623BDD1C5"><enum>(ii)</enum><text>ending on the earlier of—</text> <subclause id="HC9688B8AF8E84B319DA1E9DB80E510BC"><enum>(I)</enum><text>the date that such apprenticeship with the employer ends, or</text>
+ </subclause><subclause id="H75418810DCF94737B03155A221D49E08"><enum>(II)</enum><text>the date which is 2 years after the date referred to in clause (i).</text> </subclause></clause></subparagraph></paragraph></subsection><subsection id="HD6FDB3720C714A199869D9A36038259B"><enum>(e)</enum><header>Coordination with other credits</header><text>The amount of credit otherwise allowable under sections 45A, 51(a), and 1396(a) with respect to any employee shall be reduced by the credit allowed by this section with respect to such employee.</text>
+ </subsection><subsection id="H05A177472C89480DADE79E6C547B4BE5"><enum>(f)</enum><header>Certain rules To apply</header><text>Rules similar to the rules of subsections (i)(1) and (k) of section 51 shall apply for purposes of this section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H3838AD4A39944F98B90F22B43C416C79"><enum>(b)</enum><header>Credit made part of general business credit</header><text display-inline="yes-display-inline">Subsection (b) of section 38 of such Code is amended by striking <quote>plus</quote> at the end of paragraph (35), by striking the period at the end of paragraph (36) and inserting <quote>, plus</quote>, and by adding at the end the following new paragraph:</text> <quoted-block display-inline="no-display-inline" id="HF08206F06CEE4E6689F342C79671C2E3" style="OLC"> <paragraph id="H210126C09E8541949A1578479127C901"><enum>(37)</enum><text display-inline="yes-display-inline">the apprenticeship credit determined under section 45S(a).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HDD7BED6A4E214BDABFA53CC0242086AB"><enum>(c)</enum><header>Denial of double benefit</header><text>Subsection (a) of section 280C of such Code is amended by inserting <quote>45S(a),</quote> after <quote>45P(a),</quote>.</text> </subsection><subsection id="H3DD6F5DF70364E439B111CED36420732"><enum>(d)</enum><header>Clerical amendment</header><text>The table of sections for subpart D of part IV of subchapter A of chapter 1 of such Code is amended by adding at the end the following new item:</text>
+				<toc regeneration="no-regeneration">
+					<toc-entry level="section"><quote>Sec. 45S. Wages paid to employees participating in qualified apprenticeship programs.</quote>.</toc-entry></toc>
+ </subsection><subsection id="H9B531EFB0EDA48CE9F72775CE1A5D95E"><enum>(e)</enum><header>Effective date</header><text>The amendments made by this section shall apply to individuals commencing apprenticeship programs after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

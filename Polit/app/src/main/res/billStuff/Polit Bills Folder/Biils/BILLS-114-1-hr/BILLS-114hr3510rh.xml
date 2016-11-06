@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="HDF45B19C068149DCB579FD79AA907A29" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3510 RH: Department of Homeland Security Cybersecurity Strategy Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IB</distribution-code>
+		<calendar display="yes">Union Calendar No. 216</calendar>
+		<congress display="yes">114th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>H. R. 3510</legis-num>
+		<associated-doc display="yes" role="report">[Report No. 114–284]</associated-doc>
+		<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150915">September 15, 2015</action-date>
+			<action-desc><sponsor name-id="R000588">Mr. Richmond</sponsor> introduced the following bill; which was referred to the <committee-name added-display-style="italic" committee-id="HHM00" deleted-display-style="strikethrough">Committee on Homeland Security</committee-name></action-desc>
+		</action>
+		<action>
+			<action-date date="20151006">October 6, 2015</action-date>
+			<action-desc>Additional sponsors: <cosponsor name-id="R000601">Mr. Ratcliffe</cosponsor>, <cosponsor name-id="M001157">Mr. McCaul</cosponsor>, and <cosponsor name-id="T000193">Mr. Thompson of Mississippi</cosponsor></action-desc>
+		</action>
+		<action>
+			<action-date date="20151006">October 6, 2015</action-date>
+			<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the
+			 Union, and ordered to be printed</action-desc>
+			<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction>
+			<action-instruction>For text of introduced bill, see copy of bill as introduced on September 15, 2015</action-instruction>
+		</action>
+		<action display="yes">
+			<action-desc display="yes"><pagebreak></pagebreak></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend the Homeland Security Act of 2002 to require the Secretary of Homeland Security to develop
+			 a cybersecurity strategy for the Department of Homeland Security, and for
+			 other purposes.<pagebreak></pagebreak></official-title>
+	</form>
+	<legis-body changed="added" committee-id="HHM00" display-enacting-clause="yes-display-enacting-clause" id="H78F188B78C0449D2A5E6BDCCC09D73EA" reported-display-style="italic" style="OLC">
+ <section id="HF563D08EA7ED46628AFF6705A550D4EF" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Department of Homeland Security Cybersecurity Strategy Act of 2015</short-title></quote>.</text> </section><section id="H04370419DE56472C9AC46A36C75579CD"><enum>2.</enum><header>Cybersecurity strategy for the Department of Homeland Security</header> <subsection id="HDB50C4FE1E0343A59260AF516D30E63F"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subtitle C of title II of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/141">6 U.S.C. 141 et seq.</external-xref>) is amended by adding at the end the following new section:</text>
+				<quoted-block changed="added" committee-id="HHM00" display-inline="no-display-inline" id="HFC20C49348D64EF0BAD57D544716B5BB" reported-display-style="italic" style="OLC">
+					<section id="H65F61A45DC494FE48CB91D52F6A023B8"><enum>230.</enum><header>Cybersecurity strategy</header>
+ <subsection id="H4CED7DC20A2C49DA95FCFCE3EAF1FC00"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 60 days after the date of the enactment of this section, the Secretary shall develop a departmental strategy to carry out cybersecurity responsibilities as set forth in law.</text>
+ </subsection><subsection id="HEB028CF82CBB4AF2B2DEA588B7ABBA0D"><enum>(b)</enum><header>Contents</header><text>The strategy required under subsection (a) shall include the following:</text> <paragraph id="H2325D331A6D341088981387EC2077B8D"><enum>(1)</enum><text>Strategic and operational goals and priorities to successfully execute the full range of the Secretary’s cybersecurity responsibilities.</text>
+ </paragraph><paragraph id="H01AF5A1E205C45CEBD523502C707FAD2"><enum>(2)</enum><text>Information on the programs, policies, and activities that are required to successfully execute the full range of the Secretary’s cybersecurity responsibilities, including programs, policies, and activities in furtherance of the following:</text>
+ <subparagraph id="H133AF102439E4E58A84A7728D93772AE"><enum>(A)</enum><text>Cybersecurity functions set forth in the second section 226 (relating to the national cybersecurity and communications integration center).</text>
+ </subparagraph><subparagraph id="HC61F9F70165E46A39A3BEBD977A65820"><enum>(B)</enum><text>Cybersecurity investigations capabilities.</text> </subparagraph><subparagraph id="HD287731F4A574B388C16D6B2C850A791"><enum>(C)</enum><text>Cybersecurity research and development.</text>
+ </subparagraph><subparagraph id="HEAF072E78A234E06811BF50A78F174C0"><enum>(D)</enum><text>Engagement with international cybersecurity partners.</text> </subparagraph></paragraph></subsection><subsection id="HBC9C7AE33FF44E22A6A3CEF6808BF093"><enum>(c)</enum><header>Considerations</header><text>In developing the strategy required under subsection (a), the Secretary shall—</text>
+ <paragraph id="H89838D33E0624C23B1835415EC4829C4"><enum>(1)</enum><text>consider—</text> <subparagraph id="H7D7E056BD7C64F53B75E699877FD1F2F"><enum>(A)</enum><text>the cybersecurity strategy for the Homeland Security Enterprise published by the Secretary in November 2011;</text>
+ </subparagraph><subparagraph id="HC626C4152BB04435A65F19D5E0F2C37D"><enum>(B)</enum><text>the Department of Homeland Security Fiscal Years 2014–2018 Strategic Plan; and</text> </subparagraph><subparagraph id="HAD880633827C4EEBB08954B05CEAF2EB"><enum>(C)</enum><text>the most recent Quadrennial Homeland Security Review issued pursuant to section 707; and</text>
+ </subparagraph></paragraph><paragraph id="H7A2373BE4E414D319771FC4ECC6CC2A2"><enum>(2)</enum><text display-inline="yes-display-inline">include information on the roles and responsibilities of components and offices of the Department, to the extent practicable, to carry out such strategy.</text>
+ </paragraph></subsection><subsection id="H2A8DBBFDFC9942F58D130192F2C5522F"><enum>(d)</enum><header>Implementation plan</header><text display-inline="yes-display-inline">Not later than 90 days after the development of the strategy required under subsection (a), the Secretary shall issue an implementation plan for the strategy that includes the following:</text>
+ <paragraph id="H239D1699BE0E47EAB7DB74DB44EBF9C7"><enum>(1)</enum><text>Strategic objectives and corresponding tasks.</text> </paragraph><paragraph id="H662E27FDFDA84A6A88F6DB54DC2D7E84"><enum>(2)</enum><text>Projected timelines and costs for such tasks.</text>
+ </paragraph><paragraph id="HF5E95D50376347C094C4ED0D2CE97D7A"><enum>(3)</enum><text>Metrics to evaluate performance of such tasks.</text> </paragraph></subsection><subsection commented="no" id="H630FB2CC643B4944856D4775C3A38CC3"><enum>(e)</enum><header>Congressional oversight</header><text display-inline="yes-display-inline">The Secretary shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate for assessment the following:</text>
+ <paragraph commented="no" id="H496DECA64B6C4551A5980AEF44FD2275"><enum>(1)</enum><text>A copy of the strategy required under subsection (a) upon issuance.</text> </paragraph><paragraph commented="no" id="H3FC42D67DFB44626A1E97F383E50CFA4"><enum>(2)</enum><text>A copy of the implementation plan required under subsection (d) upon issuance, together with detailed information on any associated legislative or budgetary proposals.</text>
+ </paragraph></subsection><subsection id="H9D9BD8B6E1D44EA0B8D7533495BD6683"><enum>(f)</enum><header>Prohibition on reorganization</header><text display-inline="yes-display-inline">In the event that the strategy required under subsection (a) or implementation plan required under subsection (d) includes actions to reorganize departmental components or offices, such actions may not be executed without prior congressional authorization.</text>
+ </subsection><subsection id="H32575E3DFFDE42239EBD1C9FB461440D"><enum>(g)</enum><header>Classified information</header><text>The strategy required under subsection (a) shall be in an unclassified form but may contain a classified annex.</text>
+ </subsection><subsection id="H5A5715DD24EF4A84B15653D254BD64A7"><enum>(h)</enum><header>Rule of construction</header><text display-inline="yes-display-inline">Nothing in this section may be construed as permitting the Department to engage in monitoring, surveillance, exfiltration, or other collection activities for the purpose of tracking an individual’s personally identifiable information.</text>
+ </subsection><subsection id="HFB06E63E4F6E496590CFA322A5B57566"><enum>(i)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HBA4EE32B8E1F498D93C4CD4272E6B339"><enum>(1)</enum><header>Cybersecurity risk</header><text display-inline="yes-display-inline">The term <quote>cybersecurity risk</quote> has the meaning given such term in the second section 226, relating to the national cybersecurity and communications integration center.</text>
+ </paragraph><paragraph id="H9600AB2E0A1241808E3612AC7FA4FB0D"><enum>(2)</enum><header>Homeland Security Enterprise</header><text display-inline="yes-display-inline">The term <quote>Homeland Security Enterprise</quote> means relevant governmental and nongovernmental entities involved in homeland security, including Federal, State, local, and tribal government officials, private sector representatives, academics, and other policy experts.</text>
+ </paragraph><paragraph id="H48BF4E19941D4196AD06ABF7D74EC589"><enum>(3)</enum><header>Incident</header><text display-inline="yes-display-inline">The term <quote>incident</quote> has the meaning given such term in the second section 226, relating to the national cybersecurity and communications integration center.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HB7B2E2497693439C9BAA9BBED21E1AD9"><enum>(b)</enum><header>Clerical amendment</header><text>The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by adding at the end of the list of items for subtitle C of title II the following new item:</text>
+				<quoted-block changed="added" committee-id="HHM00" display-inline="no-display-inline" id="H45E9F36836F7497EA0941B38BA1F0D81" reported-display-style="italic" style="OLC">
+					<toc changed="added" committee-id="HHM00" regeneration="no-regeneration" reported-display-style="italic">
+						<toc-entry level="section">Sec. 230. Cybersecurity strategy.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H6EB6EB8FF5144FFC92BC0AB80EDD35C7"><enum>(c)</enum><header>Amendment to definition</header><text display-inline="yes-display-inline">Paragraph (2) of subsection (a) of the second section 226 of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/148">6 U.S.C. 148</external-xref>; relating to the national cybersecurity and communications integration center) is amended to read as follows:</text>
+				<quoted-block changed="added" committee-id="HHM00" display-inline="no-display-inline" id="H3482FE8F474345EB8B22805D2CC4E6F7" reported-display-style="italic" style="OLC">
+ <paragraph id="HA9D236DF8B68403E98EE15935A27D3C5"><enum>(2)</enum><text display-inline="yes-display-inline">the term <quote>incident</quote> means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system, or actually or imminently jeopardizes, without lawful authority, an information system;</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+	<endorsement display="yes">
+		<action-date date="20151006">October 6, 2015</action-date>
+		<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the
+			 Union, and ordered to be printed</action-desc></endorsement>
+</bill>
+
+

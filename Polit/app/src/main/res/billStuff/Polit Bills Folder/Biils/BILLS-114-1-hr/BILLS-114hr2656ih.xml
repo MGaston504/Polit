@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HDA8E8367009845F3860E5345D919D2B2" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2656 IH: Receiving Electronic Statements To Improve Retiree Earnings Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2656</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150604">June 4, 2015</action-date>
+			<action-desc><sponsor name-id="P000598">Mr. Polis</sponsor> (for himself, <cosponsor name-id="R000582">Mr. Roe of Tennessee</cosponsor>, <cosponsor name-id="K000188">Mr. Kind</cosponsor>, and <cosponsor name-id="K000376">Mr. Kelly of Pennsylvania</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Employee Retirement and Income Security Act of 1974 and the Internal Revenue Code of
+			 1986 to provide for the electronic delivery of pension plan information.</official-title>
+	</form>
+	<legis-body id="HDF6DD440300B472E8ADEF34F7B825CCB" style="OLC">
+ <section id="H5342EE9ED6B84E2AB3282F31D79B7405" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Receiving Electronic Statements To Improve Retiree Earnings Act</short-title></quote>.</text> </section><section id="H6885B88A72404DECA5AC97A588CF23C4"><enum>2.</enum><header>Electronic communication of pension plan information</header> <subsection id="HF6C3D5D9A2344585986002C05CFA4198"><enum>(a)</enum><header>Amendments to Employee Retirement Income Security Act of 1974</header> <paragraph id="HBE38FAD027A94719A4B6733E6320DAB9"><enum>(1)</enum><header>In general</header><text>Part 1 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1021">29 U.S.C. 1021 et seq.</external-xref>) is amended by adding at the end the following:</text>
+					<quoted-block id="H71875CA0FED1404EA6C071A3D95F500E" style="OLC">
+ <section id="H6D020FE40AB24B7BBC3FBF86B6DBD027"><enum>112.</enum><header>Electronic communication of pension plan information</header><text display-inline="no-display-inline">A document of any type that is required or permitted under this title to be furnished to a plan participant, beneficiary, or other individual with respect to a pension plan may be furnished in electronic form if—</text>
+ <paragraph id="HE4F6417114DD45EEB5CC6F89B4E0C0C9"><enum>(1)</enum><text>the system for furnishing such a document—</text> <subparagraph id="H5B3C3205AAF64D488268FE1597BBA90D"><enum>(A)</enum><text>is designed to result in effective access to the document by the participant, beneficiary, or other specified individual through electronic means, including—</text>
+ <clause id="HD07A5EF4B3324014AF456F3362389329"><enum>(i)</enum><text>the direct delivery of material to an electronic address of such participant, beneficiary, or individual,</text>
+ </clause><clause id="HF8422AFF801447A799B77ECACE36CDEB"><enum>(ii)</enum><text>the posting of material to a website or other internet or electronic-based information repository to which access has been granted to such participant, beneficiary, or individual, but only if proper notice of the posting has been provided (which may include notice furnished by other electronic means if the content of the notice conveys the need to take action to access the posted material), and</text>
+ </clause><clause id="H957E2F30898848B2851C3B047A8655D7"><enum>(iii)</enum><text>other electronic means reasonably calculated to ensure actual receipt of the material by such participant, beneficiary, or individual,</text>
+ </clause></subparagraph><subparagraph id="HDBD45E28F5034C0FB7DDCDB5DBCB1399"><enum>(B)</enum><text display-inline="yes-display-inline">permits the participant, beneficiary, or other individual to select the specific electronic means through which such a document shall be furnished, to modify that selection at any time, or to elect at any time to begin receiving paper versions of such documents at no additional direct cost to the individual, and</text>
+ </subparagraph><subparagraph id="HE57C88FC6F924EED8FDC8C42A326EC67"><enum>(C)</enum><text>protects the confidentiality of personal information relating to such participant’s, beneficiary’s, or individual’s accounts and benefits,</text>
+ </subparagraph></paragraph><paragraph display-inline="no-display-inline" id="H13D54EA6CE524EBEA674D9EA5F4B48C2"><enum>(2)</enum><text display-inline="yes-display-inline">an annual paper notice is provided to each participant, beneficiary, or other individual that describes—</text>
+ <subparagraph id="H3EC5659C65FD4601972336561DC3E606"><enum>(A)</enum><text>the selection of the specific electronic means for the furnishing of such documents made by the participant, beneficiary, or other individual under paragraph (1)(B) in effect at the time of the provision of the notice, or</text>
+ </subparagraph><subparagraph id="H4493D07B61484D0DA0BFED39853F89F5"><enum>(B)</enum><text display-inline="yes-display-inline">if applicable, the election made by the participant, beneficiary, or other individual under paragraph (1)(B) to be furnished paper versions of such documents, and</text>
+ </subparagraph></paragraph><paragraph id="H8F66BFC1F658430498650A69377461C1"><enum>(3)</enum><text>the electronically furnished document—</text> <subparagraph id="H4C40C6FC0F624D1895567E9ADFB3ED97"><enum>(A)</enum><text>is prepared and furnished in a manner that is consistent with the style, format, and content requirements applicable to the particular document, and</text>
+ </subparagraph><subparagraph id="H0F3584E89E29450AB845714C1F7BFA50"><enum>(B)</enum><text>includes a notice that apprises the individual of the significance of the document when it is not otherwise reasonably evident as transmitted.</text>
+								</subparagraph><continuation-text continuation-text-level="paragraph">For purposes of this section, the term <quote>document</quote> includes reports, statements, notices, notifications, and other information.</continuation-text></paragraph></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="HA6CFBFD20FE147829A84E47DB5757C58"><enum>(2)</enum><header>Conforming amendment</header><text>The table of contents in section 1 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/29/1001">29 U.S.C. 1001</external-xref> note) is amended by inserting after the item relating to section 111 the following:</text>
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">112. Electronic communication of pension plan information.</toc-entry></toc>
+ </paragraph></subsection><subsection id="HA411F22A8E3F47078D52DB6F57F667ED"><enum>(b)</enum><header>Amendment to Internal Revenue Code of 1986</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/414">Section 414</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following:</text> <quoted-block id="HD80B5470EC7F4F34B51FDD5C973106E4" style="OLC"> <subsection id="HD69A0CB9FAA14A498579B0F431A0E0ED"><enum>(z)</enum><header>Electronic communication of pension plan information</header><text display-inline="yes-display-inline">A document of any type that is required or permitted under this title to be furnished to a plan participant, beneficiary, or other individual with respect to a plan to which this subchapter or section 457 applies may be furnished in electronic form if—</text>
+ <paragraph id="H80A63EC469C24E92B03BE05B78BA7D2A"><enum>(1)</enum><text>the system for furnishing such a document—</text> <subparagraph id="H58DB462548ED4961AE70813A82901ED1"><enum>(A)</enum><text>is designed to result in effective access to the document by the participant, beneficiary, or other specified individual through electronic means, including—</text>
+ <clause id="H075416A926444224BC3487B037A2BB83"><enum>(i)</enum><text>the direct delivery of material to an electronic address of such participant, beneficiary, or individual,</text>
+ </clause><clause id="H012BA011E73F491F982156B91460AA21"><enum>(ii)</enum><text>the posting of material to a website or other internet or electronic-based information repository to which access has been granted to such participant, beneficiary, or individual, but only if proper notice of the posting has been provided (which may include notice furnished by other electronic means if the content of the notice conveys the need to take action to access the posted material), and</text>
+ </clause><clause id="H5781BB2ED0504F908750781386065325"><enum>(iii)</enum><text>other electronic means reasonably calculated to ensure actual receipt of the material by such participant, beneficiary, or individual,</text>
+ </clause></subparagraph><subparagraph display-inline="no-display-inline" id="HB3C07F0C799F406D9EFCC79A26DF4884"><enum>(B)</enum><text display-inline="yes-display-inline">permits the participant, beneficiary, or other individual to select the specific electronic means through which such a document shall be furnished, to modify that selection at any time, or to elect at any time to begin receiving paper versions of such documents at no additional direct cost to the individual, and</text>
+ </subparagraph><subparagraph id="H9C6D9085393947B39C9909D1039854F1"><enum>(C)</enum><text>protects the confidentiality of personal information relating to such participant’s, beneficiary’s, or individual’s accounts and benefits,</text>
+ </subparagraph></paragraph><paragraph display-inline="no-display-inline" id="H7B58B2B44758486CA67A93FBCDC948E5"><enum>(2)</enum><text display-inline="yes-display-inline">an annual paper notice is provided to each participant, beneficiary, or other individual that describes—</text>
+ <subparagraph id="H166DBA5863B74DAFB0E6038DADFE6E77"><enum>(A)</enum><text>the selection of the specific electronic means for the furnishing of such documents made by the participant, beneficiary, or other individual under paragraph (1)(B) in effect at the time of the provision of the notice, or</text>
+ </subparagraph><subparagraph id="HB3482781620B422DB58EC71CE43B3DAD"><enum>(B)</enum><text display-inline="yes-display-inline">if applicable, the election made by the participant, beneficiary, or other individual under paragraph (1)(B) to be furnished paper versions of such documents, and</text>
+ </subparagraph></paragraph><paragraph id="H50000411D1644B9FB2798AE91326A010"><enum>(3)</enum><text>the electronically furnished document—</text> <subparagraph id="H6E23E53BEA404D1B82D80EDACC837781"><enum>(A)</enum><text>is prepared and furnished in a manner that is consistent with the style, format, and content requirements applicable to the particular document, and</text>
+ </subparagraph><subparagraph id="H7D98288697F745708066B0F57BB7A730"><enum>(B)</enum><text>includes a notice that apprises the individual of the significance of the document when it is not otherwise reasonably evident as transmitted.</text>
+							</subparagraph><continuation-text continuation-text-level="paragraph">For purposes of this subsection, the term <quote>document</quote> includes reports, statements, notices, notifications, and other information.</continuation-text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H06050E0A8C0542EC9462D90532844737"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply with respect to documents furnished with respect to plan years beginning after December 31, 2015.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

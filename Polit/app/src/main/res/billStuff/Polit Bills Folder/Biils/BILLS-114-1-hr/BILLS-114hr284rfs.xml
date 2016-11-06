@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Referred-in-Senate" bill-type="olc" dms-id="H9C9391D3C5DC4A188232B7583C2FCD18" public-private="public" stage-count="1">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 284 : Medicare DMEPOS Competitive Bidding Improvement Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IIB</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 284</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150317">March 17, 2015</action-date><action-desc>Received; read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc></action><legis-type>AN ACT</legis-type>
+		<official-title display="yes">To amend title XVIII of the Social Security Act to require State licensure and bid surety bonds for
+			 entities submitting bids under the Medicare durable medical equipment,
+			 prosthetics, orthotics, and supplies (DMEPOS) competitive acquisition
+			 program, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H108ECE998DF8456BA9E84193BD2CA9D0" style="OLC">
+ <section id="H597C2F0F325D4BD9929E13439F37522C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the ‘‘<short-title>Medicare DMEPOS Competitive Bidding Improvement Act of 2015</short-title>’’.</text> </section><section id="H138D724778EC49DF860D355A2C54BCCC"><enum>2.</enum><header>Requiring bid surety bonds and State licensure for entities submitting bids under the Medicare DMEPOS competitive acquisition program</header> <subsection id="H84C0FBBB554D4F7BA856FC5779406C2E"><enum>(a)</enum><header>Bid surety bonds</header><text display-inline="yes-display-inline">Section 1847(a)(1) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-3">42 U.S.C. 1395w–3(a)(1)</external-xref>) is amended by adding at the end the following new subparagraphs:</text>
+				<quoted-block id="H47CFB3E2980E4B09B563C868EE25524E" style="OLC">
+ <subparagraph id="H282F57D2F7224A84A328D65B0AA6C039"><enum>(G)</enum><header>Requiring bid bonds for bidding entities</header><text>With respect to rounds of competitions beginning under this subsection for contracts beginning not earlier than January 1, 2017, and not later than January 1, 2019, an entity may not submit a bid for a competitive acquisition area unless, as of the deadline for bid submission, the entity has obtained (and provided the Secretary with proof of having obtained) a bid surety bond (in this paragraph referred to as a <quote>bid bond</quote>) in a form specified by the Secretary consistent with subparagraph (H) and in an amount that is not less than $50,000 and not more than $100,000 for each competitive acquisition area in which the entity submits the bid.</text>
+					</subparagraph><subparagraph id="HACC7F83EB47945778F5B7ADCF25B253E"><enum>(H)</enum><header>Treatment of bid bonds submitted</header>
+ <clause id="HC81570F4F4244776BD935A10CC177C88"><enum>(i)</enum><header>For bidders that submit bids at or below the median and are offered but do not accept the contract</header><text>In the case of a bidding entity that is offered a contract for any product category for a competitive acquisition area, if—</text>
+ <subclause id="HA7A80F323AAC425F89EADF0E25E74D2C"><enum>(I)</enum><text>the entity’s composite bid for such product category and area was at or below the median composite bid rate for all bidding entities included in the calculation of the single payment amounts for such product category and area; and</text>
+ </subclause><subclause id="H23A42E07D1D342E4913E34E55B50B96D"><enum>(II)</enum><text>the entity does not accept the contract offered for such product category and area,</text> </subclause><continuation-text continuation-text-level="clause">the bid bond submitted by such entity for such area shall be forfeited by the entity and the Secretary shall collect on it.</continuation-text></clause><clause id="H2A7278BEC4AF43038F063B6BC332CEC1"><enum>(ii)</enum><header>Treatment of other bidders</header><text display-inline="yes-display-inline">In the case of a bidding entity for any product category for a competitive acquisition area, if the entity does not meet the bid forfeiture conditions in subclauses (I) and (II) of clause (i) for any product category for such area, the bid bond submitted by such entity for such area shall be returned within 90 days of the public announcement of the contract suppliers for such area.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HF9FD0A4BFA0E4AB793543BE4DB33990F"><enum>(b)</enum><header>State licensure</header>
+ <paragraph id="H22048E64DFB24F05A48E0D39EA4AE4D7"><enum>(1)</enum><header>In general</header><text>Section 1847(b)(2)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-3">42 U.S.C. 1395w–3(b)(2)(A)</external-xref>) is amended by adding at the end the following new clause:</text>
+					<quoted-block display-inline="no-display-inline" id="HC53B28C097EF45E9933ED2B7369DA7F9" style="OLC">
+ <clause id="H8C9628E5143441D5A43AC431207286AE"><enum>(v)</enum><text display-inline="yes-display-inline">The entity meets applicable State licensure requirements.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph><paragraph id="H0613342C0345476FBA6BCE29B53134DE"><enum>(2)</enum><header>Construction</header><text display-inline="yes-display-inline">Nothing in the amendment made by paragraph (1) shall be construed as affecting the authority of the Secretary of Health and Human Services to require State licensure of an entity under the Medicare competitive acquisition program under section 1847 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-3">42 U.S.C. 1395w–3</external-xref>) before the date of the enactment of this Act.</text>
+				</paragraph></subsection><subsection id="HAA8627A4B1244D7D8188A92B2085A16B"><enum>(c)</enum><header>GAO report on bid bond impact on small suppliers</header>
+ <paragraph id="H2C49B5E18A524EEC860717A3C6E8ABE1"><enum>(1)</enum><header>Study</header><text>The Comptroller General of the United States shall conduct a study that evaluates the effect of the bid surety bond requirement under the amendment made by subsection (a) on the participation of small suppliers in the Medicare DMEPOS competitive acquisition program under section 1847 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-3">42 U.S.C. 1395w–3</external-xref>).</text>
+ </paragraph><paragraph id="H5243349D75F84C95BBCC135FB08991F4"><enum>(2)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than 6 months after the date contracts are first awarded subject to such bid surety bond requirement, the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1). Such report shall include recommendations for changes in such requirement in order to ensure robust participation by<pagebreak></pagebreak> legitimate small suppliers in the Medicare DMEPOS competition acquisition program.</text>
+				</paragraph></subsection></section></legis-body>
+	<attestation><attestation-group><attestation-date chamber="House" date="20150316">Passed the House of Representatives March 16, 2015.</attestation-date><attestor display="yes">Karen L. Haas,</attestor><role>Clerk</role></attestation-group></attestation>
+</bill>
+
+

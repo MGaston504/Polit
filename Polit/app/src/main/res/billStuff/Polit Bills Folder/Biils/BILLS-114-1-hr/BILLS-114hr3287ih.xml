@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HAE8B79C0344744AEA99AA8E0A95CE1E0" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3287 IH: Community Bank Flexibility Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3287</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150729">July 29, 2015</action-date>
+			<action-desc><sponsor name-id="M001158">Mr. Marchant</sponsor> (for himself and <cosponsor name-id="B001273">Mrs. Black</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to clarify the treatment of banks organized as limited
+			 liability companies.</official-title>
+	</form>
+	<legis-body id="HAEC530D544954B12AD32F5F822336156" style="OLC">
+ <section id="H5F380F6056BA47C7A2250F6ACF2FBC8E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Community Bank Flexibility Act</short-title></quote>.</text> </section><section id="HC01203A71162408BB4E058D89AFA1214"><enum>2.</enum><header>Treatment of banks organized as limited liability companies</header> <subsection id="HCF108C9EF0884EB1B2EE796105745A7C"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/581">Section 581</external-xref> of the Internal Revenue Code of 1986 is amended—</text>
+ <paragraph id="H89717EBAE37540FEBC5E1B2443E3A17B"><enum>(1)</enum><text>by striking <quote>For purposes of</quote> and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="H39113076ECFB4A829A3E6916828359A7" style="OLC"> <subsection id="H862D3CFF700244CFA2ACB716134FAFAD"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">For purposes of</text></subsection><after-quoted-block>, and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H5B468B6B0C7449ECA278EBD2A00AE205"><enum>(2)</enum><text>by adding at the end the following new subsection:</text> <quoted-block display-inline="no-display-inline" id="H410646F2AA56465EB6DA87D07BC77813" style="OLC"> <subsection id="H00FE724B72A74898B09E03D716911896"><enum>(b)</enum><header>Treatment of limited liability companies, etc</header> <paragraph id="H55D79C864BD54519A78AC9E914682887"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">An entity shall not fail to be treated as a bank under subsection (a) merely because such entity is a specified entity (or because such entity elects to be treated either as a corporation or as a partnership for purposes of this title).</text>
+ </paragraph><paragraph id="HEE0F1938A6084198B05E564373A4D044"><enum>(2)</enum><header>Specified entity</header><text>For purposes of this subsection, the term <quote>specified entity</quote> means any entity which may elect to be treated either as a corporation or as a partnership for purposes of this title.</text>
+							</paragraph><paragraph id="H62EABEE24B6445268AA394FB2BC50843"><enum>(3)</enum><header>Transitional rules</header>
+ <subparagraph id="HE8734DB9FBF44065A4BE89AF10C2A087"><enum>(A)</enum><header>Reorganizations</header><text display-inline="yes-display-inline">In the case of any acquisition or transfer during the 5-year period beginning on the date of the enactment of this subsection, any specified entity which (after such acquisition or transfer) qualifies as a bank under paragraph (1) shall be treated as a corporation for purposes of applying section 368(a)(1).</text>
+								</subparagraph><subparagraph id="HAB301B6864DB4325867061C4233D4F0B"><enum>(B)</enum><header>Tax imposed on certain built-in gains</header>
+ <clause id="H90EA6A0686774F7C9A15FA188889DB75"><enum>(i)</enum><header>In general</header><text>In the case of any specified entity with respect to which any transfer or acquisition is treated as a reorganization under section 368(a)(1) by reason of this paragraph, rules similar to the rules of section 1374 shall apply with respect to such specified entity by treating such reorganization in the same manner as an election under section 1362(a) (and by treating the specified entity as an S corporation and the other corporation with respect to such reorganization as the small business corporation making such election).</text>
+ </clause><clause id="H0F6EE65750434380968BE72BF393E1A7"><enum>(ii)</enum><header>Special rule for reorganizations during recognition period of an S corporation bank</header><text>In the case of a transfer or acquisition to which clause (i) applies, if—</text> <subclause id="H74F39FD050C447AC89A4F7B079CDEB5E"><enum>(I)</enum><text>the other corporation referred to in clause (i) is an S corporation, and</text>
+ </subclause><subclause id="H41E93F410DF34885A1E3EA14F1CD5266"><enum>(II)</enum><text>such transfer or acquisition occurs during the recognition period (as defined in section 1374(d)(7)) of such S corporation,</text>
+										</subclause><continuation-text continuation-text-level="clause">the recognition period of the specified entity determined by reason of the application of clause
+			 (i) shall not include any taxable year of the specified entity which
+ begins after the recognition period of such S corporation.</continuation-text></clause></subparagraph><subparagraph id="H7171FD1A59EC445EB9812EE3F0641CA6"><enum>(C)</enum><header>Election to have transition rules not apply</header><text>Subparagraphs (A) and (B) shall not apply if the specified entity referred to in such subparagraphs elects under this subparagraph to have such subparagraphs not apply. Any such election shall, except as otherwise provided by the Secretary, be made contemporaneously with the acquisition or transfer referred to in subparagraph (A).</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H388DD0AAE1704974919FD26599E62221"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

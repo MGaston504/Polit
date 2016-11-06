@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HDC2F376BFAA241B2862F2964BD3B9B5C" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3288 IH: Strengthening DSH and Medicare Through Subsidy Recapture and Payment Reform Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3288</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150729">July 29, 2015</action-date>
+			<action-desc><sponsor name-id="M001158">Mr. Marchant</sponsor> (for himself and <cosponsor name-id="B001255">Mr. Boustany</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to change the method of determining
+			 disproportionate share hospital (DSH) payments under the Medicare program,
+			 and for other purposes.</official-title>
+	</form>
+	<legis-body id="HC8E553C94D3D485185AEB8FD303274B9" style="OLC">
+ <section id="HDC4F1E7147354534870A578FD8C95A3A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Strengthening DSH and Medicare Through Subsidy Recapture and Payment Reform Act of 2015</short-title></quote>.</text> </section><section id="H41586A206F02488785C371774530EB66"><enum>2.</enum><header>Change in determination of Medicare DSH payments</header><text display-inline="no-display-inline">Paragraph (1) of section 1886(r) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww(r)</external-xref>) is amended—</text>
+ <paragraph id="H5E92D60FCF654667ADEE8AC304D0BFDC"><enum>(1)</enum><text>by striking so much of such paragraph as precedes <quote>fiscal year 2014</quote> and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="H2C81386625DE4347A939D95CD3DB10DF" style="OLC"> <paragraph id="HCB4F645DA3BF4B87B56841197432EC05"><enum>(1)</enum><header>DSH payments</header> <subparagraph id="H9DEE17E417AB4994A549C4834D7785CA"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Subject to subparagraph (B), for</text></subparagraph></paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H22F53E7DE24B4AADAA2012A0263BDC0E"><enum>(2)</enum><text>by striking <quote>(which represents</quote> and all that follows through <quote>Report to the Congress)</quote>; and</text> </paragraph><paragraph id="H559B40BDB96C499EA52E00A8BA320459"><enum>(3)</enum><text>by adding at the end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="HAA4E111FCF4944CC9FE65D3A7F17849B" style="OLC">
+ <subparagraph id="H4D51C8CD55284C7ABFA534C7A4D51193"><enum>(B)</enum><header>Aggregate limitation beginning with fiscal year 2017</header><text display-inline="yes-display-inline">As part of the rulemaking to carry out subsection (d) for fiscal year 2017 and each subsequent fiscal year, the Secretary shall estimate the aggregate amount of payments to be made for such fiscal year under subparagraph (A) (determined without regard to this subparagraph) and, if the amount so estimated exceeds $3,300,000,000, then each amount paid under subparagraph (A) for that fiscal year shall be multiplied by the ratio of $3,300,000,000 to the amount so estimated.</text>
+					</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></section><section id="H5A2EAC4C960144B9B342A3E746F1F0CA"><enum>3.</enum><header>Additional DSH payment for certain qualifying hospitals</header><text display-inline="no-display-inline">Section 1886(r) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww(r)</external-xref>) is amended—</text> <paragraph id="H2381B96F45264A7489007BDC96D27EC6"><enum>(1)</enum><text>by redesignating paragraph (3) as paragraph (4); and</text>
+ </paragraph><paragraph id="H0C3D4A0177784882A939636EDCEDC6D4"><enum>(2)</enum><text>by inserting after paragraph (2) the following new paragraph:</text> <quoted-block display-inline="no-display-inline" id="H0475858C37AA458088BEA9188052CDDC" style="OLC"> <paragraph id="HBF74ABCA15F647148F7D6831DB192E9F"><enum>(3)</enum><header>Additional payment for certain qualifying hospitals</header> <subparagraph id="HFD61F924EA454CB7BD5801A535903253"><enum>(A)</enum><header>In general</header><text>For fiscal year 2017 and each subsequent fiscal year, in addition to the payments made to a qualifying hospital under paragraphs (1) and (2), the Secretary shall pay to each qualifying hospital an amount equal to $1,000,000,000 multiplied by the factor that would be calculated under paragraph (2)(C) for such qualifying hospital if each reference in such paragraph to a subsection (d) hospital were treated as a reference to a qualifying hospital.</text>
+ </subparagraph><subparagraph id="HBCFEA3EA2D7C475DB9BD900D544884D2"><enum>(B)</enum><header>Qualifying hospital defined</header><text>In this paragraph, <quote>qualifying hospital</quote> means a subsection (d) hospital that is located in Alabama, Florida, Georgia, Idaho, Kansas, Louisiana, Maine, Mississippi, Missouri, Nebraska, North Carolina, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, Wisconsin, or Wyoming.</text>
+						</subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="H2F03751099DF4202A8506D1374681141"><enum>4.</enum><header>Recapture of overpayments resulting from certain federally subsidized health insurance</header>
+ <subsection id="H15746A3D03DE4B6F9ADEBFD4C8E19DAA"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Paragraph (2) of <external-xref legal-doc="usc" parsable-cite="usc/26/36B">section 36B(f)</external-xref> of the Internal Revenue Code of 1986 is amended by striking subparagraph (B).</text>
+ </subsection><subsection id="HBE6D59D0DE5C4AC58677E5C4AAC13569"><enum>(b)</enum><header>Conforming amendment</header><text>So much of paragraph (2) of section 36B(f) of such Code, as amended by subsection (a), as precedes <quote>advance payments</quote> is amended to read as follows:</text> <quoted-block display-inline="no-display-inline" id="H5DB150CA66BC48D081AE8F38DE3D7D4F" style="OLC"> <paragraph id="H014A7222BDF54C93A6B428F135C1FF51"><enum>(2)</enum><header>Excess advance payments</header><text display-inline="yes-display-inline">If the</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H479C63FBD394444FBA5EA20B34615A81"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years ending after December 31, 2015.</text> </subsection></section></legis-body> </bill> 
+

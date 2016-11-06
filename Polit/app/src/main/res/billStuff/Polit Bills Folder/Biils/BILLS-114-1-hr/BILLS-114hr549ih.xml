@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HAF9C8C2A93C8477BB860B39560F15331" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 549 IH: Litigation Oversight Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 549</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150127">January 27, 2015</action-date>
+			<action-desc><sponsor name-id="W000798">Mr. Walberg</sponsor> (for himself, <cosponsor name-id="R000592">Mr. Rokita</cosponsor>, and <cosponsor name-id="H001067">Mr. Hudson</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title VII of the Civil Rights Act of 1964 to require the EEOC to approve commencing or
+			 intervening in certain litigation, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H0DD890B4FBDE4E21AAA3362F06D8B211" style="OLC">
+ <section id="HA765BA32CEEF4A84A9DA7959F35C2E7A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Litigation Oversight Act of 2015</short-title></quote>.</text> </section><section id="HC1E0F04B425143A8BB5723F498D6174B"><enum>2.</enum><header>Approval of EEOC litigation commencement or intervention</header><text display-inline="no-display-inline">Section 705 of the Civil Rights Act of 1964 (<external-xref legal-doc="usc" parsable-cite="usc/42/2000e-4">42 U.S.C. 2000e–4</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H86B134E4B24D4BB4A99DCD3B5B3CFB0E" style="traditional">
+				<subsection id="H454C9E0CE43A42A38D8AE8EE7983CADD"><enum>(l)</enum>
+ <paragraph commented="no" display-inline="yes-display-inline" id="HBE258F1A64234CEF98EC65F06857BD41"><enum>(1)</enum><text display-inline="yes-display-inline">The Commission shall approve or disapprove by majority vote whether the Commission shall commence or intervene in litigation involving multiple plaintiffs, or an allegation of systemic discrimination or a pattern or practice of discrimination.</text>
+ </paragraph><paragraph id="H416EE25B85484BEC90131243D39DF3DF" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">A member of the Commission shall have the power to require the Commission to approve or disapprove by majority vote whether the Commission shall commence or intervene in any litigation.</text>
+ </paragraph><paragraph id="H45950B4DD85540AEB12FE78BF8FBB0BA" indent="up1"><enum>(3)</enum><text>Neither the Commission nor a member of the Commission may delegate the authority provided under paragraph (1) or (2) to any other person.</text>
+ </paragraph><paragraph id="HAC963DD267D64C17825F91E9C94A3638" indent="up1"><enum>(4)</enum><text>Not later than 30 days after the Commission commences or intervenes in litigation pursuant to approval under this subsection, the Commission shall post and maintain the following information on its public website with respect to the litigation:</text>
+ <subparagraph id="H553D8492C76A477498C4E3EEAA14094A"><enum>(A)</enum><text display-inline="yes-display-inline">The court in which the case was brought.</text> </subparagraph><subparagraph id="H533E5377F9594D3BB68EA44084F2E57C"><enum>(B)</enum><text>The name and case number of the case.</text>
+ </subparagraph><subparagraph id="H882B3F3B8DC842EDA3830C2C88F0B595"><enum>(C)</enum><text>The nature of the allegation.</text> </subparagraph><subparagraph id="H2C95C9E564C04405AB444789FD6466C7"><enum>(D)</enum><text>The causes of action brought.</text>
+ </subparagraph><subparagraph id="H6DACC49BA2D649DDBAB011A9671EB169"><enum>(E)</enum><text>Each Commissioner’s vote on commencing or intervening in the litigation.</text> </subparagraph></paragraph><paragraph id="HEAEF80408DA245D1B5FA6D90B6625A64" indent="up1"><enum>(5)</enum><text>The Commission shall issue, in a manner consistent with section 713, procedural regulations to carry out this subsection.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

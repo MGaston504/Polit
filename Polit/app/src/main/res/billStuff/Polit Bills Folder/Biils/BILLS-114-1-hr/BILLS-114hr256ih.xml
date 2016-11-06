@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H96C9D528535143EB89636268626EECE3" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 256 IH: Creating Jobs From Innovative Small Businesses Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 256</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150109">January 9, 2015</action-date>
+			<action-desc><sponsor name-id="H001034">Mr. Honda</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to allow a credit against income tax for equity
+			 investments in research intensive small business concerns.</official-title>
+	</form>
+	<legis-body id="H3ABBB81E80FA48B38F70E6003E9F1BB7" style="OLC">
+ <section id="HDDE5B5587A724CBAB1A90D3CBAE1CC8F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Creating Jobs From Innovative Small Businesses Act of 2015</short-title></quote>.</text> </section><section id="H733A08CF269349A5914EE3CE3E282304"><enum>2.</enum><header>Credit for investments in small technology innovation companies</header> <subsection id="H3B4F3EB680FE43F99E6D3E7861B58ABE"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subpart D of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="H0FE20D67584441DF947D00B8496505DC" style="OLC">
+					<section id="HD0F905FE1A8E42AE8705C31DE8260DFA"><enum>45S.</enum><header>Research intensive investment tax credit</header>
+ <subsection id="H40613792317A46AB8392788D75E1988D"><enum>(a)</enum><header>Allowance of credit</header><text display-inline="yes-display-inline">For purposes of section 38, the research intensive investment tax credit determined under this section for the taxable year is an amount equal to 20 percent of the amount paid by the taxpayer during such year to acquire a qualified equity investment in a qualified research intensive small business concern.</text>
+						</subsection><subsection id="H99F169FDEF5E42C495FB69F2D30F9F69"><enum>(b)</enum><header>Maximum credit</header>
+ <paragraph id="HB67A1DC86E8C4FE1ABB057CB9E34AE33"><enum>(1)</enum><header>In general</header><text>The taxpayer’s credit determined under this section for the taxable year shall not exceed the excess (if any) of—</text>
+ <subparagraph id="H5F4EAFA98B34455FBF23267E9507C668"><enum>(A)</enum><text>$100,000, over</text> </subparagraph><subparagraph id="H08AD3543473247429AA015A20E44A42B"><enum>(B)</enum><text>the taxpayer’s (and any predecessor’s) aggregate credit determined under this section for all prior taxable years.</text>
+								</subparagraph></paragraph><paragraph id="HAE980A8AF4AE4192976AF8F46DB61413"><enum>(2)</enum><header>Related parties</header>
+ <subparagraph id="H4E1B8634448647A1924B1EBDA7FBAB0A"><enum>(A)</enum><header>In general</header><text>For purposes of paragraph (1), all related persons shall be treated as 1 person, and the dollar amount in paragraph (1)(A) shall be allocated among such persons under regulations prescribed by the Secretary.</text>
+ </subparagraph><subparagraph id="H48486D0BF9A542C89A4433320CD055C8"><enum>(B)</enum><header>Related persons</header><text>A person shall be treated as related to another person if the relationship between such persons would result in the disallowance of losses under section 267 or 707(b).</text>
+ </subparagraph></paragraph></subsection><subsection id="HC6AC2E1BB08947748093E0A7CC22DCAE"><enum>(c)</enum><header>Definitions</header><text display-inline="yes-display-inline">For purposes of this section—</text> <paragraph id="H10EB4EEC484D42D297E8A53237289A8E"><enum>(1)</enum><header>Qualified equity investment</header> <subparagraph id="H4C9F3BBDAADF41DDBB7A93272464180A"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">The term <term>qualified equity investment</term> means any equity investment in a qualified research intensive small business concern if—</text>
+ <clause id="H8FFCB7E69173498195CB3A4502E53B17"><enum>(i)</enum><text>such investment is acquired by the taxpayer at its original issue (directly or through an underwriter) solely in exchange for cash, and</text>
+ </clause><clause id="H8751E75C295B4166BA6BE3722350FC97"><enum>(ii)</enum><text>such investment is designated for purposes of this section by such concern.</text> </clause></subparagraph><subparagraph id="H200F8BA9A47B4E1F924F6869385D093D"><enum>(B)</enum><header>Equity investment</header><text display-inline="yes-display-inline">The term <term>equity investment</term> means—</text>
+ <clause id="HCAC1601DAA904E23A17A91EAA2394AB8"><enum>(i)</enum><text>any stock (other than nonqualified preferred stock as defined in section 351(g)(2)) in an entity which is a corporation, and</text>
+ </clause><clause id="HFE61A1E8E9F74ACCAA93A45C7441B21A"><enum>(ii)</enum><text>any capital interest in an entity which is a partnership.</text> </clause></subparagraph><subparagraph id="H75801A55584447278458A60C49736671"><enum>(C)</enum><header>Redemptions</header><text display-inline="yes-display-inline">A rule similar to the rule of section 1202(c)(3) shall apply for purposes of this subsection.</text>
+ </subparagraph></paragraph><paragraph id="H001EF67DD8494696ADF8B972573F2BFF"><enum>(2)</enum><header>Qualified research intensive small business concern</header><text display-inline="yes-display-inline">The term <term>qualified research intensive small business concern</term> means, with respect to any taxable year, any small business concern (as defined in section 3 of the Small Business Act) if—</text>
+ <subparagraph id="H8EAA0CF620374298A7CAE400E8284217"><enum>(A)</enum><text>such concern employs an average of fewer than 500 employees on business days during such year, and</text> </subparagraph><subparagraph id="H8BD47B9BC67C428399B2B704BE89F1A4"><enum>(B)</enum><text display-inline="yes-display-inline">at least 50 percent of the gross expenditures of such entity for such year are research or experimental expenditures under section 174.</text>
+								</subparagraph></paragraph></subsection><subsection id="H71F38FA5F16C41E3A16D42E392379272"><enum>(d)</enum><header>National limitation on amount of investments designated</header>
+ <paragraph id="HACEC88C459F242879918124249B8C82F"><enum>(1)</enum><header>In general</header><text>There is a research intensive investment tax credit limitation for each calendar year. Such limitation is—</text>
+ <subparagraph id="H2E8A8969542240D19ADBF15C1AA02DB2"><enum>(A)</enum><text>$500,000,000 for 2015,</text> </subparagraph><subparagraph id="HD5EF0B73A4EC4500A0DDC44012F1E994"><enum>(B)</enum><text>$750,000,000 for 2016 and 2017, and</text>
+ </subparagraph><subparagraph id="HB15E72BFCB48471C99BF2C549A01330C"><enum>(C)</enum><text>$1,000,000,000 for 2018 and 2019.</text> </subparagraph></paragraph><paragraph id="H6B60ADCC6B3142559E103B39FC57EF78"><enum>(2)</enum><header>Allocation of limitation</header><text display-inline="yes-display-inline">The limitation under paragraph (1) shall be allocated by the Secretary among qualified research intensive small business concerns selected by the Secretary.</text>
+ </paragraph><paragraph id="HCCFF3B57A740422ABA7AAC2C601D0F06"><enum>(3)</enum><header>Carryover of unused limitation</header><text>If the research intensive investment tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2023.</text>
+ </paragraph></subsection><subsection id="H4A127CCDC9684FF985C6957EEBA55A2F"><enum>(e)</enum><header>Certain taxpayers not eligible</header><text display-inline="yes-display-inline">No credit shall be determined under this section for any equity investment in any qualified research intensive small business concern made by any individual who, at the time of the investment, is—</text>
+ <paragraph id="HF6B6FF30803A4188A01357139D4B08B9"><enum>(1)</enum><text>an employee of such concern, or</text> </paragraph><paragraph id="H5D2A21E95F18407381180EDA5C3C40BE"><enum>(2)</enum><text>a member of the family (within the meaning of section 267(c)(4)) of an employee of such concern.</text>
+ </paragraph></subsection><subsection id="H38A6E8217B7E4BF7B1491EA8269BF5DA"><enum>(f)</enum><header>Basis reduction</header><text display-inline="yes-display-inline">The basis of any qualified equity investment shall be reduced by the amount of any credit determined under this section with respect to such investment. This subsection shall not apply for purposes of sections 1202, 1400B, and 1400F.</text>
+ </subsection><subsection id="H0963E913FC4446CD83803E7CD41294F9"><enum>(g)</enum><header>Regulations</header><text>The Secretary shall prescribe such regulations as may be appropriate to carry out this section, including regulations—</text>
+ <paragraph id="H8EC8AAACB759456781D45697086D6D06"><enum>(1)</enum><text>which prevent the abuse of the purposes of this section,</text> </paragraph><paragraph id="H0157F833D3034D3A87D7E0AADA31E0B7"><enum>(2)</enum><text>which impose appropriate reporting requirements, and</text>
+ </paragraph><paragraph id="H3E987DE78DF84AA29FC8C2D4133D7FB4"><enum>(3)</enum><text>which apply the provisions of this section to newly formed entities.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="HDC355CD570E44E22BE7F3D21476A98A4"><enum>(b)</enum><header>Credit made part of general business credit</header><text>Subsection (b) of section 38 of such Code (relating to current year business credit) is amended by striking <quote>plus</quote> at the end of paragraph (35), by striking the period at the end of paragraph (36) and inserting <quote>, plus</quote>, and by adding at the end the following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H3BCD0DD41A1F49168A99E54BEFFECC46" style="OLC">
+ <paragraph id="HAD58E0988536451196FE50761F4C3EB4"><enum>(37)</enum><text display-inline="yes-display-inline">the research intensive investment tax credit determined under section 45S.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="HFBAFF243AC744CADB1247776D0E54B54"><enum>(c)</enum><header>Clerical amendment</header><text display-inline="yes-display-inline">The table of sections for subpart D of part IV of subchapter A of chapter 1 of such Code is amended by adding at the end the following new item:</text>
+				<toc regeneration="no-regeneration">
+					<toc-entry level="section"><quote>Sec. 45S. Research intensive investment tax credit.</quote>.</toc-entry></toc>
+ </subsection><subsection id="H8FC8C5E5A2B64514B58E33D9CAF55CD3"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this section shall apply to investments made after December 31, 2014, in taxable years ending after such date.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

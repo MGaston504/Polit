@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H1145BEC06DC84B2DB2EEEF1D55E749CF" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 139 IH: To amend title 10, United States Code, to require that Federal, State, and local agencies to which surplus military equipment and personal property is sold or donated demonstrate that agency personnel are certified, trained, or licensed, as appropriate, in the proper operation of the equipment prior to the sale or donation.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 139</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="J000296">Mr. Jolly</sponsor> (for himself and <cosponsor name-id="M001191">Mr. Murphy of Florida</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 10, United States Code, to require that Federal, State, and local agencies to which
+			 surplus military equipment and personal property is sold or donated
+			 demonstrate that agency personnel are certified, trained, or licensed, as
+			 appropriate, in the proper operation of the equipment prior to the sale or
+			 donation.</official-title>
+	</form>
+	<legis-body id="HEEB28BA168534FDFA9D765407EC60C0B" style="OLC">
+		<section id="HBE434E621227453986E44EDF547237B4" section-type="section-one"><enum>1.</enum><header>Requirement that State and local agencies receive training in proper operation of surplus military
+			 equipment and property prior to sale or transfer of equipment by
+			 Department of Defense</header>
+			<subsection id="H7EF834FAD709417A99845A5CE1F341F5"><enum>(a)</enum><header>Sale to State and local law enforcement, firefighting, homeland security, and emergency management
+			 agencies</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/10/2576">Section 2576</external-xref> of title 10, United States Code, is amended by adding at the end the following new
+			 subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="H01632347077B40DF9E985CF30C406558" style="USC">
+					<subsection id="H150C1613322948F9A52C3D5ADDA3936F"><enum>(c)</enum><text display-inline="yes-display-inline">The Secretary of Defense shall require, as a condition of the sale of any surplus military
+			 equipment under this section, that the State or local law enforcement,
+			 firefighting, homeland security, or emergency management agency purchasing
+			 the equipment demonstrates, prior to the sale of the equipment, that
+			 agency personnel have been certified, trained, or licensed, as
+			 appropriate, in the proper operation of the equipment.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H122DB7E0E84E4AA09BF392729519BD5E"><enum>(b)</enum><header>Sale or donation for law enforcement activities</header><text>Section 2576a(b) of such title is amended—</text>
+				<paragraph id="HCC3F2A03288B46AFA938309F50E62012"><enum>(1)</enum><text>in paragraph (3), by striking <quote>and</quote> at the end;</text>
+				</paragraph><paragraph id="H95E59A2872914B88B8C28B30ECB5F5A9"><enum>(2)</enum><text>in paragraph (4), by striking the period and inserting <quote>; and</quote>; and</text>
+				</paragraph><paragraph id="H1DC463158ACC4468B8196D941C1D4798"><enum>(3)</enum><text>by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="HF4543D7B16A846DF95DFF5666F18B622" style="USC">
+						<paragraph display-inline="no-display-inline" id="H53E368E3643E4E2C97826E90F599DF5F"><enum>(5)</enum><text display-inline="yes-display-inline">the recipient agency demonstrates, prior to the transfer, that agency personnel have been
+			 certified, trained, or licensed, as appropriate, in the proper operation
+			 of the property.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="HC34DBADEE6D4409BBEBA7B103146513C"><enum>(c)</enum><header>Sale or donation To assist firefighting agencies</header><text>Section 2576b of such title is amended—</text>
+				<paragraph id="HAB88F044A91E4150B11D71CC9392E4A4"><enum>(1)</enum><text>in paragraph (3), by striking <quote>and</quote> at the end;</text>
+				</paragraph><paragraph id="HDA4224363FC442189ABA424E157DDFB1"><enum>(2)</enum><text>in paragraph (4), by striking the period and inserting <quote>; and</quote>; and</text>
+				</paragraph><paragraph id="H236DA2E5B47B4D488C80E6AC6E89F9F3"><enum>(3)</enum><text>by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H429D065346EF4B54A1CC413547EE463F" style="USC">
+						<paragraph display-inline="no-display-inline" id="H6D314358C7874ABEAC9E0A40C01A8C97"><enum>(5)</enum><text display-inline="yes-display-inline">the recipient agency demonstrates, prior to the transfer, that agency personnel have been
+			 certified, trained, or licensed, as appropriate, in the proper operation
+			 of the property.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="H1DED0327F2E9472AA82F935820491B82"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this Act shall apply with respect to the sale, transfer, or donation of
+			 property or equipment made after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

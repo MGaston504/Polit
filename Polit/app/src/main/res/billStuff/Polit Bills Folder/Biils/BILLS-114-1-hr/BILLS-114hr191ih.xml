@@ -1,0 +1,592 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HF4FC60A17C7649D693527D618B0F9B8C" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 191 IH: The Repeal Executive Amnesty Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 191</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150107">January 7, 2015</action-date>
+			<action-desc><sponsor name-id="A000055">Mr. Aderholt</sponsor> (for himself, <cosponsor name-id="B001269">Mr. Barletta</cosponsor>, <cosponsor name-id="S000583">Mr. Smith of Texas</cosponsor>, <cosponsor name-id="C001048">Mr. Culberson</cosponsor>, <cosponsor name-id="B001243">Mrs. Blackburn</cosponsor>, <cosponsor name-id="D000615">Mr. Duncan of South Carolina</cosponsor>, <cosponsor name-id="C001087">Mr. Crawford</cosponsor>, <cosponsor name-id="C001093">Mr. Collins of Georgia</cosponsor>, and <cosponsor name-id="B001289">Mr. Byrne</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, and in addition to the Committees on <committee-name committee-id="HHM00">Homeland Security</committee-name>, <committee-name committee-id="HFA00">Foreign Affairs</committee-name>, <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, <committee-name committee-id="HWM00">Ways and Means</committee-name>, and <committee-name committee-id="HGO00">Oversight and Government Reform</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To repeal executive immigration overreach, to clarify that the proper constitutional authority for
+			 immigration policy belongs to the legislative branch, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="H48576A4498CF43A08A039172603F7456" style="OLC">
+		<section id="HEDAA04665D4D431AAEF88F5F3668AE96" section-type="section-one"><enum>1.</enum><header>Short title; table of contents</header>
+			<subsection id="HB267CA8B31134C20BFC046E8A9E9C4D9"><enum>(a)</enum><header>Short title</header><text display-inline="yes-display-inline">This Act may be cited as  <quote><short-title>The Repeal Executive Amnesty Act of 2015</short-title></quote>.</text>
+			</subsection><subsection id="HFB3D7C65487749C29FD2B96E814655A3"><enum>(b)</enum><header>Table of contents</header><text>The table of contents is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="HEDAA04665D4D431AAEF88F5F3668AE96" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="H600A1937CC1B483498A84FC1AB3673F4" level="section">Sec. 2. Severability.</toc-entry>
+					<toc-entry idref="H9ECC7C2B99F9445295F301E8655E1C91" level="title">Title I—Parole authority</toc-entry>
+					<toc-entry idref="HD5AC592264FD40E1907115E306E0D140" level="section">Sec. 101. Parole reform.</toc-entry>
+					<toc-entry idref="HA1F2235D75EA45CCA4F7D88DB3E8118D" level="section">Sec. 102. Adjustment of status limited to aliens admitted to the United States.</toc-entry>
+					<toc-entry idref="H1E41B0D48D4C4086994D50259D2303A7" level="section">Sec. 103. Presence in the United States pursuant to parole added to priority date.</toc-entry>
+					<toc-entry idref="HB0211D9839234D288453AE37F4B20FAF" level="section">Sec. 104. Admission and lawful presence required for employment authorization.</toc-entry>
+					<toc-entry idref="HBF1FA5BB7C7C483584EEA6AE01D5CDD6" level="title">Title II—Limitation on Executive Overreach</toc-entry>
+					<toc-entry idref="H7C337C3BF1E9417DBF2DBC3338B24096" level="section">Sec. 201. Denial of funds for implementation of unauthorized actions.</toc-entry>
+					<toc-entry idref="H87194F010D4C48108B3587D5131957A1" level="section">Sec. 202. ICE Law Enforcement Availability Pay (LEAP) eligibility.</toc-entry>
+					<toc-entry idref="H50EE646F9A144D3B88CAD86E724A6176" level="title">Title III—Unaccompanied alien children</toc-entry>
+					<toc-entry idref="H56F5DE975F6A48B7B7AE938A73BC2370" level="section">Sec. 301. Repatriation of unaccompanied alien children.</toc-entry>
+					<toc-entry idref="H684A3BE6B91E45548CBD87FB3C52B261" level="section">Sec. 302. Special immigrant juvenile status for immigrants unable to reunite with either parent.</toc-entry>
+					<toc-entry idref="H833E703356EB441AA54B0C1F1F392066" level="section">Sec. 303. Modifications to preferential availability for asylum for unaccompanied alien minors.</toc-entry>
+					<toc-entry idref="H5B51E0D3E70D4EFDA54250FFD01A902B" level="section">Sec. 304. Unaccompanied alien child defined.</toc-entry>
+					<toc-entry idref="H84A6B0E898E645D4A18D3A6DBA5A7165" level="title">Title IV—Eligibility criteria for aliens to receive certain benefits</toc-entry>
+					<toc-entry idref="HC8B8694A6CB94AA2ADAFA49D6BA328BC" level="section">Sec. 401. Aliens without lawful status ineligible to receive social security and medicare benefits.</toc-entry>
+					<toc-entry idref="H4A2590DF234D444B8F8BA7C5001C9ECC" level="section">Sec. 402. Applying citizenship and immigration status eligibility criteria for Federal programs to
+			 Affordable Care Act benefits.</toc-entry>
+					<toc-entry idref="H964D0AF6D11C4CBBA3B8B4A076DB4390" level="section">Sec. 403. Aliens paroled into the United States ineligible for Federal public benefits.</toc-entry>
+					<toc-entry idref="HDE36039EA2454DB2A889C15A1805AB03" level="title">Title V—State and local enforcement of the immigration laws</toc-entry>
+					<toc-entry idref="H942DDC7713F2420FAA84565052F22E85" level="section">Sec. 501. Definitions.</toc-entry>
+					<toc-entry idref="H7744F86267894538ACAC67D73B4797F1" level="section">Sec. 502. Immigration law enforcement by States and localities.</toc-entry>
+					<toc-entry idref="H86D0B138A4D0441A80D5ADB97BD5A7A0" level="section">Sec. 503. Immunity.</toc-entry>
+					<toc-entry idref="H3FB03AC5D7B643DDBA22B3CB41650C64" level="section">Sec. 504. Federal custody of inadmissible and deportable aliens in the United States apprehended by
+			 State or local law enforcement.</toc-entry>
+					<toc-entry idref="H300D5FDC3A0F418CB8E811BD86F72E94" level="section">Sec. 505. State Criminal Alien Assistance Program (SCAAP).</toc-entry>
+					<toc-entry idref="H4F76D24815D140D18A6E0B5B3BE6EB1D" level="section">Sec. 506. Limitation on State receipt of Federal funding.</toc-entry>
+					<toc-entry idref="H3D03B239E50146B49D1A32996AC99BB5" level="section">Sec. 507. ICE detainers.</toc-entry>
+					<toc-entry idref="H8A4012E2D9644D1FB7B8817830B3A741" level="section">Sec. 508. Preservation of the Secure Communities program and removal of deportable aliens
+			 identified under the interoperable law enforcement and intelligence
+			 electronic data system.</toc-entry>
+					<toc-entry idref="H5F94F5AA61E34DA8B832616DD451D066" level="title">Title VI—Asylum Reform and Border Protection</toc-entry>
+					<toc-entry idref="H7C663A556DFE4F4BA78B6D141E4CC83D" level="section">Sec. 601. Clarification of intent regarding taxpayer-provided counsel.</toc-entry>
+					<toc-entry idref="H8AF7441D42D640FD8CC3253B4C575EE6" level="section">Sec. 602. Credible fear interviews.</toc-entry>
+					<toc-entry idref="H404877D7126B4ACEB41BDAA3F498C0A0" level="section">Sec. 603. Recording expedited removal and credible fear interviews.</toc-entry>
+					<toc-entry idref="H5A6C167DE7654AABBFE8B55C3410FB4A" level="section">Sec. 604. Safe third country.</toc-entry>
+					<toc-entry idref="HDCF9440B05404B0C8BD605636B7D41FE" level="title">Title VII—Miscellaneous</toc-entry>
+					<toc-entry idref="H7AF2CCAE57834F27BD6E008549D39E9F" level="section">Sec. 701. Suspension of effectiveness of certain laws.</toc-entry>
+					<toc-entry idref="H198462755EF5433D8916AD702D9A0233" level="section">Sec. 702. Temporary protected status reform.</toc-entry>
+				</toc>
+			</subsection></section><section id="H600A1937CC1B483498A84FC1AB3673F4"><enum>2.</enum><header>Severability</header><text display-inline="no-display-inline">If any provision of this Act, or the application of such provision to any person or circumstance,
+			 is held invalid, the remainder of this Act, and the application of such
+			 provision to other persons not similarly situated or to other
+			 circumstances, shall not be affected by such invalidation.</text>
+		</section><title id="H9ECC7C2B99F9445295F301E8655E1C91"><enum>I</enum><header>Parole authority</header>
+			<section id="HD5AC592264FD40E1907115E306E0D140"><enum>101.</enum><header>Parole reform</header>
+				<subsection id="HE03CB7C673F942759CFC6FBA8E10ECA6"><enum>(a)</enum><header>In general</header><text>Paragraph (5) of section 212(d) (<external-xref legal-doc="usc" parsable-cite="usc/8/1182">8 U.S.C. 1182(d)</external-xref>) is amended to read as follows:</text>
+					<quoted-block id="H1F486AEAE883461E81D9B605093EC86C" style="OLC">
+						<paragraph id="HF176EF4874A94E1391B5E281A279AE63"><enum>(5)</enum><header>Humanitarian and public interest parole</header>
+							<subparagraph id="H10F60021D5EB4599A7FA7CD16E458054"><enum>(A)</enum><header>In general</header><text>Subject to the provisions of this paragraph and section 214(f)(2), the Secretary of Homeland
+			 Security, in the sole discretion of the Secretary of Homeland Security,
+			 may on a case-by-case basis parole an alien into the United States
+			 temporarily, under such conditions as the Secretary of Homeland Security
+			 may prescribe, only—</text>
+								<clause id="H796785FF2A3F4C15ACC7A9EF51C3FF2A"><enum>(i)</enum><text>for an urgent humanitarian reason (as described under subparagraph (B)); or</text>
+								</clause><clause id="H219A9175397B4F7A97BC07760BE3CF85"><enum>(ii)</enum><text>for a reason deemed strictly in the public interest (as described under subparagraph (C)).</text>
+								</clause></subparagraph><subparagraph id="HC5F536AA32B846E5A58977EB85109D8E"><enum>(B)</enum><header>Humanitarian parole</header><text>The Secretary of Homeland Security may parole an alien based on an urgent humanitarian reason
+			 described in this subparagraph only if—</text>
+								<clause id="H8A21BAC329D2492C8943565ACCF6C2BF"><enum>(i)</enum><text>the alien has a medical emergency and the alien cannot obtain necessary treatment in the foreign
+			 state in which the alien is residing or the medical emergency is
+			 life-threatening and there is insufficient time for the alien to be
+			 admitted through the normal visa process;</text>
+								</clause><clause id="HCB9468E1515C41C68D32449AF22E2AD2"><enum>(ii)</enum><text>the alien is needed in the United States in order to donate an organ or other tissue for transplant
+			 into a close family member; or</text>
+								</clause><clause id="H748062B6758245FEA75669E08AA7D595"><enum>(iii)</enum><text>the alien has a close family member in the United States whose death is imminent and the alien
+			 could not arrive in the United States in time to see such family member
+			 alive if the alien were to be admitted through the normal visa process.</text>
+								</clause></subparagraph><subparagraph id="H5E606A6AF1734E37838312BFF55DA7CA"><enum>(C)</enum><header>Public interest parole</header><text>The Secretary of Homeland Security may parole an alien based on a reason deemed strictly in the
+			 public interest described in this subparagraph only if the alien has
+			 assisted the United States Government in a matter, such as a criminal
+			 investigation, espionage, or other similar law enforcement activity, and
+			 either the alien’s presence in the United States is required by the
+			 Government or the alien’s life would be threatened if the alien were not
+			 permitted to come to the United States.</text>
+							</subparagraph><subparagraph id="H7773423D07CE4A1180D48EFAFE63F1E8"><enum>(D)</enum><header>Limitations on the use of parole authority</header>
+								<clause id="H1FDE16CC5E6F4D67BFAD6203F3F9A7A1"><enum>(i)</enum><header>Aliens ineligible for refugee status</header><text>The Secretary of Homeland Security may not use the parole authority under this paragraph to permit
+			 to come to the United States aliens who have applied for and have been
+			 found to be ineligible for refugee status or any alien to whom the
+			 provisions of this paragraph do not apply.</text>
+								</clause><clause id="HB1B0537382934EF2985CF2FCC3F3148B"><enum>(ii)</enum><header>Aliens present in the United States ineligible for parole</header><text>The Secretary of Homeland Security may not parole into the United States an alien who—</text>
+									<subclause id="HAFB9D11221FC45C3A368D03C5F670EEE"><enum>(I)</enum><text>is physically present in the United States; and</text>
+									</subclause><subclause id="H43F3BEEFA0EA4E5389EABC3239D14C26"><enum>(II)</enum>
+										<item commented="no" display-inline="yes-display-inline" id="HC4FEE8078575458A9F26A92D216E918E"><enum>(aa)</enum><text>has not been admitted to the United States; or</text>
+										</item><item id="H83274B27E8AB4DA0BA45244DC53A84B0" indent="up1"><enum>(bb)</enum><text>was lawfully admitted to the United States as a nonimmigrant and remained in the United States
+			 unlawfully after the period of authorized stay ended.</text>
+										</item></subclause></clause><clause id="H8461E09D2BC14C769C129296AC95BFF7"><enum>(iii)</enum><header>Limitation on work authorization and adjustment of status</header><text>In the case of an alien who is present in the United States pursuant to a grant of parole under
+			 this paragraph, the Secretary of Homeland Security may not—</text>
+									<subclause id="H47E4CFF263CC4A48890F3BF7968C0341"><enum>(I)</enum><text>grant employment authorization to the alien; or</text>
+									</subclause><subclause id="H94E2A18B88224F809174567860FB620C"><enum>(II)</enum><text>admit the alien to the United States as a nonimmigrant or as an alien admitted for lawful permanent
+			 residence.</text>
+									</subclause></clause></subparagraph><subparagraph id="H90D9DF773D3F405A829248C865FC3284"><enum>(E)</enum><header>Parole not an admission</header><text>Parole of an alien under this paragraph shall not be considered an admission of the alien into the
+			 United States. When the purposes of the parole of an alien have been
+			 served, as determined by the Secretary of Homeland Security, the alien
+			 shall immediately return or be returned to the custody from which the
+			 alien was paroled and the alien shall be considered for admission to the
+			 United States on the same basis as other similarly situated applicants for
+			 admission.</text>
+							</subparagraph><subparagraph id="HFAB8965F4B6448F49A6E5AE1E1EF2C16"><enum>(F)</enum><header>Report to congress</header><text>Not later than 90 days after the end of each fiscal year, the Secretary of Homeland Security shall
+			 submit a report to the Committees on the Judiciary of the House of
+			 Representatives and the Senate describing the number and categories of
+			 aliens paroled into the United States under this paragraph. Each such
+			 report shall contain information and data concerning the number and
+			 categories of aliens paroled, the duration of parole, and the current
+			 status of aliens paroled during the preceding fiscal year.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="HDACA185E021F4376982A75F990836A39"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall take effect on the first day of the first month
+			 beginning more than 60 days after the date of the enactment of this Act.</text>
+				</subsection></section><section commented="no" id="HA1F2235D75EA45CCA4F7D88DB3E8118D"><enum>102.</enum><header>Adjustment of status limited to aliens admitted to the United States</header><text display-inline="no-display-inline">Section 245 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1255">8 U.S.C. 1255</external-xref>) is amended in subsection (a) by
+			 striking <quote>or paroled</quote>.</text>
+			</section><section commented="no" id="H1E41B0D48D4C4086994D50259D2303A7"><enum>103.</enum><header>Presence in the United States pursuant to parole added to priority date</header><text display-inline="no-display-inline">Section 203(e) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1153">8 U.S.C. 1153(e)(3)</external-xref>) is amended—</text>
+				<paragraph commented="no" id="H73AB57B2543E4E6EB5ECC43CA15E263D"><enum>(1)</enum><text>in paragraph (3), by inserting before the period at the end the following; <quote>, in accordance with the requirement under paragraph (4)</quote>; and</text>
+				</paragraph><paragraph commented="no" id="H510A88BA8E074E37933A0F901C0F8CB7"><enum>(2)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H0E62B85EDA8C47378D9CCF70FE2ED041" style="OLC">
+						<paragraph commented="no" id="H0E3ADBAD72834573851E4C68B35B62A2"><enum>(4)</enum><text display-inline="yes-display-inline">In the case of an applicant for a visa under this section who is present in the United States
+			 pursuant to a grant of parole under section 212(d)(5) for a period of time
+			 after making such application, the time period during which the applicant
+			 is present in the United States pursuant to such a grant of parole shall
+			 be added to the applicant’s priority date.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></section><section id="HB0211D9839234D288453AE37F4B20FAF"><enum>104.</enum><header>Admission and lawful presence required for employment authorization</header><text display-inline="no-display-inline">Section 274A(h)(3) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1324a">8 U.S.C. 1324a(h)(3)</external-xref>) is amended—</text>
+				<paragraph id="H455592D64832455CA42669C1ED9603F7"><enum>(1)</enum><text>by inserting before <quote>authorized to be so employed by this Act</quote> the following: <quote>an alien otherwise admitted to the United States and present in the United States with a lawful
+			 immigration status, who is</quote>; and</text>
+				</paragraph><paragraph id="HE96CB2AAF8934825A63C9E31BC96D801"><enum>(2)</enum><text>by striking at the end the following: <quote>or by the Attorney General</quote>.</text>
+				</paragraph></section></title><title id="HBF1FA5BB7C7C483584EEA6AE01D5CDD6"><enum>II</enum><header>Limitation on Executive Overreach</header>
+			<section id="H7C337C3BF1E9417DBF2DBC3338B24096"><enum>201.</enum><header>Denial of funds for implementation of unauthorized actions</header><text display-inline="no-display-inline">Notwithstanding any other provision of law, no funds or fees made available to the Secretary of
+			 Homeland Security, or to the head of any other Federal agency, may be used
+			 to implement, administer, enforce, or carry out (including through the
+			 issuance of any regulations) any of the policy changes set forth in the
+			 following memoranda:</text>
+				<paragraph display-inline="no-display-inline" id="H05C0E78AA13045EB8440A1846E58746E"><enum>(1)</enum><text>The memorandum from the Director of U.S. Immigration and Customs Enforcement entitled <quote>Civil Immigration Enforcement: Priorities for the Apprehension, Detention, and Removal of Aliens</quote> (March 2, 2011).</text>
+				</paragraph><paragraph id="HEFF53096055D4170BB32936661DC81D1"><enum>(2)</enum><text display-inline="yes-display-inline">The memorandum from the Director of U.S. Immigration and Customs Enforcement entitled <quote>Exercising Prosecutorial Discretion Consistent with the Civil Immigration Enforcement Priorities of
+			 the Agency for the Apprehension, Detention, and Removal of Aliens</quote> (June 17, 2011).</text>
+				</paragraph><paragraph id="H9021F735D92442C88389C6CB734843BA"><enum>(3)</enum><text display-inline="yes-display-inline">The memorandum from the Director of U.S. Immigration and Customs Enforcement entitled <quote>Prosecutorial Discretion: Certain Victims, Witnesses, and Plaintiffs</quote> (June 17, 2011).</text>
+				</paragraph><paragraph id="HD9BE3A8A9DDC45DC8B71D163F6F72FF7"><enum>(4)</enum><text display-inline="yes-display-inline">The U.S. Citizenship and Immigration Services policy memorandum entitled <quote>Revised Guidance for the Referral of Cases and Issuance of Notices to Appear (NTAs) in Cases
+			 Involving Inadmissible and Removable Aliens</quote> (November 17, 2011).</text>
+				</paragraph><paragraph id="HCD617C22C0D646E19FD88F5135E9AE08"><enum>(5)</enum><text display-inline="yes-display-inline">The memorandum from the Principal Legal Advisor of U.S. Immigration and Customs Enforcement
+			 entitled <quote>Case-by-Case Review of Incoming and Certain Pending Cases</quote> (November 17, 2011).</text>
+				</paragraph><paragraph id="H409D8432103E49969AD28036D14E5E84"><enum>(6)</enum><text display-inline="yes-display-inline">The recommendations included in the report from the Director of U.S. Immigration and Customs
+			 Enforcement entitled <quote>ICE Response to the Task Force on Secure Communities Findings and Recommendations</quote> (April 27, 2012).</text>
+				</paragraph><paragraph id="H2E5D4E8DFD7D4CF3AB1DD88BADB468C5"><enum>(7)</enum><text>The memorandum from the Secretary of Homeland Security entitled <quote>Exercising Prosecutorial Discretion with Respect to Individuals Who Came to the United States as
+			 Children</quote> (June 15, 2012).</text>
+				</paragraph><paragraph id="HDCAD577558094E4794F617735CE70872"><enum>(8)</enum><text display-inline="yes-display-inline">The memorandum from the Director of U.S. Immigration and Customs Enforcement entitled <quote>Civil Immigration Enforcement: Guidance on the Use of Detainers in the Federal, State, Local, and
+			 Tribal Criminal Justice Systems</quote> (December 21, 2012).</text>
+				</paragraph><paragraph id="H30CA76C12AAD486E9D2B283B6682AFA2"><enum>(9)</enum><text display-inline="yes-display-inline">The U.S. Citizenship and Immigration Services policy memorandum entitled <quote>Adjudication of Adjustment of Status Applications for Individuals Admitted to the United States
+			 Under the Visa Waiver Program</quote> (November 14, 2013).</text>
+				</paragraph><paragraph id="HC69090F3F6B64BD6A206D1EB54F52C6A"><enum>(10)</enum><text>The memorandum from the Secretary of Homeland Security entitled <quote>Southern Border and Approaches Campaign</quote> (November 20, 2014).</text>
+				</paragraph><paragraph id="H63EE7226F68E45919362CA33942B27C2"><enum>(11)</enum><text>The memorandum from the Secretary of Homeland Security entitled <quote>Policies for the Apprehension, Detention and Removal of Undocumented Immigrants</quote> (November 20, 2014).</text>
+				</paragraph><paragraph id="HA445A1566AC74DDC9A6EBD366AD4B3C7"><enum>(12)</enum><text>The memorandum from the Secretary of Homeland Security entitled <quote>Secure Communities</quote> (November 20, 2014).</text>
+				</paragraph><paragraph id="HA2300E0DC2994D7DB095030DE1D424EC"><enum>(13)</enum><text>The memorandum from the Secretary of Homeland Security entitled <quote>Exercising Prosecutorial Discretion with Respect to Individuals Who Came to the United States as
+			 Children and with Respect to Certain Individuals Who Are the Parents of
+			 U.S. Citizens or Permanent Residents</quote> (November 20, 2014).</text>
+				</paragraph><paragraph id="H5D64D89C496A493AB67CD13057725DC8"><enum>(14)</enum><text>The memorandum from the Secretary of Homeland Security entitled <quote>Expansion of the Provisional Waiver Program</quote> (November 20, 2014).</text>
+				</paragraph><paragraph id="H629BCFDDC95948D6928273E94916F5DD"><enum>(15)</enum><text>The memorandum from the Secretary of Homeland Security entitled <quote>Policies Supporting U.S. High-Skilled Businesses and Workers</quote> (November 20, 2014).</text>
+				</paragraph><paragraph id="H78A585386BBA4954AF8B72AF2E291B12"><enum>(16)</enum><text>The memorandum from the Secretary of Homeland Security entitled <quote>Families of U.S. Armed Forces Members and Enlistees</quote> (November 20, 2014).</text>
+				</paragraph><paragraph id="HAC4F5A3B24B34DAE9F2E6A0D306D5AF4"><enum>(17)</enum><text>The memorandum from the Secretary of Homeland Security entitled <quote>Directive to Provide Consistency Regarding Advance Parole</quote> (November 20, 2014).</text>
+				</paragraph><paragraph id="HBB2BA3D0F0CA49ADA7FCD1D27D951BBE"><enum>(18)</enum><text>The memorandum from the Secretary of Homeland Security entitled <quote>Policies to Promote and Increase Access to U.S. Citizenship</quote> (November 20, 2014).</text>
+				</paragraph><paragraph id="H0D0328F214E64F709909D5E3F2EF73DB"><enum>(19)</enum><text>The memorandum from the President entitled <quote>Modernizing and Streamlining the U.S. Immigrant Visa System for the 21st Century</quote> (November 21, 2014).</text>
+				</paragraph><paragraph id="H58726E87E25442209E03A981E8423CF8"><enum>(20)</enum><text>The memorandum from the President entitled <quote>Creating Welcoming Communities and Fully Integrating Immigrants and Refugees</quote> (November 21, 2014).</text>
+				</paragraph></section><section display-inline="no-display-inline" id="H87194F010D4C48108B3587D5131957A1" section-type="subsequent-section"><enum>202.</enum><header>ICE Law Enforcement Availability Pay (LEAP) eligibility</header>
+				<subsection id="HD8BCE6804D4A4EB7B04FEF45B44B27BE"><enum>(a)</enum><header>Availability pay for law enforcement</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/5/5545a">Section 5545a</external-xref> of title 5, United States Code, is amended by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H44483870BA954157A1DE0EF452F8C091" style="USC">
+						<subsection id="H25CC4B917D9746068B5537DA11A97FF2"><enum>(l)</enum><header>Application to certain officers and employees of the Department of Homeland Security</header><text display-inline="yes-display-inline">Subsections (a) through (h) of this section shall apply to a law enforcement officer of the Office
+			 of Enforcement and Removal Operations of Immigration and Customs
+			 Enforcement.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="HFCC8132B23854E908C3A1EDB8DA6FDFF"><enum>(b)</enum><header>Annuity calculation for availability pay</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/5/8331">Section 8331(3)(E)</external-xref> of title 5, United States Code, is amended—</text>
+					<paragraph id="HE831F18F50204034AA78CA4FDD9C24ED"><enum>(1)</enum><text>in clause (i), by striking <quote>or</quote> at the end;</text>
+					</paragraph><paragraph id="H37C16F9F6CCF4BD0A713D585EF8586F8"><enum>(2)</enum><text>in clause (ii), by adding <quote>or</quote> at the end; and</text>
+					</paragraph><paragraph id="H6B278DC1CC6745A18E1C663D8A697980"><enum>(3)</enum><text>by adding after clause (ii) the following:</text>
+						<quoted-block display-inline="no-display-inline" id="H54A2E99253704347AFBE705848CEC0C8" style="USC">
+							<clause id="HA13245A9D4AC434FA65D488BABBAA6D9"><enum>(iii)</enum><text display-inline="yes-display-inline">received by a law enforcement officer of the Office of Enforcement and Removal Operations of
+			 Immigration and Customs Enforcement, subject to all restrictions and
+			 earning limitations imposed on criminal investigators under section 5545a;</text></clause><after-quoted-block>. </after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection id="H6A70F9D1FE584076BEDB0CEB6EEF71CA"><enum>(c)</enum><header>Applicability</header><text>The amendments made by this section shall be effective as of the first day of the first applicable
+			 pay period beginning 90 days after the date of enactment of this Act.</text>
+				</subsection></section></title><title id="H50EE646F9A144D3B88CAD86E724A6176"><enum>III</enum><header>Unaccompanied alien children</header>
+			<section id="H56F5DE975F6A48B7B7AE938A73BC2370"><enum>301.</enum><header>Repatriation of unaccompanied alien children</header>
+				<subsection id="H2762710B2F7F49A4A6EDE3D0629BE79E"><enum>(a)</enum><header>In general</header><text>Section 235 of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008
+			 (<external-xref legal-doc="usc" parsable-cite="usc/8/1232">8 U.S.C. 1232</external-xref>) is amended—</text>
+					<paragraph id="HC86E191B0E3A47AD9CEC95884886A132"><enum>(1)</enum><text>in subsection (a)—</text>
+						<subparagraph id="H47F54F8138014AB086DC5B5B356CCF19"><enum>(A)</enum><text>in paragraph (2)—</text>
+							<clause id="HC12F16D9FE3D43D6BE12EEFC5A16FDD1"><enum>(i)</enum><text>by amending the heading to read as follows: <quote><header-in-text level="paragraph" style="OLC">Rules for unaccompanied alien children.</header-in-text></quote>;</text>
+							</clause><clause id="H932A322D61854D828555F3E9C605317D"><enum>(ii)</enum><text>in subparagraph (A);</text>
+								<subclause id="HFD02D2342AE745FA9DE02F32D08FFABF"><enum>(I)</enum><text>in the matter preceding clause (i), by striking <quote>who is a national or habitual resident of a country that is contiguous with the United States</quote>;</text>
+								</subclause><subclause id="HA6D4E25A78B14C6A9969519B22D087CB"><enum>(II)</enum><text>in clause (i), by inserting <quote>and</quote> at the end;</text>
+								</subclause><subclause id="H0203F8346E1A4AACB280EA2556A9B7D2"><enum>(III)</enum><text>in clause (ii), by striking <quote>; and</quote> and inserting a period; and</text>
+								</subclause><subclause id="H83F7437CEB9040DCB1E8EC2580DFDFC8"><enum>(IV)</enum><text>by striking clause (iii);</text>
+								</subclause></clause><clause id="H6FC48F6D0827419E8A83E27BFA95D1C6"><enum>(iii)</enum><text>in subparagraph (B)—</text>
+								<subclause id="HEC0DDFC93EE147CDBF06E8B4732FDC91"><enum>(I)</enum><text>in the matter preceding clause (i), by striking <quote>(<external-xref legal-doc="usc" parsable-cite="usc/8/1101">8 U.S.C. 1101 et seq.</external-xref>) may—</quote> and inserting <quote>(<external-xref legal-doc="usc" parsable-cite="usc/8/1101">8 U.S.C. 1101 et seq.</external-xref>)—</quote>;</text>
+								</subclause><subclause id="HC69FE3CA1B9944939E6C63A8002EFF8D"><enum>(II)</enum><text>in clause (i), by inserting before <quote>permit such child to withdraw</quote> the following: <quote>may</quote>; and</text>
+								</subclause><subclause id="HF81228B730D54BC8B32772BB83F1B0A8"><enum>(III)</enum><text>in clause (ii), by inserting before <quote>return such child</quote> the following: <quote>shall</quote>; and</text>
+								</subclause></clause><clause id="H6323D73FE3664ABE949B7472AF87ECAC"><enum>(iv)</enum><text>in subparagraph (C)—</text>
+								<subclause id="H73E9E7DF311E40C0B92001B33722C502"><enum>(I)</enum><text>by amending the heading to read as follows: <quote><header-in-text level="subparagraph" style="OLC">Agreements with foreign countries</header-in-text>.</quote>; and</text>
+								</subclause><subclause id="H9C6CABFF9B254C478B6E866DBE123898"><enum>(II)</enum><text>in the matter preceding clause (i), by striking <quote>The Secretary of State shall negotiate agreements between the United States and countries
+			 contiguous to the United States</quote> and inserting <quote>The Secretary of State may negotiate agreements between the United States and any foreign country
+			 that the Secretary determines appropriate</quote>; and</text>
+								</subclause></clause></subparagraph><subparagraph id="HF58A8624D9E84844B9D394746409996B"><enum>(B)</enum><text>in paragraph (5)(D)—</text>
+							<clause id="H486FE360CDB74D2882773C3531842B56"><enum>(i)</enum><text>in the matter preceding clause (i), by striking <quote>, except for an unaccompanied alien child from a contiguous country subject to the exceptions under
+			 subsection (a)(2),</quote> and inserting <quote>who does not meet the criteria listed in paragraph (2)(A)</quote>; and</text>
+							</clause><clause id="H653A2F07C72A462FA12467538CF0BFB4"><enum>(ii)</enum><text>in clause (i), by inserting before the semicolon at the end the following: <quote>, which shall include a hearing before an immigration judge not later than 14 days after being
+			 screened under paragraph (4)</quote>;</text>
+							</clause></subparagraph></paragraph><paragraph id="HAD2C94FCDFAB4685AC37C9A92523D76D"><enum>(2)</enum><text>in subsection (b)—</text>
+						<subparagraph id="HECB675932BDA489EAF39D6CFC35439A1"><enum>(A)</enum><text>in paragraph (2)—</text>
+							<clause commented="no" id="H40076D95DFB1412EB5D27F146ADEE0F5"><enum>(i)</enum><text>in the matter preceding subparagraph (A), by striking <quote>48 hours</quote> and inserting <quote>7 days</quote>;</text>
+							</clause><clause id="H07A8EE531657478CB1BBB1EF9CFC24FB"><enum>(ii)</enum><text>in subparagraph (A), by inserting before the semicolon the following: <quote>believed not to meet the criteria listed in subsection (a)(2)(A)</quote>; and</text>
+							</clause><clause id="HF82F174B088648F5B3448C577E4081D9"><enum>(iii)</enum><text>in subparagraph (B), by inserting before the period the following: <quote>and does not meet the criteria listed in subsection (a)(2)(A)</quote>; and</text>
+							</clause></subparagraph><subparagraph id="H0288F53598834DD38AAE01510222C9AF"><enum>(B)</enum><text>in paragraph (3), by striking <quote>an unaccompanied alien child in custody shall</quote> and all that follows, and inserting the following:</text>
+							<quoted-block display-inline="yes-display-inline" id="HDF8534EE767E4E9FBE16CB10DF3DAA92" style="OLC"><text>an unaccompanied alien child in custody—</text><subparagraph id="HA67709A376784A0DA756A0640B518B4F"><enum>(A)</enum><text display-inline="yes-display-inline">in the case of a child who does not meet the criteria listed in subsection (a)(2)(A), shall
+			 transfer the custody of such child to the Secretary of Health and Human
+			 Services not later than 30 days after determining that such child is an
+			 unaccompanied alien child who does not meet such criteria; or</text>
+								</subparagraph><subparagraph id="H006766508991459EB682A6C123F219DB"><enum>(B)</enum><text>in the case of child who meets the criteria listed in subsection (a)(2)(A), may transfer the
+			 custody of such child to the Secretary of Health and Human Services after
+			 determining that such child is an unaccompanied alien child who meets such
+			 criteria.</text></subparagraph><after-quoted-block>;</after-quoted-block></quoted-block>
+						</subparagraph></paragraph><paragraph id="HCA182518D8E943959C9E9140E0F6FF8B"><enum>(3)</enum><text>by adding at the end the following:</text>
+						<quoted-block display-inline="no-display-inline" id="HB4CAB6D76A2546F3A504CCBA66596E80" style="OLC">
+							<paragraph id="HCD3FAD8F76004BE5BD1E9DA4B99DA62B"><enum>(5)</enum><header>Information sharing</header><text display-inline="yes-display-inline">The Secretary of Health and Human Services shall share with the Secretary of Homeland Security any
+			 information requested on a child who has been determined to be an
+			 unaccompanied alien child and who is or has been in the custody of the
+			 Secretary of Health and Human Services, including the location of the
+			 child and any person to whom custody of the child has been transferred,
+			 for any legitimate law enforcement objective, including enforcement of the
+			 immigration laws.</text></paragraph><after-quoted-block>; and </after-quoted-block></quoted-block>
+					</paragraph><paragraph id="H9328D751E63D4122964C84DB75B83C8B"><enum>(4)</enum><text>in subsection (c)—</text>
+						<subparagraph id="H62DBD1814B8249F88145F19A9D0BE569"><enum>(A)</enum><text>in paragraph (3), by inserting at the end the following:</text>
+							<quoted-block id="HCF91ABD4D93646C0A6019BE99584D256" style="OLC">
+								<subparagraph id="HD31920C932404D4995BBE79D799503B6"><enum>(D)</enum><header>Information about individuals with whom children are placed</header>
+									<clause id="HB3F56D455021447CB05CB2C57E9E2D9D"><enum>(i)</enum><header>Information to be provided to homeland security</header><text>Before placing a child with an individual, the Secretary of Health and Human Services shall provide
+			 to the Secretary of Homeland Security, regarding the individual with whom
+			 the child will be placed, the following information:</text>
+										<subclause id="H6571B30A81E64A3088652DC5A07DA606"><enum>(I)</enum><text>The name of the individual.</text>
+										</subclause><subclause id="H496163AF64D94F2E9EBA75FB5FC04524"><enum>(II)</enum><text>The social security number of the individual.</text>
+										</subclause><subclause id="HD67976BF441D419EBD175B8B5D764409"><enum>(III)</enum><text>The date of birth of the individual.</text>
+										</subclause><subclause id="HED77AB8A94444FD8974B41D45C2AF921"><enum>(IV)</enum><text>The location of the individual’s residence where the child will be placed.</text>
+										</subclause><subclause id="HA799A9FD7A044F7C9C4942C6C6CB7E2B"><enum>(V)</enum><text>The immigration status of the individual, if known.</text>
+										</subclause><subclause id="H21080181A6E9433CA4763444A3B3818C"><enum>(VI)</enum><text>Contact information for the individual.</text>
+										</subclause></clause><clause id="H0BDCB1DDB4D94A42AC185FDB1B469348"><enum>(ii)</enum><header>Special rule</header><text>In the case of a child who was apprehended on or after June 15, 2012, and before the date of the
+			 enactment of the Repeal Executive Amnesty Act of 2015, who the Secretary
+			 of Health and Human Services placed with an individual, the Secretary
+			 shall provide the information listed in clause (i) to the Secretary of
+			 Homeland Security not later than 90 days after the date of the enactment
+			 of the Repeal Executive Amnesty Act of 2015.</text>
+									</clause><clause id="H29AD4C75B21043EBAEA32537B204BBC3"><enum>(iii)</enum><header>Activities of the secretary of homeland security</header><text>Not later than 30 days after receiving the information listed in clause (i), the Secretary of
+			 Homeland Security shall—</text>
+										<subclause id="H39C4B713EC934DD8AB8D165BCA86E1F7"><enum>(I)</enum><text>in the case that the immigration status of an individual with whom a child is placed is unknown,
+			 investigate the immigration status of that individual; and</text>
+										</subclause><subclause id="H927F2982096F41B49E05C8A49D7AAA5C"><enum>(II)</enum><text>upon determining that an individual with whom a child is placed is unlawfully present in the United
+			 States, initiate removal proceedings pursuant to chapter 4 of title II of
+			 the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1221">8 U.S.C. 1221 et seq.</external-xref>).</text></subclause></clause></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+						</subparagraph><subparagraph id="H2D6F009195BC4ED9AD21398DF416C418"><enum>(B)</enum><text>in paragraph (5)—</text>
+							<clause id="H8433E57F26C546D58DA1B6989DAEE854"><enum>(i)</enum><text>by inserting after <quote>to the greatest extent practicable</quote> the following: <quote>(at no expense to the Government)</quote>; and</text>
+							</clause><clause id="H350E0B2C97254BFD9E36F3F9A82A3BA4"><enum>(ii)</enum><text>by striking <quote>have counsel to represent them</quote> and inserting <quote>have access to counsel to represent them</quote>.</text>
+							</clause></subparagraph></paragraph></subsection><subsection id="H79352CEB531D4A689394DB2F4CB090ED"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall apply to any unauthorized alien child apprehended on or
+			 after June 15, 2012.</text>
+				</subsection></section><section id="H684A3BE6B91E45548CBD87FB3C52B261"><enum>302.</enum><header>Special immigrant juvenile status for immigrants unable to reunite with either parent</header><text display-inline="no-display-inline">Section 101(a)(27)(J)(i) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1101">8 U.S.C. 1101(a)(27)(J)(i)</external-xref>) is
+			 amended by striking <quote>1 or both of the immigrant’s parents</quote> and inserting <quote>either of the immigrant’s parents</quote>.</text>
+			</section><section display-inline="no-display-inline" id="H833E703356EB441AA54B0C1F1F392066"><enum>303.</enum><header>Modifications to preferential availability for asylum for unaccompanied alien minors</header><text display-inline="no-display-inline">Section 208 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1158">8 U.S.C. 1158</external-xref>) is amended—</text>
+				<paragraph id="H7762BE546F664A12B6E2C860FF678CD2"><enum>(1)</enum><text>by striking subsection (a)(2)(E); and</text>
+				</paragraph><paragraph id="H7D490FF423174B418AD05DC6DEFF463E"><enum>(2)</enum><text>by striking subsection (b)(3)(C).</text>
+				</paragraph></section><section id="H5B51E0D3E70D4EFDA54250FFD01A902B"><enum>304.</enum><header>Unaccompanied alien child defined</header><text display-inline="no-display-inline">Section 462(g)(2) of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/279">6 U.S.C. 279(g)(2)</external-xref>) is amended to read as
+			 follows:</text>
+				<quoted-block display-inline="no-display-inline" id="H01287259C85D466BA96EDA42BFC21E26" style="OLC">
+					<paragraph id="HC027CCBD0D9B4181B16DAF79B794A1CD"><enum>(2)</enum><text display-inline="yes-display-inline">The term <term>unaccompanied alien child</term>—</text>
+						<subparagraph id="H8AB27FB3F40B4ABE9E36B028872FC5B3"><enum>(A)</enum><text>means an alien who—</text>
+							<clause id="H0455786E54BB403BAFC9C5BC1F6413F6"><enum>(i)</enum><text>has no lawful immigration status in the United States;</text>
+							</clause><clause id="H5E497B1810F2418A87D6E4D6E5EC7638"><enum>(ii)</enum><text>has not attained 18 years of age; and</text>
+							</clause><clause id="HF23E464E42D04BC796B33CBAD45263A2"><enum>(iii)</enum><text>with respect to whom—</text>
+								<subclause id="HB66A2A4E65B04B2983F577A01F9C32F4"><enum>(I)</enum><text>there is no parent or legal guardian in the United States;</text>
+								</subclause><subclause id="H3D7C450684BF4A46969F10D22E933A82"><enum>(II)</enum><text>no parent or legal guardian in the United States is available to provide care and physical custody;
+			 or</text>
+								</subclause><subclause id="H179B4E65A6A3433FBB46035005067996"><enum>(III)</enum><text>no sibling over 18 years of age, aunt, uncle, grandparent, or cousin over 18 years of age is
+			 available to provide care and physical custody; except that</text>
+								</subclause></clause></subparagraph><subparagraph id="H24D38EBF5E9A47F8A077EAFE2F5AED13"><enum>(B)</enum><text display-inline="yes-display-inline">such term shall cease to include an alien if at any time a parent, legal guardian, sibling over 18
+			 years of age, aunt, uncle, grandparent, or cousin over 18 years of age of
+			 the alien is found in the United States and is available to provide care
+			 and physical custody (and the Secretary of Homeland Security and the
+			 Secretary of Health and Human Services shall revoke accordingly any prior
+			 designation of the alien under this paragraph).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</section></title><title id="H84A6B0E898E645D4A18D3A6DBA5A7165"><enum>IV</enum><header>Eligibility criteria for aliens to receive certain benefits</header>
+			<section id="HC8B8694A6CB94AA2ADAFA49D6BA328BC"><enum>401.</enum><header>Aliens without lawful status ineligible to receive social security and medicare benefits</header><text display-inline="no-display-inline">Section 401(b) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8
+			 U.S.C. 1611(b)) is amended—</text>
+				<paragraph id="H3CC4D1E91742435AB0E1F7EFF0F6782E"><enum>(1)</enum><text>in paragraph (2), by adding at the end the following: <quote>For purposes of this paragraph, the term <term>alien who is lawfully present in the United States</term> means an alien who has been admitted to the United States, and whose period of lawful admission
+			 has not expired, and does not include an alien who is present in the
+			 United States pursuant to a grant of parole under section 212(d)(5) of the
+			 Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1182">8 U.S.C. 1182(d)(5)</external-xref>).</quote>; and</text>
+				</paragraph><paragraph id="H8F18AB63F2664EA8AE80F99463C65059"><enum>(2)</enum><text display-inline="yes-display-inline">in paragraph (3), by adding at the end the following: <quote>For purposes of this paragraph, the term <term>alien who is lawfully present in the United States</term> has the meaning given such term in paragraph (2).</quote>.</text>
+				</paragraph></section><section commented="no" id="H4A2590DF234D444B8F8BA7C5001C9ECC"><enum>402.</enum><header>Applying citizenship and immigration status eligibility criteria for Federal programs to Affordable
+			 Care Act benefits</header>
+				<subsection commented="no" id="H69B8EEA279EE4464967BB7B04DBE5838"><enum>(a)</enum><header>Applying qualified alien eligibility criteria to ACA benefits</header>
+					<paragraph commented="no" id="H7C88CD7F3AAE4D9FB63D31CE161683D0"><enum>(1)</enum><header>Temporary high risk health insurance pool program</header><text>Section 1101(d)(1) of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18001">42 U.S.C. 18001(d)(1)</external-xref>) is
+			 amended by striking <quote>or is lawfully present</quote> and all that follows through <quote>section 1411)</quote> and inserting <quote>or is a qualified alien (as defined in section 431 of the Personal Responsibility and Work
+			 Opportunity Reconciliation Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1641">8 U.S.C. 1641</external-xref>)), as determined in
+			 accordance with section 1411</quote>.</text>
+					</paragraph><paragraph commented="no" id="H7791830161C9423D866A164147089CE8"><enum>(2)</enum><header>Eligibility to participate in Exchanges</header><text display-inline="yes-display-inline">Section 1312(f)(3) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18032">42 U.S.C. 18032(f)(3)</external-xref>) is amended—</text>
+						<subparagraph commented="no" id="H07FA1EF4A50348CAA1E8650CC893492E"><enum>(A)</enum><text>in the paragraph heading, by inserting <quote><header-in-text level="paragraph" style="OLC">certain</header-in-text></quote> after <quote><header-in-text level="paragraph" style="OLC">limited to</header-in-text></quote>; and</text>
+						</subparagraph><subparagraph commented="no" id="H00D0BA9AF5264057A07055F5853329A0"><enum>(B)</enum><text>by striking <quote>an alien lawfully present in the United States</quote> and inserting <quote>an alien who is a qualified alien (as defined in section 431 of the Personal Responsibility and
+			 Work Opportunity Reconciliation Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1641">8 U.S.C. 1641</external-xref>))</quote>.</text>
+						</subparagraph></paragraph><paragraph commented="no" id="HD38D956FACF24C4F807BB2B0D7FE30A9"><enum>(3)</enum><header>State health programs for low-income individuals not eligible for Medicaid</header><text>Section 1331(e)(1)(B) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18051">42 U.S.C. 18051(e)(1)(B)</external-xref>) is amended by striking <quote>lawfully present in the United States</quote> and inserting <quote>who is a qualified alien (as defined in section 431 of the Personal Responsibility and Work
+			 Opportunity Reconciliation Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1641">8 U.S.C. 1641</external-xref>))</quote>.</text>
+					</paragraph><paragraph commented="no" id="H37DD7075C3884DACA7F4F2CEB2BB5673"><enum>(4)</enum><header>Tax credit providing premium assistance for coverage under qualified health plans</header><text>Section 36B of the Internal Revenue of 1986 is amended—</text>
+						<subparagraph commented="no" id="HE06DB13B167E406FAEAE863579B6B2AE"><enum>(A)</enum><text>in subsection (c)(1)(B)—</text>
+							<clause commented="no" id="H2C75CB0BF177432BA1C4D7E5DB275774"><enum>(i)</enum><text>in the heading, by striking <quote><header-in-text level="subparagraph" style="OLC">individuals lawfully present in the United States</header-in-text></quote> and inserting <quote><header-in-text level="subparagraph" style="OLC">qualified aliens</header-in-text></quote>; and</text>
+							</clause><clause commented="no" id="H4A0149B0756C489C9D4C6BD3D2E903C6"><enum>(ii)</enum><text>in clause (ii), by striking <quote>an alien lawfully present in the United States</quote> and inserting <quote>an alien who is a qualified alien (as defined in section 431 of the Personal Responsibility and
+			 Work Opportunity Reconciliation Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1641">8 U.S.C. 1641</external-xref>))</quote>; and</text>
+							</clause></subparagraph><subparagraph commented="no" id="H4B507D927F6646C68F3C00174885865F"><enum>(B)</enum><text>in subsection (e)(2), by striking <quote>lawfully present in the United States</quote> and inserting <quote>who is a qualified alien (as defined in section 431 of the Personal Responsibility and Work
+			 Opportunity Reconciliation Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1641">8 U.S.C. 1641</external-xref>))</quote>.</text>
+						</subparagraph></paragraph><paragraph commented="no" id="H9439A532C9D843AAAB64559E60703146"><enum>(5)</enum><header>Reduced cost-sharing for certain individuals under qualified health plans</header><text display-inline="yes-display-inline">Section 1402(e)(2) of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18071">42 U.S.C. 18071(e)(2)</external-xref>) is
+			 amended by striking <quote>lawfully present in the United States</quote> and inserting <quote>who is a qualified alien (as defined in section 431 of the Personal Responsibility and Work
+			 Opportunity Reconciliation Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1641">8 U.S.C. 1641</external-xref>))</quote>.</text>
+					</paragraph><paragraph commented="no" id="HF465F5655368413E9B6F2143BB95DC74"><enum>(6)</enum><header>Eligibility determinations</header><text display-inline="yes-display-inline">Section 1411 of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18081">42 U.S.C. 18081</external-xref>) is amended—</text>
+						<subparagraph commented="no" id="H79BBAF30DBA14BF88216C6C903772D76"><enum>(A)</enum><text>in subsection (a)(1), by striking <quote>an alien lawfully present in the United States</quote> and inserting <quote>a qualified alien (as defined in section 431 of the Personal Responsibility and Work Opportunity
+			 Reconciliation Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1641">8 U.S.C. 1641</external-xref>))</quote>; and</text>
+						</subparagraph><subparagraph commented="no" id="H7DFF586DA49A409EA3C324E8006BBD43"><enum>(B)</enum><text display-inline="yes-display-inline">in subsection (c)(2)(B)—</text>
+							<clause commented="no" id="H499956B033AB466885A0BFBB65D1ADAF"><enum>(i)</enum><text>in clause (i)(I), by striking <quote>an alien lawfully present in the United States</quote> and inserting <quote>a qualified alien (as defined in section 431 of the Personal Responsibility and Work Opportunity
+			 Reconciliation Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1641">8 U.S.C. 1641</external-xref>))</quote>; and</text>
+							</clause><clause commented="no" id="H49AA09602A674650AA9F257A2D470A28"><enum>(ii)</enum><text display-inline="yes-display-inline">in clause (ii)(II), by striking <quote>an alien lawfully present in the United States</quote> and inserting <quote>a qualified alien (as defined in section 431 of the Personal Responsibility and Work Opportunity
+			 Reconciliation Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1641">8 U.S.C. 1641</external-xref>))</quote>.</text>
+							</clause></subparagraph></paragraph><paragraph commented="no" id="H5FBFAF92C5954F4FA8A3509EDF77E238"><enum>(7)</enum><header>Advance determination and payment of premium tax credits and cost-sharing reductions</header><text>Section 1412(d) of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18082">42 U.S.C. 18082(d)</external-xref>) is amended—</text>
+						<subparagraph commented="no" id="H6CB16798EF9D4BF79E046CC1F16EF314"><enum>(A)</enum><text>in the heading, by striking <quote><header-in-text level="subsection" style="OLC">Lawfully Present</header-in-text></quote> and inserting <quote><header-in-text level="subsection" style="OLC">citizens, nationals, or qualified aliens</header-in-text></quote>; and</text>
+						</subparagraph><subparagraph commented="no" id="H0867912D87414B05A32897EBB035D1FA"><enum>(B)</enum><text>by striking <quote>not lawfully present in the United States</quote> and inserting <quote>not citizens or nationals of the United States or aliens who are qualified aliens (as defined in
+			 section 431 of the Personal Responsibility and Work Opportunity
+			 Reconciliation Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1641">8 U.S.C. 1641</external-xref>))</quote>.</text>
+						</subparagraph></paragraph><paragraph commented="no" id="H399FAEC7D0774858AB095F356C77454D"><enum>(8)</enum><header>Minimum essential coverage requirement</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/5000A">Section 5000A(d)(3)</external-xref> of the Internal Revenue Code of 1986 is amended—</text>
+						<subparagraph commented="no" id="HFB3584D7F81F46808FA3EED154C64A6D"><enum>(A)</enum><text display-inline="yes-display-inline">in the heading, by striking <quote><header-in-text level="paragraph" style="OLC">lawfully present</header-in-text></quote> and inserting <quote><header-in-text level="paragraph" style="OLC">citizens, nationals, or qualified aliens</header-in-text></quote>; and</text>
+						</subparagraph><subparagraph commented="no" id="H3AA46E18AD22472AAD9231F28FF56AF8"><enum>(B)</enum><text display-inline="yes-display-inline">by striking <quote>an alien lawfully present in the United States</quote> and inserting <quote>a qualified alien (as defined in section 431 of the Personal Responsibility and Work Opportunity
+			 Reconciliation Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1641">8 U.S.C. 1641</external-xref>))</quote>.</text>
+						</subparagraph></paragraph><paragraph commented="no" id="H3628137546AD47B2A6F7238255C872BB"><enum>(9)</enum><header>Medicaid population</header><text display-inline="yes-display-inline">Section 1903(v)(1) of the Social Security Act is amended by striking <quote>who is not lawfully admitted for permanent residence or otherwise permanently residing in the
+			 United States under color of law</quote> and inserting <quote>who is not a qualified alien (as defined in section 431 of the Personal Responsibility and Work
+			 Opportunity Reconciliation Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1641">8 U.S.C. 1641</external-xref>))</quote>.</text>
+					</paragraph></subsection><subsection commented="no" id="H9116E45A744C4464AE44C17A50B6293D"><enum>(b)</enum><header>Clarification that certain ACA benefits treated as Federal public benefits</header><text display-inline="yes-display-inline">Section 401(c) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8
+			 U.S.C. 1611(c)) is amended by adding at the end the following new
+			 paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="HF47B98FF985B4688AE5A1ECDF01492FD" style="OLC">
+						<paragraph commented="no" id="H78BBC83E7E77453DA6D05BF658A7F75D"><enum>(3)</enum><text display-inline="yes-display-inline">In applying paragraph (1), the following assistance and benefits are treated as health benefits
+			 described in paragraph (1)(B):</text>
+							<subparagraph commented="no" id="H9E4E8A5AED3B459B881A9D022F4B0D4F"><enum>(A)</enum><text>Enrollment under the temporary high risk health insurance pool program under section 1101 of the
+			 Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18001">42 U.S.C. 18001</external-xref>).</text>
+							</subparagraph><subparagraph commented="no" id="HF72B21D65B4246B8A19E65A4A8CCCB80"><enum>(B)</enum><text>Participation in an Exchange established under title I of the Patient Protection and Affordable
+			 Care Act.</text>
+							</subparagraph><subparagraph commented="no" id="H658AA86321C24DCD9E36262B8A6C86D4"><enum>(C)</enum><text>Participation in the health program established under section 1331(a) of the Patient Protection and
+			 Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18051">42 U.S.C. 18051</external-xref>).</text>
+							</subparagraph><subparagraph commented="no" id="HABC3EBCBFEC44D5EB0123EDC18B4C3D1"><enum>(D)</enum><text>Allowance of a tax credit under <external-xref legal-doc="usc" parsable-cite="usc/26/36B">section 36B</external-xref> of the Internal Revenue Code of 1986.</text>
+							</subparagraph><subparagraph commented="no" id="H0598274126A748249E369FCCC2C92735"><enum>(E)</enum><text>Reduction of cost-sharing under qualified health plans under section 1402 of the Patient Protection
+			 and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18071">42 U.S.C. 18071</external-xref>).</text>
+							</subparagraph><subparagraph commented="no" id="H4160C66C68A64F67BFC71A737AC17342"><enum>(F)</enum><text>Provision of advance payments under section 1412 of the Patient Protection and Affordable Care Act
+			 (<external-xref legal-doc="usc" parsable-cite="usc/42/18082">42 U.S.C. 18082</external-xref>).</text>
+							</subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection commented="no" id="H3C43C4684EE34E2F89ACEAA3FCFC4941"><enum>(c)</enum><header>Clarification That Certain ACA Benefits Treated as Federal Means-Tested Public Benefits</header><text>Section 403(c) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8
+			 U.S.C. 1613(c)) is amended by adding at the end the following new
+			 paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H6B3697FB981B4435891AF37650AC13A8" style="OLC">
+						<paragraph commented="no" id="HFB363DD94C9A4BDAB88629268E3DD60F"><enum>(3)</enum><text display-inline="yes-display-inline">In applying this section, assistance and benefits described in section 401(c)(3) are treated as
+			 Federal means-tested public benefits to which subsection (a) applies.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection commented="no" id="H50EE40EE6CCE49D6AB987A4108968061"><enum>(d)</enum><header>Effective date</header>
+					<paragraph commented="no" id="HCD2A0F463B1647E082650A86D7BD68DC"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Subject to paragraph (2), the amendments made by this section shall apply to coverage months
+			 beginning more than 120 days after the date of the enactment of this Act.</text>
+					</paragraph><paragraph commented="no" id="HCFE297B8AFA947B3B3E5548A3986C9F9"><enum>(2)</enum><header>Transition for current enrollees</header><text display-inline="yes-display-inline">In the case of an individual who is being provided assistance or benefits described in paragraph
+			 (3) of section 401(c) of the Personal Responsibility and Work Opportunity
+			 Reconciliation Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1611">8 U.S.C. 1611(c)</external-xref>), as added by subsection (b),
+			 as of the date of the enactment of this Act, the amendments made by this
+			 section (other than the amendments made by subsection (a)(8)) shall not
+			 apply with respect to such assistance or benefits provided to such
+			 individual for coverage months before January of the year after the date
+			 of enactment of this Act.</text>
+					</paragraph></subsection></section><section id="H964D0AF6D11C4CBBA3B8B4A076DB4390"><enum>403.</enum><header>Aliens paroled into the United States ineligible for Federal public benefits</header><text display-inline="no-display-inline">Section 431(b) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8
+			 U.S.C. 1641(b)) is amended by striking paragraph (4).</text>
+			</section></title><title commented="no" id="HDE36039EA2454DB2A889C15A1805AB03"><enum>V</enum><header>State and local enforcement of the immigration laws</header>
+			<section id="H942DDC7713F2420FAA84565052F22E85"><enum>501.</enum><header>Definitions</header>
+				<subsection id="H83942FDF4B934706BCAA6C706B3D59A6"><enum>(a)</enum><header>State defined</header><text>For the purposes of this title, the term <term>State</term> has the meaning given to such term in section 101(a)(36) of the Immigration and Nationality Act (8
+			 U.S.C. 1101(a)(36)).</text>
+				</subsection><subsection id="HF5127C83D8DF4535A02D34B81FEB306C"><enum>(b)</enum><header>Secretary defined</header><text>For the purpose of this title, the term <term>Secretary</term> means the Secretary of Homeland Security.</text>
+				</subsection></section><section id="H7744F86267894538ACAC67D73B4797F1"><enum>502.</enum><header>Immigration law enforcement by States and localities</header><text display-inline="no-display-inline">Law enforcement personnel of a State, or of a political subdivision of a State, may investigate,
+			 identify, apprehend, arrest, detain, or transfer to Federal custody aliens
+			 for the purposes of enforcing the immigration laws of the United States to
+			 the same extent as Federal law enforcement personnel. Law enforcement
+			 personnel of a State, or of a political subdivision of a State, may also
+			 investigate, identify, apprehend, arrest, or detain aliens for the
+			 purposes of enforcing the immigration laws of a State or of a political
+			 subdivision of State. Law enforcement personnel of a State, or of a
+			 political subdivision of a State, may not remove aliens from the United
+			 States.</text>
+			</section><section id="H86D0B138A4D0441A80D5ADB97BD5A7A0"><enum>503.</enum><header>Immunity</header><text display-inline="no-display-inline">Notwithstanding any other provision of law, a law enforcement officer of a State or local law
+			 enforcement agency who is acting within the scope of the officer’s
+			 official duties shall be immune, to the same extent as a Federal law
+			 enforcement officer, from personal liability arising out of the
+			 performance of any duty described in this title, including the authorities
+			 to investigate, identify, apprehend, arrest, detain, or transfer to
+			 Federal custody, an alien for the purposes of enforcing the immigration
+			 laws of the United States (as defined in section 101(a)(17) of the
+			 Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1101">8 U.S.C. 1101(a)(17)</external-xref>)) or the immigration
+			 laws of a State or a political subdivision of a State.</text>
+			</section><section id="H3FB03AC5D7B643DDBA22B3CB41650C64"><enum>504.</enum><header>Federal custody of inadmissible and deportable aliens in the United States apprehended by State or
+			 local law enforcement</header>
+				<subsection id="H2996003A99A54A3B9A7EB07ECAAC1A91"><enum>(a)</enum><header>In general</header><text>Title II of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1151">8 U.S.C. 1151 et seq.</external-xref>) is amended by inserting
+			 after section 240C the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H74E03B82F94E4CDEA0AC5467AACBA6B1" style="traditional">
+						<section id="HF0E1149F9EE7485B9A2C7464D3A87EA4"><enum>240D.</enum><header>Custody of inadmissible and deportable aliens present in the United States</header><subsection commented="no" display-inline="no-display-inline" id="H26FB756936B94A5DA1FCF8C999EB3E8C"><enum>(a)</enum><header>Transfer of custody by State and local officials</header><text display-inline="yes-display-inline">If a State, or a political subdivision of a State, exercising authority with respect to the
+			 apprehension or arrest of an inadmissible or deportable alien submits to
+			 the Secretary of Homeland Security a request that the alien be taken into
+			 Federal custody, notwithstanding any other provision of law, regulation,
+			 or policy the Secretary—</text>
+								<paragraph commented="no" id="HF07924BC659A419490AA51C08BE631FE"><enum>(1)</enum><text>shall take the alien into custody not later than 48 hours after the request has been issued
+			 following the conclusion of the State or local charging process or
+			 dismissal process, or if no State or local charging or dismissal process
+			 is required, the Secretary shall issue a detainer and take the alien into
+			 custody not later than 48 hours after the alien is apprehended, in order
+			 to determine whether the alien should be detained, placed in removal
+			 proceedings, released, or removed; or</text>
+								</paragraph><paragraph commented="no" id="H2B02159076C241958C2EEE46AB220220"><enum>(2)</enum><text>shall request that the relevant State or local law enforcement agency temporarily hold the alien in
+			 their custody or transport the alien for transfer to Federal custody.</text>
+								</paragraph></subsection><subsection id="HFC23781B933E4D50BC606454D91D9C87"><enum>(b)</enum><header>Policy on detention in Federal, contract, State, or local detention facilities</header><text>In carrying out section 241(g)(1), the Attorney General or Secretary of Homeland Security shall
+			 ensure that an alien arrested under this title shall be held in custody,
+			 pending the alien’s examination under this section, in a Federal,
+			 contract, State, or local prison, jail, detention center, or other
+			 comparable facility. Notwithstanding any other provision of law,
+			 regulation or policy, such facility is adequate for detention, if—</text>
+								<paragraph id="H01084BFFC57041FE99B56695C0B8BFE4"><enum>(1)</enum><text>such a facility is the most suitably located Federal, contract, State, or local facility available
+			 for such purpose under the circumstances;</text>
+								</paragraph><paragraph id="H58EA7571C5454E209C9270244261F751"><enum>(2)</enum><text>an appropriate arrangement for such use of the facility can be made; and</text>
+								</paragraph><paragraph id="HE628D621A2EE4132AD45721E8EC4C218"><enum>(3)</enum><text>the facility satisfies the standards for the housing, care, and security of persons held in custody
+			 by a United States Marshal.</text>
+								</paragraph></subsection><subsection id="HCEA5E020774C417CAD087B8FFDBB0380"><enum>(c)</enum><header>Reimbursement</header><text>The Secretary of Homeland Security shall reimburse a State, or a political subdivision of a State,
+			 for all reasonable expenses, as determined by the Secretary, incurred by
+			 the State, or political subdivision, as a result of the incarceration and
+			 transportation of an alien who is inadmissible or deportable as described
+			 in subsections (a) and (b). Compensation provided for costs incurred under
+			 such subsections shall be the average cost of incarceration of a prisoner
+			 in the relevant State, as determined by the chief executive officer of a
+			 State, or of a political subdivision of a State, plus the cost of
+			 transporting the alien from the point of apprehension to the place of
+			 detention, and to the custody transfer point if the place of detention and
+			 place of custody are different.</text>
+							</subsection><subsection id="HF72C48AEB4804888BC6014939C2C6FBD"><enum>(d)</enum><header>Secure facilities</header><text>The Secretary of Homeland Security shall ensure that aliens incarcerated pursuant to this title are
+			 held in facilities that provide an appropriate level of security.</text>
+							</subsection><subsection id="HFC819EFA9938495B907605E0608E0973"><enum>(e)</enum><header>Transfer</header>
+								<paragraph id="HCEF3368EF5EB44718090866DB3AC6B38"><enum>(1)</enum><header>In general</header><text>In carrying out this section, the Secretary of Homeland Security shall establish a regular circuit
+			 and schedule for the prompt transfer of apprehended aliens from the
+			 custody of States, and political subdivisions of a State, to Federal
+			 custody.</text>
+								</paragraph><paragraph id="H64E23636ADAA47C9B233F599811EABA1"><enum>(2)</enum><header>Contracts</header><text>The Secretary may enter into contracts, including appropriate private contracts, to implement this
+			 subsection.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="H0962701072464C6082E633D7ED041343"><enum>(b)</enum><header>Clerical amendment</header><text>The table of contents of such Act is amended by inserting after the item relating to section 240C
+			 the following new item:</text>
+					<quoted-block display-inline="no-display-inline" id="H70B7B1F9896A4839A070B793FED9025A" style="traditional">
+						<toc container-level="quoted-block-container" idref="H74E03B82F94E4CDEA0AC5467AACBA6B1" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+							<toc-entry idref="HF0E1149F9EE7485B9A2C7464D3A87EA4" level="section">Sec. 240D. Custody of inadmissible and deportable aliens present in the United States.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection></section><section id="H300D5FDC3A0F418CB8E811BD86F72E94"><enum>505.</enum><header>State Criminal Alien Assistance Program (SCAAP)</header><text display-inline="no-display-inline">Section 241(i) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1231">8 U.S.C. 1231(i)</external-xref>) is amended—</text>
+				<paragraph commented="no" id="H750B5DBB86434309920415F7AD84D535"><enum>(1)</enum><text display-inline="yes-display-inline">in paragraph (3)(A), by inserting <quote>charged with or</quote> before <quote>convicted</quote>; and</text>
+				</paragraph><paragraph commented="no" id="HF07116267F3F440690C31D70F0AE8811"><enum>(2)</enum><text>by amending paragraph (5) to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="HD88AE0322528476E90D3509928AF68E7" style="OLC">
+						<paragraph commented="no" id="H21F1ECD326A44DFEA5298D3833A8C004"><enum>(5)</enum><text display-inline="yes-display-inline">There are authorized to be appropriated to carry out this subsection such sums as may be necessary
+			 for fiscal year 2015 and each subsequent fiscal year.</text></paragraph><after-quoted-block>. </after-quoted-block></quoted-block>
+				</paragraph></section><section commented="no" id="H4F76D24815D140D18A6E0B5B3BE6EB1D"><enum>506.</enum><header>Limitation on State receipt of Federal funding</header>
+				<subsection commented="no" id="H729A516FFC774516AA5FF20C0E4110D7"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">A State or political subdivision of a State that has in place a law or policy described in
+			 subsection (b) may not receive—</text>
+					<paragraph commented="no" id="H321213FCA52B431F9E73E496551CD8E7"><enum>(1)</enum><text display-inline="yes-display-inline">grants made under subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act
+			 of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/42/3750">42 U.S.C. 3750 et seq.</external-xref>);</text>
+					</paragraph><paragraph commented="no" id="H5AC29C3CA43A4F8893C715B60E139546"><enum>(2)</enum><text display-inline="yes-display-inline">grants made under part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42
+			 U.S.C. 3796dd et seq.); or</text>
+					</paragraph><paragraph commented="no" id="HE9B701C5D2BE415CBBACB88A6AC71E1B"><enum>(3)</enum><text display-inline="yes-display-inline">compensation under section 241(i) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1231">8 U.S.C. 1231(i)</external-xref>).</text>
+					</paragraph></subsection><subsection commented="no" id="HA2F77C42A50D40EC9DEE87C65BFB67D8"><enum>(b)</enum><header>Law or policy described</header><text display-inline="yes-display-inline">A law or policy is described in this subsection if the law or policy—</text>
+					<paragraph commented="no" id="H0EEEF0A676FC463DA156D473691283BC"><enum>(1)</enum><text display-inline="yes-display-inline">is in contravention of section 642(a) of the Illegal Immigration Reform and Immigrant
+			 Responsibility Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1373">8 U.S.C. 1373(a)</external-xref>);</text>
+					</paragraph><paragraph commented="no" id="H32E7CEED52D7431CAEC2EF68CA56178F"><enum>(2)</enum><text>prohibits or restricts law enforcement officers of that State or political subdivision from
+			 collecting information relating to an individual’s immigration status; or</text>
+					</paragraph><paragraph commented="no" id="H96795EE6F1804483B83563D5310F02EE"><enum>(3)</enum><text display-inline="yes-display-inline">prohibits or restricts compliance with, or the honoring of detainers issued by Immigration and
+			 Customs Enforcement.</text>
+					</paragraph></subsection></section><section display-inline="no-display-inline" id="H3D03B239E50146B49D1A32996AC99BB5" section-type="subsequent-section"><enum>507.</enum><header>ICE detainers</header><text display-inline="no-display-inline">Section 287(d) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1357">8 U.S.C. 1357(d)</external-xref>) is amended in the matter
+			 preceding paragraph (1), by striking <quote>relating to controlled substances</quote>.</text>
+			</section><section commented="no" id="H8A4012E2D9644D1FB7B8817830B3A741"><enum>508.</enum><header>Preservation of the Secure Communities program and removal of deportable aliens identified under
+			 the interoperable law enforcement and intelligence electronic data system</header><text display-inline="no-display-inline">Section 202 of the Enhanced Border Security and Visa Entry Reform Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/8/1722">8 U.S.C. 1722</external-xref>) is
+			 amended—</text>
+				<paragraph id="H80C3E4B7D4FA4BDD85DF498E519FA57C"><enum>(1)</enum><text display-inline="yes-display-inline">in subsection (a)(2), by adding at the end the following: <quote>Compliance with the requirements of this paragraph shall include, at a minimum, the operation of
+			 the Secure Communities program, as in effect on November 19, 2014.</quote>; and</text>
+				</paragraph><paragraph id="HEC3EFA99720F41B4A1DBD5AC3D81D58C"><enum>(2)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H1AF4B231EF39411D84E713C5E0083DC4" style="OLC">
+						<subsection id="HACDDE31AE57D41278AAA2589ADAB7E7E"><enum>(c)</enum><header>Required action</header><text display-inline="yes-display-inline">Upon receiving notice under the interoperable law enforcement and intelligence electronic data
+			 system established under subsection (a) that a deportable alien is in the
+			 custody of Federal, State, or local law enforcement, the Secretary of
+			 Homeland Security shall, following the conclusion of the charging process,
+			 dismissal process, or completion of the alien’s sentence, as appropriate,
+			 issue a detainer, take the alien into custody, and initiate removal
+			 proceedings under section 238 or 240 of the Immigration and Nationality
+			 Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1228">8 U.S.C. 1228</external-xref>, 1229a), as appropriate.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></section></title><title id="H5F94F5AA61E34DA8B832616DD451D066"><enum>VI</enum><header>Asylum Reform and Border Protection</header>
+			<section id="H7C663A556DFE4F4BA78B6D141E4CC83D"><enum>601.</enum><header>Clarification of intent regarding taxpayer-provided counsel</header><text display-inline="no-display-inline">Section 292 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1362">8 U.S.C. 1362</external-xref>) is amended—</text>
+				<paragraph id="HEBF2BB78F7EE4EE08225763ADDA4122F"><enum>(1)</enum><text>by striking <quote>(at no expense to the Government)</quote>; and</text>
+				</paragraph><paragraph id="H8EF6D8A7EBA74583AFC4B79784ECAEC7"><enum>(2)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H619541B894984B8894F95D1EA7EDA090" style="OLC">
+						<quoted-block-continuation-text quoted-block-continuation-text-level="section">Notwithstanding any other provision of law, in no instance shall the Government bear any expense
+			 for counsel for any person in removal proceedings or in any appeal
+			 proceedings before the Attorney General from any such removal proceedings.</quoted-block-continuation-text><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></section><section id="H8AF7441D42D640FD8CC3253B4C575EE6"><enum>602.</enum><header>Credible fear interviews</header><text display-inline="no-display-inline">Section 235(b)(1)(B)(v) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1225">8 U.S.C. 1225(b)(1)(B)(v)</external-xref>) is
+			 amended by striking <quote>208.</quote> and inserting <quote>208, and it is more probable than not that the statements made by the alien in support of the
+			 alien’s claim are true.</quote>.</text>
+			</section><section id="H404877D7126B4ACEB41BDAA3F498C0A0"><enum>603.</enum><header>Recording expedited removal and credible fear interviews</header>
+				<subsection id="H4C4B2B00DCAF40C39B0BBC32F369645C"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Homeland Security shall establish quality assurance procedures and take steps to
+			 effectively ensure that questions by employees of the Department of
+			 Homeland Security exercising expedited removal authority under section
+			 235(b) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1225">8 U.S.C. 1225(b)</external-xref>) are asked
+			 in a uniform manner, and that both these questions and the answers
+			 provided in response to them are recorded in a uniform fashion.</text>
+				</subsection><subsection id="H6FB637A5C05B4D22AF1C4A71BF108B5A"><enum>(b)</enum><header>Factors relating to sworn statements</header><text>Where practicable, any sworn or signed written statement taken of an alien as part of the record of
+			 a proceeding under section 235(b)(1)(A) of the Immigration and Nationality
+			 Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1225">8 U.S.C. 1225(b)(1)(A)</external-xref>) shall be accompanied by a recording of the
+			 interview which served as the basis for that sworn statement.</text>
+				</subsection><subsection id="HD6503C3D809F40108D003619CAC28882"><enum>(c)</enum><header>Interpreters</header><text>The Secretary shall ensure that a competent interpreter, not affiliated with the government of the
+			 country from which the alien may claim asylum, is used when the
+			 interviewing officer does not speak a language understood by the alien and
+			 there is no other Federal, State, or local government employee available
+			 who is able to interpret effectively, accurately, and impartially.</text>
+				</subsection><subsection id="H6BB7B422A75A46D4A1173555619EC439"><enum>(d)</enum><header>Recordings in immigration proceedings</header><text>Recordings of interviews of aliens subject to expedited removal shall be included in the record of
+			 proceeding and shall be considered as evidence in any further proceedings
+			 involving the alien.</text>
+				</subsection><subsection id="H0AAD1F4896084E4A9D71D944D6269676"><enum>(e)</enum><header>No private right of action</header><text>Nothing in this section shall be construed to create any right, benefit, trust, or responsibility,
+			 whether substantive or procedural, enforceable in law or equity by a party
+			 against the United States, its departments, agencies, instrumentalities,
+			 entities, officers, employees, or agents, or any person, nor does this
+			 section create any right of review in any administrative, judicial, or
+			 other proceeding.</text>
+				</subsection></section><section id="H5A6C167DE7654AABBFE8B55C3410FB4A"><enum>604.</enum><header>Safe third country</header><text display-inline="no-display-inline">Section 208(a)(2)(A) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1158">8 U.S.C. 1158(a)(2)(A)</external-xref>) is amended—</text>
+				<paragraph id="HBC3BB8CC4C624E9294AB4F35015E8B7D"><enum>(1)</enum><text>by striking <quote>Attorney General</quote> and inserting <quote>Secretary of Homeland Security</quote>; and</text>
+				</paragraph><paragraph id="HE6B810EAF01D4D5E95E66CF59C48CF2B"><enum>(2)</enum><text>by striking <quote>removed, pursuant to a bilateral or multilateral agreement, to</quote> and inserting <quote>removed to</quote>.</text>
+				</paragraph></section></title><title id="HDCF9440B05404B0C8BD605636B7D41FE"><enum>VII</enum><header>Miscellaneous</header>
+			<section id="H7AF2CCAE57834F27BD6E008549D39E9F"><enum>701.</enum><header>Suspension of effectiveness of certain laws</header>
+				<subsection id="H8A8A868D83B54DC38464BDBC611704F0"><enum>(a)</enum><header>Waiver of inadmissibility of aliens unlawfully present</header><text>Section 212(a)(9)(B)(v) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1182">8 U.S.C. 1182(a)(9)(B)(v)</external-xref>) is
+			 suspended during the period beginning on the date of the enactment of this
+			 Act and ending on January 20, 2017.</text>
+				</subsection><subsection id="H068B55AEA1C04447B286944F88F7AC79"><enum>(b)</enum><header>Designation for temporary protected status</header><text>No foreign state may be designated or redesignated under section 244(b) of the Immigration and
+			 Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1254a">8 U.S.C. 1254a(b)</external-xref>) during the period beginning on the
+			 date of the enactment of this Act and ending on January 20, 2017. The
+			 preceding sentence shall not be construed to affect any extension of a
+			 designation under paragraph (3)(C) of such section, if the designation was
+			 made prior to the date of the enactment of this Act.</text>
+				</subsection></section><section id="H198462755EF5433D8916AD702D9A0233"><enum>702.</enum><header>Temporary protected status reform</header><text display-inline="no-display-inline">Section 244 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1254a">8 U.S.C. 1254a</external-xref>) is amended—</text>
+				<paragraph id="H4EF80DD2EE3A4FCEA90336290961F4C9"><enum>(1)</enum><text>in subsection (a)—</text>
+					<subparagraph id="HF41BEFD61DAA4C22AE8A9766CCF3953A"><enum>(A)</enum><text>in paragraph (3), by striking subparagraphs (B) and (C) and redesignating subparagraph (D) as
+			 subparagraph (B); and</text>
+					</subparagraph><subparagraph id="HC53B16C56AE2414CA98AFDEF539F4240"><enum>(B)</enum><text>in paragraph (5), by striking <quote>to deny temporary protected status to an alien based on the alien’s immigration status or</quote>;</text>
+					</subparagraph></paragraph><paragraph id="H3BCBF7790AFE4C489DB26CCD76736B77"><enum>(2)</enum><text>in subsection (b)—</text>
+					<subparagraph id="H656C54BE326F45A4901EE3CCA2F0AF02"><enum>(A)</enum><text>in paragraph (3)—</text>
+						<clause id="H6849E338968C4A27817C130E7B815673"><enum>(i)</enum><text>in subparagraph (A), by striking <quote>, and any extended period of designation,</quote>;</text>
+						</clause><clause id="HB7750981796A4D6A9DEB1A5483B3F29C"><enum>(ii)</enum><text>in subparagraph (B), by striking <quote>or, if later, the expiration of the most recent previous extension under subparagraph (C)</quote>; and</text>
+						</clause><clause id="HA6C823D78C1A4FD2A6F8B4472BDF3109"><enum>(iii)</enum><text>in subparagraph (C), by striking <quote>is extended for</quote> and all that follows, and inserting <quote>may be extended for one additional period of up to 18 months, in the discretion of the Attorney
+			 General.</quote>; and</text>
+						</clause></subparagraph><subparagraph id="HE10B0174F36C49E58BD44F41FAB61831"><enum>(B)</enum><text>in paragraph (5)(B), by striking the second sentence;</text>
+					</subparagraph></paragraph><paragraph id="HBD2A221F68C747AEB3DDFD4FE488B982"><enum>(3)</enum><text>in subsection (c)(1)(A)—</text>
+					<subparagraph id="H4300447EE3A04464B74C75531EDECDED"><enum>(A)</enum><text>in clause (iii), by striking <quote>and</quote> at the end;</text>
+					</subparagraph><subparagraph id="H41C0970948D94332B18B5958617EB4A7"><enum>(B)</enum><text>in clause (iv), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+					</subparagraph><subparagraph id="H41CBC7B69E6F4DE4B3542E2988C154A0"><enum>(C)</enum><text>by adding after clause (iv) the following:</text>
+						<quoted-block display-inline="no-display-inline" id="H00374ECEF48743E8864DEA9CE343EA53" style="OLC">
+							<clause id="H330E16BE87124FC195EE23070CC07F19"><enum>(v)</enum><text display-inline="yes-display-inline">the alien had lawful immigration status in the United States on the effective date of the most
+			 recent designation of that state.</text></clause><after-quoted-block>; and </after-quoted-block></quoted-block>
+					</subparagraph></paragraph><paragraph id="H8FF00774FC7B4611A3A579A79C07C745"><enum>(4)</enum><text>in subsection (g), by striking <quote>aliens who are or may become otherwise deportable or have been paroled into the United States</quote> and inserting <quote>aliens who may become otherwise deportable</quote>.</text>
+				</paragraph></section></title></legis-body>
+</bill>
+
+

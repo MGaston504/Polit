@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1020 IS: Diagnostic Imaging Services Access Protection Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-04-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 1020</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150421">April 21, 2015</action-date><action-desc><sponsor name-id="S299">Mr. Vitter</sponsor> (for himself and <cosponsor name-id="S308">Mr. Cardin</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend title XVIII of the Social Security Act to ensure the continued access of Medicare
+			 beneficiaries to diagnostic imaging services, and for other purposes.</official-title></form>
+	<legis-body id="H27401C3B65AB44E1B408383515E77522" style="OLC">
+ <section id="HA20BA500BB95451FBDC4C2B5EBE158A0" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Diagnostic Imaging Services Access Protection Act of 2015</short-title></quote>.</text> </section><section id="H4C9048CA2ABA471CA0497CDF644C7F7C"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+ <paragraph id="H236CB9FC03F045A0BCA58B0555360EF4"><enum>(1)</enum><text>Significant reimbursement cuts to the Medicare physician fee schedule should be based on detailed empirical analysis data.</text>
+ </paragraph><paragraph id="H8A693655436A4914932DC353A323F87D"><enum>(2)</enum><text>On multiple occasions since 2011, Congress has requested the Centers for Medicare &amp; Medicaid Services (CMS) to provide the data used to establish its 2012 multiple procedure payment reduction to the professional component of imaging services.</text>
+ </paragraph><paragraph id="H393193A66A1E46A88EAA8C900BEDA4F8"><enum>(3)</enum><text>CMS never provided the requested data to Congress.</text> </paragraph><paragraph id="H1E61F4FC2E3243CAA538E538F17A6561"><enum>(4)</enum><text>Enactment of section 220(i) of <external-xref legal-doc="public-law" parsable-cite="pl/113/93">Public Law 113–93</external-xref> on April 1, 2014, mandates the disclosure of CMS data used to determine its 2012 multiple procedure payment reduction to the professional component of imaging services.</text>
+ </paragraph><paragraph id="H3589088740D14FC79A38F11644E3ED92"><enum>(5)</enum><text>CMS acknowledged its responsibility to disclose this data in the Calendar Year 2015 Medicare Physician Fee Schedule Notice of Proposed Rule Making (NPRM) released on July 11, 2014, as well as in a letter from the Administrator on August 18, 2014.</text>
+ </paragraph><paragraph id="HA9FA9E40D4B847758A0B3EB4EF816E75"><enum>(6)</enum><text display-inline="yes-display-inline">To date, CMS has not complied with the statutory mandate provided for in section 220(i) of <external-xref legal-doc="public-law" parsable-cite="pl/113/93">Public Law 113–93</external-xref>.</text>
+ </paragraph></section><section id="H87CAEF45140543DABAC0787D32E2F61B"><enum>3.</enum><header>Medicare payment for imaging services</header><text display-inline="no-display-inline">Section 1848(b)(4) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">42 U.S.C. 1395w–4(b)(4)</external-xref>) is amended by adding at the end the following new subparagraph:</text>
+			<quoted-block id="H8D925055BCC84AF8AE6DC878DFD00484" style="OLC">
+				<subparagraph id="H30BF3019A848407BB6800BD578474A0B"><enum>(E)</enum><header>Elimination of application of multiple procedure payment reduction</header>
+ <clause id="H899AB4B1DD504213A0C198A3719899CA"><enum>(i)</enum><header>In general</header><text>The Secretary shall not apply a multiple procedure payment reduction policy to the professional component of imaging services—</text>
+ <subclause id="H273C630EA1FA495EA1D59B8D8A253939"><enum>(I)</enum><text>furnished on a date that is more than 60 days after the date of the enactment of this subparagraph and in the year in which this subparagraph is enacted; or</text>
+ </subclause><subclause id="HC24F1E490F2646FDA9D4507A3DA088BF"><enum>(II)</enum><text display-inline="yes-display-inline">furnished in any subsequent year that is prior to a year in which the Secretary conducts and publishes, as part of the Medicare Physician Fee Schedule Proposed Rule for a year, the empirical analysis described in clause (ii).</text>
+ </subclause></clause><clause id="H662ED32B76C449B393309E91EB031E28"><enum>(ii)</enum><header>Empirical analysis described</header><text display-inline="yes-display-inline">The empirical analysis described in this clause is an analysis of the Resource-Based Relative Value Scale (commonly known as the <quote>RBRVS</quote>) Data Manager information that is used to determine what, if any, efficiencies exist within the professional component of imaging services when two or more studies are performed on the same patient on the same day. Such empirical analysis shall include—</text>
+ <subclause id="H23C65A36850F4D91B9E4116A2DA0C07E"><enum>(I)</enum><text display-inline="yes-display-inline">work sheets and other information detailing which physician work activities performed given the typical vignettes were assigned reduction percentages of 0, 25, 50, 75 and 100 percent;</text>
+ </subclause><subclause id="H7DD81FFAC60044289CD491D7A06F68C5"><enum>(II)</enum><text>a discussion of the clinical aspects that informed the assignment of the reduction percentages described in subclause (I);</text>
+ </subclause><subclause id="H2FD612FE4A824F4CACA69B7E723D8305"><enum>(III)</enum><text>an explanation of how the percentage reductions for pre-, intra- and post-service work were determined and calculated; and</text>
+ </subclause><subclause id="H1A56D87BC20F41DBA32035287E5126AF"><enum>(IV)</enum><text display-inline="yes-display-inline">a demonstration that the Centers for Medicare &amp; Medicaid Services has consulted with practicing radiologists to gain knowledge of how radiologists interpret studies of multiple body parts on the same individual on the same day.</text></subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill>
+
+

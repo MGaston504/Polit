@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB0A7F0F5762749F3BBD7BB05A7E15C37" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4133 IH: Public Housing Accountability Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4133</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151130">November 30, 2015</action-date>
+			<action-desc><sponsor name-id="B001289">Mr. Byrne</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the United States Housing Act of 1937 to ensure accountability in the provision of public
+			 housing, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H6F273D61C4E04339978600F6E7BE520C" style="OLC">
+ <section id="H40C8A4C810844A51BC91AE4BDCE28D5C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Public Housing Accountability Act of 2015</short-title></quote>.</text> </section><section display-inline="no-display-inline" id="H15BA04100B4C483F9F2846233AA51D0C" section-type="subsequent-section"><enum>2.</enum><header>Income reviews</header> <text display-inline="no-display-inline">Section 3(a) of the United States Housing Act of 1937 (<external-xref legal-doc="usc" parsable-cite="usc/42/1437a">42 U.S.C. 1437a(a)</external-xref>) is amended—</text>
+ <paragraph id="H9B564324C9DA4D11A60153BC4598CF3E"><enum>(1)</enum><text>in the first sentence of paragraph (1)—</text> <subparagraph id="HCC6A4C45E44B43B099AFE753F07DDCBA"><enum>(A)</enum><text>by striking <quote>at the time of their initial occupancy of such units.</quote>; and</text>
+ </subparagraph><subparagraph id="H33302A2754D74295A78FBA36575612E6"><enum>(B)</enum><text>by inserting a period after <quote>low-income families</quote>;</text> </subparagraph></paragraph><paragraph id="H009B17003C694F588EE9A35056374F54"><enum>(2)</enum><text>by amending the second sentence of paragraph (1) to read as follows: <quote>Reviews of family income shall be made at the time of their initial occupancy of such units, at least annually, and as required by paragraph (6)</quote>; and</text>
+ </paragraph><paragraph commented="no" id="H2E3E21065B2845429E077C6784E6C73D"><enum>(3)</enum><text>by adding at the end the following new paragraph:</text> <quoted-block display-inline="no-display-inline" id="H6140E50AAEED49BA8A4761EEC9398462" style="OLC"> <paragraph commented="no" id="HACCB850802B84B0D815E29F103187EEB"><enum>(6)</enum><header>Reviews of family income</header> <text>Reviews of family income for purposes of this section shall be made at any time the income or deductions (under subsection (b)(5)) of the family change by an amount that is estimated to result in an increase of 10 percent or more in annual adjusted income, or such other amount as the Secretary may by notice establish, except that a public housing agency or owner may elect not to conduct such review in the last three months of a certification period.</text>
+					</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></section><section id="H3433FD995B244183A572D7039505A2BE"><enum>3.</enum><header>Amendments to occupancy by over-income families in certain public housing</header><text display-inline="no-display-inline">Paragraph (5) of section 3(a) of the United States Housing Act of 1937 (<external-xref legal-doc="usc" parsable-cite="usc/42/1437a">42 U.S.C. 1437a(a)</external-xref>) is amended to read as follows:</text>
+			<quoted-block display-inline="no-display-inline" id="H640CA7DD13B142778E039335465EBF56" style="OLC">
+				<paragraph id="H56C50118D8A34A0CA7DB74CEAAA463DE"><enum>(5)</enum><header>Occupancy by over-income families in certain public housing</header>
+ <subparagraph id="H4AC6DFF19F4A41BCA3B9ECA63D1487BB"><enum>(A)</enum><header>Notice</header><text display-inline="yes-display-inline">If a public housing agency determines that a family residing in a dwelling unit in public housing is an over-income family because of an income review conducted under this subsection, the public housing agency shall notify such family of that determination.</text>
+ </subparagraph><subparagraph id="H54DDB3FF39824F45B0ABE6E84F781711"><enum>(B)</enum><header>Termination of tenancy</header><text display-inline="yes-display-inline">Within 30 days of receipt of a notice described in subparagraph (A), an over-income family residing in a dwelling unit in public housing—</text>
+ <clause id="H7E0C28F5FC984D95A3B8781D7651CC7E"><enum>(i)</enum><text display-inline="yes-display-inline">may submit an appeal of determination that includes additional documentation that was not included during the income review to confirm eligibility for tenancy in public housing; or</text>
+ </clause><clause id="HCE04C2E758F3425BAB7619BCA13F7238"><enum>(ii)</enum><text display-inline="yes-display-inline">shall vacate the dwelling unit.</text> </clause></subparagraph><subparagraph id="HF80FF4E99D194FBEAE35F4ACC220C3F7"><enum>(C)</enum><header>PHA appeals determination</header><text display-inline="yes-display-inline">A public housing agency shall review an appeal submitted under subparagraph (B)(i) and notify the over-income family about the results of an appeal within 30 days of receipt of the appeal. If the public housing agency finds in such review that the over-income family is ineligible for tenancy in public housing, the family shall vacate the dwelling unit within 30 days of receipt of the results of an appeal.</text>
+ </subparagraph><subparagraph id="HE10D5A7B68BB4C8C84ED729DBF70A85F"><enum>(D)</enum><header>Definition</header><text>For purposes of this paragraph, the term <term>over-income family</term> means an individual or family ineligible to reside in a dwelling unit in public housing because such family is not a low-income family at the time—</text>
+ <clause id="H4B5DA99D30CD498790067F216975883D"><enum>(i)</enum><text>an annual income review is conducted under paragraph (1); or</text> </clause><clause id="H7C74381FEEF449AA9E8FE76D29B6531C"><enum>(ii)</enum><text>a review is conducted pursuant to paragraph (6).</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H0B5DC2E2EA5B42CA839DBB51D22C04C3" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3575 IH: End Tax Exemptions for Fetal Tissue Profits Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3575</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150918">September 18, 2015</action-date>
+			<action-desc><sponsor name-id="N000184">Mrs. Noem</sponsor> (for herself and <cosponsor name-id="R000586">Mr. Renacci</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to deny tax exemption to organizations which violate the
+			 Federal prohibitions regarding human fetal tissue.</official-title>
+	</form>
+	<legis-body id="HE38E5578B0AE432F9BD924F899EA03A9" style="OLC">
+ <section id="H2991F2EFBEA541EBAD4B5D0EE2500B5D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>End Tax Exemptions for Fetal Tissue Profits Act</short-title></quote>.</text> </section><section id="H7C941E6FBFAD41BCAFCC05468337594D"><enum>2.</enum><header>Denial of tax exemption in connection with violation of prohibitions regarding human fetal tissue</header> <subsection id="HCE36BCB422024219B1E0026ED7493239"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/503">Section 503</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="H7DD2B3388D1B4476B576DFDC308ECEE1" style="OLC">
+					<subsection id="H7956D2A5758B4E05BEFF4EC7A443A3FA"><enum>(g)</enum><header>Denial of exemption in connection with violation of prohibitions regarding human fetal tissue</header>
+ <paragraph id="HDB663B667A8644CFBF15C12794F9E1C5"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">An organization described in section 501(c) shall not be exempt from taxation under section 501(a) if—</text>
+ <subparagraph id="H274145883A1B4928A8D8D6ACD17A27F7"><enum>(A)</enum><text>such organization is fined under subsection (d) of section 498B of the Public Health Service Act for any violation under such section, or</text>
+ </subparagraph><subparagraph id="H378361AA0F0D42879FCB841B43A390BC"><enum>(B)</enum><text>any officer, employee, or volunteer of such organization is fined or imprisoned under such subsection (d) for any violation under such section and such violation occurred in connection with services provided by such individual to such organization.</text>
+							</subparagraph></paragraph><paragraph id="H88EB6FE678B94766A4B755D2083A732F"><enum>(2)</enum><header>Taxable years affected</header>
+ <subparagraph id="H64F603A3D32E4633B3351E9AFA244992"><enum>(A)</enum><header>In general</header><text>The denial of exemption under paragraph (1) shall apply to the taxable year which includes the date on which the organization or individual referred to therein is so fined or imprisoned and all taxable years thereafter.</text>
+ </subparagraph><subparagraph id="H4BB293ABCFD249ACBCAC8BCE4E311449"><enum>(B)</enum><header>Contributions made before disqualification date</header><text>In the case of a contribution made to an organization during the first taxable year to which the denial of exemption under paragraph (1) applies and before the date referred to in subparagraph (A), section 170 shall be applied without regard to this subsection.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HCB5897EDF5A840D3A51E91678BB36997"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to taxable years ending after the date of the enactment of this Act with respect to violations occurring before, on, or after such date.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

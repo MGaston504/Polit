@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2356 IS: Private Sector Call Record Retention Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-12-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2356</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151203">December 3, 2015</action-date>
+			<action-desc><sponsor name-id="S363">Mr. King</sponsor> (for himself and <cosponsor name-id="S374">Mr. Cotton</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Foreign Intelligence Surveillance Act of 1978 to require an electronic communication
+			 service provider that generates
+			 call detail
+			 records pursuant to an order under that Act to notify the Attorney
+			 General if the provider intends to retain such records for a
+			 period
+			 less than 18 months.</official-title>
+	</form>
+	<legis-body>
+ <section id="idB04D331DE6B244279CE7A0702CA548F7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Private Sector Call Record Retention Act</short-title></quote>.</text> </section><section id="id803DCBD2802942FEBD4B320A68C7904B" section-type="subsequent-section"><enum>2.</enum><header>Notice to Attorney General on certain modification of practice on retention of call detail records by electronic communication service providers</header><text display-inline="no-display-inline">Section 501 of the Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1861">50 U.S.C. 1861</external-xref>), as amended by section 107 of the USA FREEDOM Act of 2015 (<external-xref legal-doc="public-law" parsable-cite="pl/114/23">Public Law 114–23</external-xref>; 129 Stat. 273), is further amended—</text>
+ <paragraph id="id144DCFE5271B4F35A7F865E5218B017C"><enum>(1)</enum><text>by redesignating subsection (k) as subsection (l); and</text> </paragraph><paragraph id="idABFEFF83927A4157B2F563E352E036A1"><enum>(2)</enum><text display-inline="yes-display-inline">by inserting after subsection (j) the following new subsection (k):</text>
+				<quoted-block display-inline="no-display-inline" id="idF0E738D810994F439CB66EF14F4858D5" style="OLC">
+					<subsection id="id7ba39c824cda4ccf96b0f28d1fc9bf50"><enum>(k)</enum><header>Prospective changes to existing practices related to call detail records</header>
+ <paragraph id="id1a40047f936e46b1946c5456264aac3e"><enum>(1)</enum><header>In general</header><text>Consistent with subsection (c)(2)(F), an electronic communication service provider that has been issued an order to produce call detail records pursuant to an order under subsection (c) shall notify the Attorney General if that service provider intends to retain its call detail records for a period less than 18 months.</text>
+ </paragraph><paragraph id="ide0df29e500be4f45acebc6ab74c3dd58"><enum>(2)</enum><header>Timing of notice</header><text>A notification under paragraph (1) shall be made not less than 180 days prior to the date such electronic communications service provider intends to implement a policy to retain such records for a period less than 18 months.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

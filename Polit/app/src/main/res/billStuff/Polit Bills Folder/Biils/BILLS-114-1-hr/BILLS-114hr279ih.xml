@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HF1E7DFB8E8ED46ACAEC6CA7870BB209C" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 279 IH: To amend the Communications Act of 1934 to limit the authority of the Federal Communications Commission over providers of broadband Internet access service.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 279</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150112">January 12, 2015</action-date>
+			<action-desc><sponsor name-id="L000566">Mr. Latta</sponsor> (for himself, <cosponsor name-id="J000255">Mr. Jones</cosponsor>, <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>, and <cosponsor name-id="R000053">Mr. Rangel</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Communications Act of 1934 to limit the authority of the Federal Communications
+			 Commission over providers of broadband Internet access service.</official-title>
+	</form>
+	<legis-body id="H3DD5AAC0081E4F3082461C6572CEAC74" style="OLC">
+ <section id="HA8305D54ADE947448C2FBCA8BD899BDC" section-type="section-one"><enum>1.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="HEAA83615D6444F8392549DCBD5F9AD1E"><enum>(1)</enum><text>The Internet is a powerful engine for economic growth that has remained open, free, and accessible without government regulation since its entrance into the public sphere.</text>
+ </paragraph><paragraph id="HB19889105DE04288A573F875DF27AD16"><enum>(2)</enum><text display-inline="yes-display-inline">Title II of the Communications Act of 1934 was designed for the monopoly telephone system in 1934 and has its origins in 19th century shipping regulations.</text>
+ </paragraph><paragraph id="H59B52DDB8E014A8E961BF6AE7DD0D435"><enum>(3)</enum><text>Imposing the obligations and requirements of title II of such Act on broadband Internet access service would severely harm broadband investment and create myriad negative unintended consequences.</text>
+ </paragraph><paragraph id="H1F5DCBE440A74E5095C84EB173493C58"><enum>(4)</enum><text>The Federal Communications Commission has consistently taken actions that classify broadband Internet access service, even in different forms, as an information service. Such actions include the following:</text>
+ <subparagraph id="H975D4D810C194473A76D2D939013A141"><enum>(A)</enum><text display-inline="yes-display-inline">In 1998, Chairman Bill Kennard issued a Report to Congress finding that Internet access is an information service with a telecommunications component.</text>
+ </subparagraph><subparagraph id="H9FE79DDC0C2C47A881C9BF0A350C5992"><enum>(B)</enum><text display-inline="yes-display-inline">In 2002, the Commission issued a Declaratory Ruling (17 FCC Rcd 4798) classifying cable modem broadband Internet access service as an information service. In the 2005 case of National Cable &amp; Telecommunications Association v. Brand X Internet Services (545 U.S. 967), the Supreme Court of the United States affirmed this determination that such service is not a common carrier service and is appropriately classified as an information service.</text>
+ </subparagraph><subparagraph id="H392A699EAD594F0AB2AEEA05C8A2890B"><enum>(C)</enum><text display-inline="yes-display-inline">In 2005, the Commission issued a Report and Order (20 FCC Rcd 14853) affirming the classification of wireline broadband Internet access service as an information service.</text>
+ </subparagraph><subparagraph id="HED88429F36594571B223A8BF6AECD647"><enum>(D)</enum><text display-inline="yes-display-inline">In 2007, the Commission issued a Declaratory Ruling (22 FCC Rcd 5901) affirming the classification of wireless broadband Internet access service as an information service.</text>
+ </subparagraph></paragraph><paragraph id="HB6065D25FBF44A35B7E715C7F8178833"><enum>(5)</enum><text display-inline="yes-display-inline">These Commission rulings unleashed tens of billions of dollars of investment in the Nation’s broadband networks, investment that would not have been made if broadband services were subject to common carrier requirements.</text>
+			</paragraph></section><section id="H353BB688C12648BB8098A47084DFD506"><enum>2.</enum><header>Limitation on authority of FCC</header>
+ <subsection id="HD322C5A638F14230A4D56F94D1BA4653"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 3 of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/153">47 U.S.C. 153</external-xref>) is amended as follows:</text> <paragraph id="H6FC59EE035974A9FA831D7ED5EA36E0D"><enum>(1)</enum><header>Common carrier</header><text>Paragraph (11) is amended by adding at the end the following: <quote>Such term does not include a provider of an information service or of advanced telecommunications capability (as defined in section 706 of the Telecommunications Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/47/1302">47 U.S.C. 1302</external-xref>)) when engaged in the provision of such service or capability.</quote>.</text>
+ </paragraph><paragraph id="HEA5A003541DB459881FCBEEB32E29120"><enum>(2)</enum><header>Information service</header><text>Paragraph (24) is amended to read as follows:</text> <quoted-block display-inline="no-display-inline" id="H5D0CAE0807944FCBB014119376E5AA90" style="OLC"> <paragraph id="HF60FCBDF6B3F42459A10E3A5F5912681"><enum>(24)</enum><header>Information service</header><text display-inline="yes-display-inline">The term <quote>information service</quote> means the offering of a capability for generating, acquiring, storing, transforming, processing, retrieving, utilizing, or making available information via telecommunications, and includes electronic publishing, but does not include—</text>
+ <subparagraph id="HC8628940E74C4E498F3A038898643DFD"><enum>(A)</enum><text>a telecommunications service; or</text> </subparagraph><subparagraph id="H6471CA022E9B4F13A52B9AEBF9733645"><enum>(B)</enum><text>any use of any such capability for the management, control, or operation of a telecommunications system or the management of a telecommunications service.</text></subparagraph><continuation-text continuation-text-level="paragraph">Such term includes broadband Internet access service. A provider of an information service may not
+			 be treated as a telecommunications carrier under this Act when engaged in
+			 the provision of an information service, and may not be required to offer
+			 such service or any component of such service as a telecommunications
+			 service.</continuation-text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H459AC9940CCA48198A749955EB7D1A31"><enum>(3)</enum><header>Telecommunications carrier</header><text display-inline="yes-display-inline">Paragraph (51) is amended by adding at the end the following: <quote>Such term does not include a provider of an information service or of advanced telecommunications capability (as defined in section 706 of the Telecommunications Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/47/1302">47 U.S.C. 1302</external-xref>)) when engaged in the provision of such service or capability.</quote>.</text>
+ </paragraph><paragraph id="HB4FD6D7A35734AE1B2D89CE413B3D490"><enum>(4)</enum><header>Telecommunications service</header><text>Paragraph (53) is amended by adding at the end the following: <quote>Such term does not include any service that is an information service, any component of an information service, or advanced telecommunications capability (as defined in section 706 of the Telecommunications Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/47/1302">47 U.S.C. 1302</external-xref>)).</quote>.</text>
+ </paragraph></subsection><subsection id="H359FD8D2A4084A5493A604CA07B87335"><enum>(b)</enum><header>Broadband Internet access service defined</header><text>Section 3 of the Communications Act of 1934 is further amended—</text> <paragraph id="H68C026CC2C19433582E1C57781574817"><enum>(1)</enum><text>by redesignating paragraphs (6) through (59) as paragraphs (7) through (60), respectively; and</text>
+ </paragraph><paragraph id="HFF49318F1A9F4FAFB3C8F7BC400501C2"><enum>(2)</enum><text>by inserting after paragraph (5) the following:</text> <quoted-block display-inline="no-display-inline" id="H5B9A91CFA2CD4FD690C2EFB8723AF36F" style="OLC"> <paragraph id="H1CD157B53DF543F9B79E612BA1A1E68D"><enum>(6)</enum><header>Broadband Internet access service</header><text display-inline="yes-display-inline">The term <quote>broadband Internet access service</quote> means a mass-market retail service by wire or radio that provides the capability to transmit data to and receive data from all or substantially all Internet endpoints, including any capabilities that are incidental to and enable the operation of the communications service, but excluding dial-up Internet access service. Broadband Internet access service is an information service, and includes a service utilizing advanced telecommunications capability (as defined in section 706 of the Telecommunications Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/47/1302">47 U.S.C. 1302</external-xref>)).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

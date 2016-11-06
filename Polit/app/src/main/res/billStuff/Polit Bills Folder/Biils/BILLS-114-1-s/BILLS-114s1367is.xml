@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1367 IS: To amend the Federal Home Loan Bank Act with respect to membership eligibility of certain institutions.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1367</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150518">May 18, 2015</action-date>
+			<action-desc><sponsor name-id="S356">Mr. Donnelly</sponsor> (for himself and <cosponsor name-id="S349">Mr. Portman</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Home Loan Bank Act with respect to membership eligibility of certain
+			 institutions.</official-title>
+	</form>
+	<legis-body>
+		<section id="HAE729FA2D5FF4F23A6F09057A0EFD340" section-type="section-one"><enum>1.</enum><header>Privately insured credit unions authorized to become members of a Federal home loan bank</header>
+ <subsection id="HCEB137BF22BD4A56A1424C8AFAF5E32C"><enum>(a)</enum><header>In general</header><text>Section 4(a) of the Federal Home Loan Bank Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1424">12 U.S.C. 1424(a)</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block id="H4F9BE02169A947AA9D00F17802418168" style="OLC">
+					<paragraph id="H1BEF81A8D686472D8A4EA89BC967DF68"><enum>(5)</enum><header>Certain privately insured credit unions</header>
+ <subparagraph id="HD62DF041777846AB8B0F0D715DFF0AAB"><enum>(A)</enum><header>In general</header><text>Subject to the requirements of subparagraph (B), a credit union that lacks insurance of its member accounts under Federal law shall be treated as an insured depository institution for purposes of this Act.</text>
+ </subparagraph><subparagraph id="HADDB39199B7C49B597F421AC5DCBDDB8"><enum>(B)</enum><header>Certification by appropriate State supervisor</header><text>For purposes of this paragraph, a credit union that lacks insurance of its member accounts under Federal law and that has applied for membership in a Federal home loan bank shall be treated as an insured depository institution if the following has occurred:</text>
+							<clause id="idAB9B900C46D449A1A196DD7BA7BC64C8"><enum>(i)</enum><header>Determination by State supervisor of the credit union</header>
+ <subclause id="idF993FD29B92847678F09DA9F0DC40751"><enum>(I)</enum><header>In general</header><text>Subject to subclause (II), the appropriate supervisor of the State in which the credit union is chartered has determined that the credit union meets all the eligibility requirements under section 201(a) of the Federal Credit Union Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1781">12 U.S.C. 1781(a)</external-xref>) to apply for insurance of its member accounts as of the date of the application for membership.</text>
+ </subclause><subclause id="id514F936F0FEB46FF929EC09F94C45F42"><enum>(II)</enum><header>Certification deemed valid</header><text>In the case of any credit union to which subclause (I) applies, if the appropriate supervisor of the State in which such credit union is chartered fails to make the determination required pursuant to such subclause by the end of the 12-month period beginning on the date on which the application is submitted to the supervisor, the credit union shall be deemed to have met the requirements of subclause (I).</text>
+ </subclause></clause><clause id="id58E1C27A8D344F6B9C872CA4E40F72DB"><enum>(ii)</enum><header>Determination by State supervisor of the private deposit insurer</header><text>The licensing entity of the private deposit insurer that is insuring the member accounts of the credit union—</text>
+ <subclause id="id74636490CB974E1FA2CBB87EE92FFB2D"><enum>(I)</enum><text>receives, on an annual basis, an independent actuarial opinion that the private insurer has set aside sufficient reserves for losses; and</text>
+ </subclause><subclause id="idC329EF8142A5493E81E32C6D9C2394F1"><enum>(II)</enum><text>obtains, as frequently as appropriate, but not less frequently than every 36 months, an independent actuary’s study of the capital adequacy of the private insurer.</text>
+ </subclause></clause><clause id="id28681A8EEF5745B7A822B27E2D3365E9"><enum>(iii)</enum><header>Submission of financial information</header><text>The credit union or the appropriate supervisor of the State in which such credit union is chartered makes available, and continues to make available for such time as the credit union is a member of a Federal home loan bank, to the Federal Housing Finance Agency or to the Federal home loan bank all reports, records, and other information related to any examinations or inquiries performed by the supervisor concerning the financial condition of the credit union, as soon as is practicable.</text>
+ </clause></subparagraph><subparagraph id="H3F5DA54B19034A61B20BAE2FE7EACF03"><enum>(C)</enum><header>Security interests of federal home loan bank not avoidable</header><text>Notwithstanding any provision of State law authorizing a conservator or liquidating agent of a credit union to repudiate contracts, no such provision shall apply with respect to—</text>
+ <clause id="H78AEC7422DEF4E6D99C3C469523906BF"><enum>(i)</enum><text>any extension of credit from any Federal home loan bank to any credit union that is a member of any such bank pursuant to this paragraph; or</text>
+ </clause><clause id="HE58EE6CE5E2045FFB6F6272CD5134DA2"><enum>(ii)</enum><text>any security interest in the assets of such a credit union securing any such extension of credit.</text> </clause></subparagraph><subparagraph id="H2CD942649B954E1AAD8FE3D8D3C014B0"><enum>(D)</enum><header>Protection for certain Federal home loan bank advances</header><text display-inline="yes-display-inline">Notwithstanding any State law to the contrary, if a Bank makes an advance under section 10 to a State-chartered credit union that is not federally insured—</text>
+ <clause id="HDE5ECBC1B23F4D769B2E881DB0488C5B"><enum>(i)</enum><text>the Bank’s interest in any collateral securing the advance has the same priority and is afforded the same standing and rights that the security interest would have had if the advance had been made to a federally insured credit union; and</text>
+ </clause><clause id="H38AB20C2F2DC4AA693C19F8D4B217B6B"><enum>(ii)</enum><text>the Bank has the same right to access such collateral that the Bank would have had if the advance had been made to a federally insured credit union.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection display-inline="no-display-inline" id="H1A71C226DB1B4E1AB775DFBC3C92E441"><enum>(b)</enum><header>Copies of audits of private insurers of certain depository institutions required To be provided to
+ supervisory agencies</header><text>Section 43(a)(2)(A) of the Federal Deposit Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1831t">12 U.S.C. 1831t(a)(2)(A)</external-xref>) is amended—</text> <paragraph id="H2360A6C81F8741F69DC34F49C4754B8F"><enum>(1)</enum><text>in clause (i), by striking <quote>and</quote> at the end;</text>
+ </paragraph><paragraph id="H8A66464BDCA94C26AE38C1A34A03DF1C"><enum>(2)</enum><text>in clause (ii), by striking the period at the end and inserting a semicolon; and</text> </paragraph><paragraph id="HC4984C046A284F889E3464AB0E750643"><enum>(3)</enum><text>by inserting at the end the following:</text>
+					<quoted-block id="H68BDDE8A2E5F42A0B8CB1643D63AB31A" style="OLC">
+ <clause id="HCCAF997D24704621958AE55BB7CC92CE"><enum>(iii)</enum><text>in the case of depository institutions described in subsection (e)(2)(A), the member accounts of which are insured by the private deposit insurer, which are members of a Federal home loan bank, to the Federal Housing Finance Agency, not later than 7 days after the audit is completed.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="HE64DBC149DB442BDB0536F664D2C0308"><enum>(c)</enum><header>GAO Report</header><text display-inline="yes-display-inline">Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall conduct a study and submit a report to Congress—</text>
+ <paragraph id="HE96468E414E94628834D67FFCA0BDC08"><enum>(1)</enum><text>on the adequacy of insurance reserves held by a private deposit insurer that insures the member accounts of an entity described in section 43(e)(2)(A) of the Federal Deposit Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1831t">12 U.S.C. 1831t(e)(2)(A)</external-xref>); and</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="H396BB3D87B2749778BE4A64F859D908D"><enum>(2)</enum><text>for an entity described in paragraph (1), the member accounts of which are insured by a private deposit insurer, information on the level of compliance with Federal regulations relating to the disclosure of a lack of Federal deposit insurance.</text></paragraph></subsection></section></legis-body>
+</bill>
+
+

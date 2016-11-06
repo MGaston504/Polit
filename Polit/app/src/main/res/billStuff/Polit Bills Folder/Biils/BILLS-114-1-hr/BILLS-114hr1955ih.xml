@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9513D0A71F3D457884071E5CE46DE717" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1955 IH: Great Lakes Nutrient Removal Assistance Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1955</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150422">April 22, 2015</action-date>
+			<action-desc><sponsor name-id="H001038">Mr. Higgins</sponsor> (for himself, <cosponsor name-id="S000480">Ms. Slaughter</cosponsor>, <cosponsor name-id="M001160">Ms. Moore</cosponsor>, <cosponsor name-id="L000263">Mr. Levin</cosponsor>, <cosponsor name-id="K000009">Ms. Kaptur</cosponsor>, <cosponsor name-id="F000455">Ms. Fudge</cosponsor>, and <cosponsor name-id="N000147">Ms. Norton</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Water Pollution Control Act to provide assistance for nutrient removal
+			 technologies to States in the Great Lakes System.</official-title>
+	</form>
+	<legis-body id="H24EADAC755A24BCA97CAC94DE02192E6" style="OLC">
+ <section id="HBB28DDF59D5D4FCEB6C2FE7ABC8D32C5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Great Lakes Nutrient Removal Assistance Act</short-title></quote>.</text> </section><section id="HCD9E325D61124CF085A2691B104EFFC6"><enum>2.</enum><header>Findings</header> <text display-inline="no-display-inline">Congress finds that—</text>
+ <paragraph id="H086F803EC60F428386D9AC1F7A10E651"><enum>(1)</enum><text>ineffective wastewater treatment is one of the most common sources of water pollution;</text> </paragraph><paragraph id="HCCAB9112795843A385CA0243265C679F"><enum>(2)</enum><text>nutrient pollution, particularly phosphorus loading, continues to be one of the most significant water quality issues facing the Great Lakes System;</text>
+ </paragraph><paragraph id="HF46CC26ACEBA47469B963411F87AB793"><enum>(3)</enum><text display-inline="yes-display-inline">limiting phosphorus loads is key to controlling excessive algal growth, and a coordinated Great Lakes System-wide strategy to change how nutrients are discharged is urgent; and</text>
+ </paragraph><paragraph id="HF97EDB5F4E56490295883131E07C88CD"><enum>(4)</enum><text>nutrient removal technology is one of the most reliable, cost effective, and direct methods for reducing the flow of phosphorus and other harmful nutrients from point sources in the Great Lakes System.</text>
+ </paragraph></section><section id="HF004479A73E1428B8FBF74F1B4564F38"><enum>3.</enum><header>Nutrient removal technology grant program</header><text display-inline="no-display-inline">Section 118 of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1268">33 U.S.C. 1268</external-xref>) is amended by adding at the end the following new subsection:</text>
+			<quoted-block display-inline="no-display-inline" id="H320563204A9044E18044A9FEDD2D8903" style="OLC">
+				<subsection id="HB0154F36CD2E465F9CBD648EE9887D86"><enum>(i)</enum><header>Nutrient removal technology grant program</header>
+					<paragraph id="H6C1FFF5B304C4A19BCF272B7218F68D3"><enum>(1)</enum><header>Grant program</header>
+ <subparagraph id="H1E75387C8A884429A289FDE40F76BAED"><enum>(A)</enum><header>Establishment</header><text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this subsection, the Administrator shall establish a program within the Environmental Protection Agency to make grants to Great Lakes States, and municipalities thereof, to install, at eligible facilities, nutrient removal technologies that are designed to reduce total nutrients in discharged wastewater.</text>
+ </subparagraph><subparagraph id="HE82D8FB2C83641039E799DAEFB8173D6"><enum>(B)</enum><header>Priority</header><text>In making a grant under this subsection, the Administrator shall—</text> <clause id="H0B38B29B730C40F9987469977FFA7995"><enum>(i)</enum><text display-inline="yes-display-inline">consult with the Program Office; and</text>
+ </clause><clause id="H7C9970BBE24E4EB9916B8011E2F08829"><enum>(ii)</enum><text>give priority to eligible facilities at which the installation of nutrient removal technologies would—</text>
+ <subclause id="H9CA163BDBDD644EEBEABAA10C9454918"><enum>(I)</enum><text>produce the greatest nutrient load reductions at points of discharge;</text> </subclause><subclause id="H1285025C7CA443ADB3E626B8A500CEB5"><enum>(II)</enum><text display-inline="yes-display-inline">result in the greatest environmental benefits to the Great Lakes System; and</text>
+ </subclause><subclause commented="no" id="H3262599BC27C41E5A116C96F5020D1E3"><enum>(III)</enum><text display-inline="yes-display-inline">help meet the objectives related to nutrients outlined in Annex 4 of the Great Lakes Water Quality Protocol of 2012.</text>
+ </subclause></clause></subparagraph><subparagraph id="H09B9B1D51E4B4BDA9E78FE8F8E68E4FF"><enum>(C)</enum><header>Application</header><text>A Great Lakes State, or municipality thereof, may submit to the Administrator an application for a grant under this subsection in such form, and including such information, as the Administrator may prescribe.</text>
+ </subparagraph><subparagraph id="H4CCCAF95B86546D98503B54D377E7A0A"><enum>(D)</enum><header>Grant</header><text display-inline="yes-display-inline">If the Administrator approves an application submitted under this subsection, the Administrator may make a grant to the applicant in an amount not to exceed 55 percent of the cost of installing the nutrient removal technologies at the eligible facility with respect to which the application was submitted.</text>
+ </subparagraph></paragraph><paragraph id="H293A3D7AE5C1481C9954FBE2E0F6CF66"><enum>(2)</enum><header>Definitions</header><text>In this subsection:</text> <subparagraph id="HFFB86B2A6AA5404782CB2D6CDD6C9786"><enum>(A)</enum><header>Great Lakes Water Quality Protocol of 2012</header><text display-inline="yes-display-inline">The term <term>Great Lakes Water Quality Protocol of 2012</term> means the Great Lakes Water Quality Protocol of 2012, signed at Washington on September 7, 2012 (further amending the Great Lakes Water Quality Agreement).</text>
+ </subparagraph><subparagraph id="H6758E3ACFD65482BA6E4F3426D6DEE3A"><enum>(B)</enum><header>Eligible facility</header><text>The term <term>eligible facility</term> means a municipal wastewater treatment facility that—</text> <clause id="H4DBDCC9C60394EB0812FB7A66F4E7941"><enum>(i)</enum><text>as of the date of enactment of this subsection, has a permitted design capacity to treat an annual average of at least 500,000 gallons of wastewater per day; and</text>
+ </clause><clause id="HE51AE9F17E5D43D48CDBEA588E39D661"><enum>(ii)</enum><text>is located within the Great Lakes System in any of the Great Lakes States.</text> </clause></subparagraph></paragraph><paragraph id="H803A421CABC94164BD360CC36BE5D008"><enum>(3)</enum><header>Authorization of appropriations</header> <subparagraph id="HBBB0FF9BA5C7411B8B3BC5D7D60D2B31"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">In addition to other amounts authorized under this section, there is authorized to be appropriated to carry out this subsection $100,000,000 for each of fiscal years 2016 through 2020. Such sums shall remain available until expended.</text>
+ </subparagraph><subparagraph id="HCBABBAECB7FF45E29FD8FF371CE178B3"><enum>(B)</enum><header>Administrative costs</header><text>The Administrator may use not to exceed 4 percent of any amount made available under subparagraph (A) to pay administrative costs incurred in carrying out this subsection.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

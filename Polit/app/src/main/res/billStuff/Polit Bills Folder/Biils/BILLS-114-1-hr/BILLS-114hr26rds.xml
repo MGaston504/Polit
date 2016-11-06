@@ -1,0 +1,992 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Received-in-Senate" bill-type="olc" dms-id="HB4059E0A8A3246FBB2AE9A4AE1281066" public-private="public" stage-count="1">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 26 : Terrorism Risk Insurance Program Reauthorization Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress display="yes">114th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num display="yes">H. R. 26</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action><action-date>January 7, 2015</action-date><action-desc>Received</action-desc></action><legis-type>AN ACT</legis-type>
+		<official-title display="yes">To extend the termination date of the Terrorism Insurance Program established under the Terrorism
+			 Risk Insurance Act of 2002, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H2EF49A0F524E4AB991EFB24CB42BD89B" style="OLC">
+		<section id="H10F058B7E2C045F9AEEE4F2FFEA355E9" section-type="section-one"><enum>1.</enum><header>Short title and table of contents</header>
+			<subsection id="H15EBE38C4A954E81AECC2A179A87640A"><enum>(a)</enum><header>Short title</header><text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Terrorism Risk Insurance Program Reauthorization Act of 2015</short-title></quote>.</text>
+			</subsection><subsection id="H961A13147DF6452BA46183868DB29169"><enum>(b)</enum><header>Table of contents</header><text>The table of contents for this Act is as follows:</text>
+				<toc container-level="amendment-block-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="H10F058B7E2C045F9AEEE4F2FFEA355E9" level="section">Sec. 1. Short title and table of contents.</toc-entry>
+					<toc-entry idref="H5335CB8451CC4FA292CE02C5DACF5CD4" level="title">Title I—Extension of Terrorism Insurance Program</toc-entry>
+					<toc-entry idref="H97DFD43EC1B64ABEA9B62F4A9A5AF82A" level="section">Sec. 101. Extension of Terrorism Insurance Program.</toc-entry>
+					<toc-entry idref="H299941A1CC4B4E6E8468B12746255176" level="section">Sec. 102. Federal share.</toc-entry>
+					<toc-entry idref="H35037BD14E224D5CBDC5D19FC013D825" level="section">Sec. 103. Program trigger.</toc-entry>
+					<toc-entry idref="H36CF67236F804398B6C57D63C531E46C" level="section">Sec. 104. Recoupment of Federal share of compensation under the program.</toc-entry>
+					<toc-entry idref="H2D2EFC27CA694887A4B71123F926D6DA" level="section">Sec. 105. Certification of acts of terrorism; consultation with Secretary of Homeland Security.</toc-entry>
+					<toc-entry idref="H911D9473D275479FBF6B30931B8C7933" level="section">Sec. 106. Technical amendments.</toc-entry>
+					<toc-entry idref="H195FEBE209CC4AE2BA1DEE3BEB0FE04B" level="section">Sec. 107. Improving the certification process.</toc-entry>
+					<toc-entry idref="HF279E78A1A234FADB9E2ED45F0E2A2E7" level="section">Sec. 108. GAO study.</toc-entry>
+					<toc-entry idref="HB2ECFCF737DD4F9981CBE2678799133D" level="section">Sec. 109. Membership of Board of Governors of the Federal Reserve System.</toc-entry>
+					<toc-entry idref="H43C4F108F35142588B316298B4D2C974" level="section">Sec. 110. Advisory Committee on Risk-Sharing Mechanisms.</toc-entry>
+					<toc-entry idref="HCF0225AF89BA4C15A6B4497B1A6DF826" level="section">Sec. 111. Reporting of terrorism insurance data.</toc-entry>
+					<toc-entry idref="H1533011AE11749C993DF35D503B1E959" level="section">Sec. 112. Annual study of small insurer market competitiveness.</toc-entry>
+					<toc-entry idref="HA56F7F1603EE44A7ADD2708A2D2B0705" level="title">Title II—National Association of Registered Agents and Brokers Reform</toc-entry>
+					<toc-entry idref="HE3625A640D5C40918ADD548F4E083FE3" level="section">Sec. 201. Short title.</toc-entry>
+					<toc-entry idref="HA504649A7B8444399A3C881B264430AA" level="section">Sec. 202. Reestablishment of the National Association of Registered Agents and Brokers.</toc-entry>
+					<toc-entry idref="H6AB24192B0114B68A71AE6CC1A4703C4" level="title">Title III—Business Risk Mitigation and Price Stabilization</toc-entry>
+					<toc-entry idref="HCA5B0CD008A34BE894074CBC95233E25" level="section">Sec. 301. Short title.</toc-entry>
+					<toc-entry idref="HED2A2A222AF04AA083EC1A69A74849C3" level="section">Sec. 302. Margin requirements.</toc-entry>
+					<toc-entry idref="HE658CDFFC95B48D4AEE909F9F84AB63B" level="section">Sec. 303. Implementation.</toc-entry></toc>
+			</subsection></section><title id="H5335CB8451CC4FA292CE02C5DACF5CD4" style="OLC"><enum>I</enum><header>Extension of Terrorism Insurance Program</header>
+			<section commented="no" display-inline="no-display-inline" id="H97DFD43EC1B64ABEA9B62F4A9A5AF82A" section-type="subsequent-section"><enum>101.</enum><header display-inline="yes-display-inline">Extension of Terrorism Insurance Program</header><text display-inline="no-display-inline">Section 108(a) of the Terrorism Risk Insurance Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/15/6701">15 U.S.C. 6701</external-xref> note) is amended by
+			 striking <quote>December 31, 2014</quote> and inserting <quote>December 31, 2020</quote>.</text>
+			</section><section commented="no" display-inline="no-display-inline" id="H299941A1CC4B4E6E8468B12746255176" section-type="subsequent-section"><enum>102.</enum><header display-inline="yes-display-inline">Federal share</header><text display-inline="no-display-inline">Section 103(e)(1)(A) of the Terrorism Risk Insurance Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/15/6701">15 U.S.C. 6701</external-xref> note) is amended
+			 by inserting <quote>and beginning on January 1, 2016, shall decrease by 1 percentage point per calendar year until
+			 equal to 80 percent</quote> after <quote>85 percent</quote>.</text>
+			</section><section commented="no" display-inline="no-display-inline" id="H35037BD14E224D5CBDC5D19FC013D825" section-type="subsequent-section"><enum>103.</enum><header>Program trigger</header><text display-inline="no-display-inline">Subparagraph (B) of section 103(e)(1) (<external-xref legal-doc="usc" parsable-cite="usc/15/6701">15 U.S.C. 6701</external-xref> note) is amended in the matter preceding
+			 clause (i)—</text>
+				<paragraph id="H728B37C891054BA4BF9CDE2C3EA075B4"><enum>(1)</enum><text>by striking <quote>a certified act</quote> and inserting <quote>certified acts</quote>;</text>
+				</paragraph><paragraph id="HCBCA189F22564AC8B4A7349B1EEBF904"><enum>(2)</enum><text>by striking <quote>such certified act</quote> and inserting <quote>such certified acts</quote>; and</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="HD78B51F7DC6E4AD1A2259E0C41045277"><enum>(3)</enum><text display-inline="yes-display-inline">by striking <quote>exceed</quote> and all that follows through clause (ii) and inserting the following: “exceed—</text>
+					<quoted-block display-inline="no-display-inline" id="H699F1AE26F4049CA94C9546A1301947E" style="OLC">
+						<clause commented="no" display-inline="no-display-inline" id="H8C715CC1747840C59FE64D4C62030731"><enum>(i)</enum><text>$100,000,000, with respect to such insured losses occurring in calendar year 2015;</text>
+						</clause><clause commented="no" display-inline="no-display-inline" id="H8660000B3ADC4162A341A34896F89E25"><enum>(ii)</enum><text>$120,000,000, with respect to such insured losses occurring in calendar year 2016;</text>
+						</clause><clause id="H196692D0B2E94C97BAACE472520E9F27"><enum>(iii)</enum><text display-inline="yes-display-inline">$140,000,000, with respect to such insured losses occurring in calendar year 2017;</text>
+						</clause><clause id="H413716639E70411ABEC6ABAD3F6F2938"><enum>(iv)</enum><text>$160,000,000, with respect to such insured losses occurring in calendar year 2018;</text>
+						</clause><clause id="HABE807134FAC4AE6B784E7A40E93391A"><enum>(v)</enum><text>$180,000,000, with respect to such insured losses occurring in calendar year 2019; and</text>
+						</clause><clause id="HE59B38D84E0A4544BE97E16792477248"><enum>(vi)</enum><text>$200,000,000, with respect to such insured losses occurring in calendar year 2020 and any calendar
+			 year thereafter.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></section><section id="H36CF67236F804398B6C57D63C531E46C"><enum>104.</enum><header>Recoupment of Federal share of compensation under the program</header><text display-inline="no-display-inline">Section 103(e) of the Terrorism Risk Insurance Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/15/6701">15 U.S.C. 6701</external-xref> note) is amended—</text>
+				<paragraph id="H5891730AA65D4FEC96AF4C4DCBA987E8"><enum>(1)</enum><text display-inline="yes-display-inline">by amending paragraph (6) to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="HDFCFA65A723F49D88A79BFFD3A711EA1" style="OLC">
+						<paragraph id="H756491EE906C43B98FDDC7E63D5F4361"><enum>(6)</enum><header>Insurance marketplace aggregate retention amount</header>
+							<subparagraph id="H5FD6E2DF01054EFA9601B0278067B553"><enum>(A)</enum><header>In general</header><text>For purposes of paragraph (7), the insurance marketplace aggregate retention amount shall be the
+			 lesser of—</text>
+								<clause id="HEAD5622B62AB4642816F6632239E5AF9"><enum>(i)</enum><text>$27,500,000,000, as such amount is revised pursuant to this paragraph; and</text>
+								</clause><clause id="H978BEC78F39340D58C9E54AF8BC60BA7"><enum>(ii)</enum><text>the aggregate amount, for all insurers, of insured losses during such calendar year.</text>
+								</clause></subparagraph><subparagraph id="HBD88019DB10C43DF8F4B0A26D8FB5555"><enum>(B)</enum><header>Revision of insurance marketplace aggregate retention amount</header>
+								<clause id="H2061B6928FA84F0FAAB8C2387E0C28CF"><enum>(i)</enum><header>Phase-in</header><text>Beginning in the calendar year of enactment of the <short-title>Terrorism Risk Insurance Program Reauthorization Act of 2015</short-title>, the amount set forth under subparagraph (A)(i) shall increase by $2,000,000,000 per calendar year
+			 until equal to $37,500,000,000.</text>
+								</clause><clause id="H303826FA8B7C4EC0B1C16A9D63E1124B"><enum>(ii)</enum><header>Further revision</header><text>Beginning in the calendar year that follows the calendar year in which the amount set forth under
+			 subparagraph (A)(i) is equal to $37,500,000,000, the amount under
+			 subparagraph (A)(i) shall be revised to be the amount equal to the annual
+			 average of the sum of insurer deductibles for all insurers participating
+			 in the Program for the prior 3 calendar years, as such sum is determined
+			 by the Secretary under subparagraph (C).</text>
+								</clause></subparagraph><subparagraph id="HB58A99C3E4D04DE6960807DDDF57457B"><enum>(C)</enum><header>Rulemaking</header><text>Not later than 3 years after the date of enactment of the <short-title>Terrorism Risk Insurance Program Reauthorization Act of 2015</short-title>, the Secretary shall—</text>
+								<clause id="HD0E757C435CC48CA9F2E97395CF3BE85"><enum>(i)</enum><text>issue final rules for determining the amount of the sum described under subparagraph (B)(ii); and</text>
+								</clause><clause id="H4C4D514C474541A9B0D41B101706FA28"><enum>(ii)</enum><text>provide a timeline for public notification of such determination.</text></clause></subparagraph></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="H0FCF3203964F406DBE4E3D1466CD121B"><enum>(2)</enum><text display-inline="yes-display-inline">in paragraph (7)—</text>
+					<subparagraph commented="no" display-inline="no-display-inline" id="H3FA91DD6F2D8423A9592C8696E3855C0"><enum>(A)</enum><text display-inline="yes-display-inline">in subparagraph (A)—</text>
+						<clause commented="no" display-inline="no-display-inline" id="H3860B5E5CAB7487AA694A5215ABD1B59"><enum>(i)</enum><text display-inline="yes-display-inline">in the matter preceding clause (i), by striking <quote>for each of the periods referred to in subparagraphs (A) through (E) of paragraph (6)</quote>; and</text>
+						</clause><clause commented="no" display-inline="no-display-inline" id="H46499E0F949D4001867F0A7461455011"><enum>(ii)</enum><text display-inline="yes-display-inline">in clause (i), by striking <quote>for such period</quote>;</text>
+						</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="HBE78FD1CCB164CCAAF1E58FEBBB2C7E7"><enum>(B)</enum><text display-inline="yes-display-inline">by striking subparagraph (B) and inserting the following:</text>
+						<quoted-block display-inline="no-display-inline" id="H51D5C360DFF74EC4BC6E471F5657D5AD" style="OLC">
+							<subparagraph commented="no" display-inline="no-display-inline" id="HE8D3A17C72A4402CA689D35D768ED6DA"><enum>(B)</enum><text display-inline="yes-display-inline">[Reserved.]</text></subparagraph><after-quoted-block>;</after-quoted-block></quoted-block>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="HAE6D9A2427D743FB8F7F1F9ECAB56507"><enum>(C)</enum><text display-inline="yes-display-inline">in subparagraph (C)—</text>
+						<clause commented="no" display-inline="no-display-inline" id="H981CC21864144A0087D44FC7F65B66D5"><enum>(i)</enum><text display-inline="yes-display-inline">by striking <quote>occurring during any of the periods referred to in any of subparagraphs (A) through (E) of
+			 paragraph (6), terrorism loss risk-spreading premiums in an amount equal
+			 to 133 percent</quote> and inserting <quote>, terrorism loss risk-spreading premiums in an amount equal to 140 percent</quote>; and</text>
+						</clause><clause commented="no" display-inline="no-display-inline" id="H5A9F7796D28940B186F3CDDF4D6BBFED"><enum>(ii)</enum><text display-inline="yes-display-inline">by inserting <quote>as calculated under subparagraph (A)</quote> after <quote>mandatory recoupment amount</quote>; and</text>
+						</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H8B47DC8D05514AB3BB5350A09C62565F"><enum>(D)</enum><text display-inline="yes-display-inline">in subparagraph (E)(i)—</text>
+						<clause commented="no" display-inline="no-display-inline" id="H86A8B89296BC4FBB9332AA7363CC42C9"><enum>(i)</enum><text display-inline="yes-display-inline">in subclause (I)—</text>
+							<subclause commented="no" display-inline="no-display-inline" id="H0408020F79FF40619EA5DB27E6ED1FA0"><enum>(I)</enum><text display-inline="yes-display-inline">by striking <quote>2010</quote> and inserting <quote>2017</quote>; and</text>
+							</subclause><subclause commented="no" display-inline="no-display-inline" id="H64AE09AE2DBD441F97475A9D71B83D79"><enum>(II)</enum><text display-inline="yes-display-inline">by striking <quote>2012</quote> and inserting <quote>2019</quote>;</text>
+							</subclause></clause><clause commented="no" display-inline="no-display-inline" id="HC23098E89D2D4199B302040D62818488"><enum>(ii)</enum><text display-inline="yes-display-inline">in subclause (II)—</text>
+							<subclause commented="no" display-inline="no-display-inline" id="HA35E4A4A031B422A89A59FB57616E7A1"><enum>(I)</enum><text display-inline="yes-display-inline">by striking <quote>2011</quote> and inserting <quote>2018</quote>;</text>
+							</subclause><subclause commented="no" display-inline="no-display-inline" id="HBDA1EC3575704EF09D078BA98740545E"><enum>(II)</enum><text display-inline="yes-display-inline">by striking <quote>2012</quote> and inserting <quote>2019</quote>; and</text>
+							</subclause><subclause commented="no" display-inline="no-display-inline" id="HA44654244350440B86C4F509F3EB0B37"><enum>(III)</enum><text display-inline="yes-display-inline">by striking <quote>2017</quote> and inserting <quote>2024</quote>; and</text>
+							</subclause></clause><clause commented="no" display-inline="no-display-inline" id="H1564745828894A71A249B6863AA9BF60"><enum>(iii)</enum><text display-inline="yes-display-inline">in subclause (III)—</text>
+							<subclause commented="no" display-inline="no-display-inline" id="H49368BB0A2D84B6D8DBD8D7618EEC1D8"><enum>(I)</enum><text display-inline="yes-display-inline">by striking <quote>2012</quote> and inserting <quote>2019</quote>; and</text>
+							</subclause><subclause commented="no" display-inline="no-display-inline" id="H30C20AAB46CE4716AC136E6A1F09E121"><enum>(II)</enum><text display-inline="yes-display-inline">by striking <quote>2017</quote> and inserting <quote>2024</quote>.</text>
+							</subclause></clause></subparagraph></paragraph></section><section id="H2D2EFC27CA694887A4B71123F926D6DA"><enum>105.</enum><header>Certification of acts of terrorism; consultation with Secretary of Homeland Security</header>
+				<text display-inline="no-display-inline">Paragraph (1)(A) of section 102 (<external-xref legal-doc="usc" parsable-cite="usc/15/6701">15 U.S.C. 6701</external-xref> note) is amended in the matter preceding clause
+			 (i), by striking <quote>concurrence with the Secretary of State</quote> and inserting <quote>consultation with the Secretary of Homeland Security</quote>.</text>
+			</section><section commented="no" display-inline="no-display-inline" id="H911D9473D275479FBF6B30931B8C7933" section-type="subsequent-section"><enum>106.</enum><header display-inline="yes-display-inline">Technical amendments</header><text display-inline="no-display-inline">The Terrorism Risk Insurance Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/15/6701">15 U.S.C. 6701</external-xref> note) is amended—</text>
+				<paragraph commented="no" display-inline="no-display-inline" id="HF3F1DD7696DB411BAF39E100BE793EBF"><enum>(1)</enum><text display-inline="yes-display-inline">in section 102—</text>
+					<subparagraph commented="no" display-inline="no-display-inline" id="HFE3DBD7DA2D5492A9DC9CED785D886CA"><enum>(A)</enum><text display-inline="yes-display-inline">in paragraph (3)—</text>
+						<clause commented="no" display-inline="no-display-inline" id="H5E29777714354761B2654F9B3FBDDE11"><enum>(i)</enum><text display-inline="yes-display-inline">by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively;</text>
+						</clause><clause commented="no" display-inline="no-display-inline" id="HDDDD880E656C43D18546DCD5330F6AA5"><enum>(ii)</enum><text display-inline="yes-display-inline">in the matter preceding clause (i) (as so redesignated), by striking <quote>An entity has</quote> and inserting the following:</text>
+							<quoted-block display-inline="no-display-inline" id="H67C725315C2742D98021056E1328DB18" style="OLC">
+								<subparagraph commented="no" display-inline="no-display-inline" id="H309A9F2645314B2383B24905415CCE46"><enum>(A)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">An entity has</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+						</clause><clause commented="no" display-inline="no-display-inline" id="HCA7FF1142B4449CB921F7B3D45E9AAA4"><enum>(iii)</enum><text display-inline="yes-display-inline">by adding at the end the following new subparagraph:</text>
+							<quoted-block display-inline="no-display-inline" id="HFACAC10248314AFFB6A9E750E8927B42" style="OLC">
+								<subparagraph commented="no" display-inline="no-display-inline" id="H31A987ACD23B4B59AF2A34189B672AEF"><enum>(B)</enum><header display-inline="yes-display-inline">Rule of construction</header><text display-inline="yes-display-inline">An entity, including any affiliate thereof, does not have <quote>control</quote> over another entity, if, as of the date of enactment of the <short-title>Terrorism Risk Insurance Program Reauthorization Act of 2015</short-title>, the entity is acting as an attorney-in-fact, as defined by the Secretary, for the other entity
+			 and such other entity is a reciprocal insurer, provided that the entity is
+			 not, for reasons other than the attorney-in-fact relationship, defined as
+			 having <quote>control</quote> under subparagraph (A).</text></subparagraph><after-quoted-block>;</after-quoted-block></quoted-block>
+						</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H2869C22F8577487D967E70F2B06A60B4"><enum>(B)</enum><text display-inline="yes-display-inline">in paragraph (7)—</text>
+						<clause commented="no" display-inline="no-display-inline" id="HD5DFA7533C4B46E49CCB503CB0078235"><enum>(i)</enum><text display-inline="yes-display-inline">by striking subparagraphs (A) through (F) and inserting the following:</text>
+							<quoted-block display-inline="no-display-inline" id="H9265C74ADAED40C095D96DAE4EE0423C" style="OLC">
+								<subparagraph commented="no" display-inline="no-display-inline" id="H83CE0C22134D448E84468051A0CD5D4A"><enum>(A)</enum><text display-inline="yes-display-inline">the value of an insurer's direct earned premiums during the immediately preceding calendar year,
+			 multiplied by 20 percent; and</text></subparagraph><after-quoted-block>; </after-quoted-block></quoted-block>
+						</clause><clause commented="no" display-inline="no-display-inline" id="H7BAEE5087FB647AEBCFA9BEF1F2B8F18"><enum>(ii)</enum><text display-inline="yes-display-inline">by redesignating subparagraph (G) as subparagraph (B); and</text>
+						</clause><clause commented="no" display-inline="no-display-inline" id="H9244986D949942609940AD0459BE4A26"><enum>(iii)</enum><text display-inline="yes-display-inline">in subparagraph (B), as so redesignated by clause (ii)—</text>
+							<subclause commented="no" display-inline="no-display-inline" id="H50AD9110560E47A8A886DB74E9335C6D"><enum>(I)</enum><text display-inline="yes-display-inline">by striking <quote>notwithstanding subparagraphs (A) through (F), for the Transition Period or any Program Year</quote> and inserting <quote>notwithstanding subparagraph (A), for any calendar year</quote>; and</text>
+							</subclause><subclause commented="no" display-inline="no-display-inline" id="HF6471787FB394CCA8952C3E09D3D89EC"><enum>(II)</enum><text display-inline="yes-display-inline">by striking <quote>Period or Program Year</quote> and inserting <quote>calendar year</quote>;</text>
+							</subclause></clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H2C9748FA43D24B6ABC85CD4740493BD1"><enum>(C)</enum><text display-inline="yes-display-inline">by striking paragraph (11); and</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H6E8E6A6D5BD64F499D790AA288E9AC35"><enum>(D)</enum><text display-inline="yes-display-inline">by redesignating paragraphs (12) through (16) as paragraphs (11) through (15), respectively; and</text>
+					</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="H847DE23BBC9D4C8B9D778FA813248D45"><enum>(2)</enum><text display-inline="yes-display-inline">in section 103—</text>
+					<subparagraph commented="no" display-inline="no-display-inline" id="H4026F2EE3BFC4362A7ABCA033403EF20"><enum>(A)</enum><text>in subsection (b)(2)—</text>
+						<clause id="H61BEB066570D4457A33786EAC7F66EF8"><enum>(i)</enum><text>in subparagraph (B), by striking <quote>, purchase,</quote>; and</text>
+						</clause><clause id="HE9AB5113FDB641BB94503C8130CE1226"><enum>(ii)</enum><text>in subparagraph (C), by striking <quote>, purchase,</quote>;</text>
+						</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H118FA2C64AE64B7EA469191849D1C311"><enum>(B)</enum><text display-inline="yes-display-inline">in subsection (c), by striking <quote>Program Year</quote> and inserting <quote>calendar year</quote>;</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H4F590595FEB843F6940DE49F8825462C"><enum>(C)</enum><text display-inline="yes-display-inline">in subsection (e)—</text>
+						<clause commented="no" display-inline="no-display-inline" id="HB608F2A6DAF14160A73342D6BB6C0CCD"><enum>(i)</enum><text display-inline="yes-display-inline">in paragraph (1)(A), as previously amended by section 102—</text>
+							<subclause commented="no" display-inline="no-display-inline" id="H37123A6DDD2546C1AB32DBF29C868B8E"><enum>(I)</enum><text display-inline="yes-display-inline">by striking <quote>the Transition Period and each Program Year through Program Year 4 shall be equal to 90 percent,
+			 and during Program Year 5 and each Program Year thereafter</quote> and inserting <quote>each calendar year</quote>;</text>
+							</subclause><subclause commented="no" display-inline="no-display-inline" id="HADB4C8DCC6964D8088C2807E8602A734"><enum>(II)</enum><text display-inline="yes-display-inline">by striking the comma after <quote>80 percent</quote>; and</text>
+							</subclause><subclause commented="no" display-inline="no-display-inline" id="H243870B1593F484493EAB5B807FEADA8"><enum>(III)</enum><text display-inline="yes-display-inline">by striking <quote>such Transition Period or such Program Year</quote> and inserting <quote>such calendar year</quote>;</text>
+							</subclause></clause><clause commented="no" display-inline="no-display-inline" id="HFAB871ABEE4A4BE7B886EABA263962FA"><enum>(ii)</enum><text display-inline="yes-display-inline">in paragraph (2)(A), by striking <quote>the period beginning on the first day of the Transition Period and ending on the last day of
+			 Program Year 1, or during any Program Year thereafter</quote> and inserting <quote>a calendar year</quote>; and</text>
+						</clause><clause commented="no" display-inline="no-display-inline" id="HC734AC55A5D94547BBF58016C9497E30"><enum>(iii)</enum><text display-inline="yes-display-inline">in paragraph (3), by striking <quote>the period beginning on the first day of the Transition Period and ending on the last day of
+			 Program Year 1, or during any other Program Year</quote> and inserting <quote>any calendar year</quote>; and</text>
+						</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H8FAFE3CCD61D4500834F35D06D2C7C2C"><enum>(D)</enum><text display-inline="yes-display-inline">in subsection (g)(2)—</text>
+						<clause commented="no" display-inline="no-display-inline" id="H520079FE193B4EFE8DF9800C94DFF653"><enum>(i)</enum><text display-inline="yes-display-inline">by striking <quote>the Transition Period or a Program Year</quote> each place that term appears and inserting <quote>the calendar year</quote>;</text>
+						</clause><clause commented="no" display-inline="no-display-inline" id="H2E5191107684482E8440BFDFE8A92A80"><enum>(ii)</enum><text display-inline="yes-display-inline">by striking <quote>such period</quote> and inserting <quote>the calendar year</quote>; and</text>
+						</clause><clause commented="no" display-inline="no-display-inline" id="H69C7891391B04EFE9348DF4194C51256"><enum>(iii)</enum><text display-inline="yes-display-inline">by striking <quote>that period</quote> and inserting <quote>the calendar year</quote>.</text>
+						</clause></subparagraph></paragraph></section><section commented="no" display-inline="no-display-inline" id="H195FEBE209CC4AE2BA1DEE3BEB0FE04B" section-type="subsequent-section"><enum>107.</enum><header display-inline="yes-display-inline">Improving the certification process</header>
+				<subsection commented="no" display-inline="no-display-inline" id="HDC99BD73A3ED4B71BE121E56C825FE22"><enum>(a)</enum><header display-inline="yes-display-inline">Definitions</header><text display-inline="yes-display-inline">As used in this section—</text>
+					<paragraph commented="no" display-inline="no-display-inline" id="H29FAE075150C40D2A1067B847AB7068F"><enum>(1)</enum><text display-inline="yes-display-inline">the term <quote>act of terrorism</quote> has the same meaning as in section 102(1) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C.
+			 6701 note);</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="HE7D06769C92A4AD081D5C3C4EAB47455"><enum>(2)</enum><text display-inline="yes-display-inline">the term <quote>certification process</quote> means the process by which the Secretary determines whether to certify an act as an act of
+			 terrorism under section 102(1) of the Terrorism Risk Insurance Act of 2002
+			 (<external-xref legal-doc="usc" parsable-cite="usc/15/6701">15 U.S.C. 6701</external-xref> note); and</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="H628813B773B14F7F9C0CD6CCF2EC4B58"><enum>(3)</enum><text display-inline="yes-display-inline">the term <quote>Secretary</quote> means the Secretary of the Treasury.</text>
+					</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="HE677F5A9902446ED8FC6EBAB230196FE"><enum>(b)</enum><header display-inline="yes-display-inline">Study</header><text display-inline="yes-display-inline">Not later than 9 months after the date of enactment of this Act, the Secretary shall conduct and
+			 complete a study on the certification process.</text>
+				</subsection><subsection commented="no" display-inline="no-display-inline" id="H354660C4AF364DE3A81469C49BCCCDDA"><enum>(c)</enum><header display-inline="yes-display-inline">Required content</header><text display-inline="yes-display-inline">The study required under subsection (a) shall include an examination and analysis of—</text>
+					<paragraph commented="no" display-inline="no-display-inline" id="H51AF5DE031D647C5B85FE3AF6987356D"><enum>(1)</enum><text display-inline="yes-display-inline">the establishment of a reasonable timeline by which the Secretary must make an accurate
+			 determination on whether to certify an act as an act of terrorism;</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="H690A0A870DC24AF6988C29F542F79F1F"><enum>(2)</enum><text display-inline="yes-display-inline">the impact that the length of any timeline proposed to be established under paragraph (1) may have
+			 on the insurance industry, policyholders, consumers, and taxpayers as a
+			 whole;</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="H70CA4F999DA94F9C991DD961BAFFF46C"><enum>(3)</enum><text display-inline="yes-display-inline">the factors the Secretary would evaluate and monitor during the certification process, including
+			 the ability of the Secretary to obtain the required information regarding
+			 the amount of projected and incurred losses resulting from an act which
+			 the Secretary would need in determining whether to certify the act as an
+			 act of terrorism;</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="HC824575D81D3489ABBBE0C368178B9C4"><enum>(4)</enum><text display-inline="yes-display-inline">the appropriateness, efficiency, and effectiveness of the consultation process required under
+			 section 102(1)(A) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C.
+			 6701 note) and any recommendations on changes to the consultation process;
+			 and</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="H9DDA2997F874426584344EBBE5772F2D"><enum>(5)</enum><text display-inline="yes-display-inline">the ability of the Secretary to provide guidance and updates to the public regarding any act that
+			 may reasonably be certified as an act of terrorism.</text>
+					</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="HDBC59D96A07C4E1289DB564001DDDBB6"><enum>(d)</enum><header display-inline="yes-display-inline">Report</header><text display-inline="yes-display-inline">Upon completion of the study required under subsection (a), the Secretary shall submit a report on
+			 the results of such study to the Committee on Banking, Housing, and Urban
+			 Affairs of the Senate and the Committee on Financial Services of the House
+			 of Representatives.</text>
+				</subsection><subsection commented="no" display-inline="no-display-inline" id="HAC45549DD1EB46F28549B3DEBE2259CC"><enum>(e)</enum><header display-inline="yes-display-inline">Rulemaking</header><text display-inline="yes-display-inline">Section 102(1) of the Terrorism Risk Insurance Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/15/6701">15 U.S.C. 6701</external-xref> note) is amended—</text>
+					<paragraph commented="no" display-inline="no-display-inline" id="H67675D270D5F466C9D13389C09B594B9"><enum>(1)</enum><text display-inline="yes-display-inline">by redesignating subparagraph (D) as subparagraph (E); and</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="HBF57A8C6080E48138D937A19D2D8241B"><enum>(2)</enum><text display-inline="yes-display-inline">by inserting after subparagraph (C) the following:</text>
+						<quoted-block display-inline="no-display-inline" id="H80F8476360DE4AFCACC3F69458992FB5" style="OLC">
+							<subparagraph commented="no" display-inline="no-display-inline" id="HD2CEC42AF0364AA28106544FECA9996A"><enum>(D)</enum><header display-inline="yes-display-inline">Timing of certification</header><text display-inline="yes-display-inline">Not later than 9 months after the report required under section 107 of the <short-title>Terrorism Risk Insurance Program Reauthorization Act of 2015</short-title> is submitted to the appropriate committees of Congress, the Secretary shall issue final rules
+			 governing the certification process, including establishing a timeline for
+			 which an act is eligible for certification by the Secretary on whether an
+			 act is an act of terrorism under this paragraph.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection></section><section commented="no" display-inline="no-display-inline" id="HF279E78A1A234FADB9E2ED45F0E2A2E7" section-type="subsequent-section"><enum>108.</enum><header display-inline="yes-display-inline">GAO study</header>
+				<subsection commented="no" display-inline="no-display-inline" id="H14B9714222A348E5A7F98CAB55A00EEE"><enum>(a)</enum><header display-inline="yes-display-inline">Study</header><text display-inline="yes-display-inline">Not later than 2 years after the date of enactment of this Act, the Comptroller General of the
+			 United States shall complete a study on the viability and effects of the
+			 Federal Government—</text>
+					<paragraph commented="no" display-inline="no-display-inline" id="H0C82B8DE6B4A45AF84DA511CBADB0B51"><enum>(1)</enum><text display-inline="yes-display-inline">assessing and collecting upfront premiums on insurers that participate in the Terrorism Insurance
+			 Program established under the Terrorism Risk Insurance Act of 2002 (15
+			 U.S.C. 6701 note) (hereafter in this section referred to as the <quote>Program</quote>), which shall include a comparison of practices in international markets to assess and collect
+			 premiums either before or after terrorism losses are incurred; and</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="HA1C198E80EA143258818CC406548F72B"><enum>(2)</enum><text display-inline="yes-display-inline">creating a capital reserve fund under the Program and requiring insurers participating in the
+			 Program to dedicate capital specifically for terrorism losses before such
+			 losses are incurred, which shall include a comparison of practices in
+			 international markets to establish reserve funds.</text>
+					</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="H1CDB2DF412B2428AA471AA6B22307BE4"><enum>(b)</enum><header display-inline="yes-display-inline">Required content</header><text display-inline="yes-display-inline">The study required under subsection (a) shall examine, but shall not be limited to, the following
+			 issues:</text>
+					<paragraph commented="no" display-inline="no-display-inline" id="H939DB00BD5924C08900357122D402B76"><enum>(1)</enum><header>Upfront premiums</header><text display-inline="yes-display-inline">With respect to upfront premiums described in subsection (a)(1)—</text>
+						<subparagraph commented="no" display-inline="no-display-inline" id="HE2E97A4543104C35913C291B91D36EED"><enum>(A)</enum><text display-inline="yes-display-inline">how the Federal Government could determine the price of such upfront premiums on insurers that
+			 participate in the Program;</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="HE7FBFA7D72554E11960FC97E0B090645"><enum>(B)</enum><text display-inline="yes-display-inline">how the Federal Government could collect and manage such upfront premiums;</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H512AB27A5BE742678E57DFA68D58F2C7"><enum>(C)</enum><text display-inline="yes-display-inline">how the Federal Government could ensure that such upfront premiums are not spent for purposes other
+			 than claims through the Program;</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H1DB3946B5C9B4BCDB8E455D34162AE5B"><enum>(D)</enum><text display-inline="yes-display-inline">how the assessment and collection of such upfront premiums could affect take-up rates for terrorism
+			 risk coverage in different regions and industries and how it could impact
+			 small businesses and consumers in both metropolitan and non-metropolitan
+			 areas;</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H4445153BF8574113B3416B2084FD3D91"><enum>(E)</enum><text display-inline="yes-display-inline">the effect of collecting such upfront premiums on insurers both large and small;</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H84970D4ADF93499AA6CD5C28ECD5EF9D"><enum>(F)</enum><text display-inline="yes-display-inline">the effect of collecting such upfront premiums on the private market for terrorism risk
+			 reinsurance; and</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H70B6C0AB8670426EAAE6EF3A794958FB"><enum>(G)</enum><text display-inline="yes-display-inline">the size of any Federal Government subsidy insurers may receive through their participation in the
+			 Program, taking into account the Program’s current post-event recoupment
+			 structure.</text>
+						</subparagraph></paragraph><paragraph id="H3ECC16D5CB434EAC8253E2F2AB321CCC"><enum>(2)</enum><header>Capital reserve fund</header><text>With respect to the capital reserve fund described in subsection (a)(2)—</text>
+						<subparagraph id="H121A6C630EC440528D40F9C7BEDF22FE"><enum>(A)</enum><text display-inline="yes-display-inline">how the creation of a capital reserve fund would affect the Federal Government’s fiscal exposure
+			 under the Terrorism Risk Insurance Program and the ability of the Program
+			 to meet its statutory purposes;</text>
+						</subparagraph><subparagraph id="H79249B759D584DC296516AE26BC50C80"><enum>(B)</enum><text>how a capital reserve fund would impact insurers and reinsurers, including liquidity, insurance
+			 pricing, and capacity to provide terrorism risk coverage;</text>
+						</subparagraph><subparagraph id="HB4ED593E387B4840BB1B7B6620401026"><enum>(C)</enum><text>the feasibility of segregating funds attributable to terrorism risk from funds attributable to
+			 other insurance lines;</text>
+						</subparagraph><subparagraph id="H4909D38604454449BC2E120EDAF7CB1F"><enum>(D)</enum><text>how a capital reserve fund would be viewed and treated under current Financial Accounting Standards
+			 Board accounting rules and the tax laws; and</text>
+						</subparagraph><subparagraph id="H9D874904A7554AAA8CD76445A6E8226B"><enum>(E)</enum><text>how a capital reserve fund would affect the States’ ability to regulate insurers participating in
+			 the Program.</text>
+						</subparagraph></paragraph><paragraph id="H57A72CE93F8F4E91B162BBEC99443179"><enum>(3)</enum><header>International practices</header><text display-inline="yes-display-inline">With respect to international markets referred to in paragraphs (1) and (2) of subsection (a), how
+			 other countries, if any—</text>
+						<subparagraph id="H834DCB3A18DB431ABE313300AF042894"><enum>(A)</enum><text>have established terrorism insurance structures;</text>
+						</subparagraph><subparagraph id="H20CD6BE2609A4692B1780B30EEBCC723"><enum>(B)</enum><text>charge premiums or otherwise collect funds to pay for the costs of terrorism insurance structures,
+			 including risk and administrative costs; and</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="HA8824E20DDFB4D8BA4756B01F739FF2B"><enum>(C)</enum><text>have established capital reserve funds to pay for the costs of terrorism insurance structures.</text>
+						</subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="H2078CEACE2054786B95F3BA7D02A2E83"><enum>(c)</enum><header display-inline="yes-display-inline">Report</header><text display-inline="yes-display-inline">Upon completion of the study required under subsection (a), the Comptroller General shall submit a
+			 report on the results of such study to the Committee on Banking, Housing,
+			 and Urban Affairs of the Senate and the Committee on Financial Services of
+			 the House of Representatives.</text>
+				</subsection><subsection commented="no" display-inline="no-display-inline" id="H2BF796B330404D00B1F92F712E04C2F5"><enum>(d)</enum><header display-inline="yes-display-inline">Public availability</header><text display-inline="yes-display-inline">The study and report required under this section shall be made available to the public in
+			 electronic form and shall be published on the website of the Government
+			 Accountability Office.</text>
+				</subsection></section><section id="HB2ECFCF737DD4F9981CBE2678799133D"><enum>109.</enum><header>Membership of Board of Governors of the Federal Reserve System</header>
+				<subsection id="HFDD2528051CF4DC898B4F58D2C0EE193"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The first undesignated paragraph of section 10 of the Federal Reserve Act (<external-xref legal-doc="usc" parsable-cite="usc/12/241">12 U.S.C. 241</external-xref>) is
+			 amended by inserting after the second sentence the following: <quote>In selecting members of the Board, the President shall appoint at least 1 member with demonstrated
+			 primary experience working in or supervising community banks having less
+			 than $10,000,000,000 in total assets.</quote>.</text>
+				</subsection><subsection id="H1317988A13544A1A8354ABFF4FF83A7D"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by this section shall take effect on the date of enactment of this Act and apply
+			 to appointments made on and after that effective date, excluding any
+			 nomination pending in the Senate on that date.</text>
+				</subsection></section><section id="H43C4F108F35142588B316298B4D2C974"><enum>110.</enum><header>Advisory Committee on Risk-Sharing Mechanisms</header>
+				<subsection id="H72DD1F4444B141BAAF1926DF30CD3A05"><enum>(a)</enum><header>Finding; rule of construction</header>
+					<paragraph id="H72637A394BE143E78C9F8217DD049580"><enum>(1)</enum><header>Finding</header><text>Congress finds that it is desirable to encourage the growth of nongovernmental, private market
+			 reinsurance capacity for protection against losses arising from acts of
+			 terrorism.</text>
+					</paragraph><paragraph id="H9FEE638133414976B4A0F10B4783192E"><enum>(2)</enum><header>Rule of construction</header><text>Nothing in this Act, any amendment made by this Act, or the Terrorism Risk Insurance Act of 2002
+			 (<external-xref legal-doc="usc" parsable-cite="usc/15/6701">15 U.S.C. 6701</external-xref> note) shall prohibit insurers from developing risk-sharing
+			 mechanisms to voluntarily reinsure terrorism losses between and among
+			 themselves.</text>
+					</paragraph></subsection><subsection id="H635B087A2B724159A8B7A76F69E37038"><enum>(b)</enum><header>Advisory Committee on Risk-Sharing Mechanisms</header>
+					<paragraph id="H3147F3616399445BB1F7F5B77CBA9D6C"><enum>(1)</enum><header>Establishment</header><text>The Secretary of the Treasury shall establish and appoint an advisory committee to be known as the <quote>Advisory Committee on Risk-Sharing Mechanisms</quote> (referred to in this subsection as the <quote>Advisory Committee</quote>).</text>
+					</paragraph><paragraph id="H7464EBF532EC42EDBD1E5677F9AC3CD1"><enum>(2)</enum><header>Duties</header><text>The Advisory Committee shall provide advice, recommendations, and encouragement with respect to the
+			 creation and development of the nongovernmental risk-sharing mechanisms
+			 described under subsection (a).</text>
+					</paragraph><paragraph id="H7064778DC87A49E6B5D1014E91D00A38"><enum>(3)</enum><header>Membership</header><text>The Advisory Committee shall be composed of 9 members who are directors, officers, or other
+			 employees of insurers, reinsurers, or capital market participants that are
+			 participating or that desire to participate in the nongovernmental
+			 risk-sharing mechanisms described under subsection (a), and who are
+			 representative of the affected sectors of the insurance industry,
+			 including commercial property insurance, commercial casualty insurance,
+			 reinsurance, and alternative risk transfer industries.</text>
+					</paragraph></subsection></section><section id="HCF0225AF89BA4C15A6B4497B1A6DF826"><enum>111.</enum><header>Reporting of terrorism insurance data</header><text display-inline="no-display-inline">Section 104 (<external-xref legal-doc="usc" parsable-cite="usc/15/6701">15 U.S.C. 6701</external-xref> note) is amended by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="HDD96444244E7439AB80B23EBEFE612E6" style="OLC">
+					<subsection id="H222F59D989A54821ADE8F4F411044CE5"><enum>(h)</enum><header>Reporting of terrorism insurance data</header>
+						<paragraph id="H2365023FA6C441AA9684942076F2351A"><enum>(1)</enum><header>Authority</header><text display-inline="yes-display-inline">During the calendar year beginning on January 1, 2016, and in each calendar year thereafter, the
+			 Secretary shall require insurers participating in the Program to submit to
+			 the Secretary such information regarding insurance coverage for terrorism
+			 losses of such insurers as the Secretary considers appropriate to analyze
+			 the effectiveness of the Program, which shall include information
+			 regarding—</text>
+							<subparagraph id="HF2E29E7909AE40B4A9674593C08741D2"><enum>(A)</enum><text>lines of insurance with exposure to such losses;</text>
+							</subparagraph><subparagraph id="HA417BC605797419E868C1D5189B24455"><enum>(B)</enum><text>premiums earned on such coverage;</text>
+							</subparagraph><subparagraph id="HF8D66E91D43D40D68642648A0ABEFB79"><enum>(C)</enum><text>geographical location of exposures;</text>
+							</subparagraph><subparagraph id="H268148379B1949C6B9FB9953E28DB00D"><enum>(D)</enum><text>pricing of such coverage;</text>
+							</subparagraph><subparagraph id="HFA1284C8E48643EB898DFF2CD0E3DB5D"><enum>(E)</enum><text>the take-up rate for such coverage;</text>
+							</subparagraph><subparagraph id="H8E08B6BD245A4C5B8148454599223719"><enum>(F)</enum><text display-inline="yes-display-inline">the amount of private reinsurance for acts of terrorism purchased; and</text>
+							</subparagraph><subparagraph id="H6E966253402D40F7842CDF9642EF1F48"><enum>(G)</enum><text>such other matters as the Secretary considers appropriate.</text>
+							</subparagraph></paragraph><paragraph id="H842E15333FD54E8CBD05EE68EFDD0DF6"><enum>(2)</enum><header>Reports</header><text display-inline="yes-display-inline">Not later than June 30, 2016, and every other June 30 thereafter, the Secretary shall submit a
+			 report to the Committee on Financial Services of the House of
+			 Representatives and the Committee on Banking, Housing, and Urban Affairs
+			 of the Senate that includes—</text>
+							<subparagraph id="H7C8D33EB0BC747F4BDA2E978CDFC5845"><enum>(A)</enum><text>an analysis of the overall effectiveness of the Program;</text>
+							</subparagraph><subparagraph id="H29BB590EF32649818AF741626698FE96"><enum>(B)</enum><text>an evaluation of any changes or trends in the data collected under paragraph (1);</text>
+							</subparagraph><subparagraph id="H9AE01BF3C9C642E383F162FFA0814978"><enum>(C)</enum><text display-inline="yes-display-inline">an evaluation of whether any aspects of the Program have the effect of discouraging or impeding
+			 insurers from providing commercial property casualty insurance coverage or
+			 coverage for acts of terrorism;</text>
+							</subparagraph><subparagraph id="H778E9C1CB8E94BCDAED80F9236022737"><enum>(D)</enum><text>an evaluation of the impact of the Program on workers’ compensation insurers; and</text>
+							</subparagraph><subparagraph id="HD6821E84DCEB4612ADA223BE1F7E2F5D"><enum>(E)</enum><text>in the case of the data reported in paragraph (1)(B), an updated estimate of the total amount
+			 earned since January 1, 2003.</text>
+							</subparagraph></paragraph><paragraph id="HF24FCBED01C4498FBB410A952374C6D5"><enum>(3)</enum><header>Protection of data</header><text display-inline="yes-display-inline">To the extent possible, the Secretary shall contract with an insurance statistical aggregator to
+			 collect the information described in paragraph (1), which shall keep any
+			 nonpublic information confidential and provide it to the Secretary in an
+			 aggregate form or in such other form or manner that does not permit
+			 identification of the insurer submitting such information.</text>
+						</paragraph><paragraph id="HD90040D5F44D4D3197B423148AFA9EE6"><enum>(4)</enum><header>Advance coordination</header><text>Before collecting any data or information under paragraph (1) from an insurer, or affiliate of an
+			 insurer, the Secretary shall coordinate with the appropriate State
+			 insurance regulatory authorities and any relevant government agency or
+			 publicly available sources to determine if the information to be collected
+			 is available from, and may be obtained in a timely manner by, individually
+			 or collectively, such entities. If the Secretary determines that such data
+			 or information is available, and may be obtained in a timely matter, from
+			 such entities, the Secretary shall obtain the data or information from
+			 such entities. If the Secretary determines that such data or information
+			 is not so available, the Secretary may collect such data or information
+			 from an insurer and affiliates.</text>
+						</paragraph><paragraph id="H4302B852A443440ABB049E96F667686D"><enum>(5)</enum><header>Confidentiality</header>
+							<subparagraph id="H18768011BDA24CBF871F3041AB4CF5DA"><enum>(A)</enum><header>Retention of privilege</header><text display-inline="yes-display-inline">The submission of any non-publicly available data and information to the Secretary and the sharing
+			 of any non-publicly available data with or by the Secretary among other
+			 Federal agencies, the State insurance regulatory authorities, or any other
+			 entities under this subsection shall not constitute a waiver of, or
+			 otherwise affect, any privilege arising under Federal or State law
+			 (including the rules of any Federal or State court) to which the data or
+			 information is otherwise subject.</text>
+							</subparagraph><subparagraph id="H6316239E84914A2DAD9239205E2B6457"><enum>(B)</enum><header>Continued application of prior confidentiality agreements</header><text>Any requirement under Federal or State law to the extent otherwise applicable, or any requirement
+			 pursuant to a written agreement in effect between the original source of
+			 any non-publicly available data or information and the source of such data
+			 or information to the Secretary, regarding the privacy or confidentiality
+			 of any data or information in the possession of the source to the
+			 Secretary, shall continue to apply to such data or information after the
+			 data or information has been provided pursuant to this subsection.</text>
+							</subparagraph><subparagraph id="H6E7FC2986FFF4905B6A0A7D28E46977D"><enum>(C)</enum><header>Information-sharing agreement</header><text>Any data or information obtained by the Secretary under this subsection may be made available to
+			 State insurance regulatory authorities, individually or collectively
+			 through an information-sharing agreement that—</text>
+								<clause id="HC7D4B15F862148F3B13EF9B23CD8F2B2"><enum>(i)</enum><text>shall comply with applicable Federal law; and</text>
+								</clause><clause id="H2711F26C508448BCADAE78084FEAE68C"><enum>(ii)</enum><text>shall not constitute a waiver of, or otherwise affect, any privilege under Federal or State law
+			 (including any privilege referred to in subparagraph (A) and the rules of
+			 any Federal or State court) to which the data or information is otherwise
+			 subject.</text>
+								</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="HD825602B0D2F47A0A2B8D9AD388EE464"><enum>(D)</enum><header>Agency disclosure requirements</header><text><external-xref legal-doc="usc" parsable-cite="usc/5/552">Section 552</external-xref> of title 5, United States Code, including any exceptions thereunder, shall apply to any
+			 data or information submitted under this subsection to the Secretary by an
+			 insurer or affiliate of an insurer.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</section><section id="H1533011AE11749C993DF35D503B1E959"><enum>112.</enum><header>Annual study of small insurer market competitiveness</header><text display-inline="no-display-inline">Section 108 (<external-xref legal-doc="usc" parsable-cite="usc/15/6701">15 U.S.C. 6701</external-xref> note) is amended by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="H1E36F92ED56F4CE8B487B1F502BFD8F0" style="OLC">
+					<subsection id="H6D60EF8F8DBD41BEB8CB1531B3E1D5C8"><enum>(h)</enum><header>Study of small insurer market competitiveness</header>
+						<paragraph id="HB5523946AB7641FA8B7BD475C95ABCC0"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than June 30, 2017, and every other June 30 thereafter, the Secretary shall conduct a
+			 study of small insurers (as such term is defined by regulation by the
+			 Secretary) participating in the Program, and identify any competitive
+			 challenges small insurers face in the terrorism risk insurance
+			 marketplace, including—</text>
+							<subparagraph id="HA0EDEB9809E5468A8B80B265C6B84E84"><enum>(A)</enum><text>changes to the market share, premium volume, and policyholder surplus of small insurers relative to
+			 large insurers;</text>
+							</subparagraph><subparagraph id="HE57995AFB0F646CD8BA476D9C06B34EE"><enum>(B)</enum><text>how the property and casualty insurance market for terrorism risk differs between small and large
+			 insurers, and whether such a difference exists within other perils;</text>
+							</subparagraph><subparagraph id="HE7F8707C13F24AD3A8C6D950D53EC66C"><enum>(C)</enum><text>the impact of the Program’s mandatory availability requirement under section 103(c) on small
+			 insurers;</text>
+							</subparagraph><subparagraph id="H4F2EA06664694738983F836918EFA2EC"><enum>(D)</enum><text>the effect of increasing the trigger amount for the Program under section 103(e)(1)(B) on small
+			 insurers;</text>
+							</subparagraph><subparagraph id="HFB3639813CC74DBD8446C6E25862EAA6"><enum>(E)</enum><text>the availability and cost of private reinsurance for small insurers; and</text>
+							</subparagraph><subparagraph id="H17606B5C83964FE7929B8D276DFF3704"><enum>(F)</enum><text>the impact that State workers compensation laws have on small insurers and workers compensation
+			 carriers in the terrorism risk insurance marketplace.</text>
+							</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="H2F450BA4C3AF4BEBA3F456DECAA2441A"><enum>(2)</enum><header>Report</header><text>The Secretary shall submit a report to the Congress setting forth the findings and conclusions of
+			 each study required under paragraph (1).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</section></title><title id="HA56F7F1603EE44A7ADD2708A2D2B0705"><enum>II</enum><header>National Association of Registered Agents and Brokers Reform</header>
+			<section id="HE3625A640D5C40918ADD548F4E083FE3" section-type="subsequent-section"><enum>201.</enum><header>Short title</header><text display-inline="no-display-inline">This title may be cited as the <quote><short-title>National Association of Registered Agents and Brokers Reform Act of 2015</short-title></quote>.</text>
+			</section><section id="HA504649A7B8444399A3C881B264430AA"><enum>202.</enum><header>Reestablishment of the National Association of Registered Agents and Brokers</header>
+				<subsection id="H2BAC5359B58D4328BA3C608542456D9A"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subtitle C of title III of the Gramm-Leach-Bliley Act (<external-xref legal-doc="usc" parsable-cite="usc/15/6751">15 U.S.C. 6751 et seq.</external-xref>) is amended to read
+			 as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="HBB4505AD30104BD4AF831908851DF3C5" style="OLC">
+						<subtitle id="H317C9042126446C4B3990413C1B6D2FA"><enum>C</enum><header>National Association of Registered Agents and Brokers</header>
+							<section id="HC0A81148167343E5835FE3D4F16D1DE4"><enum>321.</enum><header>National Association of Registered Agents and Brokers</header>
+								<subsection id="H8753EB3A48024E04B79F0C468177003F"><enum>(a)</enum><header>Establishment</header><text>There is established the National Association of Registered Agents and Brokers (referred to in this
+			 subtitle as the <quote>Association</quote>).</text>
+								</subsection><subsection id="H05D6D79BB7884AC4851A1258B505D357"><enum>(b)</enum><header>Status</header><text>The Association shall—</text>
+									<paragraph id="HA48A4869249A47D1A78C6EAD51DD94D0"><enum>(1)</enum><text>be a nonprofit corporation;</text>
+									</paragraph><paragraph id="H3AA6385928F84622AB548DA6F01A4773"><enum>(2)</enum><text>not be an agent or instrumentality of the Federal Government;</text>
+									</paragraph><paragraph id="H2AA7A81BF07F483AAD85AF39B6C02904"><enum>(3)</enum><text>be an independent organization that may not be merged with or into any other private or public
+			 entity; and</text>
+									</paragraph><paragraph id="H27168E5B7C7A4239BB851A72540C2E19"><enum>(4)</enum><text>except as otherwise provided in this subtitle, be subject to, and have all the powers conferred
+			 upon, a nonprofit corporation by the District of Columbia Nonprofit
+			 Corporation Act (D.C. Code, sec. 29–301.01 et seq.) or any successor
+			 thereto.</text>
+									</paragraph></subsection></section><section id="H93B5FCFE9A6349E4A2FAA6BD66EA83DC"><enum>322.</enum><header>Purpose</header><text display-inline="no-display-inline">The purpose of the Association shall be to provide a mechanism through which licensing, continuing
+			 education, and other nonresident insurance producer qualification
+			 requirements and conditions may be adopted and applied on a multi-state
+			 basis without affecting the laws, rules, and regulations, and preserving
+			 the rights of a State, pertaining to—</text>
+								<paragraph id="H83FA429F296A4899B120BED6A5BD7612"><enum>(1)</enum><text>licensing, continuing education, and other qualification requirements of insurance producers that
+			 are not members of the Association;</text>
+								</paragraph><paragraph id="HEC4DF183D51046A3ADBA61E3E788BC8D"><enum>(2)</enum><text>resident or nonresident insurance producer appointment requirements;</text>
+								</paragraph><paragraph id="H8D3AFFAEC4B343B58023A508043DFF04"><enum>(3)</enum><text>supervising and disciplining resident and nonresident insurance producers;</text>
+								</paragraph><paragraph id="HE6A550AE067245BBB2ED42DB4F4D30A2"><enum>(4)</enum><text>establishing licensing fees for resident and nonresident insurance producers so that there is no
+			 loss of insurance producer licensing revenue to the State; and</text>
+								</paragraph><paragraph id="HA80469A9C79544A1BB83F993B1D797A0"><enum>(5)</enum><text>prescribing and enforcing laws and regulations regulating the conduct of resident and nonresident
+			 insurance producers.</text>
+								</paragraph></section><section id="HE1EF3DB55D394BA4BB2FC054F6A5CAC7"><enum>323.</enum><header>Membership</header>
+								<subsection id="HEBD1D8F6775B475CB9E6B5E15EB7DAF9"><enum>(a)</enum><header>Eligibility</header>
+									<paragraph id="H9E7A19F3222841EAA399B42C08F8B1B7"><enum>(1)</enum><header>In general</header><text>Any insurance producer licensed in its home State shall, subject to paragraphs (2) and (4), be
+			 eligible to become a member of the Association.</text>
+									</paragraph><paragraph id="HA145433673E34FC99485B9153292115D"><enum>(2)</enum><header>Ineligibility for suspension or revocation of license</header><text>Subject to paragraph (3), an insurance producer is not eligible to become a member of the
+			 Association if a State insurance regulator has suspended or revoked the
+			 insurance license of the insurance producer in that State.</text>
+									</paragraph><paragraph id="H6E2E263CF8AC43E8B2972341BA04107E"><enum>(3)</enum><header>Resumption of eligibility</header><text>Paragraph (2) shall cease to apply to any insurance producer if—</text>
+										<subparagraph id="H38F3F53674474DC499F9F555C957C166"><enum>(A)</enum><text>the State insurance regulator reissues or renews the license of the insurance producer in the State
+			 in which the license was suspended or revoked, or otherwise terminates or
+			 vacates the suspension or revocation; or</text>
+										</subparagraph><subparagraph id="HC616FAAD010046F8883C356FE872D744"><enum>(B)</enum><text>the suspension or revocation expires or is subsequently overturned by a court of competent
+			 jurisdiction.</text>
+										</subparagraph></paragraph><paragraph id="H5069D2F480D144FA957B08E2D09193F4"><enum>(4)</enum><header>Criminal history record check required</header>
+										<subparagraph id="H30D60D73223C4879A4E11A375C96C921"><enum>(A)</enum><header>In general</header><text>An insurance producer who is an individual shall not be eligible to become a member of the
+			 Association unless the insurance producer has undergone a criminal history
+			 record check that complies with regulations prescribed by the Attorney
+			 General of the United States under subparagraph (K).</text>
+										</subparagraph><subparagraph id="H58ADBCF59C034F7FB41F92B9CB8384FF"><enum>(B)</enum><header>Criminal history record check requested by home State</header><text>An insurance producer who is licensed in a State and who has undergone a criminal history record
+			 check during the 2-year period preceding the date of submission of an
+			 application to become a member of the Association, in compliance with a
+			 requirement to undergo such criminal history record check as a condition
+			 for such licensure in the State, shall be deemed to have undergone a
+			 criminal history record check for purposes of subparagraph (A).</text>
+										</subparagraph><subparagraph id="H30344159E81942D29AB323DB130072AF"><enum>(C)</enum><header>Criminal history record check requested by Association</header>
+											<clause id="H168CFD470F3D4949B005238102C442C9"><enum>(i)</enum><header>In general</header><text display-inline="yes-display-inline">The Association shall, upon request by an insurance producer licensed in a State, submit
+			 fingerprints or other identification information obtained from the
+			 insurance producer, and a request for a criminal history record check of
+			 the insurance producer, to the Federal Bureau of Investigation.</text>
+											</clause><clause id="H8DBCACB4C25845DBB7EB44CDADFEC139"><enum>(ii)</enum><header>Procedures</header><text display-inline="yes-display-inline">The board of directors of the Association (referred to in this subtitle as the <term>Board</term>) shall prescribe procedures for obtaining and utilizing fingerprints or other identification
+			 information and criminal history record information, including the
+			 establishment of reasonable fees to defray the expenses of the Association
+			 in connection with the performance of a criminal history record check and
+			 appropriate safeguards for maintaining confidentiality and security of the
+			 information. Any fees charged pursuant to this clause shall be separate
+			 and distinct from those charged by the Attorney General pursuant to
+			 subparagraph (I).</text>
+											</clause></subparagraph><subparagraph id="H2EA61B6BD9AC46D4A716A1D3DAEFE414"><enum>(D)</enum><header>Form of request</header><text display-inline="yes-display-inline">A submission under subparagraph (C)(i) shall include such fingerprints or other identification
+			 information as is required by the Attorney General concerning the person
+			 about whom the criminal history record check is requested, and a statement
+			 signed by the person authorizing the Attorney General to provide the
+			 information to the Association and for the Association to receive the
+			 information.</text>
+										</subparagraph><subparagraph id="H8A1EE8199B3C491F9C1F4E32A5A38C67"><enum>(E)</enum><header>Provision of information by Attorney General</header><text display-inline="yes-display-inline">Upon receiving a submission under subparagraph (C)(i) from the Association, the Attorney General
+			 shall search all criminal history records of the Federal Bureau of
+			 Investigation, including records of the Criminal Justice Information
+			 Services Division of the Federal Bureau of Investigation, that the
+			 Attorney General determines appropriate for criminal history records
+			 corresponding to the fingerprints or other identification information
+			 provided under subparagraph (D) and provide all criminal history record
+			 information included in the request to the Association.</text>
+										</subparagraph><subparagraph id="HA6254CA2699741D1A1514AA651685C02"><enum>(F)</enum><header>Limitation on permissible uses of information</header><text>Any information provided to the Association under subparagraph (E) may only—</text>
+											<clause id="HF516B1B547AE4479BF55E87C974F5262"><enum>(i)</enum><text>be used for purposes of determining compliance with membership criteria established by the
+			 Association;</text>
+											</clause><clause id="H781FFA13C2E04CAC8C674DD6EAB16144"><enum>(ii)</enum><text>be disclosed to State insurance regulators, or Federal or State law enforcement agencies, in
+			 conformance with applicable law; or</text>
+											</clause><clause id="H81605A3FABE4456BA300EA07E6AFE7F0"><enum>(iii)</enum><text>be disclosed, upon request, to the insurance producer to whom the criminal history record
+			 information relates.</text>
+											</clause></subparagraph><subparagraph id="H0A354A376FF8412D868F5CDDF8B34F8A"><enum>(G)</enum><header>Penalty for improper use or disclosure</header><text display-inline="yes-display-inline">Whoever knowingly uses any information provided under subparagraph (E) for a purpose not authorized
+			 in subparagraph (F), or discloses any such information to anyone not
+			 authorized to receive it, shall be fined not more than $50,000 per
+			 violation as determined by a court of competent jurisdiction.</text>
+										</subparagraph><subparagraph id="H9D1CC4DA94524069A578A813A6C14946"><enum>(H)</enum><header>Reliance on information</header><text>Neither the Association nor any of its Board members, officers, or employees shall be liable in any
+			 action for using information provided under subparagraph (E) as permitted
+			 under subparagraph (F) in good faith and in reasonable reliance on its
+			 accuracy.</text>
+										</subparagraph><subparagraph id="H150028ECB68F44B586ECF3B879810483"><enum>(I)</enum><header>Fees</header><text>The Attorney General may charge a reasonable fee for conducting the search and providing the
+			 information under subparagraph (E), and any such fee shall be collected
+			 and remitted by the Association to the Attorney General.</text>
+										</subparagraph><subparagraph id="H2C6CBBFC93664BAD88C6B9B37580A7DD"><enum>(J)</enum><header>Rule of construction</header><text>Nothing in this paragraph shall be construed as—</text>
+											<clause id="HCDCB2ED21CFF48DA80648FD6C4F7D1DC"><enum>(i)</enum><text>requiring a State insurance regulator to perform criminal history record checks under this section;
+			 or</text>
+											</clause><clause id="H3C73C4DC5A374B899C7988578DFBA044"><enum>(ii)</enum><text>limiting any other authority that allows access to criminal history records.</text>
+											</clause></subparagraph><subparagraph id="H979C026EC626466D8B223F4D1FFD7263"><enum>(K)</enum><header>Regulations</header><text>The Attorney General shall prescribe regulations to carry out this paragraph, which shall include—</text>
+											<clause id="HAC9100191BBA4F9E91619C4651B8C57F"><enum>(i)</enum><text>appropriate protections for ensuring the confidentiality of information provided under subparagraph
+			 (E); and</text>
+											</clause><clause id="H0E62A2069BE547AE8079210E3F211627"><enum>(ii)</enum><text>procedures providing a reasonable opportunity for an insurance producer to contest the accuracy of
+			 information regarding the insurance producer provided under subparagraph
+			 (E).</text>
+											</clause></subparagraph><subparagraph id="H32D08B738B86490BA030335A08288E3E"><enum>(L)</enum><header>Ineligibility for membership</header>
+											<clause id="HE2D7730CCCFE43A9B1B70C09E87E14A6"><enum>(i)</enum><header>In general</header><text>The Association may, under reasonably consistently applied standards, deny membership to an
+			 insurance producer on the basis of criminal history record information
+			 provided under subparagraph (E), or where the insurance producer has been
+			 subject to disciplinary action, as described in paragraph (2).</text>
+											</clause><clause id="H6E598706FAE7415BB9246802BA105E39"><enum>(ii)</enum><header>Rights of applicants denied membership</header><text>The Association shall notify any insurance producer who is denied membership on the basis of
+			 criminal history record information provided under subparagraph (E) of the
+			 right of the insurance producer to—</text>
+												<subclause id="H34632EADFE8D419191303621065DB62C"><enum>(I)</enum><text>obtain a copy of all criminal history record information provided to the Association under
+			 subparagraph (E) with respect to the insurance producer; and</text>
+												</subclause><subclause id="HF34D75A61E5443B1985A9AE72AEF260A"><enum>(II)</enum><text>challenge the denial of membership based on the accuracy and completeness of the information.</text>
+												</subclause></clause></subparagraph><subparagraph id="HBD9DFF07C0AC494BBA06CE4993CEC206"><enum>(M)</enum><header>Definition</header><text>For purposes of this paragraph, the term <term>criminal history record check</term> means a national background check of criminal history records of the Federal Bureau of
+			 Investigation.</text>
+										</subparagraph></paragraph></subsection><subsection id="H9FA14F63AFE4435A8115D458DFFD53FD"><enum>(b)</enum><header>Authority To establish membership criteria</header><text>The Association may establish membership criteria that bear a reasonable relationship to the
+			 purposes for which the Association was established.</text>
+								</subsection><subsection id="H7EBB9569F0244E3FA9270E59F8A1D72C"><enum>(c)</enum><header>Establishment of classes and categories of membership</header>
+									<paragraph id="HAD39039330024760B621FCE397F8792F"><enum>(1)</enum><header>Classes of membership</header><text>The Association may establish separate classes of membership, with separate criteria, if the
+			 Association reasonably determines that performance of different duties
+			 requires different levels of education, training, experience, or other
+			 qualifications.</text>
+									</paragraph><paragraph id="HA3E434B8F2194A9F92D7BABAFF3CA5B2"><enum>(2)</enum><header>Business entities</header><text>The Association shall establish a class of membership and membership criteria for business
+			 entities. A business entity that applies for membership shall be required
+			 to designate an individual Association member responsible for the
+			 compliance of the business entity with Association standards and the
+			 insurance laws, standards, and regulations of any State in which the
+			 business entity seeks to do business on the basis of Association
+			 membership.</text>
+									</paragraph><paragraph id="H8EF7BFC70011456B9D239A13AE3EC7F7"><enum>(3)</enum><header>Categories</header>
+										<subparagraph id="H12314DC73AFD437CBF7B75831851728A"><enum>(A)</enum><header>Separate categories for insurance producers permitted</header><text>The Association may establish separate categories of membership for insurance producers and for
+			 other persons or entities within each class, based on the types of
+			 licensing categories that exist under State laws.</text>
+										</subparagraph><subparagraph id="H499D06466975404AB34CEBA25C46B720"><enum>(B)</enum><header>Separate treatment for depository institutions prohibited</header><text>No special categories of membership, and no distinct membership criteria, shall be established for
+			 members that are depository institutions or for employees, agents, or
+			 affiliates of depository institutions.</text>
+										</subparagraph></paragraph></subsection><subsection id="H4D8DD3221B8A43558139B4DF14B1DBDE"><enum>(d)</enum><header>Membership criteria</header>
+									<paragraph id="H6BF1D583F69442CDB96F81BDC942A876"><enum>(1)</enum><header>In general</header><text>The Association may establish criteria for membership which shall include standards for personal
+			 qualifications, education, training, and experience. The Association shall
+			 not establish criteria that unfairly limit the ability of a small
+			 insurance producer to become a member of the Association, including
+			 imposing discriminatory membership fees.</text>
+									</paragraph><paragraph id="H16327A527D354992AA807049A190AB2F"><enum>(2)</enum><header>Qualifications</header><text>In establishing criteria under paragraph (1), the Association shall not adopt any qualification
+			 less protective to the public than that contained in the National
+			 Association of Insurance Commissioners (referred to in this subtitle as
+			 the <term>NAIC</term>) Producer Licensing Model Act in effect as of the date of enactment of the <short-title>National Association of Registered Agents and Brokers Reform Act of 2015</short-title>, and shall consider the highest levels of insurance producer qualifications established under the
+			 licensing laws of the States.</text>
+									</paragraph><paragraph id="H5720CB2312584C8695033182574393FC"><enum>(3)</enum><header>Assistance from States</header>
+										<subparagraph id="H9AF1F919218F456BB6B7A3EB98755DD4"><enum>(A)</enum><header>In general</header><text>The Association may request a State to provide assistance in investigating and evaluating the
+			 eligibility of a prospective member for membership in the Association.</text>
+										</subparagraph><subparagraph id="HECDDDF6E20BA4E6D84C4C019B078F387"><enum>(B)</enum><header>Authorization of information sharing</header><text>A submission under subsection (a)(4)(C)(i) made by an insurance producer licensed in a State shall
+			 include a statement signed by the person about whom the assistance is
+			 requested authorizing—</text>
+											<clause id="H873E1DE3AEBD4AFD97E69F560865EE78"><enum>(i)</enum><text>the State to share information with the Association; and</text>
+											</clause><clause id="H053C72D5750C4B24B7D3E8F752982AC0"><enum>(ii)</enum><text>the Association to receive the information.</text>
+											</clause></subparagraph><subparagraph id="HD50AA644563640EA8BE16AE254FD9C69"><enum>(C)</enum><header>Rule of construction</header><text>Subparagraph (A) shall not be construed as requiring or authorizing any State to adopt new or
+			 additional requirements concerning the licensing or evaluation of
+			 insurance producers.</text>
+										</subparagraph></paragraph><paragraph id="HA5E7999084FE43118C4E9EF38AD8839D"><enum>(4)</enum><header>Denial of membership</header><text>The Association may, based on reasonably consistently applied standards, deny membership to any
+			 State-licensed insurance producer for failure to meet the membership
+			 criteria established by the Association.</text>
+									</paragraph></subsection><subsection id="HC7AAF6D24F84409F91A5126320CD599B"><enum>(e)</enum><header>Effect of membership</header>
+									<paragraph id="H3A9B1772FA8849F18E35D83116FC9EA1"><enum>(1)</enum><header>Authority of association members</header><text>Membership in the Association shall—</text>
+										<subparagraph id="HCC6B89BE527B42699B5E5609143B401D"><enum>(A)</enum><text>authorize an insurance producer to sell, solicit, or negotiate insurance in any State for which the
+			 member pays the licensing fee set by the State for any line or lines of
+			 insurance specified in the home State license of the insurance producer,
+			 and exercise all such incidental powers as shall be necessary to carry out
+			 such activities, including claims adjustments and settlement to the extent
+			 permissible under the laws of the State, risk management, employee
+			 benefits advice, retirement planning, and any other insurance-related
+			 consulting activities;</text>
+										</subparagraph><subparagraph id="HFDA7D8152C934303A27E2B15755F1C13"><enum>(B)</enum><text>be the equivalent of a nonresident insurance producer license for purposes of authorizing the
+			 insurance producer to engage in the activities described in subparagraph
+			 (A) in any State where the member pays the licensing fee; and</text>
+										</subparagraph><subparagraph id="H8C66E577DCA54A3382B42A207E0FA4C8"><enum>(C)</enum><text>be the equivalent of a nonresident insurance producer license for the purpose of subjecting an
+			 insurance producer to all laws, regulations, provisions or other action of
+			 any State concerning revocation, suspension, or other enforcement action
+			 related to the ability of a member to engage in any activity within the
+			 scope of authority granted under this subsection and to all State laws,
+			 regulations, provisions, and actions preserved under paragraph (5).</text>
+										</subparagraph></paragraph><paragraph id="H95200E4E70374E3C8AAB4F5797A5005C"><enum>(2)</enum><header>Violent Crime Control and Law Enforcement Act of 1994</header><text>Nothing in this subtitle shall be construed to alter, modify, or supercede any requirement
+			 established by <external-xref legal-doc="usc" parsable-cite="usc/18/1033">section 1033</external-xref> of title 18, United States Code.</text>
+									</paragraph><paragraph id="HAEAAC839B0BA448DA3E46177102DB61B"><enum>(3)</enum><header>Agent for remitting fees</header><text>The Association shall act as an agent for any member for purposes of remitting licensing fees to
+			 any State pursuant to paragraph (1).</text>
+									</paragraph><paragraph id="H85884413672445EBB3B8E90723D83D39"><enum>(4)</enum><header>Notification of action</header>
+										<subparagraph id="H92697387407443439E808CDBCF243D72"><enum>(A)</enum><header>In general</header><text>The Association shall notify the States (including State insurance regulators) and the NAIC when an
+			 insurance producer has satisfied the membership criteria of this section.
+			 The States (including State insurance regulators) shall have 10 business
+			 days after the date of the notification in order to provide the
+			 Association with evidence that the insurance producer does not satisfy the
+			 criteria for membership in the Association.</text>
+										</subparagraph><subparagraph id="H427482A5ADA045BDAF96112947222D9F"><enum>(B)</enum><header>Ongoing disclosures required</header><text>On an ongoing basis, the Association shall disclose to the States (including State insurance
+			 regulators) and the NAIC a list of the States in which each member is
+			 authorized to operate. The Association shall immediately notify the States
+			 (including State insurance regulators) and the NAIC when a member is newly
+			 authorized to operate in one or more States, or is no longer authorized to
+			 operate in one or more States on the basis of Association membership.</text>
+										</subparagraph></paragraph><paragraph id="HE1D6E366CE4943A69877B92C401DDCE8"><enum>(5)</enum><header>Preservation of consumer protection and market conduct regulation</header>
+										<subparagraph id="H16975382D3104DBEBF932EBE9DC776DF"><enum>(A)</enum><header>In general</header><text>No provision of this section shall be construed as altering or affecting the applicability or
+			 continuing effectiveness of any law, regulation, provision, or other
+			 action of any State, including those described in subparagraph (B), to the
+			 extent that the State law, regulation, provision, or other action is not
+			 inconsistent with the provisions of this subtitle related to market entry
+			 for nonresident insurance producers, and then only to the extent of the
+			 inconsistency.</text>
+										</subparagraph><subparagraph id="HCA1DBECC4E9947E19FC2C3D73A3D75C4"><enum>(B)</enum><header>Preserved regulations</header><text>The laws, regulations, provisions, or other actions of any State referred to in subparagraph (A)
+			 include laws, regulations, provisions, or other actions that—</text>
+											<clause id="H9C10C9060ED14F1F87DE1ED8E8A9273C"><enum>(i)</enum><text>regulate market conduct, insurance producer conduct, or unfair trade practices;</text>
+											</clause><clause id="H41D778428DE94C6AB8A3F5E6CECE54A8"><enum>(ii)</enum><text>establish consumer protections; or</text>
+											</clause><clause id="HEE4BFC0EA74E417B8A2879831E70E5AC"><enum>(iii)</enum><text>require insurance producers to be appointed by a licensed or authorized insurer.</text>
+											</clause></subparagraph></paragraph></subsection><subsection id="HE889E643D87B4932B6B0B4D7D8EE5A86"><enum>(f)</enum><header>Biennial renewal</header><text>Membership in the Association shall be renewed on a biennial basis.</text>
+								</subsection><subsection id="HF93A1F67F7AD4755BDA5703F5025BC02"><enum>(g)</enum><header>Continuing education</header>
+									<paragraph id="H5D8778C11CFD45DAB3E1AB4F0ABA6BA9"><enum>(1)</enum><header>In general</header><text>The Association shall establish, as a condition of membership, continuing education requirements
+			 which shall be comparable to the continuing education requirements under
+			 the licensing laws of a majority of the States.</text>
+									</paragraph><paragraph id="H27284839AEB841C38F2F8AC9CF495E7C"><enum>(2)</enum><header>State continuing education requirements</header><text>A member may not be required to satisfy continuing education requirements imposed under the laws,
+			 regulations, provisions, or actions of any State other than the home State
+			 of the member.</text>
+									</paragraph><paragraph id="HCA1F58C2949648368131CE7003FDB421"><enum>(3)</enum><header>Reciprocity</header><text>The Association shall not require a member to satisfy continuing education requirements that are
+			 equivalent to any continuing education requirements of the home State of
+			 the member that have been satisfied by the member during the applicable
+			 licensing period.</text>
+									</paragraph><paragraph id="HEACE67D8EAED48AC8302796B6ABBFA73"><enum>(4)</enum><header>Limitation on the Association</header><text>The Association shall not directly or indirectly offer any continuing education courses for
+			 insurance producers.</text>
+									</paragraph></subsection><subsection id="H420F6263E75A4EE1927D663D60666BC5"><enum>(h)</enum><header>Probation, suspension and revocation</header>
+									<paragraph id="H920FD59784F74F35836C1CE84D61CB20"><enum>(1)</enum><header>Disciplinary action</header><text>The Association may place an insurance producer that is a member of the Association on probation or
+			 suspend or revoke the membership of the insurance producer in the
+			 Association, or assess monetary fines or penalties, as the Association
+			 determines to be appropriate, if—</text>
+										<subparagraph id="HE2F5CB205B6543F69F101BE6BD8FA3AE"><enum>(A)</enum><text>the insurance producer fails to meet the applicable membership criteria or other standards
+			 established by the Association;</text>
+										</subparagraph><subparagraph id="HBAE301C018E545F9A55EF658B0062685"><enum>(B)</enum><text>the insurance producer has been subject to disciplinary action pursuant to a final adjudicatory
+			 proceeding under the jurisdiction of a State insurance regulator;</text>
+										</subparagraph><subparagraph id="H2F3D4A555FF04C43825C51C876A68944"><enum>(C)</enum><text>an insurance license held by the insurance producer has been suspended or revoked by a State
+			 insurance regulator; or</text>
+										</subparagraph><subparagraph id="H365FABFC201C4C44AB56A86D5F05BF3D"><enum>(D)</enum><text>the insurance producer has been convicted of a crime that would have resulted in the denial of
+			 membership pursuant to subsection (a)(4)(L)(i) at the time of application,
+			 and the Association has received a copy of the final disposition from a
+			 court of competent jurisdiction.</text>
+										</subparagraph></paragraph><paragraph id="HFA469624A56D48F5B3525470C175A97F"><enum>(2)</enum><header>Violations of Association standards</header><text>The Association shall have the power to investigate alleged violations of Association standards.</text>
+									</paragraph><paragraph id="H76F321AD1DB44F5491D0DCC8D3885B60"><enum>(3)</enum><header>Reporting</header><text>The Association shall immediately notify the States (including State insurance regulators) and the
+			 NAIC when the membership of an insurance producer has been placed on
+			 probation or has been suspended, revoked, or otherwise terminated, or when
+			 the Association has assessed monetary fines or penalties.</text>
+									</paragraph></subsection><subsection id="H6EFA3912CCF24D99BD744B45994ED568"><enum>(i)</enum><header>Consumer complaints</header>
+									<paragraph id="H5DAAABE2C089472E957FDF11FF6611B2"><enum>(1)</enum><header>In general</header><text>The Association shall—</text>
+										<subparagraph id="H14BBE223E19C41909A7D2FB18113D496"><enum>(A)</enum><text>refer any complaint against a member of the Association from a consumer relating to alleged
+			 misconduct or violations of State insurance laws to the State insurance
+			 regulator where the consumer resides and, when appropriate, to any
+			 additional State insurance regulator, as determined by standards adopted
+			 by the Association; and</text>
+										</subparagraph><subparagraph id="H2C227E3371B747F7A64A17C407BC3ADA"><enum>(B)</enum><text>make any related records and information available to each State insurance regulator to whom the
+			 complaint is forwarded.</text>
+										</subparagraph></paragraph><paragraph id="H8F8B92EA013E48C4829317145DF17DAD"><enum>(2)</enum><header>Telephone and other access</header><text>The Association shall maintain a toll-free number for purposes of this subsection and, as
+			 practicable, other alternative means of communication with consumers, such
+			 as an Internet webpage.</text>
+									</paragraph><paragraph id="H3364EF8F85FF488C8CBAA0F45B481A8D"><enum>(3)</enum><header>Final disposition of investigation</header><text>State insurance regulators shall provide the Association with information regarding the final
+			 disposition of a complaint referred pursuant to paragraph (1)(A), but
+			 nothing shall be construed to compel a State to release confidential
+			 investigation reports or other information protected by State law to the
+			 Association.</text>
+									</paragraph></subsection><subsection id="HB15710F283EC4DFD8A246B7FD7205D08"><enum>(j)</enum><header>Information sharing</header><text>The Association may—</text>
+									<paragraph id="H07C6B4A593EB423284A200248BD2DDEA"><enum>(1)</enum><text>share documents, materials, or other information, including confidential and privileged documents,
+			 with a State, Federal, or international governmental entity or with the
+			 NAIC or other appropriate entity referred to paragraphs (3) and (4),
+			 provided that the recipient has the authority and agrees to maintain the
+			 confidentiality or privileged status of the document, material, or other
+			 information;</text>
+									</paragraph><paragraph id="H5FF86250D10D4573A47D23174383202F"><enum>(2)</enum><text>limit the sharing of information as required under this subtitle with the NAIC or any other
+			 non-governmental entity, in circumstances under which the Association
+			 determines that the sharing of such information is unnecessary to further
+			 the purposes of this subtitle;</text>
+									</paragraph><paragraph id="H06D996F0AE3D4EE8B25AAFE8CF6860B1"><enum>(3)</enum><text>establish a central clearinghouse, or utilize the NAIC or another appropriate entity, as determined
+			 by the Association, as a central clearinghouse, for use by the Association
+			 and the States (including State insurance regulators), through which
+			 members of the Association may disclose their intent to operate in 1 or
+			 more States and pay the licensing fees to the appropriate States; and</text>
+									</paragraph><paragraph id="H656B2294EBB14156AFBCDBC9DBD4D09A"><enum>(4)</enum><text>establish a database, or utilize the NAIC or another appropriate entity, as determined by the
+			 Association, as a database, for use by the Association and the States
+			 (including State insurance regulators) for the collection of regulatory
+			 information concerning the activities of insurance producers.</text>
+									</paragraph></subsection><subsection id="H9EBAF8793DEE46B0A396D6FEEE6E0160"><enum>(k)</enum><header>Effective Date</header><text>The provisions of this section shall take effect on the later of—</text>
+									<paragraph id="H9D1C3118A61441FE89E1218D7F2B96E7"><enum>(1)</enum><text>the expiration of the 2-year period beginning on the date of enactment of the <short-title>National Association of Registered Agents and Brokers Reform Act of 2015</short-title>; and</text>
+									</paragraph><paragraph id="H779DDD54EBA34D168F9A7CC01082FD8C"><enum>(2)</enum><text>the date of incorporation of the Association.</text>
+									</paragraph></subsection></section><section id="H8F69F29EDDB6484CBD2DCB319E5D3E45"><enum>324.</enum><header>Board of directors</header>
+								<subsection id="H66FCF4A14E674C2296EB1F91186E9BCA"><enum>(a)</enum><header>Establishment</header><text>There is established a board of directors of the Association, which shall have authority to govern
+			 and supervise all activities of the Association.</text>
+								</subsection><subsection id="H06AFA467692F4B9A99D6987BB79C7E51"><enum>(b)</enum><header>Powers</header><text>The Board shall have such of the powers and authority of the Association as may be specified in the
+			 bylaws of the Association.</text>
+								</subsection><subsection id="H29861DBC08F840AA925915D30CA21767"><enum>(c)</enum><header>Composition</header>
+									<paragraph id="HD33AB975DB3045C3A78BCA62A816D528"><enum>(1)</enum><header>In general</header><text>The Board shall consist of 13 members who shall be appointed by the President, by and with the
+			 advice and consent of the Senate, in accordance with the procedures
+			 established under Senate Resolution 116 of the 112th Congress, of whom—</text>
+										<subparagraph id="H024592769171427CB4B066D3F6811D55"><enum>(A)</enum><text>8 shall be State insurance commissioners appointed in the manner provided in paragraph (2), 1 of
+			 whom shall be designated by the President to serve as the chairperson of
+			 the Board until the Board elects one such State insurance commissioner
+			 Board member to serve as the chairperson of the Board;</text>
+										</subparagraph><subparagraph id="H8A44539453FF41D596F027C6A5B83DE1"><enum>(B)</enum><text>3 shall have demonstrated expertise and experience with property and casualty insurance producer
+			 licensing; and</text>
+										</subparagraph><subparagraph id="HAA78A8758B664DC3B05BBFD976F7402A"><enum>(C)</enum><text display-inline="yes-display-inline">2 shall have demonstrated expertise and experience with life or health insurance producer
+			 licensing.</text>
+										</subparagraph></paragraph><paragraph id="H0AFCF169D2744C9B81F71943FEA8F398"><enum>(2)</enum><header>State insurance regulator representatives</header>
+										<subparagraph id="H8D914854E5F54A8C9EF9B88EFB0761AD"><enum>(A)</enum><header>Recommendations</header><text>Before making any appointments pursuant to paragraph (1)(A), the President shall request a list of
+			 recommended candidates from the States through the NAIC, which shall not
+			 be binding on the President. If the NAIC fails to submit a list of
+			 recommendations not later than 15 business days after the date of the
+			 request, the President may make the requisite appointments without
+			 considering the views of the NAIC.</text>
+										</subparagraph><subparagraph id="HED59E82747674B52A150B7CBA59D36E4"><enum>(B)</enum><header>Political affiliation</header><text>Not more than 4 Board members appointed under paragraph (1)(A) shall belong to the same political
+			 party.</text>
+										</subparagraph><subparagraph id="HCEC3FC67293545A59E0A328162B81E1B"><enum>(C)</enum><header>Former State insurance commissioners</header>
+											<clause id="H25F95FD1F5CB4CF3A284CB409D59CCAE"><enum>(i)</enum><header>In general</header><text>If, after offering each currently serving State insurance commissioner an appointment to the Board,
+			 fewer than 8 State insurance commissioners have accepted appointment to
+			 the Board, the President may appoint the remaining State insurance
+			 commissioner Board members, as required under paragraph (1)(A), of the
+			 appropriate political party as required under subparagraph (B), from among
+			 individuals who are former State insurance commissioners.</text>
+											</clause><clause id="H558ED5155B404F608A9EA73F0324406D"><enum>(ii)</enum><header>Limitation</header><text>A former State insurance commissioner appointed as described in clause (i) may not be employed by
+			 or have any present direct or indirect financial interest in any insurer,
+			 insurance producer, or other entity in the insurance industry, other than
+			 direct or indirect ownership of, or beneficial interest in, an insurance
+			 policy or annuity contract written or sold by an insurer.</text>
+											</clause></subparagraph><subparagraph id="H987707A2C36C40D0B089FFD0E5BF074B"><enum>(D)</enum><header>Service through term</header><text>If a Board member appointed under paragraph (1)(A) ceases to be a State insurance commissioner
+			 during the term of the Board member, the Board member shall cease to be a
+			 Board member.</text>
+										</subparagraph></paragraph><paragraph id="H4ABA17C78CAA40EC8FF76F510D0BDC14"><enum>(3)</enum><header>Private sector representatives</header><text>In making any appointment pursuant to subparagraph (B) or (C) of paragraph (1), the President may
+			 seek recommendations for candidates from groups representing the category
+			 of individuals described, which shall not be binding on the President.</text>
+									</paragraph><paragraph id="HC2CB50576AB44B80B37B484EE6290986"><enum>(4)</enum><header>State insurance commissioner defined</header><text>For purposes of this subsection, the term <term>State insurance commissioner</term> means a person who serves in the position in State government, or on the board, commission, or
+			 other body that is the primary insurance regulatory authority for the
+			 State.</text>
+									</paragraph></subsection><subsection id="H92FF005AF019424293D9707BEE61C3AF"><enum>(d)</enum><header>Terms</header>
+									<paragraph id="HDF8740C9DF5A4B0FAD9AEA295CE7DA38"><enum>(1)</enum><header>In general</header><text>Except as provided under paragraph (2), the term of service for each Board member shall be 2 years.</text>
+									</paragraph><paragraph id="HC87AFE9853BF495AB72CA8EBF7AC8BDC"><enum>(2)</enum><header>Exceptions</header>
+										<subparagraph id="HF2BF37DE0B2B42D292664D787E5779F9"><enum>(A)</enum><header>1-year terms</header><text>The term of service shall be 1 year, as designated by the President at the time of the nomination
+			 of the subject Board members for—</text>
+											<clause id="HD95DCEF45B26434E9C5EABBC4B324711"><enum>(i)</enum><text>4 of the State insurance commissioner Board members initially appointed under paragraph (1)(A), of
+			 whom not more than 2 shall belong to the same political party;</text>
+											</clause><clause id="H903DB39A337343C78839D6531FF03CCC"><enum>(ii)</enum><text>1 of the Board members initially appointed under paragraph (1)(B); and</text>
+											</clause><clause id="HFBF653775CCA43A5B5D38F6C6BA54A9E"><enum>(iii)</enum><text>1 of the Board members initially appointed under paragraph (1)(C).</text>
+											</clause></subparagraph><subparagraph id="HA727C16AA0234B799E1F7D051A9DFDF6"><enum>(B)</enum><header>Expiration of Term</header><text>A Board member may continue to serve after the expiration of the term to which the Board member was
+			 appointed for the earlier of 2 years or until a successor is appointed.</text>
+										</subparagraph><subparagraph id="H74BBBC3AEA174CCFB605C50D0588846B"><enum>(C)</enum><header>Mid-term appointments</header><text>A Board member appointed to fill a vacancy occurring before the expiration of the term for which
+			 the predecessor of the Board member was appointed shall be appointed only
+			 for the remainder of that term.</text>
+										</subparagraph></paragraph><paragraph id="H98C270F1E25E4300B942285FC60DDB07"><enum>(3)</enum><header>Successive terms</header><text>Board members may be reappointed to successive terms.</text>
+									</paragraph></subsection><subsection id="H6FCE97102BED46A08E5CB2703801B31C"><enum>(e)</enum><header>Initial appointments</header><text>The appointment of initial Board members shall be made no later than 90 days after the date of
+			 enactment of the <short-title>National Association of Registered Agents and Brokers Reform Act of 2015</short-title>.</text>
+								</subsection><subsection id="H7B31406E93E6448781ACE4D5EC98B04C"><enum>(f)</enum><header>Meetings</header>
+									<paragraph id="HF6C01AFA8D2E432D8E8C734AE12A141D"><enum>(1)</enum><header>In general</header><text>The Board shall meet—</text>
+										<subparagraph id="HD8D19CE72FBF4C15AEC39CF5D60F85D9"><enum>(A)</enum><text>at the call of the chairperson;</text>
+										</subparagraph><subparagraph id="H40769109FA9045AFAED47694BACD3E9B"><enum>(B)</enum><text>as requested in writing to the chairperson by not fewer than 5 Board members; or</text>
+										</subparagraph><subparagraph id="H546383126A794BC5AA4C243CC5453A92"><enum>(C)</enum><text>as otherwise provided by the bylaws of the Association.</text>
+										</subparagraph></paragraph><paragraph id="HDA5DB8FA82214B93833C2293B145BE22"><enum>(2)</enum><header>Quorum required</header><text>A majority of all Board members shall constitute a quorum.</text>
+									</paragraph><paragraph id="HA072B854F8CC447199A5E50DDBA53AD4"><enum>(3)</enum><header>Voting</header><text>Decisions of the Board shall require the approval of a majority of all Board members present at a
+			 meeting, a quorum being present.</text>
+									</paragraph><paragraph id="H0E04DE64D0974AB7AA8B4CF299A0EC65"><enum>(4)</enum><header>Initial meeting</header><text>The Board shall hold its first meeting not later than 45 days after the date on which all initial
+			 Board members have been appointed.</text>
+									</paragraph></subsection><subsection id="HD5FEA219396444F6AC86528F9632D842"><enum>(g)</enum><header>Restriction on confidential information</header><text>Board members appointed pursuant to subparagraphs (B) and (C) of subsection (c)(1) shall not have
+			 access to confidential information received by the Association in
+			 connection with complaints, investigations, or disciplinary proceedings
+			 involving insurance producers.</text>
+								</subsection><subsection id="H8F0C71D60C424F8BA254393057BA29E7"><enum>(h)</enum><header>Ethics and conflicts of interest</header><text>The Board shall issue and enforce an ethical conduct code to address permissible and prohibited
+			 activities of Board members and Association officers, employees, agents,
+			 or consultants. The code shall, at a minimum, include provisions that
+			 prohibit any Board member or Association officer, employee, agent or
+			 consultant from—</text>
+									<paragraph id="H7A87D2F94F444F67AADA56D3E1DD6404"><enum>(1)</enum><text>engaging in unethical conduct in the course of performing Association duties;</text>
+									</paragraph><paragraph id="HA44E66F27BF74BC5B9207F50BF5E4063"><enum>(2)</enum><text>participating in the making or influencing the making of any Association decision, the outcome of
+			 which the Board member, officer, employee, agent, or consultant knows or
+			 had reason to know would have a reasonably foreseeable material financial
+			 effect, distinguishable from its effect on the public generally, on the
+			 person or a member of the immediate family of the person;</text>
+									</paragraph><paragraph id="H54CD5B9AD5974B978A06AAFF7B0C2BE3"><enum>(3)</enum><text>accepting any gift from any person or entity other than the Association that is given because of
+			 the position held by the person in the Association;</text>
+									</paragraph><paragraph id="HF4BDE0A2C0CC4F289C95A7811E3C798B"><enum>(4)</enum><text>making political contributions to any person or entity on behalf of the Association; and</text>
+									</paragraph><paragraph id="H874E5CE8EDEE4225B7DA722CDD7C9C02"><enum>(5)</enum><text>lobbying or paying a person to lobby on behalf of the Association.</text>
+									</paragraph></subsection><subsection id="H141CAE34044C46E5B2F1FA2A6CD832B6"><enum>(i)</enum><header>Compensation</header>
+									<paragraph id="H009710E34CFE440A90301FC3C6FC2B40"><enum>(1)</enum><header>In general</header><text>Except as provided in paragraph (2), no Board member may receive any compensation from the
+			 Association or any other person or entity on account of Board membership.</text>
+									</paragraph><paragraph id="HCF1B98D13A434627BC78E6F6618FDE81"><enum>(2)</enum><header>Travel expenses and per diem</header><text>Board members may be reimbursed only by the Association for travel expenses, including per diem in
+			 lieu of subsistence, at rates consistent with rates authorized for
+			 employees of Federal agencies under subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/57">chapter 57</external-xref> of title 5,
+			 United States Code, while away from home or regular places of business in
+			 performance of services for the Association.</text>
+									</paragraph></subsection></section><section id="H594902E9E1DD4BF7BF2D4C0CFE5DB6EF"><enum>325.</enum><header>Bylaws, standards, and disciplinary actions</header>
+								<subsection id="HA609D68376EF4E22B41078A0D228FBAC"><enum>(a)</enum><header>Adoption and amendment of bylaws and standards</header>
+									<paragraph id="H8A0634F92DD54C8A86CA30892F1128C5"><enum>(1)</enum><header>Procedures</header><text>The Association shall adopt procedures for the adoption of bylaws and standards that are similar to
+			 procedures under subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/5">chapter 5</external-xref> of title 5, United States Code
+			 (commonly known as the <quote>Administrative Procedure Act</quote>).</text>
+									</paragraph><paragraph id="H03F86CDE7FEA44A6997FAAA252CAA594"><enum>(2)</enum><header>Copy required to be filed</header><text>The Board shall submit to the President, through the Department of the Treasury, and the States
+			 (including State insurance regulators), and shall publish on the website
+			 of the Association, all proposed bylaws and standards of the Association,
+			 or any proposed amendment to the bylaws or standards of the Association,
+			 accompanied by a concise general statement of the basis and purpose of
+			 such proposal.</text>
+									</paragraph><paragraph id="H36555399F41B445199B559249327D1B4"><enum>(3)</enum><header>Effective date</header><text>Any proposed bylaw or standard of the Association, and any proposed amendment to the bylaws or
+			 standards of the Association, shall take effect, after notice under
+			 paragraph (2) and opportunity for public comment, on such date as the
+			 Association may designate, unless suspended under section 329(c).</text>
+									</paragraph><paragraph id="HA9BE74E53AF749348684104BF43D11CD"><enum>(4)</enum><header>Rule of construction</header><text>Nothing in this section shall be construed to subject the Board or the Association to the
+			 requirements of subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/5">chapter 5</external-xref> of title 5, United States Code
+			 (commonly known as the <quote>Administrative Procedure Act</quote>).</text>
+									</paragraph></subsection><subsection id="H5E81A45C8072457593F44F6B288AC8F2"><enum>(b)</enum><header>Disciplinary action by the Association</header>
+									<paragraph id="HC2ADB4CA85BD4CBF9AE74D4A6C044CA9"><enum>(1)</enum><header>Specification of charges</header><text>In any proceeding to determine whether membership shall be denied, suspended, revoked, or not
+			 renewed, or to determine whether a member of the Association should be
+			 placed on probation (referred to in this section as a <quote>disciplinary action</quote>) or whether to assess fines or monetary penalties, the Association shall bring specific charges,
+			 notify the member of the charges, give the member an opportunity to defend
+			 against the charges, and keep a record.</text>
+									</paragraph><paragraph id="HFD05B70F656345A28CB734C34DB9E2E1"><enum>(2)</enum><header>Supporting statement</header><text>A determination to take disciplinary action shall be supported by a statement setting forth—</text>
+										<subparagraph id="H3FBF534A737E4106B9F1089C7B9941BC"><enum>(A)</enum><text>any act or practice in which the member has been found to have been engaged;</text>
+										</subparagraph><subparagraph id="H7A6FA082242C4317AB2E814CDEB51A83"><enum>(B)</enum><text>the specific provision of this subtitle or standard of the Association that any such act or
+			 practice is deemed to violate; and</text>
+										</subparagraph><subparagraph id="HEBACFFD92AE047ADA2B67B23AA1B9B44"><enum>(C)</enum><text>the sanction imposed and the reason for the sanction.</text>
+										</subparagraph></paragraph><paragraph id="H45305CC6F7794F86843B2262168A5BFA"><enum>(3)</enum><header>Ineligibility of private sector representatives</header><text>Board members appointed pursuant to section 324(c)(3) may not—</text>
+										<subparagraph id="HB213C5B5F6604CE085F73C5A42CEB0D7"><enum>(A)</enum><text>participate in any disciplinary action or be counted toward establishing a quorum during a
+			 disciplinary action; and</text>
+										</subparagraph><subparagraph id="HE4B6C6D11B7A446AA5ABCBD62D52CBD7"><enum>(B)</enum><text>have access to confidential information concerning any disciplinary action.</text>
+										</subparagraph></paragraph></subsection></section><section id="H8A07A37698B04CC1B44052B5241A11BE"><enum>326.</enum><header>Powers</header><text display-inline="no-display-inline">In addition to all the powers conferred upon a nonprofit corporation by the District of Columbia
+			 Nonprofit Corporation Act, the Association shall have the power to—</text>
+								<paragraph id="H538EB8EA66244731B2DC52F6D0CB6262"><enum>(1)</enum><text>establish and collect such membership fees as the Association finds necessary to impose to cover
+			 the costs of its operations;</text>
+								</paragraph><paragraph id="H54D789B4D4E846198C5E441E191082E2"><enum>(2)</enum><text>adopt, amend, and repeal bylaws, procedures, or standards governing the conduct of Association
+			 business and performance of its duties;</text>
+								</paragraph><paragraph id="HB1270699804F42EFB9F78BB8B3D25BBB"><enum>(3)</enum><text>establish procedures for providing notice and opportunity for comment pursuant to section 325(a);</text>
+								</paragraph><paragraph id="HD40D49CB79BB428BB8AA1606D606D2B5"><enum>(4)</enum><text>enter into and perform such agreements as necessary to carry out the duties of the Association;</text>
+								</paragraph><paragraph id="H973D092E353B47938654554AD61FA78E"><enum>(5)</enum><text>hire employees, professionals, or specialists, and elect or appoint officers, and to fix their
+			 compensation, define their duties and give them appropriate authority to
+			 carry out the purposes of this subtitle, and determine their
+			 qualification;</text>
+								</paragraph><paragraph id="H55403592D22E49CFB3ACED8C2445AA5B"><enum>(6)</enum><text>establish personnel policies of the Association and programs relating to, among other things,
+			 conflicts of interest, rates of compensation, where applicable, and
+			 qualifications of personnel;</text>
+								</paragraph><paragraph id="HD7E00C6AFF1A4760A0821546E851DFBD"><enum>(7)</enum><text>borrow money; and</text>
+								</paragraph><paragraph id="H7622C1BCD863493AB17EF2CA87959FD5"><enum>(8)</enum><text>secure funding for such amounts as the Association determines to be necessary and appropriate to
+			 organize and begin operations of the Association, which shall be treated
+			 as loans to be repaid by the Association with interest at market rate.</text>
+								</paragraph></section><section id="H91C07DEB81994241991540037E796E00"><enum>327.</enum><header>Report by the Association</header>
+								<subsection id="HDB8CF2F1055B413B907773A4FC61FE7E"><enum>(a)</enum><header>In general</header><text>As soon as practicable after the close of each fiscal year, the Association shall submit to the
+			 President, through the Department of the Treasury, and the States
+			 (including State insurance regulators), and shall publish on the website
+			 of the Association, a written report regarding the conduct of its
+			 business, and the exercise of the other rights and powers granted by this
+			 subtitle, during such fiscal year.</text>
+								</subsection><subsection id="H25B18CBF499E45EDB7BC01CA131AC5DD"><enum>(b)</enum><header>Financial statements</header><text>Each report submitted under subsection (a) with respect to any fiscal year shall include audited
+			 financial statements setting forth the financial position of the
+			 Association at the end of such fiscal year and the results of its
+			 operations (including the source and application of its funds) for such
+			 fiscal year.</text>
+								</subsection></section><section id="H31F1C42849A047C9AF1F59C364CFC30E"><enum>328.</enum><header>Liability of the Association and the Board members, officers, and employees of the Association</header>
+								<subsection id="H9DF2798B27C74236802C681A0579FE81"><enum>(a)</enum><header>In general</header><text>The Association shall not be deemed to be an insurer or insurance producer within the meaning of
+			 any State law, rule, regulation, or order regulating or taxing insurers,
+			 insurance producers, or other entities engaged in the business of
+			 insurance, including provisions imposing premium taxes, regulating insurer
+			 solvency or financial condition, establishing guaranty funds and levying
+			 assessments, or requiring claims settlement practices.</text>
+								</subsection><subsection id="HAB426A53D95648A29F31FBB1BBC28D35"><enum>(b)</enum><header>Liability of Board members, officers, and employees</header><text>No Board member, officer, or employee of the Association shall be personally liable to any person
+			 for any action taken or omitted in good faith in any matter within the
+			 scope of their responsibilities in connection with the Association.</text>
+								</subsection></section><section id="HF75166D516BD475B85D5B6846ACF03CA"><enum>329.</enum><header>Presidential oversight</header>
+								<subsection id="H46C1E1B0AFA44C79A2CC05077B019921"><enum>(a)</enum><header>Removal of Board</header><text>If the President determines that the Association is acting in a manner contrary to the interests of
+			 the public or the purposes of this subtitle or has failed to perform its
+			 duties under this subtitle, the President may remove the entire existing
+			 Board for the remainder of the term to which the Board members were
+			 appointed and appoint, in accordance with section 324 and with the advice
+			 and consent of the Senate, in accordance with the procedures established
+			 under Senate Resolution 116 of the 112th Congress, new Board members to
+			 fill the vacancies on the Board for the remainder of the terms.</text>
+								</subsection><subsection id="HE132585919B942199F0CF9BF367ED431"><enum>(b)</enum><header>Removal of Board member</header><text>The President may remove a Board member only for neglect of duty or malfeasance in office.</text>
+								</subsection><subsection id="H04AB79FD04AE41B09E497AEA533D5B74"><enum>(c)</enum><header>Suspension of bylaws and standards and prohibition of actions</header><text>Following notice to the Board, the President, or a person designated by the President for such
+			 purpose, may suspend the effectiveness of any bylaw or standard, or
+			 prohibit any action, of the Association that the President or the designee
+			 determines is contrary to the purposes of this subtitle.</text>
+								</subsection></section><section id="H957D3C126798452A856CFABA3A1673A6"><enum>330.</enum><header>Relationship to State law</header>
+								<subsection id="HAFD5F375039B42D98B1F28361B1014EE"><enum>(a)</enum><header>Preemption of State laws</header><text>State laws, regulations, provisions, or other actions purporting to regulate insurance producers
+			 shall be preempted to the extent provided in subsection (b).</text>
+								</subsection><subsection id="H3E2BD2857F714EE0BFDD37A040C950C5"><enum>(b)</enum><header>Prohibited actions</header>
+									<paragraph id="H2059BC62177241EA9744C42F2D9F290C"><enum>(1)</enum><header>In general</header><text>No State shall—</text>
+										<subparagraph id="H30F217D12AF148BE83680AA82E789725"><enum>(A)</enum><text>impede the activities of, take any action against, or apply any provision of law or regulation
+			 arbitrarily or discriminatorily to, any insurance producer because that
+			 insurance producer or any affiliate plans to become, has applied to
+			 become, or is a member of the Association;</text>
+										</subparagraph><subparagraph id="H0AE4A51DAAEA4D64971032554EA500C6"><enum>(B)</enum><text>impose any requirement upon a member of the Association that it pay fees different from those
+			 required to be paid to that State were it not a member of the Association;
+			 or</text>
+										</subparagraph><subparagraph id="H2CA415BB54204FE9B676D31234604AD1"><enum>(C)</enum><text>impose any continuing education requirements on any nonresident insurance producer that is a member
+			 of the Association.</text>
+										</subparagraph></paragraph><paragraph id="HFEAD3FB14CDC45C6A1EE84E6C345EF05"><enum>(2)</enum><header>States other than a home State</header><text>No State, other than the home State of a member of the Association, shall—</text>
+										<subparagraph id="HCCC857EC54A6421D9ACC3B2A4DD80798"><enum>(A)</enum><text>impose any licensing, personal or corporate qualifications, education, training, experience,
+			 residency, continuing education, or bonding requirement upon a member of
+			 the Association that is different from the criteria for membership in the
+			 Association or renewal of such membership;</text>
+										</subparagraph><subparagraph id="HEE94C3456DF9448FA9D4FB65DD7F3A72"><enum>(B)</enum><text>impose any requirement upon a member of the Association that it be licensed, registered, or
+			 otherwise qualified to do business or remain in good standing in the
+			 State, including any requirement that the insurance producer register as a
+			 foreign company with the secretary of state or equivalent State official;</text>
+										</subparagraph><subparagraph id="H6E63A4F56DAA47639F38D8347D0C809A"><enum>(C)</enum><text>require that a member of the Association submit to a criminal history record check as a condition
+			 of doing business in the State; or</text>
+										</subparagraph><subparagraph id="H6AA082F072CB4F498A4D804856058E05"><enum>(D)</enum><text>impose any licensing, registration, or appointment requirements upon a member of the Association,
+			 or require a member of the Association to be authorized to operate as an
+			 insurance producer, in order to sell, solicit, or negotiate insurance for
+			 commercial property and casualty risks to an insured with risks located in
+			 more than one State, if the member is licensed or otherwise authorized to
+			 operate in the State where the insured maintains its principal place of
+			 business and the contract of insurance insures risks located in that
+			 State.</text>
+										</subparagraph></paragraph><paragraph id="H3E4A0F97638041079E19297B19D35139"><enum>(3)</enum><header>Preservation of State disciplinary authority</header><text>Nothing in this section may be construed to prohibit a State from investigating and taking
+			 appropriate disciplinary action, including suspension or revocation of
+			 authority of an insurance producer to do business in a State, in
+			 accordance with State law and that is not inconsistent with the provisions
+			 of this section, against a member of the Association as a result of a
+			 complaint or for any alleged activity, regardless of whether the activity
+			 occurred before or after the insurance producer commenced doing business
+			 in the State pursuant to Association membership.</text>
+									</paragraph></subsection></section><section id="H0EE06D35F60A4FD9A676F4B56EC981ED"><enum>331.</enum><header>Coordination with Financial Industry Regulatory Authority</header><text display-inline="no-display-inline">The Association shall coordinate with the Financial Industry Regulatory Authority in order to ease
+			 any administrative burdens that fall on members of the Association that
+			 are subject to regulation by the Financial Industry Regulatory Authority,
+			 consistent with the requirements of this subtitle and the Federal
+			 securities laws.</text>
+							</section><section id="H752F9E6709FB4A778B187A1430923571"><enum>332.</enum><header>Right of action</header>
+								<subsection id="H4DC036FA84AE43719183406CD8CA9704"><enum>(a)</enum><header>Right of action</header><text>Any person aggrieved by a decision or action of the Association may, after reasonably exhausting
+			 available avenues for resolution within the Association, commence a civil
+			 action in an appropriate United States district court, and obtain all
+			 appropriate relief.</text>
+								</subsection><subsection id="HD58D203BA23A4F2DAB57F99C04230427"><enum>(b)</enum><header>Association interpretations</header><text>In any action under subsection (a), the court shall give appropriate weight to the interpretation
+			 of the Association of its bylaws and standards and this subtitle.</text>
+								</subsection></section><section id="H29C80F29C5DB4B0CA7D9B051146351FB"><enum>333.</enum><header>Federal funding prohibited</header><text display-inline="no-display-inline">The Association may not receive, accept, or borrow any amounts from the Federal Government to pay
+			 for, or reimburse, the Association for, the costs of establishing or
+			 operating the Association.</text>
+							</section><section id="HE998C552450D4AB797793AD28C012207"><enum>334.</enum><header>Definitions</header><text display-inline="no-display-inline">For purposes of this subtitle, the following definitions shall apply:</text>
+								<paragraph id="H54F8B38DD8FA4FA38315863085CD0D61"><enum>(1)</enum><header>Business entity</header><text>The term <term>business entity</term> means a corporation, association, partnership, limited liability company, limited liability
+			 partnership, or other legal entity.</text>
+								</paragraph><paragraph id="HC66DEE0BEDA24722BE953ACAC432C9D2"><enum>(2)</enum><header>Depository institution</header><text>The term <term>depository institution</term> has the meaning as in section 3 of the Federal Deposit Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1813">12 U.S.C. 1813</external-xref>).</text>
+								</paragraph><paragraph id="HF53DF2C25A594671BE108E6A116D4B67"><enum>(3)</enum><header>Home State</header><text>The term <term>home State</term> means the State in which the insurance producer maintains its principal place of residence or
+			 business and is licensed to act as an insurance producer.</text>
+								</paragraph><paragraph id="H0AE0D4356697469386AB246FF9F13AAF"><enum>(4)</enum><header>Insurance</header><text>The term <term>insurance</term> means any product, other than title insurance or bail bonds, defined or regulated as insurance by
+			 the appropriate State insurance regulatory authority.</text>
+								</paragraph><paragraph id="H9C86BC05B975441A8710F3F734AC82CA"><enum>(5)</enum><header>Insurance producer</header><text>The term <term>insurance producer</term> means any insurance agent or broker, excess or surplus lines broker or agent, insurance
+			 consultant, limited insurance representative, and any other individual or
+			 entity that sells, solicits, or negotiates policies of insurance or offers
+			 advice, counsel, opinions or services related to insurance.</text>
+								</paragraph><paragraph id="H876EA610E5FE4E149C76AB7E8E75843F"><enum>(6)</enum><header>Insurer</header><text>The term <term>insurer</term> has the meaning as in <external-xref legal-doc="usc" parsable-cite="usc/31/313">section 313(e)(2)(B)</external-xref> of title 31, United States Code.</text>
+								</paragraph><paragraph id="H4454977036E74C78BFD2885B32806E6F"><enum>(7)</enum><header>Principal place of business</header><text>The term <term>principal place of business</term> means the State in which an insurance producer maintains the headquarters of the insurance
+			 producer and, in the case of a business entity, where high-level officers
+			 of the entity direct, control, and coordinate the business activities of
+			 the business entity.</text>
+								</paragraph><paragraph id="H2B90D292282F4304B0DE30A9CC48ABEE"><enum>(8)</enum><header>Principal place of residence</header><text>The term <term>principal place of residence</term> means the State in which an insurance producer resides for the greatest number of days during a
+			 calendar year.</text>
+								</paragraph><paragraph id="HE4F791ABBAD3450ABA59DB366A9D20F0"><enum>(9)</enum><header>State</header><text>The term <term>State</term> includes any State, the District of Columbia, any territory of the United States, and Puerto Rico,
+			 Guam, American Samoa, the Trust Territory of the Pacific Islands, the
+			 Virgin Islands, and the Northern Mariana Islands.</text>
+								</paragraph><paragraph id="HB493F3D449944D6FAAEDDEC69E5A92C6"><enum>(10)</enum><header>State law</header>
+									<subparagraph id="H9FF82C3964A7482CBBF78A87F7430144"><enum>(A)</enum><header>In general</header><text>The term <term>State law</term> includes all laws, decisions, rules, regulations, or other State action having the effect of law,
+			 of any State.</text>
+									</subparagraph><subparagraph id="HB5AA74B32E7148BB8819A2BCD7D6527A"><enum>(B)</enum><header>Laws applicable in the District of Columbia</header><text>A law of the United States applicable only to or within the District of Columbia shall be treated
+			 as a State law rather than a law of the United States.</text></subparagraph></paragraph></section></subtitle><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="H5354B3535638488D8DE3380F15A12D88"><enum>(b)</enum><header>Technical amendment</header><text>The table of contents for the Gramm-Leach-Bliley Act is amended by striking the items relating to
+			 subtitle C of title III and inserting the following new items:</text>
+					<quoted-block display-inline="no-display-inline" id="H557B4B6861124974B5F476E986706B46" style="OLC">
+						<toc>
+							<toc-entry idref="H317C9042126446C4B3990413C1B6D2FA" level="subtitle">Subtitle C—National Association of Registered Agents and Brokers</toc-entry>
+							<toc-entry idref="HC0A81148167343E5835FE3D4F16D1DE4" level="section">Sec. 321. National Association of Registered Agents and Brokers.</toc-entry>
+							<toc-entry idref="H93B5FCFE9A6349E4A2FAA6BD66EA83DC" level="section">Sec. 322. Purpose.</toc-entry>
+							<toc-entry idref="HE1EF3DB55D394BA4BB2FC054F6A5CAC7" level="section">Sec. 323. Membership.</toc-entry>
+							<toc-entry idref="H8F69F29EDDB6484CBD2DCB319E5D3E45" level="section">Sec. 324. Board of directors.</toc-entry>
+							<toc-entry idref="H594902E9E1DD4BF7BF2D4C0CFE5DB6EF" level="section">Sec. 325. Bylaws, standards, and disciplinary actions.</toc-entry>
+							<toc-entry idref="H8A07A37698B04CC1B44052B5241A11BE" level="section">Sec. 326. Powers.</toc-entry>
+							<toc-entry idref="H91C07DEB81994241991540037E796E00" level="section">Sec. 327. Report by the Association.</toc-entry>
+							<toc-entry idref="H31F1C42849A047C9AF1F59C364CFC30E" level="section">Sec. 328. Liability of the Association and the Board members, officers, and employees of the
+			 Association.</toc-entry>
+							<toc-entry idref="HF75166D516BD475B85D5B6846ACF03CA" level="section">Sec. 329. Presidential oversight.</toc-entry>
+							<toc-entry idref="H957D3C126798452A856CFABA3A1673A6" level="section">Sec. 330. Relationship to State law.</toc-entry>
+							<toc-entry idref="H0EE06D35F60A4FD9A676F4B56EC981ED" level="section">Sec. 331. Coordination with financial industry regulatory authority.</toc-entry>
+							<toc-entry idref="H752F9E6709FB4A778B187A1430923571" level="section">Sec. 332. Right of action.</toc-entry>
+							<toc-entry level="section">Sec. 333. Federal funding prohibited.</toc-entry>
+							<toc-entry idref="HE998C552450D4AB797793AD28C012207" level="section">Sec. 334. Definitions.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection></section></title><title id="H6AB24192B0114B68A71AE6CC1A4703C4"><enum>III</enum><header>Business Risk Mitigation and Price Stabilization</header>
+			<section id="HCA5B0CD008A34BE894074CBC95233E25" section-type="subsequent-section"><enum>301.</enum><header>Short title</header><text display-inline="no-display-inline">This title may be cited as the <quote><short-title>Business Risk Mitigation and Price Stabilization Act of 2015</short-title></quote>.</text>
+			</section><section id="HED2A2A222AF04AA083EC1A69A74849C3"><enum>302.</enum><header>Margin requirements</header>
+				<subsection id="HBEF4206F1444450BAFFD0A291F43A2D9"><enum>(a)</enum><header>Commodity Exchange Act amendment</header><text display-inline="yes-display-inline">Section 4s(e) of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/6s">7 U.S.C. 6s(e)</external-xref>), as added by section 731 of the
+			 Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by
+			 adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H4C7B0939C6B54C39BF610E49B806591D" style="OLC">
+						<paragraph id="HB864939185D04EB5912E9312DD5EEE5B"><enum>(4)</enum><header>Applicability with respect to counterparties</header><text display-inline="yes-display-inline">The requirements of paragraphs (2)(A)(ii) and (2)(B)(ii), including the initial and variation
+			 margin requirements imposed by rules adopted pursuant to paragraphs
+			 (2)(A)(ii) and (2)(B)(ii), shall not apply to a swap in which a
+			 counterparty qualifies for an exception under section 2(h)(7)(A), or an
+			 exemption issued under section 4(c)(1) from the requirements of section
+			 2(h)(1)(A) for cooperative entities as defined in such exemption, or
+			 satisfies the criteria in section 2(h)(7)(D).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="H307BD51EC19240458B01A8743C56383E"><enum>(b)</enum><header>Securities Exchange Act amendment</header><text display-inline="yes-display-inline">Section 15F(e) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78o-10">15 U.S.C. 78o–10(e)</external-xref>), as added by section
+			 764(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act,
+			 is amended by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H33BC04F031E3478393F543F96A3A1E11" style="OLC">
+						<paragraph id="H41CE9F3E4DAD4176B39BC5117012C447"><enum>(4)</enum><header>Applicability with respect to counterparties</header><text display-inline="yes-display-inline">The requirements of paragraphs (2)(A)(ii) and (2)(B)(ii) shall not apply to a security-based swap
+			 in which a counterparty qualifies for an exception under section 3C(g)(1)
+			 or satisfies the criteria in section 3C(g)(4).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection></section><section display-inline="no-display-inline" id="HE658CDFFC95B48D4AEE909F9F84AB63B" section-type="subsequent-section"><enum>303.</enum><header>Implementation</header><text display-inline="no-display-inline">The amendments made by this title to the Commodity Exchange Act shall be implemented—</text>
+				<paragraph id="HF64BFD2FC3F145D1AB6A7F74D2B57F85"><enum>(1)</enum><text>without regard to—</text>
+					<subparagraph id="H961157E50CAB4022B31A145C18012CE9"><enum>(A)</enum><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/35">chapter 35</external-xref> of title 44, United States Code; and</text>
+					</subparagraph><subparagraph id="HD2417D4FE7AE407892249A91A025B7E8"><enum>(B)</enum><text>the notice and comment provisions of <external-xref legal-doc="usc" parsable-cite="usc/5/553">section 553</external-xref> of title 5, United States Code;</text>
+					</subparagraph></paragraph><paragraph id="H96ACC62466004BF7A1B3555485247A02"><enum>(2)</enum><text>through the promulgation of an interim final rule, pursuant to which public comment will be sought
+			 before a final rule is issued; and</text>
+				</paragraph><paragraph id="H56FF13BF1F2B450283A76A8C2CE53569"><enum>(3)</enum><text>such that paragraph (1) shall apply solely to changes to rules and regulations, or proposed rules
+			 and regulations, that are limited to and directly a consequence of such
+			 amendments.</text>
+				</paragraph></section></title></legis-body>
+	<attestation><attestation-group><attestation-date chamber="House" date="20150107">Passed the House of Representatives January 7, 2015.</attestation-date><attestor display="yes">Karen L. Haas,</attestor><role>Clerk</role></attestation-group></attestation>
+</bill>
+
+

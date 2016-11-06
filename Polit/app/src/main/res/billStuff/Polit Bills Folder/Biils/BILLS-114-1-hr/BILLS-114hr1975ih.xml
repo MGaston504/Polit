@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H3BCC687BCD0849D49FCBF325DE1104B7" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1975 IH: Securities and Exchange Commission Overpayment Credit Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1975</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150422">April 22, 2015</action-date>
+			<action-desc><sponsor name-id="M001137">Mr. Meeks</sponsor> (for himself, <cosponsor name-id="H001059">Mr. Hultgren</cosponsor>, <cosponsor name-id="F000454">Mr. Foster</cosponsor>, and <cosponsor name-id="M000087">Mrs. Carolyn B. Maloney of New York</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Securities Exchange Act of 1934 to require the Securities Exchange Commission to
+			 refund or credit excess payments made to the Commission.</official-title>
+	</form>
+	<legis-body id="H4220643DD7814662BBC40E05B7134E83" style="OLC">
+ <section id="idAC589F1CBFDE40CA948F8D774D0BA871" section-type="section-one"><enum>1.</enum><header>Short Title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Securities and Exchange Commission Overpayment Credit Act</short-title></quote>.</text> </section><section id="H3D504249CCF24A14955C37EE713915C4" section-type="subsequent-section"><enum>2.</enum><header>Refunding or crediting overpayment of section 31 fees</header> <subsection id="H92FA7638A85349169D0C0B7715D756F4"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 31 of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78ee">15 U.S.C. 78ee</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H30F65FB1750E4F828FB636533CAED466" style="OLC">
+ <subsection id="HA4521D034B38409184CC8BF271AAADC9"><enum>(n)</enum><header>Overpayment</header><text display-inline="yes-display-inline">If a national securities exchange or national securities association pays to the Commission an amount in excess of fees and assessments due under this section and informs the Commission of such amount paid in excess within 10 years of the date of the payment, the Commission shall offset future fees and assessments due by such exchange or association in an amount equal to such excess amount.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H29CC8BDF11B94FBCA6C20D231A6AE4F6"><enum>(b)</enum><header>Applicability</header><text>The amendment made by this section shall apply to any fees and assessments paid before, on, or after the date of enactment of this section.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

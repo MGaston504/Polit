@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5166A568E91B4F1FA9FF6731955061FB" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3151 IH: Arrest Statistics Reporting Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3151</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150722">July 22, 2015</action-date>
+			<action-desc><sponsor name-id="B001274">Mr. Brooks of Alabama</sponsor> (for himself, <cosponsor name-id="J000290">Ms. Jenkins of Kansas</cosponsor>, <cosponsor name-id="F000460">Mr. Farenthold</cosponsor>, and <cosponsor name-id="S000583">Mr. Smith of Texas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require the Director of U.S. Immigration and Customs Enforcement to submit annual reports
+			 regarding certain demographic information on aliens arrested.</official-title>
+	</form>
+	<legis-body id="H9F7CCD48F41F4FBE93670CEE9E7C9913" style="OLC">
+ <section id="HA203B245C286462480911E4ADF3CEA9D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Arrest Statistics Reporting Act of 2015</short-title></quote>.</text> </section><section id="H9C9874A884B041F8B7143335EB741034"><enum>2.</enum><header>Reporting of information on arrestees</header><text display-inline="no-display-inline">The Director of U.S. Immigration and Customs Enforcement shall, beginning on the date that is 1 year after the date of enactment of this Act, and annually thereafter, publish and make publicly available on the Internet a report that includes, for each person arrested during the year preceding the date of the report and regarding whom a request was submitted to the Law Enforcement Support Center authorized under section 236(d) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1226">8 U.S.C. 1226(d)</external-xref>) or any potential matches forwarded under the information sharing program between the Department of Justice and the Department of Homeland Security (formerly known as <quote>Secure Communities</quote>), the following information, when available:</text>
+ <paragraph id="H88C738F9487544A7B080744A4481AA48"><enum>(1)</enum><text display-inline="yes-display-inline">The immigration status of the person.</text> </paragraph><paragraph id="HBCAF6B81DDB8404694996CDC463F2C7A"><enum>(2)</enum><text>The nationality of the person.</text>
+ </paragraph><paragraph id="H09558DBDAEEB4107979496FF3973F90B"><enum>(3)</enum><text display-inline="yes-display-inline">The offense for which the person was arrested, represented by the appropriate National Crime Information Center offense code.</text>
+ </paragraph></section><section id="H6E0C19591D8343CABAC0733D3D69F3C5"><enum>3.</enum><header>Reporting by FBI Director</header><text display-inline="no-display-inline">The Director of the Federal Bureau of Investigation shall revise the Uniform Crime Reports to require that each report pertaining to an arrest shall include the information about the arrest published under section 2, and the Director shall also publish a summary of the data which shall include—</text>
+ <paragraph id="H4F265FBF7E244F2AB577326AF0522249"><enum>(1)</enum><text display-inline="yes-display-inline">a table containing the National Crime Information Center offense codes and the corresponding occurrences for each immigration status category; and</text>
+ </paragraph><paragraph id="H1DFEBD4D756B46598C54DA8990E8F69B"><enum>(2)</enum><text display-inline="yes-display-inline">a table containing the National Crime Information Center offense codes and the corresponding occurrences for each nationality.</text>
+ </paragraph></section><section id="HFF938E702BBA46AE96302D2B68B2EAFC"><enum>4.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> <paragraph id="H3B00630C1948475096F0D672AF713E20"><enum>(1)</enum><text>The term <quote>immigration status</quote> includes status as—</text>
+ <subparagraph display-inline="no-display-inline" id="H02D2322CC0DD4663A3FAD6A7C308E0B3"><enum>(A)</enum><text>a United States citizen or national;</text> </subparagraph><subparagraph display-inline="no-display-inline" id="HA0677DE0B231484297D21FA8DDE8DABE"><enum>(B)</enum><text>a lawful permanent resident of the United States;</text>
+ </subparagraph><subparagraph display-inline="no-display-inline" id="HB6C749F368684C3BAD6956C4AD2B0E68"><enum>(C)</enum><text>a nonimmigrant alien lawfully present in the United States; or</text> </subparagraph><subparagraph display-inline="no-display-inline" id="HBFA5137C400049019C6D07AC1C98CEB2"><enum>(D)</enum><text>an alien not lawfully present in the United States.</text>
+ </subparagraph></paragraph><paragraph id="HAC54D7B915D64793844EAD7064A41DE0"><enum>(2)</enum><text display-inline="yes-display-inline">The term <quote>Uniform Crime Reports</quote> means the reports authorized under section 534 of title 28, United States Code, and administered by the Federal Bureau of Investigation which compiles nationwide criminal statistics for use in law enforcement administration, operation, and management and to assess the nature and type of crime in the United States.</text>
+			</paragraph></section></legis-body>
+</bill>
+
+

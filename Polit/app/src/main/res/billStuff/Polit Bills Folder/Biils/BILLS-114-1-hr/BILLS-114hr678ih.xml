@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5DD4D00C65FE447180DE925918ACBE45" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 678 IH: 21st Century Classroom Innovation Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 678</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150203">February 3, 2015</action-date>
+			<action-desc><sponsor name-id="M001159">Mrs. McMorris Rodgers</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To promote the use of blended learning in classrooms across America.</official-title>
+	</form>
+	<legis-body id="HC626CC2AB3FE4ED881BF7F3487659113" style="OLC">
+ <section id="HB69E79CBECF943F49B85E34A86D6CBD4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>21st Century Classroom Innovation Act</short-title></quote>.</text> </section><section id="H21160300BF614DCDBD63A7CE666DAC56"><enum>2.</enum><header>References</header><text display-inline="no-display-inline">Except as otherwise expressly provided, whenever in this Act an amendment is expressed in terms of an amendment to a section or other provision, the reference shall be considered to be made to a section or other provision of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/6301">20 U.S.C. 6301 et seq.</external-xref>).</text>
+		</section><section id="H7165A3B3481E4E609BA5F720D07E3303"><enum>3.</enum><header>Encouraging State and local blended learning projects</header>
+ <subsection id="H479AA00B9A5D409BA19F4AF7C73B1F17"><enum>(a)</enum><header>State applications</header><text>Section 2112(b) (<external-xref legal-doc="usc" parsable-cite="usc/20/6612">20 U.S.C. 6612(b)</external-xref>) is amended by inserting at the end the following:</text> <quoted-block id="HF2448A24B1134DE1970FA0C54B08FF27" style="OLC"> <paragraph id="H62CBA8AC0CFF4BC3BE0E24A6B6CF52CC"><enum>(13)</enum><text>In the case of a State that will carry out a program to award grants under section 2121(b), a description of the program, which shall include—</text>
+ <subparagraph id="H3BA405867C884BDEA591FC9D708C6AA6"><enum>(A)</enum><text>the criteria the State will use to award grants under such section to eligible entities to carry out blended learning projects;</text>
+ </subparagraph><subparagraph id="HD99BFF4A0CA2449E87685A3A9AAC4860"><enum>(B)</enum><text>the State policies and procedures to be waived by the State, consistent with Federal law, for such eligible entities to carry out such projects, which may include waivers with respect to—</text>
+ <clause id="H53163462A74847F686A92E298612ED9D"><enum>(i)</enum><text>restrictions on class sizes;</text> </clause><clause id="H5A17F30B43254C689AA5ED060E6AD027"><enum>(ii)</enum><text>restrictions on licensing or credentialing of personnel supervising student work in such projects;</text>
+ </clause><clause id="H64B865AAB412414AB9AB7EA8B3D0C97B"><enum>(iii)</enum><text>restrictions on the use of State funding for instructional materials for the purchase of digital instructional resources;</text>
+ </clause><clause id="H435653138EC4463D933FE0C63DF01283"><enum>(iv)</enum><text display-inline="yes-display-inline">restrictions on advancing students based on demonstrated mastery of learning outcomes, rather than seat-time requirements; and</text>
+ </clause><clause id="HA2B76A9497B24D89BB6D8CBC8182D261"><enum>(v)</enum><text>restrictions on secondary school students in the State enrolling in online coursework;</text> </clause></subparagraph><subparagraph id="HA5A1ABFBC2644F76941A2CDAF910ACED"><enum>(C)</enum><text>how the State will inform eligible entities of the availability of the waivers described in subparagraph (B); and</text>
+ </subparagraph><subparagraph id="HAF7AF6BF34214743B88A3625A6D72142"><enum>(D)</enum><text>how the State will provide the non-Federal match required under section 2121(b)(2)(D).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="H9EA25B5238A7484D89ACBC69708DE477"><enum>(b)</enum><header>Reservation of subgrant funds for blended learning</header><text>Section 2121 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/6621">20 U.S.C. 6621</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HE4079C3145664A11B66A54C1D6E9DD84" style="OLC">
+					<subsection id="H44655D1439B84A1CB013173E263BCE42"><enum>(b)</enum><header>Reservation for blended learning</header>
+ <paragraph id="H7375F4D0A8EB4A0EA9F0F88DAE73DABF"><enum>(1)</enum><header>In general</header><text>Notwithstanding any other provision of this part, a State that receives a grant under subpart 1 may reserve not more than 5 percent of the amount reserved to carry out this part under section 2113(a)(1) to make grants to local educational agencies to enable the agencies to carry out blended learning projects described in paragraph (2).</text>
+						</paragraph><paragraph id="H9E42B17A52904720AA85EB203F2789BD"><enum>(2)</enum><header>Blended learning projects</header>
+							<subparagraph id="H1F8E10A5081E41F7BCB65182E361A25F"><enum>(A)</enum><header>In general</header>
+ <clause id="H4239C370FEDD4246BF766416CFD8968A"><enum>(i)</enum><header>In general</header><text>The State educational agency may use the funds described in paragraph (1) to carry out a program to award grants on a competitive basis to eligible entities in the State to carry out blended learning projects described in this paragraph.</text>
+ </clause><clause commented="no" id="H7892EFAB67CE47429512F452DB8F2D9B"><enum>(ii)</enum><header>Reservation for rural areas</header><text>In awarding grants under this paragraph, a State educational agency shall reserve 5 percent of the funds available to carry out this paragraph for eligible entities that will serve rural areas.</text>
+ </clause></subparagraph><subparagraph id="H8F4119A017744B509A5486295AE3B68A"><enum>(B)</enum><header>Application</header><text>An eligible entity desiring to receive a grant under this paragraph shall submit an application to the State educational agency at such time and in such manner as the agency may require, and which describes—</text>
+ <clause id="HA0C67710789C490A9E7F9F7946DEF5B9"><enum>(i)</enum><text display-inline="yes-display-inline">the blended learning project to be carried out by the eligible entity, including the design of the instructional model to be carried out by the eligible entity and how such eligible entity will use funds provided under this paragraph to carry out the project;</text>
+ </clause><clause id="H340D6759DE2E4C9BBAE5291B2F895062"><enum>(ii)</enum><text>in the case of an eligible entity described in subclause (I) or (III) of subparagraph (E)(iii), the schools that will participate in the project;</text>
+ </clause><clause id="H8678ACA098E04F1DAC02DF11077E7625"><enum>(iii)</enum><text>the expected impact on student academic achievement;</text> </clause><clause id="HE4B829A76E8D44308243732E1D9250F1"><enum>(iv)</enum><text>how the eligible entity will ensure sufficient information technology is available to carry out the project;</text>
+ </clause><clause id="H01F35C0E306F446288BD1BDED123D80D"><enum>(v)</enum><text>how the eligible entity will ensure sufficient digital instructional resources are available to students participating in the project;</text>
+ </clause><clause id="H1638A28B29C44BD689A90E5E724AD7D8"><enum>(vi)</enum><text>the ongoing professional development to be provided for teachers, school leaders, and other personnel carrying out the project;</text>
+ </clause><clause id="H1875238F7783456EB6760F5558B153EB"><enum>(vii)</enum><text>the State policies and procedures for which the eligible entity requests waivers from the State to carry out the project, which may include requests for the waivers described in section 2112(b)(13)(B);</text>
+ </clause><clause id="H0015A32A481F4EF7AFB09E645E23B3C4"><enum>(viii)</enum><text>as appropriate, how the eligible entity will use the blended learning project to improve instruction and access to the curriculum for diverse groups of students, including students with disabilities and students who are limited English proficient;</text>
+ </clause><clause id="H3EF2949D14994DECA7DC5981589078C8"><enum>(ix)</enum><text>how the eligible entity will evaluate the project in terms of student academic achievement and publicly report the results of such evaluation; and</text>
+ </clause><clause id="HFFF3B68196854044B3846E3E8B03CD2D"><enum>(x)</enum><text>how the eligible entity will sustain the project beyond the grant period.</text> </clause></subparagraph><subparagraph id="H6169602D989B46EA812D6FE4F1C8EAC0"><enum>(C)</enum><header>Uses of funds</header><text>An eligible entity receiving a grant under this paragraph shall use such grant to carry out a blended learning project, which shall include at least 1 of the following activities:</text>
+ <clause id="HFCA86CEE696141E7B34A2B20768D7ED2"><enum>(i)</enum><text display-inline="yes-display-inline">Planning activities, which may include development of new instructional models (including blended learning technology software and platforms), the purchase of digital instructional resources, initial professional development activities, and one-time information technology purchases, except that such expenditures may not include expenditures related to significant construction or renovation of facilities.</text>
+ </clause><clause id="H4965D463D2AD48FD84115DBA8F6289E8"><enum>(ii)</enum><text>Ongoing professional development for teachers, school leaders, or other personnel involved in the project that is designed to support the implementation and academic success of the project.</text>
+ </clause></subparagraph><subparagraph id="H888E2B477E2C4B4999F7457641D3A7D7"><enum>(D)</enum><header>Non-federal match</header><text>A State educational agency that carries out a grant program under this paragraph shall provide non-Federal matching funds equal to not less than 10 percent of the grant funds awarded by the State educational agency to eligible entities under this paragraph.</text>
+ </subparagraph><subparagraph id="H41E5B1B0772B4A1081AED2DACD5C77C7"><enum>(E)</enum><header>Definitions</header><text>In this paragraph:</text> <clause id="H723FEA5AA96245CC83BEEDD2948B850D"><enum>(i)</enum><header>Blended learning project</header><text>The term <term>blended learning project</term> means a formal education program—</text>
+ <subclause id="H6F0A752DCC6F40F4991AC1FA254CD172"><enum>(I)</enum><text>that includes an element of online learning, and instructional time in a supervised location away from home;</text>
+ </subclause><subclause id="HE5543DE01C8B445886A44C089D3ABEEE"><enum>(II)</enum><text>that includes an element of student control over time, path, or pace; and</text> </subclause><subclause id="HF739345957F740918582311E6FE476BC"><enum>(III)</enum><text>in which the elements are connected to provide an integrated learning experience.</text>
+ </subclause></clause><clause commented="no" id="HEE3ACD9B4D19400DBA6677173192C4F1"><enum>(ii)</enum><header>Charter school</header><text>The term <term>charter school</term> has the meaning given the term in section 5210.</text> </clause><clause id="HCBB63FEEFC584A06B87C59CE70C493EF"><enum>(iii)</enum><header>Eligible entity</header><text>The term <term>eligible entity</term> means a—</text>
+ <subclause id="H482B02EB69544898B32E707D15A86E86"><enum>(I)</enum><text>local educational agency;</text> </subclause><subclause id="H9E68253F4542468AA28529B8D09F5DC9"><enum>(II)</enum><text>charter school; or</text>
+ </subclause><subclause id="HFB4F39EF1E834278865D4AAA9F6B0451"><enum>(III)</enum><text>consortium of the entities described in subclause (I) or (II), which may be in partnership with a for-profit or nonprofit entity.</text></subclause></clause></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

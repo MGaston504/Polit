@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5162E464C3E4419BBA7631BC3F97AC86" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1856 IH: Employee Benefits Protection Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1856</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150416">April 16, 2015</action-date>
+			<action-desc><sponsor name-id="S000480">Ms. Slaughter</sponsor> (for herself and <cosponsor name-id="J000255">Mr. Jones</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Employee Retirement Income Security Act of 1974 and the National Labor Relations Act
+			 to protect the health benefits of retirees, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H6BC9962361B64D3CA8785E9AD28BA334" style="OLC">
+ <section id="H6F8F98001B5849A6A2094754DB9DAF3C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Employee Benefits Protection Act of 2015</short-title></quote>.</text> </section><section id="H413A4C62A8854432A5BA02446069ED7B"><enum>2.</enum><header>Notification of extent to which health benefits can be modified or terminated</header> <subsection id="HC75B174F6D014D6ABE3D7B2980033A2D"><enum>(a)</enum><header>Inclusion in summary plan description</header><text>Section 102(b) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1022">29 U.S.C. 1022</external-xref>) is amended by inserting <quote>; in the case of a group health plan (as so defined), whether the provisions of the plan permit the plan sponsor or any employer participating in the plan to unilaterally modify or terminate the benefits under the plan with respect to employees, retired employees, and beneficiaries, and when and to what extent benefits under the plan are fully vested with respect to employees, retired employees, and beneficiaries</quote> after <quote>the name and address of such issuer</quote>.</text>
+ </subsection><subsection id="H12F99002D0174B37993145986EB8447D"><enum>(b)</enum><header>Presumption that retired employee health benefits cannot be modified or terminated</header><text>Section 502 of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1132">29 U.S.C. 1132</external-xref>) is amended by adding at the end the following new subsection:</text>
+				<quoted-block act-name="" id="H1AB7A3EBF4EF45A5B8088532028B923C" style="OLC">
+ <subsection id="H04422633851249A693DE8E996EC435E4"><enum>(n)</enum><text>In the case of a suit brought under this title by a participant or beneficiary relating to benefits of a retired employee or the dependents of a retired employee under a group health plan (as defined in section 733(a)(1)), the presumption for purposes of such suit shall be that as of the date an employee retires or completes 20 years of service with the employer, benefits available under the plan during retirement of the employee are fully vested and cannot be modified or terminated for the life of the employee or, if longer, the life of the employee's spouse. This presumption can be overcome only upon a showing, by clear and convincing evidence, that the terms of the group health plan allow for a modification or termination of benefits available under the plan and that the employee, prior to becoming a participant in the plan, was made aware, in clear and unambiguous terms, that the plan allowed for such modification or termination of benefits.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection></section><section id="H6BF248EEB3804BC5BB02E97BE35F46BD"><enum>3.</enum><header>Protection of retirees under certain collectively bargained agreements</header><text display-inline="no-display-inline">Section 8 of the National Labor Relations Act (<external-xref legal-doc="usc" parsable-cite="usc/29/158">29 U.S.C. 158</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H3AC77A0EB62F48298A8BFCE455037051" style="OLC">
+ <subsection id="HB5E456391AF348A5AFAAC43F11995444"><enum>(h)</enum><text>It shall be an unfair labor practice for any labor organization and any employer to enter into any contract or agreement, express or implied, whereby the organization and employer agree to modify the terms of any previous agreement in a manner that would result in a reduction or termination of retiree health insurance benefits provided to an employee or a dependent of an employee under the previous agreement, if such modification of the terms of the previous agreement occurs after the date on which the employee retires.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="H012F94C9B07541C98F4EBFA85AF47DF6"><enum>4.</enum><header>Comptroller General report</header>
+ <subsection id="H7C9D17EE9EEB4C86BC102F78227F3BFD"><enum>(a)</enum><header>In general</header><text>Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the strategies that corporations use to avoid obligations to pay promised employee and retiree benefits.</text>
+ </subsection><subsection id="H268741DAEF3C4C84861498A0AC885104"><enum>(b)</enum><header>Contents</header><text>The report under subsection (a) shall include a discussion of—</text> <paragraph id="HC4386D4C50634FDCB0AB3547B0639754"><enum>(1)</enum><text>the use of spin-offs, mergers, subsidiaries, bankruptcies, asset sales, and other strategies to avoid obligations to pay promised employee and retiree benefits;</text>
+ </paragraph><paragraph id="H5B051D30F45844E9B734245E53845985"><enum>(2)</enum><text>the impact of such avoidance on the financial, physical, and mental well-being of employees and retirees;</text>
+ </paragraph><paragraph id="H9FB26620228E4D50AEF88E126A89B4DC"><enum>(3)</enum><text>the impact on Federal and State budgets when employers terminate or reduce the benefits of employees and retirees, including the costs that are incurred when employees and retirees seek assistance from Federal and State government programs and services as a result of the termination or reduction of their employment-related benefits; and</text>
+ </paragraph><paragraph id="H553498ABE6054C839AC0E20FBCFA9916"><enum>(4)</enum><text>recommendations to prevent corporations from evading contractual obligations to pay employee and retiree benefits.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

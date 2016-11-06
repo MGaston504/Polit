@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1472 IS: Broadband Adoption Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-06-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 1472</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150601">June 1, 2015</action-date><action-desc><sponsor name-id="S364">Mr. Murphy</sponsor> (for himself, <cosponsor name-id="S370">Mr. Booker</cosponsor>, <cosponsor name-id="S247">Mr. Wyden</cosponsor>, <cosponsor name-id="S369">Mr. Markey</cosponsor>, <cosponsor name-id="S366">Ms. Warren</cosponsor>, and <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Communications Act of 1934 to reform and modernize the Universal Service Fund Lifeline
+			 Assistance Program.</official-title></form>
+	<legis-body id="HD65572E8F42E449BA1D7C3AAF59DD2B1" style="OLC">
+ <section id="H9547D996900449048456EE8CF1651281" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Broadband Adoption Act of 2015</short-title></quote>.</text>
+		</section><section id="H2A06225D3DB84332BE9D54E763BFC62E" section-type="subsequent-section"><enum>2.</enum><header>Broadband Lifeline
+ Assistance Program</header><text display-inline="no-display-inline">Section 254(j) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/254">47 U.S.C. 254(j)</external-xref>) is amended to read as follows:</text>
+			<quoted-block display-inline="no-display-inline" id="id81208B9E77774D70ADBB0F6C54CFAE12" style="OLC">
+				<subsection id="idC4F2937F3D884A31BD3263BCF0578E22"><enum>(j)</enum><header>Lifeline Assistance</header>
+ <paragraph id="idD6862CD152BB43DB8F55CB4F898CA2DA"><enum>(1)</enum><header>In general</header><text>Nothing in this section, other than paragraph (2) of this subsection, shall affect the collection, distribution, or administration of the Lifeline program of the Commission set forth under sections 54.400 through 54.417 of title 47, Code of Federal Regulations, or any successor thereto.</text>
+					</paragraph><paragraph id="idB2A63E1D86D04619918F4FEAFE75C5EA"><enum>(2)</enum><header>Broadband Lifeline Assistance Program</header>
+ <subparagraph id="H6B45792662784510986460592F61D05E"><enum>(A)</enum><header>Definitions</header><text>In this paragraph—</text> <clause id="id91A25F13D54E4FEC851DFF28BAA6B6D4"><enum>(i)</enum><text>the term <term>broadband Internet access service</term> has the meaning given that term under section 8.11(a) of title 47, Code of Federal Regulations, or any successor thereto;</text>
+ </clause><clause id="id5F531765285142B9B1009B31F03E88A2"><enum>(ii)</enum><text>the terms <term>duplicative support</term> and <term>qualifying low-income consumer</term> have the meanings given those terms in section 54.400 of title 47, Code of Federal Regulations, or any successor thereto;</text>
+ </clause><clause id="idD0B9A0C00890438596A9F189E1780D1B"><enum>(iii)</enum><text>the term <term>Lifeline program</term> means the Lifeline program of the Commission set forth under sections 54.400 through 54.417 of title 47, Code of Federal Regulations, or any successor thereto; and</text>
+ </clause><clause id="idEF36C6F7DB44426ABDA08FB59D945870"><enum>(iv)</enum><text>the term <term>participating broadband Internet service provider</term> means a provider of broadband Internet access service that elects to participate in the Lifeline program to provide broadband Internet access service to qualifying low-income consumers under the final rule adopted under subparagraph (C)(i).</text>
+ </clause></subparagraph><subparagraph id="idEDE8BE6EE8304128BD307630057596E1"><enum>(B)</enum><header>Purpose</header><text display-inline="yes-display-inline">The purpose of this paragraph is to promote the adoption of broadband Internet access service by all people of the United States while recognizing that the price of broadband Internet access service is one of the barriers to adoption for low-income households.</text>
+						</subparagraph><subparagraph id="H49C67266B4E44CFEB575E93E7F61667A"><enum>(C)</enum><header>Establishment</header>
+							<clause id="HDDB8368E6B404BC587FADB16BCB1C6E5"><enum>(i)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Not later than 270 days after the date of enactment of the <short-title>Broadband Adoption Act of 2015</short-title>, the Commission shall adopt a final rule establishing Lifeline support under the Lifeline program for broadband Internet access service to enable qualifying low-income consumers in urban and rural areas to purchase broadband Internet access service at reduced charges by reimbursing participating broadband Internet access service providers for each such consumer served.</text>
+ </clause><clause id="HB3DD469B6AFF4FCBA4FFD3C001B61BE6"><enum>(ii)</enum><header>Model</header><text>The final rule adopted under clause (i) shall provide that a qualifying low-income consumer may elect to apply Lifeline support under the Lifeline program to basic telephone service, voice telephony service, or broadband Internet access service, regardless of whether the service is purchased as a stand-alone service or as part of a bundle of services.</text>
+							</clause><clause id="HD469998383944D9086B40B701E54012D"><enum>(iii)</enum><header>Digital
+ literacy program</header><text>The Commission shall consider providing a preference to a participating broadband Internet access service provider that includes components involving digital literacy programs as part of the offerings of the participating broadband Internet access service provider.</text>
+							</clause></subparagraph><subparagraph commented="no" id="H7A24939CD5424B318D93F3EDCADBFCA1"><enum>(D)</enum><header>State
+ funds</header><text display-inline="yes-display-inline">The Commission shall consult with the Federal-State Joint Board instituted under subsection (a)(1) regarding ways to encourage States to develop programs that would work in conjunction with the Lifeline program.</text>
+						</subparagraph><subparagraph id="HA52B670E3C414E348B1353B17D934736"><enum>(E)</enum><header>Amount of
+				support</header>
+							<clause id="H4B643898FAF9426E88B661BE88B1AB9E"><enum>(i)</enum><header>In
+ general</header><text>In calculating the amount of Lifeline support to be provided to each qualifying low-income consumer under the final rule adopted under subparagraph (C)(i), the Commission shall routinely study—</text>
+ <subclause id="id095705E5DC554A8FAFBA59DA790E1E79"><enum>(I)</enum><text>the prevailing market price for broadband Internet access service;</text>
+ </subclause><subclause id="id59A0624E7C874C01992B79CEB102CF48"><enum>(II)</enum><text>the prevailing speed of broadband Internet access service adopted by households; and</text>
+ </subclause><subclause id="id0EB09B5CDF644BB9B0A67C988CE2ED38"><enum>(III)</enum><text>the prevailing broadband usage patterns of non-Lifeline eligible residential consumers.</text> </subclause></clause><clause id="H9E7CCDE61D434B46A658A0EBF531E3CB"><enum>(ii)</enum><header>Information</header><text>In carrying out clause (i), the Commission shall rely on information that—</text>
+ <subclause id="id7FBBF3A6AC90483998C908C7CE6E6B2B"><enum>(I)</enum><text>the Commission routinely collects; or</text> </subclause><subclause id="id8397D712C15B42D8AE90DA21725876D4"><enum>(II)</enum><text>is publicly available.</text>
+								</subclause></clause></subparagraph><subparagraph id="H9483F428ED114DBE9D840088A31E1B37"><enum>(F)</enum><header>Technology
+				neutral</header>
+							<clause id="HC4328837D5874A50B70261322BBE8677"><enum>(i)</enum><header>In
+ general</header><text>To promote competition from service providers to qualify under the Lifeline program, the Commission shall ensure that the final rule adopted under subparagraph (C)(i) is neutral as to the types of technology used to provide voice telephony or broadband Internet access service under the Lifeline program.</text>
+ </clause><clause id="HDE882625AD7B42C183BC009FC08EC7E3"><enum>(ii)</enum><header>Authorization</header><text>A participating broadband Internet access service provider—</text> <subclause id="id8FE430EC97B44F0A875C21CF65434527"><enum>(I)</enum><text>shall not be required to be an eligible telecommunications carrier (as designated under section 214(e)) to receive support under the Lifeline program; and</text>
+ </subclause><subclause id="id98428CCA7A894D2F906E8CEBFD9127DF"><enum>(II)</enum><text>shall obtain authorization from the Commission in order to participate in the Lifeline program.</text>
+								</subclause></clause></subparagraph><subparagraph id="HD0AC6D5A21C34EC9B0CC572C179A6426"><enum>(G)</enum><header>Accountability</header>
+ <clause commented="no" id="HC4017C611ECC4253AE4A0FE371841434"><enum>(i)</enum><header>Nonduplication</header><text>The final rule adopted under subparagraph (C)(i) shall incorporate regulations of the Commission in effect on the date of enactment of this Act that prevent the receipt of duplicative support under the Lifeline program.</text>
+							</clause><clause id="HFFF7C183FD394B579583BE4C4CB10B80"><enum>(ii)</enum><header>Preventing
+ waste, fraud, or abuse</header><text>In promulgating regulations to carry out this paragraph, the Commission shall consider any appropriate measures to prevent any waste, fraud, or abuse in the administration of the Lifeline program.</text>
+ </clause><clause id="HCD1DB4DEB95248848CBE6038F04A4267"><enum>(iii)</enum><header>Eligibility</header><text>The Commission, in consultation with other relevant Federal agencies, shall establish a national database to determine qualifying low-income consumer eligibility for Lifeline program subsidies.</text>
+ </clause></subparagraph><subparagraph id="id906038516CE043E5961DECFE1B4D5B16"><enum>(H)</enum><header>Evaluation reports</header><text>Not later than 1 year after the Commission adopts the final rule under subparagraph (C)(i), and every year thereafter, the Commission shall conduct an evaluation and issue a report on the performance of the Lifeline program during the 12-month period preceding the date on which each report is issued.</text>
+ </subparagraph><subparagraph id="idAFC127FA976645CCB015E1891732AB98"><enum>(I)</enum><header>GAO study</header><text>Not later than 1 year after the Commission adopts the final rule under subparagraph (C)(i), the Comptroller General of the United States shall conduct a study and issue a report on the performance of the Lifeline support provided under the Lifeline program for broadband Internet access service.</text>
+ </subparagraph></paragraph><paragraph id="idD15BED93CCDE451ABAF73287A32F2E9B"><enum>(3)</enum><header>Clarification of authority</header><text>Nothing in this section shall be construed to limit the authority of the Commission under any other provision of law, including the authority to promulgate regulations to promote the adoption of broadband service by low-income households in the United States.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill>
+
+

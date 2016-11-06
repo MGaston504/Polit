@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1504 IS: Mobility and Opportunity for Vulnerable Employees Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-06-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1504</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150604">June 4, 2015</action-date>
+			<action-desc><sponsor name-id="S364">Mr. Murphy</sponsor> (for himself and <cosponsor name-id="S332">Mr. Franken</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prohibit employers from requiring low-wage employees to enter into covenants not to compete, to
+			 require employers to notify potential employees of any requirement to
+			 enter into a covenant not to compete, and
+			 for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Mobility and Opportunity for Vulnerable Employees Act</short-title></quote> or the <short-title><quote><short-title>MOVE Act</short-title></quote></short-title>.</text>
+ </section><section id="id5C3FF5753B0C451A84C327AAED015398"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> <paragraph id="idDF0B2777E93049918941A0A534CE67B5"><enum>(1)</enum><header>Commerce</header><text>The term <term>commerce</term> has the meaning given such term in section 3 of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/203">29 U.S.C. 203</external-xref>).</text>
+ </paragraph><paragraph id="id07F8549CD54149048E06E71D2B4F1B9E"><enum>(2)</enum><header>Covenant not to compete</header><text>The term <term>covenant not to compete</term> means an agreement—</text> <subparagraph id="id6C1142ED46CF4E08AC4DB7D4BDEE52B2"><enum>(A)</enum><text>between an employee and employer that restricts such employee from performing—</text>
+ <clause id="id2236C9144E994DFCBF97AD6BE03ABC4F"><enum>(i)</enum><text>any work for another employer for a specified period of time;</text> </clause><clause id="id7DC3071A1C824BF88055D1D47BAE24CB"><enum>(ii)</enum><text>any work in a specified geographical area; or</text>
+ </clause><clause id="id9D9826AAE29546E49035721C9497A55E"><enum>(iii)</enum><text>work for another employer that is similar to such employee's work for the employer included as a party to the agreement; and</text>
+ </clause></subparagraph><subparagraph id="idE22295692BA44BC0B85738FC11131DEB"><enum>(B)</enum><text>that is entered into after the date of enactment of this Act.</text> </subparagraph></paragraph><paragraph id="id62C826BFC7724C3691A4C819443C365E"><enum>(3)</enum><header>Employee; employer; enterprise; enterprise engaged in commerce or in the production of goods for commerce; goods</header><text>The terms <term>employee</term>, <term>employer</term>, <term>enterprise</term>, <term>enterprise engaged in commerce or in the production of goods for commerce</term>, and <term>goods</term> have the meanings given such terms in section 3 of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/203">29 U.S.C. 203</external-xref>).</text>
+ </paragraph><paragraph id="id0CF34656B6AE4A8DBF95FFB672C87DDB"><enum>(4)</enum><header>Livable hourly rate</header><text>The term <term>livable hourly rate</term> means—</text> <subparagraph id="id0A79CF9B50E4404FBB412D06177C93F5"><enum>(A)</enum><text>for the fiscal year of the date of enactment of this Act, the greater of—</text>
+ <clause id="id858D40DC873F408192180D41E0B181BB"><enum>(i)</enum><text>$15 per hour; or</text> </clause><clause id="id8289785F5B0549BEAD86855B3EEFFB12"><enum>(ii)</enum><text>the hourly rate equal to the minimum wage required by the applicable State or local minimum wage law; and</text>
+ </clause></subparagraph><subparagraph id="idABB5FEEB554E42F5A494E6E414DF9375"><enum>(B)</enum><text>for each succeeding fiscal year, the greater of—</text> <clause id="idD06FD632A7CD424DB5A6E864D7CB2E5E"><enum>(i)</enum><text>the adjusted amount described in section 3(c); or</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="idFD4B3D5AA6334AB79F27C08C78A1C500"><enum>(ii)</enum><text>the hourly rate equal to the minimum wage required by the applicable State or local minimum wage law.</text>
+ </clause></subparagraph></paragraph><paragraph id="id71CF351BBCA54C16AE58DABC1CBFC494"><enum>(5)</enum><header>Low-wage employee</header><text>The term <term>low-wage employee</term>—</text> <subparagraph id="id171C1E9FA3C9497A8F04E01BC01ECB5F"><enum>(A)</enum><text>means an employee who, excluding any overtime compensation required under section 7 of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/207">29 U.S.C. 207</external-xref>) or under an applicable State law, receives from the applicable employer—</text>
+ <clause id="id6F68A2E623EE4EA9B8A7458DAAEDEC7E"><enum>(i)</enum><text>an hourly compensation that is less than the livable hourly rate; or</text> </clause><clause id="idC57C67EB6909476C97DFFBD56231BFCF"><enum>(ii)</enum><text>an annual compensation that is equal to or less than—</text>
+ <subclause id="id0A96E0A5F6354471A19D447E65FBA11A"><enum>(I)</enum><text>for the fiscal year of the date of enactment of this Act, $31,200 per year; and</text>
+ </subclause><subclause id="idE3E9C6006B6C40A2A1392F980538B887"><enum>(II)</enum><text>for each succeeding fiscal year, the adjusted amount described in section 3(c); and</text> </subclause></clause></subparagraph><subparagraph id="idBB5D9001F34A4B3D9A6164B0E223356A"><enum>(B)</enum><text>does not include any salaried employee who receives from the applicable employer compensation that, for 2 consecutive months, is greater than—</text>
+ <clause id="idC6CEEC10886E44EC95917F436C25AF59"><enum>(i)</enum><text>for the fiscal year of the date of enactment of this Act, $5,000; and</text> </clause><clause id="id28B99C7AA7864F25B5E5F774E34EC790"><enum>(ii)</enum><text>for each succeeding fiscal year, the adjusted amount described in such section.</text>
+ </clause></subparagraph></paragraph><paragraph id="idE0ECC941F99A4EE0A328A2DDA2FB45A1"><enum>(6)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of Labor.</text> </paragraph><paragraph id="idF3CA5D0193444A099C2EC8D064556640"><enum>(7)</enum><header>State</header><text>The term <term>State</term> has the meaning given such term in section 3 of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/203">29 U.S.C. 203</external-xref>).</text>
+			</paragraph></section><section id="id9C840EDB0F04474B8E2DD2D5E3D959DB"><enum>3.</enum><header>Prohibiting covenants not to compete for low-wage employees</header>
+ <subsection id="idD2C3AAD26A0C4AE188BAE27353A85E27"><enum>(a)</enum><header>In general</header><text>No employer shall enter into a covenant not to compete with any low-wage employee of such employer, who in any workweek is engaged in commerce or in the production of goods for commerce (or is employed in an enterprise engaged in commerce or in the production of goods for commerce).</text>
+			</subsection><subsection id="id1AB99E2B14844A5D94886A74D481458F"><enum>(b)</enum><header>Notice</header>
+ <text>An employer who employs any low-wage employee, who in any workweek is engaged in commerce or in the production of goods for commerce (or is employed in an enterprise engaged in commerce or in the production of goods for commerce), shall post notice of the provisions of this Act in a conspicuous place on the premises of such employer.</text>
+			</subsection><subsection id="idC74D1E2EE4FF4F9198AC978E8C8788C1"><enum>(c)</enum><header>Inflation adjustment</header>
+ <paragraph id="id83C2349307974F0C85CAB175579DAD36"><enum>(1)</enum><header>In general</header><text>For each fiscal year after the fiscal year of the date of enactment of this Act, the Secretary shall adjust each amount in effect under section 2(4)(B)(i), section 2(5)(A)(ii)(II), or section 2(5)(B)(ii) for inflation by increasing each such amount, as in effect for the preceding fiscal year, by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (United States city average, all items, not seasonally adjusted), or its successor publication, as determined by the Bureau of Labor Statistics.</text>
+ </paragraph><paragraph id="id87D3601969A749F7A9D0D65FB39E05D4"><enum>(2)</enum><header>Rounding amounts</header><text>The amounts adjusted under paragraph (1) shall be rounded to the nearest multiple of $0.05.</text> </paragraph></subsection></section><section id="idBA3772C068BA4EEC8AF5687F32128418"><enum>4.</enum><header>Disclosure requirement for covenants not to compete</header><text display-inline="no-display-inline">In order for an employer to require an employee, who in any workweek is engaged in commerce or in the production of goods for commerce (or is employed in an enterprise engaged in commerce or in the production of goods for commerce) and is not a low-wage employee, to enter into a covenant not to compete, the employer shall, prior to the employment of such employee and at the beginning of the process for hiring such employee, have disclosed to such employee the requirement for entering into such covenant.</text>
+		</section><section id="id1A81640E39EB4F7BA94A5765108676D2"><enum>5.</enum><header>Enforcement</header>
+ <subsection id="id5FF8006B25FE40FCAFD6C916F797F5C2"><enum>(a)</enum><header>In general</header><text>The Secretary shall receive, investigate, attempt to resolve, and enforce a complaint of a violation of section 3 or 4 in the same manner that the Secretary receives, investigates, and attempts to resolve a complaint of a violation of section 6 or 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 206 and 207), subject to subsection (b).</text>
+			</subsection><subsection id="id17D267FCAE01424A899623C9B374C6F7"><enum>(b)</enum><header>Civil fine</header>
+ <paragraph id="idB4234EC8771D4221903D4C75861029EC"><enum>(1)</enum><header>Maximum fine</header><text>The Secretary shall impose a civil fine—</text> <subparagraph id="id068A31C69CBF45EEAB2D376C0CBDCF73"><enum>(A)</enum><text>with respect to any employer who violates section 3(a) or 4, an amount not to exceed $5,000 for each employee who was the subject of such violation; and</text>
+ </subparagraph><subparagraph id="idE490295F54C942C39F0C427574B4A3DA"><enum>(B)</enum><text>with respect to any employer who violates section 3(b), an amount not to exceed $5,000.</text> </subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id82946E639C8F42C19BBAB909DD0C6435"><enum>(2)</enum><header>Consideration</header><text>In determining the amount of any civil fine under this subsection, the Secretary shall consider the appropriateness of the fine to the size of the employer subject to such fine and the gravity of the applicable violation.</text></paragraph></subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA7F765E41FBA4F7D919C8DFA4FF69F04" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1015 IH: Protecting Business Opportunities for Veterans Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1015</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150220">February 20, 2015</action-date>
+			<action-desc><sponsor name-id="H001057">Mr. Huelskamp</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to improve the oversight of contracts awarded by the
+			 Secretary of Veterans Affairs to small business concerns owned and
+			 controlled by veterans.</official-title>
+	</form>
+	<legis-body id="H303A53C5E79047B2B72A235DE1FD529D" style="OLC">
+ <section id="HE0644A7DB8964F37A05E80652C5B3D26" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Business Opportunities for Veterans Act of 2015</short-title></quote>.</text> </section><section id="H528B943DEFA944C6BFCE3035144B798B"><enum>2.</enum><header>Limitations on subcontracts under contracts with small business concerns owned and controlled by veterans</header> <subsection id="HD728884A5FEC4113A9337AA1C5499974"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 8127 of title 38, United States Code, is amended—</text>
+ <paragraph id="H892CDB8EE1AF43489F4EAE39BDB4ECA2"><enum>(1)</enum><text>by redesignating subsection (l) as subsection (m); and</text> </paragraph><paragraph id="HE25A19549E3644BA824CB1EE9B4B6D7C"><enum>(2)</enum><text>by inserting after subsection (k) the following new subsection (l):</text>
+					<quoted-block display-inline="no-display-inline" id="H18DCC28B2BEC4E72B43E7B9BF41B010C" style="USC">
+						<subsection id="HC75DA4C411D64D2C947E6891F38E6530"><enum>(l)</enum><header>Limitations on subcontracting</header>
+							<paragraph commented="no" display-inline="yes-display-inline" id="H42A8C4C23AD14518AF4B577AF7EA322A"><enum>(1)</enum>
+ <subparagraph commented="no" display-inline="yes-display-inline" id="HC73715675528420188E42256445B8D0D"><enum>(A)</enum><text>The requirements applicable to a covered small business concern under section 46 of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/657s">15 U.S.C. 657s</external-xref>) shall apply with respect to a small business concern owned and controlled by a veteran with a service-connected disability or a small business concern owned and controlled by a veteran that is awarded a contract that is counted for purposes of meeting the goals under subsection (a).</text>
+ </subparagraph><subparagraph id="H4E29525DED9F4073B75DCDFF1DC1B240" indent="up2"><enum>(B)</enum><text display-inline="yes-display-inline">For purposes of applying the requirements of section 46 of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/657s">15 U.S.C. 657s</external-xref>) pursuant to subparagraph (A), the term <term>similarly situated entity</term> used in such section 46 includes a subcontractor for a small business concern owned and controlled by a veteran with a service-connected disability or a small business concern owned and controlled by a veteran described in such subparagraph (A).</text>
+ </subparagraph></paragraph><paragraph id="HD8F0196BCC0645AFA6296CE2323596A2" indent="up1"><enum>(2)</enum><text>Before awarding a contract that is counted for purposes of meeting the goals under subsection (a), the Secretary shall obtain from an offeror a certification that the offeror will comply with the requirements described in paragraph (1)(A) if awarded the contract. Such certification shall—</text>
+ <subparagraph id="H0C4FE5D6F1A74A8E834395CD27F1B1D0"><enum>(A)</enum><text>specify the exact performance requirements applicable under such paragraph; and</text> </subparagraph><subparagraph id="HF686C27C9EDE4533B95E0AAB86D3AA76"><enum>(B)</enum><text>explicitly acknowledge that the certification is subject to section 1001 of title 18.</text>
+ </subparagraph></paragraph><paragraph id="H7C8155655707425AA52C4A6F37B01E05" indent="up1"><enum>(3)</enum><text>If the Secretary determines that a small business concern that is awarded a contract that is counted for purposes of meeting the goals under subsection (a) did not act in good faith with respect to the requirements described in paragraph (1)(A), the small business concern shall be subject to the penalties specified in—</text>
+ <subparagraph id="H51CDD2134C72438F9A485C1CC5E4A27F"><enum>(A)</enum><text display-inline="yes-display-inline">section 16(g)(1) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/645">15 U.S.C. 645(g)(1)</external-xref>); and</text> </subparagraph><subparagraph id="H76AAECFE483D4DC2868B5320B6FDFE31"><enum>(B)</enum><text>section 1001 of title 18.</text>
+								</subparagraph></paragraph><paragraph id="H144FB71B12CD424FB7496E991208E1D2" indent="up1"><enum>(4)</enum>
+ <subparagraph commented="no" display-inline="yes-display-inline" id="H27B6B533DAAD479B80C7F77284910AE0"><enum>(A)</enum><text>The Director of Small and Disadvantaged Business Utilization for the Department, established pursuant to section 15(k) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/644">15 U.S.C. 644(k)</external-xref>), and the Chief Acquisition Officer of the Department, established pursuant to section 1702 of title 41, shall jointly implement a process using the systems described in section 16(g)(2) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/645">15 U.S.C. 645(g)(2)</external-xref>), or any other systems available, to monitor compliance with this subsection. The Director and the Chief Acquisition Officer shall jointly refer any violations of this subsection to the Inspector General of the Department.</text>
+ </subparagraph><subparagraph id="HE53F90DB8D0648238C50A640DFEAD97E" indent="up1"><enum>(B)</enum><text display-inline="yes-display-inline">Not later than November 30 of each year, the Inspector General shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report for the fiscal year preceding the fiscal year during which the report is submitted that includes, for the fiscal year covered by the report—</text>
+ <clause id="H29C00A70926C4A9AAB79122E90E78AB5"><enum>(i)</enum><text>the number of referred violations received under subparagraph (A); and</text> </clause><clause id="HE6E587C549494E06A8B15B9930A264DC"><enum>(ii)</enum><text>the disposition of such referred violations, including the number of small business concerns suspended or debarred from Federal contracting or referred to the Attorney General for prosecution.</text></clause></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection commented="no" id="HEE924CB646A143CBB2B935FABD5E963C"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">Subsection (l) of section 8127 of title 38, United States Code, as added by subsection (a) shall apply with respect to a contract entered into after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

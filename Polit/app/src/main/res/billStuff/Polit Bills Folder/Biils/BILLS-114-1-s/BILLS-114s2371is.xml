@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2371 IS: Physician Shortage Minimization Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-12-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2371</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151208">December 8, 2015</action-date>
+			<action-desc><sponsor name-id="S305">Mr. Isakson</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to clarify the treatment of locum tenens physicians as
+			 independent contractors to help alleviate physician shortages in
+			 underserved areas.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Physician Shortage Minimization Act of 2015</short-title></quote>.</text>
+		</section><section id="id4c791732bdda434888c43908996bc935"><enum>2.</enum><header>Treatment of locum tenens physicians</header>
+ <subsection id="id2BAF7FF9FCE144248E48EE4E900D64FB"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/25">Chapter 25</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="id48F2C1A836D04070B902977C522E15AA" style="OLC">
+					<section id="id02E50DAA533A4523A6D78253641C279C"><enum>3512.</enum><header>Treatment of locum tenens physicians</header>
+ <subsection id="id74208946d80a4ccd9ee36724378bbc27"><enum>(a)</enum><header>General rule</header><text>For the purposes of the taxes and other obligations imposed by this title, in the case of services performed as a qualified locum tenens physician—</text>
+ <paragraph id="idfff5e9014f764c89b68767ec598fa2cc"><enum>(1)</enum><text>the individual performing such services shall not be treated as an employee,</text> </paragraph><paragraph id="idff711ac6a0b64843b62d350fb5519732"><enum>(2)</enum><text>neither the persons for whom such services are performed, nor any agency that contracts with a qualified locum tenens physician, shall be treated as an employer,</text>
+ </paragraph><paragraph id="id3a6b2af1d43a46358a9b457f399e72a4"><enum>(3)</enum><text>any payor shall not be treated as an employer, and</text> </paragraph><paragraph id="id2cb7ee31a2ee47269d9655fc5a6f1b06"><enum>(4)</enum><text>the remuneration paid or received for such service shall not be treated as paid or received with respect to employment.</text>
+ </paragraph></subsection><subsection id="idfa372d8ae67d45d6aa68848a98c06bb1"><enum>(b)</enum><header>Qualified locum tenens physician</header><text>For purposes of this section, the term <term>qualified locum tenens physician</term> means an individual if—</text> <paragraph commented="no" display-inline="no-display-inline" id="id59879672CA2F481BBF196E0381AF6DEB"><enum>(1)</enum><text display-inline="yes-display-inline">such individual provides temporary physician services as a locum tenens physician for a period of not more than one continuous year (determined pursuant to the provisions of section 162(a)) at a site of service,</text>
+ </paragraph><paragraph id="id4419241d8fac421fb16d624a09c2054d"><enum>(2)</enum><text>such individual is—</text> <subparagraph commented="no" id="id62409EB640174B29AB020FB5C834C4F4"><enum>(A)</enum><text>a doctor of medicine, osteopathy, dental surgery, or dental medicine legally authorized to practice medicine, surgery or dentistry in the State, territory, or possession in which the individual performs such services,</text>
+ </subparagraph><subparagraph commented="no" id="idA237F74A7BDF4683BCEF4AA993B73C21"><enum>(B)</enum><text>a doctor of podiatric medicine or doctor of optometry legally authorized to perform podiatric or optometry functions in the State, territory, or possession in which the individual performs such services, or</text>
+ </subparagraph><subparagraph commented="no" id="id59A47A811A934355BAA80A69E99D902C"><enum>(C)</enum><text>a physician, as defined in section 1861(r) of the Social Security Act Section (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x(r)</external-xref>) or section 8101(2) of title 5, United States Code, and</text>
+ </subparagraph></paragraph><paragraph id="id91be90383ae7440098acf7ddbb6efe00"><enum>(3)</enum><text>the services described in paragraph (1) performed by the individual are performed pursuant to a written contract and such contract provides that the individual will not be treated as an employee with respect to such services for purposes of this subtitle.</text>
+							</paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id1CEB1FD5774D47F9B249F3551BC08EE3"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections of chapter 25 of such Code is amended by adding at the end the following new item:</text>
+				<quoted-block id="idcd4b8bc2-0404-4885-a669-2e59d84df353" style="OLC"><toc><toc-entry idref="id02E50DAA533A4523A6D78253641C279C" level="section">Sec. 3512. Treatment of locum tenens physicians.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="idE0ED3F925C06410CBC7B7490C0022AB0"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to wages for services performed after the date of the enactment of this Act.</text></subsection></section></legis-body>
+</bill>
+
+

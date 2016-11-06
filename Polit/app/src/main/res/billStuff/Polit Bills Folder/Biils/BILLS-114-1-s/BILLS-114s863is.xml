@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S863 IS: Appalachian Regional Development Amendments Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-03-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 863</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150325">March 25, 2015</action-date>
+			<action-desc><sponsor name-id="S318">Mr. Wicker</sponsor> (for himself, <cosponsor name-id="S308">Mr. Cardin</cosponsor>, <cosponsor name-id="S372">Mrs. Capito</cosponsor>, and <cosponsor name-id="S331">Mrs. Gillibrand</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEV00">Committee on Environment and Public Works</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To reauthorize and improve the Appalachian regional development program, and for other purposes.</official-title>
+	</form>
+	<legis-body style="OLC">
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Appalachian Regional Development Amendments Act of 2015</short-title></quote>.</text>
+ </section><section id="id4FBB753C443A4215A368DEF2A1737EE3"><enum>2.</enum><header>Reauthorization of Appalachian regional development program</header><text display-inline="no-display-inline">Section 14703 of title 40, United States Code, is amended—</text> <paragraph id="id96116D63227D4724B9FF9A662AA43724"><enum>(1)</enum><text display-inline="yes-display-inline">by striking subsection (a) and inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idFA56599A23C34DE38AD64E034AD55706" style="OLC">
+ <subsection id="id11FC7FC0F7A743DE90BD32C7C72E91BB"><enum>(a)</enum><header>In general</header><text>In addition to amounts made available by section 14501 and any other amounts made available for the Appalachian development highway system program under any other provision of law, there are authorized to be appropriated to the Appalachian Regional Commission to carry out this subtitle $100,000,000 for fiscal years 2016 through 2020.</text></subsection><after-quoted-block>;</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="idB6188C75E2D044AFAD6CBABEDCBF3E4E"><enum>(2)</enum><text>by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and</text> </paragraph><paragraph id="id2A6613542CC8477B83A49FF32421C011"><enum>(3)</enum><text>by inserting after subsection (b) the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id48A25CA8B2084419A1F16C9883181D6C" style="OLC">
+ <subsection id="idBE5D7DF8E59D48DFA1D6D414630F52C9"><enum>(c)</enum><header>High-Speed broadband deployment initiative</header><text>Of the amounts made available under subsection (a), $10,000,000 shall be used to carry out section 14509.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="id53613D9FEB0141B087E2F9A2C7845543"><enum>3.</enum><header>High-speed broadband deployment initiative</header>
+ <subsection id="idD3F2666A79F2497DBCE074E4D8A56EBE"><enum>(a)</enum><header> In general</header><text>Subchapter I of chapter 145 of subtitle IV of title 40, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idB5579E5E4B81459DB726A44C8637C417" style="USC">
+					<section id="id52006620EBCC469CB8BDCF00A47367FD"><enum>14509.</enum><header>High-speed broadband deployment initiative</header>
+ <subsection id="id32FF556FCB4D494087B21490CACA0A1C"><enum>(a)</enum><header>In general</header><text>The Appalachian Regional Commission may provide technical assistance, make grants, enter into contracts, or otherwise provide amounts to persons or entities in the Appalachian region for projects and activities—</text>
+ <paragraph id="id29160009A74A4EC19569FD85483495B4"><enum>(1)</enum><text>to increase affordable access to broadband networks throughout the Appalachian region;</text> </paragraph><paragraph id="id7182B4A6B8EE4FE984576F212471C64A"><enum>(2)</enum><text>to conduct research, analysis, and training to increase broadband adoption efforts in the Appalachian region;</text>
+ </paragraph><paragraph id="id38D0DB9048CA4720AE13996E78184086"><enum>(3)</enum><text>to provide technology assets, including computers, smartboards, and video projectors to educational systems throughout the Appalachian region;</text>
+ </paragraph><paragraph id="id112B31A64EF7453FAF5021AE613C93D6"><enum>(4)</enum><text>to increase distance learning opportunities throughout the Appalachian region;</text> </paragraph><paragraph id="idA5BE3D7378A84A658900581B551BA9FC"><enum>(5)</enum><text>to increase the use of telehealth technologies in the Appalachian region; and</text>
+ </paragraph><paragraph id="idAB0C74F3A7C145989F680331DDCFCE52"><enum>(6)</enum><text>to promote e-commerce applications in the Appalachian region.</text> </paragraph></subsection><subsection id="idA1A777FDAD1244AA99843FD5FCB3B122"><enum>(b)</enum><header>Limitation on available amounts</header><text>Of the cost of any activity eligible for a grant under this section, not more than—</text>
+ <paragraph id="id4F4AAAB90E0F42559FA5E2C8D7A07501"><enum>(1)</enum><text>50 percent may be provided from amounts appropriated to carry out this section;</text> </paragraph><paragraph id="idF8FA4D4D10BD46379E505914FB6DC113"><enum>(2)</enum><text>in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526, 80 percent may be provided from amounts appropriated to carry out this section; or</text>
+ </paragraph><paragraph id="idC3801280E82E47829783FBF5DB38CBEE"><enum>(3)</enum><text>in the case of a project to be carried out in a county for which an at-risk designation is in effect under section 14526, 70 percent may be provided from amounts appropriated to carry out this section.</text>
+ </paragraph></subsection><subsection id="idAD51E5B135404E0E8F800DF9CF6B4E85"><enum>(c)</enum><header>Sources of assistance</header><text>Subject to subsection (b), grants provided under this section may be provided from amounts made available to carry out this section in combination with amounts made available under other Federal programs or from any other source.</text>
+ </subsection><subsection id="idF3B7A3732359478CBD0797F885E943A3"><enum>(d)</enum><header>Federal share</header><text>Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Appalachian Regional Commission determines is appropriate.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id7F534221268141588263282A8B405E60"><enum>(b)</enum><header>Conforming amendment</header><text>The analysis for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/40/145">chapter 145</external-xref> of title 40, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/40/14508">section 14508</external-xref> the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idEFC2EB15B15441BC97991667D869F759" style="OLC"><toc><toc-entry bold="off" level="section">14509. High-speed broadband deployment initiative.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection></section><section id="id7CA68D6F2B7B472EA488ED9A1A0DCC02"><enum>4.</enum><header>Termination</header><text display-inline="no-display-inline">Section 14704 of title 40, United States Code, is amended by striking <quote>2012</quote> and inserting <quote>2020</quote>.</text> </section><section id="id33EA537ED0DD48868EEC21172A64EC09"><enum>5.</enum><header>Effective date</header><text display-inline="no-display-inline">This Act and the amendments made by this Act take effect on October 1, 2015.</text>
+		</section></legis-body>
+</bill>
+
+

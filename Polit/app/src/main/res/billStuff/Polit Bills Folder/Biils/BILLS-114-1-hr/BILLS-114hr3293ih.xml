@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H7B954D6A7A824695956EE5853F6132C7" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3293 IH: Scientific Research in the National Interest Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3293</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150729">July 29, 2015</action-date>
+			<action-desc><sponsor name-id="S000583">Mr. Smith of Texas</sponsor> (for himself, <cosponsor name-id="L000563">Mr. Lipinski</cosponsor>, <cosponsor name-id="L000491">Mr. Lucas</cosponsor>, <cosponsor name-id="G000556">Mr. Grayson</cosponsor>, <cosponsor name-id="C001105">Mrs. Comstock</cosponsor>, <cosponsor name-id="M001194">Mr. Moolenaar</cosponsor>, <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>, <cosponsor name-id="K000387">Mr. Knight</cosponsor>, <cosponsor name-id="B001283">Mr. Bridenstine</cosponsor>, <cosponsor name-id="W000821">Mr. Westerman</cosponsor>, <cosponsor name-id="B001291">Mr. Babin</cosponsor>, <cosponsor name-id="B001274">Mr. Brooks of Alabama</cosponsor>, <cosponsor name-id="L000583">Mr. Loudermilk</cosponsor>, <cosponsor name-id="J000292">Mr. Johnson of Ohio</cosponsor>, <cosponsor name-id="R000409">Mr. Rohrabacher</cosponsor>, <cosponsor name-id="N000182">Mr. Neugebauer</cosponsor>, <cosponsor name-id="P000599">Mr. Posey</cosponsor>, <cosponsor name-id="P000609">Mr. Palmer</cosponsor>, <cosponsor name-id="A000374">Mr. Abraham</cosponsor>, and <cosponsor name-id="N000189">Mr. Newhouse</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HSY00">Committee on Science, Space, and Technology</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for greater accountability in Federal funding for scientific research, to promote the
+			 progress of science in the United States that serves that national
+			 interest.</official-title>
+	</form>
+	<legis-body id="H7413329854144798B245F8A74ACC1BA5" style="OLC">
+ <section id="H94E49357BFC14B44B5CA237AA5F05E71" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Scientific Research in the National Interest Act</short-title></quote>.</text> </section><section id="H8F2CF8B25CC44B959ECAF2B59BCFB368" section-type="subsequent-section"><enum>2.</enum><header>Greater accountability in Federal funding for research</header> <subsection id="HF9F1168626F04D3DBD68933F950553F9"><enum>(a)</enum><header>Standard for award of grants</header><text>The National Science Foundation shall award Federal funding for basic research and education in the sciences through a new research grant or cooperative agreement only if an affirmative determination is made by the Foundation under subsection (b) and written justification relating thereto is published under subsection (c).</text>
+ </subsection><subsection id="H2399477E9456465A8F6DFE31B37CECA6"><enum>(b)</enum><header>Determination</header><text display-inline="yes-display-inline">A determination referred to in subsection (a) is a justification by the responsible Foundation official as to how the research grant or cooperative agreement promotes the progress of science in the United States, consistent with the Foundation mission as established in the National Science Foundation Act of 1950 (<external-xref legal-doc="usc" parsable-cite="usc/42/1861">42 U.S.C. 1861 et seq.</external-xref>), and further—</text>
+ <paragraph id="H9600C40A30F4439FA9C7601BB6078E41"><enum>(1)</enum><text>is worthy of Federal funding; and</text> </paragraph><paragraph id="H56259109BF4F42B99E2559AFAD33C265"><enum>(2)</enum><text>is in the national interest, as indicated by having the potential to achieve—</text>
+ <subparagraph id="H82FF4E60D3D341BFA5A1A6BEB2F9951A"><enum>(A)</enum><text>increased economic competitiveness in the United States;</text> </subparagraph><subparagraph id="H75CBDD2167064126BFC17DB1297F9EF9"><enum>(B)</enum><text>advancement of the health and welfare of the American public;</text>
+ </subparagraph><subparagraph id="H5BD4CA69A22C469E838E05AA21AE098B"><enum>(C)</enum><text>development of an American STEM workforce that is globally competitive;</text> </subparagraph><subparagraph id="HDC7E7A257D624AA1ABFAD2A06A39B7FF"><enum>(D)</enum><text>increased public scientific literacy and public engagement with science and technology in the United States;</text>
+ </subparagraph><subparagraph id="HDAE190BC903C4377B47F19533D0D8E57"><enum>(E)</enum><text>increased partnerships between academia and industry in the United States;</text> </subparagraph><subparagraph id="HEF6E64DF335F41E59785D4F2F7093EC0"><enum>(F)</enum><text>support for the national defense of the United States; or</text>
+ </subparagraph><subparagraph id="HE8DF0B67C4BF490F838DCDDB15171EFB"><enum>(G)</enum><text>promotion of the progress of science for the United States.</text> </subparagraph></paragraph></subsection><subsection id="HB72BB70234FE43BEA984E3E6ABD9CECE"><enum>(c)</enum><header>Written justification</header><text>Public announcement of each award of Federal funding described in subsection (a) shall include a written justification from the responsible Foundation official as to how a grant or cooperative agreement meets the requirements of subsection (b).</text>
+ </subsection><subsection id="HAE11E98C791A4830BF402E4D500FDEF0"><enum>(d)</enum><header>Implementation</header><text>A determination under subsection (b) shall be made after a research grant or cooperative agreement proposal has satisfied the Foundation’s reviews for Merit and Broader Impacts. Nothing in this section shall be construed as altering the Foundation’s intellectual merit or broader impacts criteria for evaluating grant applications.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

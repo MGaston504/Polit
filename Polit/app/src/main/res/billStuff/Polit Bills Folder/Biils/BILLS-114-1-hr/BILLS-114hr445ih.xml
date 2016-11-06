@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4C01875985304DEE9D983889FD6A42EE" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 445 IH: Transparency in Rule Making When Using Scientific Testing Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress> <session>1st Session</session> 
+<legis-num>H. R. 445</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150121">January 21, 2015</action-date> 
+<action-desc><sponsor name-id="B001275">Mr. Bucshon</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend title 5, United States Code, to require that scientific studies used in a rule making be published, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HB9B168EFD4D749CA8ABC6F5608D46EA9" style="OLC"> 
+<section id="H9F8594A4C01E44F58DC5BD58B36D3D34" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Transparency in Rule Making When Using Scientific Testing Act of 2015</short-title></quote>.</text></section> <section id="H207A8686D780436BB0689093C80E4E60"><enum>2.</enum><header>Required publication of scientific studies</header> <subsection id="HB8190DC3CE5F407F9DC5101968E78918"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 553(b) of title 5, United States Code, is amended—</text> 
+<paragraph id="HDA74CA9CED28408198628D76CEBD0D70"><enum>(1)</enum><text>in paragraph (2), by striking <quote>and</quote>;</text></paragraph> <paragraph id="H03A02E8C8D6B4F2B8CF696DAA9FFEE05"><enum>(2)</enum><text>in paragraph (3), by striking the period at the end and inserting <quote>; and</quote>; and</text></paragraph> 
+<paragraph id="H29DAEA1140B7402AAE24EA588352A018"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H63589803E72844EBB666AFE386EFA719" style="USC"> <paragraph id="H771AABC7804E41489B0C4AC2DBE04E83"><enum>(4)</enum><text display-inline="yes-display-inline">any scientific research of which the agency is aware and which is relevant to the rule making.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="H96E6F63CE17E4811A4F0383827513B36"><enum>(b)</enum><header>Definition</header><text display-inline="yes-display-inline">Section 551 of title 5, United States Code, is amended—</text> <paragraph id="H98FDA236D4BA4A57838C3B301B4DA3EF"><enum>(1)</enum><text>in paragraph (13), by striking <quote>and</quote>;</text></paragraph> 
+<paragraph id="H3428500D41C9489EB69973EC940CFE2A"><enum>(2)</enum><text display-inline="yes-display-inline">in paragraph (14), by striking the period at the end and inserting <quote>; and</quote>; and</text></paragraph> <paragraph id="HDEB8E44D000747D9852CB3FC3E1D3C13"><enum>(3)</enum><text>by adding at the end the following:</text> 
+<quoted-block display-inline="no-display-inline" id="HBAAE3D664D8147E38A9D03F4F8E332E0" style="USC"> 
+<paragraph id="H7A83D631652B4117B7E3E606AF27F896"><enum>(15)</enum><text display-inline="yes-display-inline"><term>scientific study</term> means a study that—</text> <subparagraph id="H66F8C5142A9F4FF792B29CB3B2CB35FD"><enum>(A)</enum><text display-inline="yes-display-inline">applies rigorous, systematic, and objective methodology to obtain reliable and valid knowledge relevant to the subject matter involved;</text></subparagraph> 
+<subparagraph id="HEF0C4A0D003B42ED8147C0B00883C25D"><enum>(B)</enum><text display-inline="yes-display-inline">presents findings and makes claims that are appropriate to, and supported by, the methods that have been employed; and</text></subparagraph> <subparagraph id="HDFF5C73C7D8644E79C6D4BD8CB33792A"><enum>(C)</enum><text display-inline="yes-display-inline">includes, appropriate to the research being conducted—</text> 
+<clause id="HD9B9A235738F499E8E52C69D7A242DDD"><enum>(i)</enum><text display-inline="yes-display-inline">use of systematic, empirical methods that draw on observation or experiment;</text></clause> <clause id="HF011FFD60C8D4D39A87C51240BE01C2D"><enum>(ii)</enum><text display-inline="yes-display-inline">use of data analyses that are adequate to support the general findings;</text></clause> 
+<clause id="H3EA5046AC9FE4E8EB2BCBE8D90EA2E4A"><enum>(iii)</enum><text display-inline="yes-display-inline">reliance on measurements or observational methods that provide reliable and generalizable findings;</text></clause> <clause id="H5221C847A5724C618C5A6A13264D2EA6"><enum>(iv)</enum><text display-inline="yes-display-inline">strong claims of causal relationships, only with research designs that eliminate plausible competing explanations for observed results, such as, but not limited to, random-assignment experiments;</text></clause> 
+<clause id="H2A2A6B1B3757487CBB21D5F41FF62953"><enum>(v)</enum><text>presentation of studies and methods in sufficient detail and clarity to allow for replication or, at a minimum, to offer the opportunity to build systematically on the findings of the research;</text></clause> <clause id="H0D69FB572E424E83B0476AB717FD63CD"><enum>(vi)</enum><text display-inline="yes-display-inline">acceptance by a peer-reviewed journal or critique by a panel of independent experts through a comparably rigorous, objective, and scientific review; and</text></clause> 
+<clause id="HF7A86CF08E394D6FA5EB153890D88D1F"><enum>(vii)</enum><text display-inline="yes-display-inline">consistency of findings across multiple studies or sites to support the generality of results and conclusions.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section> </legis-body> </bill> 
+

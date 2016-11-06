@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H98E959E1CEDA4DAFA6F8EABE7F16B907" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2853 IH: Grassroots Rural and Small Community Water Systems Assistance Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2853</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150623">June 23, 2015</action-date>
+			<action-desc><sponsor name-id="H001045">Mr. Harper</sponsor> (for himself and <cosponsor name-id="T000469">Mr. Tonko</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Safe Drinking Water Act to reauthorize technical assistance to small public water
+			 systems, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HE98E5E26890F452080AEEACCAC78A854" style="OLC">
+ <section id="HE740D34963ED4A489C8400AE807C52B2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Grassroots Rural and Small Community Water Systems Assistance Act</short-title></quote>.</text> </section><section id="H78104D63B07449DB83E073642CFCE281"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds that—</text>
+ <paragraph id="H57ABD99588474DDAA6A49E56E2C2FB9D"><enum>(1)</enum><text>the Safe Drinking Water Act Amendments of 1996 (<external-xref legal-doc="public-law" parsable-cite="pl/104/182">Public Law 104–182</external-xref>) authorized technical assistance for small and rural communities to assist those communities in complying with regulations promulgated pursuant to the Safe Drinking Water Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300f">42 U.S.C. 300f et seq.</external-xref>);</text>
+ </paragraph><paragraph id="H8730EA8A93E24DC7A7B0877B7A153D4A"><enum>(2)</enum><text>technical assistance and compliance training—</text> <subparagraph id="H9B38A73F584A46B09E535C4C91453266"><enum>(A)</enum><text>ensures that Federal regulations do not overwhelm the resources of small and rural communities; and</text>
+ </subparagraph><subparagraph id="H5BCF88E6928E4D2E8CC4366CA791A6D5"><enum>(B)</enum><text>provides small and rural communities lacking technical resources with the necessary skills to improve and protect water resources;</text>
+ </subparagraph></paragraph><paragraph id="H58F95B0C92A84A14B413BC6268CD3000"><enum>(3)</enum><text>across the United States, more than 90 percent of the community water systems serve a population of less than 10,000 individuals;</text>
+ </paragraph><paragraph id="H1A2190AA31AE4D83AF7291F5EA2474E0"><enum>(4)</enum><text>small and rural communities have the greatest difficulty providing safe, affordable public drinking water and wastewater services due to limited economies of scale and lack of technical expertise; and</text>
+ </paragraph><paragraph id="H143A69F0450044CF880062B55D6AFFE7"><enum>(5)</enum><text>in addition to being the main source of compliance assistance, small and rural water technical assistance has been the main source of emergency response assistance in small and rural communities.</text>
+ </paragraph></section><section id="HE1281FF551AA410B999C8DC64A081284"><enum>3.</enum><header>Sense of Congress</header><text display-inline="no-display-inline">It is the sense of Congress that—</text> <paragraph id="H6A2D516D72FA45419E43A4F6B284D18B"><enum>(1)</enum><text>to assist small and rural communities most effectively, the Administrator of the Environmental Protection Agency should prioritize the types of technical assistance that are most beneficial to those communities, based on input from those communities; and</text>
+ </paragraph><paragraph id="HD23416116F844CB1BAB31124ED687102"><enum>(2)</enum><text>local support is the key to making Federal assistance initiatives work in small and rural communities to the maximum benefit.</text>
+ </paragraph></section><section id="H6709B18FB25543F78204207A3571B9EB"><enum>4.</enum><header>Funding priorities</header><text display-inline="no-display-inline">Section 1442(e) of the Safe Drinking Water Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300j-1">42 U.S.C. 300j–1(e)</external-xref>) is amended—</text> <paragraph id="H9A47C753FBBE487CBA173114A912DAD6"><enum>(1)</enum><text>by designating the first through seventh sentences as paragraphs (1) through (7), respectively;</text>
+ </paragraph><paragraph id="H0A2D86C078DF46A984C79133B82DB88A"><enum>(2)</enum><text>in paragraph (5) (as so designated), by striking <quote>1997 through 2003</quote> and inserting <quote>2015 through 2020</quote>; and</text> </paragraph><paragraph id="H76E09007CA67495387D4E52272ADB43A"><enum>(3)</enum><text>by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H55CD02A857ED48058AD7511FC82D3655" style="OLC">
+					<paragraph id="H03932C3FB4E04E25B9B4629AA15011E5"><enum>(8)</enum><header>Nonprofit organizations</header>
+ <subparagraph id="HAA125FDC506A483291C6A80129F59FFC"><enum>(A)</enum><header>In general</header><text>The Administrator may use amounts made available to carry out this section to provide grants or cooperative agreements to nonprofit organizations that provide to small public water systems onsite technical assistance, circuit-rider technical assistance programs, multistate, regional technical assistance programs, onsite and regional training, assistance with implementing source water protection plans, and assistance with implementing monitoring plans, rules, regulations, and water security enhancements.</text>
+ </subparagraph><subparagraph id="H9CD44669391F45B18EDF5CE29603BC28"><enum>(B)</enum><header>Preference</header><text>To ensure that technical assistance funding is used in a manner that is most beneficial to the small and rural communities of a State, the Administrator shall give preference under this paragraph to nonprofit organizations that, as determined by the Administrator, are the most qualified and experienced in providing training and technical assistance to small public water systems and that the small community water systems in that State find to be the most beneficial and effective.</text>
+ </subparagraph><subparagraph id="H15329E61639F4B849B43053CA5C2B810"><enum>(C)</enum><header>Limitation</header><text>No grant or cooperative agreement provided or otherwise made available under this section may be used for litigation pursuant to section 1449.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

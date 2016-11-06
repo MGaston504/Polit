@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HED931B4CC57E465E8320E91439EB0627" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 146 IH: To amend title 10, United States Code, to ensure that members of the Armed Forces serving on active duty who are diagnosed with post-traumatic stress disorder or traumatic brain injury have access to hyperbaric oxygen therapy at military medical treatment facilities.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 146</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="J000255">Mr. Jones</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 10, United States Code, to ensure that members of the Armed Forces serving on active
+			 duty who are diagnosed with post-traumatic stress disorder or traumatic
+			 brain injury have access to hyperbaric oxygen therapy at military medical
+			 treatment facilities.</official-title>
+	</form>
+	<legis-body id="H38153CDD897041D1923482E52E906512" style="OLC">
+		<section id="HE6F8940ABBF2482C93969922AF7DAB9C" section-type="section-one"><enum>1.</enum><header>Provision of hyperbaric oxygen therapy for certain members of the Armed Forces</header>
+			<subsection id="HA7666B4B693440C4BF9677D29F4DE152"><enum>(a)</enum><header>HBOT Treatment</header>
+				<paragraph id="H80BADF5AF8EC4FE69504D5710B55FFD6"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/10/55">Chapter 55</external-xref> of title 10, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/10/1074n">section 1074n</external-xref> the
+			 following new section:</text>
+					<quoted-block display-inline="no-display-inline" id="H4EF4E89C4E29486F9279940A8FA14AC3" style="USC">
+						<section id="HBDF40039DAA44976B8A025F51C32E23D"><enum>1074o.</enum><header>Provision of hyperbaric oxygen therapy for certain members</header>
+							<subsection id="HFC0C6A2340524213A86C2297A9A870BC"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary shall furnish hyperbaric oxygen therapy available at a military medical treatment
+			 facility to a covered member if such therapy is prescribed by a physician
+			 to treat post-traumatic stress disorder or traumatic brain injury.</text>
+							</subsection><subsection id="H77606916837047ABA1F2F3AFA21EC78B"><enum>(b)</enum><header>Covered member defined</header><text display-inline="yes-display-inline">In this section, the term <term>covered member</term> means a member of the armed forces who is—</text>
+								<paragraph id="HCCCA8EDFEFC245F789CC672E84615320"><enum>(1)</enum><text display-inline="yes-display-inline">serving on active duty; and</text>
+								</paragraph><paragraph id="H4EF780D828014279BC764C0C93A1FD06"><enum>(2)</enum><text>diagnosed with post-traumatic stress disorder or traumatic brain injury.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="H3218DD3B282645C5B0B02EB39B868462"><enum>(2)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of such chapter is amended by inserting after the item
+			 relating to section 1074n the following new item:</text>
+					<quoted-block display-inline="no-display-inline" id="H82A6531E6F4C4F4994BA64455CC717D3" style="USC">
+						<toc regeneration="no-regeneration">
+							<toc-entry level="section">1074o. Provision of hyperbaric oxygen therapy for certain members.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="H52669A574E7B4FD3B0E727C435CD2F73"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by subsection (a) shall take effect 90 days after the date of the enactment of
+			 this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

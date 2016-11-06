@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H0CA52D5AF0B645FEACBC54E84314D89D" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2020 IH: Treason and Passport Revocation Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2020</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150423">April 23, 2015</action-date>
+			<action-desc><sponsor name-id="P000608">Mr. Peters</sponsor> (for himself, <cosponsor name-id="V000130">Mr. Vargas</cosponsor>, and <cosponsor name-id="D000598">Mrs. Davis of California</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, and in addition to the Committee on <committee-name committee-id="HFA00">Foreign Affairs</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 18, United States Code, to include foreign terrorist organizations as enemies of the
+			 United States for purposes of treason, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H0E7630F90F3A40B4886867CB3F17E5C6" style="OLC">
+ <section id="HB1766DBE998242FF846190F5818A445C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Treason and Passport Revocation Act of 2015</short-title></quote>.</text> </section><section id="H89539F3510954E92BCFC7B2954638028"><enum>2.</enum><header>Treason</header><text display-inline="no-display-inline">Section 2381 of title 18, United States Code, is amended—</text>
+ <paragraph id="H71995E610F5E4C6587BF0E4544BAE639"><enum>(1)</enum><text>by striking <quote>Whoever</quote> and inserting the following: <quote><header-in-text level="subsection" style="USC"><enum-in-header>(a)</enum-in-header></header-in-text> Whoever</quote>; and</text> </paragraph><paragraph id="H40874D01F27E44ABA4AE070B43C29ED5"><enum>(2)</enum><text>by inserting at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H641B3A82CE2D4B10B8A4FF8CF529C570" style="USC">
+ <subsection id="HA867D528F5BB435788E170CC1B92B4AF"><enum>(b)</enum><text display-inline="yes-display-inline">For purposes of this section, an organization that the Secretary of State has designated as a foreign terrorist organization under section 219 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1189">8 U.S.C. 1189</external-xref>) shall be considered an enemy of the United States.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="H98630CDD7FAF4DA983890F174D9123CF"><enum>3.</enum><header>Revocation or denial of passports and passport cards to individuals affiliated with foreign
+ terrorist organizations</header><text display-inline="no-display-inline">The Act entitled <quote>An Act to regulate the issue and validity of passports, and for other purposes</quote>, approved July 3, 1926 (<external-xref legal-doc="usc" parsable-cite="usc/22/211a">22 U.S.C. 211a et seq.</external-xref>), commonly known as the <quote>Passport Act of 1926</quote>, is amended by adding at the end the following:</text> <quoted-block id="H9D743FA1A7F7480696D44A842F2E11C1" style="OLC"> <section id="HBF93968C8E21417784E1E635677FD4BC"><enum>4.</enum><header>Authority to deny or revoke passport and passport card</header> <subsection id="H34475C06BAA042119B1CEA856B9B73E5"><enum>(a)</enum><header>Ineligibility</header> <paragraph id="HDCB0AB1CDB0145E386C2E74563A91F41"><enum>(1)</enum><header>Issuance</header><text>Except as provided under subsection (b), the Secretary of State may not issue a passport or passport card to any individual whom the Secretary has determined is a member of or is otherwise affiliated with an organization the Secretary has designated as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1189">8 U.S.C. 1189</external-xref>).</text>
+ </paragraph><paragraph id="H809D6395B0D94008BA86C6D935A1F763"><enum>(2)</enum><header>Revocation</header><text>The Secretary of State shall revoke a passport or passport card previously issued to any individual described in paragraph (1).</text>
+						</paragraph></subsection><subsection id="HEBEB6208EB754E6C9E8F16DDE9E777C7"><enum>(b)</enum><header>Exceptions</header>
+ <paragraph id="H0720CACD611842DBAC89FEA8745484B1"><enum>(1)</enum><header>Emergency and humanitarian situations</header><text>Notwithstanding subsection (a), the Secretary of State may issue a passport or passport card, in emergency circumstances or for humanitarian reasons, to an individual described in paragraph (1) of such subsection.</text>
+ </paragraph><paragraph id="H8E1E54C6C384431CA6432603436518BC"><enum>(2)</enum><header>Limitation for return to united states</header><text>Notwithstanding subsection (a)(2), the Secretary of State, before revocation, may—</text> <subparagraph id="HB7529C54BB764C3A89D534AB2B4D630E"><enum>(A)</enum><text>limit a previously issued passport or passport card only for return travel to the United States; or</text>
+ </subparagraph><subparagraph id="H372DC2D881724EE48B81664B11848344"><enum>(B)</enum><text>issue a limited passport or passport card that only permits return travel to the United States.</text> </subparagraph></paragraph></subsection><subsection id="HD81BB5BDB1DA47D4B1EBCD410B46B4E3"><enum>(c)</enum><header>Report</header><text>If the Secretary of State issues or limits a passport or passport card under subsection (b), the Secretary shall, not later than 30 days after such issuance or limitation, submit to Congress a report on such issuance or limitation, as the case may be.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

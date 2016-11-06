@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1456 IS: Rural ACO Improvement Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1456</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150522">May 22, 2015</action-date>
+			<action-desc><sponsor name-id="S275">Ms. Cantwell</sponsor> (for herself, <cosponsor name-id="S303">Mr. Thune</cosponsor>, and <cosponsor name-id="S229">Mrs. Murray</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to improve the way beneficiaries are assigned under
+			 the Medicare shared savings program by also basing such assignment on
+			 primary care services furnished by Federally qualified health centers,
+			 rural health
+			 clinics, nurse practitioners, physician assistants, and clinical nurse
+			 specialists.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Rural ACO Improvement Act of 2015</short-title></quote>.</text>
+ </section><section id="idD774BE63BC06461CB9A9BAE9DE329107"><enum>2.</enum><header>Improvements to the assignment of beneficiaries under the Medicare shared savings program</header><text display-inline="no-display-inline">Section 1899(c) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395jjj">42 U.S.C. 1395jjj(c)</external-xref>) is amended—</text> <paragraph id="id3375716B9F4D4B93BB86637E026F0E65"><enum>(1)</enum><text display-inline="yes-display-inline">by striking <quote>utilization of primary</quote> and inserting “utilization of—</text>
+				<quoted-block display-inline="no-display-inline" id="idBC798052F66148CAB19CD4CAA90592FC" style="OLC">
+ <paragraph id="id200FC8298E8343ECB8B88F724D15A291"><enum>(1)</enum><text display-inline="yes-display-inline">in the case of performance years beginning on or after April 1, 2012, primary</text> </paragraph><after-quoted-block>;</after-quoted-block></quoted-block> </paragraph><paragraph id="idF6C00A1B356D49C89E0C8269CD2D90AF"><enum>(2)</enum><text>in paragraph (1), as added by paragraph (1) of this section, by striking the period at the end and inserting a semicolon; and</text>
+ </paragraph><paragraph id="idBE6EA5A91739495A908EC34D0F1816F1"><enum>(3)</enum><text>by adding at the end the following new paragraphs:</text> <quoted-block display-inline="no-display-inline" id="idCAF465106E8040838D8D6A6E17B2A733" style="OLC"> <paragraph id="id08E02CA1413A4FBEA42BA669A0D398BE"><enum>(2)</enum><text>in the case of performance years beginning on or after January 1, 2016, primary care services provided under this title by an ACO professional described in subsection (h)(1)(B); and</text>
+ </paragraph><paragraph id="idE02229AA42B54D15B9C5DB857129FB38"><enum>(3)</enum><text>in the case of performance years beginning on or after January 1, 2016, primary care services provided under this title by a Federally qualified health center or rural health clinic (as those terms are defined in section 1861(aa)), as determined by the Secretary.</text></paragraph><after-quoted-block>.  </after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

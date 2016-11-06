@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H7B8DF29967954AFEABE6D41235C5F841" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1136 IH: Accountability in Unemployment Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1136</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150226">February 26, 2015</action-date>
+			<action-desc><sponsor name-id="P000588">Mr. Pearce</sponsor> (for himself, <cosponsor name-id="H001052">Mr. Harris</cosponsor>, <cosponsor name-id="R000592">Mr. Rokita</cosponsor>, <cosponsor name-id="B001291">Mr. Babin</cosponsor>, <cosponsor name-id="G000565">Mr. Gosar</cosponsor>, <cosponsor name-id="R000582">Mr. Roe of Tennessee</cosponsor>, <cosponsor name-id="L000578">Mr. LaMalfa</cosponsor>, and <cosponsor name-id="C001051">Mr. Carter of Texas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title III of the Social Security Act to require States to implement a drug testing program
+			 for applicants for and recipients of unemployment compensation.</official-title>
+	</form>
+	<legis-body id="H8975DA9C05F248FB86C85D556020409E" style="OLC">
+ <section id="HC6061513C9EA46E6AEE5779761BAEFF5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Accountability in Unemployment Act of 2015</short-title></quote>.</text> </section><section id="H164AE9D9F4D943C0A9193B0E146A2CC7" section-type="subsequent-section"><enum>2.</enum><header>Drug testing program for applicants for and recipients of unemployment compensation</header> <subsection id="HB8757273F70244C498F0F7E1897B0A90"><enum>(a)</enum><header>In general</header><text>Section 303(l) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/503">42 U.S.C. 503</external-xref>)(l)) is amended to read as follows:</text>
+				<quoted-block act-name="" id="HE3AF1CDC1B824387BB159963E32E80DA" style="OLC">
+					<subsection id="H1F8B05F01D244C46B6ED8BDBD1767F44"><enum>(l)</enum>
+ <paragraph commented="no" display-inline="yes-display-inline" id="H16B6141C38A34A76BFEDE8AA66050E99"><enum>(1)</enum><text>For purposes of subsection (a), the law of a State shall provide that no regular compensation may be paid to an individual unless—</text>
+ <subparagraph id="HBD97C101F2DC40CDA3CCCF83B4927C8E" indent="up1"><enum>(A)</enum><text>the individual is tested for the use of the drugs listed in paragraph (3)(A)—</text> <clause id="H5EAF95F938684C999C3794EDE867C8AB"><enum>(i)</enum><text>if the individual has applied for such compensation and the application has not been approved, before the receipt of such compensation; and</text>
+ </clause><clause id="H45FE129B72AF401BA89B5F2E3735AC49"><enum>(ii)</enum><text>in any other case, before the end of the 3-month period that begins on the date of the enactment of this subsection; and</text>
+ </clause></subparagraph><subparagraph id="H94565828AF3A47078367B4B0A493D0AF" indent="up1"><enum>(B)</enum><text>the individual tests negative for the use of such drugs or, in the case of an individual who tests positive for the use of such drugs, the individual meets the requirements of paragraph (2).</text>
+							</subparagraph></paragraph><paragraph id="H8068CF2DE49740399724A8D83EA3DEE3" indent="up1"><enum>(2)</enum>
+ <subparagraph commented="no" display-inline="yes-display-inline" id="HDE134529406F473A88BA9ED8B3646902"><enum>(A)</enum><text>Except as provided in subparagraph (B), if an individual tests positive pursuant to paragraph (1) for the use of any drug listed in paragraph (3)(A), no regular compensation may be paid to the individual unless—</text>
+ <clause id="HE029ED0F53434889A593C58C1205C65C" indent="up1"><enum>(i)</enum><text>a 30-day period has elapsed since the results of the test were determined; and</text> </clause><clause id="HEC82F59EE936433681939F08FA6AE595" indent="up1"><enum>(ii)</enum><text display-inline="yes-display-inline">the individual tests negative for the use of each drug listed in paragraph (3)(A) at the end of such period.</text>
+ </clause></subparagraph><subparagraph id="H974FD3F3582B43D19F3843D9217F0CDC" indent="up1"><enum>(B)</enum><text display-inline="yes-display-inline">If an individual tests positive pursuant to paragraph (1) for the use of any drug listed in paragraph (3)(A) three or more times (whether for the same or a different drug), no regular compensation may be paid to the individual unless—</text>
+ <clause id="HEF71659FFC9B4591B023B85CEA88EBDF"><enum>(i)</enum><text>a 5-year period has elapsed since the results of the last test were determined; and</text> </clause><clause id="HBC0171DB3E8245309AD4487FE94511F0"><enum>(ii)</enum><text display-inline="yes-display-inline">the individual tests negative for the use of each drug listed in paragraph (3)(A) at the end of such period.</text>
+								</clause></subparagraph></paragraph><paragraph id="HFA4AEBAE75B948A983CD750330674E70" indent="up1"><enum>(3)</enum>
+ <subparagraph commented="no" display-inline="yes-display-inline" id="HE3D267FA62E74BF580313DA67A4D46F5"><enum>(A)</enum><text>In conducting drug testing pursuant to paragraph (1), the State shall test for each of the following:</text>
+ <clause id="H87269D7A84C84C6292869F186F543A9A" indent="up1"><enum>(i)</enum><text>Marijuana.</text> </clause><clause id="H73DD7C41B4284DB1AC715BB22E98B30F" indent="up1"><enum>(ii)</enum><text>Cocaine.</text>
+ </clause><clause id="HBC85C9F4937C4711B4BF21B17E8700BB" indent="up1"><enum>(iii)</enum><text>Opiates.</text> </clause><clause id="H0B579A53393840EF8F51192C933ECD89" indent="up1"><enum>(iv)</enum><text>Amphetamines.</text>
+ </clause><clause id="H4BDE92F15D34422CB3B7411DAE6A6225" indent="up1"><enum>(v)</enum><text>Methamphetamine.</text> </clause><clause id="HD858A4AE69F34301A0C861AF4CAAC5E1" indent="up1"><enum>(vi)</enum><text>Phencyclidine.</text>
+ </clause><clause id="H01A9B09253DF4258BE2E94121A19F10E" indent="up1"><enum>(vii)</enum><text>Heroin.</text> </clause><clause id="H886F9B3E494040C4A1333C3D4969DB3A" indent="up1"><enum>(viii)</enum><text>Lysergic acid diethyliamide.</text>
+ </clause><clause id="H9982423C310B4C04859146795C091D3B" indent="up1"><enum>(ix)</enum><text>3,4-methylenedioxy amphetamine.</text> </clause></subparagraph><subparagraph id="HDD77CD879F3B45F6B5F31236519CDFE5" indent="up1"><enum>(B)</enum><text display-inline="yes-display-inline">A positive test for a drug listed in subparagraph (A) shall be treated as a negative test for purposes of this subsection if such drug was used pursuant to a valid prescription or as otherwise authorized by State or Federal law.</text>
+ </subparagraph></paragraph><paragraph id="HF6AE1336C326454C9D2F693D34407A3E" indent="up1"><enum>(4)</enum><text display-inline="yes-display-inline">The State shall require each individual who is tested pursuant to paragraph (1) to pay the portion of the cost of the drug testing that pertains to such individual. If such individual tests negative for the use of each drug listed in paragraph (3)(A) and the State provides regular compensation to the individual, the State shall increase the first payment of such compensation in an amount equal to the amount paid by the individual under this paragraph for the drug testing.</text>
+ </paragraph><paragraph id="H8098997062ED4D89B99C5B6259AC6621" indent="up1"><enum>(5)</enum><text>In this subsection, the term <quote>regular compensation</quote> has the meaning given such term in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (<external-xref legal-doc="usc" parsable-cite="usc/26/3304">26 U.S.C. 3304</external-xref> note).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H31462973066646A2BF7296628657DDAB"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by this section shall take effect 1 year after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

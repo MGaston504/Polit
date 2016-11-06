@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H3D816AAC2D4E4FDAB93507E2E6320654" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3655 IH: EPA Pays Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3655</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150930">September 30, 2015</action-date>
+			<action-desc><sponsor name-id="W000796">Mr. Westmoreland</sponsor> (for himself, <cosponsor name-id="B001274">Mr. Brooks of Alabama</cosponsor>, <cosponsor name-id="F000448">Mr. Franks of Arizona</cosponsor>, <cosponsor name-id="Z000018">Mr. Zinke</cosponsor>, <cosponsor name-id="S001195">Mr. Smith of Missouri</cosponsor>, <cosponsor name-id="H001071">Mr. Jody B. Hice of Georgia</cosponsor>, <cosponsor name-id="L000578">Mr. LaMalfa</cosponsor>, <cosponsor name-id="B001291">Mr. Babin</cosponsor>, and <cosponsor name-id="M001195">Mr. Mooney of West Virginia</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HPW00">Transportation and Infrastructure</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 with
+			 respect to Federal Government liability and to require reimbursement to
+			 the Judgement Fund for certain claims, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HA8A85988761947D89CE665D95D14B037" style="OLC">
+ <section id="HE9239EB7150F4B8FBE482A39D9450844" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>EPA Pays Act</short-title></quote>.</text> </section><section id="HCBE728DFAA324B8795867328DB6CFECB"><enum>2.</enum><header>Liability</header> <subsection id="H28F8D4DA0E8B4B8BA6568AC7396A09D2"><enum>(a)</enum><header>Economic damages</header><text display-inline="yes-display-inline">Section 107(a) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (<external-xref legal-doc="usc" parsable-cite="usc/42/9607">42 U.S.C. 9607(a)</external-xref>) is amended—</text>
+ <paragraph id="HCB47CA43EFB843CF8AA0DCD4515D82F1"><enum>(1)</enum><text>in paragraph (4)—</text> <subparagraph id="HDE360A89B0A9405BAA0029EC75530897"><enum>(A)</enum><text>in subparagraph (C), by striking <quote>; and</quote> and inserting a semicolon;</text>
+ </subparagraph><subparagraph id="H5809713407014960A33FD5158CAA4AB8"><enum>(B)</enum><text>in subparagraph (D), by striking the period at the end and inserting <quote>; and</quote>; and</text> </subparagraph><subparagraph id="H9104E3196D2544E69FD0E51CB5707CE7"><enum>(C)</enum><text>by adding after subparagraph (D) the following:</text>
+						<quoted-block display-inline="no-display-inline" id="HC8832962A2A94FF199BFA7E57BF1DC3A" style="OLC">
+ <subparagraph id="H993D6D250259449D8597AAD3AC395AC9"><enum>(E)</enum><text display-inline="yes-display-inline">in the case of a person who is the United States Government, any other economic damages incurred by any person caused by the United States Government.</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph commented="no" id="H80FE45A7AC074D7D833DC467999A3D0F"><enum>(2)</enum><text>in the matter following paragraph (4), by striking <quote>subparagraphs (A) through (D)</quote> and inserting <quote>subparagraphs (A) through (E)</quote>.</text> </paragraph></subsection><subsection id="HB392D39F24B344029512F00845FB348D"><enum>(b)</enum><header>Liability of United States Government</header><text display-inline="yes-display-inline">Section 107(d)(1) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (<external-xref legal-doc="usc" parsable-cite="usc/42/9607">42 U.S.C. 9607(d)(1)</external-xref>) is amended by inserting <quote>other than the United States Government</quote> after <quote>no person</quote>.</text>
+			</subsection></section><section id="H2E38235039E848EAB71DBFE8F8FA1F7F"><enum>3.</enum><header>Reimbursement to Judgment Fund</header>
+ <subsection id="HBC11B088CCF54704A70841DC0B1CF935"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Administrator of the Environmental Protection Agency shall reimburse to the fund described in section 1304 of title 31, United States Code, from the unobligated balance of amounts available to the Administrator in the <quote>Environmental Programs and Management</quote> account for the Information Exchange/Outreach, Enforcement, and Clean Air and Climate program areas, an amount equal to the amount of each payment made from such fund resulting from a claim under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 or <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/28/171">chapter 171</external-xref> of title 28, United States Code.</text>
+ </subsection><subsection id="H889239F9A69B43C885ABC212CCE4AC33"><enum>(b)</enum><header>Order of sources</header><text>In carrying out subparagraph (a), the Administrator shall first use amounts available for the Information Exchange/Outreach program area. If sufficient amounts are not available for such program area, the Administrator shall use amounts available for the Enforcement program area. If sufficient amounts are not available for either of the preceding program areas, the Administrator shall use amounts available for the Clean Air and Climate program area.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

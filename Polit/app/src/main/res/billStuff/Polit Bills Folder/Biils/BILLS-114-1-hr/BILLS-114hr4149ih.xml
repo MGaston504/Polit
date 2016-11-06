@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H588C8B0EAE9E4BFBBDEF68B4A45EEDBE" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4149 IH: Discouraging Frivolous Lawsuits Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4149</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151201">December 1, 2015</action-date>
+			<action-desc><sponsor name-id="R000597">Mr. Rice of South Carolina</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Water Pollution Control Act with respect to citizen suits and the
+			 specification of disposal sites, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HCA5AC3C8469F4D618C6364028B0D8ECC" style="OLC">
+ <section id="H8E23DE24BCD14FA4AE57870DA3303AEB" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Discouraging Frivolous Lawsuits Act</short-title></quote>.</text> </section><section id="H73FF3A1C0CC644269E78041FEB28D0A5"><enum>2.</enum><header>Citizen suits</header> <subsection id="H0AFC7705ADEC46D689043963E49850A5"><enum>(a)</enum><header>Costs of litigation</header><text display-inline="yes-display-inline">Section 505(d) of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1365">33 U.S.C. 1365(d)</external-xref>) is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="HA76EEEAAD4AC43D4AB8BDE6EFD055D84" style="OLC">
+ <subsection id="HF3C414990CA34A79A90723032F797FF4"><enum>(d)</enum><text display-inline="yes-display-inline">The court, in issuing any final order in any action brought pursuant to this section, shall award costs of litigation (including reasonable attorney and expert witness fees) to the prevailing party. For purposes of this subsection, the prevailing party shall be considered to be the party, if any, that prevails on more than half of the claims at issue in the action. The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Federal Rules of Civil Procedure.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HE8E8C0B1938F4301B79E0762F1255763"><enum>(b)</enum><header>Restriction on certain settlements</header><text display-inline="yes-display-inline">Section 505(c) of the Federal Water Pollution Control Act (33 U.S.C.1365(c)) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HF4B53EF39DF14DB9A762F9790399FF32" style="OLC">
+ <paragraph commented="no" id="H33D9B7170044454688DD53192C10988F"><enum>(4)</enum><header>Restriction on certain orders and settlements</header><text display-inline="yes-display-inline">A Federal court may not order, or approve a settlement requiring, in an action brought pursuant to this section, a governmental entity to carry out, or otherwise provide for, compensatory mitigation with respect to a permit applied for by, or issued to, the entity under section 404 in excess of the requirements for such mitigation under parts 320, 323, 325, and 332 of title 33, Code of Federal Regulations, and part 230 of title 40, Code of Federal Regulations.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="H26A3B114AAC54B16820C195E96AE1899"><enum>3.</enum><header>Specification of disposal sites</header>
+ <subsection id="H3B9C18FFF2624933984FB385AC36F108"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 404(c) of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1344">33 U.S.C. 1344(c)</external-xref>) is repealed.</text> </subsection><subsection id="HB4B2DE7C4322435D91E36A75DA1A6BC0"><enum>(b)</enum><header>Conforming amendments</header><text display-inline="yes-display-inline">Section 404(b) of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1344">33 U.S.C. 1344(b)</external-xref>) is amended—</text>
+ <paragraph id="HA0371A8271FB468D8A99DE3648E981DB"><enum>(1)</enum><text>by striking <quote>Subject to subsection (c) of this section, each such disposal site</quote> and inserting <quote>Each such disposal site</quote>; and</text> </paragraph><paragraph id="H042CE4049536424EA7F226047442F5AE"><enum>(2)</enum><text>by striking <quote>the Administrator, in conjunction with</quote>.</text>
+ </paragraph></subsection></section><section id="H9B114D539D0B4363ADA335193244216C"><enum>4.</enum><header>Prohibition on excess mitigation</header><text display-inline="no-display-inline">Section 404 of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1344">33 U.S.C. 1344</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H574C311ECDBA4F9B99E0B22C506E658C" style="OLC">
+ <subsection id="H698691F0A766451799A175015B2FC06A"><enum>(u)</enum><text display-inline="yes-display-inline">No governmental entity may carry out, or otherwise provide for, compensatory mitigation, with respect to a permit issued to the entity under this section, in excess of the requirements for such mitigation under parts 320, 323, 325, and 332 of title 33, Code of Federal Regulations, and part 230 of title 40, Code of Federal Regulations.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

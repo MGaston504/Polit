@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD1EF1CD40B354C4DBB4E8E367B43E05B" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3639 IH: Veterans Access to Care Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3639</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150929">September 29, 2015</action-date>
+			<action-desc><sponsor name-id="K000188">Mr. Kind</sponsor> (for himself and <cosponsor name-id="R000587">Mr. Ribble</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Public Health Service Act to designate certain medical facilities of the Department of
+			 Veterans Affairs as health professional shortage areas, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="HCBEDB3BE49B74886964B91EA91A39FD4" style="OLC">
+ <section id="H287B4D2E36BF4DE68F81C5E1AE511BDD" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans Access to Care Act</short-title></quote>.</text> </section><section id="HD1D47EFFB1DC475DA68D93ED77288541"><enum>2.</enum><header>Designation of medical facilities of the Department of Veterans Affairs as health professional shortage areas</header> <subsection id="HCCEC8D9434DB4161BB0F3D8C83C12DD6"><enum>(a)</enum><header>PHSA</header><text display-inline="yes-display-inline">Section 332(a)(1) of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/254e">42 U.S.C. 254e(a)(1)</external-xref>) is amended in the second sentence by inserting <quote>and medical facilities of the Department of Veterans Affairs (including State homes, as defined in section 101(19) of title 38, United States Code)</quote> after <quote>(<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x(aa)</external-xref>),</quote>.</text>
+			</subsection><subsection id="HB042EF8852BC43C8A35BF4628428A067"><enum>(b)</enum><header>Concurrent benefits</header>
+ <paragraph id="H56EDBBAC3C784B81ABD38FC607AAB0E1"><enum>(1)</enum><header>Scholarship program</header><text display-inline="yes-display-inline">Section 338A(b) of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/254l">42 U.S.C. 254l(b)</external-xref>) is amended—</text> <subparagraph id="HB7F9F1EEE8784B329405BDF49F7FEF39"><enum>(A)</enum><text display-inline="yes-display-inline">in paragraph (3), by striking <quote>and</quote>;</text>
+ </subparagraph><subparagraph id="HF24B42E5837448ABA834B564922BCAD2"><enum>(B)</enum><text>in paragraph (4), by striking the period and inserting <quote>; and</quote>; and</text> </subparagraph><subparagraph id="HD38522553171441ABBC5674C3CE75E81"><enum>(C)</enum><text>by adding at the end the following new paragraph:</text>
+						<quoted-block display-inline="no-display-inline" id="H7DC60A9458D44143B48B2A23ACE722E6" style="OLC">
+ <paragraph id="HCA6CF67C50234AD582520134EE73FC19"><enum>(5)</enum><text display-inline="yes-display-inline">not be participating in the Department of Veterans Affairs Health Professionals Educational Assistance Program under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/76">chapter 76</external-xref> of title 38, United States Code.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="H0075EC358D0749A6AA552B5781582E42"><enum>(2)</enum><header>Debt reduction program</header><text>Section 338B(b) of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/254l-1">42 U.S.C. 254l–1(b)</external-xref>) is amended—</text> <subparagraph id="H8985BBFBBB9F43E49484736A25BDBEE8"><enum>(A)</enum><text display-inline="yes-display-inline">in paragraph (2), by striking <quote>and</quote>;</text>
+ </subparagraph><subparagraph id="HBCEB1B3896964BA39B0AF4547F7E129D"><enum>(B)</enum><text>in paragraph (3), by striking the period and inserting <quote>; and</quote>; and</text> </subparagraph><subparagraph id="HDEB0F2DEDB5B4DD8BAA10D8D65BCB539"><enum>(C)</enum><text>by adding at the end the following new paragraph:</text>
+						<quoted-block display-inline="no-display-inline" id="HA3779A76124641969C19DEF93B335839" style="OLC">
+ <paragraph id="H9E331F5B8E5F408B9BAA9FE1B6A58DCB"><enum>(4)</enum><text display-inline="yes-display-inline">not be participating in the Department of Veterans Affairs Health Professionals Educational Assistance Program under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/76">chapter 76</external-xref> of title 38, United States Code.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subparagraph></paragraph></subsection><subsection id="H8AE4DB8D6CAE4BB293EE05E1110CAD33"><enum>(c)</enum><header>Consultation</header><text display-inline="yes-display-inline">In carrying out the National Health Service Corps Program under subpart II of part D of title III of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/254d">42 U.S.C. 254d et seq.</external-xref>), the Secretary of Health and Human Services shall consult with the Secretary of Veterans Affairs with respect to health professional shortage areas that are medical facilities of the Department of Veterans Affairs (including State homes, as defined in section 101(19) of title 38, United States Code).</text>
+ </subsection><subsection id="H01AB5EE45E3442F3805465718F7DB3BE"><enum>(d)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by this section shall take effect on the date that is 90 days after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6EDD5A6FCB1040859219682DB3F9EBD9" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4039 IH: Veteran Small Business Tax Credit Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4039</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151117">November 17, 2015</action-date>
+			<action-desc><sponsor name-id="A000370">Ms. Adams</sponsor> (for herself, <cosponsor name-id="C001080">Ms. Judy Chu of California</cosponsor>, <cosponsor name-id="K000385">Ms. Kelly of Illinois</cosponsor>, <cosponsor name-id="L000581">Mrs. Lawrence</cosponsor>, <cosponsor name-id="P000604">Mr. Payne</cosponsor>, <cosponsor name-id="T000473">Mr. Takai</cosponsor>, and <cosponsor name-id="V000081">Ms. Velázquez</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to establish a small business start-up tax credit for
+			 veterans.</official-title>
+	</form>
+	<legis-body id="HB0E0413C2D51402D88F4650517E48E63" style="OLC">
+ <section id="H7E0789CB91824EFA90B7DE3D198D8729" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veteran Small Business Tax Credit Act of 2015</short-title></quote>.</text> </section><section id="H9B641FDF12C6459A886388E43A7C7C0E"><enum>2.</enum><header>Veteran small business start-up credit</header> <subsection id="H1E4DB0AB73A940519AE7B7D79A7FFF67"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subpart D of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="H5BCCC9484B794EBC84C57FAB710EC06C" style="OLC">
+					<section id="H05DF458755D14D84AA42A00AEDADEB50"><enum>45S.</enum><header>Veteran small business start-up credit</header>
+ <subsection id="HB53EA542DEC3462086EB1A3FC1F396D8"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">For purposes of section 38, in the case of an applicable veteran-owned business which elects the application of this section, the veteran small business start-up credit determined under this section for any taxable year is an amount equal to 15 percent of so much of the qualified start-up expenditures of the taxpayer as does not exceed $80,000.</text>
+ </subsection><subsection id="H7D57052F59554C0AA9D9088039392CC7"><enum>(b)</enum><header>Applicable veteran-Owned small business</header><text>For purposes of this section—</text> <paragraph id="H9CBE27B9FBAD48EB90FCA9F91BC99E60"><enum>(1)</enum><header>In general</header><text>The term <term>applicable veteran-owned small business</term> means a small business controlled by one or more qualified veterans.</text>
+ </paragraph><paragraph id="HB7690E1C8BE34433A7F0B8AB915D7288"><enum>(2)</enum><header>Qualified veteran</header><text display-inline="yes-display-inline">The term <term>qualified veteran</term> means any individual (or the spouse or surviving spouse of such an individual) who—</text> <subparagraph id="H4944E06D497845E499917C2BC8B8B675"><enum>(A)</enum><text>has served on active duty in the Armed Forces of the United States, and</text>
+ </subparagraph><subparagraph id="HB2F18DECC44B4D3186D11978144EC38F"><enum>(B)</enum><text display-inline="yes-display-inline">who has not been discharged or released from the Armed Forces of the United States under dishonorable conditions.</text>
+ </subparagraph></paragraph><paragraph id="H2AC2F0CA031845B5B02DEACD4B267469"><enum>(3)</enum><header>Control</header><text display-inline="yes-display-inline">The term <term>controlled</term> means—</text> <subparagraph id="HB0A92CAF717D4E068004F30CD97D3A3A"><enum>(A)</enum><text>management and operation of the daily business, and—</text>
+								</subparagraph><subparagraph id="H7205331DCB7E42D2BDDFBD0E3CC40638"><enum>(B)</enum>
+ <clause commented="no" display-inline="yes-display-inline" id="HDA3C519E03BA4073A03C0A6107B296FA"><enum>(i)</enum><text>in the case of a sole proprietorship, sole ownership,</text> </clause><clause id="H6C391F000C2941819E467E818F9E9928" indent="up1"><enum>(ii)</enum><text>in the case of a corporation, ownership (by vote or value) of not less than 51 percent of the stock in such corporation, or</text>
+ </clause><clause id="HCFA6B854FBF3479598702B86713FFD7B" indent="up1"><enum>(iii)</enum><text>in the case of a partnership or joint venture, ownership of not less than 51 percent of the profits interests or capital interests in such partnership or joint venture.</text>
+ </clause></subparagraph></paragraph><paragraph id="H38D4D3BF6B674B4C990897545290C046"><enum>(4)</enum><header>Small business</header><text display-inline="yes-display-inline">The term <term>small business</term> means, with respect to any taxable year, any person engaged in a trade or business in the United States if—</text>
+ <subparagraph id="HCC8EC46E890243149100105116261E4A"><enum>(A)</enum><text display-inline="yes-display-inline">the gross receipts of such person for the preceding taxable year did not exceed $5,000,000, or</text> </subparagraph><subparagraph commented="no" id="HF2135F586D844D0CB44D8CEFE64F86CE"><enum>(B)</enum><text display-inline="yes-display-inline">in the case of a person to which subparagraph (A) does not apply, such person employed not more than 100 full-time employees during the preceding taxable year.</text>
+								</subparagraph><continuation-text continuation-text-level="paragraph">For purposes of subparagraph (B), an employee shall be considered full-time if such employee is
+			 employed at least 30 hours per week for 20 or more calendar weeks in the
+ taxable year.</continuation-text></paragraph></subsection><subsection id="H8CDB5912CE0748DDBA0D5AE24421DF96"><enum>(c)</enum><header>Qualified start-Up expenditures</header><text>For purposes of this section—</text> <paragraph id="HFE4AC24CE4CE4E4FBC7E6058B4C49259"><enum>(1)</enum><header>In general</header><text>The term <term>qualified start-up expenditures</term> means—</text>
+ <subparagraph id="H6D7C69EDE9EF4D6AA351A6F6947EFE1E"><enum>(A)</enum><text>any start-up expenditures (as defined in section 195(c)), or</text> </subparagraph><subparagraph id="H33591ACA7E904394A9838BBF301782A4"><enum>(B)</enum><text display-inline="yes-display-inline">any amounts paid or incurred during the taxable year for the purchase or lease of real property, or the purchase of personal property, placed in service during the taxable year and used in the active conduct of a trade or business.</text>
+ </subparagraph></paragraph></subsection><subsection id="H52A2E07CE28949C5BE3E3A2FC59F6D49"><enum>(d)</enum><header>Special rules</header><text display-inline="yes-display-inline">For purposes of this section—</text> <paragraph id="HA78A327E912C4AEEA3FD747FB00B2659"><enum>(1)</enum><header>Year of election</header><text display-inline="yes-display-inline">The taxpayer may elect the application of this section only for the first 2 taxable years for which ordinary and necessary expenses paid or incurred in carrying on such trade or business are allowable as a deduction by the taxpayer under section 162.</text>
+ </paragraph><paragraph id="HE5E46947C5F947EE82B41692529312C5"><enum>(2)</enum><header>Controlled groups and common control</header><text display-inline="yes-display-inline">All persons treated as a single employer under subsections (a) and (b) of section 52 shall be treated as 1 person.</text>
+ </paragraph><paragraph id="H151A5B58BE744AF5B96461470224B896"><enum>(3)</enum><header>No double benefit</header><text display-inline="yes-display-inline">If a credit is determined under this section with respect to any property, the basis of such property shall be reduced by the amount of the credit attributable to such property.</text>
+							</paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H9A760D1674E94D2C9E2699BF8B765DAD"><enum>(b)</enum><header>Clerical amendment</header><text display-inline="yes-display-inline">The table of sections for subpart D of part IV of subchapter A of chapter 1 of such Code is amended by adding at the end the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H7039FE57C0F44140851F32B2F77F50BD" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">Sec. 45S. Veteran small business start-up credit.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H51DB66CB063340068163C1CFD6AD8C62"><enum>(c)</enum><header>Made part of general business credit</header><text>Section 38(b) of such Code is amended by striking <quote>plus</quote> at the end of paragraph (35), by striking the period at the end of paragraph (36) and inserting <quote>, plus</quote>, and by adding at the end the following new paragraph:</text> <quoted-block display-inline="no-display-inline" id="H933C81F24D934C7CB9ED423C3B8DB4E5" style="OLC"> <paragraph id="H8D38304297B94C04A715912165837478"><enum>(37)</enum><text display-inline="yes-display-inline">the veteran small business start-up credit determined under section 45S.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HE57369E0445F4DB7950F67E4CFD9BDCE"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2016.</text> </subsection></section></legis-body> </bill> 
+

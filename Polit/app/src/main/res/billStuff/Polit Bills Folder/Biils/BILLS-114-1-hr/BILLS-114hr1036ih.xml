@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H0D53DD6143194580A11B674CB18CB65F" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1036 IH: Let the GSEs Pay Us Back Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1036</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150224">February 24, 2015</action-date>
+			<action-desc><sponsor name-id="C001037">Mr. Capuano</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for the repayment of amounts borrowed by Fannie Mae and Freddie Mac from the Treasury of
+			 the United States, together with interest, over a 30-year period, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body id="H0842620DE5A44830B3F3BE83B05A3B27" style="OLC">
+ <section id="H30D80FF4D9C84AFCB6E340C8E6D690B2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Let the GSEs Pay Us Back Act of 2015</short-title></quote>.</text> </section><section id="H09222559D7E84CBD855443B6CE1A9182"><enum>2.</enum><header>Repayment of Treasury borrowing</header><text display-inline="no-display-inline">The Secretary of the Treasury and each enterprise (acting through the conservator for the enterprise appointed pursuant to section 1367 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (<external-xref legal-doc="usc" parsable-cite="usc/12/4617">12 U.S.C. 4617</external-xref>)) shall enter into an agreement that modifies the Preferred Stock Purchase Agreement for such enterprise to provide as follows:</text>
+ <paragraph id="HAF7394751C87425BBF5775B4D6067A67"><enum>(1)</enum><header>Termination of dividends</header><text>That after such modification, any Senior Preferred Stock purchased under such Agreement by the Department of the Treasury shall not accrue further dividends.</text>
+ </paragraph><paragraph id="H5BF9551E8C7B450188BABDC505559944"><enum>(2)</enum><header>Treatment of enterprise draws on Treasury</header><text display-inline="yes-display-inline">That any amounts received, before or after such modification, during a single year by the enterprise as a draw on the commitment made by the Department of the Treasury under such an Agreement, shall be treated as a loan made by the Treasury to the enterprise that—</text>
+ <subparagraph id="H7C49E05B03654326B605846C74250809"><enum>(A)</enum><text>was originated on the date of the last such draw during such year;</text> </subparagraph><subparagraph id="H0E7938DB54844FD7B5BF55E52C3FBC9E"><enum>(B)</enum><text>has an original principal obligation in an amount equal to the aggregate amount of such draws;</text>
+ </subparagraph><subparagraph id="HF88BE7DE9AD9414B9198872DDA8E4E5A"><enum>(C)</enum><text>has a term to maturity of 30 years;</text> </subparagraph><subparagraph id="HC27CE97D19524E56A17CBFDE8685B1E2"><enum>(D)</enum><text>has an annual interest rate of 5 percent for the entire term of the loan;</text>
+ </subparagraph><subparagraph id="H58D3C006552E449A8D67C2A70F432531"><enum>(E)</enum><text>has terms that provide for full amortization of the loan over such term to maturity; and</text> </subparagraph><subparagraph id="H515D03D0FCBC44459F31701CD81282EC"><enum>(F)</enum><text>shall be repaid by the enterprise in accordance with the amortization schedule established for the loan pursuant to subparagraph (E) of this paragraph, subject to paragraph (3).</text>
+ </subparagraph></paragraph><paragraph id="H2939BF9E7CFD45AAAEA882D1EF5FB25A"><enum>(3)</enum><header>Treatment of dividends paid</header><text>That any dividends paid by the enterprise to the Department of the Treasury under the Senior Preferred Stock Agreement before such modification of such Agreement shall be treated as payments of principal and interest due under the loan referred to in paragraph (2), and shall be credited against payments due under the terms of such loan (in accordance with the amortization schedule established for such loan pursuant to paragraph (2)(E)), first to such loan having the earliest origination date that has not yet been fully repaid until such loan is repaid, and then to the next such loan having the next earliest origination date until such loan is repaid.</text>
+ </paragraph></section><section id="H3538D6FEDC9144EBAC320F64A3BC69CF"><enum>3.</enum><header>Definitions</header><text display-inline="no-display-inline">For purposes of this Act, the following definitions shall apply:</text> <paragraph id="H3DA89AA7B14143C899CBF9C1DFCCEEC6"><enum>(1)</enum><header>Enterprise</header><text display-inline="yes-display-inline">The term <term>enterprise</term> has the meaning given such term in section 1303 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (<external-xref legal-doc="usc" parsable-cite="usc/12/4502">12 U.S.C. 4502</external-xref>).</text>
+ </paragraph><paragraph id="H9690935A5F6B49A38CF26669A6A616F6"><enum>(2)</enum><header>Preferred stock purchase agreement</header><text display-inline="yes-display-inline">The term <term>Preferred Stock Purchase Agreement</term> means, with respect to an enterprise, the Amended and Restated Senior Preferred Stock Purchase Agreements, dated September 26, 2008, amended May 6, 2009, further amended December 24, 2009, and further amended December 24, 2009 (as such agreements may be further amended), between the United States Department of the Treasury and such enterprise.</text>
+			</paragraph></section></legis-body>
+</bill>
+
+

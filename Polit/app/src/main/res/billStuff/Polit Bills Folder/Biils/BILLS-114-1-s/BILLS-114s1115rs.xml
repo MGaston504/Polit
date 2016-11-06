@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-Senate" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1115 RS: Grants Oversight and New Efficiency Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-04-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><calendar>Calendar No. 303</calendar><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 1115</legis-num><associated-doc role="report">[Report No. 114–169]</associated-doc><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150428">April 28, 2015</action-date><action-desc><sponsor name-id="S357">Mrs. Fischer</sponsor> (for herself, <cosponsor name-id="S338">Mr. Manchin</cosponsor>, and <cosponsor name-id="S345">Mr. Johnson</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name added-display-style="italic" committee-id="SSGA00" deleted-display-style="strikethrough">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc></action><action stage="Reported-in-Senate"><action-date>November 30, 2015</action-date><action-desc>Reported by <sponsor name-id="S345">Mr. Johnson</sponsor>, with an amendment and an amendment to the title</action-desc><action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction></action><legis-type>A BILL</legis-type><official-title>To close out expired, empty grant accounts.</official-title></form>
+	<legis-body id="HE28BEAEB137E4BD99019CD7EF73466BE" style="OLC">
+ <section changed="deleted" committee-id="SSGA00" id="H61779E72B9544093BD051820E1CF73EB" reported-display-style="strikethrough" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Grants Oversight and New Efficiency Act</short-title></quote> or the <quote><short-title>GONE Act</short-title></quote>.</text>
+		</section><section changed="deleted" committee-id="SSGA00" id="H623F125A475A44BDB092805642BA52DE" reported-display-style="strikethrough"><enum>2.</enum><header>Identifying and closing out expired, empty grant accounts</header>
+			<subsection id="H45687727B52B443389E532A38EA61D07"><enum>(a)</enum><header>Inspectors
+			 General report</header>
+				<paragraph id="id58C7CF30D29F4932A2000325538C29D1"><enum>(1)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Not later than 180 days after the date of enactment of this Act, the Council of the Inspectors General on Integrity and Efficiency shall submit to Congress and the head of each agency a report that—</text>
+ <subparagraph id="H783040E8F1FF4BDC8DB8CA788563E187"><enum>(A)</enum><text>lists each covered grant account held by the United States Government;</text>
+ </subparagraph><subparagraph id="H1C0EB4408FD544F0ACB5B14D2BAD6164"><enum>(B)</enum><text>recommends which of the covered grant accounts described in subparagraph (A) should be immediately closed; and</text>
+ </subparagraph><subparagraph id="id41CC81C807DE47CAB084367970DADFA8"><enum>(C)</enum><text>for each covered grant account that has been expired for more than 90 days, explains why the covered grant account has not been closed out.</text>
+ </subparagraph></paragraph><paragraph id="id18F65872940B42F0A7EB5C716B0C868B"><enum>(2)</enum><header>Consideration</header><text>In determining which grant accounts held by the United States Government are covered grant accounts, the Council of the Inspectors General on Integrity and Efficiency shall compare the information made available in the cash payment management system and the grants program management database to ensure that grant accounts for grant awards that are not expired are not listed under paragraph (1)(A).</text>
+				</paragraph></subsection><subsection id="H619A7FC4D45F4538BCD5C254F07B100D"><enum>(b)</enum><header>Closure of
+			 accounts required; notice</header>
+				<paragraph id="idFBF43980CBAA4880A935AB930452CE04"><enum>(1)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Not later than 180 days after the report is submitted under subsection (a), the head of each agency with a covered grant account recommended for closure in the report described in subsection (a) shall close out each expired grant award associated with each covered grant account that is managed by the agency.</text>
+				</paragraph><paragraph id="id9A00A850AE874B64BCAB4888A8103962"><enum>(2)</enum><header>Notice from
+ agencies</header><text>Not later than 90 days after the date on which the 180-day period described in paragraph (1) ends, the head of each agency required to close a covered grant account under paragraph (1) shall provide notice the Council of the Inspectors General on Integrity and Efficiency specifying whether the head of the agency has closed out grant awards associated with all of the covered grant accounts required to be closed under paragraph (1).</text>
+				</paragraph><paragraph id="id7A9BDAAF40554064A173832BD8C742D1"><enum>(3)</enum><header>Notice to
+ Congress</header><text>Not later than 90 days after the date on which the 90-day period described in paragraph (2) ends, the Council of the Inspectors General on Integrity and Efficiency shall submit to Congress and the committees of jurisdiction a report on the status of all the covered grant accounts required to be closed under paragraph (1).</text>
+ </paragraph></subsection><subsection commented="no" id="H4B887374B8EE470E83024C0BA06FF7E0"><enum>(c)</enum><header>Definitions</header><text>In this section—</text>
+ <paragraph commented="no" id="idF275676007294CE381939466F7D31B5C"><enum>(1)</enum><text>the term <term>agency</term> has the meaning given that term in section 551 of title 5, United States Code; and</text>
+ </paragraph><paragraph commented="no" id="id5CC1DAC9DF5A4145BBE51C3334C5AA64"><enum>(2)</enum><text>the term <term>covered grant account</term> means a grant account in a Federal agency payment management system held by the United States Government that has a zero balance for more than 180 days and for which the grant award period has expired.</text></paragraph></subsection></section></legis-body>
+	<legis-body display-enacting-clause="no-display-enacting-clause">
+ <section changed="added" committee-id="SSGA00" id="id1f03a403-2943-4ca3-b803-6dd72605fd61" reported-display-style="italic" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Grants Oversight and New Efficiency Act</short-title></quote> or the <quote><short-title>GONE Act</short-title></quote>.</text>
+		</section><section changed="added" committee-id="SSGA00" id="ida79a0973-8a95-4860-a23c-101c0c133f6a" reported-display-style="italic"><enum>2.</enum><header>Identifying and closing out expired grants</header>
+			<subsection id="id8a998e56-9b32-4ef1-8551-70bd7d952175"><enum>(a)</enum><header>Expired grant report</header>
+				<paragraph id="id88bf6c7c-9fde-45d1-bfa4-de08edd27bfb"><enum>(1)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Not later than 180 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall instruct the head of each agency, in coordination with the Secretary, to submit to Congress and the Secretary a report, not later than December 31 of the first calendar year beginning after the date of enactment of this Act, that—</text>
+ <subparagraph id="id9fb6021b-dd31-487c-af74-41e925b7a487"><enum>(A)</enum><text>lists each covered grant held by the United States Government;</text>
+ </subparagraph><subparagraph id="id55d79eac-d0e9-442f-8ff6-6e2192a9d40a"><enum>(B)</enum><text>recommends which of the covered grants described in subparagraph (A) should be closed; and</text>
+ </subparagraph><subparagraph id="id6d6a37b6-bbac-4194-98d5-aad460df02aa"><enum>(C)</enum><text>for each covered grant, explains why the covered grant has not been closed out.</text>
+ </subparagraph></paragraph><paragraph id="idD4780538E93A42FEB84951B0D9BA2354"><enum>(2)</enum><header>Use of data systems</header><text>An agency may use existing multiagency data systems in order to submit the report required under paragraph (1).</text>
+ </paragraph><paragraph id="idFCF034371AB34F5680F7B8D17F65D516"><enum>(3)</enum><header>Explanation of missing information</header><text>If an agency is unable to submit all of the information required to be included in the report under paragraph (1), the report shall include an explanation of why the information was not available, including any shortcomings with existing grant data systems.</text>
+				</paragraph></subsection><subsection id="idad6a20f0-5dd9-4f45-8a90-38d670c35f78"><enum>(b)</enum><header>Notice from
+			 agencies</header>
+ <paragraph id="id7E819510A77440CA92EDF29BD26C92E0"><enum>(1)</enum><header>In general</header><text>Not later than 1 year after the date on which the head of an agency submits the report required under subsection (a), the head of the agency shall provide notice to the Secretary specifying whether the head of the agency has closed out grant awards associated with all of the covered grants.</text>
+				</paragraph><paragraph id="id7a48b9ba-336c-4907-a52d-80e10aba2dbf"><enum>(2)</enum><header>Notice to
+ Congress</header><text>Not later than 90 days after the date on which the head of an agency provides notice to the Secretary under paragraph (1), the head of the agency shall provide the same notice to Congress.</text>
+ </paragraph></subsection><subsection commented="no" id="iddc0ca866-80b6-47e4-9a0d-4cf202983776"><enum>(c)</enum><header>Definitions</header><text>In this section—</text>
+ <paragraph commented="no" id="id658b58fd-ba2b-46ea-a5d9-8db1d9d75f38"><enum>(1)</enum><text>the term <term>agency</term> has the meaning given that term in section 551 of title 5, United States Code;</text>
+ </paragraph><paragraph commented="no" id="id8983EA37BAC14D0ABE9C4C6BA0BF46C8"><enum>(2)</enum><text>the term <term>close out</term> means a close out of a grant account conducted in accordance with section 200 of title 2, Code of Federal Regulations, including section 200.343 of such title, or any successor thereto;</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id07ade194-fcc6-4e22-85a5-b1d7a06df741"><enum>(3)</enum><text>the term <term>covered grant</term> means a grant in a Federal agency cash payment management system held by the United States Government for which—</text>
+ <subparagraph commented="no" display-inline="no-display-inline" id="id349330D21F1E4146988A0F933E66D902"><enum>(A)</enum><text>the grant award period of performance, including any extensions, has been expired for not less than 2 years; and</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id3D65338CF5294F92878DB7ADD647681F"><enum>(B)</enum><text>close out has not yet occurred in accordance with section 200.343 of title 2, Code of Federal Regulations, or any successor thereto; and</text>
+ </subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id1DE8A6FF273C4131ABCB413FC574F87D"><enum>(4)</enum><text>the term <term>Secretary</term> means the Secretary of Health and Human Services.</text></paragraph></subsection></section></legis-body><official-title-amendment>Amend the title so as to read: <quote>A bill to close out expired grants.</quote>.</official-title-amendment><endorsement><action-date>November 30, 2015</action-date><action-desc>Reported with an amendment and an amendment to the title</action-desc></endorsement></bill> 
+

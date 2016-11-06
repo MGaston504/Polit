@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8894FDB025AC47049D3763F3888C8403" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 27 IH: Tax Code Termination Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 27</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="G000289">Mr. Goodlatte</sponsor> (for himself, <cosponsor name-id="M001179">Mr. Marino</cosponsor>, <cosponsor name-id="J000295">Mr. Joyce</cosponsor>, <cosponsor name-id="W000798">Mr. Walberg</cosponsor>, <cosponsor name-id="W000795">Mr. Wilson of South Carolina</cosponsor>, <cosponsor name-id="F000461">Mr. Flores</cosponsor>, <cosponsor name-id="P000592">Mr. Poe of Texas</cosponsor>, <cosponsor name-id="P000606">Mr. Pittenger</cosponsor>, <cosponsor name-id="F000448">Mr. Franks of Arizona</cosponsor>, <cosponsor name-id="M001182">Mr. Mulvaney</cosponsor>, <cosponsor name-id="Y000065">Mr. Yoho</cosponsor>, <cosponsor name-id="J000255">Mr. Jones</cosponsor>, <cosponsor name-id="C000266">Mr. Chabot</cosponsor>, <cosponsor name-id="D000533">Mr. Duncan of Tennessee</cosponsor>, <cosponsor name-id="C001076">Mr. Chaffetz</cosponsor>, <cosponsor name-id="R000582">Mr. Roe of Tennessee</cosponsor>, <cosponsor name-id="L000576">Mr. Long</cosponsor>, <cosponsor name-id="S000244">Mr. Sensenbrenner</cosponsor>, <cosponsor name-id="B001257">Mr. Bilirakis</cosponsor>, <cosponsor name-id="G000548">Mr. Garrett</cosponsor>, <cosponsor name-id="G000568">Mr. Griffith</cosponsor>, <cosponsor name-id="C001048">Mr. Culberson</cosponsor>, <cosponsor name-id="A000367">Mr. Amash</cosponsor>, <cosponsor name-id="S001183">Mr. Schweikert</cosponsor>, <cosponsor name-id="A000369">Mr. Amodei</cosponsor>, <cosponsor name-id="W000796">Mr. Westmoreland</cosponsor>, <cosponsor name-id="B001243">Mrs. Blackburn</cosponsor>, <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>, <cosponsor name-id="F000445">Mr. Forbes</cosponsor>, <cosponsor name-id="N000189">Mr. Newhouse</cosponsor>, <cosponsor name-id="G000565">Mr. Gosar</cosponsor>, and <cosponsor name-id="W000810">Mr. Woodall</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HRU00">Rules</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To terminate the Internal Revenue Code of 1986.</official-title>
+	</form>
+	<legis-body id="H646405B4E1F1430481B2227F9BAFA00D" style="OLC">
+		<section display-inline="no-display-inline" id="HEC0A4FA8A7374D7782CEBFC54C10697A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Tax Code Termination Act</short-title></quote>.</text>
+		</section><section id="HBECF0B7BD10F4F13A332CC49D059D62B"><enum>2.</enum><header>Termination of Internal Revenue Code of 1986</header>
+			<subsection id="HE40CDF3886524BD594D8078056497421"><enum>(a)</enum><header>In General</header><text>No tax shall be imposed by the Internal Revenue Code of 1986—</text>
+				<paragraph id="H350377745D734FC8AD1F754A999223B8"><enum>(1)</enum><text>for any taxable year beginning after December 31, 2019; and</text>
+				</paragraph><paragraph id="H0F491393893C476EA3E93F2E939ADCB8"><enum>(2)</enum><text>in the case of any tax not imposed on the basis of a taxable year, on any taxable event or for any
+			 period after December 31, 2019.</text>
+				</paragraph></subsection><subsection id="H3448BAA44DC844D7862267BFB5A6759B"><enum>(b)</enum><header>Exception</header><text>Subsection (a) shall not apply to taxes imposed by—</text>
+				<paragraph id="HF874414C9C1A4155A3F1B47941F634C3"><enum>(1)</enum><text>chapter 2 of such Code (relating to tax on self-employment income);</text>
+				</paragraph><paragraph id="H5AC42E1708494F339DEB2F662447E5A6"><enum>(2)</enum><text>chapter 21 of such Code (relating to <act-name parsable-cite="FICA">Federal Insurance Contributions Act</act-name>); and</text>
+				</paragraph><paragraph id="H87F2C4A9FAEE46F980177384B2C5FF34"><enum>(3)</enum><text>chapter 22 of such Code (relating to <act-name parsable-cite="RRTA">Railroad Retirement Tax Act</act-name>).</text>
+				</paragraph></subsection></section><section id="H7125E575D8074ED188AA1F302C66032D"><enum>3.</enum><header>New Federal tax system</header>
+			<subsection id="H9F48458757AA4C0DBB24249CA84269D5"><enum>(a)</enum><header>Structure</header><text>The Congress hereby declares that any new Federal tax system should be a simple and fair system
+			 that—</text>
+				<paragraph id="H26D1E8F9D1C84F02AF6A95BFC43EB911"><enum>(1)</enum><text>applies a low rate to all Americans;</text>
+				</paragraph><paragraph id="HEC27917999B14F1C95848DC60A1B6EF1"><enum>(2)</enum><text>provides tax relief for working Americans;</text>
+				</paragraph><paragraph id="HB311BDBBA80340E3934F8E11D59C067E"><enum>(3)</enum><text>protects the rights of taxpayers and reduces tax collection abuses;</text>
+				</paragraph><paragraph id="HF6B749DEC26547D989D846F05DA39EAF"><enum>(4)</enum><text>eliminates the bias against savings and investment;</text>
+				</paragraph><paragraph id="HAB4DDB12250B45A0812CAECF09C5C195"><enum>(5)</enum><text>promotes economic growth and job creation; and</text>
+				</paragraph><paragraph id="HF4B45A1870094120BCFCED2A03383EEB"><enum>(6)</enum><text>does not penalize marriage or families.</text>
+				</paragraph></subsection><subsection id="HC389340DDB054E75B604B3A142A817D0"><enum>(b)</enum><header>Timing of implementation</header><text>In order to ensure an easy transition and effective implementation, the Congress hereby declares
+			 that any new Federal tax system should be approved by Congress in its
+			 final form no later than July 4, 2019.</text>
+			</subsection></section><section id="HD4623A4979E7403EA1A32A8E0500E28D"><enum>4.</enum><header>Delay of termination dates</header>
+			<subsection id="HFBB15C0F4C764437B6308916CE1C00FB"><enum>(a)</enum><header>Two-Thirds majority required</header><text display-inline="yes-display-inline">In the House of Representatives or the Senate, a bill or joint resolution, amendment, or conference
+			 report carrying a change of the dates specified in section 2(a) of this
+			 Act may not be considered as passed or agreed to unless so determined by a
+			 vote of not less than two-thirds of the Members voting, a quorum being
+			 present.</text>
+			</subsection><subsection id="H99400FDE9AF64D53BB2A52207EA1C17F"><enum>(b)</enum><header>Rules of the Senate and House</header><text>The provisions of subsection (a) are enacted by the Congress as an exercise of the rulemaking power
+			 of the House of Representatives and the Senate, respectively, and as such
+			 they shall be considered as part of the rules of each House, respectively,
+			 or of that House to which they specifically apply, and such rules shall
+			 supersede other rules only to the extent that they are inconsistent
+			 therewith.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

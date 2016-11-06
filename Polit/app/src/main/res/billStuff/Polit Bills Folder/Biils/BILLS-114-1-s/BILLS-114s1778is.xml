@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1778 IS: TELEmedicine for MEDicare Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-07-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1778</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150715">July 15, 2015</action-date>
+			<action-desc><sponsor name-id="S361">Ms. Hirono</sponsor> (for herself and <cosponsor name-id="S376">Mrs. Ernst</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to permit certain Medicare providers licensed in a
+			 State to provide telemedicine services to certain Medicare beneficiaries
+			 in a different State.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>TELEmedicine for MEDicare Act of 2015</short-title></quote> or the <quote><short-title>TELE-MED Act of 2015</short-title></quote>.</text>
+		</section><section id="id62ad4c0607b648f18fb648b8226c00f0"><enum>2.</enum><header>Permitting certain Medicare providers licensed in a State to provide telemedicine services to
+ certain Medicare beneficiaries in a different State</header><text display-inline="no-display-inline">Title XVIII of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395">42 U.S.C. 1395 et seq.</external-xref>) is amended by adding at the end the following new section:</text>
+			<quoted-block display-inline="no-display-inline" id="idDEBE5E078D0447DA81DAE558EB1BDAB3" style="OLC">
+				<section id="idad796e454e56420bbc1fdf8391957c25"><enum>1899C.</enum><header>Permitting certain Medicare providers licensed in a State to provide telemedicine services to
+			 certain Medicare beneficiaries in a different State</header>
+ <subsection id="id24fe44893f4c4fbbb527ec1f13b3ce24"><enum>(a)</enum><header>In general</header><text>In the case of a Medicare participating physician or practitioner who is licensed or otherwise legally authorized to provide a health care service in a State, such physician or practitioner may provide such a service as a telemedicine service to a Medicare beneficiary who is in a different State, and any requirement that such physician or practitioner obtain a comparable license or other comparable legal authorization from such different State with respect to the provision of such health care service by such physician or practitioner to such beneficiary shall not apply.</text>
+ </subsection><subsection id="idbe874edb2c0c45a2ad0f87d3e86e2184"><enum>(b)</enum><header>Enforcement</header><text>With respect to the provision of a service pursuant to this section, the licensing or authorizing State has jurisdiction to enforce the licensure or other legal authorization requirements of such primary State, including through disciplinary actions used by such State as of the day before the date of the enactment of this section.</text>
+ </subsection><subsection id="id4212d5cb3bb74c10b2a1b6b1d6695048"><enum>(c)</enum><header>Process To establish telemedicine service definition</header><text>Not later than 12 months after the date of the enactment of this section, the Secretary shall issue guidance to the States for developing a definition of the term <term>telemedicine services</term> for purposes of applying this section. For purposes of issuing such guidance, the Secretary shall solicit input from relevant stakeholders, including patients, health care providers, State government officials, health technology developers, insurers, employers, licensing boards, community health organizations, and other Federal agencies.</text>
+ </subsection><subsection id="idd45c91eb49d741f587a613555d313117"><enum>(d)</enum><header>Report</header><text>Not later than 12 months after the date of the enactment of this section, the Secretary shall submit to Congress a report on the plans to develop and expand the use of current and emerging Internet and communications technologies to expand access of Medicare beneficiaries to health programs.</text>
+ </subsection><subsection id="idfc58a29d4fbe47989c1bba4e6a548bea"><enum>(e)</enum><header>Definitions</header><text>For purposes of this section:</text> <paragraph id="idc82e406edae342c39adf0b18b78517de"><enum>(1)</enum><header>Medicare beneficiary</header><text>The term <term>Medicare beneficiary</term> means an individual entitled to benefits under part A or enrolled under part B.</text>
+ </paragraph><paragraph id="idedd6dd0848c54210b30e49b5fef10605"><enum>(2)</enum><header>Qualifying physician or practitioner</header><text>The term <term>Medicare participating physician or practitioner</term> means the following:</text> <subparagraph id="idacc036f3d7a74871b3e730371b85054b"><enum>(A)</enum><text>A physician (as defined in section 1861(r)) who is a participating physician or supplier (as defined in section 1842(h)(1)).</text>
+ </subparagraph><subparagraph id="id8913f3f446b545e38870e32e76daadea"><enum>(B)</enum><text>A practitioner (as defined in section 1842(b)(18)(C)) who is a participating physician or supplier (as defined in section 1842(h)(1)).</text>
+ </subparagraph></paragraph></subsection><subsection id="id0331ae2b3abf421a9b50818c87503aba"><enum>(f)</enum><header>Construction relating to Controlled Substances Act</header><text>Nothing in this section may be construed to remove, limit, or otherwise affect any obligation of a covered health care professional under the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/801">21 U.S.C. 801 et seq.</external-xref>).</text>
+ </subsection><subsection id="ida517e44e508c4789b14ef0e1c12cc114"><enum>(g)</enum><header>No effect on State malpractice laws or jurisdiction To hear civil claims</header><text>Nothing in this section may be construed to—</text> <paragraph id="idF5DB8C4CDC4B49088ED9C54A5D0362C2"><enum>(1)</enum><text>replace or supersede any State law regarding negligence or medical malpractice; or</text>
+ </paragraph><paragraph id="id08A48B9F3E564A8489476410670655CE"><enum>(2)</enum><text>divest any court of its jurisdiction to hear civil claims arising from a physician’s provision of telemedicine services.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

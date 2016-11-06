@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6D32EE46B3A34D8CA34DE665B3BBFF6A" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 143 IH: Patient Freedom Act of 2014</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 143</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="J000296">Mr. Jolly</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to repeal the individual health insurance mandate.</official-title>
+	</form>
+	<legis-body id="H3FC7F0C3E4924ABB8FDB3F11ACD05EBE" style="OLC">
+		<section id="HDD523DD6BE074763B5C01BD02AF80E19" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Patient Freedom Act of 2014</short-title></quote>.</text>
+		</section><section id="H4C88A67BEE6E4C44AE539DD1C718CF64"><enum>2.</enum><header>Repeal of individual health insurance mandate</header>
+			<subsection id="H7A94D9314E38494AA81C0633DA1547AD"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/5000A">Section 5000A</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following
+			 new subsection:</text>
+				<quoted-block id="H0A5B30DCB19141728B2344EEDC278BA5" style="OLC">
+					<subsection id="HBDB981D20F624C1FABB9DD9B210DCE1D"><enum>(h)</enum><header>Termination</header><text>This section shall not apply with respect to any month beginning after December 31, 2013.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HE6AA867566E143D3AD38228A1CF0B183"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall apply to taxable years ending after December 31, 2013.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

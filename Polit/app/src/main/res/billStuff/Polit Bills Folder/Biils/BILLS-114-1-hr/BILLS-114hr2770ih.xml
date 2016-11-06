@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H76BDA57FA75647108B683B0A746EA79A" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2770 IH: Keeping our Travelers Safe and Secure Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2770</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150615">June 15, 2015</action-date>
+			<action-desc><sponsor name-id="R000602">Miss Rice of New York</sponsor> (for herself, <cosponsor name-id="T000193">Mr. Thompson of Mississippi</cosponsor>, <cosponsor name-id="K000386">Mr. Katko</cosponsor>, and <cosponsor name-id="P000604">Mr. Payne</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Homeland Security Act of 2002 to require certain maintenance of security-related
+			 technology at airports, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H9866459DBBA3422AAB498DB5563DD8CD" style="OLC">
+ <section id="HB3A3055DD1EF43CAABF9F3A79309F1EC" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Keeping our Travelers Safe and Secure Act</short-title></quote>.</text> </section><section id="HB392C8D8B8604DCD976B3973B37F5B80"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+ <paragraph id="H2FA31F70853D4602A5E0A70B07CF1F7E"><enum>(1)</enum><text>The Administrator of the Transportation Security Administration has stated that the maintenance of security-related technology such as x-rays, explosive trace detection systems, explosive detection systems, liquid scanners, and enhanced walk-through metal detectors, is central to the execution of Transportation Security Administration’s mission to protect United States transportation systems.</text>
+ </paragraph><paragraph id="HD3D3057819EA4742B29AF4743CAB0E35"><enum>(2)</enum><text>Preventive and corrective maintenance is essential to ensuring and extending the service lives of security-related technology.</text>
+ </paragraph><paragraph id="H15688037E75C4DC8A2998A4953A00C82"><enum>(3)</enum><text>In May 2015, the Inspector General of the Department of Homeland Security, reporting on the results of a performance audit conducted between December 2013 and November 2014, concluded that because the Transportation Security Administration did not properly manage the maintenance of its security-related technology deployed to airports, it cannot be assured that routine preventive maintenance is performed or that equipment is repaired and ready for operational use.</text>
+ </paragraph><paragraph id="H2B094B35A0494C7894BC35E5CB7EA01B"><enum>(4)</enum><text>Specifically, the Inspector General found that the Transportation Security Administration did not issue adequate policies and procedures to document, track, and maintain preventive maintenance actions at the airport level and oversight of contractor-performed maintenance needed to be strengthened.</text>
+ </paragraph><paragraph id="HE63C12A51A8941338ED1E7368364501D"><enum>(5)</enum><text display-inline="yes-display-inline">According to the Inspector General, if the equipment is not fully operational, the Transportation Security Administration may have to use other screening measures that may be less effective at detecting dangerous items, thereby potentially jeopardizing passenger safety and security.</text>
+			</paragraph></section><section id="H45907F0003C24CF59A83DB9E4CCD83D6"><enum>3.</enum><header>Maintenance of security-related technology</header>
+ <subsection id="H181047EFDFAF4ED2A824D99A9D9EE6B7"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Title XVI of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/561">6 U.S.C. 561 et seq.</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H5D0BA1343A4046DE9975BB6098C3341B" style="OLC">
+					<subtitle id="H262133EEAFC34A628056CE8641A76F84"><enum>C</enum><header>Maintenance of Security-Related Technology</header>
+						<section id="H4A7A95E1872A4A2689DB801F4990B530"><enum>1621.</enum><header>Maintenance validation and oversight</header>
+ <subsection id="H8BEE8F363D874AC4B2D18236D215815A"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this subtitle, the Administrator shall develop and implement a preventive maintenance validation process for security-related technology deployed to airports.</text>
+ </subsection><subsection id="H7D029FC810604153A4F92D2BA49A5DB0"><enum>(b)</enum><header>Maintenance by Administration personnel at airports</header><text>For maintenance to be carried out by Administration personnel at airports, the process referred to in subsection (a) shall include the following:</text>
+ <paragraph id="HD01811B4BDF046CCA240AF583AFA993A"><enum>(1)</enum><text>Guidance to Administration personnel at airports specifying how to conduct and document preventive maintenance actions.</text>
+ </paragraph><paragraph id="H5DD72440DB7847669195F97563202452"><enum>(2)</enum><text>Mechanisms for the Administrator to verify compliance with the guidance issued pursuant to paragraph (1).</text>
+ </paragraph></subsection><subsection id="H6DF628764C19499DAAE2E48CB49CD14A"><enum>(c)</enum><header>Maintenance by contractors at airports</header><text>For maintenance to be carried out by a contractor at airports, the process referred to in subsection (a) shall require the following:</text>
+ <paragraph id="HB60B9204193D4301BC6F221DB526D7BF"><enum>(1)</enum><text>Provision of monthly preventive maintenance schedules to appropriate Administration personnel at each airport that includes information on each action to be completed by a contractor.</text>
+ </paragraph><paragraph id="HF96446B9DFE647F39A63084B73D7E69C"><enum>(2)</enum><text>Notification to appropriate Administration personnel at each airport when maintenance action is completed by a contractor.</text>
+ </paragraph><paragraph id="H363CA746063E470E9E55015262526716"><enum>(3)</enum><text>A process for independent validation by a third party of contractor maintenance.</text> </paragraph></subsection><subsection id="H4C9B55C7C50249558277DFD19039E3FF"><enum>(d)</enum><header>Penalties for noncompliance</header><text>The Administrator shall require maintenance contracts for security-related technology deployed to airports to include penalties for noncompliance when it is determined that either preventive or corrective maintenance has not been completed according to contractual requirements and manufacturers’ specifications.</text></subsection></section></subtitle><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H83773122BABE4B7C8E7A22B5AD40B842"><enum>(b)</enum><header>Clerical amendment</header><text>The table of contents of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 1616 the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H6C28388022BF472987A42A984E84811D" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="subtitle">Subtitle C—Maintenance of Security-Related Technology</toc-entry>
+						<toc-entry level="section">Sec. 1621. Maintenance validation and oversight.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

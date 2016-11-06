@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H4FD665BA930043C59D7392A34641D13F" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2916 IH: Fire Sale Loophole Closing Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2916</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150625">June 25, 2015</action-date>
+			<action-desc><sponsor name-id="C001084">Mr. Cicilline</sponsor> (for himself, <cosponsor name-id="D000482">Mr. Michael F. Doyle of Pennsylvania</cosponsor>, <cosponsor name-id="H001047">Mr. Himes</cosponsor>, <cosponsor name-id="M001160">Ms. Moore</cosponsor>, <cosponsor name-id="M001137">Mr. Meeks</cosponsor>, <cosponsor name-id="V000128">Mr. Van Hollen</cosponsor>, <cosponsor name-id="K000375">Mr. Keating</cosponsor>, <cosponsor name-id="E000288">Mr. Ellison</cosponsor>, <cosponsor name-id="T000465">Ms. Tsongas</cosponsor>, <cosponsor name-id="C001090">Mr. Cartwright</cosponsor>, <cosponsor name-id="L000563">Mr. Lipinski</cosponsor>, <cosponsor name-id="C001101">Ms. Clark of Massachusetts</cosponsor>, <cosponsor name-id="F000030">Mr. Farr</cosponsor>, <cosponsor name-id="S001145">Ms. Schakowsky</cosponsor>, <cosponsor name-id="I000057">Mr. Israel</cosponsor>, <cosponsor name-id="N000179">Mrs. Napolitano</cosponsor>, <cosponsor name-id="D000216">Ms. DeLauro</cosponsor>, <cosponsor name-id="D000197">Ms. DeGette</cosponsor>, <cosponsor name-id="L000559">Mr. Langevin</cosponsor>, <cosponsor name-id="S000480">Ms. Slaughter</cosponsor>, <cosponsor name-id="P000607">Mr. Pocan</cosponsor>, <cosponsor name-id="C001066">Ms. Castor of Florida</cosponsor>, <cosponsor name-id="P000597">Ms. Pingree</cosponsor>, <cosponsor name-id="L000397">Ms. Lofgren</cosponsor>, <cosponsor name-id="F000455">Ms. Fudge</cosponsor>, <cosponsor name-id="W000808">Ms. Wilson of Florida</cosponsor>, <cosponsor name-id="C001036">Mrs. Capps</cosponsor>, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, <cosponsor name-id="N000002">Mr. Nadler</cosponsor>, <cosponsor name-id="P000096">Mr. Pascrell</cosponsor>, <cosponsor name-id="S001193">Mr. Swalwell of California</cosponsor>, <cosponsor name-id="M001188">Ms. Meng</cosponsor>, <cosponsor name-id="E000293">Ms. Esty</cosponsor>, <cosponsor name-id="M001143">Ms. McCollum</cosponsor>, and <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/44">chapter 44</external-xref> of title 18, United States Code, to restrict the ability of a person whose
+			 Federal license to import, manufacture, or deal in firearms has been
+			 revoked, whose application to renew such a license has been denied, or who
+			 has received a license revocation or renewal denial notice, to transfer
+			 business inventory firearms, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H0131A2577F2E4D52BD6D9400560F0A33" style="OLC">
+ <section id="HF4176FB5B494463E8944E8F4300C0CF9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fire Sale Loophole Closing Act</short-title></quote>.</text> </section><section id="HEEC8BF5CFA7C48AF9D3BFF1CCF7209CA"><enum>2.</enum><header>Restrictions on the ability of a person whose Federal license to import, manufacture, or deal in firearms has been revoked, whose application to renew such a license has been denied, or who has received a license revocation or renewal denial notice, to transfer business inventory firearms</header> <subsection id="H0D2B8BD6AB864B6A80B98415720A1BD4"><enum>(a)</enum><header>Restrictions</header><text display-inline="yes-display-inline">Section 922 of title 18, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HD42CF32DA3614349B4F2E7A06C27DAAF" style="OLC">
+					<subsection display-inline="no-display-inline" id="H401081EBF32B42AC9BC8C87A3EEE5D20"><enum>(aa)</enum>
+						<paragraph commented="no" display-inline="yes-display-inline" id="HF34FB615BC794D839847D5A0A0D4D0D6"><enum>(1)</enum>
+ <subparagraph commented="no" display-inline="yes-display-inline" id="HB22A2A211D47478E997567F2320D7DAB"><enum>(A)</enum><text>It shall be unlawful for a person who has been notified by the Attorney General that the Attorney General has made a determination to revoke a license issued to the person under this chapter to import, manufacture, or deal in firearms, or to deny an application of the person to renew such a license, to—</text>
+ <clause id="HD3CE98E68173433DBB24285BFE45A791" indent="up2"><enum>(i)</enum><text>transfer a business inventory firearm of the person—</text> <subclause id="H18AC4389895D416C878E83FDD0D05679"><enum>(I)</enum><text display-inline="yes-display-inline">into a personal collection of the person; or</text>
+ </subclause><subclause id="HEF0857200D2042AD8155CAFC0341CD4B"><enum>(II)</enum><text>to an employee of the person, or to an individual described in section 923(d)(1)(B) with respect to the person; or</text>
+ </subclause></clause><clause id="HC417E9353D624F2FA81A9190E217AE2E" indent="up2"><enum>(ii)</enum><text display-inline="yes-display-inline">receive a firearm that was a business inventory firearm of the person as of the date the person received the notice.</text>
+ </clause></subparagraph><subparagraph id="HAFC6C5148488457D8ACFAD186AD3E8F8" indent="up2"><enum>(B)</enum><text>Subparagraph (A) shall not apply with respect to a license revocation or denial determination that is rescinded.</text>
+							</subparagraph></paragraph><paragraph display-inline="no-display-inline" id="HCDF96A6BBC494C71A1C8AF87423DB429" indent="up1"><enum>(2)</enum>
+ <subparagraph commented="no" display-inline="yes-display-inline" id="H37D15DE1228445D2A788D5492231EDAF"><enum>(A)</enum><text>It shall be unlawful for a person, on or after the effective date of the revocation of a license issued to the person under this chapter to import, manufacture, or deal in firearms, or (in the case that the application of the person to renew such a license is denied) on or after the date the license expires, to—</text>
+ <clause id="H17F6801AE5AF41678DFC8BCBB535EC31" indent="up1"><enum>(i)</enum><text>engage in conduct prohibited by paragraph (1); or</text> </clause><clause id="H68184F61762C4E40AD023BEABAF78124" indent="up1"><enum>(ii)</enum><text>transfer to any other person (except a person licensed under this chapter or a Federal, State, or local law enforcement agency) a firearm that was a business inventory firearm of the person as of the effective date or expiration date, as the case may be.</text>
+ </clause></subparagraph><subparagraph display-inline="no-display-inline" id="H71F20FB0B3A54E1786D637A077F3438B" indent="up1"><enum>(B)</enum><text>Subparagraph (A) shall not apply with respect to a license revocation or denial determination that is reversed.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H0BAFFFB61E114063A916591534D5D102"><enum>(b)</enum><header>Business inventory defined</header><text>Section 921(a) of such title is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="HD48720F9B9D14C0D8F9C769E0C16F610" style="OLC"> <paragraph id="HB84EBB3961F74F86828DDA1574A0731B" indent="up1"><enum>(36)</enum><header>Business inventory firearm</header><text display-inline="yes-display-inline">The term <term>business inventory firearm</term> means, with respect to a person, a firearm required by law to be recorded in the acquisition and disposition logs of any firearms business of the person.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H02C799621B184FF2A47102002C8C4B51"><enum>(c)</enum><header>Conforming amendment</header><text>Section 923(c) of such title is amended in the second sentence by inserting <quote>section 922(aa) and to</quote> after <quote>subject only to</quote>.</text> </subsection><subsection id="H914891A0BABD419AB755E01701606998"><enum>(d)</enum><header>Penalties</header><text>Section 924(a) of such title is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HA01B8A6511294019B6D1597ECD2D7680" style="OLC">
+ <paragraph id="H66C83FF91D37497D862485D325F06B89" indent="up1"><enum>(8)</enum><text display-inline="yes-display-inline">Whoever knowingly violates section 922(aa) shall be fined under this title, imprisoned not more than 1 year (or, if the violation was willful, 5 years), or both.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H27C073F8376B48E2A8CC387495E275A7"><enum>(e)</enum><header>Requirement that license revocation or application denial notice include text of law prohibiting
+			 dealing in firearms without a Federal firearms license and restricting
+			 transfer of firearms after receipt of official license revocation or
+ renewal application denial notice</header><text>Section 923(f)(1) of such title is amended in the last sentence by inserting <quote>, and shall set forth the provisions of Federal law and regulation which prohibit a person not licensed under this chapter from engaging in the business of dealing in firearms or are relevant in determining whether a person is doing so, and the provisions of section 922(aa)</quote> before the period.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2319 IS: To amend the Communications Act of 1934.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-11-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2319</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151119">November 19, 2015</action-date>
+			<action-desc><sponsor name-id="S303">Mr. Thune</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Communications Act of 1934.</official-title>
+	</form>
+	<legis-body>
+ <section id="S1" section-type="section-one"><enum>1.</enum><header>Deposits for spectrum auctions</header><text display-inline="no-display-inline">Section 309(j)(8)(C) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/309">47 U.S.C. 309(j)(8)(C)</external-xref>) is amended to read as follows:</text>
+			<quoted-block display-inline="no-display-inline" id="idB318F054038248C6AAE3CDBE26198C95" style="OLC">
+ <subparagraph commented="no" display-inline="no-display-inline" id="IDC11D086A36D3462FA547006741A7ABCE"><enum>(C)</enum><header display-inline="yes-display-inline">Deposits</header><text display-inline="yes-display-inline">Any deposits the Commission may require for the qualification of any person to bid in a system of competitive bidding pursuant to this subsection shall be deposited in the Treasury. Within 45 days following the conclusion of the competitive bidding—</text>
+ <clause commented="no" display-inline="no-display-inline" id="IDE24945CAD9594971A1021F24B597117F"><enum>(i)</enum><text>the deposits of successful bidders shall be credited to the deposit fund of the Treasury, except as otherwise provided in subparagraphs (D)(ii), (E)(ii), (F), and (G); and</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="ID61DAAC3794A34677A03D7BF77B5CF257"><enum>(ii)</enum><text>the deposits of unsuccessful bidders shall be returned to such bidders.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </section></legis-body> </bill> 
+

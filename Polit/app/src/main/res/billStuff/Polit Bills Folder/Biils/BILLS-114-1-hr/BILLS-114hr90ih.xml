@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2A0E38155F474B2FA7AA766B1E35BB99" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 90 IH: Veterans Healthcare Improvement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 90</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="B001285">Ms. Brownley of California</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To direct the Comptroller General of the United States to conduct reviews of certain budget
+			 requests of the President for the medical care accounts of the Department
+			 of Veterans Affairs.</official-title>
+	</form>
+	<legis-body id="H062A10CFB7B4461EBE4D894493C6B3DD" style="OLC">
+		<section id="H0033C7962693459E8A936BBE89D23087" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans Healthcare Improvement Act</short-title></quote>.</text>
+		</section><section id="H7DC6720E5D3F43EB9C64399189B4D1D2" section-type="subsequent-section"><enum>2.</enum><header>Comptroller General review of Department of Veterans Affairs medical care budget submissions</header><text display-inline="no-display-inline">Section 4 of the Veterans Health Care Budget Reform and Transparency Act of 2009 (Public Law
+			 111–81; <external-xref legal-doc="usc" parsable-cite="usc/38/117">38 U.S.C. 117</external-xref> note) is amended to read as follows:</text>
+			<quoted-block id="H51C4C11047A449C493A9512994C041CF" style="OLC">
+				<section id="HB5CE2BED55BE4E229C226D25B33F0D2D"><enum>4.</enum><header>Comptroller General review of Department of Veterans Affairs medical care budget submission</header>
+					<subsection id="H3C832E1F66DD42119BF89EE9E5F5981F"><enum>(a)</enum><header>Review of budget submission; reports</header><text>For each of fiscal years 2016, 2017, and 2018, the Comptroller General of the United States shall—</text>
+						<paragraph id="H58FD3509908C4AD8AECCACD9C68CF5B7"><enum>(1)</enum><text>review the budget requests for the medical care accounts of the Department of Veterans Affairs in
+			 the budget request of the President submitted pursuant to section 1105 of
+			 title 31, United States Code; and</text>
+						</paragraph><paragraph id="H3A5060FC6AB54824B9C9D4F4BD98D638"><enum>(2)</enum><text>submit to the Committees on Veterans’ Affairs, Appropriations, and the Budget of the Senate and the
+			 House of Representatives a report or reports on the results of each such
+			 review.</text>
+						</paragraph></subsection><subsection id="H8D8FC26E31A24E63AC1EAFFED8CC26B7"><enum>(b)</enum><header>Timing and scope of reports</header><text>In determining the timing and scope for the submittal of the report or reports required under
+			 subsection (a), the Comptroller General shall consult with the Committees
+			 on Veterans’ Affairs of the Senate and the House of Representatives.</text>
+					</subsection><subsection id="H7A733ECFFAE945C198392290D2CDB857"><enum>(c)</enum><header>Medical care accounts</header><text>In this section, the term <term>medical care accounts of the Department of Veterans Affairs</term> means the following medical care accounts of the Veterans Health Administration, Department of
+			 Veterans Affairs account:</text>
+						<paragraph id="H4FA6C629D3604142895B369BAADE24B7"><enum>(1)</enum><text>Medical Services.</text>
+						</paragraph><paragraph id="H4F521ED861D14BC08217ABF6F5CD60DF"><enum>(2)</enum><text>Medical Support and Compliance.</text>
+						</paragraph><paragraph id="H05FD42FC04F14FFD942880B049BE3232"><enum>(3)</enum><text>Medical Facilities.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H12C7E09FF9C949A798794ED0AB13BF11" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2645 IH: To amend title 5, United States Code, to prevent the Thrift Savings Fund from investing in any company that boycotts Israel.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2645</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150604">June 4, 2015</action-date>
+			<action-desc><sponsor name-id="B001296">Mr. Brendan F. Boyle of Pennsylvania</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 5, United States Code, to prevent the Thrift Savings Fund from investing in any
+			 company that boycotts Israel.</official-title>
+	</form>
+	<legis-body id="H28C46B764EC24607859AAE03D5A0B824" style="OLC">
+ <section id="H1588A1A82E644E67997E76CE52208AC9" section-type="section-one"><enum>1.</enum><header>Limitation on investment of the Thrift Savings Fund</header><text display-inline="no-display-inline">Section 8438 of title 5, United States Code, is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H5291DFCFCA7149C6A77EC29632EAFFC2" style="USC"> <clause id="H060C6EBA5B9A4DAFBEBA540DC9084594"><enum>(i)</enum> <subclause commented="no" display-inline="yes-display-inline" id="HF4E46C8F6DAD4986A30E8363F5B3E195"><enum>(I)</enum><text>Notwithstanding any other provision of law, no amounts may be invested under this section in any company that boycotts Israel.</text>
+ </subclause><subclause id="H4BCB1722D8904E04BDABA2FF111A2CE1" indent="up1"><enum>(II)</enum><text>In this clause—</text> <item id="HC8868D4F043D483B8124D4247C279DA2"><enum>(aa)</enum><text display-inline="yes-display-inline">the term <quote>boycotts Israel</quote> means engaging in actions that are politically motivated and are intended to penalize, inflict economic harm on, or otherwise limit commercial relations with Israel or companies based in Israel or in territories controlled by Israel; and</text>
+ </item><item id="H0A349164EB3F431D91792E84A5CDD04D"><enum>(bb)</enum><text display-inline="yes-display-inline">the term <quote>company</quote> means any sole proprietorship, organization, association, corporation, partnership, joint venture, limited partnership, limited liability partnership, limited liability company, or other entity or business association, including all wholly owned subsidiaries, majority-owned subsidiaries, parent countries or affiliates of those entities or business associations, that exist for the purpose of making profit.</text></item></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1055 IS: To require the Administrator of General Services and the Secretary of Energy to set goals for deep energy retrofits in Federal buildings. </dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-04-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1055</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150422">April 22, 2015</action-date>
+			<action-desc><sponsor name-id="S332">Mr. Franken</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEV00">Committee on Environment and Public Works</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require the Administrator of General Services and the Secretary of Energy to set goals for deep
+			 energy retrofits in Federal buildings. </official-title>
+	</form>
+	<legis-body>
+		<section id="id78EE56FAA2B8424DB5C32445E03301BD" section-type="section-one"><enum>1.</enum>
+ <header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> <paragraph id="idBDF75B0107B24A5A8ABF7989EBE47452"><enum>(1)</enum><header>Administrator</header><text>The term <term>Administrator</term> means the Administrator of General Services.</text>
+ </paragraph><paragraph id="id436FBCC25D9C44389AA69EFA72EB89D2"><enum>(2)</enum><header>Baseline</header><text>The term <term>baseline</term> means the highest annual rate of energy use for a building during the period beginning on January 1, 2012, and ending on December 31 of the calendar year preceding the calendar year during which the deep energy retrofit of the building commenced.</text>
+ </paragraph><paragraph id="idD629AEF5F8EC499B8FD09C2219546C3B"><enum>(3)</enum><header>Deep energy retrofit</header><text>The term <term>deep energy retrofit</term> means a project carried out in a Federal building that results in energy savings in that building of at least 35 percent, and preferably at least 50 percent, relative to the baseline.</text>
+			</paragraph><paragraph id="idCD6262D14EE140FE8E13365E4D3E0970"><enum>(4)</enum><header>Energy savings</header>
+ <subparagraph id="id48B0761370AE4A10998D19E2B305F1F1"><enum>(A)</enum><header>In general</header><text>The term <term>energy savings</term> means the quantity of energy calculated on an annual basis and equal to the difference between—</text> <clause id="idE7DCAF269E734358A8334CD610A93EF3"><enum>(i)</enum><text>the quantity of energy used in a Federal building after a deep energy retrofit; and</text>
+ </clause><clause id="id932713C954B249388AECC3D743F4C51F"><enum>(ii)</enum><text>the baseline for the building.</text> </clause></subparagraph><subparagraph id="id9CA4B6D2A1624921BA913595D334B427"><enum>(B)</enum><header>Calculation</header><text>For purposes of calculating energy savings under subparagraph (A)—</text>
+ <clause id="idBB61F95B93E1413EB13E739DA314610A"><enum>(i)</enum><text>calculations shall be made for electricity separately than other fuels;</text> </clause><clause id="idF0E9252B507645BB9A18C07271F8C8FB"><enum>(ii)</enum><text>conversions from electricity to British thermal units may be permitted; and</text>
+ </clause><clause id="idFA618EB7D5B0426997DA2221CCD2C260"><enum>(iii)</enum><text>the baseline and deep retrofit building consumption data shall be adjusted for any differences in weather, occupancy, and other important usage indicators.</text>
+ </clause></subparagraph></paragraph><paragraph id="id2A8CEACC2E0B4469AFE7FE69F085CE6D"><enum>(5)</enum><header>Federal building</header><text>The term <term>Federal building</term> means a building owned by a Federal agency.</text> </paragraph><paragraph id="id6EF43D5C1FB04B5DA6A835D6028A982F"><enum>(6)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of Energy.</text>
+			</paragraph></section><section id="idD58720961FB74D8C9608B78E1178E4AD"><enum>2.</enum><header>Deep energy retrofit program</header>
+			<subsection id="id4A88F554A615438E89B6FF7F94EC06C4"><enum>(a)</enum><header>Planning</header>
+ <paragraph id="id4A49BBD61B32403C94BF7D380F1A2AB9"><enum>(1)</enum><header>Development</header><text>Not later than 1 year after the date of enactment of this Act, the Administrator and the Secretary shall develop a plan for meeting the 2020 goals described in subsection (b).</text>
+				</paragraph><paragraph id="idE65D638A96D94E3EBB29CA00BF69127C"><enum>(2)</enum><header>Agency plans</header>
+ <subparagraph id="idDD2C85566519454292BDD2BD8097DDD0"><enum>(A)</enum><header>In general</header><text>Not later than July 1, 2018, the head of each Federal agency that owns a Federal building shall submit to the Secretary and the Administrator a plan for deep energy retrofits of at least 50 percent of the Federal buildings of the agency.</text>
+ </subparagraph><subparagraph id="id9BFBD5FD233145E688674B23D1D87A50"><enum>(B)</enum><header>Technical assistance</header><text>The Secretary, acting through the Federal Energy Management Program and in cooperation with the Administrator, shall provide technical assistance to each Federal agency to carry out subparagraph (A).</text>
+					</subparagraph></paragraph></subsection><subsection id="id91D6586832E041DDA2FD6E53E5EC58B0"><enum>(b)</enum><header>2020 Goal</header>
+ <paragraph id="id8C23C08184AB41F38933ED91931B25EF"><enum>(1)</enum><header>In general</header><text>Subject to paragraphs (2) and (3), not later than January 1, 2020, and after consideration of the plans submitted under subsection (a)(1)—</text>
+ <subparagraph id="idD1098411667C4904A96DC040077DD85E"><enum>(A)</enum><text>the Administrator shall carry out not fewer than 100 deep energy retrofits; and</text>
+ </subparagraph><subparagraph id="id92BC9FBC255942EF8D48B2865B72A876"><enum>(B)</enum><text>the Secretary, acting through the Federal Energy Management Program, shall work with Federal agencies (other than the General Services Administration) to carry out not fewer than 50 deep energy retrofits.</text>
+ </subparagraph></paragraph><paragraph id="id4A097E0A497A4FF896497B3A77A7C264"><enum>(2)</enum><header>Minimum energy savings</header><text>In carrying out paragraph (1), the Administrator and the Secretary shall ensure that at least <fraction>1/3</fraction> of the total number of energy retrofits achieve energy savings of at least 50 percent.</text> </paragraph><paragraph id="id6D2DE4031BC34E1C8C25D8C7678BD282"><enum>(3)</enum><header>Cost control</header><text>The Secretary and the Administrator may select for deep energy retrofit Federal buildings that—</text>
+ <subparagraph id="idCDCD2B94D5C74A9BB8BBDEEDC708244E"><enum>(A)</enum><text>are scheduled for renovation; or</text> </subparagraph><subparagraph id="idD47E9444EA3D428CA25179412E9C72E1"><enum>(B)</enum><text>require replacement of major systems.</text>
+					</subparagraph></paragraph></subsection><subsection id="id71DC1E90BE9343DA8E3E85D904A3594E"><enum>(c)</enum><header>2030 Goal</header>
+ <paragraph id="id306CB15C68194A02BED24213F8B758FE"><enum>(1)</enum><header>In general</header><text>Subject to paragraphs (2) and (3), during the 10-year period beginning on January 1, 2020, the Administrator and the Secretary shall carry out deep energy retrofits in not less than 50 percent of the total square footage of Federal buildings remaining for deep energy retrofits after the retrofits carried out under subsection (b) are completed.</text>
+ </paragraph><paragraph id="id78B600482F894DD7A138D060D01DF5D5"><enum>(2)</enum><header>Minimum energy savings</header><text>In carrying out paragraph (1), the Administrator and the Secretary shall ensure that at least <fraction>1/3</fraction> of the total number of energy retrofits achieve energy savings of at least 50 percent.</text> </paragraph><paragraph id="id7BCC873D269D436C83A465D07E837A28"><enum>(3)</enum><header>Timing</header><text>Of the 50 percent of the total square footage required for deep energy retrofits under paragraph (1), approximately 5 percent shall be completed during each year of the 10-year period described in that paragraph.</text>
+				</paragraph></subsection><subsection id="idB2F8D165EDA24B18AB4DA76F13900717"><enum>(d)</enum><header>2040 Goal</header>
+ <paragraph id="id69348682CA974B51B1AC736B42AA5DC3"><enum>(1)</enum><header>In general</header><text>The Secretary shall set goals for deep energy retrofits during the 10-year period beginning on January 1, 2030, after considering the results of the deep energy retrofits carried out under subsections (b) and (c).</text>
+ </paragraph><paragraph id="id311D7816FDEA49D8917289A8853EBAE5"><enum>(2)</enum><header>Waivers and exceptions</header><text>In setting goals under paragraph (1), the Secretary shall allow waivers and exceptions for—</text> <subparagraph id="idA9B2E396A4C346CB97B4C8CB4FCE1680"><enum>(A)</enum><text>historic structures;</text>
+ </subparagraph><subparagraph id="id68D02DFAD6934C138679B8ED379576EC"><enum>(B)</enum><text>buildings with high energy use for security purposes; and</text> </subparagraph><subparagraph id="id51C2891B5E7F432CB3E1452E929C3C4F"><enum>(C)</enum><text>such other special circumstances as the Secretary may determine.</text>
+ </subparagraph></paragraph></subsection><subsection id="idDB55CB8BD18C46EC8B80D58B8F81EAC0"><enum>(e)</enum><header>Adjustment</header><text>The Secretary may adjust the number of deep energy retrofits required under this section based on the most recent data relating to technical feasibility and economic justification, as determined by the Secretary taking into account the need to achieve positive cashflow over the full life of measures using discount rates designated by the Office of Management and Budget.</text></subsection></section></legis-body>
+</bill>
+
+

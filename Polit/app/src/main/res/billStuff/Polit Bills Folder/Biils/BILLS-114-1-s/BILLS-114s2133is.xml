@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2133 IS: Fraud Reduction and Data Analytics Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-10-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2133</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151005">October 5, 2015</action-date>
+			<action-desc><sponsor name-id="S198">Mr. Reid</sponsor> (for <cosponsor name-id="S277">Mr. Carper</cosponsor> (for himself, <cosponsor name-id="S384">Mr. Tillis</cosponsor>, <cosponsor name-id="S312">Mrs. McCaskill</cosponsor>, <cosponsor name-id="S345">Mr. Johnson</cosponsor>, and <cosponsor name-id="S354">Ms. Baldwin</cosponsor>)) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To improve Federal agency financial and administrative controls and procedures to assess and
+			 mitigate fraud risks, and to improve Federal agencies' development and use
+			 of data analytics for the purpose of identifying, preventing, and
+			 responding to fraud, including improper payments.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fraud Reduction and Data Analytics Act of 2015</short-title></quote>.</text>
+ </section><section id="idF40FEF9DC43D4A1693123B8E1F184DD9"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act—</text> <paragraph id="id199AEA963C2A41FBB6544A55F970833B"><enum>(1)</enum><text display-inline="yes-display-inline">the term <term>agency</term> has the meaning given the term in section 551 of title 5, United States Code; and</text>
+ </paragraph><paragraph id="id58505CA246E64A7680FBA8ADD198F0EF"><enum>(2)</enum><text>the term <term>improper payment</term> has the meaning given the term in section 2(g) of the Improper Payments Information Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/31/3321">31 U.S.C. 3321</external-xref> note).</text>
+			</paragraph></section><section id="idC6D24B2ABAEE4A3F85D347154C1093DC"><enum>3.</enum><header>Establishment of financial and administrative controls relating to fraud and improper payments</header>
+			<subsection id="id4371EE872DC6456A907E7AFF29630424"><enum>(a)</enum><header>Guidelines</header>
+ <paragraph id="idAED2F8FB084E43BE8F4E8D2CFAFD9025"><enum>(1)</enum><header>In general</header><text>Not later than 90 days after the date of enactment of this Act, the Director of the Office of Management and Budget, in consultation with the Comptroller General of the United States, shall establish guidelines for agencies to establish financial and administrative controls to identify and assess fraud risks and design and implement control activities in order to prevent, detect, and respond to fraud, including improper payments.</text>
+ </paragraph><paragraph id="id84E727A9FCBF4ECD8C43380AF9F81D6A"><enum>(2)</enum><header>Contents</header><text>The guidelines described in paragraph (1) shall incorporate the leading practices identified in the report published by the Government Accountability Office on July 28, 2015, entitled <quote>Framework for Managing Fraud Risks in Federal Programs</quote>.</text>
+ </paragraph><paragraph id="idF1BE927DEC8946E3B8EEE11DAFBBDA3D"><enum>(3)</enum><header>Modification</header><text>The Director of the Office of Management and Budget, in consultation with the Comptroller General of the United States, may periodically modify the guidelines described in paragraph (1) as the Director and Comptroller General may determine necessary.</text>
+ </paragraph></subsection><subsection id="id30394164547C4832911FB0CC0FD3E1A2"><enum>(b)</enum><header>Requirements for controls</header><text>The financial and administrative controls required to be established by agencies under subsection (a) shall include—</text>
+ <paragraph id="id666b4bd75afc4fe888e3ead75a04aed4"><enum>(1)</enum><text>conducting an evaluation of fraud risks and using a risk-based approach to design and implement financial and administrative control activities to mitigate identified fraud risks;</text>
+ </paragraph><paragraph id="idd78a9a047efc4a87a9a261f0dbc8e2a7"><enum>(2)</enum><text>collecting and analyzing data from reporting mechanisms on detected fraud to monitor fraud trends and using that data and information to continuously improve fraud prevention controls; and</text>
+ </paragraph><paragraph id="idf92f6b2772684c96a4ee6a9ce2c781e0"><enum>(3)</enum><text>using the results of monitoring, evaluation, audits, and investigations to improve fraud prevention, detection, and response.</text>
+				</paragraph></subsection><subsection id="id08AA0C21FD3C4E73958F96BBB1AAF4DC"><enum>(c)</enum><header>Reports</header>
+ <paragraph id="idEBDA588B4ACB438EA966744015FE791A"><enum>(1)</enum><header>In general</header><text>Except as provided in paragraph (2), for each of the first 3 fiscal years beginning after the date of enactment of this Act, each agency shall submit to Congress, as part of the annual financial report of the agency, a report on the progress of the agency in—</text>
+ <subparagraph id="id625DBFACB3C6433EB13B900E42B980C0"><enum>(A)</enum><text>implementing—</text> <clause id="id88AB65C3E9624F609BC6C5AA941B6FD0"><enum>(i)</enum><text>the financial and administrative controls required to be established under subsection (a);</text>
+ </clause><clause id="id792D1BEEDB8741E085865D1A28458D5B"><enum>(ii)</enum><text>the fraud risk principle in the Standards for Internal Control in the Federal Government; and</text> </clause><clause id="id6948FEBC72CE499DB5DDECCEC6C2B7ED"><enum>(iii)</enum><text>Office of Management and Budget Circular A–123 with respect to the leading practices for managing fraud risk;</text>
+ </clause></subparagraph><subparagraph id="idADE45733EFC549AC93F23EE1118BA443"><enum>(B)</enum><text>identifying risks and vulnerabilities to fraud, including with respect to payroll, beneficiary payments, grants, large contracts, and purchase and travel cards; and</text>
+ </subparagraph><subparagraph id="idD36CC34DD54C46C196660B47AB929D85"><enum>(C)</enum><text>establishing strategies, procedures, and other steps to curb fraud.</text> </subparagraph></paragraph><paragraph id="idB401C3E58FC84F628E830960A81DF977"><enum>(2)</enum><header>First report</header><text>If the date of enactment of this Act is less than 180 days before the date on which an agency is required to submit the annual financial report of the agency, the agency may submit the report required under paragraph (1) as part of the following annual financial report of the agency.</text>
+				</paragraph></subsection></section><section id="id48C959CB47EF42679CF3F721812127A2"><enum>4.</enum><header>Working group</header>
+ <subsection id="id457ADA172AAB4EB4BD6FD2D89676598A"><enum>(a)</enum><header>Establishment</header><text>Not later than 180 days after the date of enactment of this Act, the Office of Management and Budget shall establish a working group to improve—</text>
+ <paragraph id="id3BD06EAEB6D34E3BBECFB931955508A5"><enum>(1)</enum><text>the sharing of financial and administrative controls established under section 3(a) and other best practices and techniques for detecting, preventing, and responding to fraud, including improper payments; and</text>
+ </paragraph><paragraph id="idBAF1221767654F52B29EB577A6E3DAD2"><enum>(2)</enum><text>the sharing and development of data analytics techniques.</text> </paragraph></subsection><subsection id="idE6B8A46DC47441CB8489FAC6CF6A894D"><enum>(b)</enum><header>Composition</header><text>The working group established under subsection (a) shall be composed of—</text>
+ <paragraph id="id6BFF8A80AD0E47E496526A9239D4C60D"><enum>(1)</enum><text>the Controller of the Office of Management and Budget, who shall serve as Chairperson; and</text> </paragraph><paragraph id="id0053FCEF1C614DD688CC6BD01D046BBE"><enum>(2)</enum><text>the Chief Financial Officer of each agency.</text>
+ </paragraph></subsection><subsection id="id3744BBBB11564A4A8F6DAA7EAD79BC08"><enum>(c)</enum><header>Consultation</header><text>The working group established under subsection (a) shall consult with Offices of Inspectors General and Federal and non-Federal experts on fraud risk assessments, financial controls, and other relevant matters.</text>
+ </subsection><subsection id="id3472C25D28D643139C54222E557A226D"><enum>(d)</enum><header>Meetings</header><text>The working group established under subsection (a) shall hold not fewer than 4 meetings per year.</text> </subsection><subsection id="idCC613B6269844835BB8D8165A094EBC7"><enum>(e)</enum><header>Plan</header><text>Not later than 270 days after the date of enactment of this Act, the working group established under subsection (a) shall submit to Congress a plan for the establishment and use of a Federal interagency library of data analytics and data sets, which can incorporate or improve upon existing Federal resources and capacities, for use by agencies and Offices of Inspectors General to facilitate the detection, prevention, and recovery of fraud, including improper payments.</text>
+			</subsection></section></legis-body></bill>
+
+

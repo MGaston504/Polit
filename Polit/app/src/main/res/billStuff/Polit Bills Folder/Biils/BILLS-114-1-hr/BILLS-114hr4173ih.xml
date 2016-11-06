@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD66FB42D7B7E426583D6E2C256A7D5EC" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4173 IH: To provide that an alien who has traveled to Iraq or Syria during the 5-year period prior to the alien’s application for admission is ineligible to be admitted to the United States under the visa waiver program, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4173</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151203">December 3, 2015</action-date>
+			<action-desc><sponsor name-id="B001296">Mr. Brendan F. Boyle of Pennsylvania</sponsor> (for himself and <cosponsor name-id="M001143">Ms. McCollum</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide that an alien who has traveled to Iraq or Syria during the 5-year period prior to the
+			 alien’s application for admission is ineligible to be admitted to the
+			 United States under the visa waiver program, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H85E2D739EEAF4D19BB1C6E970EE4F2F6" style="OLC">
+ <section id="HD65BD7226E3D45179A773D8E66EA55C6" section-type="section-one"><enum>1.</enum><header>Travel to Iraq or Syria prohibited for participation in the visa waiver program</header><text display-inline="no-display-inline">Section 217(a) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(a)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H143937FD402B46DE877B8FC9254C6F61" style="OLC">
+				<paragraph id="H2F0B533930C747E3865AE7EC63139840"><enum>(12)</enum><header>No travel to Iraq or Syria</header>
+ <subparagraph id="HAB3AE4F4D27D4EDBB670E2CB8A247C52"><enum>(A)</enum><header>In general</header><text>The alien has not traveled to Iraq or Syria during the 5-year period preceding the alien’s application for admission under this section.</text>
+ </subparagraph><subparagraph id="H521D7F13182E47C297D127F82524BA68"><enum>(B)</enum><header>Waiver authorized</header><text>The Secretary of Homeland Security, in consultation with the Secretary of State, may waive the requirement under subparagraph (A) as the Secretary determines appropriate.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,316 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H83DDC165D87B4E12B4C8BBF4D7F21A04" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 183 IH: Federal Sunset Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 183</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150107">January 7, 2015</action-date>
+			<action-desc><sponsor name-id="H001067">Mr. Hudson</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for the periodic review of the efficiency and public need for Federal agencies, to
+			 establish a commission for the purpose of reviewing the efficiency and
+			 public need of such agencies, and to provide for the abolishment of
+			 agencies for which a public need does not exist.</official-title>
+	</form>
+	<legis-body id="H820310A4D749455AB6A0A4B0561CDE15" style="OLC">
+		<section display-inline="no-display-inline" id="HF16C90ADEA4B47C5B223E86A185EF3C7" section-type="section-one"><enum>1.</enum><header>Short title; table of contents</header>
+			<subsection id="HEB8998E81EC546A5981EF3EFD2AA5B2E"><enum>(a)</enum><header>Short title</header><text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Federal Sunset Act of 2015</short-title></quote>.</text>
+			</subsection><subsection id="H2931E700DB38413A820CE9BD7B25DCD3"><enum>(b)</enum><header>Table of contents</header><text>The table of contents for this Act is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="yes-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="HF16C90ADEA4B47C5B223E86A185EF3C7" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="H1AD380D62A88421D8B6B947BAD2878FA" level="section">Sec. 2. Review and abolishment of Federal agencies.</toc-entry>
+					<toc-entry idref="H584F84D238BE48CFAF6A874FB30F2D76" level="section">Sec. 3. Establishment of Commission.</toc-entry>
+					<toc-entry idref="HA7755DAEC76F4084BC68FC47161EF0D9" level="section">Sec. 4. Review of efficiency and need for Federal agencies.</toc-entry>
+					<toc-entry idref="HBEBA0F2622464CCAAC9B5A5216ACCC8A" level="section">Sec. 5. Criteria for review.</toc-entry>
+					<toc-entry idref="H8E1E1CEDAC9745F78767430A70F94447" level="section">Sec. 6. Commission oversight.</toc-entry>
+					<toc-entry idref="H87E0CB52D45F405BB08BCBAAA469765D" level="section">Sec. 7. Rulemaking authority.</toc-entry>
+					<toc-entry idref="H8AFE44D10BB64F29AE86C005EE0378C0" level="section">Sec. 8. Relocation of Federal employees.</toc-entry>
+					<toc-entry idref="H49C884268C8E4C43A10B3B3E2E9F2424" level="section">Sec. 9. Program inventory.</toc-entry>
+					<toc-entry idref="H02E6B01C40094D818683F8B666F92486" level="section">Sec. 10. Definition of agency.</toc-entry>
+					<toc-entry idref="H11B532D9207F41D4870090396FB1983D" level="section">Sec. 11. Offset of amounts appropriated.</toc-entry></toc>
+			</subsection></section><section display-inline="no-display-inline" id="H1AD380D62A88421D8B6B947BAD2878FA" section-type="subsequent-section"><enum>2.</enum><header>Review and abolishment of Federal agencies</header>
+			<subsection id="H9AF8B0D1D0784CE8BC571B63AC508796"><enum>(a)</enum><header>Schedule for review</header><text>Not later than one year after the date of the enactment of this Act, the Federal Agency Sunset
+			 Commission established under section 3 (in this Act referred to as the <quote>Commission</quote>) shall submit to Congress a schedule for review by the Commission, at least once every 12 years
+			 (or less, if determined appropriate by Congress), of the abolishment or
+			 reorganization of each agency.</text>
+			</subsection><subsection id="HA301EE7E965644B6AAD3583BB9579A13"><enum>(b)</enum><header>Review of agencies performing related functions</header><text>In determining the schedule for review of agencies under subsection (a), the Commission shall
+			 provide that agencies that perform similar or related functions be
+			 reviewed concurrently to promote efficiency and consolidation.</text>
+			</subsection><subsection id="HABB47B75073D470588F0E364C688FBF1"><enum>(c)</enum><header>Abolishment of agencies</header>
+				<paragraph id="HC9DC30EF4B49462F8B7C4E899C9525E2"><enum>(1)</enum><header>In general</header><text>Each agency shall—</text>
+					<subparagraph id="HF3B2503B1DE048D3B4D53BA85F1EE809"><enum>(A)</enum><text>be reviewed according to the schedule created pursuant to this section; and</text>
+					</subparagraph><subparagraph id="HA7E1C49FC7134665BF3C9E25519CB971"><enum>(B)</enum><text>be abolished not later than one year after the date that the Commission completes its review of the
+			 agency pursuant to such schedule, unless the agency is reauthorized by the
+			 Congress.</text>
+					</subparagraph></paragraph><paragraph id="H260FDA8B95F94805859BDC0D997B6F3E"><enum>(2)</enum><header>Extension</header><text>The deadline for abolishing an agency may be extended for an additional two years after the date
+			 described in paragraph (1)(B) if the Congress enacts legislation extending
+			 such deadline by a vote of a super majority of the House of
+			 Representatives and the Senate.</text>
+				</paragraph></subsection></section><section display-inline="no-display-inline" id="H584F84D238BE48CFAF6A874FB30F2D76" section-type="subsequent-section"><enum>3.</enum><header>Establishment of Commission</header>
+			<subsection id="H04CC3C3EE60B4CD4A36C89A94FC8F294"><enum>(a)</enum><header>Establishment</header><text>There is established a commission to be known as the <quote>Federal Agency Sunset Commission</quote>.</text>
+			</subsection><subsection id="HE391CCB1FD284ECFB8E6C7322FE89D52"><enum>(b)</enum><header>Composition</header><text>The Commission shall be composed of 12 members (in this Act referred to as the <quote>members</quote>) who shall be appointed as follows:</text>
+				<paragraph id="H3A469F03C4CA4FDFBA915FD3F53BF140"><enum>(1)</enum><text>Six members shall be appointed by the Speaker of the House of Representatives, one of whom may
+			 include the Speaker of the House of Representatives, with minority members
+			 appointed with the consent of the minority leader of the House of
+			 Representatives.</text>
+				</paragraph><paragraph id="HAD15BA14C5994985A8FEBE7616BD06A9"><enum>(2)</enum><text>Six members shall be appointed by the majority leader of the Senate, one of whom may include the
+			 majority leader of the Senate, with minority members appointed with the
+			 consent of the minority leader of the Senate.</text>
+				</paragraph></subsection><subsection id="H0D752C113F084F58B97F5EA61B4AC0BE"><enum>(c)</enum><header>Qualifications of members</header>
+				<paragraph id="HA06600FA7F584972BD2A466A0A5E19D8"><enum>(1)</enum><header>In general</header>
+					<subparagraph commented="no" display-inline="yes-display-inline" id="HA394BDE2ED8B457EBAFDA85682BD8F1E"><enum>(A)</enum><text>Of the members appointed under subsection (b)(1), four shall be members of the House of
+			 Representatives (not more than two of whom may be of the same political
+			 party), and two shall be an individual described in subparagraph (C).</text>
+					</subparagraph><subparagraph id="H7BC775B419324B16A7FA568B68EDFDD3" indent="up1"><enum>(B)</enum><text>Of the members appointed under subsection (b)(2), four shall be members of the Senate (not more
+			 than two of whom may be of the same political party) and two shall be an
+			 individual described in subparagraph (C).</text>
+					</subparagraph><subparagraph id="H363599A62BE4408CA489CD8D616636A4" indent="up1"><enum>(C)</enum><text>An individual under this subparagraph is an individual—</text>
+						<clause id="H3CAE5AA515E44357B516BC0B0D7E4CD2"><enum>(i)</enum><text>who is not a member of Congress; and</text>
+						</clause><clause id="H083066424F974F53BE3DC2F5AC19F42D"><enum>(ii)</enum><text>with expertise in the operation and administration of Government programs.</text>
+						</clause></subparagraph></paragraph><paragraph id="H4CB563E8209241438D0D2E3D42639E0B"><enum>(2)</enum><header>Continuation of membership</header><text>If a member was appointed to the Commission as a Member of Congress and the member ceases to be a
+			 Member of Congress, that member shall cease to be a member of the
+			 Commission. The validity of any action of the Commission shall not be
+			 affected as a result of a member becoming ineligible to serve as a member
+			 for the reasons described in this paragraph.</text>
+				</paragraph></subsection><subsection id="H3F1A7CBA1E6A47E197EB03AAF44821A4"><enum>(d)</enum><header>Initial appointments</header><text>All initial appointments to the Commission shall be made not later than 90 days after the date of
+			 the enactment of this Act.</text>
+			</subsection><subsection id="HF50AEE5D8D4D44E08C26A87500DF6C10"><enum>(e)</enum><header>Chairman; vice Chairman</header>
+				<paragraph id="HFDA7B5199ED04BEF9A7AAC71042064E6"><enum>(1)</enum><header>Initial Chairman</header><text>An individual shall be designated by the Speaker of the House of Representatives from among the
+			 members initially appointed under subsection (b)(1) to serve as chairman
+			 of the Commission for a period of 2 years.</text>
+				</paragraph><paragraph id="H895DB853FA1E4BA08B66BB6938B5F843"><enum>(2)</enum><header>Initial vice-chairman</header><text>An individual shall be designated by the majority leader of the Senate from among the individuals
+			 initially appointed under subsection (b)(2) to serve as vice-chairman of
+			 the Commission for a period of two years.</text>
+				</paragraph><paragraph id="HCBF0F5759A464702874DF60D5AB843B0"><enum>(3)</enum><header>Alternate appointments of chairmen and vice-chairmen</header><text>Following the termination of the two-year period described in paragraphs (1) and (2), the Speaker
+			 and the majority leader shall alternate every two years in appointing the
+			 chairman and vice-chairman of the Commission.</text>
+				</paragraph></subsection><subsection id="H4B94635EA6084F5DA77DFBD4D9FE8162"><enum>(f)</enum><header>Terms of members</header>
+				<paragraph id="HB8EAC2F8285A457DA17C783A1B91847A"><enum>(1)</enum><header>Members of Congress</header><text>Each member appointed to the Commission who is a member of Congress shall serve for a term of six
+			 years, except that, of the members first appointed under paragraphs (1)
+			 and (2) of subsection (b), 2 members shall be appointed to serve a term of
+			 three years under each such paragraph.</text>
+				</paragraph><paragraph id="H3F62AE036D10442A9A57E0489FF7E72E"><enum>(2)</enum><header>Other members</header><text>Each member of the Commission who is not a member of Congress shall serve for a term of three
+			 years.</text>
+				</paragraph><paragraph id="H99E3C80E7CA44E138EF38D941938C8E0"><enum>(3)</enum><header>Term limit</header>
+					<subparagraph commented="no" display-inline="yes-display-inline" id="H9927284305CD461EA5A9B0113A91EA23"><enum>(A)</enum><text>A member of the Commission who is a member of Congress and who serves more than three years of a
+			 term may not be appointed to another term as a member.</text>
+					</subparagraph><subparagraph id="HACBC4D9E0A9B4C5A9E29DCA09B887902" indent="up1"><enum>(B)</enum><text>A member of the Commission who is not a member of Congress and who serves as a member of the
+			 Commission for more than 56 months may not be appointed to another term as
+			 a member.</text>
+					</subparagraph></paragraph></subsection><subsection id="HE989B8EE634043E2959CF9D4C79ACD8A"><enum>(g)</enum><header>Powers of Commission</header>
+				<paragraph id="HAD535AC2F4904BAA9A1FBC43888F521C"><enum>(1)</enum><header>Hearings and sessions</header><text>The Commission may, for the purpose of carrying out this Act, hold such hearings, sit and act at
+			 such times and places, take such testimony, and receive such evidence as
+			 the Commission considers appropriate. The Commission may administer oaths
+			 to witnesses appearing before it.</text>
+				</paragraph><paragraph id="H6ED7947AF3144C4F89313E56EBCE6CD1"><enum>(2)</enum><header>Obtaining information</header><text>The Commission may secure directly from any department or agency of the United States information
+			 necessary to enable it to carry out its duties under this Act. Upon
+			 request of the Chairman, the head of that department or agency shall
+			 furnish that information to the Commission in a full and timely manner.</text>
+				</paragraph><paragraph id="H5D83EE08418444D0B1079D1F97E7159C"><enum>(3)</enum><header>Subpoena power</header>
+					<subparagraph commented="no" display-inline="yes-display-inline" id="H5E1041F2B40644C7BE93571FE67C4698"><enum>(A)</enum><text>The Commission may issue a subpoena to require the attendance and testimony of witnesses and the
+			 production of evidence relating to any matter under investigation by the
+			 Commission.</text>
+					</subparagraph><subparagraph id="H2E5ADEBC541646FF9AF63A67F75AF2FF" indent="up1"><enum>(B)</enum><text>If a person refuses to obey an order or subpoena of the Commission that is issued in connection
+			 with a Commission proceeding, the Commission may apply to the United
+			 States district court in the judicial district in which the proceeding is
+			 held for an order requiring the person to comply with the subpoena or
+			 order.</text>
+					</subparagraph></paragraph><paragraph id="H28DDFD1EEF954586B3857A056BFB2CED"><enum>(4)</enum><header>Immunity</header><text>The Commission is an agency of the United States for purposes of part V of title 18, United States
+			 Code (relating to immunity of witnesses).</text>
+				</paragraph><paragraph id="H6F6BB93C65694FFDABD73A517B87B3E2"><enum>(5)</enum><header>Contract authority</header><text>The Commission may contract with and compensate government and private agencies or persons for
+			 services without regard to section 3709 of the Revised Statutes (41 U.S.C.
+			 5).</text>
+				</paragraph></subsection><subsection id="H1C671620C4ED41DA9A0D28987B84AF83"><enum>(h)</enum><header>Commission procedures</header>
+				<paragraph id="H52CB74C5EA0F40BBA159407EB942738B"><enum>(1)</enum><header>Meetings</header><text>The Commission shall meet at the call of the Chairman.</text>
+				</paragraph><paragraph id="HA66D6660F2C645429AA72C77877376C4"><enum>(2)</enum><header>Quorum</header><text>Seven members of the Commission shall constitute a quorum but a lesser number may hold hearings.</text>
+				</paragraph></subsection><subsection id="H3FC5D339BDD44F168ECAE4327A46DC4C"><enum>(i)</enum><header>Personnel matters</header>
+				<paragraph id="HBD25807343C34B5EAB8A9D9A4DFA3E62"><enum>(1)</enum><header>Compensation</header><text>Members shall not be paid by reason of their service as members.</text>
+				</paragraph><paragraph id="HB6324D193D4D4A2D9D6A50ECD52D4475"><enum>(2)</enum><header>Travel expenses</header><text>Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance
+			 with sections <external-xref legal-doc="usc" parsable-cite="usc/5/5702">5702</external-xref> and <external-xref legal-doc="usc" parsable-cite="usc/5/5703">5703</external-xref> of title 5, United States Code.</text>
+				</paragraph><paragraph id="H68ACC371F6A74EA3A8FFE67DCAE041AB"><enum>(3)</enum><header>Director</header><text>The Commission shall have a Director who shall be appointed by the Chairman. The Director shall be
+			 paid at a rate not to exceed the maximum rate of basic pay payable for
+			 GS–15 of the General Schedule.</text>
+				</paragraph><paragraph id="H09A5D8F38C1D4A15A76EB3986275E72D"><enum>(4)</enum><header>Staff</header><text>The Director may appoint and fix the pay of additional personnel as the Director considers
+			 appropriate.</text>
+				</paragraph><paragraph id="H627BCDA7DB244D13AF4A4559C4A02CB1"><enum>(5)</enum><header>Applicability of certain civil service laws</header><text>The Director and staff of the Commission shall be appointed subject to the provisions of title 5,
+			 United States Code, governing appointments in the competitive service, and
+			 shall be paid in accordance with the provisions of chapter 51 and
+			 subchapter III of chapter 53 of that title relating to classification and
+			 General Schedule pay rates.</text>
+				</paragraph></subsection><subsection id="H449A33E1342A473181A74C68DAE21BA9"><enum>(j)</enum><header>Other administrative matters</header>
+				<paragraph id="HA3BC27967CC64D7FB383648DF9257A49"><enum>(1)</enum><header>Postal and printing services</header><text>The Commission may use the United States mails and obtain printing and binding services in the same
+			 manner and under the same conditions as other departments and agencies of
+			 the United States.</text>
+				</paragraph><paragraph id="H40C515A7017D4270B9158AAD5A883A30"><enum>(2)</enum><header>Administrative support services</header><text>Upon the request of the Commission, the Administrator of General Services shall provide to the
+			 Commission, on a reimbursable basis, the administrative support services
+			 necessary for the Commission to carry out its duties under this Act.</text>
+				</paragraph><paragraph id="H6645E955D1774E0EBFFE80D2D0540882"><enum>(3)</enum><header>Experts and consultants</header><text>The Commission may procure temporary and intermittent services under <external-xref legal-doc="usc" parsable-cite="usc/5/3109">section 3109(b)</external-xref> of title 5,
+			 United States Code.</text>
+				</paragraph></subsection><subsection id="H17895B186435486483F62E65C69956E4"><enum>(k)</enum><header>Sunset of Commission</header><text>The Commission shall terminate on December 31, 2034, unless reauthorized by Congress.</text>
+			</subsection></section><section display-inline="no-display-inline" id="HA7755DAEC76F4084BC68FC47161EF0D9" section-type="subsequent-section"><enum>4.</enum><header>Review of efficiency and need for Federal agencies</header>
+			<subsection id="H13F24D4825DD495BB2A1FB94E2D613CA"><enum>(a)</enum><header>In general</header><text>The Commission shall review the efficiency and public need for each agency in accordance with the
+			 criteria described in section 5.</text>
+			</subsection><subsection id="H0036D56D31A44071865E7C3B80B3A4E9"><enum>(b)</enum><header>Recommendations; report to Congress</header><text>The Commission shall submit to Congress and the President not later than September 1 of each year a
+			 report containing—</text>
+				<paragraph id="H45CCC6A9A92F4A1DBA56FD8332ED18A8"><enum>(1)</enum><text>an analysis of the efficiency of operation and public need for each agency to be reviewed in the
+			 year in which the report is submitted pursuant to the schedule submitted
+			 to Congress under section 2;</text>
+				</paragraph><paragraph id="H8370B8831C9A44E0AE1A8A9FC433B3A0"><enum>(2)</enum><text>recommendations on whether each such agency should be abolished or reorganized;</text>
+				</paragraph><paragraph id="HB6186AE1CC9944AAB23333494229F5D8"><enum>(3)</enum><text>recommendations on whether the functions of any other agencies should be consolidated, transferred,
+			 or reorganized in an agency to be reviewed in the year in which the report
+			 is submitted pursuant to the schedule submitted to Congress under section
+			 2; and</text>
+				</paragraph><paragraph id="H9548044DD8984D84885C5E26183E3C10"><enum>(4)</enum><text>recommendations for administrative and legislative action with respect to each such agency, but not
+			 including recommendations for appropriation levels.</text>
+				</paragraph></subsection><subsection id="H3ED220524E4D4203987B6718C25C600A"><enum>(c)</enum><header>Draft legislation</header><text>The Commission shall submit to Congress and the President not later than September 1 of each year a
+			 draft of legislation to carry out the recommendations of the Commission
+			 under subsection (b).</text>
+			</subsection><subsection id="HB7F0189919384509A0466896E7AABF2B"><enum>(d)</enum><header>Information gathering</header><text>The Commission shall—</text>
+				<paragraph id="HB4498DD5908F46F49C3DD6CC25FE5412"><enum>(1)</enum><text>conduct public hearings on the abolishment of each agency reviewed under subsection (b);</text>
+				</paragraph><paragraph id="H899E12F86D1742BE94C7ECBE802294AB"><enum>(2)</enum><text>provide an opportunity for public comment on the abolishment of each such agency;</text>
+				</paragraph><paragraph id="H4C46DB74658140C295CE3746DF005147"><enum>(3)</enum><text>require the agency to provide information to the Commission as appropriate; and</text>
+				</paragraph><paragraph id="H9F8F6497C87943A6B0A4CC9DF2CB1EA9"><enum>(4)</enum><text>consult with the General Accounting Office, the Office of Management and Budget, the Comptroller
+			 General, and the chairman and ranking minority members of the committees
+			 of Congress with oversight responsibility for the agency being reviewed
+			 regarding the operation of the agency.</text>
+				</paragraph></subsection><subsection id="H0E2E2CC89F0C488A86FA29E6ADF12FB6"><enum>(e)</enum><header>Use of program inventory</header><text>The Commission shall use the program inventory prepared under section 9 in reviewing the efficiency
+			 and public need for each agency under subsection (a).</text>
+			</subsection></section><section display-inline="no-display-inline" id="HBEBA0F2622464CCAAC9B5A5216ACCC8A" section-type="subsequent-section"><enum>5.</enum><header>Criteria for review</header><text display-inline="no-display-inline">The Commission shall evaluate the efficiency and public need for each agency pursuant to section 4
+			 using the following criteria:</text>
+			<paragraph id="HC5748BB77CEE4249AFB2A532EFD880EF"><enum>(1)</enum><text>The effectiveness, and the efficiency of the operation of, the programs carried out by each such
+			 agency.</text>
+			</paragraph><paragraph id="H7685DAE2A56847CCB0EB4E46F3B7FEA2"><enum>(2)</enum><text>Whether the programs carried out by the agency are cost-effective.</text>
+			</paragraph><paragraph id="H827AC68FF27148C393A4189EB6E94012"><enum>(3)</enum><text>Whether the agency has acted outside the scope of its original authority, and whether the original
+			 objectives of the agency have been achieved.</text>
+			</paragraph><paragraph id="H1C084B7D30F1442786FFA925A0B8FDC7"><enum>(4)</enum><text>Whether less restrictive or alternative methods exist to carry out the functions of the agency.</text>
+			</paragraph><paragraph id="H1F01D0CB19FC44B4A7EB6CDF90EA19DD"><enum>(5)</enum><text>The extent to which the jurisdiction of, and the programs administered by, the agency duplicate or
+			 conflict with the jurisdiction and programs of other agencies.</text>
+			</paragraph><paragraph id="H585629DC4A4E43DC91FD38D18D64BEE1"><enum>(6)</enum><text>The potential benefits of consolidating programs administered by the agency with similar or
+			 duplicative programs of other agencies, and the potential for
+			 consolidating such programs.</text>
+			</paragraph><paragraph id="HE9DCCFD380C4416AA77BD257B1E98257"><enum>(7)</enum><text>The number and types of beneficiaries or persons served by programs carried out by the agency.</text>
+			</paragraph><paragraph id="H8519E657C5A545CEAEFDE435FA66F0CB"><enum>(8)</enum><text>The extent to which any trends, developments, and emerging conditions that are likely to affect the
+			 future nature and extent of the problems or needs that the programs
+			 carried out by the agency are intended to address.</text>
+			</paragraph><paragraph id="HC2075C56124243C997AA6A917BE301F4"><enum>(9)</enum><text>The extent to which the agency has complied with the provisions contained in the <act-name parsable-cite="FPRA93">Government Performance and Results Act of 1993</act-name> (<external-xref legal-doc="public-law" parsable-cite="pl/103/62">Public Law 103–62</external-xref>; 107 Stat. 285).</text>
+			</paragraph><paragraph id="HC39F823625EC41ADA8EEB07E1A49A800"><enum>(10)</enum><text>The promptness and effectiveness with which the agency seeks public input and input from State and
+			 local governments on the efficiency and effectiveness of the performance
+			 of the functions of the agency.</text>
+			</paragraph><paragraph id="HE1AE9F40567742D2B689C308C960EAC1"><enum>(11)</enum><text>Whether the agency has worked to enact changes in the law that are intended to benefit the public
+			 as a whole rather than the specific business, institution, or individuals
+			 that the agency regulates.</text>
+			</paragraph><paragraph id="H15DDA0E0D0994DE0BA03DB16F090C75C"><enum>(12)</enum><text>The extent to which the agency has encouraged participation by the public as a whole in making its
+			 rules and decisions rather than encouraging participation solely by those
+			 it regulates.</text>
+			</paragraph><paragraph id="H35E146C3DD7847DB81DF0DB4C16D9C47"><enum>(13)</enum><text>The extent to which the public participation in rulemaking and decisionmaking of the agency has
+			 resulted in rules and decisions compatible with the objectives of the
+			 agency.</text>
+			</paragraph><paragraph id="HB898D14C4C8443969A2EF2FE19F948EE"><enum>(14)</enum><text>The extent to which the agency complies with <external-xref legal-doc="usc" parsable-cite="usc/5/552">section 552</external-xref> of title 5, United States Code (commonly
+			 known as the <quote>Freedom of Information Act</quote>).</text>
+			</paragraph><paragraph id="H5F3275AA67A7404187D9B81C6478DA47"><enum>(15)</enum><text>The extent to which the agency complies with equal employment opportunity requirements regarding
+			 equal employment opportunity.</text>
+			</paragraph><paragraph id="H237B7211795B495AA2147DC8B6BBAE69"><enum>(16)</enum><text>The extent of the regulatory, privacy, and paperwork impacts of the programs carried out by the
+			 agency.</text>
+			</paragraph><paragraph id="HF572CE606E5A4E1DAC367C46FD76A4DE"><enum>(17)</enum><text>The extent to which the agency has coordinated with State and local governments in performing the
+			 functions of the agency.</text>
+			</paragraph><paragraph id="H481307D9BA55459BAEF9893243F2AB18"><enum>(18)</enum><text>The potential effects of abolishing the agency on State and local governments.</text>
+			</paragraph><paragraph id="H5DAB403518644BE1BF6CAE53504B0C6D"><enum>(19)</enum><text>The extent to which changes are necessary in the authorizing statutes of the agency in order that
+			 the functions of the agency can be performed in the most efficient and
+			 effective manner.</text>
+			</paragraph></section><section display-inline="no-display-inline" id="H8E1E1CEDAC9745F78767430A70F94447" section-type="subsequent-section"><enum>6.</enum><header>Commission oversight</header>
+			<subsection id="HBD84D2ED46494F14A1DA00DC407462F4"><enum>(a)</enum><header>Monitoring of implementation of recommendations</header><text>The Commission shall monitor implementation of laws enacting provisions that incorporate
+			 recommendations of the Commission with respect to abolishment or
+			 reorganization of agencies.</text>
+			</subsection><subsection id="H1BD1605C850040B6AE040F847BA9C73F"><enum>(b)</enum><header>Monitoring of other relevant legislation</header>
+				<paragraph id="HC8A5268E37454F8AB538F10B89E51AFB"><enum>(1)</enum><header>In general</header><text>The Commission shall review and report to Congress on all legislation introduced in either house of
+			 Congress that would establish—</text>
+					<subparagraph id="HEE124F5C3C3346679729F13C21909FB2"><enum>(A)</enum><text>a new agency; or</text>
+					</subparagraph><subparagraph id="HB26E879E2D3745DC8621D2D02B327358"><enum>(B)</enum><text>a new program to be carried out by an existing agency.</text>
+					</subparagraph></paragraph><paragraph id="HB4A60B1AE1CB4400A9E7539BC059A3E8"><enum>(2)</enum><header>Report to Congress</header><text>The Commission shall include in each report submitted to Congress under paragraph (1) an analysis
+			 of whether—</text>
+					<subparagraph id="HDC7ADA69FE8140A289B8F7226ABBE5B2"><enum>(A)</enum><text>the functions of the proposed agency or program could be carried out by one or more existing
+			 agencies;</text>
+					</subparagraph><subparagraph id="HACC427C3D46A4F72AE8862E9AFC68A92"><enum>(B)</enum><text>the functions of the proposed agency or program could be carried out in a less restrictive manner
+			 than the manner proposed in the legislation; and</text>
+					</subparagraph><subparagraph id="H1A0B3BD3FCD74B6E902BDCA95EC2BE9D"><enum>(C)</enum><text>the legislation provides for public input regarding the performance of functions by the proposed
+			 agency or program.</text>
+					</subparagraph></paragraph></subsection></section><section display-inline="no-display-inline" id="H87E0CB52D45F405BB08BCBAAA469765D" section-type="subsequent-section"><enum>7.</enum><header>Rulemaking authority</header><text display-inline="no-display-inline">The Commission may promulgate such rules as necessary to carry out this Act.</text>
+		</section><section id="H8AFE44D10BB64F29AE86C005EE0378C0"><enum>8.</enum><header>Relocation of Federal employees</header><text display-inline="no-display-inline">If the position of an employee of an agency is eliminated as a result of the abolishment of an
+			 agency in accordance with this Act, there shall be a reasonable effort to
+			 relocate such employee to a position within another agency.</text>
+		</section><section id="H49C884268C8E4C43A10B3B3E2E9F2424"><enum>9.</enum><header>Program inventory</header>
+			<subsection id="H7AC6FA82AD154378930BC8F51341A9A3"><enum>(a)</enum><header>Preparation</header><text>The Comptroller General and the Director of the Congressional Budget Office, in cooperation with
+			 the Director of the Congressional Research Service, shall prepare an
+			 inventory of Federal programs (in this Act referred to as the <quote>program inventory</quote>) within each agency.</text>
+			</subsection><subsection id="HEE60E5E56BF64B64BE6B2DF475429BBF"><enum>(b)</enum><header>Purpose</header><text>The purpose of the program inventory is to advise and assist the Congress and the Commission in
+			 carrying out the requirements of this Act. Such inventory shall not in any
+			 way bind the committees of the Senate or the House of Representatives with
+			 respect to their responsibilities under this Act and shall not infringe on
+			 the legislative and oversight responsibilities of such committees. The
+			 Comptroller General shall compile and maintain the inventory and the
+			 Director of the Congressional Budget Office shall provide budgetary
+			 information for inclusion in the inventory.</text>
+			</subsection><subsection id="H7EA3A24F2FFB4D849DA2490A0C0A0C7E"><enum>(c)</enum><header>Inventory content</header><text>The program inventory shall set forth for each program each of the following matters:</text>
+				<paragraph id="HF24A08F5EFD94E368B2F78677735A52A"><enum>(1)</enum><text>The specific provision or provisions of law authorizing the program.</text>
+				</paragraph><paragraph id="HB7B0542D9A16444AAC60A64B36344AEC"><enum>(2)</enum><text>The committees of the Senate and the House of Representatives which have legislative or oversight
+			 jurisdiction over the program.</text>
+				</paragraph><paragraph id="HB90911313E2C429EB411680E46AEE611"><enum>(3)</enum><text>A brief statement of the purpose or purposes to be achieved by the program.</text>
+				</paragraph><paragraph id="H44E342E3230543B4B49D9C04045706E6"><enum>(4)</enum><text>The committees which have jurisdiction over legislation providing new budget authority for the
+			 program, including the appropriate subcommittees of the Committees on
+			 Appropriations of the Senate and the House of Representatives.</text>
+				</paragraph><paragraph id="HA23A66D7710B443ABCD0D0AFDEE0BF5E"><enum>(5)</enum><text>The agency and, if applicable, the subdivision thereof responsible for administering the program.</text>
+				</paragraph><paragraph id="H42599FB0042841F8B6151BACFCCCA4BD"><enum>(6)</enum><text>The grants-in-aid, if any, provided by such program to State and local governments.</text>
+				</paragraph><paragraph id="HACA39D9CAC944EC695F7442C09D64889"><enum>(7)</enum><text>The next reauthorization date for the program.</text>
+				</paragraph><paragraph id="HD583AA38E13247F080FB600BBEF1A012"><enum>(8)</enum><text>A unique identification number which links the program and functional category structure.</text>
+				</paragraph><paragraph id="HE73659DA548E4D15BB203A78145E6D7A"><enum>(9)</enum><text>The year in which the program was originally established and, where applicable, the year in which
+			 the program expires.</text>
+				</paragraph><paragraph id="H346911B9CEB74026896465070F13D177"><enum>(10)</enum><text>Where applicable, the year in which new budget authority for the program was last authorized and
+			 the year in which current authorizations of new budget authority expire.</text>
+				</paragraph></subsection><subsection id="HB8194133EE2E4AAC907F27E3795251B6"><enum>(d)</enum><header>Budget authority</header><text>The report also shall set forth for each program whether the new budget authority provided for such
+			 programs is—</text>
+				<paragraph id="H323CA9D8695745E899A887021B3FCB88"><enum>(1)</enum><text>authorized for a definite period of time;</text>
+				</paragraph><paragraph id="HA7A70C20D17D4FCBA2A9B3AA15B85608"><enum>(2)</enum><text>authorized in a specific dollar amount but without limit of time;</text>
+				</paragraph><paragraph id="H76C9B59F09FD452CB8EC9AFD8F96288B"><enum>(3)</enum><text>authorized without limit of time or dollar amounts;</text>
+				</paragraph><paragraph id="H043557C27A744BB5B4E0386C3A905FEF"><enum>(4)</enum><text>not specifically authorized; or</text>
+				</paragraph><paragraph id="HA0BC0C9EAF3A41FAA77C49D20E2E1EC0"><enum>(5)</enum><text>permanently provided,</text></paragraph><continuation-text continuation-text-level="subsection">as determined by the Director of the Congressional Budget Office.</continuation-text></subsection><subsection id="HAA80A5287AA94039A97C46E4FED93251"><enum>(e)</enum><header>CBO information</header><text>For each program or group of programs, the program inventory also shall include information
+			 prepared by the Director of the Congressional Budget Office indicating
+			 each of the following matters:</text>
+				<paragraph id="H6FC71938D3E34DA087FD72DA3F28C942"><enum>(1)</enum><text>The amounts of new budget authority authorized and provided for the program for each of the
+			 preceding four fiscal years and, where applicable, the four succeeding
+			 fiscal years.</text>
+				</paragraph><paragraph id="H144D9BC4D5994FE4A330B0D17E935F11"><enum>(2)</enum><text>The functional and subfunctional category in which the program is presently classified and was
+			 classified under the fiscal year 2015 budget.</text>
+				</paragraph><paragraph id="HF8F0C25AADCE478DBE5184072EF542D9"><enum>(3)</enum><text>The identification code and title of the appropriation account in which budget authority is
+			 provided for the program.</text>
+				</paragraph></subsection><subsection id="H20D6A282CD984DC79DDFAF26413B8783"><enum>(f)</enum><header>Mutual exchange of information</header><text>The General Accounting Office, the Congressional Research Service, and the Congressional Budget
+			 Office shall permit the mutual exchange of available information in their
+			 possession which would aid in the compilation of the program inventory.</text>
+			</subsection><subsection id="H0EC2375830964B2DBB400CDD540EAA04"><enum>(g)</enum><header>Assistance by Executive branch</header><text>The Office of Management and Budget, and the Executive agencies and the subdivisions thereof shall,
+			 to the extent necessary and possible, provide the General Accounting
+			 Office with assistance requested by the Comptroller General in the
+			 compilation of the program inventory.</text>
+			</subsection></section><section display-inline="no-display-inline" id="H02E6B01C40094D818683F8B666F92486" section-type="subsequent-section"><enum>10.</enum><header>Definition of agency</header><text display-inline="no-display-inline">As used in this Act, the term <term>agency</term> has the meaning given that term by <external-xref legal-doc="usc" parsable-cite="usc/5/105">section 105</external-xref> of title 5, United States Code, except that such
+			 term includes an advisory committee as that term is defined in section
+			 102(2) of the <act-name parsable-cite="FACA">Federal Advisory Committee Act</act-name>.</text>
+		</section><section id="H11B532D9207F41D4870090396FB1983D"><enum>11.</enum><header>Offset of amounts appropriated</header><text display-inline="no-display-inline">Amounts appropriated to carry out this Act shall be offset by a reduction in amounts appropriated
+			 to carry out programs of other Federal agencies.</text>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S958 IS: Small Business Fairness Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-04-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 958</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150415">April 15, 2015</action-date>
+			<action-desc><sponsor name-id="S254">Mr. Enzi</sponsor> (for himself and <cosponsor name-id="S309">Mr. Casey</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSSB00">Committee on Small Business and Entrepreneurship</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Small Business Act to provide for team and joint venture offers for certain contracts.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Business Fairness Act</short-title></quote>.</text>
+		</section><section id="H4E0AAE08D3D645289131FAD09CF59E01"><enum>2.</enum><header>Joint venturing and teaming</header>
+ <subsection id="H2A3070DDC9B645D19AB65D3EBF914D34"><enum>(a)</enum><header>Joint venture offers for bundled or consolidated contracts</header><text>Section 15(e)(4) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/644">15 U.S.C. 644(e)(4)</external-xref>) is amended to read as follows:</text> <quoted-block display-inline="no-display-inline" id="H58748C2F1E464DB1BD91FB89C0C6C75D" style="OLC"> <paragraph id="HC9A8BD0E49784434B5F9827EFEB63D15"><enum>(4)</enum><header>Contract teaming</header> <subparagraph id="H3DF4174FE0054B508CD24AF88F565578"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">In the case of a solicitation of offers for a bundled or consolidated contract that is issued by the head of an agency, a small business concern may submit an offer that provides for use of a particular team of subcontractors or a joint venture of small business concerns for the performance of the contract.</text>
+ </subparagraph><subparagraph id="HAC653B57AF98486CB415859824979828"><enum>(B)</enum><header>Evaluation of offers</header><text display-inline="yes-display-inline">The head of an agency shall evaluate the offer of a team or a joint venture of small business concerns submitted under subparagraph (A) in the same manner as other offers, with due consideration to the capabilities of all of the proposed subcontractors or members of the joint venture.</text>
+ <clause id="HE54EDD3B82434A08BD577FD24C4E0F64"><enum>(i)</enum><header>Teams</header><text display-inline="yes-display-inline">When evaluating an offer of a small business prime contractor that includes a proposed team of subcontractors, the head of the agency shall consider the capabilities and past performance of each first tier subcontractor that is part of the team as the capabilities and past performance of the team.</text>
+ </clause><clause id="H3BED586E1D2B4739BA5F7616558F13E1"><enum>(ii)</enum><header>Joint ventures</header><text display-inline="yes-display-inline">When evaluating an offer of a joint venture of small business concerns, if the joint venture does not have sufficient capabilities or past performance to be considered for award of a contract opportunity, the head of the agency shall consider the capabilities and past performance of each member of the joint venture as the capabilities and past performance of the joint venture.</text>
+ </clause></subparagraph><subparagraph id="HB383ABDCB929433BB25D6C783D2FB00E"><enum>(C)</enum><header>Status as a small business concern</header><text display-inline="yes-display-inline">Participation of a small business concern in a team or a joint venture under this paragraph shall not affect the status of that concern as a small business concern with respect to the performance of a contract described in subparagraph (A).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H7107C097818E4CB6B808C0C28F3D2DDD"><enum>(b)</enum><header>Team and joint venture offers for multiple award contracts</header><text>Section 15(q)(1) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/644">15 U.S.C. 644(q)(1)</external-xref>) is amended—</text> <paragraph id="HDF9B5FE855BC4C2A9A59D523D31BB2B0"><enum>(1)</enum><text>in the heading, by inserting <quote><header-in-text level="paragraph" style="OLC">and joint venture</header-in-text></quote> before <quote><header-in-text level="paragraph" style="OLC">requirements</header-in-text></quote>;</text>
+ </paragraph><paragraph id="HBF03A711EF6C47FDBDE284DD34DE448B"><enum>(2)</enum><text>by striking <quote>Each Federal agency</quote> and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="H93D7DA527DA5466389785DF957CD53DD" style="OLC"> <subparagraph id="H2B75AA95879B47F78153F7558A4C9871"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Each Federal agency</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H78D68B0F52AD4A9587FC0457B5DD7B4E"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H065E318406F84203BE8CF403FD4BF1D6" style="OLC"> <subparagraph id="HFC3D327A5C9141AE983F07656D1B5C0A"><enum>(B)</enum><header>Teams</header><text display-inline="yes-display-inline">When evaluating an offer of a small business prime contractor that includes a proposed team of subcontractors for any multiple award contract above the substantial bundling threshold of the Federal agency, the head of the Federal agency shall consider the capabilities and past performance of each first tier subcontractor that is part of the team as the capabilities and past performance of the offeror.</text>
+ </subparagraph><subparagraph id="HC930AD55BA5E4C5EB331C7313DD439CA"><enum>(C)</enum><header>Joint ventures</header><text display-inline="yes-display-inline">When evaluating an offer of a joint venture of small business concerns for any multiple award contract above the substantial bundling threshold of the Federal agency, if the joint venture does not have sufficient capabilities or past performance to be considered for award of a contract opportunity, the head of the Federal agency shall consider the capabilities and past performance of each member of the joint venture as the capabilities and past performance of the joint venture.</text>
+						</subparagraph><subparagraph commented="no" id="HD783A1058881490E90F463E00085FEF4"><enum>(D)</enum><header>Use of small business teams or joint ventures</header>
+ <clause commented="no" id="HA43E8D3F5F634AA9B740C52174EC66CF"><enum>(i)</enum><header>In general</header><text display-inline="yes-display-inline">For contracts awarded under section 8(a), 8(m), 15(a), 15(j), 31, or 36 to a team of small business prime contractors and subcontractors or a joint venture of small business concerns, the contracting officer shall certify annually to the Administration, for each year the contract is in effect, that each small business concern member of the team or joint venture has the same status of a small business concern, small business concern owned and controlled by service-disabled veterans, qualified HUBZone small business concern, small business concern owned and controlled by socially and economically disadvantaged individuals, or small business concern owned and controlled by women, as applicable, that such concern had at the time the contract was awarded.</text>
+ </clause><clause commented="no" id="H1C6452E1BE944D1A9C2E39FF46487A94"><enum>(ii)</enum><header>Exception</header><text display-inline="yes-display-inline">The requirements of clause (i) shall not apply to a contract awarded to a joint venture of small business concerns that is a protege under a mentor-protege program approved pursuant to section 45.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="HBD99C14A143E4B4C88D3D65CFC40DC86"><enum>(c)</enum><header>Rulemaking</header><text>Not later than 1 year after the date of enactment of this section, the Administrator of the Small Business Administration shall issue any regulations necessary to carry out the amendments made by this section.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

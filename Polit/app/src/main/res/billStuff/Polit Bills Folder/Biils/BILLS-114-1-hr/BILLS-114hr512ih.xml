@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2F37ECFEB5EC4F669186F6988D50E1AB" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 512 IH: DISARM Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 512</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150122">January 22, 2015</action-date>
+			<action-desc><sponsor name-id="R000580">Mr. Roskam</sponsor> (for himself and <cosponsor name-id="D000096">Mr. Danny K. Davis of Illinois</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to encourage the development and use of DISARM
+			 antimicrobial drugs, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H480912DC440043888EE6B0A2D5C77944" style="OLC">
+ <section id="H90442840BC5F4D6782C1470C723AE348" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Developing an Innovative Strategy for Antimicrobial Resistant Microorganisms Act of 2015</short-title></quote> and as the <quote>DISARM Act of 2015</quote>.</text> </section><section id="HAB3F11EB14C040F1ABA7D0AF428A20C0"><enum>2.</enum><header>Encouraging the development and use of DISARM antimicrobial drugs</header> <subsection id="HD4A95BF63E844B66BCEDA1DEC6D13488"><enum>(a)</enum><header>Additional payment for DISARM antimicrobial drugs under Medicare</header> <paragraph id="H8418BAE5D5304E13B37B9FC82F1229C9"><enum>(1)</enum><header>In general</header><text>Section 1886(d)(5) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww(d)(5)</external-xref>) is amended by adding at the end the following new subparagraph:</text>
+					<quoted-block id="H2B91114DEBFC4A40A68AE2B84F892B0E" style="OLC">
+						<subparagraph id="H952C18E8802B426CAC0020799B4E7CE2"><enum>(M)</enum>
+ <clause commented="no" display-inline="yes-display-inline" id="HDDDC9C245A974554B0233A1F0ED9AF66"><enum>(i)</enum><text>Effective for discharges beginning on or after October 1, 2015, the Secretary shall, after notice and opportunity for public comment (in the publications required by subsection (e)(5) for a fiscal year or otherwise), recognize the costs of DISARM antimicrobial drugs under the payment system established under this subparagraph.</text>
+ </clause><clause id="H4ECD9F98AA024FB8AE084B53736B2C32" indent="up1"><enum>(ii)</enum><text>Pursuant to clause (i), the Secretary shall provide for additional payment to be made under this subsection with respect to discharges involving DISARM antimicrobial drugs in the amount provided for under section 1847A for drugs and biological products that are described in section 1842(o)(1)(C).</text>
+ </clause><clause id="HF9E0D5B819CF49028931F540B9CDD43C" indent="up1"><enum>(iii)</enum><text>For purposes of this subparagraph, the term <term>DISARM antimicrobial drug</term> means a product that is approved or licensed for use, or a product for which an indication is first approved or licensed for use, by the Food and Drug Administration on or after January 1, 2015, and—</text>
+								<subclause id="HDDC54F6862B949EB82EADEF83D328961"><enum>(I)</enum>
+ <item commented="no" display-inline="yes-display-inline" id="HDADD371A2627437F8E7C630EE00E09CC"><enum>(aa)</enum><text>is intended to treat an infection caused by, or likely to be caused by, a qualifying pathogen (as defined under section 505E(f) of the Federal Food, Drug, and Cosmetic Act); or</text>
+ </item><item id="HCE1EB2DC1C0B4580A5B9E08A35B58870" indent="up1"><enum>(bb)</enum><text>meets the definition of a qualified infectious disease product under section 505E(g) of the Federal Food, Drug, and Cosmetic Act;</text>
+ </item></subclause><subclause id="H44415DC110C34947A65195949C7A8EE9"><enum>(II)</enum><text>is intended to treat an infection for which there is an unmet medical need as determined by the Food and Drug Administration;</text>
+ </subclause><subclause id="H7FF6DE56AF064CFD9A83DFB147B2A39E"><enum>(III)</enum><text>is intended to treat an infection that is associated with high rates of mortality or significant patient morbidity, as determined by the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention and the infectious disease professional community; and</text>
+ </subclause><subclause id="HAAFFB104B684401792C0A5860E15740C"><enum>(IV)</enum><text>is used in facilities that, to the extent available to such facilities, as determined by the Secretary, participate in—</text>
+ <item id="H55D76AE674CE4E158B41F6C14FD3B9F4"><enum>(aa)</enum><text>the National Healthcare Safety Network of the Centers for Disease Control and Prevention; or</text> </item><item id="HB3AD930392084E0B9871F4C23C27D2C5"><enum>(bb)</enum><text>a similar reporting program relating to antimicrobial drugs, as specified by the Secretary.</text>
+									</item></subclause></clause><clause id="H0C69E95BF991432DA01CAF3647B24CF5" indent="up1"><enum>(iv)</enum>
+ <subclause commented="no" display-inline="yes-display-inline" id="HE54AC17892694BC7924EE37914CEBBC1"><enum>(I)</enum><text display-inline="yes-display-inline">The manufacturer or sponsor of a drug may request the Secretary to designate a drug as a DISARM antimicrobial drug at any time before or after the submission of an application under section 505(b) of the Federal Food, Drug, and Cosmetic Act or section 351(a) of the Public Health Service Act for such drug. Pursuant to the previous sentence, the Secretary shall, not later than 60 days after the submission of such a request, determine whether the drug will be considered a DISARM antimicrobial drug in the case that it is approved or licensed for use, or is first approved or licensed for an indication.</text>
+ </subclause><subclause id="H9F97DCD6CE1643DC80FCD022DE62001E" indent="up1"><enum>(II)</enum><text display-inline="yes-display-inline">Except as provided in subclause (III), a designation under this clause shall not be withdrawn for any reason.</text>
+ </subclause><subclause id="H041E3441939A4C5B883C588121AC40E8" indent="up1"><enum>(III)</enum><text display-inline="yes-display-inline">The Secretary may revoke a designation of a drug as a DISARM antimicrobial drug product if the Secretary finds that the request for such designation contained an untrue statement of material fact.</text>
+ </subclause></clause><clause id="HD8FE932C3A21453C9796C8E599449409" indent="up1"><enum>(v)</enum><text display-inline="yes-display-inline">Not later than October 1, 2016, the Secretary shall first publish in the Federal Register a list of the DISARM antimicrobial drugs.</text>
+ </clause><clause id="H27947D65236046278561994084206FB6" indent="up1"><enum>(vi)</enum><text>The Secretary shall make a proportional adjustment in the standardized amount determined under paragraph (3) to assure that the provisions of this subparagraph do not result in aggregate payments under this subsection that are greater or less than those that would otherwise be made under such subsection for a fiscal year.</text>
+							</clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="HFF5B851F303B41C685C1436085BA2B7D"><enum>(2)</enum><header>Relationship to NTAP payments</header><text display-inline="yes-display-inline">Section 1886(d)(5) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww(d)(5)</external-xref>), as amended by paragraph (1), is further amended in subparagraph (K)—</text>
+ <subparagraph id="HD5C1BD50ADA1415DB56D92656DE29D84"><enum>(A)</enum><text>in clause (i), by inserting <quote>that are not DISARM antimicrobial drugs (as defined in subparagraph (M)(iii))</quote> after <quote>new medical services and technologies</quote>; and</text> </subparagraph><subparagraph id="H959DDF0D8FA24914B90768D49EF4225A"><enum>(B)</enum><text display-inline="yes-display-inline">in clause (ii)(I), by inserting <quote>if the service or technology is not a DISARM antimicrobial drug and</quote> after <quote>a new medical service or technology</quote>.</text>
+					</subparagraph></paragraph></subsection><subsection id="H82D20B5D162B494F97F7B61E1B29BEE6"><enum>(b)</enum><header>Study and report on removing barriers to development of DISARM antimicrobial drugs</header>
+ <paragraph id="H41B67F23A8AA4D4EB0DC43E86188DF29"><enum>(1)</enum><header>Study</header><text>The Comptroller General of the United States shall, in consultation with the Director of the National Institutes of Health, the Commissioner of Food and Drugs, and the Director of the Centers for Disease Control and Prevention, conduct a study to—</text>
+ <subparagraph id="HF7AE259766824C4CB0635C627ED9BF9A"><enum>(A)</enum><text>identify and examine the barriers that prevent the development of DISARM antimicrobial drugs, as defined in section 1886(d)(5)(M)(iii) of the Social Security Act, as added by subsection (a); and</text>
+ </subparagraph><subparagraph id="HE0C14941FCD549D8983408D8C1C7D472"><enum>(B)</enum><text>develop recommendations for actions to be taken in order to overcome any barriers identified under subparagraph (A).</text>
+ </subparagraph></paragraph><paragraph display-inline="no-display-inline" id="H4A5B8835457D446380D65D92BBACD573"><enum>(2)</enum><header>Report</header><text>Not later than 1 year after the date of the enactment of this Act, the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1).</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

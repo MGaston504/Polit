@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1099 IS: PACE Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-04-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1099</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150427">April 27, 2015</action-date>
+			<action-desc><sponsor name-id="S365">Mr. Scott</sponsor> (for himself and <cosponsor name-id="S324">Mrs. Shaheen</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Patient Protection and Affordable Care Act to provide States with flexibility in
+			 determining the size of employers in the small group market.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Affordable Coverage for Employees Act</short-title></quote> or the <quote>PACE Act</quote>.</text>
+		</section><section id="id5FB944D0328841A3800BAD611F091680"><enum>2.</enum><header>Small employers in the group market</header>
+ <subsection id="id0EFA1DD682BC43908DD234EDA9DAC4C8"><enum>(a)</enum><header>In general</header><text>Section 1304(b) of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18024">42 U.S.C. 18024(b)</external-xref>) is amended—</text> <paragraph id="id4206D5469932481493C876437AD7DD53"><enum>(1)</enum><text>in paragraph (1), by striking <quote>101 employees</quote> and inserting <quote>51 employees</quote>;</text>
+ </paragraph><paragraph id="id3F07842A8C44466EAFDCABD1B1637C89"><enum>(2)</enum><text>in paragraph (2), by striking <quote>100 employees</quote> and inserting <quote>50 employees</quote>; and</text> </paragraph><paragraph id="id4972756807D140D39E8B0E0D570951FC"><enum>(3)</enum><text>by striking paragraph (3) and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="idB02C11E97A334D2D9DD40BE79D063C61" style="OLC">
+ <paragraph id="id03A0F355F70C4BE0A1CE188AB48F0469"><enum>(3)</enum><header>State option to extend definition of small employer</header><text>Nothing in this subsection shall prevent a State from treating an employer with an average of at least 1 but not more than 100 employees on business days during the preceding calendar year as a small employer for purposes of this title.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="idD975E79D90B54153972E7A84FC378901"><enum>(b)</enum><header>Public Health Service Act</header><text>Section 2791(e) of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300gg-91">42 U.S.C. 300gg–91(e)</external-xref>) is amended—</text> <paragraph id="idDC41A750706241DD985180C4E129F8A1"><enum>(1)</enum><text>in paragraph (2), by striking <quote>101 employees</quote> and inserting <quote>51 employees</quote>; and</text>
+ </paragraph><paragraph id="idBEE7B71F2BD841EFA8DD6F1E7A575A70"><enum>(2)</enum><text>in paragraph (4), by striking <quote>100 employees</quote> and inserting <quote>50 employees</quote>.</text> </paragraph></subsection></section></legis-body> </bill> 
+

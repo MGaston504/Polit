@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HCF3759050EB942C09DC8A688132D4E3E" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1080 IH: IDEA MOE Adjustment Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1080</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150225">February 25, 2015</action-date>
+			<action-desc><sponsor name-id="L000570">Mr. Ben Ray Luján of New Mexico</sponsor> (for himself and <cosponsor name-id="L000580">Ms. Michelle Lujan Grisham of New Mexico</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Individuals with Disabilities Education Act in order to limit the penalties to a State
+			 that does not meet its maintenance of effort level of funding to a
+			 one-time penalty, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HC295E5D8E775470295B558E903DE87E6" style="OLC">
+ <section id="H49EA8902100C4278A6DCF08F27F34273" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>IDEA MOE Adjustment Act</short-title></quote>.</text> </section><section id="H556A8B41551345C8BE7BEEEED00F74B3" section-type="subsequent-section"><enum>2.</enum><header>IDEA penalty limitation</header> <subsection id="HA59DE1825E354C9BB5783535A4D3FBBC"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 611(d) of the Individuals with Disabilities Education Act (<external-xref legal-doc="usc" parsable-cite="usc/20/1411">20 U.S.C. 1411(d)</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H7FF415250F2240468D40807DCB612AB5" style="OLC">
+					<paragraph id="HF59DF7E7495441888C5A02A6517128AB"><enum>(5)</enum><header>Special rule regarding penalties</header>
+ <subparagraph id="H77D7A4730F2843A696CCB51663AFAF28"><enum>(A)</enum><header>Distribution of funds</header><text>In any case where a State's allocation under this subsection is reduced pursuant to section 612(a)(18)(B), the Secretary shall distribute to all other States that were not subject to a reduction in allocation under such section, the amount by which any State's allocation under this subsection was reduced under such section, in accordance with subclauses (II) and (III) of paragraph (3)(A)(i) and without regard to paragraphs (A)(i)(I) and (B) of paragraph (3).</text>
+ </subparagraph><subparagraph id="HD0191A01445343EAB6A6EA601503874A"><enum>(B)</enum><header>Use of funds by States</header><text>Each State that receives additional funds under subparagraph (A) shall allocate such funds to local educational agencies in accordance with subsection (f).</text>
+ </subparagraph><subparagraph id="H4512205533DF44B5AA9A667569419E8F"><enum>(C)</enum><header>No consideration for future years allocation</header><text>In calculating the amounts for allocations under this subsection for fiscal year 2013 and all subsequent years, the Secretary, when determining the amount a State received under this subsection for a preceding fiscal year, shall not consider—</text>
+ <clause id="HFFA451DCCB0D49D6925F95139CBC4CAA"><enum>(i)</enum><text>any amount by which a State's allocation for fiscal year 2012 or any subsequent year is reduced pursuant to section 612(a)(18); and</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="HA9FEFF2B796446EB859389CFFC97A121"><enum>(ii)</enum><text>any amount by which a State's allocation increased, pursuant to subparagraph (A), as a result of a State's reduction in allocation for fiscal year 2012 or any subsequent year.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection commented="no" id="H23ADF981CA0642AB9248A2A9E9AB9FE7"><enum>(b)</enum><header>Application of Reduction Over Multi-Year Period</header><text display-inline="yes-display-inline">Subparagraph (B) of section 612(a)(18) of the Individuals with Disabilities Education Act (<external-xref legal-doc="usc" parsable-cite="usc/20/1412">20 U.S.C. 1412(a)(18)(B)</external-xref>) is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="H71B58C42B9094C9C962548E6F4518103" style="OLC">
+ <subparagraph commented="no" display-inline="no-display-inline" id="H77CD6BDC23EE4624BEAC935805698022"><enum>(B)</enum><header display-inline="yes-display-inline">Reduction of funds for failure to maintain support</header><text display-inline="yes-display-inline">In any case where a State fails to comply with the requirement of subparagraph (A) for a fiscal year, the State shall be subject to a reduction of the State's allocation of funds under section 611 by the amount by which the State fails to meet the requirement. The Secretary shall carry out such reduction, in accordance with section 611(d)(5), by—</text>
+ <clause commented="no" display-inline="no-display-inline" id="H15D6F453DE47429E8AF7514AAA2FF9ED"><enum>(i)</enum><text display-inline="yes-display-inline">reducing the State's allocation under section 611 for the following fiscal year by the entire amount of the reduction; or</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="HDA7CA21FADE54EC78F2B176FC9948335"><enum>(ii)</enum><text display-inline="yes-display-inline">applying the reduction to the State's allocations under such section over a multi-year period of not more than 5 consecutive fiscal years, until the entire amount of the reduction has been applied.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1458 IS: Supporting Transparent Regulatory and Environmental Actions in Mining Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1458</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150522">May 22, 2015</action-date>
+			<action-desc><sponsor name-id="S212">Mr. Coats</sponsor> (for himself, <cosponsor name-id="S338">Mr. Manchin</cosponsor>, and <cosponsor name-id="S372">Mrs. Capito</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Surface Mining Control and Reclamation Act of 1977 to ensure scientific transparency
+			 in the development of environmental regulations and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Supporting Transparent Regulatory and Environmental Actions in Mining Act of 2015</short-title></quote> or the <quote><short-title>STREAM Act of 2015</short-title></quote>.</text>
+		</section><section id="idD641F6C260F748EF8E57D776C7DB037A"><enum>2.</enum><header>Publication of scientific products for rules and related environmental impact statements,
+			 environmental assessments, and economic assessments</header>
+ <subsection id="idBA530B3D2A734417BEE5BE5793FD744E"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Title V of the Surface Mining Control and Reclamation Act of 1977 (<external-xref legal-doc="usc" parsable-cite="usc/30/1251">30 U.S.C. 1251 et seq.</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id1A29283276F046B99DAFE7ADED5916F7" style="OLC">
+					<section id="id61C8AC64281949539D7CF5BC415BBCC8"><enum>530.</enum><header>Publication of scientific products for rules and related environmental impact statements,
+			 environmental assessments, and economic assessments</header>
+ <subsection id="idE3A672CD8D6F4C90A48909E2D1B9F67E"><enum>(a)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section:</text> <paragraph id="id3ccefd354b4640bf81e0768eea9cf3dd"><enum>(1)</enum><header>Agency action</header><text>The term <term>agency action</term> has the meaning given the term in section 551 of title 5, United States Code.</text>
+ </paragraph><paragraph id="idE59F3F11E49545F68EEF04B2AF2D154B"><enum>(2)</enum><header>Background information</header><text>The term <term>background information</term> means—</text> <subparagraph id="id296ca96454c6419888a42ffdc8aee3f6"><enum>(A)</enum><text>a biographical document, including a curriculum vitae or resume, that details the exhaustive, professional work history, education, and any professional memberships of a person; and</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ida30a616a47624739ac9b2221439890d9"><enum>(B)</enum><text>the amount and date of any Federal grants or contracts received by that person.</text> </subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id1c8d68804e8c433c9831428396a9d69b"><enum>(3)</enum><header>Economic assessment</header><text>The term <term>economic assessment</term> means any assessment prepared by a Federal agency in accordance with section 6(a)(3)(C) of Executive Order 12866 (<external-xref legal-doc="usc" parsable-cite="usc/5/601">5 U.S.C. 601</external-xref> note; relating to regulatory planning and review).</text>
+ </paragraph><paragraph id="ide18c982dbc3748e3a8dd35bdabbcf553"><enum>(4)</enum><header>Environmental assessment</header><text>The term <term>environmental assessment</term> has the meaning given the term in section 1508.9 of title 40, Code of Federal Regulations.</text> </paragraph><paragraph id="idb09f09cf2b8244dfb3debe7306ff4eef"><enum>(5)</enum><header>Environmental impact statement</header><text>The term <term>environmental impact statement</term> means any environmental impact statement or similar analysis required under the <act-name parsable-cite="NEPA69">National Environmental Policy Act of 1969</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/4321">42 U.S.C. 4321 et seq.</external-xref>).</text>
+ </paragraph><paragraph id="id6b191517af1943148c9303d895ea6109"><enum>(6)</enum><header>Publicly available</header><text>The term <term>publicly available</term> means published online on—</text> <subparagraph id="idFD05BAAAE3B84243805E80D90F3DBAE7"><enum>(A)</enum><text>a publicly accessible website that allows the submission of comments on proposed regulations and related documents published by the Federal Government;</text>
+ </subparagraph><subparagraph id="idE0FE165BE8644873AFA66D652103DE68"><enum>(B)</enum><text>a publicly accessible website of the Secretary; and</text> </subparagraph><subparagraph id="id92EACF0BEDDF4B85B348F6D9322D73E1"><enum>(C)</enum><text>the website of the Federal Register.</text>
+ </subparagraph></paragraph><paragraph id="id5d91e887df7449ca93117d15cbb266a6"><enum>(7)</enum><header>Raw data</header><text>The term <term>raw data</term> means any computational process or quantitative or qualitative data processed from a source that is relied upon in a scientific product to support a finding or observation.</text>
+ </paragraph><paragraph id="id296e8956e92544a3935a361d5eb23a66"><enum>(8)</enum><header>Relied Upon</header><text>The term <term>relied upon</term> means explicitly cited or referenced in a rule, environmental impact statement, environmental assessment, or economic assessment.</text>
+ </paragraph><paragraph id="idb7cc7657903848c7b4fc2aa3be9b7f2c"><enum>(9)</enum><header>Rule</header><text>The term <term>rule</term> has the meaning given the term in section 551 of title 5, United States Code.</text> </paragraph><paragraph id="id811fbb00d5dd46eeac10286a81dbce85"><enum>(10)</enum><header>Scientific method</header><text>The term <term>scientific method</term> means a method of research under which—</text>
+ <subparagraph id="id58C401355DA640D99A54BF2C23668107"><enum>(A)</enum><text>a problem is identified;</text> </subparagraph><subparagraph id="id26242E4E1649429F94F3AE52594DCDEC"><enum>(B)</enum><text>relevant data are gathered;</text>
+ </subparagraph><subparagraph id="id8F0202C4A85A4AD7BC2E96EFC6E3461D"><enum>(C)</enum><text>a hypothesis is formulated from the data; and</text>
+ </subparagraph><subparagraph id="id76E6D40723D649B99A0D3F0CC6F0A3B7"><enum>(D)</enum><text>the hypothesis is empirically tested in a manner specified by documented protocols and procedures.</text>
+ </subparagraph></paragraph><paragraph id="id089956170c144ac1bf31269a8f1f2917"><enum>(11)</enum><header>Scientific product</header><text>The term <term>scientific product</term> means any product that—</text> <subparagraph id="idd2dad5090e234166be1f758b7de7ae1c"><enum>(A)</enum><text>employs the scientific method for inventorying, monitoring, experimenting, studying, researching, and modeling purposes; and</text>
+ </subparagraph><subparagraph id="idb00b5486bb034b55aca6161afb7cd0ab"><enum>(B)</enum><text>is relied upon by the Secretary in development of any rule, environmental impact statement, environmental assessment, or economic assessment.</text>
+ </subparagraph></paragraph></subsection><subsection id="ida132d6a610c14eb881cd396628804c35"><enum>(b)</enum><header>Requirements</header><text>The Secretary shall—</text> <paragraph id="id9cf14d555b474a7688aa0afbf62e3ea3"><enum>(1)</enum><text>make publicly available on the date of the publication of any draft, final, emergency, or supplemental rule under this Act, or any related environmental impact statement, environmental assessment, or economic assessment, each scientific product the Secretary relied upon in developing the rule, environmental impact statement, environmental assessment, or economic assessment; and</text>
+ </paragraph><paragraph id="id3ec436309990471c80e64e94805099b3"><enum>(2)</enum><text>for those scientific products receiving Federal funds, also make publicly available—</text> <subparagraph id="id8d2777c9385d4b8890e8ae03968f9052"><enum>(A)</enum><text>the raw data used for the federally funded scientific product; and</text>
+ </subparagraph><subparagraph id="id39cb524a104d435fa4f93e55dd87956e"><enum>(B)</enum><text>background information of the authors of the scientific study.</text> </subparagraph></paragraph></subsection><subsection id="id0354bf98410e48ce98ffac81a149bb3b"><enum>(c)</enum><header>Compliance</header> <paragraph id="id1BB178DDF0554D248B454BF1DC223856"><enum>(1)</enum><header>In general</header><text>Subject to paragraph (2), failure to comply with the publication requirements of subsection (b)—</text>
+ <subparagraph id="id64c79554824f4d00b2a14cb05dd481f4"><enum>(A)</enum><text>with respect to draft or supplemental rules, environmental impact statements, environmental assessments, or economic assessments shall extend by 1 day the notice and comment period for each day of noncompliance; or</text>
+ </subparagraph><subparagraph id="idbd80f614914444209e5feb2e748ba20a"><enum>(B)</enum><text>with respect to final or emergency rules, shall delay the effective date of the final rule by 60 days plus an additional day for each day of noncompliance.</text>
+ </subparagraph></paragraph><paragraph id="id9c133b66de3747f0a13c0f2f2f956b76"><enum>(2)</enum><header>Withdrawal</header><text>If the Secretary fails to comply with the publication requirements of subsection (b) for more than 180 days after the date of publication of any rule, or any related environmental impact statement, environmental assessment, or economic assessment, under this Act, the Secretary shall withdraw the rule, environmental impact statement, environmental assessment, or economic assessment.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="idB5042C8491F546BD9B0874F37A141ABB"><enum>(b)</enum><header>Conforming amendment</header><text>The table of contents for the Surface Mining Control and Reclamation Act of 1977 (<external-xref legal-doc="usc" parsable-cite="usc/30/1201">30 U.S.C. 1201 et seq.</external-xref>) is amended by inserting after the item relating to section 529 the following:</text>
+				<quoted-block id="id41375341-93ce-43a4-81d5-44c44accb928" style="OLC"><toc><toc-entry idref="id61C8AC64281949539D7CF5BC415BBCC8" level="section">Sec. 530. Publication of scientific products for rules and related environmental impact statements,
+			 environmental assessments, and economic assessments.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection></section><section id="id2e9b5acceec24066b2401577e963e1f7"><enum>3.</enum><header>Compliance with other Federal laws</header><text display-inline="no-display-inline">Section 702 of the Surface Mining Control and Reclamation Act of 1977 (<external-xref legal-doc="usc" parsable-cite="usc/30/1292">30 U.S.C. 1292</external-xref>) is amended—</text>
+ <paragraph id="id7A5F63F401F44F1F8CC2F6691C5CFD4A"><enum>(1)</enum><text display-inline="yes-display-inline">by redesignating subsections (c) and (d) as subsection (e) and (f), respectively; and</text> </paragraph><paragraph id="idB6AD490448F74D78BCB7D04FB223AFF6"><enum>(2)</enum><text display-inline="yes-display-inline">by inserting after subsection (b) the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idaf9737c0c1874404b4c04f3e4da20a40" style="OLC">
+ <subsection id="id2342466827614018a5b6ffa346b73985"><enum>(c)</enum><header>Compliance with other Federal laws</header><text>Nothing in this Act authorizes the Secretary to take any action by rule, interpretive rule, policy, regulation, notice, or order that duplicates any action taken under an Act referred to in subsection (a) (including regulations and rules).</text>
+ </subsection><subsection id="id34fa7b99fcdb48799fa4cf8b96e5580b"><enum>(d)</enum><header>Deference to implementing agencies and State authorities</header><text>In carrying out this Act (including rules, interpretive rules, policies, regulations, notices, or orders), the Secretary—</text>
+ <paragraph id="id510A6DDDC830411EAA6E11210C1E4D23"><enum>(1)</enum><text>shall defer to the determinations of an agency or State authority implementing an Act referred to in subsection (a) with respect to any agency action under the jurisdiction of the agency or State authority, as applicable; and</text>
+ </paragraph><paragraph id="id6F647F2168044749B666A09BF237572B"><enum>(2)</enum><text>shall not make any determination regarding any agency action subject to an Act referred to in subsection (a).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

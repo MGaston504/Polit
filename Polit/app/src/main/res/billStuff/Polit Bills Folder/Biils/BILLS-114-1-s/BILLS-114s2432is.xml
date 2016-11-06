@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2432 IS: Obamacare Tax Transparency Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-12-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2432</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151218">December 18, 2015</action-date>
+			<action-desc><sponsor name-id="S365">Mr. Scott</sponsor> (for himself and <cosponsor name-id="S317">Mr. Barrasso</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Public Health Service Act to require the disclosure of the portion of health insurance
+			 premiums attributable to the health insurance tax.</official-title>
+	</form>
+	<legis-body>
+ <section id="idF9402289E2EB4557AB7777B9790F681B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Obamacare Tax Transparency Act</short-title></quote>.</text> </section><section id="id9A52C0B6AD2149A7B2F41697DAFC94D0" section-type="subsequent-section"><enum>2.</enum><header>Disclosure of portion of premium attributable to health insurance tax</header> <subsection id="id12E9A9AC9F0A4FB8BDECCE7198152016"><enum>(a)</enum><header>Findings</header><text>Congress makes the following findings:</text>
+ <paragraph id="idcf9a9f2572994725ac1bc8c6646f3aa6"><enum>(1)</enum><text>The health insurance tax under section 9010 of the Patient Protection and Affordable Care Act (ACA) is one of the largest tax increases under the ACA. In the most recent Budget and Economic Outlook, the Congressional Budget Office (CBO) projected that the health insurance tax will accrue $159,000,000,000 over 10 years (2016–2025) through yearly, increasing fees on most health insurance providers.</text>
+ </paragraph><paragraph id="id3c76c152384e4627bbb8acb9c4102915"><enum>(2)</enum><text>According to the CBO, new fees under the ACA—including the health insurance tax—<quote>would be largely passed through to consumers in the form of higher premiums for private coverage</quote>.</text> </paragraph><paragraph id="idb6a5582d07214bf6ba5be130e43a9a2c"><enum>(3)</enum><text>Families and small businesses are frequently unaware that their premium payments are higher due to the health insurance tax.</text>
+ </paragraph></subsection><subsection id="idC38F8E8FE3C94DE7865B5BF03ABDEE36"><enum>(b)</enum><header>Purpose</header><text>It is the purpose of this Act to provide consumers with a transparent account of the portion of their premium that is attributable to the health insurance tax under section 9010 of the Patient Protection and Affordable Care Act.</text>
+ </subsection><subsection id="idEB034F2804ED4C4AB1BB81C06B1051CC"><enum>(c)</enum><header>Disclosure</header><text display-inline="yes-display-inline">Subpart 1 of part A of title XXVII of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300gg">42 U.S.C. 300gg et seq.</external-xref>) is amended—</text>
+ <paragraph id="id64CEE1A9E66E401E91230A01350BE979"><enum>(1)</enum><text display-inline="yes-display-inline">by redesignating the second section 2709 (<external-xref legal-doc="usc" parsable-cite="usc/42/300gg-9">42 U.S.C. 300gg–9</external-xref>) (relating to disclosure of information) as section 2709–1; and</text>
+ </paragraph><paragraph id="id3757B6B0932D47289E8071A922418D9A"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="idA141C0564B33454B874E83F5ED5D5380" style="OLC"> <section id="id327456BA538646D18BF18717265B0C68"><enum>2709–2.</enum><header>Disclosure of portion of premium attributable to health insurance tax</header> <subsection id="idA0FC9AF86EBA47E4B15C6EF2E913C7AB"><enum>(a)</enum><header>In general</header><text>Each covered entity shall disclose to any individual or employer who pays a premium for health insurance in the individual or group market the portion of such premium which is attributable to the fee imposed under section 9010 of the Patient Protection and Affordable Care Act.</text>
+							</subsection><subsection id="idF833B7B1A33E44B4833807ACD1085077"><enum>(b)</enum><header>Manner of disclosure</header>
+ <paragraph id="id1169BD39176243E2AABED5253107DB5E"><enum>(1)</enum><header>In general</header><text>Except as provided in paragraph (2), in any case in which the covered entity provides a monthly or annual premium statement or bill, the disclosure made under subsection (a) shall be made on such statement or bill.</text>
+ </paragraph><paragraph id="id9ECE7BC2738E4E3D95F83BE3C1A88970"><enum>(2)</enum><header>Group market</header><text>In the case of a covered entity that provides coverage in the large group market or small group market (as defined in section 2791(e)), the disclosure made under subsection (a) may be made to the employer who maintains such plan.</text>
+ </paragraph></subsection><subsection id="id5B3B9C0E4CF944D48A3B73BEBF4BA5A9"><enum>(c)</enum><header>Prohibition on regulations</header><text>The Secretary may not promulgate regulations with respect to the form or manner of any disclosure required under this section.</text>
+ </subsection><subsection id="id0F21C65703E340C799753BF62E93F0BE"><enum>(d)</enum><header>Definitions</header><text>For purposes of this section, the terms <term>covered entity</term> and <term>health insurance</term> have the meaning given such terms under section 9010 of the Patient Protection and Affordable Care Act.</text>
+							</subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section></legis-body>
+</bill>
+
+

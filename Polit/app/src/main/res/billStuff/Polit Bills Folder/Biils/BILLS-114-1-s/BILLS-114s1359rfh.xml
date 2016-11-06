@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Referred-in-House" bill-type="olc" dms-id="A1" public-print="no" public-private="public" stage-count="1" star-print="no-star-print">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1359 : E-Warranty Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form display="yes">
+		<distribution-code>IC</distribution-code>
+		<congress display="yes">114th CONGRESS</congress><session display="yes">1st Session</session>
+		<legis-num display="yes">S. 1359</legis-num>
+		<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date>July 13, 2015</action-date>
+			<action-desc>Referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type display="yes">AN ACT</legis-type>
+		<official-title display="yes">To allow manufacturers to meet warranty and labeling requirements for consumer products by
+			 displaying the terms of warranties on Internet websites, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body display-enacting-clause="yes-display-enacting-clause" id="H585F6ECF525D4713B984B4960C710912" style="OLC">
+ <section commented="no" display-inline="no-display-inline" id="S1" section-type="section-one"><enum>1.</enum><header display-inline="yes-display-inline">Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>E-Warranty Act of 2015</short-title></quote>.</text> </section><section commented="no" display-inline="no-display-inline" id="idc112e979231448edbd44074756f3b9a3" section-type="subsequent-section"><enum>2.</enum><header display-inline="yes-display-inline">Findings</header><text display-inline="no-display-inline">Congress makes the following findings:</text>
+ <paragraph commented="no" display-inline="no-display-inline" id="id4b72f570e72e401d84569fa6cf8f610a"><enum>(1)</enum><text display-inline="yes-display-inline">Many manufacturers and consumers prefer to have the option to provide or receive warranty information online.</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id4ae5429f8ea742a4ac80dac4e2ba00b5"><enum>(2)</enum><text display-inline="yes-display-inline">Modernizing warranty notification rules is necessary to allow the United States to continue to compete globally in manufacturing, trade, and the development of consumer products connected to the Internet.</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id6276c37bcbda451a8c08880bddc05e15"><enum>(3)</enum><text display-inline="yes-display-inline">Allowing an electronic warranty option would expand consumer access to relevant consumer information in an environmentally friendly way, and would provide additional flexibility to manufacturers to meet their labeling and warranty requirements.</text>
+			</paragraph></section><section commented="no" display-inline="no-display-inline" id="id39fd24c17b50435985b7b5d0cdacfd7f" section-type="subsequent-section"><enum>3.</enum><header display-inline="yes-display-inline">Electronic display of terms of written warranty for consumer products</header>
+ <subsection commented="no" display-inline="no-display-inline" id="id4CA01107F039411A9FB30D3D05B91C0A"><enum>(a)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Section 102(b) of the Magnuson-Moss Warranty—Federal Trade Commission Improvement Act (<external-xref legal-doc="usc" parsable-cite="usc/15/2302">15 U.S.C. 2302(b)</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idBA0092131342419CBF7758ABFD057EC0" style="OLC">
+					<paragraph commented="no" display-inline="no-display-inline" id="id1B9ED37F413A418E87A1EBDB56752F73" indent="up1"><enum>(4)</enum>
+ <subparagraph commented="no" display-inline="yes-display-inline" id="id27FA5DC287DF4417A7E53F0E8DFE95F4"><enum>(A)</enum><text display-inline="yes-display-inline">Except as provided in subparagraph (B), the rules prescribed under this subsection shall allow for the satisfaction of all requirements concerning the availability of terms of a written warranty on a consumer product under this subsection by—</text>
+ <clause commented="no" display-inline="no-display-inline" id="id928FEB328BC94B0B98E98D32F63DDBEA" indent="up1"><enum>(i)</enum><text display-inline="yes-display-inline">making available such terms in an accessible digital format on the Internet website of the manufacturer of the consumer product in a clear and conspicuous manner; and</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="id8AEB8FD9645D4D2B85824C26C170BE25" indent="up1"><enum>(ii)</enum><text display-inline="yes-display-inline">providing to the consumer (or prospective consumer) information with respect to how to obtain and review such terms by indicating on the product or product packaging or in the product manual—</text>
+ <subclause commented="no" display-inline="no-display-inline" id="idFFB1D5AF1BF14D43AF9E18CE198C173B"><enum>(I)</enum><text display-inline="yes-display-inline">the Internet website of the manufacturer where such terms can be obtained and reviewed; and</text> </subclause><subclause commented="no" display-inline="no-display-inline" id="idB5CAAF70083C45119638F40A503304F5"><enum>(II)</enum><text display-inline="yes-display-inline">the phone number of the manufacturer, the postal mailing address of the manufacturer, or another reasonable non-Internet based means of contacting the manufacturer to obtain and review such terms.</text>
+ </subclause></clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id406603763282482386E14E3FA5947089" indent="up1"><enum>(B)</enum><text display-inline="yes-display-inline">With respect to any requirement that the terms of any written warranty for a consumer product be made available to the consumer (or prospective consumer) prior to sale of the product, in a case in which a consumer product is offered for sale in a retail location, by catalog, or through door-to-door sales, subparagraph (A) shall only apply if the seller makes available, through electronic or other means, at the location of the sale to the consumer purchasing the consumer product the terms of the warranty for the consumer product before the purchase.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="id5286F4EAD28144FBA97ED119A310D7C5"><enum>(b)</enum><header display-inline="yes-display-inline">Revision of rules</header>
+ <paragraph commented="no" display-inline="no-display-inline" id="id282855D7BCFF42ACAD9EBA43267A6C28"><enum>(1)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Not later than 1 year after the date of the enactment of this Act, the Federal Trade Commission shall revise the rules prescribed under such section to comply with the requirements of paragraph (4) of such section, as added by subsection (a) of this section.</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="idA93E77AC483642AC976E223AF6E1C36F"><enum>(2)</enum><header display-inline="yes-display-inline">Authority to waive requirement for oral presentation</header><text display-inline="yes-display-inline">In revising rules under paragraph (1), the Federal Trade Commission may waive the requirement of section 109(a) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/15/2309">15 U.S.C. 2309(a)</external-xref>) to give interested persons an opportunity for oral presentation if the Commission determines that giving interested persons such opportunity would interfere with the ability of the<pagebreak></pagebreak> Commission to revise rules under paragraph (1) in a timely manner.</text>
+				</paragraph></subsection></section></legis-body><attestation><attestation-group><attestation-date chamber="Senate" date="20150709">Passed the Senate July 9, 2015.</attestation-date><attestor display="yes">Julie E. Adams,</attestor><role>Secretary</role></attestation-group></attestation>
+</bill>
+
+

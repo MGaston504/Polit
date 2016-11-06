@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="H068BF3104AE245738922C9B8DCBC383A" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1168 RH: Native American Children's Safety Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IB</distribution-code>
+		<calendar display="yes">Union Calendar No. 58</calendar>
+		<congress display="yes">114th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>H. R. 1168</legis-num>
+		<associated-doc display="yes" role="report">[Report No. 114–79]</associated-doc>
+		<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150227">February 27, 2015</action-date>
+			<action-desc><sponsor name-id="C001096">Mr. Cramer</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc>
+		</action>
+		<action>
+			<action-date>April 15, 2015</action-date>
+			<action-desc>Committed to the Committee of the Whole House on the State of the Union and ordered to be printed</action-desc>
+		</action>
+		<action><action-desc><pagebreak></pagebreak></action-desc></action><legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend the Indian Child Protection and Family Violence Prevention Act to require background
+			 checks before foster care placements are ordered in tribal court
+			 proceedings, and for other purposes.<pagebreak></pagebreak></official-title>
+	</form>
+	<legis-body id="H3B06B00697DB4A169B489F0FD465050A" style="OLC">
+ <section id="HF7D2701A5C1243A2942DAEFE71F7B1CE" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Native American Children's Safety Act</short-title></quote>.</text> </section><section id="HE1FA6BA7EC914CBB9C8EBBCBD94A50F9"><enum>2.</enum><header>Criminal records checks</header><text display-inline="no-display-inline">Section 408 of the Indian Child Protection and Family Violence Prevention Act (<external-xref legal-doc="usc" parsable-cite="usc/25/3207">25 U.S.C. 3207</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H57F635565D1843209B528DCC924F3B20" style="OLC">
+				<subsection id="H75AEA6BA713D415E94BA95116FFE4721"><enum>(d)</enum><header>By tribal social services agency for foster care placements in tribal court proceedings</header>
+ <paragraph id="H6162325346E946718C338D20EB01C0A5"><enum>(1)</enum><header>Definitions</header><text>In this subsection:</text> <subparagraph id="H23772A9FEEA14A3584FF7ED1DDC78C72"><enum>(A)</enum><header>Covered individual</header><text>The term <term>covered individual</term> includes—</text>
+ <clause id="H092F98196D0440A3B15602FFCCC30C9E"><enum>(i)</enum><text>any individual 18 years of age or older; and</text> </clause><clause id="H882907D1BBDF47178E44B76E6FC7D5B5"><enum>(ii)</enum><text>any individual who the tribal social services agency determines is subject to a criminal records check under paragraph (2)(A).</text>
+ </clause></subparagraph><subparagraph id="HED80DF05B2F9405F8D115A581722CCF2"><enum>(B)</enum><header>Foster care placement</header><text>The term <term>foster care placement</term> means any action removing an Indian child from a parent or Indian custodian for temporary placement in a foster home or institution or the home of a guardian or conservator if—</text>
+ <clause id="HD965772BF7DD42D882FABA4B1ABDF5E6"><enum>(i)</enum><text>the parent or Indian custodian cannot have the child returned on demand; and</text> </clause><clause id="HB3C599FF970642B8BA7C24461B97689D"><enum>(ii)</enum> <subclause commented="no" display-inline="yes-display-inline" id="H21E494A9DD2D41C8B6581E220688F76F"><enum>(I)</enum><text>parental rights have not been terminated; or</text>
+ </subclause><subclause id="H18190023294D4BD1B8AB86D07DD5D092" indent="up1"><enum>(II)</enum><text>parental rights have been terminated but the child has not been permanently placed.</text> </subclause></clause></subparagraph><subparagraph id="HE43BBE1B53A847C09F4F8BD780256CD1"><enum>(C)</enum><header>Indian custodian</header><text>The term <term>Indian custodian</term> means any Indian—</text>
+ <clause id="H29D67F0C22D64BE48F704B7E93A62824"><enum>(i)</enum><text>who has legal custody of an Indian child under tribal law or custom or under State law; or</text> </clause><clause id="H3055769B679240989C257A4D4ADF0AC3"><enum>(ii)</enum><text>to whom temporary physical care, custody, and control has been transferred by the parent of the child.</text>
+ </clause></subparagraph><subparagraph id="HF4F6A108EAB242A8ABA6D04B2C1BA054"><enum>(D)</enum><header>Parent</header><text>The term <term>parent</term> means—</text> <clause id="H3831B3A4A16E4FF2B11EFC5CD6F7BD68"><enum>(i)</enum><text>any biological parent of an Indian child; or</text>
+ </clause><clause id="H5949105295484FE28103EF729DD614E9"><enum>(ii)</enum><text>any Indian who has lawfully adopted an Indian child, including adoptions under tribal law or custom.</text>
+ </clause></subparagraph><subparagraph id="H7E6991E9270A4D2FBCADA2947C5193AC"><enum>(E)</enum><header>Tribal court</header><text>The term <term>tribal court</term> means a court—</text> <clause id="HB673A03CD0734E2F96E4EB2CEF601A99"><enum>(i)</enum><text>with jurisdiction over foster care placements; and</text>
+ </clause><clause id="H307BF05F79644985965E16233959A805"><enum>(ii)</enum><text>that is—</text> <subclause id="H78F3A3B1F1C64F2AB76F29AED44CC285"><enum>(I)</enum><text>a Court of Indian Offenses;</text>
+ </subclause><subclause id="H8A79D4D6362046F5A30B6240324D34D3"><enum>(II)</enum><text>a court established and operated under the code or custom of an Indian tribe; or</text> </subclause><subclause id="H2B20DB07A12A4A059A585F67DA6E32DE"><enum>(III)</enum><text>any other administrative body of an Indian tribe that is vested with authority over foster care placements.</text>
+ </subclause></clause></subparagraph><subparagraph id="H695DC1E180E8439A8A1D316F535EFDB7"><enum>(F)</enum><header>Tribal social services agency</header><text>The term <term>tribal social services agency</term> means the agency of an Indian tribe that has the primary responsibility for carrying out foster care licensing or approval (as of the date on which the proceeding described in paragraph (2)(A) commences) for the Indian tribe.</text>
+						</subparagraph></paragraph><paragraph id="H7AF43E30A9C340E7A4ED7748A9A3DC1F"><enum>(2)</enum><header>Criminal records check before foster care placement</header>
+ <subparagraph id="HA5C65EFB0143474C8DBCF4F43815BE02"><enum>(A)</enum><header>In general</header><text>Except as provided in paragraph (3), no foster care placement shall be finally approved and no foster care license shall be issued until the tribal social services agency—</text>
+ <clause id="H968222B781204C26AEA7A70396AA397B"><enum>(i)</enum><text>completes a criminal records check of each covered individual who resides in the household or is employed at the institution in which the foster care placement will be made; and</text>
+ </clause><clause id="H093BDF7E053A465DA0C8BC9E1691C9E9"><enum>(ii)</enum><text>concludes that each covered individual described in clause (i) meets such standards as the Indian tribe shall establish in accordance with subparagraph (B).</text>
+ </clause></subparagraph><subparagraph id="H58A67C9C10C64C63BF46A22216737ACF"><enum>(B)</enum><header>Standards of placement</header><text>The standards described in subparagraph (A)(ii) shall include—</text> <clause id="H5E332DA639444D26A3C8263B91923815"><enum>(i)</enum><text>requirements that each tribal social services agency described in subparagraph (A)—</text>
+ <subclause id="HFCE8974EB10D43BE93ADB954B223882F"><enum>(I)</enum><text>perform criminal records checks, including fingerprint-based checks of national crime information databases (as defined in section 534(f)(3) of title 28, United States Code);</text>
+ </subclause><subclause id="H34BC734143344FDCAB1D457A1ECD7EC6"><enum>(II)</enum><text>check any abuse registries maintained by the Indian tribe; and</text> </subclause><subclause id="H919333961FFA4C70A5DDF630C03ABB51"><enum>(III)</enum><text>check any child abuse and neglect registry maintained by the State in which the covered individual resides for information on the covered individual, and request any other State in which the covered individual resided in the preceding 5 years, to enable the tribal social services agency to check any child abuse and neglect registry maintained by that State for such information; and</text>
+ </subclause></clause><clause id="H4085A6616D754FA59F53106CE9D2E497"><enum>(ii)</enum><text>any other additional requirement that the Indian tribe determines is necessary and permissible within the existing authority of the Indian tribe, such as the creation of voluntary agreements with State entities in order to facilitate the sharing of information related to the performance of criminal records checks.</text>
+ </clause></subparagraph><subparagraph id="HB3DCDA0232D84A7EBF28C5D80EC2090D"><enum>(C)</enum><header>Results</header><text>Except as provided in paragraph (3), no foster care placement shall be ordered in any proceeding described in subparagraph (A) if an investigation described in clause (i) of that subparagraph reveals that a covered individual described in that clause has been found by a Federal, State, or tribal court to have committed any crime listed in clause (i) or (ii) of section 471(a)(20)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/671">42 U.S.C. 671(a)(20)(A)</external-xref>).</text>
+ </subparagraph></paragraph><paragraph id="HCAE3D13181FC48BA85605AADB14F082A"><enum>(3)</enum><header>Emergency placement</header><text>Paragraph (2) shall not apply to an emergency foster care placement, as determined by a tribal social services agency.</text>
+					</paragraph><paragraph id="H0569A9B73D5C4CB9BAD3C2921167D532"><enum>(4)</enum><header>Recertification of foster homes or institutions</header>
+ <subparagraph id="H4AE58100C48E47668B6DAE54CDCF99C6"><enum>(A)</enum><header>In general</header><text>Not later than 2 years after the date of enactment of this subsection, each Indian tribe shall establish procedures to recertify homes or institutions in which foster care placements are made.</text>
+ </subparagraph><subparagraph id="H717AE3C3BDA743F8A1CEDFC95F1DABEE"><enum>(B)</enum><header>Contents</header><text>The procedures described in subparagraph (A) shall include, at a minimum, periodic intervals at which the home or institution shall be subject to recertification to ensure—</text>
+ <clause id="HFF1CCD92D3E5499F8F36601531EBAF02"><enum>(i)</enum><text>the safety of the home or institution for the Indian child; and</text> </clause><clause id="H9B2EAB1C97494D2B9B995DA5C5B05E04"><enum>(ii)</enum><text>that each covered individual who resides in the home or is employed at the institution is subject to a criminal records check in accordance with this subsection, including any covered individual who—</text>
+ <subclause id="H169536F0063F42499F9B159024FBAD09"><enum>(I)</enum><text>resides in the home or is employed at the institution on the date on which the procedures established under subparagraph (A) commences; and</text>
+ </subclause><subclause id="H180EE2D5AE75434693BD371AACC807A8"><enum>(II)</enum><text>did not reside in the home or was not employed at the institution on the date on which the investigation described in paragraph (2)(A)(i) was completed.</text>
+ </subclause></clause></subparagraph><subparagraph id="H5BA131C9A7584B74A1F2BAE5D3BA55C7"><enum>(C)</enum><header>Guidance issued by the secretary</header><text>The procedures established under subparagraph (A) shall be subject to any regulation or guidance issued by the Secretary that is in accordance with the purpose of this subsection.</text>
+ </subparagraph></paragraph><paragraph id="H0FF814C48E654378B6DD98FFE283BBFA"><enum>(5)</enum><header>Guidance </header><text>Not later than 2 years after the date of enactment of this subsection and after consultation with Indian tribes, the Secretary shall issue guidance regarding—</text>
+ <subparagraph id="H56022ABE29EF42D78C990CD676E253D9"><enum>(A)</enum><text>procedures for a criminal records check of any covered individual who—</text> <clause id="H5416C0BC401F404BBD5AE444E219060F"><enum>(i)</enum><text>resides in the home or is employed at the institution in which the foster care placement is made after the date on which the investigation described in paragraph (2)(A)(i) is completed; and</text>
+ </clause><clause id="H6C73335A8A2943BAA141CAB341AC8394"><enum>(ii)</enum><text>was not the subject of an investigation described in paragraph (2)(A)(i) before the foster care placement was made;</text>
+ </clause></subparagraph><subparagraph id="H7864CF54B0C04674A2E030B28D2C002B"><enum>(B)</enum><text>self-reporting requirements for foster care homes or institutions in which any covered individual described in subparagraph (A) resides if the head of the household or the operator of the institution has knowledge that the covered individual—</text>
+ <clause id="H389C651FA2004DC9B8AE34B6A25AEAD6"><enum>(i)</enum><text>has been found by a Federal, State, or tribal court to have committed any crime listed in clause (i) or (ii) of section 471(a)(20)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/671">42 U.S.C. 671(a)(20)(A)</external-xref>); or</text>
+ </clause><clause commented="no" id="HA2874A361038491BBEC8439006350F62"><enum>(ii)</enum><text>is listed on a registry described in clause (II) or (III) of paragraph (2)(B)(i);</text> </clause></subparagraph><subparagraph id="HC07C8791661B4B61998C776E6C90D9E4"><enum>(C)</enum><text>promising practices used by Indian tribes to address emergency foster care placement procedures under paragraph (3); and</text>
+ </subparagraph><subparagraph id="H30426B43AE714AB4884A8CCC8B5AA21A"><enum>(D)</enum><text>procedures for certifying compliance with this Act.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block> </section></legis-body> <endorsement display="yes"> <action-date>April 15, 2015</action-date> <action-desc>Committed to the Committee of the Whole House on the State of the Union and ordered to be printed</action-desc></endorsement> </bill> 
+

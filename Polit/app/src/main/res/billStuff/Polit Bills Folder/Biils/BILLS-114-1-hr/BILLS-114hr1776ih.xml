@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HF10083E588C94F7890587626EC884C5D" key="H" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1776 IH: Shut Down the Shutdowns Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1776</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150414">April 14, 2015</action-date>
+			<action-desc><sponsor name-id="G000556">Mr. Grayson</sponsor> (for himself and <cosponsor name-id="C001090">Mr. Cartwright</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAP00">Committee on Appropriations</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend title 31, United States Code, to provide for automatic continuing resolutions.</official-title>
+	</form>
+	<legis-body id="H1F355CC1D149455BAC1A3098EC812AE9" style="OLC">
+		<section id="HEDB7E7D784FF4F819E0F7A81556BB3BA" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Shut Down the Shutdowns Act</short-title></quote>, or the <quote><short-title>Don’t Interrupt America Act</short-title></quote>.</text> </section><section id="idF05ED48EE9AA4C598A366315E9596949" section-type="subsequent-section"><enum>2.</enum><header>Automatic continuing appropriations</header><text display-inline="no-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/31/13">Chapter 13</external-xref> of title 31, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/31/1310">section 1310</external-xref> the following new section:</text>
+			<quoted-block display-inline="no-display-inline" id="id152B6E4AF566455AA5B5FED873D416CC" style="OLC">
+				<section id="idFAFD75DFBCB44173879B344E533CFFE0"><enum>1311.</enum><header>Continuing appropriations</header>
+ <subsection id="idE6A850E754CA44F48237C71433736A9D"><enum>(a)</enum><text>Should an appropriation for the operation of any program, project, or activity within a Federal agency expire prior to the passage of a new appropriation measure funding that agency, each expired program, project, or activity within that agency shall be appropriated a sum equal to the annualized rate of the previous appropriation, prorated through the end of—</text>
+ <paragraph id="id1D8077FE61DE45CFA2474632F9DB14DF"><enum>(1)</enum><text>the fiscal year if such expiration occurs on or prior to September 29 of any given year; or</text> </paragraph><paragraph id="idAF7231D383B344C98212005463051DD5"><enum>(2)</enum><text>the following fiscal year if such expiration occurs on September 30 of any given year.</text>
+						</paragraph><continuation-text continuation-text-level="subsection">Funds previously made available, and prior authorization, for such programs, projects, or
+ activities shall also be extended consistent with this subsection.</continuation-text></subsection><subsection id="id48FAA1C2CFE74E1CA8FFCFC861FA65E3"><enum>(b)</enum><text>Any appropriation, or funds made available, or authority granted, for a program, project, or activity, pursuant to this section, shall be subject to the same terms and conditions as were in place on the date prior to any extension made pursuant to this section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body>
+</bill>
+
+

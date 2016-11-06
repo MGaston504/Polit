@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H7E761F997D7B46429B1F793963B41901" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 708 IH: BOTS Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 708</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150204">February 4, 2015</action-date>
+			<action-desc><sponsor name-id="B001243">Mrs. Blackburn</sponsor> (for herself, <cosponsor name-id="C001068">Mr. Cohen</cosponsor>, <cosponsor name-id="C000754">Mr. Cooper</cosponsor>, and <cosponsor name-id="D000616">Mr. DesJarlais</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prohibit, as an unfair and deceptive act or practice in commerce, the sale or use of certain
+			 software to circumvent control measures used by Internet ticket sellers to
+			 ensure equitable consumer access to tickets for any given event, and to
+			 provide for criminal penalties for such acts.</official-title>
+	</form>
+	<legis-body id="HBF037390AC394B3D959D9F82CB42B737" style="OLC">
+ <section id="H8C886E7D07C24E2391A0AB3FBEB24261" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Better On-line Ticket Sales Act of 2014</short-title></quote> or the <quote>BOTS Act</quote>.</text> </section><section id="HA5D940B8B854467C9B83247FE5B9CB12"><enum>2.</enum><header>Unfair and deceptive acts and practices relating to use of ticket access circumvention software</header> <subsection id="H07B8C2BCF5C049AE900164FBB7FE03D2"><enum>(a)</enum><header>Conduct prohibited</header><text display-inline="yes-display-inline">It shall be unlawful for any person—</text>
+ <paragraph id="H8E2A4A5E3D8846C29D3583107DAB8016"><enum>(1)</enum><text>to intentionally use or sell software to circumvent a security measure, access control system, or other control or measure on a ticket seller’s Internet website that is used by the seller to ensure equitable consumer access to tickets for any given event; or</text>
+ </paragraph><paragraph id="H473264D3D54A414DA245C0AD4CDE533A"><enum>(2)</enum><text>to sell any ticket in interstate commerce knowingly obtained by that person or another in violation of paragraph (1).</text>
+ </paragraph></subsection><subsection id="H18F5C6362C7C4936A11E5A8A358453FE"><enum>(b)</enum><header>Federal Trade Commission Enforcement</header><text display-inline="yes-display-inline">A violation of subsection (a) shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/57a">15 U.S.C. 57a(a)(1)(B)</external-xref>). The Federal Trade Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this Act.</text>
+ </subsection></section><section id="H8325EF32FA58497F8E7519E25FA9FE40"><enum>3.</enum><header>Civil action</header><text display-inline="no-display-inline">Any person who suffers injury as a result of another person’s violation of subsection (a) of section 2, may bring a civil action against such person in a United States district court and may recover from such person damages for such injury plus $1,000 for each distinct use or sale of software in violation of paragraph (1) of such subsection or sale of a ticket in violation of paragraph (2) of such subsection that caused such injury, and reasonable attorneys’ fees and costs.</text>
+ </section><section id="H847D35D879B646059A26F213AC3E0D09"><enum>4.</enum><header>Fraud in using or selling ticket access circumvention software</header><text display-inline="no-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/47">Chapter 47</external-xref> of title 18, United States Code, is amended by adding at the end the following new section:</text>
+			<quoted-block display-inline="no-display-inline" id="H57133D8F7C7A4DFFA381415A6AC76CA6" style="USC">
+				<section id="H6330414635E14937BDE4C31A8AA76B98"><enum>1041.</enum><header>Fraud in using or selling ticket access circumvention software</header>
+ <subsection id="H0E0415831C904772B4EE217A85644842"><enum>(a)</enum><text display-inline="yes-display-inline">Whoever—</text> <paragraph id="H69EEEFDE803548D8AE9956C287385772"><enum>(1)</enum><text>intentionally uses or sells software to circumvent a security measure, access control system, or other control or measure on a ticket seller’s Internet website that is used by the seller to ensure equitable consumer access to tickets for any given event, or</text>
+ </paragraph><paragraph id="H37D11BE94F3E47AAB6A3E134B1FD6617"><enum>(2)</enum><text>sells any ticket in interstate commerce knowingly obtained by that person or another in violation of paragraph (1),</text></paragraph><continuation-text continuation-text-level="subsection">shall be punished as provided in subsection (b).</continuation-text></subsection><subsection id="H9A834067B4DC41C891FF86DBF812F47A"><enum>(b)</enum><text display-inline="yes-display-inline">The punishment for an offense under subsection (a) shall be punished by a fine of the greater of—</text> <paragraph id="HF4D89C77D88A49FC89D93A84014EE953"><enum>(1)</enum><text>not more than $100 for each distinct use or sale of software in violation of paragraph (1) of subsection (a) or sale of a ticket in violation of paragraph (2) of such subsection, or</text>
+ </paragraph><paragraph id="HAF1996B43F0A4B6A8C7C7DC4EE2FF2E9"><enum>(2)</enum><text>not more than $25,000,</text></paragraph><continuation-text continuation-text-level="subsection">or by imprisonment for not more than five years, or by both such fine and imprisonment.</continuation-text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </section></legis-body> </bill> 
+

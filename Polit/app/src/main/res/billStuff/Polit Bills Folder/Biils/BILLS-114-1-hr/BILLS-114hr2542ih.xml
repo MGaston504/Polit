@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H47206173222A490BBABF14572A31E06A" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2542 IH: Bereaved Borrowers’ Bill of Rights Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2542</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150521">May 21, 2015</action-date>
+			<action-desc><sponsor name-id="L000560">Mr. Larsen of Washington</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Truth in Lending Act to establish requirements for releasing a cosigner from
+			 obligations of a private education loan, for the treatment of the loan
+			 upon the death or bankruptcy of a cosigner of the loan, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="HBAE3EBFFD5C046D88E8A6109FC2AD9DC" style="OLC">
+ <section id="HBA405CC375D241D3892DF72F9D5A4A3A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Bereaved Borrowers’ Bill of Rights Act of 2015</short-title></quote>.</text> </section><section id="H929C1D8C2C1E4116BCB8556F33FBFD95"><enum>2.</enum><header>Requirements for private educational lenders</header><text display-inline="no-display-inline">Section 140 of the Truth in Lending Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1650">15 U.S.C. 1650</external-xref>) is amended by adding at the end the following new subsection:</text>
+			<quoted-block display-inline="no-display-inline" id="H4544EB7BB60744CCB4CAC4C1FC7EEA80" style="OLC">
+				<subsection id="H5EADCAC13F2B48C4A09B863484C564FE"><enum>(g)</enum><header>Requirements regarding cosigners for a private education loan</header>
+ <paragraph id="HB97364EFE4C24B02A3F1E0BCA95F4FB0"><enum>(1)</enum><header>Cosigner release requirements</header><text display-inline="yes-display-inline">If a private education loan has a cosigner who is jointly liable for such loan, a private educational lender shall include a process for releasing the cosigner from any obligations on the loan and in such process the lender—</text>
+ <subparagraph id="H8DE5490B2E9943EEBEE41529D4EAB7EA"><enum>(A)</enum><text>shall make the criteria for obtaining the release clear, transparent, and easily accessible via the website of the private educational lender;</text>
+ </subparagraph><subparagraph id="HE6FF25BD22934D558EBEE17618EEEE34"><enum>(B)</enum><text>shall notify the borrower if the borrower is eligible to release a cosigner;</text> </subparagraph><subparagraph id="HEB24A5AF3328449FA062F010DF35D2F1"><enum>(C)</enum><text>shall, if denying a request to release a cosigner, provide an explanation for the denial and offer the borrower an opportunity to correct the request; and</text>
+ </subparagraph><subparagraph id="HDAE04104A7B24F8BB303F3B820C5BDCF"><enum>(D)</enum><text>may not change the terms of the release to impose additional duties on, or be detrimental to the interests of, the borrower or cosigner over the duration of the private education loan.</text>
+ </subparagraph></paragraph><paragraph id="HB47ED78315B041C5A7C77ACE8546F511"><enum>(2)</enum><header>Additional requirements</header><text display-inline="yes-display-inline">Notwithstanding any provision in a private education loan agreement that contains a process for releasing a cosigner from obligations on the loan, a private educational lender shall, upon receiving notification of the death or bankruptcy of a cosigner—</text>
+ <subparagraph id="H1CB7609DCB7E4D9C9C843EA4B35BD30C"><enum>(A)</enum><text display-inline="yes-display-inline">notify the borrower about the borrower’s rights under the private education loan agreement regarding the release of the cosigner; and</text>
+ </subparagraph><subparagraph id="H02A7796F1EBD4704ADFB2EC9A283CC65"><enum>(B)</enum><text display-inline="yes-display-inline">if the borrower continues to make on-time payments (in the amount determined prior to the death or bankruptcy of the cosigner) on the private education loan, provide a period of time of not less than 90 days for the borrower to follow the process for release of the cosigner before deeming that the borrower has failed to repay the loan, changing the terms of the loan, accelerating the repayment terms of the loan, referring the loan to a debt collector (as defined in section 803 of the Fair Debt Collection Practices Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1692a">15 U.S.C. 1692a</external-xref>)), or notifying consumer reporting agencies (as defined in section 603(f)) of a change in the status of the loan.</text>
+ </subparagraph></paragraph><paragraph id="HEB80A62327CE4A7A8723DA71619BFED0"><enum>(3)</enum><header>Credit worthiness standards</header><text display-inline="yes-display-inline">A private educational lender may not evaluate the credit worthiness, credit standing, or credit capacity of a borrower or a cosigner at the time at which a cosigner is released from obligations on a private education loan using a different standard than was used to evaluate the credit worthiness, credit standing, or credit capacity of the borrower or cosigner at the time of the origination of the loan.</text>
+ </paragraph><paragraph id="H0D860452D305406493749C101716DAF9"><enum>(4)</enum><header>Requirements for new cosigners</header><text display-inline="yes-display-inline">Notwithstanding any provision in a private education loan agreement, a private educational lender shall, upon receiving notification of the death or bankruptcy of a cosigner who is jointly liable for the private education loan—</text>
+ <subparagraph id="HBE3A127126784F92A5DC9347B8948C07"><enum>(A)</enum><text display-inline="yes-display-inline">notify the borrower about the borrower’s rights under the private education loan agreement regarding identifying a new cosigner or refinancing the loan; and</text>
+ </subparagraph><subparagraph id="HB2D9CB1C3AFA4506857AFF8D7B64CB0A"><enum>(B)</enum><text display-inline="yes-display-inline">if the borrower continues to make on-time payments (in the amount determined prior to the death or bankruptcy of the cosigner) on the private education loan, provide a period of time of not less than 90 days for a borrower to identify a new cosigner or refinance the loan before deeming that the borrower has failed to repay the loan, changing the terms of the loan, accelerating the repayment terms of the loan, referring the loan to a debt collector (as defined in section 803 of the Fair Debt Collection Practices Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1692a">15 U.S.C. 1692a</external-xref>)), or notifying consumer reporting agencies (as defined in section 603(f)) of a change in the status of the loan.</text>
+ </subparagraph></paragraph><paragraph id="H602D7D250DCC4AB6BDFAD475C94054E8"><enum>(5)</enum><header>New cosigner credit worthiness</header><text display-inline="yes-display-inline">A private educational lender may not evaluate the credit worthiness, credit standing, or credit capacity of a new cosigner using a stricter standard than used to evaluate the credit worthiness, credit standing, or credit capacity of the original cosigner.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="HA0164EAC593946E2BE3C1E66CBEFB51D"><enum>3.</enum><header>Prohibitions for consumer reporting agencies and furnishers of information to consumer reporting
+			 agencies related to private education loans</header>
+ <subsection commented="no" id="H6DB1F143AFA14CC796193E56650EA636"><enum>(a)</enum><header>Prohibition for consumer reporting agencies</header><text display-inline="yes-display-inline">Subsection (a) of section 605 of the Fair Credit Reporting Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1681c">15 U.S.C. 1681c(a)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="HF1AC1127D70C46D6A20B24FA71492CA2" style="OLC">
+ <paragraph commented="no" id="H0B1E277317694076AFB6624039F865F4"><enum>(7)</enum><text display-inline="yes-display-inline">Failure to repay a private education loan (as defined in section 140(a)) due to accelerated repayment terms of the loan after the death or bankruptcy of a cosigner who is jointly liable for the loan.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H0607F1B44979423997961F024C29C30D"><enum>(b)</enum><header>Prohibition for furnishers of information to consumer reporting agencies</header><text display-inline="yes-display-inline">Paragraph (1) of section 623(a) of such Act is amended by adding the following new subparagraph:</text> <quoted-block display-inline="no-display-inline" id="H31A9828B979D44AFB3C16DC8BCD19E6E" style="OLC"> <subparagraph id="H31F97826ABB9410489C736935196A191"><enum>(E)</enum><header>Reporting information on private education loans</header><text display-inline="yes-display-inline">A private educational lender (as defined in section 140(a)) or the servicer of a private education loan (as defined in such section) shall not furnish any information relating to the loan to any consumer reporting agency if the consumer failed to repay the loan due to accelerated repayment terms after the death or bankruptcy of a cosigner who is jointly liable for the loan.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

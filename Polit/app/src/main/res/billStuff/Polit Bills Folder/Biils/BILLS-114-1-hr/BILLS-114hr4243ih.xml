@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H396BEE9C02504CBF98C08A2095F7630F" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4243 IH: Individual Assistance Improvement Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4243</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151211">December 11, 2015</action-date>
+			<action-desc><sponsor name-id="K000381">Mr. Kilmer</sponsor> (for himself, <cosponsor name-id="N000189">Mr. Newhouse</cosponsor>, and <cosponsor name-id="R000578">Mr. Reichert</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To improve Federal disaster relief and emergency assistance, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HFCA4B87EC36F44EC827F5ED517F42955" style="OLC">
+ <section id="HE2220E7DF2BE41689644C912E4D0B8A3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Individual Assistance Improvement Act of 2015</short-title></quote>.</text> </section><section id="HB4A5B7DC869E4A10888BAB44F7C8CB23"><enum>2.</enum><header>Improvements to Federal disaster relief and emergency assistance</header> <subsection id="H09D863E237DE46698066BC0D65D5AA12"><enum>(a)</enum><header>Report on Small State and Rural Area Assistance</header><text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the Administrator of the Federal Emergency Management Agency shall submit to Congress a report with recommendations for improving Federal assistance, with respect to small States and rural areas, under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5121">42 U.S.C. 5121 et seq.</external-xref>). The report shall include an identification of additional resources required for recommended improvements.</text>
+ </subsection><subsection id="H2308746CEA86479B9555109E1A7331A2"><enum>(b)</enum><header>Factors for Individual Assistance Program</header><text display-inline="yes-display-inline">In measuring the severity, magnitude, and impact of a disaster and evaluating the need for assistance to individuals under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, the Administrator shall not apply, with respect to a rural area, the factor set out in section 206.48(b)(1) of title 44, Code of Federal Regulations (relating to the concentration of damages).</text>
+ </subsection><subsection id="HE380C331443A4616A5ABF9B5D8F8C0A3"><enum>(c)</enum><header>Release of Documentation Related to Disaster Declaration Decisions</header><text display-inline="yes-display-inline">Not later than 25 days after a Governor, or Chief Executive of an Indian tribal government, requests documentation related to a major disaster declaration decision under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5170">42 U.S.C. 5170</external-xref>), the Administrator shall provide the Governor, or Chief Executive, with all such documentation, including—</text>
+ <paragraph id="H1ED47B4D239B4B0F911F4746BED71121"><enum>(1)</enum><text display-inline="yes-display-inline">an analysis of the factors that the Federal Emergency Management Agency considered in making the decision, including any threshold, limit, or average that the Agency applied; and</text>
+ </paragraph><paragraph id="H462CCFFE32D047F0B4811E4582A62957"><enum>(2)</enum><text>a rationale explaining the decision.</text> </paragraph></subsection><subsection id="H8DB32343429A4F3C8170529F877F9232"><enum>(d)</enum><header>Study on Damage Assessment</header> <paragraph id="HC2A786D8C16F45A7B4AE9F50F12753C9"><enum>(1)</enum><header>Study</header><text display-inline="yes-display-inline">The Comptroller General of the United States shall conduct a comprehensive review of—</text>
+ <subparagraph id="HD9E283A0F3D748019C1D46511637D45E"><enum>(A)</enum><text display-inline="yes-display-inline">the damage assessment processes of the Agency with respect to major disaster declarations; and</text> </subparagraph><subparagraph id="HDE60E3159FA1491DA798F86283583136"><enum>(B)</enum><text>the teams that carry out such processes.</text>
+ </subparagraph></paragraph><paragraph id="HE7625BCD5F9E43A18570CA2E0253AFB5"><enum>(2)</enum><header>Report</header><text>Not later than 180 days after the date of the enactment of this Act, the Comptroller General shall submit to Congress a report on the results of the review conducted under paragraph (1), including recommendations for improving such processes.</text>
+				</paragraph></subsection><subsection id="HEF97799F39894E18A29925152DA932F0"><enum>(e)</enum><header>Biennial Study of Average Amount of Individual Assistance</header>
+ <paragraph id="H07C8B5F076124887AED8AE52CEE27E10"><enum>(1)</enum><header>Study</header><text display-inline="yes-display-inline">Not later than the end of the first quarter of the first full fiscal year beginning after the date of the enactment of this Act, and biennially thereafter, the Administrator shall conduct a study—</text>
+ <subparagraph id="HA27F9B9A5D9F4403A87884EA673A3148"><enum>(A)</enum><text>to compare—</text> <clause id="HE2B000893084456E93CC08ED81F5F5B8"><enum>(i)</enum><text>the average amount of individual assistance provided per person for each major disaster declared during the 5 most recently completed fiscal years;</text>
+ </clause><clause id="H812E50BF46B44821BA44115C67B3AAF8"><enum>(ii)</enum><text>the average damages realized per individual for each such disaster; and</text> </clause><clause id="HC7D93935CB4B4E9D9413459119E4E0AE"><enum>(iii)</enum><text>for each event where a request for a major disaster declaration was denied during the 5 most recently completed fiscal years, the average damages realized per individual for each such event; and</text>
+ </clause></subparagraph><subparagraph id="H4B39C14E4D9F4B72AECBE8E67F9CFC9E"><enum>(B)</enum><text>to collect the data needed to update the table included after section 206.48(b)(6) of title 44, Code of Federal Regulations (relating to the average amount of individual assistance by State).</text>
+ </subparagraph></paragraph><paragraph id="H8CAC63DE93574EBD8EFE575AC52593F7"><enum>(2)</enum><header>Report and Update</header><text>Not later than 180 days after the completion of each study under paragraph (1), the Administrator shall submit to Congress a report on the results of the study and update the table described in paragraph (1)(B).</text>
+ </paragraph></subsection><subsection id="HBF3D9D65032B4957940BB9ACE46C90E5"><enum>(f)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this Act, the following definitions shall apply:</text> <paragraph id="H492C161077AE431C8205AB7E9FBE923F"><enum>(1)</enum><header>Governor</header><text display-inline="yes-display-inline">The term <quote>Governor</quote> has the meaning given such term in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5122">42 U.S.C. 5122</external-xref>).</text>
+ </paragraph><paragraph id="H270729B6384B4D64892A3A4884640114"><enum>(2)</enum><header>Rural</header><text display-inline="yes-display-inline">The term <quote>rural</quote> means an area that is located—</text> <subparagraph id="HBEFB1D4D26A749F0B2393D88D750D440"><enum>(A)</enum><text>outside a metropolitan statistical area, as defined by the Office of Management and Budget; or</text>
+ </subparagraph><subparagraph id="H96A1E5F219314C6C8220200CB9640136"><enum>(B)</enum><text>in a census tract in a metropolitan statistical area with a Department of Agriculture rural-urban commuting area code of 4 or higher.</text>
+ </subparagraph></paragraph><paragraph id="H5D6B4F255A0F4F3092C7FB162EAAEE76"><enum>(3)</enum><header>Small State</header><text>The term <quote>small State</quote> has the same meaning as such term is used in the table included after section 206.48(b)(6) of title 44, Code of Federal Regulations.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC7E34721D06B49C2B7CB61CEDEE8B054" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3438 IH: REVIEW Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-08-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3438</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150804">August 4, 2015</action-date>
+			<action-desc><sponsor name-id="M001179">Mr. Marino</sponsor> (for himself and <cosponsor name-id="G000289">Mr. Goodlatte</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 5, United States Code, to postpone the effective date of high-impact rules pending
+			 judicial review.</official-title>
+	</form>
+	<legis-body id="H8D5C96FE12A74B9F97EDEEF299011996" style="OLC">
+ <section id="H80224B6CB51345AEAF0BF9AE97DD6E56" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Require Evaluation before Implementing Executive Wishlists Act of 2015</short-title></quote> or as the <quote>REVIEW Act of 2015</quote> .</text> </section><section id="HCF7EEA66E1BD4D0296F0B351F2BC46BB"><enum>2.</enum><header>Relief pending review</header><text display-inline="no-display-inline">Section 705 of title 5, United States Code, is amended—</text>
+ <paragraph id="HB18FE1120B5A44A5A5D8F3323D2C9D6F"><enum>(1)</enum><text display-inline="yes-display-inline">by striking <quote>When</quote> and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="H9225217C2AF7402D8733B056A736CD51" style="USC"> <subsection id="H9C749C981BD548E29FC28859E80E1E0C"><enum>(a)</enum><header>In general</header><text>When</text></subsection><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H62396B3221C74A63A07704037EAA95ED"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H34323492B9A14EC5B8007AED467CCBB4" style="USC"> <subsection id="H947DD148DCF94194AEAF7858AA938E74"><enum>(b)</enum><header>High-Impact Rules</header> <paragraph id="H7747DE84B4864AE6BBCCD09AABA94D26"><enum>(1)</enum><header>Definitions</header><text>In this subsection—</text>
+ <subparagraph id="H2F2026A9527043B8BCF10E941D524911"><enum>(A)</enum><text display-inline="yes-display-inline">the term <term>Administrator</term> means the Administrator of the Office of Information and Regulatory Affairs of the Office of Management and Budget; and</text>
+ </subparagraph><subparagraph id="H0CE0F86D8B9D4FFE828BDB05F151799A"><enum>(B)</enum><text>the term <term>high-impact rule</term> means any rule that the Administrator determines may impose an annual cost on the economy of not less than $1,000,000,000.</text>
+							</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="H28E6EF33F6CE49B3B3AAEA3148AFD0D6"><enum>(2)</enum><header>Relief</header>
+ <subparagraph commented="no" display-inline="no-display-inline" id="H9AE856B60B894A83B6E4025D1265515B"><enum>(A)</enum><header>In general</header><text>Except as provided in subparagraph (B), an agency shall postpone the effective date of a high-impact rule of the agency pending judicial review.</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="HA5873CDE77BE491799BDA7F2D3780F4C"><enum>(B)</enum><header>Failure to timely seek judicial review</header><text>Notwithstanding section 553(d), if no person seeks judicial review of a high-impact rule during the 60-day period beginning on the date on which the high-impact rule is published in the Federal Register, the high-impact rule shall take effect on the date that is 60 days after the date on which the high-impact rule is published.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

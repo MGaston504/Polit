@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HCE7B7B0D99D149819321F3A33B718CBE" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3312 IH: Veterans Benefits Network Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3312</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150729">July 29, 2015</action-date>
+			<action-desc><sponsor name-id="A000370">Ms. Adams</sponsor> (for herself, <cosponsor name-id="P000606">Mr. Pittenger</cosponsor>, <cosponsor name-id="K000386">Mr. Katko</cosponsor>, and <cosponsor name-id="M001188">Ms. Meng</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to make
+			 grants for establishing coordinated networks of services and resources for
+			 veterans and their families.</official-title>
+	</form>
+	<legis-body id="HE16DC8C9FF9240C6AAA0962A9FC91A3B" style="OLC">
+ <section id="H5F8FC482E136415C9408EF82545593DA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans Benefits Network Act</short-title></quote>.</text> </section><section id="H6895B03A3F47460F9A8B5BF090D596F2"><enum>2.</enum><header>Department of Veterans Affairs grants for establishing coordinated networks of services and resources for veterans and their families</header> <subsection id="HD3B8A92EBEBD4F4AAD7519A3E6861E85"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/5">chapter 5</external-xref> of title 38, United States Code, is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HF305DC221B804781A78073E30DCB46E0" style="USC">
+					<section id="H6EB861C1A4814657AF47DEBE0C760349"><enum>533.</enum><header>Grants for establishing coordinated networks of services and resources for veterans and their
+			 families</header>
+ <subsection id="H497B577E0B60456A9FA9F0E7B91D1608"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary may make a grant to an eligible entity for the purpose of establishing or expanding a regional technology system to provide an active database and enrollment system that can be used by a coordinated network of private, public, and non-profit entities to assist veterans and their family members in applying for benefits and services offered by such entities that participate in the network.</text>
+ </subsection><subsection id="H086330C9885548D8B1D8EC4D6B591388"><enum>(b)</enum><header>Eligible entities</header><text>To be eligible to receive a grant under this section, an entity shall—</text> <paragraph id="H63B7003992984CB39D7DAAD254FBCEDC"><enum>(1)</enum><text display-inline="yes-display-inline">be a State or local government, a regional council of governments, or a private entity; and</text>
+ </paragraph><paragraph id="H8692BEA69E2543498F52548D8DBA5A21"><enum>(2)</enum><text>submit to the Secretary an application containing—</text> <subparagraph id="HE2026D37E5214DDD871795D13CB062B1"><enum>(A)</enum><text>a description of the credentialing system the entity intends to use to determine which service providers will be eligible for inclusion in the network established using the grant that ensures such providers meet the requirements under subsection (c)(3); and</text>
+ </subparagraph><subparagraph id="H7AA0D530460D495D9F5406255BB143A9"><enum>(B)</enum><text>such other information and assurances as the Secretary may require.</text> </subparagraph></paragraph></subsection><subsection id="H2FEEE78C882D4680898778DD82A92FCF"><enum>(c)</enum><header>Use of funds</header> <paragraph id="H139CE0FD30114C258B61A59551E2569C"><enum>(1)</enum><header>In general</header><text>The recipient of a grant under this section shall use the grant to establish a coordinated network of private, public, and nonprofit services and resources, as described in paragraph (2), for veterans and their families designed to—</text>
+ <subparagraph id="H886F4A712A9F4F14AF7070D7C7E72838"><enum>(A)</enum><text display-inline="yes-display-inline">facilitate awareness and understanding of benefits that are available to members of the Armed Forces, veterans, and their family members who are eligible for benefits;</text>
+ </subparagraph><subparagraph id="H929F701AD8AC4FD3B7C109251544FD8C"><enum>(B)</enum><text display-inline="yes-display-inline">use best practices to maximize outreach to veterans and family members who are eligible for benefits; and</text>
+ </subparagraph><subparagraph id="HE4D5046AD98C447EA0A381642206A9D5"><enum>(C)</enum><text display-inline="yes-display-inline">have the capacity to be replicated at other locations or regional networks.</text> </subparagraph></paragraph><paragraph id="H766DD857985948CF8F1FF0A52AAC731D"><enum>(2)</enum><header>Services and resources</header><text>The services and resources included in the networks established using grants under this section may include—</text>
+ <subparagraph display-inline="no-display-inline" id="H4B15BC3B3C8B4E429100406E4B6D535E"><enum>(A)</enum><text display-inline="yes-display-inline">education;</text> </subparagraph><subparagraph id="H1CB305EF32C74F7C89EA8990913171BA"><enum>(B)</enum><text>employment;</text>
+ </subparagraph><subparagraph id="HA0B55E4AC0DA4B1CB47762509D1849B1"><enum>(C)</enum><text>family support and recreation;</text> </subparagraph><subparagraph id="H9AF0016D0B764003B52149A3E74A510D"><enum>(D)</enum><text>health care;</text>
+ </subparagraph><subparagraph id="H5AFFAB6D9B264CF48CD082D193D516F8"><enum>(E)</enum><text>mental health and behavioral counseling;</text> </subparagraph><subparagraph id="HC422A3A92C1F4CF194762B1901405289"><enum>(F)</enum><text>substance abuse counseling;</text>
+ </subparagraph><subparagraph id="H809137643CC841FBBD61D8263F7E2BD0"><enum>(G)</enum><text>housing;</text> </subparagraph><subparagraph id="H67C1BCB5EC1A4CD1BD4383823D391F56"><enum>(H)</enum><text>financial assistance;</text>
+ </subparagraph><subparagraph id="H6F20AEECC38D4EA3BD79418A50CF2213"><enum>(I)</enum><text>legal assistance;</text> </subparagraph><subparagraph id="H687A564DE00645EC8818F577556E581F"><enum>(J)</enum><text>public benefit support;</text>
+ </subparagraph><subparagraph id="HEDA6CDFA3A6E4F24A70B599417724539"><enum>(K)</enum><text>benefits under the laws administered by the Secretary; and</text> </subparagraph><subparagraph id="H30C709A3C8D94CE7A46261293BF37C31"><enum>(L)</enum><text>such other services and resources as the Secretary determines appropriate.</text>
+ </subparagraph></paragraph><paragraph id="HF29AA7965F3F465BBCA721F9A1947422"><enum>(3)</enum><header>Criteria for service providers</header><text>In order to be eligible for inclusion in a network established using a grant under this section, a service provider shall—</text>
+ <subparagraph id="H9D14B247656D49F89AE9400767187810"><enum>(A)</enum><text display-inline="yes-display-inline">demonstrate the capacity, experience, and expertise required to participate in the network; and</text> </subparagraph><subparagraph id="H1B4B7BEBF9EB48D8A9837DECAA91E8A6"><enum>(B)</enum><text>enter into an agreement with the entity that receives the grant that ensures that the provider will not—</text>
+ <clause id="H2FD566D177194AB890243C703A7E2D2E"><enum>(i)</enum><text>input the personal information of a veteran or veteran’s family member into the coordinated network without receiving the informed consent and authorization of the veteran or family member; or</text>
+ </clause><clause id="HC4D38AF5E9024D1F8BFC7F2375160047"><enum>(ii)</enum><text>use such personal information in any manner or for any purpose other than the performance of the services in compliance with the coordinated network.</text>
+ </clause></subparagraph></paragraph></subsection><subsection id="H87856039C31547598FFD701DBC9316D6"><enum>(d)</enum><header>Priority in awarding grants</header><text>In awarding grants under this section, the Secretary shall give priority to an eligible entity that provides services to individuals residing in a geographic area where a large number of veterans and members of the Armed Forces reside, as determined by the Secretary.</text>
+ </subsection><subsection id="H33DE34A22CB04EFCB8B29C45FF17E979"><enum>(e)</enum><header>Deadline for use of funds</header><text>The Secretary shall provide, as a condition of awarding a grant under this section to an eligible entity, that the eligible entity must use the grant before the expiration of the two-year period that begins on the date on which the eligible entity receives the grant. If a grant recipient has not used the grant before the expiration of such period, the Secretary may recover from the eligible entity the unused amount of the grant funds.</text>
+ </subsection><subsection id="H0B7180C082D14BB0BB0B41DEE376B3C2"><enum>(f)</enum><header>Cost-Sharing</header><text display-inline="yes-display-inline">As a condition on the provision of funds under this section to an eligible entity, the eligible entity must agree to contribute an amount, derived from non-Federal sources, equal to at least 50 percent of the funds provided by the Secretary of Veterans Affairs to the eligible entity under this section.</text>
+ </subsection><subsection id="HCE3ECDFE552241A4AC476A2C9DB6BB90"><enum>(g)</enum><header>Availability of funds</header><text>The Secretary shall use amounts otherwise made available for the Veterans Benefits Administration to make grants under this section.</text>
+ </subsection><subsection id="HFC24208FE4B041ABBCD5E2364D0C91EE"><enum>(h)</enum><header>Outreach</header><text>The Secretary shall use the authority of the Secretary to advertise in the national media under section 532 of this title to inform veterans, members of the Armed Forces, and their families about the networks established using grants under this section.</text>
+ </subsection><subsection id="HD2CBE50AF2A045519311D2DF46A4A36E"><enum>(i)</enum><header>Report to Congress</header><text display-inline="yes-display-inline">The Secretary shall submit to Congress an annual report on the administration of the grant program under this section. Each such report shall include a description of how grant recipients used funds awarded under this section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H74C445DF78BA42D3802E04BA9425162F"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 532 the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H57DEE9EEE7114FB9A6311C0138C26385" style="USC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">533. Grants for establishing coordinated networks of services and resources for veterans and their
+			 families.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HE758916DC727476EA99448E3BCE690F2" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3738 IH: Office of Financial Research Accountability Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3738</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151009">October 9, 2015</action-date>
+			<action-desc><sponsor name-id="R000487">Mr. Royce</sponsor> (for himself and <cosponsor name-id="M001191">Mr. Murphy of Florida</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to improve the transparency,
+			 accountability, governance, and operations of the Office of Financial
+			 Research, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HD30764F52707484AB4A06E3D9B467F0E" style="OLC">
+ <section id="H88F6344D41B34D37A25B721CC193A126" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Office of Financial Research Accountability Act of 2015</short-title></quote>.</text> </section><section id="HE8F3DEFF6FE44385BD91C0885D578DF3" section-type="subsequent-section"><enum>2.</enum><header>Additional duties of the Office of Financial Research</header><text display-inline="no-display-inline">Section 153 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (<external-xref legal-doc="usc" parsable-cite="usc/12/5343">12 U.S.C. 5343</external-xref>) is amended by adding at the end the following new subsection:</text>
+			<quoted-block display-inline="no-display-inline" id="H31D8DE8EBEE047D389786DE5D7EF2844" style="OLC">
+				<subsection id="H4576F5C3DB5B4A919EBD2FB530AD09C5"><enum>(g)</enum><header>Additional duties</header>
+					<paragraph id="H878E89717EB645699397C77DF83B783F"><enum>(1)</enum><header>Annual work plan</header>
+ <subparagraph id="H8BA2423B281749ACA643933293A32FB4"><enum>(A)</enum><header>In general</header><text>The Director shall, after a period of 60 days for public notice and comment, annually publish a detailed work plan concerning the priorities of the Office for the upcoming fiscal year.</text>
+ </subparagraph><subparagraph id="HF8B118E39EBC4CB082FC59259EF463DC"><enum>(B)</enum><header>Requirements</header><text>The work plan shall include the following:</text> <clause id="H43FD7AB6629B46CB8C0367902D19FD76"><enum>(i)</enum><text>A unique alphanumeric identifier and detailed description of any report, study, working paper, grant, guidance, data collection, or request for information that is expected to be in progress during, or scheduled to begin in, the upcoming fiscal year.</text>
+ </clause><clause id="H6D6AC4AF7BC7489A9D5F53A104FB6621"><enum>(ii)</enum><text>For each item listed under clause (i), a target date for any significant actions related to such item, including the target date—</text>
+ <subclause id="H2DBBAD22E57748E89323C82021FAE409"><enum>(I)</enum><text>for the release of a report, study, or working paper;</text> </subclause><subclause id="H0FF33C6D5B624A69B6C72E78230B7465"><enum>(II)</enum><text>for, and topics of, a meeting of a working paper group and each solicitation of applications for grants; and</text>
+ </subclause><subclause id="H87D9E6DA85684C3C993E288D196A589A"><enum>(III)</enum><text>for the issuance of guidance, data collections, or requests for information.</text> </subclause></clause><clause id="HAD70CD6FAD0440B9A0A522324F5BA117"><enum>(iii)</enum><text>A list of all technical and professional advisory committees that is expected to be convened in the upcoming fiscal year pursuant to section 152(h).</text>
+ </clause><clause id="H4EB80655AD30481D842714B3CAA1661B"><enum>(iv)</enum><text display-inline="yes-display-inline">The name and professional affiliations of each individual who served during the previous fiscal year as an academic or professional fellow pursuant to section 152(i).</text>
+ </clause><clause id="H45BCEBA30AAD4590AAFE04DC38F4DFA4"><enum>(v)</enum><text display-inline="yes-display-inline">A detailed description of the progress made by primary financial regulatory agencies in adopting a unique alphanumeric system to identify legally distinct entities that engage in financial transactions (commonly known as a <quote>Legal Entity Identifier</quote>), including a list of regulations requiring the use of such a system and actions taken to ensure the adoption of such a system by primary financial regulatory agencies.</text>
+							</clause></subparagraph></paragraph><paragraph id="H5B5EF891F1404B348FE47B54970A4AF3"><enum>(2)</enum><header>Public reports</header>
+ <subparagraph id="H2D60FC07F6B84FF28B7EF5075C4910F6"><enum>(A)</enum><header>Consultation</header><text display-inline="yes-display-inline">In preparing any public report with respect to a specified entity, class of entities, or financial product or service, the Director shall consult with any Federal department or agency with expertise in regulating the entity, class of entities, or financial product or service.</text>
+ </subparagraph><subparagraph id="HEDADE6B99881482D9AE87AC1062B1A37"><enum>(B)</enum><header>Report requirements</header><text>A public report described in subparagraph (A) shall include—</text> <clause id="HBF05E127FDDE470DA69BF8A14B206D8F"><enum>(i)</enum><text>an explanation of any changes made as a result of a consultation under this subparagraph and, with respect to any changes suggested in such consultation that were not made, the reasons that the Director did not incorporate such changes; and</text>
+ </clause><clause id="H14F85FE7DE0140A095B23B01919305B8"><enum>(ii)</enum><text>information on the date, time, and nature of such consultation.</text> </clause></subparagraph><subparagraph id="HDB3BE4A4E2B1401FA7FB8651F0EE3BF1"><enum>(C)</enum><header>Notice and comment</header><text>Before issuing any public report described in subparagraph (A), the Director shall provide a period of 90 days for public notice and comment on the report.</text>
+						</subparagraph></paragraph><paragraph id="HA0086C51D22446E5BDDAA593546CDB17"><enum>(3)</enum><header>Cybersecurity plan</header>
+ <subparagraph id="H7D010020D4E34A4C95F090928CF4D0A1"><enum>(A)</enum><header>In general</header><text>The Office shall develop and implement a cybersecurity plan that uses appropriate safeguards that are adequate to protect the integrity and confidentiality of the data in the possession of the Office.</text>
+ </subparagraph><subparagraph id="H9265F8D15B5049C99D5C84AFAD7EA9F7"><enum>(B)</enum><header>GAO review</header><text>The Comptroller General of the United States shall annually audit the cybersecurity plan and its implementation described in subparagraph (A).</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

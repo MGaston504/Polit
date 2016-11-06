@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HF87C70F8D05D4280B7FCD65FF2679103" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2799 IH: Furthering Access to Stroke Telemedicine Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2799</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150617">June 17, 2015</action-date>
+			<action-desc><sponsor name-id="G000568">Mr. Griffith</sponsor> (for himself, <cosponsor name-id="B001281">Mrs. Beatty</cosponsor>, <cosponsor name-id="S000244">Mr. Sensenbrenner</cosponsor>, <cosponsor name-id="H001045">Mr. Harper</cosponsor>, <cosponsor name-id="T000460">Mr. Thompson of California</cosponsor>, and <cosponsor name-id="S001157">Mr. David Scott of Georgia</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to expand access to stroke telehealth services
+			 under the Medicare program.</official-title>
+	</form>
+	<legis-body id="HED7F2EC4BA9448888D3535AC797FF241" style="OLC">
+ <section id="H96FCAF8A0A2F47E484F4095180FEACFA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Furthering Access to Stroke Telemedicine Act</short-title></quote> or the <quote><short-title>FAST Act</short-title></quote>.</text> </section><section id="HEF4AFDEBD80445F68C4B7D68C750C512"><enum>2.</enum><header>Expanding access to stroke telehealth services under the Medicare program</header> <subsection id="H0A1BA2442C624487B043ED43B3FA32FB"><enum>(a)</enum><header>In general</header><text>Section 1834(m)(4)(C) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m">42 U.S.C. 1395m(m)(4)(C)</external-xref>) is amended—</text>
+ <paragraph id="H214E5B3795C846798727755CB7DBE499"><enum>(1)</enum><text>in clause (i), by striking <quote>The term</quote> and inserting <quote>Subject to clause (iii), the term</quote>; and</text> </paragraph><paragraph id="H8636F008957641A2A3574B98A41ADAA3"><enum>(2)</enum><text>by adding at the end the following new clause:</text>
+					<quoted-block display-inline="no-display-inline" id="H51E5D20262BC434D97766EBF26B79FAD" style="traditional">
+ <clause id="HB5D88AA6065241DFA066338DAC85A904"><enum>(iii)</enum><header>Stroke telehealth services</header><text>With respect to services related to the evaluation or treatment of an acute stroke that are provided within the evidence-based window of treatment, the term <term>originating site</term> means any site at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system, regardless of where the site is located.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H44EC449570A84688865765460F7A9ACC"><enum>(b)</enum><header>No originating site facility fee for new sites</header><text>Section 1834(m)(2)(B) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m">42 U.S.C. 1395m(m)(2)(B)</external-xref>) is amended, in the matter preceding clause (i), by inserting <quote>(other than an originating site that is only described in clause (iii) of paragraph (4)(C), and does not meet the requirement for an originating site under clause (i) of such paragraph)</quote> after <quote>the originating site</quote>.</text>
+ </subsection><subsection id="H71827CA07A2E4E66AA1E8B0E43594B95"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to services furnished on or after the date that is 1 year after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

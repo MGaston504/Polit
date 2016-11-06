@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HCECF12A667634AC6B2894D6C7D93109D" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1759 IH: ALERT Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1759</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150413">April 13, 2015</action-date>
+			<action-desc><sponsor name-id="R000601">Mr. Ratcliffe</sponsor> (for himself, <cosponsor name-id="H001065">Mr. Holding</cosponsor>, <cosponsor name-id="C001093">Mr. Collins of Georgia</cosponsor>, <cosponsor name-id="F000445">Mr. Forbes</cosponsor>, <cosponsor name-id="M001179">Mr. Marino</cosponsor>, <cosponsor name-id="F000448">Mr. Franks of Arizona</cosponsor>, <cosponsor name-id="C000266">Mr. Chabot</cosponsor>, and <cosponsor name-id="Z000018">Mr. Zinke</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name>, and in addition to the  <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 5, united States Code, to provide for the publication, by the Office of Information
+			 and Regulatory Affairs, of information relating to rulemakings, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body id="H581F632EA1BA4123917BE4D722E47DE0" style="OLC">
+ <section id="H38A79BEF6EC74406B66C0F749280D5C8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>All Economic Regulations are Transparent Act of 2015</short-title></quote> or the <quote>ALERT Act of 2015</quote>.</text> </section><section id="H38009B0166DA45AB93F58C73380E95DB"><enum>2.</enum><header>Office of information and regulatory affairs publication of information relating to rules</header> <subsection id="HA29CD9EB6887464697ADA497AE3CE8CF"><enum>(a)</enum><header>Amendment</header><text>Title 5, United States Code, is amended by inserting after chapter 6, the following new chapter:</text>
+				<quoted-block id="H7A2C2A87F555491795AC6F9250EE7D9C" style="OLC">
+					<chapter id="H056915C1BC4C445393EED9F2B452714A"><enum>6A</enum><header>OFFICE OF INFORMATION AND REGULATORY AFFAIRS PUBLICATION OF INFORMATION RELATING TO RULES</header>
+						<toc container-level="quoted-block-container" idref="H7A2C2A87F555491795AC6F9250EE7D9C" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+							<toc-entry idref="H218D74503882494E92848073558D21AD" level="section">Sec. 651. Agency monthly submission to office of information and regulatory affairs.</toc-entry>
+							<toc-entry idref="HD2F6BC051B864CA582096CCEE84DA2AB" level="section">Sec. 652. Office of information and regulatory affairs publications.</toc-entry>
+							<toc-entry idref="HEBABF9E8A8E34D56B37A138AFE65F6B6" level="section">Sec. 653. Requirement for rules to appear in agency-specific monthly publication.</toc-entry>
+							<toc-entry idref="H9FB5D065518448E69CCA37C4B8655958" level="section">Sec. 654. Definitions.</toc-entry>
+						</toc>
+ <section id="H218D74503882494E92848073558D21AD"><enum>651.</enum><header>Agency monthly submission to office of information and regulatory affairs</header><text display-inline="no-display-inline">On a monthly basis, the head of each agency shall submit to the Administrator of the Office of Information and Regulatory Affairs (referred to in this chapter as the <quote>Administrator</quote>), in such a manner as the Administrator may reasonably require, the following information:</text>
+ <paragraph id="HC283A92D04004C55A68FA2184C3B07F0"><enum>(1)</enum><text>For each rule that the agency expects to propose or finalize during the following year:</text> <subparagraph id="H05980A330E4242728B02D1296CD72459"><enum>(A)</enum><text>A summary of the nature of the rule, including the regulation identifier number and the docket number for the rule.</text>
+ </subparagraph><subparagraph id="H7B28966953944C79BF163025B5B45266"><enum>(B)</enum><text>The objectives of and legal basis for the issuance of the rule, including—</text> <clause id="H39C41BC6DD60420796CC0A2E563FAAD5"><enum>(i)</enum><text>any statutory or judicial deadline; and</text>
+ </clause><clause id="H966C0845500448F58D6C5749224F88FD"><enum>(ii)</enum><text>whether the legal basis restricts or precludes the agency from conducting an analysis of the costs or benefits of the rule during the rule making, and if not, whether the agency plans to conduct an analysis of the costs or benefits of the rule during the rule making.</text>
+ </clause></subparagraph><subparagraph id="H419F43D26B3F4D8EB635E89D028A3E8A"><enum>(C)</enum><text>Whether the agency plans to claim an exemption from the requirements of section 553 pursuant to section 553(b)(B).</text>
+ </subparagraph><subparagraph id="HAC488E78E1534E2FBE066CB3AE561CD7"><enum>(D)</enum><text>The stage of the rule making as of the date of submission.</text> </subparagraph><subparagraph id="HF42DF76AADD0463A960023DC329FA6E3"><enum>(E)</enum><text>Whether the rule is subject to review under section 610.</text>
+ </subparagraph></paragraph><paragraph id="HECE49D983920441EA5C094A8E1B1C5BF"><enum>(2)</enum><text>For any rule for which the agency expects to finalize during the following year and has issued a general notice of proposed rule making—</text>
+ <subparagraph id="HEA44BE78ED0644358A34D96717DB7BFE"><enum>(A)</enum><text>an approximate schedule for completing action on the rule;</text> </subparagraph><subparagraph id="H1A09A3E168E44434A7C5EC540369F01F"><enum>(B)</enum><text>an estimate of whether the rule will cost—</text>
+ <clause id="HE81AC364F6684259B1491506492E7605"><enum>(i)</enum><text>less than $50,000,000;</text> </clause><clause id="H3980587185DA4B4DAA6A19A1A8D69419"><enum>(ii)</enum><text>$50,000,000 or more but less than $100,000,000;</text>
+ </clause><clause id="H86C94FD1FBEF4A7DA4B327F8399125B4"><enum>(iii)</enum><text>$100,000,000 or more but less than $500,000,000;</text> </clause><clause id="H67FE8A15D71C4355A65F622A7D564F57"><enum>(iv)</enum><text>$500,000,000 or more but less than $1,000,000,000;</text>
+ </clause><clause id="H61D0CD2C398D4CDFB67E19AFEFB43C7C"><enum>(v)</enum><text>$1,000,000,000 or more but less than $5,000,000,000;</text> </clause><clause id="HDBE92FAE4B6C40EDBBF68D30A815C789"><enum>(vi)</enum><text>$5,000,000,000 or more but less than $10,000,000,000; or</text>
+ </clause><clause id="H35D04C8538BB4D7BB99EAA75198CAA68"><enum>(vii)</enum><text>$10,000,000,000 or more; and</text> </clause></subparagraph><subparagraph id="H0528DC45495E4F76B14FF295AE4D8D4F"><enum>(C)</enum><text>any estimate of the economic effects of the rule, including any estimate of the net effect that the rule will have on the number of jobs in the United States, that was considered in drafting the rule. If such estimate is not available, a statement affirming that no information on the economic effects, including the effect on the number of jobs, of the rule has been considered.</text>
+								</subparagraph></paragraph></section><section id="HD2F6BC051B864CA582096CCEE84DA2AB"><enum>652.</enum><header>Office of information and regulatory affairs publications</header>
+ <subsection id="H87A58616938C45A68D4C12840911AD88"><enum>(a)</enum><header>Agency-Specific information published monthly</header><text>Not later than 30 days after the submission of information pursuant to section 651, the Administrator shall make such information publicly available on the Internet.</text>
+							</subsection><subsection id="HA82534DB825140F6A4F39F7A387E4690"><enum>(b)</enum><header>Cumulative assessment of agency rule making published annually</header>
+ <paragraph id="H9AA90B61A13D4C6C814066E5062872C8"><enum>(1)</enum><header>Publication in the federal register</header><text>Not later than October 1 of each year, the Administrator shall publish in the Federal Register, for the previous year the following:</text>
+ <subparagraph id="H46D98E6F49BC42B8992F3075061ABBFE"><enum>(A)</enum><text>The information that the Administrator received from the head of each agency under section 651.</text> </subparagraph><subparagraph id="H99A6706C751C4CC394E0BCBAAF19A7C0"><enum>(B)</enum><text>The number of rules and a list of each such rule—</text>
+ <clause id="H2479C6B036C64C56857780746837EB0D"><enum>(i)</enum><text>that was proposed by each agency, including, for each such rule, an indication of whether the issuing agency conducted an analysis of the costs or benefits of the rule; and</text>
+ </clause><clause id="H486D0F7246DB487589BB96C419B9D280"><enum>(ii)</enum><text>that was finalized by each agency, including for each such rule an indication of whether—</text> <subclause id="H62C85A9607624268AFA18666818BF4F1"><enum>(I)</enum><text>the issuing agency conducted an analysis of the costs or benefits of the rule;</text>
+ </subclause><subclause id="HED1137C67F4F42C3BB68FD1547350594"><enum>(II)</enum><text>the agency claimed an exemption from the procedures under section 553 pursuant to section 553(b)(B); and</text>
+ </subclause><subclause id="H8B3E2CDCBBB84569B8B801EF5F25CBAD"><enum>(III)</enum><text>the rule was issued pursuant to a statutory mandate or the rule making is committed to agency discretion by law.</text>
+ </subclause></clause></subparagraph><subparagraph id="H9C84E4F9D76A48E0967774788711F79E"><enum>(C)</enum><text>The number of agency actions and a list of each such action taken by each agency that—</text> <clause id="HF59CB50F17D046E493B42915303DEA3B"><enum>(i)</enum><text>repealed a rule;</text>
+ </clause><clause id="H9853660EEF0C4F0482953BE46BDA772A"><enum>(ii)</enum><text>reduced the scope of a rule;</text> </clause><clause id="HFE0E1980CB5349B1945BF594C4946C97"><enum>(iii)</enum><text>reduced the cost of a rule; or</text>
+ </clause><clause id="H9E2168135F5F4F578DDDED884697BD86"><enum>(iv)</enum><text>accelerated the expiration date of a rule.</text> </clause></subparagraph><subparagraph id="HE2251001D352470395FF3842B7D20500"><enum>(D)</enum><text>The total cost (without reducing the cost by any offsetting benefits) of all rules proposed or finalized, and the number of rules for which an estimate of the cost of the rule was not available.</text>
+ </subparagraph></paragraph><paragraph id="H84F7BF81226D48F4970BF08CB6300045"><enum>(2)</enum><header>Publication on the internet</header><text>Not later than October 1 of each year, the Administrator shall make publicly available on the Internet the following:</text>
+ <subparagraph id="HC581C2DCBC1C4E7EB0967FA59EA7A7AA"><enum>(A)</enum><text>The analysis of the costs or benefits, if conducted, for each proposed rule or final rule issued by an agency for the previous year.</text>
+ </subparagraph><subparagraph id="HAEA8C02EF0574249B6F458630682A430"><enum>(B)</enum><text>The docket number and regulation identifier number for each proposed or final rule issued by an agency for the previous year.</text>
+ </subparagraph><subparagraph id="HD9174F78149A41AB9876E14992914D20"><enum>(C)</enum><text>The number of rules and a list of each such rule reviewed by the Director of the Office of Management and Budget for the previous year, and the authority under which each such review was conducted.</text>
+ </subparagraph><subparagraph id="HF7A6FFC09C5E4E4590B6E18223A085BC"><enum>(D)</enum><text>The number of rules and a list of each such rule for which the head of an agency completed a review under section 610 for the previous year.</text>
+ </subparagraph><subparagraph id="HE6FF821A92C14E3FADC1B77BBFEEEA28"><enum>(E)</enum><text>The number of rules and a list of each such rule submitted to the Comptroller General under section 801.</text>
+ </subparagraph><subparagraph id="HFD1D02D03B2D4C699A7A53489F831BD0"><enum>(F)</enum><text>The number of rules and a list of each such rule for which a resolution of disapproval was introduced in either the House of Representatives or the Senate under section 802.</text>
+									</subparagraph></paragraph></subsection></section><section id="HEBABF9E8A8E34D56B37A138AFE65F6B6"><enum>653.</enum><header>Requirement for rules to appear in agency-specific monthly publication</header>
+ <subsection id="H93E429D632014BCBB60EECFA6BA2B852"><enum>(a)</enum><header>In general</header><text>Subject to subsection (b), a rule may not take effect until the information required to be made publicly available on the Internet regarding such rule pursuant to section 652(a) has been so available for not less than 6 months.</text>
+ </subsection><subsection id="HF33D24B9D8A94CC6A5589FFAABF148BD"><enum>(b)</enum><header>Exceptions</header><text>The requirement of subsection (a) shall not apply in the case of a rule—</text> <paragraph id="H72777156F31E418583535E136C3FA633"><enum>(1)</enum><text>for which the agency issuing the rule claims an exception under section 553(b)(B); or</text>
+ </paragraph><paragraph id="HCDEDBD81FD534ACEBDC164513A6465EE"><enum>(2)</enum><text>which the President determines by Executive order should take effect because the rule is—</text> <subparagraph id="HCCB07ABABE054B52A7D5940C0A7EDB74"><enum>(A)</enum><text>necessary because of an imminent threat to health or safety or other emergency;</text>
+ </subparagraph><subparagraph id="H5A41E34E4A694191A0FE718317C07B5C"><enum>(B)</enum><text>necessary for the enforcement of criminal laws;</text> </subparagraph><subparagraph id="H839E72FFCE5E41CF852C1CF2C23FB847"><enum>(C)</enum><text>necessary for national security; or</text>
+ </subparagraph><subparagraph id="H1479EE6BCC3E4F52BAE08EE5A84CAB7E"><enum>(D)</enum><text>issued pursuant to any statute implementing an international trade agreement.</text> </subparagraph></paragraph></subsection></section><section id="H9FB5D065518448E69CCA37C4B8655958"><enum>654.</enum><header>Definitions</header><text display-inline="no-display-inline">In this chapter, the terms <quote>agency</quote>, <quote>agency action</quote>, <quote>rule</quote>, and <quote>rule making</quote> have the meanings given those terms in section 551.</text></section></chapter><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="H1E664D54C2CD4778A9450E5C9338146B"><enum>(b)</enum><header>Technical and conforming amendment</header><text display-inline="yes-display-inline">The table of chapters for part I of title 5, United States Code, is amended by inserting after the item relating to chapter 5, the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H3069C46E5CA44C8BAFAAFFCE0ACA0A47" style="USC">
+					<toc regeneration="no-regeneration">
+						<multi-column-toc-entry level="chapter"><toc-enum>6. </toc-enum><level-header level="chapter">The Analysis of Regulatory Functions</level-header><target>601</target></multi-column-toc-entry>
+						<multi-column-toc-entry level="chapter"><toc-enum>6A. </toc-enum><level-header level="chapter">Office of Information and Regulatory Affairs Publication of Information Relating to Rules</level-header><target>651</target></multi-column-toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HC9163A6E8A3F4F7583DB29E3D15DBC11"><enum>(c)</enum><header>Effective dates</header>
+ <paragraph id="H4539B29800034D8D802F4CF6E0212E1E"><enum>(1)</enum><header>Agency monthly submission to the office of information and regulatory affairs</header><text>The first submission required pursuant to section 651 of title 5, United States Code, as added by subsection (a), shall be submitted not later than 30 days after the date of the enactment of this Act, and monthly thereafter.</text>
+				</paragraph><paragraph id="H7B66FC91C2B5476BAB23FC7D26165037"><enum>(2)</enum><header>Cumulative assessment of agency rule making</header>
+ <subparagraph id="H3A3E0FB4CCE849CC87A0D5543EEB89B6"><enum>(A)</enum><header>In general</header><text>Subsection (b) of section 652 of title 5, United States Code, as added by subsection (a), shall take effect on the date that is 60 days after the date of the enactment of this Act.</text>
+ </subparagraph><subparagraph id="H92361F9FEB2E4B48B373AC07164BE722"><enum>(B)</enum><header>Deadline</header><text>The first requirement to publish or make available, as the case may be, under subsection (b) of section 652 of title 5, United States Code, as added by subsection (a), shall be the first October 1 after the effective date of such subsection.</text>
+ </subparagraph><subparagraph id="H345075C0999848968E130E5DC5DB5D03"><enum>(C)</enum><header>First publication</header><text>The requirement under section 652(b)(2)(A) of title 5, United States Code, as added by subsection (a), shall include for the first publication, any analysis of the costs or benefits conducted for a proposed or final rule, for the 10 years before the date of the enactment of this Act.</text>
+ </subparagraph></paragraph><paragraph id="H68056B0B71214B4CA1FFDA2BDAA0B48B"><enum>(3)</enum><header>Requirement for rules to appear in agency-specific monthly publication</header><text>Section 653 of title 5, United States Code, as added by subsection (a), shall take effect on the date that is 8 months after the date of the enactment of this Act.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

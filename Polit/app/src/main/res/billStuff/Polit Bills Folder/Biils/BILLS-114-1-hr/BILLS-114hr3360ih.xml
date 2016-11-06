@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H385FF82527414B8E8A792AA18F20D999" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3360 IH: Defense Against Digital Theft Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 3360</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150729">July 29, 2015</action-date> 
+<action-desc><sponsor name-id="K000381">Mr. Kilmer</sponsor> (for himself and <cosponsor name-id="R000589">Mr. Rigell</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To provide for identity protection coverage and other services for individuals exposed to the OPM security breaches, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HC8FE758E5FE34F8296FA006679F2752F" style="OLC"> 
+<section id="HA9A36F0DCE3B4CB6ABE7CEC94A6BA593" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Defense Against Digital Theft Act</short-title></quote>. </text> </section> <section id="HF62EF1583AEC48C380BC1BF2B09DCDDE" section-type="subsequent-section"><enum>2.</enum><header>Identity protection coverage for individuals exposed to OPM security breaches</header> <subsection id="H2BBAA851B3404867A0E030E2385ED6D8"><enum>(a)</enum><header>Identity Protection Coverage</header><text>The Director of the Office of Personnel Management shall provide to each affected individual complimentary identity protection coverage that—</text> 
+<paragraph id="HCD73705312EF43D89E8E1EB3B7E30AA6"><enum>(1)</enum><text>is not less comprehensive than the complimentary identify protection coverage that the Director provided to affected individuals before the date of enactment of this Act;</text></paragraph> <paragraph id="H1A37C19BE92445B4B1E931DAD82B468F"><enum>(2)</enum><text>is effective for a period of not less than 10 years; and</text></paragraph> 
+<paragraph id="H265B57847DF54224819DD02B11B80904"><enum>(3)</enum><text>includes not less than $5,000,000 in identity theft insurance.</text> </paragraph></subsection> <subsection id="HEBF3BFC0460C44919B471C994658F365"><enum>(b)</enum><header>Limitation on use of credit score</header><text display-inline="yes-display-inline">The Director shall issue such regulations as are necessary to provide that no affected individual whose credit score was negatively impacted as a result of a data breach described under paragraph (1) or (2) of subsection (d) may be disqualified from eligibility for access to classified information pursuant to Executive Order 12968 (<external-xref legal-doc="usc" parsable-cite="usc/50/3161">50 U.S.C. 3161</external-xref> note), or any other similar authority, solely on the basis of a credit score of such individual. </text></subsection> 
+<subsection id="H3D6E8092DBDC403BACC2F60CF505C1F5"><enum>(c)</enum><header>Task force</header> 
+<paragraph id="H04FC259C21E84A40907E9DE337CF6499"><enum>(1)</enum><header>Establishment</header><text>Not later than 180 days after the date of enactment of this Act, the Director shall establish a task force to develop specific recommendations on how to mitigate any adverse consequences relating to the OPM data breaches described under paragraphs (1) and (2) of subsection (d) to affected individuals and the employing entities, or former employing entities, of such individuals.</text></paragraph> <paragraph id="HA5434CF49BD54FAAA55C037B599E61E4"><enum>(2)</enum><header>Membership</header><text>The members of the task force established under paragraph (1) shall include—</text> 
+<subparagraph id="HE2CC8AECC92E4F608E226B5E7B278939"><enum>(A)</enum><text>the head of any agency that employs an affected individual;</text></subparagraph> <subparagraph id="H886AA957A4734C328CB3DEBCA8C3F019"><enum>(B)</enum><text>information technology security experts; and</text></subparagraph> 
+<subparagraph id="H329F4D4A9FC04531B33325A0F92D9364"><enum>(C)</enum><text display-inline="yes-display-inline">representatives of organizations representing—</text> <clause id="HE74A05A6B6C4404BA804807C9BD4F2DE"><enum>(i)</enum><text>collective bargaining organizations;</text></clause> 
+<clause id="HB4B2F6E0991D49AA83D2016FA133422D"><enum>(ii)</enum><text display-inline="yes-display-inline">veteran service organizations;</text></clause> <clause id="H2487E61EEF2044729E35B6B5647AF1DA"><enum>(iii)</enum><text>Federal employees;</text></clause> 
+<clause id="H87AAE83A53F94A82BA71FFE435785789"><enum>(iv)</enum><text>former Federal employees; and</text></clause> <clause id="HB1DAF5B94EF947B08F5B85FACF5523B9"><enum>(v)</enum><text>military associations.</text></clause></subparagraph></paragraph></subsection> 
+<subsection id="H077C519D311D4BDFAB0C04E7CF980F40"><enum>(d)</enum><header>Definition</header><text> In this section, the term <quote>affected individual</quote> means any individual whose personally identifiable information was compromised during—</text> <paragraph id="HF534BE613BF64F699AF02D030FBA5D05"><enum>(1)</enum><text>the data breach of personnel records of current and former Federal employees, at a network maintained by the Department of the Interior, that was announced by the Office of Personnel Management on June 4, 2015; or</text></paragraph> 
+<paragraph id="HB78E0DFEAEB040E3827A74A1F4449DFB"><enum>(2)</enum><text>the data breach of systems of the Office of Personnel Management containing information related to the background investigations of current, former, and prospective Federal employees, and of other individuals.</text></paragraph></subsection></section> </legis-body> </bill> 
+

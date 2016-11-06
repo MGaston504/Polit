@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H763D96D7125A48C7AC8BE276CDECDBF1" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1210 EH: Portfolio Lending and Mortgage Access Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress>114th CONGRESS</congress> <session>1st Session</session> 
+<legis-num>H. R. 1210</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To amend the Truth in Lending Act to provide a safe harbor from certain requirements related to qualified mortgages for residential mortgage loans held on an originating depository institution's portfolio, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HCDB0C30277194E30AAC233C2F7E37E9C" style="OLC"> 
+<section id="H746C78E4097947B6BC79254C1F003D4A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Portfolio Lending and Mortgage Access Act</short-title></quote>. </text></section> <section id="H1871842EBEC54D378C473D7DF28C50D7"><enum>2.</enum><header>Safe harbor for certain loans held on portfolio</header> <subsection id="H7C919DAC0CA842D897D3483E74403E79"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 129C of the Truth in Lending Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1639c">15 U.S.C. 1639c</external-xref>) is amended by adding at the end the following:</text>
+<quoted-block style="OLC" id="HBBE061BBF30947AF97CB9A7971A15B5F" display-inline="no-display-inline">
+<subsection id="HD50553897A0A42FC8CB990E47AD46E12"><enum>(j)</enum><header>Safe harbor for certain loans held on portfolio</header>
+<paragraph id="HD6604EF3AB22442D8393287876983159"><enum>(1)</enum><header>Safe harbor for creditors that are depository institutions</header>
+<subparagraph id="H927D4BE8FB0442E8958BC124621779B7"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">A creditor that is a depository institution shall not be subject to suit for failure to comply with subsection (a), (c)(1), or (f)(2) of this section or section 129H with respect to a residential mortgage loan, and the banking regulators shall treat such loan as a qualified mortgage, if—</text> <clause id="H0E108000E6604A0686AAD776C17C0067"><enum>(i)</enum><text>the creditor has, since the origination of the loan, held the loan on the balance sheet of the creditor; and</text></clause>
+<clause id="H4771A9A8E88D4B72AE68BE0C359F4360"><enum>(ii)</enum><text>all prepayment penalties with respect to the loan comply with the limitations described under subsection (c)(3).</text></clause></subparagraph> <subparagraph id="HF63F8A2B2C7943B9B51044E465F77E56"><enum>(B)</enum><header>Exception for certain transfers</header><text>In the case of a depository institution that transfers a loan originated by that institution to another depository institution by reason of the bankruptcy or failure of the originating depository institution or the purchase of the originating depository institution, the depository institution transferring such loan shall be deemed to have complied with the requirement under subparagraph (A)(i).</text></subparagraph></paragraph>
+<paragraph id="HB3DDC34F50B54124A3A990D36A6E25FC"><enum>(2)</enum><header>Safe harbor for mortgage originators</header><text display-inline="yes-display-inline">A mortgage originator shall not be subject to suit for a violation of section 129B(c)(3)(B) for steering a consumer to a residential mortgage loan if—</text> <subparagraph id="H98C32745241A4654B0AFC8DB04C76AD7"><enum>(A)</enum><text>the creditor of such loan is a depository institution and has informed the mortgage originator that the creditor intends to hold the loan on the balance sheet of the creditor for the life of the loan; and</text></subparagraph>
+<subparagraph id="HCEB7A17F53D446A0B2ACD22FF7B4DDD6"><enum>(B)</enum><text display-inline="yes-display-inline">the mortgage originator informs the consumer that the creditor intends to hold the loan on the balance sheet of the creditor for the life of the loan.</text></subparagraph></paragraph> <paragraph id="H059936A767FE419FB427CB09FA38D838"><enum>(3)</enum><header>Definitions</header><text display-inline="yes-display-inline">For purposes of this subsection:</text>
+<subparagraph id="H24635974EBE14FCA8F9F3329E326BC51"><enum>(A)</enum><header>Banking regulators</header><text>The term <quote>banking regulators</quote> means the Federal banking agencies, the Bureau, and the National Credit Union Administration.</text></subparagraph> <subparagraph id="H273C0375223242039C71AEB23F97F2F2"><enum>(B)</enum><header>Depository institution</header><text display-inline="yes-display-inline">The term <quote>depository institution</quote> has the meaning given that term under section 19(b)(1) of the Federal Reserve Act (<external-xref legal-doc="usc" parsable-cite="usc/12/505">12 U.S.C. 505(b)(1)</external-xref>).</text></subparagraph>
+<subparagraph id="H61AB23DBF6F4417FB2E547D70BC2F767"><enum>(C)</enum><header>Federal banking agencies</header><text display-inline="yes-display-inline">The term <quote>Federal banking agencies</quote> has the meaning given that term under section 3 of the Federal Deposit Insurance Act.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H0172CBFF1C694DA4862383EBC0FDA3E8"><enum>(b)</enum><header>Rule of construction</header><text display-inline="yes-display-inline">Nothing in the amendment made by this Act may be construed as preventing a balloon loan from qualifying for the safe harbor provided under section 129C(j) of the Truth in Lending Act if the balloon loan otherwise meets all of the requirements under such subsection (j), regardless of whether the balloon loan meets the requirements described under clauses (i) through (iv) of section 129C(b)(2)(E) of such Act.</text></subsection></section> 
+</legis-body> <attestation><attestation-group><attestation-date date="20151118" chamber="House">Passed the House of Representatives November 18, 2015.</attestation-date><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+<endorsement display="yes"></endorsement>
+</bill> 
+
+

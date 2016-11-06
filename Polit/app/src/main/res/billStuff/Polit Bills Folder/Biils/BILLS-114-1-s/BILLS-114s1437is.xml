@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1437 IS: Modular Airborne Firefighting System Flexibility Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1437</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150521">May 21, 2015</action-date>
+			<action-desc><sponsor name-id="S317">Mr. Barrasso</sponsor> (for himself, <cosponsor name-id="S221">Mrs. Feinstein</cosponsor>, <cosponsor name-id="S384">Mr. Tillis</cosponsor>, <cosponsor name-id="S223">Mrs. Boxer</cosponsor>, <cosponsor name-id="S254">Mr. Enzi</cosponsor>, and <cosponsor name-id="S300">Mr. Burr</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSAS00">Committee on Armed Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 32, United States Code, to authorize and provide flexibility for the use of the
+			 National Guard for support of civilian firefighting activities.  </official-title>
+	</form>
+	<legis-body>
+ <section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Modular Airborne Firefighting System Flexibility Act</short-title></quote>.</text> </section><section id="id6917FA49B8B9497B82CC658DDF21782C" section-type="subsequent-section"><enum>2.</enum><header>Use of the National Guard for support of civilian firefighting activities</header> <subsection id="id470452795A84456B8719A53F4DD85585"><enum>(a)</enum><header>Operational use authorized</header> <paragraph id="id558B9064C0F349B993DE7E2B90277DF4"><enum>(1)</enum><header>In general</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/32/1">Chapter 1</external-xref> of title 32, United States Code, is amended by adding at the end the following new section:</text>
+					<quoted-block display-inline="no-display-inline" id="idDA1CCA3710A84A94AF046F33829CFDED" style="USC">
+						<section id="id040ebad5694c498e87807345c936e617"><enum>116.</enum><header>Operational use: support for civilian firefighting activities</header>
+ <subsection id="id5165a8dc315549f0ac5a5deaa28b13f3"><enum>(a)</enum><header>Basis of authority</header><text>The authority in this section is based on a recognition of the basic premises of the National Incident Management System and the National Response Framework that—</text>
+ <paragraph id="idcc064d23ea5f41079d8ee0fac02c944d"><enum>(1)</enum><text>incidents are typically managed at the local level first; and</text> </paragraph><paragraph id="idb1c1238ad96f41cab5990f0f834a9f1c"><enum>(2)</enum><text>local jurisdictions retain command, control, and authority over response activities for their jurisdictional areas.</text>
+ </paragraph></subsection><subsection id="idfcfceeb14ead4a0c944e75378e9fbc9e"><enum>(b)</enum><header>Assistance to civilian firefighting organizations authorized</header><text>Members and units of the National Guard are authorized to support firefighting operations, missions, or activities, including aerial firefighting employment of the Modular Airborne Firefighting System (MAFFS), undertaken in support of a Federal or State agency or other civilian authority.</text>
+ </subsection><subsection id="idc58f1c9d29064db1873329766b26a636"><enum>(c)</enum><header>Role of Governor and State adjutant general</header><text>For the purposes of subsection (a)—</text> <paragraph id="id56cc29abe3f548bcb4a4c3e9eb1bcc88"><enum>(1)</enum><text>the Governor of a State shall be the principal civilian authority; and</text>
+ </paragraph><paragraph id="id05d4391694874955a27492cce98b3682"><enum>(2)</enum><text>the adjutant general of the State—</text> <subparagraph id="id81724584F50E450989F7D9765FBAFD89"><enum>(A)</enum><text>shall be the principal military authority, when acting in the adjutant general's State capacity; and</text>
+ </subparagraph><subparagraph id="id667DDE5429A443B98276F05C8E4B8DC8"><enum>(B)</enum><text>has the primary authority to mobilize members and units of the National Guard of the State in any duty status under this title the adjutant general considers appropriate to employ necessary forces when funds to perform such operations, missions, or activities are reimbursed.</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="ide6d46a5fb0654c1aaab7f4ecd0fc7924"><enum>(2)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of chapter 1 of such title is amended by adding at the end the following new item:</text>
+					<quoted-block id="idd280c216-cb11-4277-8df8-a68de4532827" style="USC"><toc><toc-entry idref="id040ebad5694c498e87807345c936e617" level="section">116. Operational use: support for civilian firefighting activities.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="id84ca1cd820f3422b9621d409418f9d12"><enum>(b)</enum><header>Active Guard and Reserve (AGR) Support</header><text>Section 328(b) of such title is amended by inserting <quote>duty as specified in section 116(b) of this title or may perform</quote> after <quote>subsection (a) may perform</quote>.</text> </subsection><subsection id="id834b4c24523c4f52a3d0e0da5aa24ed1"><enum>(c)</enum><header>Federal technician support</header><text>Section 709(a)(3) of such is amended by inserting <quote>duty as specified in section 116(b) of this title or</quote> after <quote>the performance of</quote> the first place it appears.</text>
+ <paragraph id="idbc447076773049dd97d4459d386b870b"><enum>(1)</enum><text>To authorize and provide flexibility for the use of the National Guard for support of civilian firefighting activities.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1794 IS: Stop Arctic Ocean Drilling Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-07-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1794</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150716">July 16, 2015</action-date>
+			<action-desc><sponsor name-id="S322">Mr. Merkley</sponsor> (for himself, <cosponsor name-id="S359">Mr. Heinrich</cosponsor>, <cosponsor name-id="S369">Mr. Markey</cosponsor>, <cosponsor name-id="S316">Mr. Whitehouse</cosponsor>, <cosponsor name-id="S313">Mr. Sanders</cosponsor>, and <cosponsor name-id="S332">Mr. Franken</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prohibit drilling in the Arctic Ocean.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Arctic Ocean Drilling Act of 2015</short-title></quote>.</text>
+		</section><section id="idb79a8f5fd0a94ac38b18f844f9afaea6"><enum>2.</enum><header>Findings; statement of policy</header>
+ <subsection id="idd83652a9580246b8a70875b6e1fa8033"><enum>(a)</enum><header>Findings</header><text>Congress finds that, as of the date of enactment of this Act—</text> <paragraph id="id086f65e42cd44384a0b68f428308af15"><enum>(1)</enum><text>global climate change is occurring due largely to anthropogenic emissions of greenhouse gases and will continue to pose ongoing risks and challenges to the people and the Government of the United States;</text>
+ </paragraph><paragraph id="idc5ee642e57db40cc803766677c8af151"><enum>(2)</enum><text>the evidence of impacts and dangers of climate change are supported by numerous reports and panels, such as the 2014 National Climate Assessment, the United States Global Change Research Program, and the 2014 Quadrennial Defense Review of the Department of Defense;</text>
+ </paragraph><paragraph id="ide918a6f2a77a4d64b3f3ba701b76d81d"><enum>(3)</enum><text>the average temperature in the United States during the past decade was 0.8 degree Celsius (1.5 degrees Fahrenheit) warmer than the 1901–1960 average, and the last decade was the warmest on record both in the United States and globally;</text>
+ </paragraph><paragraph id="id4126723fa5864ffdabe0a422bf6d2ad2"><enum>(4)</enum><text>a global temperature increase of 2 degrees Celsius will lead to increased droughts, rising seas, mass extinctions, heat waves, desertification, wildfires, and acidifying oceans;</text>
+ </paragraph><paragraph id="id287bd6bfbdd74a41b96ad024cb72d7ed"><enum>(5)</enum><text>delaying action on climate change will result in severe economic losses, and global mitigation costs increase by approximately 40 percent for each decade of delay;</text>
+ </paragraph><paragraph id="id1903b051d6c54d77b761a484341b4257"><enum>(6)</enum><text>at least 80 percent of the carbon from known fossil fuel reserves must not be released to the atmosphere to have an 80-percent chance of avoiding the worst effects of climate change stemming from a 2-degree-Celsius change in global temperature;</text>
+ </paragraph><paragraph id="ide72eea5e36254ae3a9a7a51f4bdfe44c"><enum>(7)</enum><text>developing oil and gas reserves in the Arctic Ocean is incompatible with staying within that global carbon budget and avoiding the worst effects of climate change; and</text>
+ </paragraph><paragraph id="idc38c1ac879114193b237bb2ec1c06a7a"><enum>(8)</enum><text>the Arctic Ocean is home to invaluable and fragile ecosystems, which are critical to fisheries, migratory birds, indigenous populations, and subsistence hunters.</text>
+ </paragraph></subsection><subsection id="id5214e287f291440ebe6deb8d86a14436"><enum>(b)</enum><header>Statement of policy</header><text>It is the policy of the United States that the Arctic Ocean should be managed for the best interests of the people of the United States, including by keeping fossil fuels in the ground to avoid the dangerous impacts of climate change.</text>
+ </subsection></section><section id="idC7BCBC80693A4CD2BE7216786490AC3C"><enum>3.</enum><header>Prohibition of oil and gas leasing in Arctic Ocean areas of the outer Continental Shelf</header><text display-inline="no-display-inline">Section 8 of the Outer Continental Shelf Lands Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1337">43 U.S.C. 1337</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id069AB47CC6224B81BBDB9BE817201269" style="OLC">
+ <subsection id="idA87139EF1DE54EC58E9DBA13FA0150D2"><enum>(q)</enum><header>Prohibition of oil and gas leasing in Arctic planning area of the outer Continental Shelf</header><text>Notwithstanding any other provision of this Act or any other law, the Secretary of the Interior shall not issue or renew a lease or any other authorization for the exploration, development, or production of oil, natural gas, or any other mineral in the Arctic Ocean, including the Beaufort Sea and Chukchi Sea Planning Areas.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

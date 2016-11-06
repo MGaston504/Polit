@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H83AEF51B4C8642778B4E092F0A74AA97" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2669 IH: Anti-Spoofing Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2669</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150604">June 4, 2015</action-date> 
+<action-desc><sponsor name-id="M001188">Ms. Meng</sponsor> (for herself, <cosponsor name-id="B000213">Mr. Barton</cosponsor>, and <cosponsor name-id="L000567">Mr. Lance</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Communications Act of 1934 to expand and clarify the prohibition on provision of inaccurate caller identification information, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HE01FE8183FB24E81909F6B6E2AEB2EEC" style="OLC"> 
+<section id="HEE99F19E42984915833D33809F3F7797" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Anti-Spoofing Act of 2015</short-title></quote>.</text></section> <section id="H23BA5FFD78D74686B340D87E679C4369"><enum>2.</enum><header>Expanding and clarifying prohibition on inaccurate caller ID information</header> <subsection id="H5F51BF3BFD884BFE8434E88E05AB6690"><enum>(a)</enum><header>Communications from outside United States</header><text display-inline="yes-display-inline">Section 227(e)(1) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/227">47 U.S.C. 227(e)(1)</external-xref>) is amended by inserting <quote>or any person outside the United States if the recipient is within the United States,</quote> after <quote>United States,</quote>.</text></subsection>
+<subsection id="H71631932C3A94BDB9577453E0A2797C4"><enum>(b)</enum><header>Text messaging service</header><text>Section 227(e)(8) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/227">47 U.S.C. 227(e)(8)</external-xref>) is amended—</text> <paragraph id="HED38E14ADCD04319814CB8902DA11A7D"><enum>(1)</enum><text>in subparagraph (A), by inserting <quote>(including a text message sent using a text messaging service)</quote> before the period at the end;</text></paragraph>
+<paragraph id="H25F14CB0CEB849D59A89D4BCEE9CB14D"><enum>(2)</enum><text display-inline="yes-display-inline">in the first sentence of subparagraph (B), by inserting <quote>(including a text message sent using a text messaging service)</quote> before the period at the end; and</text></paragraph> <paragraph id="H38A2E2B1C98949F89B4ECF380639960B"><enum>(3)</enum><text>by adding at the end the following:</text>
+<quoted-block display-inline="no-display-inline" id="H29878D6038C84C4C877A4E58A930C88B" style="OLC">
+<subparagraph commented="no" id="H4006EBD282BE436FBBAC2ED5EF1A84E0"><enum>(D)</enum><header>Text message</header><text display-inline="yes-display-inline">The term <term>text message</term> means a real-time or near real-time message consisting of text, images, sounds, or other information that is transmitted from or received by a device that is identified as the transmitting or receiving device by means of a telephone number. Such term—</text> <clause commented="no" id="HDD819545338A4946BBE3E800D5208475"><enum>(i)</enum><text>includes a short message service (SMS) message, an enhanced message service (EMS) message, and a multimedia message service (MMS) message; and</text></clause>
+<clause commented="no" id="HB2A046464C9A4504A39D9026BA1ACD4E"><enum>(ii)</enum><text>does not include a real-time, two-way voice or video communication.</text></clause></subparagraph> <subparagraph id="H3853A205C12F42B88587ECD251792887"><enum>(E)</enum><header>Text messaging service</header><text>The term <term>text messaging service</term> means a service that permits the transmission or receipt of a text message, including a service provided as part of or in connection with a telecommunications service or an IP-enabled voice service.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection>
+<subsection id="H539B0151AA564FC7892C88DE3D1A2741"><enum>(c)</enum><header>Coverage of outgoing-Call-Only IP-Enabled voice service</header><text>Section 227(e)(8)(C) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/227">47 U.S.C. 227(e)(8)(C)</external-xref>) is amended by striking <quote>has the meaning</quote> and all that follows and inserting <quote>means the provision of real-time voice communications offered to the public, or such class of users as to be effectively available to the public, transmitted using Internet protocol, or a successor protocol, (whether part of a bundle of services or separately) with interconnection capability such that the service can originate traffic to, or terminate traffic from, the public switched telephone network, or a successor network.</quote>.</text></subsection> <subsection id="H5A176CB1935D4250913569880E769121"><enum>(d)</enum><header>Regulations</header> <paragraph id="H9128D71AC6AA4AF59F3752EE329D4197"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Section 227(e)(3)(A) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/227">47 U.S.C. 227(e)(3)(A)</external-xref>) is amended by striking <quote>Not later than 6 months after the date of enactment of the Truth in Caller ID Act of 2009, the Commission</quote> and inserting <quote>The Commission</quote>.</text></paragraph>
+<paragraph id="HD7B6A64A70CC4646B16FE358E846EF93"><enum>(2)</enum><header>Deadline</header><text display-inline="yes-display-inline">The Federal Communications Commission shall prescribe regulations to implement the amendments made by this section not later than 18 months after the date of the enactment of this Act.</text></paragraph></subsection> <subsection id="H0C15E881251743D0AB13A5E6CA90007A"><enum>(e)</enum><header>Effective date</header><text>The amendments made by this section shall take effect on the date that is 6 months after the date on which the Federal Communications Commission prescribes regulations to implement the amendments made by this section.</text></subsection></section> 
+</legis-body> 
+</bill> 
+
+

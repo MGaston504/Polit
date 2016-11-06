@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1317 IS: Lifetime Income Disclosure Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 1317</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150513">May 13, 2015</action-date><action-desc><sponsor name-id="S305">Mr. Isakson</sponsor> (for himself and <cosponsor name-id="S364">Mr. Murphy</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Employee Retirement Income Security Act of 1974 to require a lifetime income
+			 disclosure.</official-title></form>
+	<legis-body>
+ <section id="id1B0AE4033C4C4C9A95E1BB4D95318B20" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Lifetime Income Disclosure Act</short-title></quote>.</text>
+		</section><section id="id587D428B1734406EBF9AE235EA803B98"><enum>2.</enum><header>Disclosure
+			 regarding lifetime income</header>
+			<subsection id="IDd83ac37b62bc477fbfee9a74aff70bec"><enum>(a)</enum><header>In
+ general</header><text>Subparagraph (B) of section 105(a)(2) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1025">29 U.S.C. 1025(a)(2)</external-xref>) is amended—</text>
+ <paragraph id="ID758ae7c3cbf04e068a809ad807517a55"><enum>(1)</enum><text>in clause (i), by striking <quote>and</quote> at the end;</text>
+ </paragraph><paragraph id="ID4502c54b24c74bcda0c7cea01779786b"><enum>(2)</enum><text>in clause (ii), by striking <quote>diversification.</quote> and inserting <quote>diversification, and</quote>; and</text>
+ </paragraph><paragraph id="ID8b2f934001764ffb9997a2bc938b1928"><enum>(3)</enum><text>by inserting at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id6801C3588BB24C0BA16FDBE4F242797D" style="OLC">
+ <clause id="ID90f4cdd64ec1493484576b8504929544"><enum>(iii)</enum><text>the lifetime income disclosure described in subparagraph (D)(i).</text>
+						</clause><quoted-block-continuation-text quoted-block-continuation-text-level="subparagraph">In the
+				case of pension benefit statements described in clause (i) of
+			 paragraph (1)(A),
+				a lifetime income disclosure under clause (iii) of this
+			 subparagraph shall be required to be included in only one pension benefit
+			 statement during
+			 any one
+				12-month
+				period.</quoted-block-continuation-text><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="IDaf95d4b85b3d457e80ba1ef0493b22f4"><enum>(b)</enum><header>Lifetime
+ income</header><text>Paragraph (2) of section 105(a) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/29/1025">29 U.S.C. 1025(a)</external-xref>) is amended by adding at the end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="id07AFB0D1F26443248D2BCC7FB0B96597" style="OLC">
+					<subparagraph id="ID838710c1c19a47b585f4ab6fd96a55fc"><enum>(D)</enum><header>Lifetime income
+				disclosure</header>
+						<clause id="ID5429021069d64bf8bdf9c8b89f64a952"><enum>(i)</enum><header>In
+				general</header>
+ <subclause id="idD8DDCB2C7B124C28BD2B0D98F7EF1A3A"><enum>(I)</enum><header>Disclosure</header><text>A lifetime income disclosure shall set forth the lifetime income stream equivalent of the total benefits accrued with respect to the participant or beneficiary.</text>
+							</subclause><subclause id="ID9a56daf8ec3544c08a9035106a7fa890"><enum>(II)</enum><header>Lifetime
+ income stream equivalent of the total benefits accrued</header><text>For purposes of this subparagraph, the term <term>lifetime income stream equivalent of the total benefits accrued</term> means the amount of monthly payments the participant or beneficiary would receive if the total accrued benefits of such participant or beneficiary were used to provide lifetime income streams described in subclause (III), based on assumptions specified in rules prescribed by the Secretary.</text>
+							</subclause><subclause id="ID188787ff41b6437789671f0b164c0e3b"><enum>(III)</enum><header>Lifetime
+ income streams</header><text>The lifetime income streams described in this subclause are a qualified joint and survivor annuity (as defined in section 205(d)), based on assumptions specified in rules prescribed by the Secretary, including the assumption that the participant or beneficiary has a spouse of equal age, and a single life annuity. Such lifetime income streams may have a term certain or other features to the extent permitted under rules prescribed by the Secretary.</text>
+							</subclause></clause><clause id="IDf745bd1865904966a004d0ddf7fa8f3f"><enum>(ii)</enum><header>Model
+ disclosure</header><text>Not later than 1 year after the date of the enactment of the <short-title>Lifetime Income Disclosure Act</short-title>, the Secretary shall issue a model lifetime income disclosure, written in a manner so as to be understood by the average plan participant, that—</text>
+ <subclause id="ID873fe3084d9e46d89ce5cc808ebf0899"><enum>(I)</enum><text>explains that the lifetime income stream equivalent is only provided as an illustration;</text>
+ </subclause><subclause id="ID0d3d267851314787ac44925e63ff744f"><enum>(II)</enum><text>explains that the actual payments under the lifetime income stream described in clause (i)(III) that may be purchased with the total benefits accrued will depend on numerous factors and may vary substantially from the lifetime income stream equivalent in the disclosures;</text>
+ </subclause><subclause id="ID7b712677a74446d9861776d7383f8d5a"><enum>(III)</enum><text>explains the assumptions upon which the lifetime income stream equivalent was determined; and</text>
+ </subclause><subclause id="ID078d42a0e1034f0d8dc62ab7fad6e132"><enum>(IV)</enum><text>provides such other similar explanations as the Secretary considers appropriate.</text>
+							</subclause></clause><clause id="id6240BA2D892C46D4AE4C28BDC4F78628"><enum>(iii)</enum><header>Assumptions
+ and rules</header><text>Not later than 1 year after the date of the enactment of the <short-title>Lifetime Income Disclosure Act</short-title>, the Secretary shall—</text>
+ <subclause id="ID10a7c92aecf24fd796d874e1096ec44c"><enum>(I)</enum><text>prescribe assumptions that administrators of individual account plans may use in converting total accrued benefits into lifetime income stream equivalents for purposes of this subparagraph; and</text>
+ </subclause><subclause id="idF93B0FD1152F4E3083D71C5FFC64867E"><enum>(II)</enum><text>issue interim final rules under clause (i).</text>
+							</subclause><continuation-text continuation-text-level="clause">In
+				prescribing assumptions under subclause (I), the Secretary may
+			 prescribe a
+				single set of specific assumptions (in which case the Secretary may
+			 issue
+				tables or factors that facilitate such conversions), or ranges of
+			 permissible
+				assumptions. To the extent that an accrued benefit is or may be
+			 invested in a
+				lifetime income stream described in clause (i)(III), the
+			 assumptions prescribed
+				under subclause (I) shall, to the extent appropriate, permit
+			 administrators of
+				individual account plans to use the amounts payable under such
+			 lifetime income
+				stream as a lifetime income stream equivalent.</continuation-text></clause><clause id="ID4262a47dab644e1eaa6841c98809c10b"><enum>(iv)</enum><header>Limitation on
+ liability</header><text>No plan fiduciary, plan sponsor, or other person shall have any liability under this title solely by reason of the provision of lifetime income stream equivalents which are derived in accordance with the assumptions and rules described in clause (iii) and which include the explanations contained in the model lifetime income disclosure described in clause (ii). This clause shall apply without regard to whether the provision of such lifetime income stream equivalent is required by subparagraph (B)(iii).</text>
+						</clause><clause id="IDa6691ae06a3d4da1908466c293d609dd"><enum>(v)</enum><header>Effective
+ date</header><text>The requirement in subparagraph (B)(iii) shall apply to pension benefit statements furnished more than 12 months after the latest of the issuance by the Secretary of—</text>
+ <subclause id="ID5fc33006ca4146ee95495af9c619eb1c"><enum>(I)</enum><text>interim final rules under clause (i);</text>
+ </subclause><subclause id="ID68384a02723045fcba9b23ff04363e14"><enum>(II)</enum><text>the model disclosure under clause (ii); or</text>
+ </subclause><subclause id="ID6818d19253b04bf4a9c068f8e46b0c2a"><enum>(III)</enum><text>the assumptions under clause (iii).</text></subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section></legis-body></bill>
+
+

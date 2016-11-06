@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2264 IS: Child Tax Credit Improvement Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-11-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2264</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151110">November 10, 2015</action-date>
+			<action-desc><sponsor name-id="S330">Mr. Bennet</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to strengthen the child tax credit.</official-title>
+	</form>
+	<legis-body>
+ <section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Child Tax Credit Improvement Act</short-title></quote>.</text> </section><section id="idCCFE96D7CE4D4410A0C1CA52769E53BF" section-type="subsequent-section"><enum>2.</enum><header>Expansion of the child tax credit</header> <subsection id="idB1D262023FD94BF09C1BD5C69275F5CB"><enum>(a)</enum><header>Increase in amount of credit for young children</header><text>Subsection (a) of <external-xref legal-doc="usc" parsable-cite="usc/26/24">section 24</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="id4C8CCE1E91AB4A69B70F6B6E5955867F" style="OLC">
+ <subsection id="id9AA6A05940EC48B7974DCEA6FDBF816D"><enum>(a)</enum><header>Allowance of credit</header><text>There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of—</text>
+ <paragraph id="idEF94803749FF46C6AB7CFE19B90825AF"><enum>(1)</enum><text>with respect to each qualifying child of the taxpayer who has attained 6 years of age by the close of the taxable year and for which the taxpayer is allowed a deduction under section 151, $1,000, and</text>
+ </paragraph><paragraph id="idC2A04E2ED0D54047BCFAE09B995CA185"><enum>(2)</enum><text>with respect to each qualifying child of the taxpayer who has not attained 6 years of age by the close of the taxable year and for which the taxpayer is allowed a deduction under section 151, an amount equal to three times the dollar amount applicable under paragraph (1).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="idC6286889432F482290F42852E0680D7B"><enum>(b)</enum><header>Modification of limitations</header><text>Paragraph (1) of <external-xref legal-doc="usc" parsable-cite="usc/26/24">section 24(b)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text> <quoted-block display-inline="no-display-inline" id="id3FCC0D3B6D6B4B3091F16EB74ADAA388" style="OLC"> <paragraph id="idD748CFC923C84A1FA80A361592574A73"><enum>(1)</enum><header>Limitation based on adjusted gross income</header> <subparagraph id="id0ED44A1F5D854F9DA4254CDCD48D3776"><enum>(A)</enum><header>In general</header> <clause id="id2DDB36EE002F43F8B78B72B49FD79D9B"><enum>(i)</enum><header>Limitation on credit for qualifying children who have not attained 6 years of age</header><text>The amount of the credit allowable under subsection (a)(2) shall be reduced (but not below zero) by $150 for each $1,000 (or fraction thereof) by which the taxpayer's modified adjusted gross income exceeds the threshold amount.</text>
+ </clause><clause id="idAC4D1614B4C34D789164FDD5A0131A1B"><enum>(ii)</enum><header>Limitation on credit for qualifying children who have attained 6 years of age</header><text>The amount of the credit allowable under subsection (a)(1) shall be reduced (but not below zero) by $50 for each $1,000 (or fraction thereof) by which the taxpayer's modified adjusted gross income exceeds—</text>
+ <subclause id="id771CDF3B3F314D74A865924AFA290EBC"><enum>(I)</enum><text>in the case of a taxpayer for which no credit is allowable under subsection (a)(2), the threshold amount, or</text>
+ </subclause><subclause id="id67E57C7244E94E34B3DFE35CCE0C8BD0"><enum>(II)</enum><text>in the case of a taxpayer for which a credit is allowable under subsection (a)(2), the dollar amount of the modified adjusted gross income of the taxpayer at which the credit allowable under subsection (a)(2) is reduced to zero.</text>
+ </subclause></clause></subparagraph><subparagraph id="id390780EF22154B709DD368B14D01A888"><enum>(B)</enum><header>Definition</header><text>For purposes of this paragraph, the term <term>modified adjusted gross income</term> means adjusted gross income increased by any amount excluded from gross income under section 911, 931, or 933.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="idA319D1F187D243F8BDB773F9EFFC81AD"><enum>(c)</enum><header>Increase in refundable portion</header>
+				<paragraph id="id09486DEC68584B2192E91D9AB4DF0EF1"><enum>(1)</enum><header>In
+ general</header><text>Clause (i) of <external-xref legal-doc="usc" parsable-cite="usc/26/24">section 24(d)(1)(B)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id65CFC9724EF940D5907B86E9DAFE99EC" style="OLC">
+ <clause id="id4EFA14CDF6AC4869B495001446534CE4"><enum>(i)</enum><text>an amount equal to—</text> <subclause id="idEA195E48B04446A0A555B1832B64658E"><enum>(I)</enum><text>in the case of a taxpayer for which a credit is allowable under subsection (a)(2), 45 percent of the taxpayer's earned income (within the meaning of section 32) which is taken into account in computing taxable income for the taxable year, or</text>
+ </subclause><subclause id="idA478A5FE4E11413AB5B9FFB3464CE50C"><enum>(II)</enum><text>in the case of a taxpayer for which a credit is allowable under subsection (a)(1) and for which no credit is allowable under subsection (a)(2), 15 percent of the taxpayer's earned income (within the meaning of section 32) which is taken into account in computing taxable income for the taxable year, or</text>
+							</subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="idDF13D19BE1D14D1391270CF3B233FAB0"><enum>(2)</enum><header>Conforming
+ amendment</header><text>Subsection (d) of section 24 of such Code is amended by striking paragraph (4).</text>
+				</paragraph><paragraph id="id8EF0433CDEE649D6B8833822F5318553"><enum>(3)</enum><header>Elimination of
+ inflation adjustment</header><text>Subsection (d) of section 24 of such Code is amended by striking paragraph (3).</text>
+				</paragraph></subsection><subsection id="idABF345E4003B439E8B34F42AC45134C1"><enum>(d)</enum><header>Inflation
+ adjustments</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/24">Section 24</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="idBA4BE110C72F41A0A766BB21FEA768F4" style="OLC">
+					<subsection id="id47dbb2d132294a6e902e038577655eb9"><enum>(g)</enum><header>Inflation
+				adjustments</header>
+						<paragraph id="id003706A8E4594DB6AA60FEF174115EE4"><enum>(1)</enum><header>In
+ general</header><text>In the case of any taxable year beginning in a calendar year after 2015, the $1,000 amount in subsection (a)(1) shall be increased by an amount equal to—</text>
+ <subparagraph id="idb2c331485d8b4748a8a9251b6a255c02"><enum>(A)</enum><text>such dollar amount, multiplied by</text>
+ </subparagraph><subparagraph id="id62f485b6f77047a088dcc5d34504a54a"><enum>(B)</enum><text>the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting <quote>calendar year 2014</quote> for <quote>calendar year 1992</quote> in subparagraph (B) thereof.</text>
+ </subparagraph></paragraph><paragraph id="id8AC71EA281B546C99BB849D00BF4BE91"><enum>(2)</enum><header>Rounding</header><text>Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.</text>
+						</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="id379D5EB4599B451E8EF077A7D532B5AF"><enum>(e)</enum><header>Effective
+ date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2015.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

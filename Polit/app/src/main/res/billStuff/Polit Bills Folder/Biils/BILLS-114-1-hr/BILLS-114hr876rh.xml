@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="H08B7366E97B140DA923FA2FD12BBC2CB" public-private="public"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 876 RH: NOTICE Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IB</distribution-code> 
+<calendar display="yes">Union Calendar No. 25</calendar>
+<congress display="yes">114th CONGRESS</congress> <session display="yes">1st Session</session> 
+<legis-num>H. R. 876</legis-num>
+<associated-doc role="report" display="yes">[Report No. 114–39, Part I]</associated-doc> 
+<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150211">February 11, 2015</action-date> 
+<action-desc><sponsor name-id="D000399">Mr. Doggett</sponsor> (for himself and <cosponsor name-id="Y000064">Mr. Young of Indiana</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00" added-display-style="italic" deleted-display-style="strikethrough">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc> 
+</action> 
+<action>
+<action-date date="20150313">March 13, 2015</action-date>
+<action-desc>Additional sponsors: <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor> and <cosponsor name-id="R000053">Mr. Rangel</cosponsor></action-desc>
+</action>
+<action>
+<action-date date="20150313">March 13, 2015</action-date>
+<action-desc>Reported from the Committee on <committee-name committee-id="HWM00" added-display-style="italic" deleted-display-style="strikethrough">Ways and Means</committee-name> with an amendment</action-desc>
+<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction> 
+</action>
+<action>
+<action-date date="20150313">March 13, 2015</action-date>
+<action-desc>The <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name> discharged; committed to the Committee of the Whole House on the State of the Union and ordered to be printed</action-desc>
+<action-instruction>For text of introduced bill, see copy of bill as introduced on February 11, 2015</action-instruction>
+</action>
+<action display="yes">
+<action-desc display="yes"><pagebreak/></action-desc>
+</action>
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To amend title XVIII of the Social Security Act to require hospitals to provide certain notifications to individuals classified by such hospitals under observation status rather than admitted as inpatients of such hospitals.<pagebreak/></official-title> 
+</form> 
+<legis-body display-enacting-clause="yes-display-enacting-clause" changed="added" style="OLC" committee-id="HWM00" reported-display-style="italic" id="H80BB45D47E6A419480A8EE7BEB3ECFD4">
+<section id="H65C9D0EDF5514558A9D2FB202D152458" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Notice of Observation Treatment and Implication for Care Eligibility Act</short-title></quote> or the <quote>NOTICE Act</quote>.</text></section> <section id="H12881031DFFD4C01B1DB9A82A243C7E6"><enum>2.</enum><header>Medicare requirement for hospital notifications of observation status</header><text display-inline="no-display-inline">Section 1866(a)(1) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395cc">42 U.S.C. 1395cc(a)(1)</external-xref>) is amended—</text>
+<paragraph id="HD9FA08F3CCCF4B7B8ACB43B694479843"><enum>(1)</enum><text>in subparagraph (V), by striking at the end <quote>and</quote>;</text></paragraph> <paragraph id="HB0BB2DA48FE240BBAC1A294C4AF4AD6C"><enum>(2)</enum><text display-inline="yes-display-inline">in the first subparagraph (W), by striking at the end the period and inserting a comma;</text></paragraph>
+<paragraph id="H9096A7548A4E4E7A89C40E23C104E90F"><enum>(3)</enum><text display-inline="yes-display-inline">in the second subparagraph (W)—</text> <subparagraph id="H79917A19357B450FB54486A6E63B178F"><enum>(A)</enum><text>by redesignating such subparagraph as subparagraph (X); and</text></subparagraph>
+<subparagraph id="H6AD43944F3E44FD2AA84DC581C1069BA"><enum>(B)</enum><text>by striking at the end the period and inserting <quote>, and</quote>; and</text></subparagraph></paragraph> <paragraph id="H0DCA3EFAF5724AAAA2C04021690FA223"><enum>(4)</enum><text>by inserting after such subparagraph (X) the following new subparagraph:</text>
+<quoted-block display-inline="no-display-inline" id="HD657358039CE48CEAC288A00B5D497BD" style="OLC">
+<subparagraph id="HB62BB20A1FFF4DEE8D0D61B2B9E9FD05" indent="up1"><enum>(Y)</enum><text display-inline="yes-display-inline">beginning 12 months after the date of the enactment of this subparagraph, in the case of a hospital or critical access hospital, with respect to each individual who receives observation services as an outpatient at such hospital or critical access hospital for more than 24 hours, to provide to such individual not later than 36 hours after the time such individual begins receiving such services (or, if sooner, upon release)—</text> <clause id="HAD1B7050A18F43F2983F9E3B62160396"><enum>(i)</enum><text>such oral explanation of the written notification described in clause (ii), and such documentation of the provision of such explanation, as the Secretary determines to be appropriate;</text></clause>
+<clause id="H4D7A0B8DDC34403D8896069CF35134E0"><enum>(ii)</enum><text display-inline="yes-display-inline">a written notification (as specified by the Secretary pursuant to rulemaking and containing such language as the Secretary prescribes consistent with this paragraph) which—</text> <subclause id="HE148DE3646E0498DA14EC23D1999D391"><enum>(I)</enum><text>explains the status of the individual as an outpatient receiving observation services and not as an inpatient of the hospital or critical access hospital and the reasons for such status of such individual;</text></subclause>
+<subclause id="H907A96FB64C64F70A8A4B2A540541FEB"><enum>(II)</enum><text>explains the implications of such status on services furnished by the hospital or critical access hospital (including services furnished on an inpatient basis), such as implications for cost-sharing requirements under this title and for subsequent eligibility for coverage under this title for services furnished by a skilled nursing facility;</text></subclause> <subclause id="HF727552832BA45B6BA4F4C4FB69D1B96"><enum>(III)</enum><text>includes such additional information as the Secretary determines appropriate;</text></subclause>
+<subclause id="HBE3BCF8BFF4C433DBBB382DF12696403"><enum>(IV)</enum><text display-inline="yes-display-inline">either—</text> <item id="HA0F3434108C54BABB558CB4ED159B16E"><enum>(aa)</enum><text>is signed by such individual or a person acting on such individual’s behalf to acknowledge receipt of such notification; or</text></item>
+<item id="HD38BE9A8EA934450B4A63195CF303BC1"><enum>(bb)</enum><text display-inline="yes-display-inline">if such individual or person refuses to provide the signature described in item (aa), is signed by the staff member of the hospital or critical access hospital who presented the written notification and includes the name and title of such staff member, a certification that the notification was presented, and the date and time the notification was presented; and</text></item></subclause> <subclause id="H99BBB22AAC8345D4A176D0335B2E2646"><enum>(V)</enum><text display-inline="yes-display-inline">is written and formatted using plain language and is made available in appropriate languages as determined by the Secretary.</text></subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section>
+</legis-body> 
+<endorsement display="yes"> 
+<action-date date="20150313">March 13, 2015</action-date>
+<action-desc>Reported from the <committee-name committee-id="HWM00" added-display-style="italic" deleted-display-style="strikethrough">Committee on Ways and Means</committee-name> with an amendment</action-desc>
+<action-date date="20150313">March 13, 2015</action-date>
+<action-desc>The <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name> discharged; committed to the Committee of the Whole House on the State of the Union and ordered to be printed</action-desc></endorsement>
+</bill> 
+
+

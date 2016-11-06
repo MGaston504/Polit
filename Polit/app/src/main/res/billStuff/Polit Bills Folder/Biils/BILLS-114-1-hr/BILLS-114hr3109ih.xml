@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB2CB2A0C8AD7410998BB5A2B88D73EA1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3109 IH: Common Sense Economic Recovery Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3109</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150716">July 16, 2015</action-date>
+			<action-desc><sponsor name-id="P000599">Mr. Posey</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To permit certain current loans that would otherwise be treated as non-accrual loans as accrual
+			 loans, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HFDB227B9BDAB4D75B2E3B4B50D8A0DC4" style="OLC">
+ <section id="HFF53E5A28C0B482B978C8162639E12D3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Common Sense Economic Recovery Act of 2015</short-title></quote>.</text> </section><section id="H2FDDFF61B9D947829E4E7D77D0FE6866"><enum>2.</enum><header>Treatment of certain loans</header> <subsection id="H6F0BBAF6BBEF48A888103E4CCFA60C0E"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">For purposes of determining capital requirements or measuring capital of an insured depository institution under section 38 of the Federal Deposit Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1831o">12 U.S.C. 1831o</external-xref>) or any other provision of law or regulatory guidance, an insured depository institution that would otherwise be required to treat a loan as a non-accrual loan may treat such loan as an accrual loan, if—</text>
+ <paragraph id="HB0DA4D821E664063BCCE4ECED4CA3891"><enum>(1)</enum><text>the loan is current;</text> </paragraph><paragraph id="H152F8CBAD28D47008A21DB5F29A3E40B"><enum>(2)</enum><text display-inline="yes-display-inline">during the previous 6-month period, no monthly payment on the loan has been more than 30 days delinquent; and</text>
+ </paragraph><paragraph id="HF3905338DFDE425494FAD389759A2199"><enum>(3)</enum><text display-inline="yes-display-inline">the payments on the loan are being made pursuant to the contractual terms of the loan agreement and any refinances and modifications that are agreed to by all of the parties.</text>
+ </paragraph></subsection><subsection id="HEB99DC9B7FD54F05832F571FDADCBC60"><enum>(b)</enum><header>Demonstration of Ability To perform on a Loan</header><text display-inline="yes-display-inline">Notwithstanding subsection (a), a modified or restructured loan may not be treated as a non-accrual loan if the borrower demonstrates the ability to perform on such a loan—</text>
+ <paragraph id="H672EE48C437342D5BFFA32124C21599B"><enum>(1)</enum><text>over a period of 6 months; or</text> </paragraph><paragraph id="HFB72515BF1C1458FA96C329702EAE1AB"><enum>(2)</enum><text>with respect to a loan on a quarterly, semi-annual, or longer repayment schedule, over a period of 3 consecutive payments.</text>
+ </paragraph></subsection><subsection id="H6BEE3D6C6A514628B69A7CA34A01F37E"><enum>(c)</enum><header>No additional adverse treatment</header><text>With respect to a loan held by an insured depository institution and treated as an accrual loan by reason of subsection (a), an appropriate Federal banking agency may not impose any additional accounting requirements on such institution with respect to such loan compared to the requirements that would otherwise have been placed on such institution with respect to such loan if such loan were not being treated as an accrual loan by reason of subsection (a), if the result of such additional requirement would adversely impact the measurement of capital of the institution.</text>
+ </subsection><subsection id="H6939FD2150364BF882D8C5994A2EFE5A"><enum>(d)</enum><header>Prohibition on the Re-Classification of Loans Based Solely on Collateral Value</header><text display-inline="yes-display-inline">An appropriate Federal banking agency may not require an insured depository institution to treat a loan as a non-accrual loan solely on the basis that the collateral of such loan has reduced in value.</text>
+ </subsection><subsection commented="no" id="H78F8D1D489884739BA071C6FF3257D79"><enum>(e)</enum><header>Provisions not applicable to publicly traded institutions</header><text display-inline="yes-display-inline">This section shall not apply with respect to any issuer of a security registered pursuant to section 12 of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78l">15 U.S.C. 78l</external-xref>).</text>
+			</subsection></section><section id="HE65252BA210B4832A687274FF60A419B"><enum>3.</enum><header>Study</header>
+ <subsection id="H0B6D888EB3D049528746712C55DB7F59"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Financial Stability Oversight Council shall conduct a study of how best to prevent contradictory guidance from being issued by appropriate Federal banking agencies to insured depository institutions with respect to loan classifications and capital requirements.</text>
+ </subsection><subsection id="H096553BDC99F4500835EDFDA81B63E0E"><enum>(b)</enum><header>Report</header><text>Not later than the end of the 60-day period beginning on the date of the enactment of this Act, the Financial Stability Oversight Council shall issue a report to the Congress containing—</text>
+ <paragraph id="HF5601027CB5949E68B79EB8E50F87B11"><enum>(1)</enum><text>all determinations and conclusions made by the Council in carrying out the study required under subsection (a); and</text>
+ </paragraph><paragraph id="HEB281161E3BB47348DF529C902CEF259"><enum>(2)</enum><text display-inline="yes-display-inline">legislative recommendations that the Council believes will prevent contradictory guidance from being issued by appropriate Federal banking agencies to insured depository institutions with respect to loan classifications and capital requirements.</text>
+ </paragraph></subsection></section><section id="H056C38B5D77445F290B4278772EDB667"><enum>4.</enum><header>Definitions</header><text display-inline="no-display-inline">For purposes of this Act:</text> <paragraph id="HF6FC107C2F4145B0ACB9421C02E63EA4"><enum>(1)</enum><header>Appropriate Federal banking agency</header><text>The term <quote>appropriate Federal banking agency</quote>—</text>
+ <subparagraph id="H573E413D10954C418997B9A8EFF6E328"><enum>(A)</enum><text display-inline="yes-display-inline">has the meaning given such term under section 3 of the Federal Deposit Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1813">12 U.S.C. 1813</external-xref>); and</text>
+ </subparagraph><subparagraph id="H9457596991884EA0A21763385B2DB425"><enum>(B)</enum><text display-inline="yes-display-inline">means the National Credit Union Administration Board, in the case of a credit union.</text> </subparagraph></paragraph><paragraph id="HF2222B93A5A84D21BECEE9CE33D0EEB5"><enum>(2)</enum><header>Insured depository institution</header><text display-inline="yes-display-inline">The term <quote>insured depository institution</quote> means—</text>
+ <subparagraph id="HC3F74FADDDAB4B96AED046504AEE3078"><enum>(A)</enum><text display-inline="yes-display-inline">an insured depository institution, as defined under section 3 of the Federal Deposit Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1813">12 U.S.C. 1813</external-xref>); and</text>
+ </subparagraph><subparagraph id="HE1429BEE1251446A80DDD60B4D33B710"><enum>(B)</enum><text>a credit union.</text> </subparagraph></paragraph></section><section id="H17518DE759E64FF38B13CCB342776CD4"><enum>5.</enum><header>Sunset</header><text display-inline="no-display-inline">Effective after the end of the 2-year period beginning on the date of the enactment of this Act, this Act shall cease to have any force or effect.</text>
+		</section></legis-body>
+</bill>
+
+

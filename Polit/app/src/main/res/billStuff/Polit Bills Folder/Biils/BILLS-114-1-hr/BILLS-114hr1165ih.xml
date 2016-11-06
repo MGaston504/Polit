@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9E768762E204493F87FD575615B85953" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1165 IH: Keep Repos to Maturity on Balance Sheet Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1165</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150227">February 27, 2015</action-date> 
+<action-desc><sponsor name-id="C001037">Mr. Capuano</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To direct the Securities and Exchange Commission to require that repurchase-to-maturity transactions be treated as secured borrowings.</official-title> 
+</form> 
+<legis-body id="H584B6CEB83A04524B72A8A56361B1B7A" style="OLC"> 
+<section id="H58C266F15DC6454EB5023E9F5A97DE24" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Keep Repos to Maturity on Balance Sheet Act of 2015</short-title></quote>.</text></section> <section id="HE7D444E4D34C447A9C714821AB4B1492"><enum>2.</enum><header>Accounting treatment of RTM transactions</header> <subsection id="HCD2626E36F2B4A768B6B1F42345C25E0"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">In establishing accounting principles or standards for purposes of the securities laws, the Securities and Exchange Commission shall require that a repurchase-to-maturity transaction be treated as a secured borrowing in which the transferred asset serves as collateral.</text></subsection>
+<subsection id="HC3CAD8AD86D84B2AB5A367252AF92C8C"><enum>(b)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HB922FF7F32B944278BD4CB5C308A02F2"><enum>(1)</enum><header>Repurchase-to-maturity transaction</header><text display-inline="yes-display-inline">The term <quote>repurchase-to-maturity transaction</quote> means a transaction in which—</text>
+<subparagraph id="HFCE666F40BAC49B9A1D2906548C92131"><enum>(A)</enum><text>a financial asset is transferred in exchange for cash, other financial assets, or letters of credit; and</text></subparagraph> <subparagraph id="H23B606A82ECF42039EB5389A19E64B1F"><enum>(B)</enum><text>concurrently with the transfer, the transferor and the transferee agree that, at the maturity of the transferred asset, the transferee may either, at the option of the transferee—</text>
+<clause id="H7ECED20A93B54FCDA60A23E9F1912284"><enum>(i)</enum><text>return the transferred asset (or a substantially similar asset) to the transferor, thereby obligating the transferor to reacquire the transferred asset (or to acquire the substantially similar asset, as the case may be) for an amount equal to the value of the cash, other financial assets, or letters of credit described in subparagraph (A), plus a stipulated interest factor; or</text></clause> <clause id="HE0A354987AF04443B0DA83B7EB9B9106"><enum>(ii)</enum><text>redeem the transferred asset from the issuer of the transferred asset.</text></clause></subparagraph></paragraph>
+<paragraph id="HDF994CBF8D7D4A7F918A6D09978DF4FE"><enum>(2)</enum><header>Securities laws</header><text>The term <quote>securities laws</quote> has the meaning given such term in section 3(a) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c(a)</external-xref>).</text></paragraph> <paragraph id="H069A1DFB192E48FB8F1586163E626A77"><enum>(3)</enum><header>Transferred asset</header><text>The term <quote>transferred asset</quote> means a financial asset transferred in exchange for cash, other financial assets, or letters of credit in a repurchase-to-maturity transaction, as described in paragraph (1)(A).</text></paragraph></subsection>
+<subsection id="HE67813ADAF8E4E47927A9F594BB460BD"><enum>(c)</enum><header>Effective date</header><text display-inline="yes-display-inline">The treatment required under subsection (a) shall apply beginning on the date that is 90 days after the date of the enactment of this Act.</text></subsection></section> </legis-body> </bill> 
+

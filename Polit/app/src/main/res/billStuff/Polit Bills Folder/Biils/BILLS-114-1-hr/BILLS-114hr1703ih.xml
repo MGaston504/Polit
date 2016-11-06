@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H0625002EF13E4573B1AAB68473B2CE24" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1703 IH: Protect Children from Theft Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1703</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150326">March 26, 2015</action-date>
+			<action-desc><sponsor name-id="L000559">Mr. Langevin</sponsor> (for himself, <cosponsor name-id="L000562">Mr. Lynch</cosponsor>, <cosponsor name-id="C001101">Ms. Clark of Massachusetts</cosponsor>, and <cosponsor name-id="C001097">Mr. Cárdenas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Fair Credit Reporting Act to create protected credit reports for minors and protect
+			 the credit of minors, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H96F855E84F61451D9BFE0BF95D3A9458" style="OLC">
+ <section id="HB50B559D57CC45469DD9590C94963FA1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protect Children from Theft Act of 2015</short-title></quote>.</text> </section><section id="H0AE5FC69C2974401AE1B01503574847C" section-type="subsequent-section"><enum>2.</enum><header>Protections for credit reports of minors</header> <subsection id="HA0B719BD3EEF47ABA9504F5CC86BAE7F"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Fair Credit Reporting Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1681">15 U.S.C. 1681 et seq.</external-xref>) is amended by inserting after section 605B the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="H6718BC1F08E444ED8997F5901EF3D881" style="OLC">
+					<section id="H98E180FC04C248B1A3E056486A902679"><enum>605C.</enum><header>Additional protections for credit reports of minor consumers</header>
+ <subsection id="H42834D58BFED455AB284021002E7A3A6"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">A consumer reporting agency described in section 603(p) shall, upon request by a covered guardian of a minor consumer, create a blocked file for the minor consumer or convert a file of the minor consumer already in existence to a blocked file.</text>
+ </subsection><subsection id="H0246EC866B0C49D490035C151D834353"><enum>(b)</enum><header>Requirements</header><text>The Bureau, by rule, shall establish procedures—</text> <paragraph id="HECB3A4F0473B4B13B3B7269128D2D34C"><enum>(1)</enum><text display-inline="yes-display-inline">for a consumer reporting agency described in section 603(p) to properly identify the covered guardian and the minor consumer prior to creating, converting, or unblocking a blocked file for such minor consumer;</text>
+ </paragraph><paragraph id="H525F927122684B07B3C73C94E908B25C"><enum>(2)</enum><text display-inline="yes-display-inline">for such a consumer reporting agency to create a blocked file for a minor consumer or to convert a file of a minor consumer already in existence to a blocked file; and</text>
+ </paragraph><paragraph id="H8008930618154A29A744A6EF8EFA9B41"><enum>(3)</enum><text display-inline="yes-display-inline">consistent with subsection (c), for a covered guardian to unblock a file.</text> </paragraph></subsection><subsection id="H8C8BE3569D614D57BECCEC3A9E222674"><enum>(c)</enum><header>Unblocking a file</header> <paragraph id="HEC30AA441F0B4749B263878858723046"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">A consumer reporting agency described in section 603(p) shall unblock a blocked file upon request by a covered guardian or on the date of the 18th birthday of the minor consumer.</text>
+ </paragraph><paragraph id="HE97674C8D80D4F83AC58F1AD901495A6"><enum>(2)</enum><header>Alert statement</header><text display-inline="yes-display-inline">An alert statement shall be included in a file unblocked pursuant to paragraph (1) if the minor consumer was a victim of fraud or identity theft before the date of the 18th birthday of the minor consumer as follows:</text>
+ <subparagraph id="H4C994C2A4CC54AFE8F18EF5961F36A2D"><enum>(A)</enum><text display-inline="yes-display-inline">For a file unblocked upon request by a covered guardian, for a period of time beginning on the date such file is unblocked and ending on the date that is 1 year after the date of the 18th birthday of the minor consumer.</text>
+ </subparagraph><subparagraph id="H55C9C0512B914D6FB499B9CC6E11D7E4"><enum>(B)</enum><text display-inline="yes-display-inline">For a file unblocked on the date of the 18th birthday of the minor consumer, for a period of 1 year after such date.</text>
+ </subparagraph></paragraph><paragraph id="HE5D5A58F8AB8480A8807074AEE63ABF7"><enum>(3)</enum><header>Duty of reseller</header><text display-inline="yes-display-inline">With respect to information concerning a consumer whose file contains an alert statement, a reseller shall include such alert statement when furnishing such information.</text>
+							</paragraph></subsection><subsection id="H09C38D20A6694C4F86DB719D35F78266"><enum>(d)</enum><header>Fees</header>
+ <paragraph id="H57E552F759534D49AEB2AA850F5C6DF9"><enum>(1)</enum><header>In general</header><text>The Bureau shall determine if a fee may be charged, and the amount of the fee charged, by a consumer reporting agency described in section 603(p) to create, convert, or unblock a file.</text>
+ </paragraph><paragraph commented="no" id="HB103D0177EF44529A4FE5D7FF4483410"><enum>(2)</enum><header>Fees prohibited</header><text display-inline="yes-display-inline">A consumer reporting agency described in section 603(p) may not charge a fee to a minor consumer who was a victim of fraud or identity theft prior to the date of the minor’s 18th birthday, to create, convert, or unblock a file.</text>
+ </paragraph></subsection><subsection id="H11406CCAE9C142F9BA388836027EC59E"><enum>(e)</enum><header>Exceptions</header><text display-inline="yes-display-inline">No provision of this section shall be construed as requiring a consumer reporting agency described in section 603(p) to prevent a Federal, State, or local law enforcement agency from accessing a blocked file.</text>
+ </subsection><subsection id="H6B6457042FB94693B4364B9C13982827"><enum>(f)</enum><header>Definitions</header><text>In this section the following definitions shall apply:</text> <paragraph commented="no" id="HAB87FBD7D00E41F2B8E17474B7E7E8D2"><enum>(1)</enum><header>Alert statement</header><text display-inline="yes-display-inline">The term <term>alert statement</term> means a statement that—</text>
+ <subparagraph commented="no" id="HFC4B4D9F5FB24084B30ABC6515225127"><enum>(A)</enum><text display-inline="yes-display-inline">notifies all prospective users of a consumer report relating to the consumer that the consumer may be a victim of fraud, including identity theft; and</text>
+ </subparagraph><subparagraph commented="no" id="H0DDBBFD3FFC94138A4E60FADC9D91A05"><enum>(B)</enum><text>is presented in a manner that facilitates a clear and conspicuous view of the statement described in subparagraph (A) by any person requesting such consumer report.</text>
+ </subparagraph></paragraph><paragraph id="H7726AB065B794CD8920BC904B842A841"><enum>(2)</enum><header>Blocked file</header><text display-inline="yes-display-inline">The term <term>blocked file</term> means a file of a minor consumer in which, pursuant to this section, a consumer reporting agency—</text> <subparagraph id="H0FD26E0FC6A2419C82C472FC3A7A4F81"><enum>(A)</enum><text display-inline="yes-display-inline">maintains a file with the name, social security number, date of birth, and, if applicable, any credit information of the minor consumer;</text>
+ </subparagraph><subparagraph id="H0ABCCCC65F8A46AC9606CBC067994B91"><enum>(B)</enum><text>may not provide any person with a consumer report of the minor consumer; and</text> </subparagraph><subparagraph id="HA6D0007B7BEA4AC4A0184D708751E9D8"><enum>(C)</enum><text>blocks the input of any information into the file, except with permission from a covered guardian of the minor consumer.</text>
+ </subparagraph></paragraph><paragraph id="HC5FB52BA58FE4C40AD4B1F71CB05D3BB"><enum>(3)</enum><header>Covered guardian</header><text>The term <term>covered guardian</term> means—</text> <subparagraph id="H1AF42E326B3D4D349FBA93B9EA37BB00"><enum>(A)</enum><text>the legal guardian of a minor child;</text>
+ </subparagraph><subparagraph id="H2476017BB03A4576B6B629F8B01315E6"><enum>(B)</enum><text>the custodian of a minor child; or</text> </subparagraph><subparagraph id="H1C423DC965C64C7CBC3D21E36956B617"><enum>(C)</enum><text>in the case of a child in foster care, the State agency or Indian tribe or tribal organization responsible for the child’s foster care.</text>
+ </subparagraph></paragraph><paragraph id="H13130993DDA64411B6E63DC41B45D5AE"><enum>(4)</enum><header>Minor consumer</header><text>The term <term>minor consumer</term> means an consumer who has not attained 18 years of age.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="H1730451105BA4DDB84E1B6F6055440F9"><enum>(b)</enum><header>Table of contents amendment</header><text display-inline="yes-display-inline">The table of contents of the Fair Credit Reporting Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1681">15 U.S.C. 1681 et seq.</external-xref>) is amended by inserting after the item related to section 605B the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H4113F815DEA240688121259A74F04BDC" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">605C. Additional protections for credit reports of minor consumers.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H539A71A52F8545E0B5C13290C7A4CFC4" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2942 IH: Stop Catch and Release Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2942</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150625">June 25, 2015</action-date> 
+<action-desc><sponsor name-id="S000018">Mr. Salmon</sponsor> (for himself, <cosponsor name-id="F000448">Mr. Franks of Arizona</cosponsor>, <cosponsor name-id="S001183">Mr. Schweikert</cosponsor>, <cosponsor name-id="G000565">Mr. Gosar</cosponsor>, <cosponsor name-id="M001197">Ms. McSally</cosponsor>, <cosponsor name-id="B001269">Mr. Barletta</cosponsor>, <cosponsor name-id="M001187">Mr. Meadows</cosponsor>, <cosponsor name-id="B001290">Mr. Brat</cosponsor>, <cosponsor name-id="M001177">Mr. McClintock</cosponsor>, <cosponsor name-id="D000615">Mr. Duncan of South Carolina</cosponsor>, and <cosponsor name-id="W000819">Mr. Walker</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To require the Secretary of Homeland Security to detain any alien who is unlawfully present in the United States and is arrested for certain criminal offenses.</official-title> 
+</form> 
+<legis-body id="H682E9E0410854C03AE833E881A5E5F3A" style="OLC"> 
+<section id="HE99B0B7BE86A4909AC5DFF569606F9C9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Catch and Release Act of 2015</short-title></quote>.</text> </section> <section id="H5F3B744A110F44B3BA219E2AF134C329"><enum>2.</enum><header>Mandatory detention for certain aliens arrested for the commission of certain offenses</header><text display-inline="no-display-inline">Section 236(c) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1226">8 U.S.C. 1226(c)(1)</external-xref>) is amended—</text> 
+<paragraph id="HD90AE406DAF54BFB98FFE8B2F6B311FB"><enum>(1)</enum><text>in paragraph (1)—</text> <subparagraph id="H5F6991A9685E45CF8EA6A99A9F35AA0B"><enum>(A)</enum><text>in subparagraph (C), by striking <quote>or</quote> at the end;</text></subparagraph> 
+<subparagraph id="HF31C94DFF9E84319BD02135DA50AAB69"><enum>(B)</enum><text>in subparagraph (D), by adding <quote>or</quote> at the end; and</text></subparagraph> <subparagraph id="HF901C5B1FF68473E81552741AC4DA4CF"><enum>(C)</enum><text>by inserting after subparagraph (D) the following:</text> 
+<quoted-block style="OLC" id="HEC8867A2E279447DA40DBF97F975D016" display-inline="no-display-inline"> 
+<subparagraph id="H1ACC12C7C2264147A5F4618E4DFA0856"><enum>(E)</enum><text display-inline="yes-display-inline">is—</text> <clause id="HFD9ED2E54CC143049EBB38F2F0F9AE3F"><enum>(i)</enum><text>determined by the Secretary of Homeland Security to be unlawfully present in the United States; and</text></clause> 
+<clause id="HA9537D2C99214F008FC192DC4B03AD51"><enum>(ii)</enum><text>arrested for any offense described in subparagraphs (A) through (D) the conviction of which would render the alien inadmissible under section 212(a) or deportable under section 237(a),</text></clause></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph></paragraph> <paragraph id="H4229C9246EA04C14A1F02FFD1A2EBE1C"><enum>(2)</enum><text>in paragraph (2)—</text> 
+<subparagraph id="H4F0A9329D1C7406B972BDABE3B2E2047"><enum>(A)</enum><text>by striking <quote>The Attorney General</quote> and inserting the following:</text> <quoted-block style="OLC" id="H74687B4989D846F89F313284E3F1347C" display-inline="no-display-inline"> <subparagraph id="HE70BC8A3D6644749A14D0A20653E4612"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Except as provided in subparagraph (B), the Secretary of Homeland Security</text></subparagraph><after-quoted-block>;</after-quoted-block></quoted-block></subparagraph> 
+<subparagraph id="H3A98B17258CF4FE9B2914C03CFDAD7CA"><enum>(B)</enum><text>by striking <quote>the Attorney General</quote> each place such term appears and inserting <quote>the Secretary</quote>; and</text></subparagraph> <subparagraph id="H849B13DD0A2D44EDA460919ABBA16761"><enum>(C)</enum><text>by adding at the end the following: </text> 
+<quoted-block style="OLC" id="H4C57FB35471641D889ECB3406839D15A" display-inline="no-display-inline"> 
+<subparagraph id="HA59F6DCDC1414F9EAAF66A88D1F32FE5"><enum>(B)</enum><header>Arrested but not convicted aliens</header><text display-inline="yes-display-inline">The Secretary of Homeland Security may release any alien held pursuant to paragraph (1)(E) to the appropriate authority for any proceedings subsequent to the arrest. The Secretary shall resume custody of the alien during any period pending the final disposition of any such proceedings that the alien is not in the custody of such appropriate authority. If the alien is not convicted of the offense for which the alien was arrested, the Secretary shall continue to detain the alien until removal proceedings are completed.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subparagraph></paragraph></section> <section id="H0C05D9C111D04E808A1713E403A7BB21"><enum>3.</enum><header>Expedited initiation of removal proceedings</header><text display-inline="no-display-inline">Section 239(d) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1229">8 U.S.C. 1229(d)</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block style="OLC" id="H4C7E1E97BE194793A0C303A3A702B190" display-inline="no-display-inline"> 
+<paragraph id="HCA292F86AB464050B376A5AD504551EB"><enum>(3)</enum><text display-inline="yes-display-inline">In the case of any alien held pursuant to section 236(c)(1)(E), the Secretary of Homeland Security shall complete removal proceedings by not later than 90 days after such alien is detained.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body> </bill> 
+

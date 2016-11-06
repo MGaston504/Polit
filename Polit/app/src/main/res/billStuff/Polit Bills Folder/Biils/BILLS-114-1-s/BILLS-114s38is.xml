@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S38 IS: Helping Individuals Regain Employment Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-01-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 38</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150107">January 7, 2015</action-date>
+			<action-desc><sponsor name-id="S303">Mr. Thune</sponsor> (for himself, <cosponsor name-id="S340">Ms. Ayotte</cosponsor>, <cosponsor name-id="S260">Mr. Roberts</cosponsor>, <cosponsor name-id="S153">Mr. Grassley</cosponsor>, <cosponsor name-id="S236">Mr. Inhofe</cosponsor>, <cosponsor name-id="S305">Mr. Isakson</cosponsor>, <cosponsor name-id="S357">Mrs. Fischer</cosponsor>, and <cosponsor name-id="S342">Mr. Blunt</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To ensure that long-term unemployed individuals are not taken into account for purposes of the
+			 employer health care coverage mandate.</official-title>
+	</form>
+ <legis-body><section id="idA8EA74C5CDD44329AFF0AD17C4C40BE1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Helping Individuals Regain Employment Act</short-title></quote>.</text></section><section id="id2C421A582C0641D58120974CC4652BAA" section-type="subsequent-section"><enum>2.</enum><header>Long-term unemployed individuals not taken into account for employer health care coverage mandate</header><subsection id="idC023F697A46E47FD978FA054D4560E11"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Paragraph (4) of <external-xref legal-doc="usc" parsable-cite="usc/26/4980H">section 4980H(c)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:</text><quoted-block display-inline="no-display-inline" id="iddd8fd0688761465b9e672b32fcb44bc4" style="OLC"><subparagraph id="id7f31bbdd9cdc4bee924b7c59d75499fa"><enum>(C)</enum><header>Exception for long-term unemployed individuals</header><clause id="ideee68955c808484fa8d4e7e191890fe7"><enum>(i)</enum><header>In general</header><text>The term <term>full-time employee</term> shall not include any individual who is a long-term unemployed individual with respect to such employer.</text></clause><clause id="id16cb707ce0894b98bd3f0ce3a4f1d431"><enum>(ii)</enum><header>Long-term unemployed individual</header><text>For purposes of this subparagraph, the term <term>long-term unemployed individual</term> means, with respect to any employer, an individual who—</text><subclause id="idceedde79d16b4a8fba62400c37fcc851"><enum>(I)</enum><text>begins employment with such employer after the date of the enactment of this subparagraph, and</text></subclause><subclause id="idd161ac7430e54534bfaa78f10bc6c656"><enum>(II)</enum><text>has been unemployed for 27 weeks or longer, as determined by the Secretary of Labor, immediately before the date such employment begins.</text></subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection id="id60ad0a17e7914777a3dff4ef2f372f89"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to months beginning after the date of enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

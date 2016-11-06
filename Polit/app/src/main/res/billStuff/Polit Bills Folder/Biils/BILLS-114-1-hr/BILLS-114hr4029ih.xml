@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H87C6F50A8D714AE2A7EC44E73C3753C6" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4029 IH: Pension Accountability Act </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4029</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151117">November 17, 2015</action-date>
+			<action-desc><sponsor name-id="J000295">Mr. Joyce</sponsor> (for himself and <cosponsor name-id="R000577">Mr. Ryan of Ohio</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Employee Retirement Income Security Act of 1974 and the Internal Revenue Code of 1986
+			 with respect to participant votes on the suspension of benefits under
+			 multiemployer plans in critical and declining status.</official-title>
+	</form>
+	<legis-body id="H15EE6CC0EC154214B211C3ABB93DE933" style="OLC">
+ <section id="HA5CBE69B0E11496AA6CEFA3235891809" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Pension Accountability Act </short-title></quote>.</text> </section><section id="H7AD7D25F7E244A59A3DD74F4FEE574C3"><enum>2.</enum><header>Benefit suspensions for multiemployer plans in critical and declining status</header> <subsection id="H0E61843EC82C49A9BF8438C835B56B16"><enum>(a)</enum><header>ERISA amendments</header><text display-inline="yes-display-inline">Section 305(e)(9)(H) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1085">29 U.S.C. 1085(e)(9)(H)</external-xref>) is amended—</text>
+ <paragraph id="H7A3C31FD9A7A4A15BF5868C14C6C9F83"><enum>(1)</enum><text>in clause (ii)—</text> <subparagraph id="H912810A6AA214423B94F694962F32082"><enum>(A)</enum><text>by striking <quote>Except as provided in clause (v), the</quote> and inserting <quote>The</quote>; and</text>
+ </subparagraph><subparagraph id="HA93E154403E7419AB3BD7E30934756E4"><enum>(B)</enum><text>by striking <quote>a majority of all participants and beneficiaries of the plan</quote> and inserting <quote>, of the participants and beneficiaries of the plan who cast a vote, a majority</quote>;</text> </subparagraph></paragraph><paragraph id="HCBD88CE517E84240BA72699B086F3880"><enum>(2)</enum><text>by striking clause (v);</text>
+ </paragraph><paragraph id="H40285CC1E95D4A1480E922F9C4307A92"><enum>(3)</enum><text>by redesignating clause (vi) as clause (v); and</text> </paragraph><paragraph id="H81ED9EB6B65C4557ADD1FA8E8BDD3147"><enum>(4)</enum><text>in clause (v), as so redesignated—</text>
+ <subparagraph id="H5CA9495768364D1AA52FFBF69F934634"><enum>(A)</enum><text>by striking <quote>(or following a determination under clause (v) that the plan is a systemically important plan)</quote>; and</text> </subparagraph><subparagraph id="HE6E59EB784194076A2CF984B7FEF4135"><enum>(B)</enum><text>by striking <quote>(or, in the case of a suspension that goes into effect under clause (v), at a time sufficient to allow the implementation of the suspension prior to the end of the 90-day period described in clause (v)(I))</quote>.</text>
+ </subparagraph></paragraph></subsection><subsection id="H6AFC5D49E9CF49B2B58674269264ADBB"><enum>(b)</enum><header>IRC amendments</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/432">Section 432(e)(9)(H)</external-xref> of the Internal Revenue Code of 1986 is amended—</text> <paragraph id="HEDF7E81A7AE147BB8C2F47742611E8BE"><enum>(1)</enum><text>in clause (ii)—</text>
+ <subparagraph id="HC716C6213221480B8F0D90CF53A73507"><enum>(A)</enum><text>by striking <quote>Except as provided in clause (v), the</quote> and inserting <quote>The</quote>; and</text> </subparagraph><subparagraph id="HD92A635EA0FF41AC9A7ED40CEEB075F9"><enum>(B)</enum><text>by striking <quote>a majority of all participants and beneficiaries of the plan</quote> and inserting <quote>, of the participants and beneficiaries of the plan who cast a vote, a majority</quote>;</text>
+ </subparagraph></paragraph><paragraph id="H55C55C06A6444186A49A06DFCA10390A"><enum>(2)</enum><text>by striking clause (v);</text> </paragraph><paragraph id="HBA4959DB8D2E462B8AAA0C8E8BA66E94"><enum>(3)</enum><text>by redesignating clause (vi) as clause (v); and</text>
+ </paragraph><paragraph id="H1E8A78B2FC4149FA895DF58C2D3ECFF0"><enum>(4)</enum><text>in clause (v), as so redesignated—</text> <subparagraph id="H290DCD9F4E9F4086B2FA8B1428F23809"><enum>(A)</enum><text>by striking <quote>(or following a determination under clause (v) that the plan is a systemically important plan)</quote>; and</text>
+ </subparagraph><subparagraph id="HAC5A740C889549FD8C551F62DFEEBE8F"><enum>(B)</enum><text>by striking <quote>(or, in the case of a suspension that goes into effect under clause (v), at a time sufficient to allow the implementation of the suspension prior to the end of the 90-day period described in clause (v)(I))</quote>.</text>
+ </subparagraph></paragraph></subsection><subsection id="H917BA40DE2C84BF78697F3C0ECE4E3D2"><enum>(c)</enum><header>Effective date</header><text>The amendments made by subsections (a) and (b) shall apply to any vote on the suspension of benefits under section 305(e)(9)(H) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1085">29 U.S.C. 1085(e)(9)(H)</external-xref>) and <external-xref legal-doc="usc" parsable-cite="usc/26/432">section 432(e)(9)(H)</external-xref> of the Internal Revenue Code of 1986 that occurs after the date of enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

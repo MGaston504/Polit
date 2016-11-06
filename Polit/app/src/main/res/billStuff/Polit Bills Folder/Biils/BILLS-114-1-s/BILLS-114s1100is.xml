@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1100 IS: Prescribed Burn Approval Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-04-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1100</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150427">April 27, 2015</action-date>
+			<action-desc><sponsor name-id="S303">Mr. Thune</sponsor> introduced the following bill; which was read twice and referred sequentially to the <committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and Forestry</committee-name> by unanimous consent with instructions that if the bill is reported by that Committee, the bill be
+			 referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require State and local government approval of prescribed burns on Federal land during
+			 conditions of drought or fire danger.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Prescribed Burn Approval Act of 2015</short-title></quote>.</text>
+ </section><section id="id1475EF49E97D4F96A7ED6E273670DA9B"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> <paragraph id="id1879E197A4034CCB828579010821B85B"><enum>(1)</enum><header>Grassland Fire Danger Index</header><text>The term <term>grassland fire danger index</term> means a system for classifying grassland fire danger according to a range of low to moderate to high to very high to extreme, produced by the National Weather Service.</text>
+ </paragraph><paragraph id="idB155A07EFA1C481A8AD9DDB2CD1B6184"><enum>(2)</enum><header>Prescribed burn</header><text>The term <term>prescribed burn</term> means a planned fire intentionally ignited or a naturally occurring fire allowed to burn to meet management objectives authorized by law (including regulations).</text>
+			</paragraph></section><section id="id75CEC03D89FB402EA19C79C0DCABD538"><enum>3.</enum><header>Limitations on prescribed burns</header>
+ <subsection id="id5CD5E48651794C20BE1BDECB7771449D"><enum>(a)</enum><header>In general</header><text>Except as provided in subsection (b), the head of a Federal agency shall not authorize a prescribed burn on Federal land if, for the county or contiguous county in which the Federal land is located, any of the following conditions are present:</text>
+ <paragraph id="id07FED5EB8A784A9780395F47DBEDD6B8"><enum>(1)</enum><text>The grassland fire danger index indicates a high, very high, or extreme danger of grassland fire.</text> </paragraph><paragraph id="idA3DE9092E5AB4CEDA2F314338B1D0066"><enum>(2)</enum><text>The Chief of the Forest Service has declared a very high or extreme fire danger.</text>
+ </paragraph></subsection><subsection id="id717C90C6654D4B2EB1E6E52068CC7E12"><enum>(b)</enum><header>Exception</header><text>The head of a Federal agency may authorize a prescribed burn under a condition described in subsection (a) if the head of the Federal agency obtains prior approval from the applicable State government and local fire officials.</text>
+			</subsection><subsection id="id5A0AB01658AD46EC8DD7E48BB3691F7D"><enum>(c)</enum><header>Liability</header>
+ <paragraph id="idFD635FF5575141CBBF9A7E43FD637793"><enum>(1)</enum><header>In general</header><text>A head of a Federal agency that authorizes a prescribed burn shall be liable for any damage to private property caused by the prescribed burn, notwithstanding <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/28/171">chapter 171</external-xref> of title 28, United States Code (commonly known as the <quote>Federal Tort Claims Act</quote>) or any State law.</text>
+ </paragraph><paragraph id="idFB9A88D3D28A46D29BE7594E06B7E461"><enum>(2)</enum><header>Damages</header><text>The head of a Federal agency liable for damages under paragraph (1) shall pay the damages within 120 days of receipt of a substantiated claim.</text>
+ </paragraph></subsection><subsection id="idFDDDAB4C0A8F4F7CBC16F95C3795B7EF"><enum>(d)</enum><header>Report</header><text>At the end of each fiscal year, the Chief of the Forest Service shall submit to Congress a report describing—</text>
+ <paragraph id="id85A37DF94FE14D37A340B8329E51E841"><enum>(1)</enum><text>the number and locations of prescribed burns during that fiscal year; and</text> </paragraph><paragraph id="idC702E21CB9B8429481E63E81317B6878"><enum>(2)</enum><text>each prescribed burn during that fiscal year that was authorized by the head of a Federal agency pursuant to subsection (b).</text></paragraph></subsection></section></legis-body>
+</bill>
+
+

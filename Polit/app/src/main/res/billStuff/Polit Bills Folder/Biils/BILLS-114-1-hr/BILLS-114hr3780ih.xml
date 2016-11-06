@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD9640EDBFCD449E492F4E2DE111B341C" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3780 IH: Putting Patients and Providers Ahead of Compressed Regulatory Timelines Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3780</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151021">October 21, 2015</action-date>
+			<action-desc><sponsor name-id="K000362">Mr. King of Iowa</sponsor> (for himself, <cosponsor name-id="B001243">Mrs. Blackburn</cosponsor>, and <cosponsor name-id="Z000018">Mr. Zinke</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to sunset certain penalties relating to meaningful
+			 electronic health records use by Medicare eligible professionals and
+			 hospitals, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H295A28AB611C4627A6B11A464C7867FE" style="OLC">
+ <section id="H7A82F5E59A02466CAEA0EDBC372519BD" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Putting Patients and Providers Ahead of Compressed Regulatory Timelines Act of 2015</short-title></quote>.</text> </section><section id="H057B935AFFFB45D7A8E92B4A3415CC54"><enum>2.</enum><header>Sunsetting certain penalties relating to meaningful EHR use</header> <subsection id="HE5D8EAE9F5D7466EAC4EC8DCAD0F5739"><enum>(a)</enum><header>Eligible professionals</header> <paragraph id="H886FC956EEDE479084C2CB1F26BA106B"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1848(a)(7) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">42 U.S.C. 1395w–4(a)(7)</external-xref>) is amended by striking subparagraph (A).</text>
+				</paragraph><paragraph id="H920F78EC856A4B37AA6DF5F9E1C98FCD"><enum>(2)</enum><header>Effective date; rebate</header>
+ <subparagraph id="H81FE847D7799418493356752426CD83B"><enum>(A)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by paragraph (1) shall apply with respect to items and services furnished on or after January 1, 2015.</text>
+ </subparagraph><subparagraph id="H111CAC3BC7F2414191687CE546C0CD05"><enum>(B)</enum><header>Rebate</header><text display-inline="yes-display-inline">With respect to items and services furnished during the period beginning on January 1, 2015, and ending on the date of the enactment of this Act, the Secretary of Health and Human Services shall implement a method to provide eligible professionals (as defined in section 1848(o)(5)(C) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">42 U.S.C. 1395w–4(o)(5)(C)</external-xref>)) a reimbursement equal to the amount by which—</text>
+ <clause id="H38DCEE16EEA84673A658CE4AC8811698"><enum>(i)</enum><text display-inline="yes-display-inline">the amount of reimbursement made under section 1848 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">42 U.S.C. 1395w–4</external-xref>), before application of this subsection, for such items and services furnished during such period by such professionals; is less than</text>
+ </clause><clause id="H344E4D84CF484D2B9E0D2F8A93A36151"><enum>(ii)</enum><text>the amount of reimbursement that would have been made under such section, after application of this subsection, for such items and services furnished by such professionals during such period.</text>
+						</clause></subparagraph></paragraph></subsection><subsection id="H051C521AEE434AC6A6C3FB3F56F19779"><enum>(b)</enum><header>Eligible hospitals</header>
+ <paragraph id="H7388C230EAA742838F59622A9702A2A6"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1886(b)(3)(B) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww(b)(3)(B)</external-xref>) is amended by striking clause (ix).</text>
+				</paragraph><paragraph id="HCB662F5FFEA746A59809EA944168BE5F"><enum>(2)</enum><header>Effective date; rebate</header>
+ <subparagraph id="H15395BACC1C54D13BB7E0E40C276B7F2"><enum>(A)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by paragraph (1) shall apply with respect to items and services furnished on or after October 1, 2014.</text>
+ </subparagraph><subparagraph id="H5B2A53A63C7142C0874659979A20DC45"><enum>(B)</enum><header>Rebate</header><text display-inline="yes-display-inline">With respect to items and services furnished during the period beginning on October 1, 2014, and ending on the date of the enactment of this Act, the Secretary of Health and Human Services shall implement a method to provide eligible hospitals (as defined in section 1886(n)(6)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww(n)(6)(A)</external-xref>)) a reimbursement equal to the amount by which—</text>
+ <clause id="HA8BDAD1BC18F48D6B65CEEA95B55D5C1"><enum>(i)</enum><text display-inline="yes-display-inline">the amount of reimbursement made under section 1886 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww</external-xref>), before application of this subsection, for such items and services furnished during such period by such hospitals; is less than</text>
+ </clause><clause id="H0E7B75142A5544E2969190FCF9AF91E1"><enum>(ii)</enum><text>the amount of reimbursement that would have been made under such section, after application of this subsection, for such items and services furnished by such hospitals during such period.</text>
+						</clause></subparagraph></paragraph></subsection><subsection id="HFCF86AB52C7947609366BB2EA9C61906"><enum>(c)</enum><header>Critical access hospitals</header>
+ <paragraph id="H5E50DAACEAA649C78EDC0A71265282CE"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1814(l) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395f">42 U.S.C. 1395f(l)</external-xref>) is amended by striking paragraph (4).</text>
+				</paragraph><paragraph id="H1F6E27CF57A5466B96091C62B550E17C"><enum>(2)</enum><header>Effective date; rebate</header>
+ <subparagraph id="H984AF2B35B784B1EB7F9571FD86BE1E3"><enum>(A)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by paragraph (1) shall apply with respect to items and services furnished during a reporting period beginning on or after October 1, 2014.</text>
+ </subparagraph><subparagraph id="H2752C5E5B6764CF7A38C8FBA17128B60"><enum>(B)</enum><header>Rebate</header><text display-inline="yes-display-inline">With respect to items and services furnished during the period beginning on the first day on which paragraph (1) applies, and ending on the date of the enactment of this Act, the Secretary of Health and Human Services shall implement a method to provide critical access hospitals a reimbursement equal to the amount by which—</text>
+ <clause id="HFD06C69C76AA4272A6AACFC09459A84F"><enum>(i)</enum><text display-inline="yes-display-inline">the amount of reimbursement made under section 1814 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395f">42 U.S.C. 1395f</external-xref>), before application of this subsection, for such items and services furnished during such period by such hospitals; is less than</text>
+ </clause><clause id="HBAC5973DDA0942FF88DADA456225C075"><enum>(ii)</enum><text>the amount of reimbursement that would have been made under such section, after application of this subsection, for such items and services furnished by such hospitals during such period.</text>
+						</clause></subparagraph></paragraph></subsection><subsection id="H7DFD8C218A2144A0B586703EF51C0A98"><enum>(d)</enum><header>Medicare Advantage</header>
+ <paragraph id="H1F4A998E90204F89A8A645857D0541D8"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1853 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-23">42 U.S.C. 1395w–23</external-xref>) is amended—</text> <subparagraph id="H7F1791527CB14833AD27FAC4E5974869"><enum>(A)</enum><text>in subsection (l)—</text>
+ <clause id="HD1C2DA39E4FD404BB6FF167FE0CF8352"><enum>(i)</enum><text>in paragraph (1)—</text> <subclause id="H306307B4E6094838BAF0B19E64F37A18"><enum>(I)</enum><text>by striking <quote>paragraphs (3) and (4)</quote> and inserting <quote>paragraph (3)</quote>;</text>
+ </subclause><subclause id="H7AE2FAF6CF7D4A21862BC7605483C540"><enum>(II)</enum><text>by striking <quote>sections 1848(o) and 1848(a)(7)</quote> and inserting <quote>section 1848(o)</quote>; and</text> </subclause><subclause id="H1F7C957B997F4D49A26282373F66139E"><enum>(III)</enum><text>by striking <quote>and payment adjustments under paragraph (4) shall apply to</quote>; and</text>
+ </subclause></clause><clause id="HF230E74B073D4FF49A81BE22D68B20EA"><enum>(ii)</enum><text>by striking paragraph (4); and</text> </clause></subparagraph><subparagraph id="H5EDA18EE7A6648C790AFC16F176BC484"><enum>(B)</enum><text>in subsection (m)—</text>
+ <clause id="H742EFF7DAC9B457DB1E862EC5A7BACB3"><enum>(i)</enum><text>in paragraph (1)—</text> <subclause id="H746E023F45584214A9C36724019C59FE"><enum>(I)</enum><text>by striking <quote>paragraphs (3) and (4)</quote> and inserting <quote>paragraph (3)</quote>;</text>
+ </subclause><subclause id="H40AF9B9D1B254DA88DA0A3A604902E44"><enum>(II)</enum><text>by striking <quote>sections 1886(n) and 1886(b)(3)(B)(ix)</quote> and inserting <quote>section 1886(n)</quote>; and</text> </subclause><subclause id="H8C296D0D277947FF8950A7E37AE80F89"><enum>(III)</enum><text>by striking <quote>and payment adjustments under paragraph (4) shall apply to</quote>; and</text>
+ </subclause></clause><clause id="H4996204FB9214701B166328517471192"><enum>(ii)</enum><text>by striking paragraph (4).</text> </clause></subparagraph></paragraph><paragraph id="H3482ECB795E9436B94E382D166C430BD"><enum>(2)</enum><header>Effective date; rebate</header> <subparagraph id="HEF78B0A1420D418DBB4DDCBEA568E07D"><enum>(A)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by paragraph (1) shall apply with respect to items and services furnished during an applicable period beginning on or after October 1, 2014.</text>
+ </subparagraph><subparagraph id="H0BC1962A590748759C723B417CA417BB"><enum>(B)</enum><header>Rebate</header><text display-inline="yes-display-inline">With respect to items and services furnished during the period beginning on the first day on which paragraph (1) applies, and ending on the date of the enactment of this Act, the Secretary of Health and Human Services shall implement a method to provide MA organizations a reimbursement equal to the amount by which—</text>
+ <clause id="H47E9A21CD8DF48318D5883CD75194CB2"><enum>(i)</enum><text display-inline="yes-display-inline">the payment amount payable under section 1853 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-23">42 U.S.C. 1395w–23</external-xref>) for such organization, before application of this subsection, for such items and services furnished during such period; is less than</text>
+ </clause><clause id="H7304D0FAF866477096356C376D1652AA"><enum>(ii)</enum><text>the payment amount that would have been payable under such section for such organization, after application of this subsection, for such items and services furnished during such period.</text>
+						</clause></subparagraph></paragraph></subsection></section></legis-body>
+</bill>
+
+

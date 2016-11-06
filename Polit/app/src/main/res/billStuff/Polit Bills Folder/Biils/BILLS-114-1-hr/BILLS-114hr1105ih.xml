@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H0B3A6C65832E483CA359333CD63A174B" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1105 IH: Death Tax Repeal Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1105</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150226">February 26, 2015</action-date>
+			<action-desc><sponsor name-id="B000755">Mr. Brady of Texas</sponsor> (for himself, <cosponsor name-id="B000490">Mr. Bishop of Georgia</cosponsor>, <cosponsor name-id="N000184">Mrs. Noem</cosponsor>, and <cosponsor name-id="N000181">Mr. Nunes</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to repeal the estate and generation-skipping transfer
+			 taxes, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HEA97B7A537AE4C67A8558CCF5059D892" style="OLC">
+ <section id="H445BF809041B4513BE34B84308A8F4E6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Death Tax Repeal Act of 2015</short-title></quote>.</text> </section><section id="HBAA7CFA17B774C5EA8EAD93CDCDE524F" section-type="subsequent-section"><enum>2.</enum><header>Repeal of estate and generation-skipping transfer taxes</header> <subsection id="H3E05287DFB994EE682E76632C4C43284"><enum>(a)</enum><header>Estate tax repeal</header><text display-inline="yes-display-inline">Subchapter C of chapter 11 of subtitle B of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HE91E442FA22140C79AC13AAB878E725B" style="OLC">
+					<section id="H8F64AC1964624576B16BC6AFC857BACC"><enum>2210.</enum><header>Termination</header>
+ <subsection id="H7B50801ABE0F4551BD6116BB67473DBA"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Except as provided in subsection (b), this chapter shall not apply to the estates of decedents dying on or after the date of the enactment of the <short-title>Death Tax Repeal Act of 2015</short-title>.</text>
+ </subsection><subsection id="H099B29D31D5E497EADD1A45A0696A2A9"><enum>(b)</enum><header>Certain Distributions From Qualified Domestic Trusts</header><text>In applying section 2056A with respect to the surviving spouse of a decedent dying before the date of the enactment of the <short-title>Death Tax Repeal Act of 2015</short-title>—</text>
+ <paragraph id="H858C807620464003B384B4EDD815B59A"><enum>(1)</enum><text>section 2056A(b)(1)(A) shall not apply to distributions made after the 10-year period beginning on such date, and</text>
+ </paragraph><paragraph id="H8557ABFDFB0A40C396915F18BA82FAF5"><enum>(2)</enum><text>section 2056A(b)(1)(B) shall not apply on or after such date.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="H0E4544725AC74E3DA1E7CB4064928757"><enum>(b)</enum><header>Generation-Skipping transfer tax repeal</header><text>Subchapter G of chapter 13 of subtitle B of such Code is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="H47EBAC38056C4055B6DC7E43678E59EE" style="OLC">
+ <section id="H19EEB8EDA0C94DC0BF01B5A86802214D"><enum>2664.</enum><header>Termination</header><text display-inline="no-display-inline">This chapter shall not apply to generation-skipping transfers on or after the date of the enactment of the <short-title>Death Tax Repeal Act of 2015</short-title>.</text></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HDEECCDE6AA6847E78A50323DDC93BB5D"><enum>(c)</enum><header>Conforming Amendments</header>
+ <paragraph id="HAEC288ED44E249F5ABF117E3AC93B39F"><enum>(1)</enum><text>The table of sections for subchapter C of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/11">chapter 11</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new item:</text>
+					<quoted-block display-inline="no-display-inline" id="H4892DC90F4854866BD3B7D6F299F03AA" style="OLC">
+						<toc regeneration="no-regeneration">
+							<toc-entry level="section">Sec. 2210. Termination.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H1AE1E63BA254400BBC09B2FE6EC54FA5"><enum>(2)</enum><text>The table of sections for subchapter G of chapter 13 of such Code is amended by adding at the end the following new item:</text>
+					<quoted-block display-inline="no-display-inline" id="H036D92584CF34A7F927ECC16E0CC3917" style="OLC">
+						<toc regeneration="no-regeneration">
+							<toc-entry level="section">Sec. 2664. Termination.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="HEB087153D0624948946AD8C968AA299B"><enum>(d)</enum><header>Effective Date</header><text display-inline="yes-display-inline">The amendments made by this section shall apply to the estates of decedents dying, and generation-skipping transfers, after the date of the enactment of this Act.</text>
+			</subsection></section><section id="H9AC545153D3346DA9249C01E276C948A"><enum>3.</enum><header>Modifications of gift tax</header>
+ <subsection id="H9D7CCC1F7FA745CA8DD16FCAD436C102"><enum>(a)</enum><header>Computation of gift tax</header><text display-inline="yes-display-inline">Subsection (a) of <external-xref legal-doc="usc" parsable-cite="usc/26/2502">section 2502</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text> <quoted-block display-inline="no-display-inline" id="H3CE83610726C4CD4B4A990D2A01F7264" style="OLC"> <subsection id="H94EB0B0F313E422198339CF2A4F71134"><enum>(a)</enum><header>Computation of tax</header> <paragraph id="H0B00C1C0EB894408BB4BFEA83CEFFC34"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The tax imposed by section 2501 for each calendar year shall be an amount equal to the excess of—</text>
+ <subparagraph id="H41A515147E3649B2884C2C3E7F92607E"><enum>(A)</enum><text>a tentative tax, computed under paragraph (2), on the aggregate sum of the taxable gifts for such calendar year and for each of the preceding calendar periods, over</text>
+ </subparagraph><subparagraph id="H94A9F608D2834B2BA634BC5EB1E19074"><enum>(B)</enum><text>a tentative tax, computed under paragraph (2), on the aggregate sum of the taxable gifts for each of the preceding calendar periods.</text>
+							</subparagraph></paragraph><paragraph id="HC759688158814D7A96F9F2CBDE1B10F8"><enum>(2)</enum><header>Rate schedule</header>
+							<table align-to-level="section" blank-lines-before="1" colsep="0" frame="none" line-rules="no-gen" rowsep="0" rule-weights="0.0.0.0.0.0" table-template-name="Entry: 2 text, bold hds" table-type="">
+								<tgroup cols="2" grid-typeface="1.1" rowsep="0" thead-tbody-ldg-size="0.10.12"><colspec coldef="txt" colname="column1" colsep="0" colwidth="246pts" min-data-value="190" rowsep="0"></colspec><colspec coldef="txt-no-ldr-no-spread" colname="column2" colsep="0" colwidth="260pts" min-data-value="95" rowsep="0"></colspec>
+									<tbody>
+										<row><entry colname="column1" morerows="0" namest="column1" rowsep="0"><bold>If the amount with respect to which the tentative tax to be computed is:</bold></entry><entry colname="column2" morerows="0" namest="column2" rowsep="0"><bold>The tentative tax is:</bold></entry></row>
+										<row><entry colname="column1" leader-modify="force-ldr-bottom" rowsep="0" stub-definition="txt-ldr">Not over $10,000</entry><entry colname="column2" leader-modify="force-ldr-bottom" rowsep="0">18% of such amount.</entry></row>
+										<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">Over $10,000 but not over $20,000</entry><entry colname="column2" rowsep="0">$1,800, plus 20% of the excess over $10,000.</entry></row>
+										<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">Over $20,000 but not over $40,000</entry><entry colname="column2" rowsep="0">$3,800, plus 22% of the excess over $20,000.</entry></row>
+										<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">Over $40,000 but not over $60,000</entry><entry colname="column2" rowsep="0">$8,200, plus 24% of the excess over $40,000.</entry></row>
+										<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">Over $60,000 but not over $80,000</entry><entry colname="column2" rowsep="0">$13,000, plus 26% of the excess over $60,000.</entry></row>
+										<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">Over $80,000 but not over $100,000</entry><entry colname="column2" rowsep="0">$18,200, plus 28% of the excess over $80,000.</entry></row>
+										<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">Over $100,000 but not over $150,000</entry><entry colname="column2" rowsep="0">$23,800, plus 30% of the excess over $100,000.</entry></row>
+										<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">Over $150,000 but not over $250,000</entry><entry colname="column2" rowsep="0">$38,800, plus 32% of the excess of $150,000.</entry></row>
+										<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">Over $250,000 but not over $500,000</entry><entry colname="column2" rowsep="0">$70,800, plus 34% of the excess over $250,000.</entry></row>
+										<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">Over $500,000</entry><entry colname="column2" rowsep="0">$155,800, plus 35% of the excess of $500,000.</entry></row></tbody></tgroup></table></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H6AD4012BFAD744E3B25068BAB29BF5C2"><enum>(b)</enum><header>Treatment of Certain Transfers in Trust</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/2511">Section 2511</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="H5F16FFB52E2D4548BD1D6E5891288049" style="OLC">
+ <subsection id="H38699EE7E5654203B8ECC588387860FA"><enum>(c)</enum><header>Treatment of Certain Transfers in Trust</header><text display-inline="yes-display-inline">Notwithstanding any other provision of this section and except as provided in regulations, a transfer in trust shall be treated as a taxable gift under section 2503, unless the trust is treated as wholly owned by the donor or the donor’s spouse under subpart E of part I of subchapter J of chapter 1.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HD50421AD42B84A69B2368A82F933DD27"><enum>(c)</enum><header>Lifetime gift exemption</header>
+ <paragraph id="HCD255AA1D5134274B9D3AEA3F99589E7"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Paragraph (1) of <external-xref legal-doc="usc" parsable-cite="usc/26/2505">section 2505(a)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="HA8FE42F9D1824B80BA511C3E08709759" style="OLC">
+ <paragraph id="H6299BBFF23DC4673BE9D5410D399E1F3"><enum>(1)</enum><text display-inline="yes-display-inline">the amount of the tentative tax which would be determined under the rate schedule set forth in section 2502(a)(2) if the amount with respect to which such tentative tax is to be computed were $5,000,000, reduced by</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H1B1657923BA6486F917E4F0A47DDBCAD"><enum>(2)</enum><header>Inflation adjustment</header><text>Section 2505 of such Code is amended by adding at the end the following new subsection:</text> <quoted-block display-inline="no-display-inline" id="HE83C4FDB1EF9468EAF8472A53EFACA84" style="OLC"> <subsection id="H528525BA2C084AF8BFA21CFFE8227700"><enum>(d)</enum><header>Inflation adjustment</header> <paragraph id="H89FADE2236F04A4382EE65F185A1DC19"><enum>(1)</enum><header>In general</header><text>In the case of any calendar year after 2011, the dollar amount in subsection (a)(1) shall be increased by an amount equal to—</text>
+ <subparagraph id="H322DD46676624C7AB4E07404064EE98F"><enum>(A)</enum><text>such dollar amount, multiplied by</text> </subparagraph><subparagraph id="HFFDBD445A3A046FB8343929341C041CC"><enum>(B)</enum><text>the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting <quote>calendar year 2010</quote> for <quote>calendar year 1992</quote> in subparagraph (B) thereof.</text>
+ </subparagraph></paragraph><paragraph id="HF7B24465A6F6496E873B9C32835D79FC"><enum>(2)</enum><header>Rounding</header><text>If any amount as adjusted under paragraph (1) is not a multiple of $10,000, such amount shall be rounded to the nearest multiple of $10,000.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="HEF7B79BBFC154405BD00842B8EB95347"><enum>(d)</enum><header>Conforming amendments</header>
+ <paragraph id="HC561EB0B66334674A2ADDF791C8B9C93"><enum>(1)</enum><text>Section 2505(a) of such Code is amended by striking the last sentence.</text> </paragraph><paragraph id="H5F36D6E9E42E4B1BBA70CB24DD33E79E"><enum>(2)</enum><text>The heading for section 2505 of such Code is amended by striking <quote><header-in-text level="section" style="OLC">Unified</header-in-text></quote>.</text>
+ </paragraph><paragraph id="HDABC3BC219FC43048AEDC077B6D6532F"><enum>(3)</enum><text>The item in the table of sections for subchapter A of chapter 12 of such Code relating to section 2505 is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="HBD96686B5CF440ECBF860135AAFBC137" style="OLC">
+						<toc regeneration="no-regeneration">
+							<toc-entry level="section">Sec. 2505. Credit against gift tax.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="HD33F86496D294AE0A4BC579DCBE768E8"><enum>(e)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by this section shall apply to gifts made on or after the date of the enactment of this Act.</text>
+			</subsection><subsection id="HBE461F881B71467BA6E49DC8E99DBEFA"><enum>(f)</enum><header>Transition rule</header>
+ <paragraph id="H5FB3038160BA4D40ABE0E77DCEF4BF31"><enum>(1)</enum><header>In general</header><text>For purposes of applying sections 1015(d), 2502, and 2505 of the Internal Revenue Code of 1986, the calendar year in which this Act is enacted shall be treated as 2 separate calendar years one of which ends on the day before the date of the enactment of this Act and the other of which begins on such date of enactment.</text>
+ </paragraph><paragraph id="H61D65B18D694441496281A34EBC32AEC"><enum>(2)</enum><header>Application of section <enum-in-header>2504(b)</enum-in-header></header><text>For purposes of applying <external-xref legal-doc="usc" parsable-cite="usc/26/2504">section 2504(b)</external-xref> of the Internal Revenue Code of 1986, the calendar year in which this Act is enacted shall be treated as one preceding calendar period.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

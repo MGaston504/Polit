@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7F7BBDE8F5A34355990069842D0ECA4C" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3333 IH: Federal Prison Work Incentive Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 3333</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150729">July 29, 2015</action-date> 
+<action-desc><sponsor name-id="D000096">Mr. Danny K. Davis of Illinois</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend title 18, United States Code, to restore the former system of good time allowances toward service of Federal prison terms, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H5450C7B4FB764F2090235935EE305BA8" style="OLC"> 
+<section id="H51D4F17FE72B471F9098F4A09837DE40" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Federal Prison Work Incentive Act of 2015</short-title></quote>.</text></section> <section id="H61334A241E754A24BC74C727D918A17F" section-type="subsequent-section"><enum>2.</enum><header>Restoration of former good time system</header> <subsection id="H189C52AA35254FB2A22A1A4C718609AA"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Part III of title 18, United States Code, is amended by inserting after chapter 307 the following:</text>
+<quoted-block display-inline="no-display-inline" id="HC1B36C882CB945BAB56E199089BD96F0" style="USC">
+<chapter id="H83D28C84617A4D93962DD7B3AD73B1B8"><enum>309</enum><header>Good Time Allowances</header>
+<toc container-level="chapter-container" idref="H83D28C84617A4D93962DD7B3AD73B1B8" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+<toc-entry idref="H368D592E5F4F4073A904B47F466A5B7B" level="section">Sec.</toc-entry>
+<toc-entry level="section">4161. Computation generally.</toc-entry>
+<toc-entry idref="HFFD978F4CD784562901F9FE0287957A7" level="section">4162. Industrial good time.</toc-entry>
+<toc-entry idref="HC537AF90478A41C0852A7952C08A6EA8" level="section">4163. Discharge.</toc-entry>
+<toc-entry idref="H1BE65DB195BA4F3A943714C253110BBF" level="section">4164. Forfeiture for offense.</toc-entry>
+<toc-entry idref="H5BCE7EC8C9B041E78B080E0AD0014E21" level="section">4165. Restoration of forfeited commutation.</toc-entry></toc>
+<section id="H368D592E5F4F4073A904B47F466A5B7B"><enum>4161.</enum><header>Computation generally</header>
+<subsection id="H878C1B73856040E886C36BFAF5C2D37B"><enum>(a)</enum><text display-inline="yes-display-inline">Each prisoner convicted of an offense against the United States and confined in a penal or correctional institution for a definite term other than for life, whose record of conduct shows that the prisoner has substantially observed all regulations promulgated by the Director of the Bureau of Prisons and has not been subjected to punishment, shall be entitled to a deduction from the term of his sentence imposed beginning with the day on which the sentence commences to run, and including time served in pretrial confinement, as follows:</text> <paragraph id="HBDAC966774C544A08A8929FC04ABCE2D"><enum>(1)</enum><text>5 days for each month of the sentence, if the sentence is not less than 6 months and not more than 1 year.</text></paragraph>
+<paragraph id="H6AECA972A1EC4DE4B37853CF94C40E39"><enum>(2)</enum><text display-inline="yes-display-inline">6 days for each month of the sentence, if the sentence is more than 1 year and less than 3 years.</text></paragraph> <paragraph id="H21405DDA4E5042D9A56A8F3B4EE87F7C"><enum>(3)</enum><text display-inline="yes-display-inline">7 days for each month of the sentence, if the sentence is not less than 3 years and less than 5 years.</text></paragraph>
+<paragraph id="H52566B2F453442559941B16C9367D46D"><enum>(4)</enum><text display-inline="yes-display-inline">8 days for each month of the sentence, if the sentence is not less than 5 years and less than 10 years.</text></paragraph> <paragraph id="H64ED2536E5044153A8D76CC8CF41E68D"><enum>(5)</enum><text display-inline="yes-display-inline">10 days for each month of the sentence, if the sentence is 10 years of more.</text></paragraph></subsection>
+<subsection id="HE179BD3FB6D14B0FAA3A938B7FB97A69"><enum>(b)</enum><text>When 2 or more consecutive sentences are to be served, the aggregate of the several sentences shall be the basis upon which the deduction shall be computed.</text></subsection></section> <section id="HFFD978F4CD784562901F9FE0287957A7"><enum>4162.</enum><header>Industrial good time</header> <subsection id="H6C6A69EB5C534DB29AB7DC4852012D77"><enum>(a)</enum><text display-inline="yes-display-inline">A prisoner may, in the discretion of the Director of the Bureau of Prisons, be allowed a deduction from that prisoner’s sentence of not to exceed 3 days for each month of actual employment in an industry or camp for the first year or any part thereof, and not to exceed 5 days for each month of any succeeding year or part thereof.</text></subsection>
+<subsection id="H2CA7AB8D13CA4A98B378A300D6C9033B"><enum>(b)</enum><text>In the discretion of the Director of the Bureau of Prisons such allowance may also be made to a prisoner performing exceptionally meritorious service or performing duties of outstanding importance in connection with institutional operations.</text></subsection> <subsection id="HE17DF7AE1CD548338B9702592B0A8617"><enum>(c)</enum><text>Such allowance shall be in addition to commutation of time for good conduct, and under the same terms and conditions and without regard to length of sentence.</text></subsection></section>
+<section id="HC537AF90478A41C0852A7952C08A6EA8"><enum>4163.</enum><header>Discharge</header><text display-inline="no-display-inline">Except as otherwise provided by law a prisoner shall be released at the expiration of the term of sentence less the time deducted for good conduct. A certificate of such deduction shall be entered on the commitment by the Warden or keeper. If such release date falls upon a Saturday, a Sunday, or on a Monday which is a legal holiday at the place of confinement, the prisoner may be released at the discretion of the warden or keeper on the preceding Friday. If such release date falls on a holiday which falls other than on a Saturday, Sunday, or Monday, the prisoner may be released at the discretion of the warden or keeper on the day preceding the holiday.</text></section> <section id="H1BE65DB195BA4F3A943714C253110BBF"><enum>4164.</enum><header>Forfeiture for offense</header><text display-inline="no-display-inline">If during the term of imprisonment a prisoner commits any offense or violates the regulations promulgated by the Director of the Bureau of Prisons, all or any part of his earned good time may be forfeited.</text></section>
+<section id="H5BCE7EC8C9B041E78B080E0AD0014E21"><enum>4165.</enum><header>Restoration of forfeited commutation</header><text display-inline="no-display-inline">The Director of the Bureau of Prisons shall by regulation provide for the criteria for and means of restoration of any forfeited or lost good time or portion.</text></section></chapter><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HD5D55E7EC80E4998B7792F9183C29062"><enum>(b)</enum><header>Clerical amendment</header><text display-inline="yes-display-inline">The table of chapters for part III of title 18, United States Code, is amended by striking the item relating to chapter 309 and inserting the following:</text>
+<quoted-block display-inline="no-display-inline" id="H3793D58FB12246859B716915B8D8C001" style="USC">
+<toc regeneration="no-regeneration">
+<multi-column-toc-entry bold="on" level="section"><toc-enum>309.</toc-enum><level-header bold="on" level="section">Good time allowances</level-header><target>4161</target></multi-column-toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="H51F218638F7F4B7790D6B1372D509463"><enum>(c)</enum><header>Conforming repeal and cross reference change</header><text>Section 3624 of title 18, United States Code, is amended—</text> <paragraph id="HE4609F939C8545BE8DD6A3F018668339"><enum>(1)</enum><text>by striking subsection (b); and</text></paragraph>
+<paragraph id="H9F17CC41C31044CABBC110A731F12361"><enum>(2)</enum><text>in subsection (a), by striking <quote>subsection (b)</quote> and inserting <quote>chapter 309</quote>.</text></paragraph></subsection> <subsection id="HBCD243B089314857B93E7413B72579FE"><enum>(d)</enum><header>Application of amendments</header><text>This Act and the amendments made by this Act shall apply with respect to—</text>
+<paragraph id="H93D64564B87E40DB8E68E86995B18D93"><enum>(1)</enum><text>all prisoners, other than those to whom the former system of the former <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/309">chapter 309</external-xref> of title 18 applies, as of the date of the enactment of this Act; and</text></paragraph> <paragraph id="HA797F2FD0C60495CBB484832E59ECBC0"><enum>(2)</enum><text>all periods of imprisonment of the prisoners to whom it applies that occur after the date of that enactment.</text></paragraph></subsection></section> 
+</legis-body> 
+</bill> 
+
+

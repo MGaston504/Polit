@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1909 IS: Local Zoning Decisions Protection Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-07-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1909</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150730">July 30, 2015</action-date>
+			<action-desc><sponsor name-id="S346">Mr. Lee</sponsor> (for himself, <cosponsor name-id="S299">Mr. Vitter</cosponsor>, <cosponsor name-id="S374">Mr. Cotton</cosponsor>, <cosponsor name-id="S254">Mr. Enzi</cosponsor>, <cosponsor name-id="S261">Mr. Sessions</cosponsor>, and <cosponsor name-id="S350">Mr. Rubio</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To protect communities from destructive Federal overreach by the Department of Housing and Urban
+			 Development.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Local Zoning Decisions Protection Act of 2015</short-title></quote>.</text>
+		</section><section id="idD13C753D212B46708C5639CE6C043A2C"><enum>2.</enum><header>Prohibition on use of Federal funds</header>
+ <subsection id="id7F21030F962A40B4BB0A671DE117C897"><enum>(a)</enum><header>HUD rule</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, no Federal funds may be used to implement, administer, or enforce the final rule of the Department of Housing and Urban Development entitled <quote>Affirmatively Furthering Fair Housing</quote> (80 Fed. Reg. 42272 (July 16, 2015)).</text>
+ </subsection><subsection id="id4628101C6E114B8F9A64F4E277E5DA31"><enum>(b)</enum><header>Federal database</header><text>Notwithstanding any other provision of law, no Federal funds may be used to design, build, maintain, utilize, or provide access to a Federal database of geospatial information on community racial disparities or disparities in access to affordable housing.</text></subsection></section></legis-body>
+</bill>
+
+

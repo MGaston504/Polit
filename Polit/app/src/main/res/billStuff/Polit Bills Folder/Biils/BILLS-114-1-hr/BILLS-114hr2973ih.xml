@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC1936C06D6464A9E8CDAAA85A4A9ABE0" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2973 IH: To amend the Internal Revenue Code of 1986 to require for purposes of education tax credit that the student be lawfully present and that the taxpayer provide the social security number of the student and the employer identification number of the educational institution, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2973</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150708">July 8, 2015</action-date>
+			<action-desc><sponsor name-id="B001273">Mrs. Black</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to require for purposes of education tax credit that the
+			 student be lawfully present and that the taxpayer provide the social
+			 security number of the student and the employer identification number of
+			 the educational institution, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H7E6D7DA8A30E447D8345CFD3DC7AD81F" style="OLC">
+		<section id="H73412AEEE0424BFBB2A9A3B9C3514950" section-type="section-one"><enum>1.</enum><header>Social security number and employer identification number must be provided and student must be
+			 lawfully present for education tax credits</header>
+			<subsection id="H4B140A3EDAF347FB8827497E5F46166E"><enum>(a)</enum><header>Social security number and employer identification number must be provided</header>
+ <paragraph id="H9D20DADFA6774A9F8B82218D2175EA3E"><enum>(1)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/25A">Section 25A(g)(1)</external-xref> of the Internal Revenue Code of 1986 is amended—</text> <subparagraph id="H894A188446B548DDA47B4EF0BEFC8E25"><enum>(A)</enum><text>by striking <quote>taxpayer identification number</quote> and inserting <quote>social security number</quote>, and</text>
+ </subparagraph><subparagraph id="HA06C857B5AED45DE920F337E81C5BA72"><enum>(B)</enum><text>by inserting <quote>, and the employer identification number of any institution to which qualified tuition and related expenses were paid with respect to such individual,</quote> after <quote>such individual</quote>.</text>
+ </subparagraph></paragraph><paragraph id="H2069324D1EB64E659A36152DBF3F63A3"><enum>(2)</enum><header>Omission treated as mathematical or clerical error</header><text display-inline="yes-display-inline">Section 6213(g)(2)(J) of such Code is amended by striking <quote>TIN</quote> and inserting <quote>social security number and employer identification number</quote>.</text> </paragraph></subsection><subsection id="H67466BF18EF3491FA6200B97F076EC05"><enum>(b)</enum><header>Student must be lawfully present</header> <paragraph id="H732EBD4863794001BF95AD33E30CF652"><enum>(1)</enum><header>In general</header><text>Section 25A(g) of such Code is amended by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="HCFE49F961C044BBB90DC41A1B3E75D89" style="OLC">
+						<paragraph id="HC57B159BB7CA480A8157CE047F98D4E1"><enum>(8)</enum><header>Student must be lawfully present</header>
+ <subparagraph id="H68DADCA3F6584435A63417D71B4533AA"><enum>(A)</enum><header>In general</header><text>No credit shall be allowed under subsection (a) to a taxpayer with respect to the qualified tuition and related expenses of any individual unless such individual is lawfully present for the taxable year.</text>
+ </subparagraph><subparagraph id="HAECADD91B9A64128BF600A3790C87244"><enum>(B)</enum><header>Lawfully present</header><text display-inline="yes-display-inline">For purposes of this subsection, an individual shall be treated as lawfully present with respect to any taxable year only if the individual is, as of the close of such taxable year, a citizen or national of the United States or an alien lawfully present in the United States (within the meaning of section 36B(e)(2) as in effect on March 4, 2015).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H4346FE6CA6B8448F99F650862E261AC7"><enum>(2)</enum><header>Application to tax return preparer due diligence requirements</header><text display-inline="yes-display-inline">Section 6695(g) of such Code is amended by adding at the end the following: <quote>Such regulations shall include a requirement that, in the case of a taxpayer claiming a credit under section 25A, the tax return preparer receive information from such taxpayer regarding whether the individual with respect to whom qualified tuition and related expenses were paid is lawfully present (as defined in section 25A(g)(8)(B)) for the taxable year.</quote>.</text>
+ </paragraph><paragraph id="HA401133BB473406C95AC05F882B640A9"><enum>(3)</enum><header>Recordkeeping and disclosure by Social Security Administration</header><text display-inline="yes-display-inline">Section 205(c)(2) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/405">42 U.S.C. 405(c)(2)</external-xref>) is amended by adding at the end the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H35216319860E4C98B9B7A8BA67E77F19" style="OLC">
+ <subparagraph id="H5639B506686B403EB4062ABACA3166EC"><enum>(I)</enum><text display-inline="yes-display-inline">The Commissioner of Social Security shall maintain a record of each social security account number issued to any individual who receives deferred action on removal in accordance with—</text>
+ <clause id="H56CDD0D38F1C4E31AD8F492BF4386A98"><enum>(i)</enum><text>the memorandum of the Secretary of Homeland Security dated June 15, 2012, and entitled <quote>Exercising Prosecutorial Discretion with Respect to Individuals Who Came to the United States as Children</quote>; or</text>
+ </clause><clause id="HA7A650E63B0D4830B37747F94399EB0C"><enum>(ii)</enum><text>the memorandum of the Secretary of Homeland Security dated November 20, 2014, and entitled <quote>Exercising Prosecutorial Discretion with Respect to Individuals Who Came to the United States as Children and with Respect to Certain Individuals Who Are the Parents of U.S. Citizens or Permanent Residents</quote>;</text>
+							</clause><continuation-text continuation-text-level="subparagraph">and shall periodically provide such record to the Secretary of the Treasury and the Administrator
+			 of the Internal Revenue Service.</continuation-text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H31DE408AF5FE454CAF3ECA51575FC5FE"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2014.</text> </subsection></section></legis-body> </bill> 
+

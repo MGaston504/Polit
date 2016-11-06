@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1235 IS: Alaska Native Energy Assistance Program Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1235</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150506">May 6, 2015</action-date>
+			<action-desc><sponsor name-id="S288">Ms. Murkowski</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Alaska Native Claims Settlement Act to authorize Regional Corporations and Village
+			 Corporations to establish energy assistance programs.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Alaska Native Energy Assistance Program Act</short-title></quote>.</text>
+		</section><section id="id6726978EC59B4A5AA1C806B13A4016FC"><enum>2.</enum><header>Shareholder energy assistance program</header>
+ <subsection id="idA48D3472550A45B1A28215EB934AC94B"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 7 of the Alaska Native Claims Settlement Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1606">43 U.S.C. 1606</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idF2F1DCA1253C43B4A78EFA4CC439B838" style="OLC">
+ <subsection id="idBA23737D5C96408A8A1DB4726B19A57B"><enum>(s)</enum><header>Shareholder energy assistance program</header><text display-inline="yes-display-inline">A Regional Corporation or Village Corporation may establish an energy assistance program that provides to shareholders financial assistance for the payment of residential electric bills, the cost of home weatherization or energy efficiency improvements, or the purchase of transportation fuels.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id75CF20FDF73B48F397998C53634C821A"><enum>(b)</enum><header>Taxation</header><text>Section 21 of the Alaska Native Claims Settlement Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1620">43 U.S.C. 1620</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idB31071061EB54C69B6DB15AE75900F32" style="OLC">
+ <subsection id="idcda77e7b682846fe8edcd0e710539655"><enum>(k)</enum><header>Energy assistance</header><text>Any assistance provided to shareholders under an energy assistance program established under section 7(s) shall not be subject to any form of Federal taxation.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

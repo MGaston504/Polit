@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H48356E9FB21040E6BE66B2E8EF3A9747" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2696 IH: Insurance Rate Transparency Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2696</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150609">June 9, 2015</action-date>
+			<action-desc><sponsor name-id="G000568">Mr. Griffith</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XXVII of the Public Health Service Act to require certain health insurance premium
+			 increase information submitted to the Secretary of Health and Human
+			 Services be disclosed to Congress.</official-title>
+	</form>
+	<legis-body id="H6A65D6E15DA647B7BA52613AA666E87C" style="OLC">
+ <section id="HF87B96EC86AD43CCB9BBC0D6712E9D5F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Insurance Rate Transparency Act</short-title></quote>.</text> </section><section id="H268487F3EB8745C1A9ED901D8EA50939"><enum>2.</enum><header>Disclosure to Congress of certain health insurance premium increase information</header><text display-inline="no-display-inline">Section 2794(b) of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300gg-94">42 U.S.C. 300gg–94(b)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+			<quoted-block display-inline="no-display-inline" id="H0DF9A67A8C5043FC8BD921E110CCADB6" style="OLC">
+ <paragraph id="H244A7BEC04654B7F9A11A3A9689D8840"><enum>(3)</enum><header>Reports to Congress</header><text display-inline="yes-display-inline">In the case of any information (including justification) relating to premium increases that is submitted for the 2016 plan year or a subsequent plan year to the Secretary pursuant to subsection (a) or this subsection, not later than 30 days after the date of receipt of such information (or, in the case of information submitted before the date of the enactment of this paragraph for the plan year 2016, not later than 30 days after such date of enactment), the Secretary shall submit to the Committees on Energy and Commerce and on Ways and Means of the House of Representatives and the Committees on Finance and on Health, Education, Labor, and Pensions of the Senate a report containing such information presented according to the following categories of health care consumers:</text>
+ <subparagraph id="H0A5399D722ED4D1D99FA19B823A04123"><enum>(A)</enum><text>A category representing self-only coverage for a single, nonsmoking male who is 30 years of age.</text> </subparagraph><subparagraph id="H43EAE7E3BB21418EA4A642703A80C06C"><enum>(B)</enum><text>A category representing self-only coverage for a single, smoking male who is 30 years of age.</text>
+ </subparagraph><subparagraph id="HEE99584FEB294975BFC5C69B08B82DD4"><enum>(C)</enum><text display-inline="yes-display-inline">A category representing self-only coverage for a single, nonsmoking female who is 30 years of age.</text> </subparagraph><subparagraph id="HB983EABE25FD4ED78A10A88B9AF823C8"><enum>(D)</enum><text display-inline="yes-display-inline">A category representing self-only coverage for a single, smoking female who is 30 years of age.</text>
+ </subparagraph><subparagraph id="H85F3E0109EDD4AC2BDD22D02EE2BB73F"><enum>(E)</enum><text display-inline="yes-display-inline">A category representing family coverage for a family of four, including two parents who are each 40 years of age.</text>
+ </subparagraph><subparagraph id="H4F40DD50F37E4293A8813F8F6DBB38F4"><enum>(F)</enum><text display-inline="yes-display-inline">A category representing family coverage for a couple consisting of two individuals who are each 55 years of age.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

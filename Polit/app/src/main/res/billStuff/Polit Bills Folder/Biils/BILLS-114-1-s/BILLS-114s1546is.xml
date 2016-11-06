@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1546 IS: Ensuring Small Businesses Can Export Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-06-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1546</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150610">June 10, 2015</action-date>
+			<action-desc><sponsor name-id="S299">Mr. Vitter</sponsor> introduced the following bill; which was read twice and referred to the <committee-name added-display-style="italic" committee-id="SSSB00" deleted-display-style="strikethrough">Committee on Small Business and Entrepreneurship</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To establish an export credit insurance program in the Small Business
+			 Administration.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ensuring Small Businesses Can Export Act of 2015</short-title></quote>.</text>
+		</section><section id="id934949f692ae4eef895114bd8da6bd14"><enum>2.</enum><header>Findings</header>
+ <subsection id="idDC9A05BEAF024DD392ACE300073C919E"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Congress finds that—</text> <paragraph id="id5df88ab8a7f6439caf98281017b8e913"><enum>(1)</enum><text>the Export-Import Bank of the United States administers—</text>
+ <subparagraph id="idfab66b4bd396492b8d0569d61d75541b"><enum>(A)</enum><text>the Working Capital Loan Guarantee Program, which—</text> <clause id="id9c06542fe0af4161823417ce6c259644"><enum>(i)</enum><text>facilitates finance for businesses, in particular small businesses, that have exporting potential but need working capital funds to produce or market goods or services for export;</text>
+ </clause><clause id="id720ed8e7cfbd46a89e173f023eb094f4"><enum>(ii)</enum><text>provides repayment guarantees to lenders on short- and medium-term working capital loans made to qualified exporters, which loans are secured by export-related accounts receivable and inventory;</text>
+ </clause><clause id="id936c5bd735964946a82010c5962a797a"><enum>(iii)</enum><text>provides a guarantee of up to 90 percent of the principal and interest on a loan made to an exporter by a private lender for export-related accounts receivable; and</text>
+ </clause><clause id="id11c2da5d3f8c4269b6c6b2cf5384d407"><enum>(iv)</enum><text>provides a guarantee of up to 75 percent for export-related inventory;</text> </clause></subparagraph><subparagraph id="idab751bd59744467e8b787bf73904b137"><enum>(B)</enum><text>the Global Credit Express Loan Program, which provides direct working capital loans to small businesses for a 6- or 12-month revolving line of credit of not more than $500,000; and</text>
+ </subparagraph><subparagraph id="id14889820f8424469b1f7f406da9fdb10"><enum>(C)</enum><text>the Export Credit Insurance Program, which—</text> <clause id="ida41df88f1b7b4a859a831f3bded5905a"><enum>(i)</enum><text>extends credit terms to foreign customers;</text>
+ </clause><clause id="id4e0f45ee4f814cf69d4a4133351c0de5"><enum>(ii)</enum><text>insures against nonpayment by international buyers;</text> </clause><clause id="id0d6075854d004fe6ba2fdc674e8dd834"><enum>(iii)</enum><text>covers both commercial and political losses with a 95-percent guarantee; and</text>
+ </clause><clause id="id511592439ea74fc8a674745a0cb128e0"><enum>(iv)</enum><text>arranges financing through a lender by using insured receivables as additional collateral;</text> </clause></subparagraph></paragraph><paragraph id="idd49e12d63f3e48829c1b82c77f717bc1"><enum>(2)</enum><text>the export loan programs of the Export-Import Bank of the United States described in subparagraphs (A), (B), and (C) of paragraph (1) are less appealing to small businesses due to lending restrictions on loans under those programs, which provide that—</text>
+ <subparagraph id="id57423bb6a14f43c78b1d5b74d1993106"><enum>(A)</enum><text>the loans may not be used when the export product being financed has less than 50-percent United States content;</text>
+ </subparagraph><subparagraph id="idc67b155ccf6845c698502604a755f223"><enum>(B)</enum><text>the loans may not be used to finance sales to foreign military buyers, with which a growing number of small businesses are contracting; and</text>
+ </subparagraph><subparagraph id="id218b582a54aa4d84aea225195c6429ea"><enum>(C)</enum><text>contracts and purchase orders supported by letters of credit may not be used in determining the borrowing base; and</text>
+ </subparagraph></paragraph><paragraph id="id919b01c8e68946f8a4872512c261f3cb"><enum>(3)</enum><text>the Small Business Administration administers—</text> <subparagraph id="id9e774e8b41b242ff95ff21465105af72"><enum>(A)</enum><text>the Export Working Capital Program, established under section 7(a)(14) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)(14)</external-xref>), which provides short-term working capital, including revolving lines of credit, of not more than $5,000,000 with a 90-percent guarantee;</text>
+ </subparagraph><subparagraph id="id8bccffd368244baa81663dbc2fe3e49e"><enum>(B)</enum><text>the International Trade Loan Program, established under section 7(a)(16) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)(16)</external-xref>), which provides financing of not more than $5,000,000 with a 90-percent guarantee for fixed assets, or to improve a competitive position that has been adversely affected by import competition; and</text>
+ </subparagraph><subparagraph id="idbce9c568ba744ea18cdb505cd22f849d"><enum>(C)</enum><text>the Export Express Program, established under 7(a)(34) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)(34)</external-xref>), under which—</text>
+ <clause id="idE1B321A3CF214F2B813B1931075BCA20"><enum>(i)</enum><text>exporters are provided with a streamlined method to obtain financing backed by the Small Business Administration for loans and lines of credit of not more than $500,000;</text>
+ </clause><clause id="id5caa2bb0610c48d5b7529379cc689ce9"><enum>(ii)</enum><text>lenders use their own credit decision process and loan documentation;</text> </clause><clause id="id24aa4961e3824d8aa9d9745a86b7b503"><enum>(iii)</enum><text>the Small Business Administration determines eligibility and provides a loan approval in 36 hours or less; and</text>
+ </clause><clause id="id35c84f5b236e41b0ba39b6e711a6722b"><enum>(iv)</enum><text>the guarantee is 90 percent for a loan that is not more than $350,000 and 75 percent for a loan that is more than $350,000 and not more than $500,000.</text>
+ </clause></subparagraph></paragraph></subsection><subsection id="idab4d520279e24c249510422dee8608d5"><enum>(b)</enum><header>Additional findings</header><text>Congress further finds that—</text> <paragraph id="id663f67b6783c407e8d8d4ed15ae03de9"><enum>(1)</enum><text>the export loan programs of the Small Business Administration described in subparagraphs (A), (B), and (C) of subsection (a)(3)—</text>
+ <subparagraph id="id0F4A00A859B74DC0AA40CD01EF73DA0A"><enum>(A)</enum><text>are not restricted by the limitations described in subparagraphs (A), (B), and (C) of subsection (a)(2); and</text>
+ </subparagraph><subparagraph id="id09a4c2ea424f44d6937caa8f6b5d2b51"><enum>(B)</enum><text>should be commended for their flexibility, quick turnaround times, and the one-on-one assistance from Small Business Administration personnel in structuring loan deals, negotiating payment terms, and ensuring that the financial needs of small businesses are met;</text>
+ </subparagraph></paragraph><paragraph id="id94b71c2aed424e929a45a6a9935970c9"><enum>(2)</enum><text>the Export-Import Bank of the United States only has Regional Export Finance Managers co-located in 12 Department of Commerce United States Export Assistance Centers, whereas the Small Business Administration—</text>
+ <subparagraph id="id7c59daaeeb3b4706b6b5df0f097a96f8"><enum>(A)</enum><text>has Regional Export Finance Managers co-located in 20 United States Export Assistance Centers; and</text> </subparagraph><subparagraph id="id562f204421314948b738a9a7b9f0bb6d"><enum>(B)</enum><text>currently has Regional Export Finance Managers co-located in 10 additional United States Export Assistance Center locations that the Export-Import Bank of the United States does not, including in—</text>
+ <clause id="id38becf272b804e869ac8f1805f7f303c"><enum>(i)</enum><text>Arlington, Virginia;</text> </clause><clause id="id255781676d884a108b27d9fd446b0ea9"><enum>(ii)</enum><text>Boston, Massachusetts;</text>
+ </clause><clause id="id3e7b3a95a4bb4961ba779ab4c0678bc4"><enum>(iii)</enum><text>Charlotte, North Carolina;</text> </clause><clause id="id868d49f35e974a8e9a4f62f7c63ab2c8"><enum>(iv)</enum><text>Cleveland, Ohio;</text>
+ </clause><clause id="id4cb33b6f586e4f6fbfb56c936bccdfd7"><enum>(v)</enum><text>Denver, Colorado;</text> </clause><clause id="idb17a457b708d4350b20053b0f83400d1"><enum>(vi)</enum><text>Los Angeles, California;</text>
+ </clause><clause id="id14e65895d90b46019789fad418a76341"><enum>(vii)</enum><text>New Orleans, Louisiana;</text> </clause><clause id="id435974aa0ea34c0f9c2613ee85c23b01"><enum>(viii)</enum><text>Philadelphia, Pennsylvania;</text>
+ </clause><clause id="id32b861a12b574f869a741fc47c79c0ce"><enum>(ix)</enum><text>Portland, Oregon; and</text> </clause><clause id="idda9b7271a58e44cba9278aa8fabb18ac"><enum>(x)</enum><text>St. Louis, Missouri;</text>
+ </clause></subparagraph></paragraph><paragraph id="id52dfd48951334e59bf2a19c4c58c4339"><enum>(3)</enum><text>the Small Business Jobs Act of 2010 (<external-xref legal-doc="usc" parsable-cite="usc/15/631">15 U.S.C. 631</external-xref> note) increased the maximum loan size under the 2 largest export loan programs administered by the Small Business Administration to $5,000,000, which could cover approximately 80 percent of all small business export loans currently guaranteed by taxpayers through the Export-Import Bank of the United States;</text>
+ </paragraph><paragraph id="idb4f899fdd2214c64aa34d5d4ee359447"><enum>(4)</enum><text>the export loan programs administered by the Small Business Administration and the export loan programs administered the Export-Import Bank of the United States are—</text>
+ <subparagraph id="id711d1da1eb7a4d6bba447b6ebaf9fa11"><enum>(A)</enum><text>duplicative of each other, except for the Export Credit Insurance Program of the Export-Import Bank of the United States; and</text>
+ </subparagraph><subparagraph id="id94c4b86c022543888648ebaff5dee7ac"><enum>(B)</enum><text>under the current structure, competing against each other for small business clients; and</text> </subparagraph></paragraph><paragraph id="id4c89bc2665e14eb1851ee9c80ca9a536"><enum>(5)</enum><text>the Export Credit Insurance Program of the Export-Import Bank of the United States is a vital component of export loan programs.</text>
+ </paragraph></subsection><subsection id="id92799a14aec5448483a8c92cb90c3e92"><enum>(c)</enum><header>Declaration of policy</header><text>It is hereby declared to be the policy of this Act—</text> <paragraph id="id292752c9f08f47f9b62eff194d77c769"><enum>(1)</enum><text>that, should the statutory authority for the export loan programs administered by the Export-Import Bank of the United States lapse, the Small Business Administration shall serve the small business clients of the Export-Import Bank of the United States under existing statutory authority of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/631">15 U.S.C. 631 et seq.</external-xref>);</text>
+ </paragraph><paragraph id="idf40b907e1dba4b2f9fc499f9fe379648"><enum>(2)</enum><text>to create an Export Credit Insurance Program within the Small Business Administration similar to the Export Credit Insurance Program of the Export-Import Bank of the United States; and</text>
+ </paragraph><paragraph id="id6f9741bd23184ceda625487c2a8544ec"><enum>(3)</enum><text>to ensure that small business exporters are served by the programs of the Small Business Administration.</text>
+ </paragraph></subsection></section><section id="id5BBC6CD899364FE2BD2AAFBE8556B751"><enum>3.</enum><header>Export credit insurance program</header><text display-inline="no-display-inline">Section 22 of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/649">15 U.S.C. 649</external-xref>) is amended—</text> <paragraph id="idD2C254786D8249909BE1CA3CEDFF46BA"><enum>(1)</enum><text>by redesignating subsection (l) as subsection (m); and</text>
+ </paragraph><paragraph id="id9AC46D161B3E46F59E9D5DA73D451566"><enum>(2)</enum><text>by inserting after subsection (k) the following:</text> <quoted-block display-inline="no-display-inline" id="idD130C3F7C8294853AC2ABC90BA40D6DF" style="OLC"> <subsection id="id67ECEAE8A3654436B4A49E249C68DC29"><enum>(l)</enum><header>Export credit insurance program</header> <paragraph id="id7DC81B9A66124F07BBDD749B8FF17038"><enum>(1)</enum><header>In general</header><text>The Administrator shall establish a program under which the Administration shall provide insurance for the exports of small business concerns, including insurance against nonpayment by international buyers.</text>
+						</paragraph><paragraph id="id7A7FFED6AF0B4E7F9FE767389B0409C1"><enum>(2)</enum><header>Regulations</header>
+ <text>Not later than 90 days after the date of enactment of this subsection, the Administrator shall promulgate regulations to carry out the program established under paragraph (1), which shall be, to the maximum extent practicable, substantially similar to the Export Credit Insurance Program of the Export-Import Bank of the United States, as in effect on the day before the date of enactment of this subsection.</text>
+						</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

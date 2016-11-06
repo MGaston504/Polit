@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H3A8B8FEE0AD74348ADFB8E3B9F3E94AA" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3450 IH: Student Debt Repayment Fairness Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3450</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150908">September 8, 2015</action-date>
+			<action-desc><sponsor name-id="K000380">Mr. Kildee</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Truth in Lending Act to prohibit private educational lenders from requiring
+			 accelerated repayment of private education loans upon the death or
+			 disability of a cosigner of the loan.</official-title>
+	</form>
+	<legis-body id="HB5C4878956E34156B0302952CA798B29" style="OLC">
+ <section id="HE0ACBAB172BE420A956C1CF8E2A7A4FD" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Student Debt Repayment Fairness Act of 2015</short-title></quote>.</text> </section><section id="HC825751C3FC44BC99F803F228126D4EE" section-type="subsequent-section"><enum>2.</enum><header>Prohibition on requiring full repayment of private education loan upon death or disability of cosigner</header><text display-inline="no-display-inline">Section 140 of the Truth in Lending Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1650">15 U.S.C. 1650</external-xref>) is amended by adding at the end the following new subsection:</text>
+			<quoted-block display-inline="no-display-inline" id="H434E76EFE2544FE399B117EDCCAA2059" style="OLC">
+				<subsection id="H4D75EB0E7FCB42C184341F684DA9C318"><enum>(g)</enum><header>Prohibition on accelerating repayment upon death or disability of a cosigner on a private education
+			 loan</header>
+ <paragraph id="H902AC7BBD4A342E9B4A5F9664DF2724A"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">If a cosigner who is jointly liable on a private education loan is unable to fulfill any obligations with respect to the loan by reason of death or disability, the private educational lender may not accelerate the repayment terms of any outstanding obligation if the borrower is in good standing (as determined by the Bureau) with respect to the loan.</text>
+ </paragraph><paragraph id="H9D25D82877B8488980ED8F43D87AD891"><enum>(2)</enum><header>Disability defined</header><text display-inline="yes-display-inline">In this subsection, the term <term>disability</term> means a permanent and total disability, as determined in accordance with the regulations of the Secretary of Education under section 437(a) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1087">20 U.S.C. 1087(a)</external-xref>), or a determination by the Secretary of Veterans Affairs that the individual is unemployable due to a service-connected condition.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

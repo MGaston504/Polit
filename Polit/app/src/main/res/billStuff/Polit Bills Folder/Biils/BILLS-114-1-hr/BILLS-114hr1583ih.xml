@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H601BC21ED22843B1940E439664B2DDC0" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1583 IH: Small Business Contractor’s Clarification Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1583</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150324">March 24, 2015</action-date>
+			<action-desc><sponsor name-id="H001070">Mr. Hardy</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HSM00">Committee on Small Business</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Small Business Act to clarify the requirements related to small business contracts for
+			 services, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H0468327313FB488CA4FD7D7C9EF242B4" style="OLC">
+ <section id="H08A5B781ABB74B469292C2C2923A3000" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Business Contractor’s Clarification Act of 2015</short-title></quote>.</text> </section><section id="HBF52B8E05DE14215A6AAD22A2FAB552E" section-type="subsequent-section"><enum>2.</enum><header>Clarification of requirements related to small business contracts for services</header> <subsection id="HE1400FC3BBDB45D4877FAE405ADC4FD6"><enum>(a)</enum><header>Procurement contracts</header><text display-inline="yes-display-inline">Section 8(a)(17) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/637">15 U.S.C. 637(a)(17)</external-xref>) is amended—</text>
+ <paragraph id="HDA3877A10254461EAD55841D5CF36B2F"><enum>(1)</enum><text>in subparagraph (A), by striking <quote>any procurement contract</quote> and all that follows through <quote>section 15</quote> and inserting <quote>any procurement contract, which contract has as its principal purpose the supply of a product to be let pursuant to this subsection or subsection (m), or section 15(a), 31, or 36,</quote>; and</text>
+ </paragraph><paragraph id="H7EFAA3FEC2B84172B950E000985C6D32"><enum>(2)</enum><text>by adding at the end the following new subparagraph:</text> <quoted-block display-inline="no-display-inline" id="H2FA13C87C9EB4EF19C5752008C968870" style="OLC"> <subparagraph id="HA473A2B576C8448E9D7DA6C1F6015294" indent="up1"><enum>(C)</enum><header>Limitation</header><text display-inline="yes-display-inline">This paragraph shall not apply to a contract that has as its principal purpose the acquisition of services or construction.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H7DB4B057F2F646CDBE903D5734E1717B"><enum>(b)</enum><header>Subcontractor contracts</header><text display-inline="yes-display-inline">Section 46(a)(4) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/657s">15 U.S.C. 657s(a)(4)</external-xref>) is amended by striking <quote>for supplies from a regular dealer in such supplies</quote> and inserting <quote>which is principally for supplies from a regular dealer in such supplies, and which is not a contract principally for services or construction</quote>.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

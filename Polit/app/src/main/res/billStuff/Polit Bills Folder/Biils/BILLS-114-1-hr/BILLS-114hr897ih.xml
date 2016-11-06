@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H0D4D7EBB849E49CF87AD6D7B3A60F3C2" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 897 IH: Reducing Regulatory Burdens Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 897</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150211">February 11, 2015</action-date>
+			<action-desc><sponsor name-id="G000563">Mr. Gibbs</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name>, and in addition to the Committee on <committee-name committee-id="HAG00">Agriculture</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution
+			 Control Act to clarify Congressional intent regarding the regulation of
+			 the use of pesticides in or near navigable waters, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HDB212DF9AF734CDE94C00A332F3D0DED" style="OLC">
+ <section commented="no" id="H2CFBBFADC5B54A13B46D8583D0D8583C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Reducing Regulatory Burdens Act of 2015</short-title></quote>.</text> </section><section id="HA76D44DD7BD84F8197044689D48A2A4F"><enum>2.</enum><header>Use of authorized pesticides</header><text display-inline="no-display-inline">Section 3(f) of the Federal Insecticide, Fungicide, and Rodenticide Act (<external-xref legal-doc="usc" parsable-cite="usc/7/136a">7 U.S.C. 136a(f)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H4E2A83D998A249F6BB2D1267DA37290B" style="OLC">
+ <paragraph commented="no" id="H6E5F18155706492B92B408973295E4D5"><enum>(5)</enum><header>Use of authorized pesticides</header><text display-inline="yes-display-inline">Except as provided in section 402(s) of the Federal Water Pollution Control Act, the Administrator or a State may not require a permit under such Act for a discharge from a point source into navigable waters of a pesticide authorized for sale, distribution, or use under this Act, or the residue of such a pesticide, resulting from the application of such pesticide.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="HF7F7719594364F1FADE32856C01B3416"><enum>3.</enum><header>Discharges of pesticides</header><text display-inline="no-display-inline">Section 402 of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1342">33 U.S.C. 1342</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H92591E749E0F4DF48C4451979939C26E" style="OLC">
+				<subsection id="HB525955F93184FAEA9B733CE01AC3DBD"><enum>(s)</enum><header>Discharges of pesticides</header>
+ <paragraph id="HB0E324AB1F484FF78583898F1AA51035"><enum>(1)</enum><header>No permit requirement</header><text display-inline="yes-display-inline">Except as provided in paragraph (2), a permit shall not be required by the Administrator or a State under this Act for a discharge from a point source into navigable waters of a pesticide authorized for sale, distribution, or use under the Federal Insecticide, Fungicide, and Rodenticide Act, or the residue of such a pesticide, resulting from the application of such pesticide.</text>
+ </paragraph><paragraph id="HE078BA20BCC84BF294D1987EE96BC644"><enum>(2)</enum><header>Exceptions</header><text>Paragraph (1) shall not apply to the following discharges of a pesticide or pesticide residue:</text> <subparagraph id="HFB6908BEF5CE4321BA850530C6D02D80"><enum>(A)</enum><text display-inline="yes-display-inline">A discharge resulting from the application of a pesticide in violation of a provision of the Federal Insecticide, Fungicide, and Rodenticide Act that is relevant to protecting water quality, if—</text>
+ <clause id="H61E2E83FD8664912913A4A5401614D7B"><enum>(i)</enum><text display-inline="yes-display-inline">the discharge would not have occurred but for the violation; or</text> </clause><clause id="H2AE57D10998347978F5C3CE744E46123"><enum>(ii)</enum><text display-inline="yes-display-inline">the amount of pesticide or pesticide residue in the discharge is greater than would have occurred without the violation.</text>
+ </clause></subparagraph><subparagraph commented="no" id="HC40F696BDC2C47A895DB380551322BF7"><enum>(B)</enum><text display-inline="yes-display-inline">Stormwater discharges subject to regulation under subsection (p).</text> </subparagraph><subparagraph commented="no" id="HCE355DC2B7B44276A5E3A0BD60D05A16"><enum>(C)</enum><text display-inline="yes-display-inline">The following discharges subject to regulation under this section:</text>
+ <clause commented="no" id="HCBC555AD70AD4D68BDAEB8077B2BFFE7"><enum>(i)</enum><text>Manufacturing or industrial effluent.</text> </clause><clause commented="no" id="HCD33A6810CDF4DC0ACBA050398DD102E"><enum>(ii)</enum><text>Treatment works effluent.</text>
+ </clause><clause commented="no" id="H5E561EEC99BC4D05B7ADBF15AC76BB62"><enum>(iii)</enum><text>Discharges incidental to the normal operation of a vessel, including a discharge resulting from ballasting operations or vessel biofouling prevention.</text></clause></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H50FBA1332E78498F99E1F78BF294AB41" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1948 IH: Veterans’ Access to Child Care Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1948</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150422">April 22, 2015</action-date>
+			<action-desc><sponsor name-id="B001285">Ms. Brownley of California</sponsor> (for herself, <cosponsor name-id="R000599">Mr. Ruiz</cosponsor>, <cosponsor name-id="T000472">Mr. Takano</cosponsor>, <cosponsor name-id="B000911">Ms. Brown of Florida</cosponsor>, <cosponsor name-id="T000468">Ms. Titus</cosponsor>, <cosponsor name-id="W000799">Mr. Walz</cosponsor>, <cosponsor name-id="M001166">Mr. McNerney</cosponsor>, <cosponsor name-id="K000382">Ms. Kuster</cosponsor>, and <cosponsor name-id="R000602">Miss Rice of New York</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide child
+			 care assistance to veterans receiving certain medical services provided by
+			 the Department of Veterans Affairs.</official-title>
+	</form>
+	<legis-body id="H6F3C0FFDA1D44ACC81FE389C55FE1A01" style="OLC">
+ <section id="HBAC24F36A5E04355AD7A74D5112581B2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans’ Access to Child Care Act</short-title></quote>.</text> </section><section id="H9ABAF2686F64498CA7FD19A70E08175F"><enum>2.</enum><header>Child care assistance for veterans receiving mental health care and other intensive health care services provided by the Department of Veterans Affairs</header> <subsection id="H2188B47F53ED4E84889A3B2F46A8A88D"><enum>(a)</enum><header>In general</header><text>Subchapter III of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/17">chapter 17</external-xref> of title 38, United States Code, is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HC4F3CC4CA2E54E828BDBA591789974B4" style="USC">
+					<section id="H41B86B98E57B46E78734E3406CA43ADE"><enum>1730B.</enum><header>Child care assistance for veterans receiving mental health care and other intensive health care
+			 services</header>
+ <subsection id="H34675021F55149D28D8B3BC94E47490C"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary shall provide child care assistance to an eligible veteran for any period that the veteran—</text>
+ <paragraph id="HF503BEB3B94547A7AB3CCB24FA737E6D"><enum>(1)</enum><text>receives covered health care services at a facility of the Department; and</text> </paragraph><paragraph id="H5FA29D87917642C5B1F55F3017A27FD2"><enum>(2)</enum><text>is required travel to and return from such facility for the receipt of such health care services.</text>
+							</paragraph></subsection><subsection id="H419E9A654E5D439E849B71EF28F32B3C"><enum>(b)</enum><header>Child Care Assistance</header>
+ <paragraph commented="no" display-inline="yes-display-inline" id="HE95838BF6A014165ACEA3E0FC70A585C"><enum>(1)</enum><text>Child care assistance provided under this section may include any of the following:</text> <subparagraph id="H163E55F2C4DE4BF79E1DC9A42F0EF9F0" indent="up1"><enum>(A)</enum><text>A stipend for the payment of child care offered by a licensed child care center (either directly or through a voucher program) which shall be, to the extent practicable, modeled after the Department of Veterans Affairs Child Care Subsidy Program established pursuant to section 590 of title 40.</text>
+ </subparagraph><subparagraph id="HCAE32A7DC47C4FD3B94D90E10C7F5460" indent="up1"><enum>(B)</enum><text>Direct provision of child care at an on-site facility of the Department.</text> </subparagraph><subparagraph id="HB2EE23BBD724469AB8DB8B32899ACDA6" indent="up1"><enum>(C)</enum><text>A payment made directly to a private child care agency.</text>
+ </subparagraph><subparagraph id="H64822276B86B4853A4D9CCF2FCFE4157" indent="up1"><enum>(D)</enum><text>A collaboration with a facility or program of another Federal department or agency.</text> </subparagraph><subparagraph id="H2C37F6C898AD4C34801DAC78F6AA3E07" indent="up1"><enum>(E)</enum><text>Such other form of assistance as the Secretary considers appropriate.</text>
+ </subparagraph></paragraph><paragraph display-inline="no-display-inline" id="HA41F42D25FDC43A4B76E6721EACC61D4" indent="up1"><enum>(2)</enum><text>In the case that child care assistance under this section is provided as a stipend under paragraph (1)(A), such stipend shall cover the full cost of such child care.</text>
+ </paragraph></subsection><subsection id="HA3407A9084264809BFF47D70859E00AB"><enum>(c)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="H075981D38D454C12BE2D4EDBB06C998E"><enum>(1)</enum><text>The term <term>eligible veteran</term> means a veteran who—</text>
+ <subparagraph id="H830CC35DB0B24F2F91C27AC7296844E8"><enum>(A)</enum><text>is the primary caretaker of a child or children; and</text> </subparagraph><subparagraph id="H0E0E930AF3F0484D8CAAFA8F09C012C9"><enum>(B)</enum><text>is—</text>
+ <clause id="HD7F495A065D74515A199F9F3E3B3427C"><enum>(i)</enum><text>receiving covered health care services from the Department; or</text> </clause><clause id="HF3996B59669F4CCF9B13DA32786E8E3A"><enum>(ii)</enum><text>in need of covered health care services, and but for lack of child care services, would receive such covered health care services from the Department.</text>
+ </clause></subparagraph></paragraph><paragraph id="HD7AAE2B38A5240BFAD45F232AD161C67"><enum>(2)</enum><text>The term <term>covered health care services</term> means—</text> <subparagraph id="HBB37A6EBCF2F4BB3B866AF7229EE8E0F"><enum>(A)</enum><text>regular mental health care services;</text>
+ </subparagraph><subparagraph id="H3A5168A59ECD4D9B9A3AF75C6CC21E5B"><enum>(B)</enum><text>intensive mental health care services; or</text> </subparagraph><subparagraph id="H6B001974520E4DF28D8A920B6FEC642A"><enum>(C)</enum><text>such other intensive health care services that the Secretary determines that provision of assistance to the veteran to obtain child care would improve access to such health care services by the veteran.</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HCC4977D97C77496A8EA2DFF257085F14"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1730A the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H9A1A7FEEA6E74DA7ACBB0337D9102937" style="USC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">1730B. Child care for veterans receiving mental health care and other intensive health care
+			 services.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

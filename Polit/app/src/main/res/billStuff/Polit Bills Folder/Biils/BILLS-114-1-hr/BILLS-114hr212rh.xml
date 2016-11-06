@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" dms-id="H9941B7927B9E452C8503384E7A24D5BC" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 212 RH: Drinking Water Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IB</distribution-code> 
+<calendar display="yes">Union Calendar No. 18</calendar> 
+<congress display="yes">114th CONGRESS</congress> <session display="yes">1st Session</session> 
+<legis-num>H. R. 212</legis-num> 
+<associated-doc role="report" display="yes">[Report No. 114–26]</associated-doc> 
+<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150108">January 8, 2015</action-date> 
+<action-desc><sponsor name-id="L000566">Mr. Latta</sponsor> (for himself, <cosponsor name-id="M001150">Mrs. Miller of Michigan</cosponsor>, <cosponsor name-id="Q000023">Mr. Quigley</cosponsor>, and <cosponsor name-id="K000009">Ms. Kaptur</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00" added-display-style="italic" deleted-display-style="strikethrough">Committee on Energy and Commerce</committee-name></action-desc> 
+</action> 
+<action>
+<action-date date="20150224">February 24, 2015</action-date>
+<action-desc>Additional sponsors: <cosponsor name-id="M001151">Mr. Murphy of Pennsylvania</cosponsor>, <cosponsor name-id="J000295">Mr. Joyce</cosponsor>, and <cosponsor name-id="M001180">Mr. McKinley</cosponsor></action-desc>
+</action>
+<action> 
+<action-date date="20150224">February 24, 2015</action-date> 
+<action-desc>Reported with amendments, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action-desc> 
+<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction> 
+<action-instruction>For text of introduced bill, see copy of bill as introduced on January 8, 2015</action-instruction> 
+</action> 
+<action display="yes"> 
+<action-desc display="yes"><pagebreak/></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To amend the Safe Drinking Water Act to provide for the assessment and management of the risk of cyanotoxins in drinking water, and for other purposes.<pagebreak/></official-title> 
+</form> 
+<legis-body display-enacting-clause="yes-display-enacting-clause" changed="added" style="OLC" committee-id="HIF00" reported-display-style="italic" id="H42DC09AB2BFE42AE9908693DFB5D3538"> 
+<section id="H1A880608A7904021801F7B2B6AB4BB53" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Drinking Water Protection Act</short-title></quote>. </text></section> <section id="H2B43C03029254862BE7150B091BF5264"><enum>2.</enum><header>Amendment to the Safe Drinking Water Act</header> <subsection id="H5D2FB6C68D7A421CB945E17550836863"><enum>(a)</enum><header>Amendment</header><text display-inline="yes-display-inline">At the end of part E of the Safe Drinking Water Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300j">42 U.S.C. 300j et seq.</external-xref>) add the following new section: </text> 
+<quoted-block style="OLC" id="HD67CA4E3AF1F4B13A04A9F155F500528" display-inline="no-display-inline"> 
+<section id="HC7FF608E23674026803F75FEA4C828C1"><enum>1459.</enum><header>Algal toxin risk assessment and management<editorial></editorial></header> 
+<subsection id="H0B102096E9954EF59E903C83C2B26D2E"><enum>(a)</enum><header>Strategic plan</header> 
+<paragraph id="H98145A0A22664B799CE71521109AD5D7"><enum>(1)</enum><header>Development</header><text>Not later than 90 days after the date of enactment of this section, the Administrator shall develop and submit to Congress a strategic plan for assessing and managing risks associated with algal toxins in drinking water provided by public water systems. The strategic plan shall include steps and timelines to—</text> <subparagraph id="H67561FF42B0245B9B9582A650BA0E4D4"><enum>(A)</enum><text>evaluate the risk to human health from drinking water provided by public water systems contaminated with algal toxins;</text></subparagraph> 
+<subparagraph id="H0F71A9EB7B424930A2202803DE9981ED" commented="no"><enum>(B)</enum><text display-inline="yes-display-inline">establish, publish, and update a comprehensive list of algal toxins which the Administrator determines may have an adverse effect on human health when present in drinking water provided by public water systems, taking into account likely exposure levels;</text></subparagraph> <subparagraph id="H35C01222760942B3A104D1C5C76CE5AA"><enum>(C)</enum><text>summarize—</text> 
+<clause id="H06D39BE1AFC14D7AAC52112B2ADFBE53"><enum>(i)</enum><text>the known adverse human health effects of algal toxins included on the list published under subparagraph (B) when present in drinking water provided by public water systems; and</text></clause> <clause id="H6BC8396310F943D6A28FAF2A73C157B6"><enum>(ii)</enum><text display-inline="yes-display-inline">factors that cause toxin-producing cyanobacteria and algae to proliferate and express toxins;</text></clause></subparagraph> 
+<subparagraph id="H03F6205E02A24E65922DCFB4556BDB81"><enum>(D)</enum><text display-inline="yes-display-inline">with respect to algal toxins included on the list published under subparagraph (B), determine whether to—</text> <clause id="HE6BA87B4692E43ABA5033DFDB4B5D9E7" commented="no"><enum>(i)</enum><text display-inline="yes-display-inline">publish health advisories pursuant to section 1412(b)(1)(F) for such algal toxins in drinking water provided by public water systems;</text></clause> 
+<clause id="H767AEEFB4FC34D5BB04EA9D2153318E5"><enum>(ii)</enum><text>establish guidance regarding feasible analytical methods to quantify the presence of algal toxins; and</text></clause> <clause id="H933712CBC81E4DC2856716D5B9531DFF"><enum>(iii)</enum><text display-inline="yes-display-inline">establish guidance regarding the frequency of monitoring necessary to determine if such algal toxins are present in drinking water provided by public water systems; </text></clause></subparagraph> 
+<subparagraph id="H5DFEBA143D9E40999647551C0F2DB181" commented="no"><enum>(E)</enum><text display-inline="yes-display-inline">recommend feasible treatment options, including procedures, equipment, and source water protection practices, to mitigate any adverse public health effects of algal toxins included on the list published under subparagraph (B); and</text></subparagraph> <subparagraph id="HF415C8B7454A45869F6A6618D84A9EF4" commented="no"><enum>(F)</enum><text display-inline="yes-display-inline">enter into cooperative agreements with, and provide technical assistance to, affected States and public water systems, as identified by the Administrator, for the purpose of managing risks associated with algal toxins included on the list published under subparagraph (B).</text></subparagraph></paragraph> 
+<paragraph id="HED9607B7F4DB4D47AD73412FB1EB0C3E"><enum>(2)</enum><header>Updates</header><text display-inline="yes-display-inline">The Administrator shall, as appropriate, update and submit to Congress the strategic plan developed under paragraph (1).</text></paragraph></subsection> <subsection id="H80DABA4E57C8423B964C9CBF6836B57E"><enum>(b)</enum><header>Information coordination</header><text display-inline="yes-display-inline">In carrying out this section the Administrator shall—</text> 
+<paragraph id="H434288FCDC134DCD9DC29B4641C19701"><enum>(1)</enum><text>identify gaps in the Agency’s understanding of algal toxins, including—</text> <subparagraph id="HD55FA75BF63344018BF81D9CBE813220"><enum>(A)</enum><text display-inline="yes-display-inline">the human health effects of algal toxins included on the list published under subsection (a)(1)(B); and</text></subparagraph> 
+<subparagraph id="HA14B7C81A7BC4BB792EE9406AFB5A6F0"><enum>(B)</enum><text>methods and means of testing and monitoring for the presence of harmful algal toxins in source water of, or drinking water provided by, public water systems;</text></subparagraph></paragraph> <paragraph id="HBA558CE027634A8C8AD8E28BE43A5AFA"><enum>(2)</enum><text>as appropriate, consult with—</text> 
+<subparagraph id="HF9D6B20D06434F94B9C9C3A14B167E12"><enum>(A)</enum><text display-inline="yes-display-inline">other Federal agencies that—</text> <clause id="H293420869B9145F19FA58BA7A5B1DBBD"><enum>(i)</enum><text>examine or analyze cyanobacteria or algal toxins; or </text></clause> 
+<clause id="H4DC29FC690354A718F89466E6D5D4870"><enum>(ii)</enum><text>address public health concerns related to harmful algal blooms;</text></clause></subparagraph> <subparagraph id="H89197F3303C64789BA4D263E5424E2F1"><enum>(B)</enum><text>States; </text></subparagraph> 
+<subparagraph id="H36B6137139B24892AF326BBD1D42E674"><enum>(C)</enum><text>operators of public water systems;</text></subparagraph> <subparagraph id="H0E35C3B66F7A4215B046B406FB44ED4E"><enum>(D)</enum><text>multinational agencies;</text></subparagraph> 
+<subparagraph id="HA14EB2ABDE7341519741EEE19330F054"><enum>(E)</enum><text>foreign governments; </text></subparagraph> <subparagraph id="H080712FC7A7D4BE2908699762DA96DA8"><enum>(F)</enum><text>research and academic institutions; and</text></subparagraph> 
+<subparagraph id="HE25A115C08A94C0F80CB54CC54E468E7" commented="no"><enum>(G)</enum><text>companies that provide relevant drinking water treatment options; and</text></subparagraph></paragraph> <paragraph id="HE8F9E12C021344F698F518A4BB6BC05F"><enum>(3)</enum><text>assemble and publish information from each Federal agency that has—</text> 
+<subparagraph id="HAEA175717A6949699BE5DD8C590F56FF"><enum>(A)</enum><text>examined or analyzed cyanobacteria or algal toxins; or</text></subparagraph> <subparagraph id="H51505C8252A74832B5B10F1AC43DB4B3"><enum>(B)</enum><text>addressed public health concerns related to harmful algal blooms.</text></subparagraph></paragraph></subsection> 
+<subsection id="H95C0F4A0CE704A38A0DBE1C9AA80E723"><enum>(c)</enum><header>Use of science</header><text display-inline="yes-display-inline">The Administrator shall carry out this section in accordance with the requirements described in section 1412(b)(3)(A), as applicable.</text></subsection> <subsection id="H242F00755E1449CFA948B07B5A0F8B6F"><enum>(d)</enum><header>Feasible</header><text>For purposes of this section, the term <term>feasible</term> has the meaning given such term in section 1412(b)(4)(D).</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="H763EC38184124D29AC8E46E0DA932719"><enum>(b)</enum><header>Report to Congress</header><text>Not later than 90 days after the date of enactment of this Act, the Comptroller General of the United States shall prepare and submit to Congress a report that includes—</text> <paragraph id="H41B57590AC6C403987C179AF9D1573A0"><enum>(1)</enum><text>an inventory of funds—</text> 
+<subparagraph id="HDF11C7F0E1EC48B789329E7A3D8A58D2"><enum>(A)</enum><text display-inline="yes-display-inline">expended by the United States, for each of fiscal years 2010 through 2014, to examine or analyze toxin-producing cyanobacteria and algae or address public health concerns related to harmful algal blooms; and</text></subparagraph> <subparagraph id="H547F1B37FC904D3EB6461712C3E1CF3F"><enum>(B)</enum><text>that includes the specific purpose for which the funds were made available, the law under which the funds were authorized, and the Federal agency that received or spent the funds; and</text></subparagraph></paragraph> 
+<paragraph id="H013D0028D72B4DC6B22AC8CD732F46A2" display-inline="no-display-inline"><enum>(2)</enum><text>recommended steps to reduce any duplication, and improve interagency coordination, of such expenditures.<pagebreak/></text></paragraph></subsection></section> </legis-body><official-title-amendment>Amend the title so as to read: <quote>A bill to amend the Safe Drinking Water Act to provide for the assessment and management of the risk of algal toxins in drinking water, and for other purposes.</quote>.</official-title-amendment> <endorsement display="yes"> <action-date date="20150224">February 24, 2015</action-date> <action-desc>Reported with amendments, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action-desc></endorsement> </bill> 
+

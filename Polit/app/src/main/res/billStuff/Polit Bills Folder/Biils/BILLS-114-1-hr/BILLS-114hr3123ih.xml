@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H228E44F5278441FB9CDB8A4B64EAFFF7" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3123 IH: Tax Credit Accountability Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3123</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150721">July 21, 2015</action-date>
+			<action-desc><sponsor name-id="C001093">Mr. Collins of Georgia</sponsor> (for himself, <cosponsor name-id="F000460">Mr. Farenthold</cosponsor>, and <cosponsor name-id="C001103">Mr. Carter of Georgia</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to prohibit aliens in an unlawful immigration status
+			 from claiming the earned income tax credit.</official-title>
+	</form>
+	<legis-body id="H1C8B32E77E2C49D4BA972EB47E77534E" style="OLC">
+ <section id="H90BFB36397D84063AB8AF3041796DFBD" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Tax Credit Accountability Act of 2015</short-title></quote>.</text> </section><section id="HCECBF54090024E82BDB16193FEDA87EE"><enum>2.</enum><header>Disallowing earned income tax credit for aliens in unlawful immigration status</header> <subsection id="H67B832C54D7B40ED92E391FA78928446"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/32">Section 32(c)(1)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="HBC67D80F65DC4B328D8A809A40A8F00C" style="OLC">
+ <subparagraph id="HA436871C2078469EAFAB020B72218D23"><enum>(G)</enum><header>Exception for aliens in unlawful immigration status</header><text display-inline="yes-display-inline">The term <term>eligible individual</term> does not include any alien individual who, at any point during the taxable year, is in an unlawful immigration status.</text>
+					</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H215EC77D222B4357AF4BB74DFB6EA852"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to—</text> <paragraph id="H7E7D6CD5A762439697AA52B35969DDCA"><enum>(1)</enum><text>any return of tax which is filed after the date of the enactment of this Act, and</text>
+ </paragraph><paragraph id="HAD55BD6B22C4441D8734AE893CF7C232"><enum>(2)</enum><text>any amendment or supplement (to any return of tax) which is filed after such date (without regard to the date on which the return of tax is filed).</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HE87CAEB512DD4C5CADD242F6B421148E" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4000 IH: Ozone National Ambient Air Quality Standard Deadline Harmonization Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4000</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151116">November 16, 2015</action-date>
+			<action-desc><sponsor name-id="F000461">Mr. Flores</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To harmonize requirements of the 2008 and 2015 ozone national ambient air quality standards, and
+			 for other purposes.</official-title>
+	</form>
+	<legis-body id="H19303AB8F78341B78D7B06FC35FC5AA0" style="OLC">
+ <section id="H51C672E7EBFB4E3FA9CCC8948B5A18D5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ozone National Ambient Air Quality Standard Deadline Harmonization Act of 2015</short-title></quote>.</text> </section><section id="H984455AC8A814B7C850355D7CFAA7CAF"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">The Congress finds the following:</text>
+ <paragraph id="H368E6FAF5220471295FA4C29A64D0948"><enum>(1)</enum><text>Ozone precursor emissions have been reduced by over 50 percent since 1980, resulting in a 33-percent improvement of ozone air quality. The Environmental Protection Agency projects this improvement will continue even under rules and programs already in place.</text>
+ </paragraph><paragraph id="HB6946E6811BA4744B3D117C556BB945D"><enum>(2)</enum><text>States are just beginning to implement the 2008 ozone standards, for which the Environmental Protection Agency published State implementation plan requirements on February 13, 2015. Notwithstanding this delayed implementation of the 2008 ozone standards, the Environmental Protection Agency published the 2015 ozone standards on October 26, 2015.</text>
+ </paragraph><paragraph id="H3EEEA7939E014AEDB84279F5B0BCFCE7"><enum>(3)</enum><text>With publication of the 2015 ozone standards so early in the implementation of the 2008 ozone standards, States face the prospect of simultaneously implementing two national ambient air quality standards for ozone.</text>
+ </paragraph><paragraph id="HB5D232D934E84985ACCDFEEA4118FF2A"><enum>(4)</enum><text>In addition, counties face severe statutorily imposed consequences if designated as nonattainment or for failing to meet attainment deadlines, even if those counties would ultimately achieve attainment with no further action.</text>
+ </paragraph><paragraph id="H448464C0EBF34B328BB539E58E619EFD"><enum>(5)</enum><text>If the 2008 and 2015 ozone standards implementation schedules are not harmonized, already strained State resources will be burdened by overlapping implementation schedules, and counties that are projected to achieve necessary air quality improvements will face significant and permanent sanctions.</text>
+			</paragraph></section><section id="H4C95B8D923D04AA9B24B40331ABEC35B"><enum>3.</enum><header>Ozone standards implementation schedule harmonization</header>
+ <subsection id="HD4798D974D1A42F28330CB112956D445"><enum>(a)</enum><header>Designation submission</header><text display-inline="yes-display-inline">Not later than October 26, 2024, the Governor of each State shall designate in accordance with section 107(d) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7407">42 U.S.C. 7407(d)</external-xref>) all areas (or portions thereof) of the Governor's State as attainment, nonattainment, or unclassifiable with respect to the 2015 ozone standards.</text>
+ </subsection><subsection id="HC173E304B20946709C0A74FFE3ED73BD"><enum>(b)</enum><header>Designation promulgation</header><text display-inline="yes-display-inline">Not later than October 26, 2025, the Administrator shall promulgate final designations under section 107(d) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7407">42 U.S.C. 7407(d)</external-xref>) for all areas in all States with respect to the 2015 ozone standards, including any modifications to the designations submitted under subsection (a).</text>
+ </subsection><subsection id="HEEBB46E5C6E74B229A390F094138C9D1"><enum>(c)</enum><header>State implementation plans</header><text display-inline="yes-display-inline">Not later than October 26, 2026, notwithstanding the deadline specified in section 110(a)(1) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7410">42 U.S.C. 7410(d)(1)</external-xref>), each State shall submit the plan required by such section 110(a)(1) for the 2015 ozone standards.</text>
+			</subsection></section><section id="H8DD46526B28C44BDBF3B631AA18DEF3A"><enum>4.</enum><header>Certain preconstruction permits<editorial></editorial></header>
+ <subsection commented="no" id="HCE5FACBF64A5430CB40278C5864FEAE2"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The 2015 ozone standards shall not apply to the review and disposition of a preconstruction permit application if—</text>
+ <paragraph id="H8913AF0AF56747DAB97DD8B87D58AD9C"><enum>(1)</enum><text display-inline="yes-display-inline">the Administrator or the State, local, or tribal permitting authority, as applicable, determines the application to be complete on or before the date of promulgation of final designations under section 3(b); or</text>
+ </paragraph><paragraph id="H6A0397737DAA4B4E94D47D779ECD3FB8"><enum>(2)</enum><text display-inline="yes-display-inline">the Administrator or the State, local, or tribal permitting authority, as applicable, publishes a public notice of a preliminary determination or draft permit for the application before the date that is 60 days after the date of promulgation of final designations under section 3(b).</text>
+ </paragraph></subsection><subsection id="H6C07442DC6A5448681B0C47D5DB01B91"><enum>(b)</enum><header>Rules of construction</header><text>Nothing in this section shall be construed to—</text> <paragraph id="H233B4EA621C843D99BEB51FDC681A9C3"><enum>(1)</enum><text>eliminate the obligation of a preconstruction permit applicant to install best available control technology and lowest achievable emissions rate technology, as applicable; or</text>
+ </paragraph><paragraph id="H4E5641C5B7C349EDA041B39E8D4D2FF4"><enum>(2)</enum><text display-inline="yes-display-inline">limit the authority of a State, local, or tribal permitting authority to impose more stringent emissions requirements pursuant to State, local, or tribal law than Federal national ambient air quality standards established by the Environmental Protection Agency.</text>
+				</paragraph></subsection></section><section id="H36986D1132384A7794FF7A0AFB321D58"><enum>5.</enum><header>Adjustment of 5-year review cycle</header>
+ <subsection id="H1C09C07C562F49F1805E71F467ABE845"><enum>(a)</enum><header>10-Year cycle for all criteria air pollutants</header><text display-inline="yes-display-inline">Paragraphs (1) and (2)(B) of section 109(d) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7409">42 U.S.C. 7409(d)</external-xref>) are amended by striking <quote>five-year intervals</quote> each place it appears and inserting <quote>ten-year intervals</quote>.</text>
+ </subsection><subsection id="HFF247B378C4E429DB8C132E3E3B590F0"><enum>(b)</enum><header>Cycle for next review of ozone criteria and standards</header><text display-inline="yes-display-inline">Notwithstanding section 109(d) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7409">42 U.S.C. 7409(d)</external-xref>), the Administrator of the Environmental Protection Agency shall not—</text>
+ <paragraph id="H2BDF2994FF4141948E8BD1084E0A01A0"><enum>(1)</enum><text>complete, before October 26, 2025, any review of the criteria for ozone published under section 108 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7408">42 U.S.C. 7408</external-xref>) or the national ambient air quality standard for ozone promulgated under section 109 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7409">42 U.S.C. 7409</external-xref>); or</text>
+ </paragraph><paragraph id="H28468D70A0E3410DAF46D64AEA8E3817"><enum>(2)</enum><text>propose, before such date, any revisions to such criteria or standards.</text> </paragraph></subsection></section><section id="HE1B7AE239DA04EC3B5DFE1E91132CC53"><enum>6.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text>
+ <paragraph id="HEC38C530573E4451937AEEDDD820C07F"><enum>(1)</enum><text>The term <term>2008 ozone standards</term> means the national ambient air quality standards for ozone published in the Federal Register on March 27, 2008 (73 Fed. Reg. 16436).</text>
+ </paragraph><paragraph id="HE3F5D39CC4A24470BC34C0567C4034A6"><enum>(2)</enum><text>The term <term>2015 ozone standards</term> means the national ambient air quality standards for ozone published in the Federal Register on October 26, 2015 (80 Fed. Reg. 65292).</text>
+ </paragraph><paragraph id="H7D589077DBEC4CFAA5801F7085A3BA60"><enum>(3)</enum><text>The term <term>Administrator</term> means the Administrator of the Environmental Protection Agency.</text> </paragraph><paragraph id="H3353FA5B71314EBBACDA9E63D347A689"><enum>(4)</enum><text>The term <term>best available control technology</term> has the meaning given to that term in section 169(3) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7479">42 U.S.C. 7479(3)</external-xref>).</text>
+ </paragraph><paragraph id="HC0BF91040E4C45FAAD7F55F85BFED68A"><enum>(5)</enum><text>The term <term>lowest achievable emissions rate</term> has the meaning given to that term in section 171(3) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7501">42 U.S.C. 7501(3)</external-xref>).</text> </paragraph><paragraph id="H763CE1F9061A4CFBB7F15EB190027406"><enum>(6)</enum><text>The term <term>preconstruction permit</term>—</text>
+ <subparagraph id="H47598D52B2A3423B895D6CD6F9E9D9C3"><enum>(A)</enum><text>means a permit that is required under part C or D of title I of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7470">42 U.S.C. 7470 et seq.</external-xref>) for the construction or modification of a major emitting facility or major stationary source; and</text>
+ </subparagraph><subparagraph id="H7B93472218444421A98E55784BD93306"><enum>(B)</enum><text>includes any such permit issued by the Environmental Protection Agency or a State, local, or tribal permitting authority.</text>
+				</subparagraph></paragraph></section></legis-body>
+</bill>
+
+

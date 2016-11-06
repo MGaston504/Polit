@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H00C9B6A30FA54609871B382D1DBBF659" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3765 IH: ADA Education and Reform Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3765</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151020">October 20, 2015</action-date>
+			<action-desc><sponsor name-id="P000592">Mr. Poe of Texas</sponsor> (for himself, <cosponsor name-id="C001093">Mr. Collins of Georgia</cosponsor>, and <cosponsor name-id="J000296">Mr. Jolly</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Americans with Disabilities Act of 1990 to promote compliance through education, to
+			 clarify the requirements for demand letters, to provide for a notice and
+			 cure period before the commencement of a private civil action, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body id="H679DB0D6A3414CEE9E32D32E57CCB582" style="OLC">
+ <section id="H2B1530DA7CD743A194FD7C1D778F3027" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>ADA Education and Reform Act of 2015</short-title></quote>.</text> </section><section id="H719D3CC1F5FD4A14A644599DEBC19A08"><enum>2.</enum><header>Compliance through education</header><text display-inline="no-display-inline">Based on existing funding, the Disability Rights Section of the Department of Justice shall, in consultation with property owners and representatives of the disability rights community, develop a program to educate State and local governments and property owners on effective and efficient strategies for promoting access to public accommodations for persons with a disability (as defined in section 3 of the Americans with Disabilities Act (<external-xref legal-doc="usc" parsable-cite="usc/42/12102">42 U.S.C. 12102</external-xref>)). Such program may include training for professionals such as Certified Access Specialists to provide a guidance of remediation for potential violations of the Americans with Disabilities Act.</text>
+ </section><section id="H48FBB35FF5C6437987F464497D44A843"><enum>3.</enum><header>Unfair and deceptive acts and practices relating to ADA compliance demand letters</header><text display-inline="no-display-inline">It shall be unlawful for any person to send or otherwise transmit a demand letter or other form of pre-suit notification alleging a violation of section 302 or 303 of the Americans with Disabilities Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/29/12182">29 U.S.C. 12182</external-xref>; 12183) if such letter or communication does not specify in detail the circumstances under which an individual was actually denied access to a public accommodation, including the address of property, the specific sections of the Americans with Disabilities Act alleged to have been violated, whether a request for assistance in removing an architectural barrier to access was made, and whether the barrier to access was a permanent or temporary barrier. Any person who violates this section shall be fined under title 18, United States Code.</text>
+ </section><section id="H5F30FDE1DB7948BC84EC4A6E1048190F"><enum>4.</enum><header>Notice and cure period</header><text display-inline="no-display-inline">Paragraph (1) of section 308(a) of the Americans with Disabilities Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/42/12188">42 U.S.C. 12188(a)(1)</external-xref>) is amended to read as follows:</text>
+			<quoted-block id="H8A364DCA7291499C82111C9DA31F51D3" style="OLC">
+				<paragraph id="HDF0BD45A20614282B1A01D25F006BCBC"><enum>(1)</enum><header>Availability of remedies and procedures</header>
+ <subparagraph id="H2AFA2E8A462344D39DFC31FAF9EF65AC"><enum>(A)</enum><header>In general</header><text>Subject to subparagraph (B), the remedies and procedures set forth in section 204(a) of the Civil Rights Act of 1964 (<external-xref legal-doc="usc" parsable-cite="usc/42/2000a-3">42 U.S.C. 2000a–3(a)</external-xref>) are the remedies and procedures this title provides to any person who is being subjected to discrimination on the basis of disability in violation of this title or who has reasonable grounds for believing that such person is about to be subjected to discrimination in violation of section 303. Nothing in this section shall require a person with a disability to engage in a futile gesture if such person has actual notice that a person or organization covered by this title does not intend to comply with its provisions.</text>
+ </subparagraph><subparagraph id="H4EB53CAA7BC4478185E8CF2640D4FC48"><enum>(B)</enum><header>Barriers to access to existing public accommodations</header><text>A civil action under section 302 or 303 based on the failure to remove an architectural barrier to access into an existing public accommodation may not be commenced by a person aggrieved by such failure unless—</text>
+ <clause id="H68DD4A1C6D834A7BB56400F17C4442FF"><enum>(i)</enum><text>that person has provided to the owner or operator of the accommodation a written notice specific enough to allow such owner or operator to identify the barrier; and</text>
+						</clause><clause display-inline="no-display-inline" id="HDE09E0870E024B9CA2F742BB2EDC8EA3"><enum>(ii)</enum>
+ <subclause commented="no" display-inline="yes-display-inline" id="H4E7A2E8634704267BBC384071596DC6D"><enum>(I)</enum><text>during the period beginning on the date the notice is received and ending 60 days after that date, the owner or operator fails to provide to that person a written description outlining improvements that will be made to remove the barrier; or</text>
+ </subclause><subclause display-inline="no-display-inline" id="H9A07FC8CED7E4C5D8005E1BAED8FE3B4" indent="up1"><enum>(II)</enum><text display-inline="yes-display-inline">if the owner or operator provides the written description under subclause (I), the owner or operator fails to remove the barrier or to make substantial progress in removing the barrier during the period beginning on the date the description is provided and ending 120 days after that date.</text></subclause></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="H339FE45312B243E28CD5158C2F34E070"><enum>5.</enum><header>Mediation for ADA actions related to architectural barriers</header><text display-inline="no-display-inline">The Judicial Conference of the United States shall, under rule 16 of the Federal Rules of Civil Procedure or any other applicable law, in consultation with property owners and representatives of the disability rights community, develop a model program to promote the use of alternative dispute resolution mechanisms, including a stay of discovery during mediation, to resolve claims of architectural barriers to access for public accommodations. To the extent practical, the Federal Judicial Center should provide a public comment period on any such proposal. The goal of the model program shall be to promote access quickly and efficiently without the need for costly litigation. The model program should include an expedited method for determining the relevant facts related to such barriers to access and steps taken before the commencement of litigation to resolve any issues related to access.</text>
+ </section><section id="HBAD5EDC604164A02BF8277E39CCC583F"><enum>6.</enum><header>Effective date</header><text display-inline="no-display-inline">This Act and the amendments made by this Act take effect 30 days after the date of the enactment of this Act.</text>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB7BE0CFC562B4A6591AA7C61D10B4446" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1946 IH: Green 301 Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1946</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150422">April 22, 2015</action-date>
+			<action-desc><sponsor name-id="B000574">Mr. Blumenauer</sponsor> (for himself, <cosponsor name-id="K000188">Mr. Kind</cosponsor>, <cosponsor name-id="N000015">Mr. Neal</cosponsor>, <cosponsor name-id="T000460">Mr. Thompson of California</cosponsor>, <cosponsor name-id="L000557">Mr. Larson of Connecticut</cosponsor>, <cosponsor name-id="M000404">Mr. McDermott</cosponsor>, <cosponsor name-id="R000053">Mr. Rangel</cosponsor>, <cosponsor name-id="P000096">Mr. Pascrell</cosponsor>, <cosponsor name-id="S001156">Ms. Linda T. Sánchez of California</cosponsor>, and <cosponsor name-id="D000598">Mrs. Davis of California</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Trade Act of 1974 to authorize the United States Trade Representative to take
+			 discretionary action if a foreign country is engaging in unreasonable
+			 acts, policies, or practices relating to the environment, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="H28D31BBE684C47B5BCF8728706093DC8" style="OLC">
+ <section id="H6A2710F8EAA34F29A91F6CC5F8DD6046" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Trade and Environment Enforcement Act</short-title></quote> or <quote>Green 301 Act</quote>.</text> </section><section id="H3E22B7128CCD4AB08FEF0E66443A343F"><enum>2.</enum><header>Environmental protection in trade relations</header><text display-inline="no-display-inline">Section 301(d)(3)(B) of the Trade Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/19/2411">19 U.S.C. 2411(d)(3)(B)</external-xref>) is amended—</text>
+ <paragraph id="H353E4EC2D34E46C68D0EDC30C8F28478"><enum>(1)</enum><text>in clause (ii), by striking <quote>or</quote> at the end;</text> </paragraph><paragraph id="H06D6A32388324671A621D101B947E384"><enum>(2)</enum><text>in clause (iii)(V), by striking the period at the end and inserting <quote>, or</quote>; and</text>
+ </paragraph><paragraph id="HC1B02ACFB2184261B74A024D0CF46DAC"><enum>(3)</enum><text>by adding at the end the following new clause:</text> <quoted-block display-inline="no-display-inline" id="H9365709000B44B21A4CC3DE271633587" style="OLC"> <clause id="H532CE030D2234A1B8DC8A61634B07F62"><enum>(iv)</enum><text>constitutes a persistent pattern of conduct that—</text>
+ <subclause id="H2BB09C0FB3144E2C9B1888A5EB9E8858"><enum>(I)</enum><text>fails to effectively enforce the environmental laws of a foreign country;</text> </subclause><subclause id="HC9BA80491AA844EC9A7DE1FF876A3F47"><enum>(II)</enum><text>waives or otherwise derogates from the environmental laws of a foreign country or weakens the protections afforded by such laws;</text>
+ </subclause><subclause id="H70BE48C3D7EE4CBAAADC31D751D688D8"><enum>(III)</enum><text>fails to provide for judicial or administrative proceedings giving access to remedies for violations of the environmental laws of a foreign country;</text>
+ </subclause><subclause id="H80E417E6068A4733961FC29F6ECA5F3C"><enum>(IV)</enum><text>fails to provide appropriate and effective sanctions or remedies for violations of the environmental laws of a foreign country; or</text>
+ </subclause><subclause id="HB09A5F1443F1438EB5F03182516670F2"><enum>(V)</enum><text display-inline="yes-display-inline">fails to implement environmental commitments in agreements to which a foreign country and the United States are a party.</text></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="H4BF40599066C41E6BD8F296F50D5DBD1"><enum>3.</enum><header>Identification of foreign country trade practices that negatively affect the environment</header>
+ <subsection id="HD82BA3C386F2400888C63B5125A7BEE8"><enum>(a)</enum><header>In general</header><text>Chapter 1 of title III of the Trade Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/19/2411">19 U.S.C. 2411 et seq.</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block id="H66925DDE1034452D9DD7395EB0400408" style="OLC">
+					<section id="H3FABC76BF89B4ECC83770D6CBE39695C"><enum>311.</enum><header>Identification of foreign country trade practices that negatively affect the environment</header>
+						<subsection id="H8808F8C118FB4EF88DC4F28DCAC0AD99"><enum>(a)</enum><header>Identification</header>
+ <paragraph id="HF07BF95AA9A74453A0E216525A4B791A"><enum>(1)</enum><header>In general</header><text>The Trade Representative shall identify those foreign country trade practices that cause negative environmental impacts on the protection of human, animal, or plant life or health, or the conservation of exhaustible natural resources in the United States, the foreign country, a third country, or internationally.</text>
+ </paragraph><paragraph id="H981F9DF491BC41778764EFB2AC7FD9A6"><enum>(2)</enum><header>Factors</header><text>In identifying foreign country trade practices under paragraph (1), the Trade Representative shall take into account all relevant factors, including—</text>
+ <subparagraph id="H8ACA708FB69D4417B56196A9571C212E"><enum>(A)</enum><text>the strength of the connection between trade and the negative environmental impact;</text> </subparagraph><subparagraph id="H88AEB9A6D4084B4E81C01E442D25F0D8"><enum>(B)</enum><text>the significance of the negative environmental impact on the protection of human, animal or plant life or health, or the conservation of exhaustible natural resources; and</text>
+ </subparagraph><subparagraph id="H67125C437AC142D8848982DF6E80D24E"><enum>(C)</enum><text>the costs and benefits of mitigating the negative environmental impact through the remedies described in this section.</text>
+ </subparagraph></paragraph><paragraph id="HA7F35A4A7CFF4B3D98A37BC02EC5BCC3"><enum>(3)</enum><header>Consultation</header><text>In identifying foreign country trade practices under paragraph (1), the Trade Representative shall provide the opportunity for input by and consultation with interested persons, including private or nongovernmental organizations working towards environmental protection or conservation, domestic industrial users of any goods that may be affected by this section, and appropriate Federal departments and agencies.</text>
+							</paragraph></subsection><subsection id="H9A30DFE66A8D4179898DE74039BDC5BE"><enum>(b)</enum><header>Report</header>
+ <paragraph id="H0E8D5B74759E4EBFB45DC8B70AB6E522"><enum>(1)</enum><header>In general</header><text>Not later than 270 days after the date of submission of a report under section 181(b) of this Act, and every 2 years thereafter, the Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and publish in the Federal Register a report on the foreign country trade practices identified under subsection (a).</text>
+ </paragraph><paragraph id="H06D733A0DDEB481AAA87789F3583D383"><enum>(2)</enum><header>Matters to be included</header><text>The Trade Representative may include in the report, if appropriate—</text> <subparagraph id="HC7EEFB5155D64CA3A4B70B166B2D6082"><enum>(A)</enum><text>a description of other foreign country trade practices that may in the future warrant inclusion in the report as foreign country trade practices that negatively affect the environment; and</text>
+ </subparagraph><subparagraph id="H73D19472CCE941A0BF7E2924F39E119C"><enum>(B)</enum><text>a statement regarding other foreign country trade practices that negatively affect the environment that have not been identified because they are subject to other provisions of United States trade law, existing bilateral trade agreements, or trade negotiations, and progress is being made toward the mitigation, reduction, or elimination of the negative environmental impacts of such foreign country trade practices.</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H97BA601EA90E4744B9FA31261ADD2165"><enum>(b)</enum><header>Clerical amendment</header><text display-inline="yes-display-inline">The table of contents for the Trade Act of 1974 is amended by inserting after the item relating to section 310 the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H586F58F653BC476AAF327760B059B6CA" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">Sec. 311. Identification of foreign country trade practices that negatively affect the environment.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

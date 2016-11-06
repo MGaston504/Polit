@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HAB490D2EAAF4403187CEE6129059D086" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 192 IH: Stop Handouts to Unauthorized Taxpayers Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 192</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150107">January 7, 2015</action-date>
+			<action-desc><sponsor name-id="B001257">Mr. Bilirakis</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to deny the refundable portion of the child tax credit
+			 to individuals who are not authorized to be employed in the United States
+			 and to terminate the use of certifying acceptance agents to facilitate the
+			 application process for ITINs.</official-title>
+	</form>
+	<legis-body id="H6CB833AFEDF7420DA314895AB039400E" style="OLC">
+		<section id="H3C379D39F1284777AD6FC4BF7BDF4242" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Handouts to Unauthorized Taxpayers Act of 2015</short-title></quote> or the <quote><short-title>SHUT Act of 2015</short-title></quote>.</text>
+		</section><section id="H4CE922A4968F45F7948643DAAC42012F"><enum>2.</enum><header>Denial of refundable portion of child tax credit to individuals not authorized to be employed in
+			 the united states</header>
+			<subsection id="H5BE74AAC1A4E44BB8025095915E6B8CF"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subsection (d) of <external-xref legal-doc="usc" parsable-cite="usc/26/24">section 24</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end
+			 the following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H9CE313F46B3B42B9A55F6A7016EBCF89" style="OLC">
+					<paragraph id="HFF698A05929C40D1A77D9AF5095F0FB4"><enum>(5)</enum><header>Identification requirement with respect to taxpayer</header>
+						<subparagraph id="HF15EE139A2FB4AD3BB8435A86726D7B6"><enum>(A)</enum><header>In general</header><text>Paragraph (1) shall not apply to any taxpayer for any taxable year unless the taxpayer includes the
+			 taxpayer’s social security number on the return of tax for such taxable
+			 year or otherwise demonstrates on the return that the taxpayer is
+			 authorized to be employed in the United States.</text>
+						</subparagraph><subparagraph id="HB248E5D44F5B4637B04D850E854B67F6"><enum>(B)</enum><header>Joint returns</header><text>In the case of a joint return, the requirement of subparagraph (A) shall be treated as met if
+			 either spouse meets such requirement.</text>
+						</subparagraph><subparagraph id="HCC32724BF5D44C779C441A3CC113D6CB"><enum>(C)</enum><header>Omission treated as mathematical or clerical error</header><text display-inline="yes-display-inline">Any failure to meet the requirement of subparagraph (A) shall be treated as a mathematical or
+			 clerical error and assessed according to section 6213(b)(1).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H049B8CBA9FB34A35B6443D65F974000E"><enum>(b)</enum><header>Conforming amendment</header><text>Subsection (e) of section 24 of such Code is amended by inserting <quote><header-in-text level="subsection" style="OLC">with respect to qualifying children</header-in-text></quote> after <quote><header-in-text level="subsection" style="OLC">Identification requirement</header-in-text></quote> in the heading thereof.</text>
+			</subsection><subsection id="HF127FEC930E14777B4BC180E5220A4B2"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after the date of the
+			 enactment of this Act.</text>
+			</subsection></section><section id="HCA495F05368D454E9367E9CF3DFB06FB"><enum>3.</enum><header>Termination of certifying agent program</header><text display-inline="no-display-inline">Effective on the date of the enactment of this Act, no Individual Taxpayer Identification Number
+			 may be issued by the Secretary of the Treasury (or any delegate of such
+			 Secretary) unless the supporting documentary evidence is submitted to such
+			 Secretary or any delegate of such Secretary who is an employee within the
+			 Department of the Treasury.</text>
+		</section></legis-body>
+</bill>
+
+

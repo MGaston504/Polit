@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H19AF2E952B1F41E6A5E5CF261B4DDA22" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2255 IH: To make participation in the American Community Survey voluntary, except with respect to certain basic questions, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2255</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150512">May 12, 2015</action-date> 
+<action-desc><sponsor name-id="P000592">Mr. Poe of Texas</sponsor> (for himself, <cosponsor name-id="D000615">Mr. Duncan of South Carolina</cosponsor>, <cosponsor name-id="R000409">Mr. Rohrabacher</cosponsor>, <cosponsor name-id="H001057">Mr. Huelskamp</cosponsor>, <cosponsor name-id="D000533">Mr. Duncan of Tennessee</cosponsor>, <cosponsor name-id="E000291">Mrs. Ellmers of North Carolina</cosponsor>, and <cosponsor name-id="J000290">Ms. Jenkins of Kansas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To make participation in the American Community Survey voluntary, except with respect to certain basic questions, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H5580069FE0EF4F509C1D93F56AD0B91C" style="OLC"> 
+<section id="H4ACD8C6D16D04B14AB9E1B649A3F9241" section-type="section-one"><enum>1.</enum><header>Participation in American Community Survey</header>
+<subsection id="HB8846C211EAA4F37B7A9DC3FBE798479"><enum>(a)</enum><header>Optional questions</header><text>Section 193 of title 13, United States Code, is amended by adding at the end the following: <quote>The Secretary shall include, in the instructions for completing any survey authorized under this section, a statement indicating that answering any question other than questions that solicit the information described in section 221(c)(2)(A) is optional.</quote>.</text></subsection> <subsection id="H321E5FF0794C4C44BA681BA2DB8B6727"><enum>(b)</enum><header>Refusal To participate</header><text display-inline="yes-display-inline">Section 221 of title 13, United States Code, is amended—</text>
+<paragraph id="H2ABEA491F43E4A4DB547315DAB56F17F"><enum>(1)</enum><text display-inline="yes-display-inline">in subsection (a), by striking <quote>Whoever, being over eighteen years of age,</quote> and inserting <quote>Except as provided in subsection (c), any person older than 18 years of age who</quote>; and</text></paragraph> <paragraph id="H329C66EEC7164D46BCFF881339E5D1C1"><enum>(2)</enum><text>by amending subsection (c) to read as follows:</text>
+<quoted-block display-inline="no-display-inline" id="H789B33E93C114CF390A69B02A6DC5C71" style="OLC">
+<subsection id="HE982E23CA7914ED7A0F75F39548AD1D9"><enum>(c)</enum>
+<paragraph commented="no" display-inline="yes-display-inline" id="HDCF7AB8A5BC4454BBAC1DECAA2E83506"><enum>(1)</enum><text>Notwithstanding any other provision under this title—</text> <subparagraph id="HFF67A22C6AB54135B356AA803471BE7C" indent="up1"><enum>(A)</enum><text>no person may be compelled to disclose information relative to the person's religious beliefs or to membership in a religious body; and</text></subparagraph>
+<subparagraph id="H232A51713E1B49B99AF8F9F72F5D371A" indent="up1"><enum>(B)</enum><text>except as provided in paragraph (2), no person may be fined or otherwise compelled to answer questions in connection with the survey, conducted by the Secretary of Commerce, which is commonly referred to as the <term>American Community Survey</term>.</text></subparagraph></paragraph> <paragraph id="HCD2185A61AA14641BBD1589E4BE6C994" indent="up1"><enum>(2)</enum><text>Paragraph (1)(B)—</text>
+<subparagraph id="H29854B01F72F49C594BAF17F6F761AA3"><enum>(A)</enum><text>shall not apply to any question that elicits—</text> <clause id="HB28A48484508439680E536B9855BE89D"><enum>(i)</enum><text>the name of the respondent;</text></clause>
+<clause id="H639CF64B8DF543A4A0A3BF70CEC4710B"><enum>(ii)</enum><text>contact information for the respondent;</text></clause> <clause id="HBABECA2A86074B56A87BA99EC46E5C19"><enum>(iii)</enum><text>the date of the response; or</text></clause>
+<clause id="H8BBD64FD54BA4010A83444104FA27189"><enum>(iv)</enum><text>the number of people living or staying at the same address; and</text></clause></subparagraph> <subparagraph id="HA1BD402C7EEC4E5999B1EF795827343C"><enum>(B)</enum><text>does not waive any penalty imposed for conduct described in subsection (b).</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section> 
+</legis-body> 
+</bill> 
+
+

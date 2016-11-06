@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HCB8B55D105774322BF73D5BA2038BE2F" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3035 IH: The Credit Access and Inclusion Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3035</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150713">July 13, 2015</action-date>
+			<action-desc><sponsor name-id="E000288">Mr. Ellison</sponsor> (for himself, <cosponsor name-id="F000451">Mr. Fitzpatrick</cosponsor>, <cosponsor name-id="G000553">Mr. Al Green of Texas</cosponsor>, <cosponsor name-id="P000606">Mr. Pittenger</cosponsor>, <cosponsor name-id="M001160">Ms. Moore</cosponsor>, <cosponsor name-id="R000586">Mr. Renacci</cosponsor>, <cosponsor name-id="C001083">Mr. Carney</cosponsor>, <cosponsor name-id="M001182">Mr. Mulvaney</cosponsor>, <cosponsor name-id="H000636">Mr. Hinojosa</cosponsor>, <cosponsor name-id="J000255">Mr. Jones</cosponsor>, <cosponsor name-id="R000515">Mr. Rush</cosponsor>, <cosponsor name-id="S001183">Mr. Schweikert</cosponsor>, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, and <cosponsor name-id="M001166">Mr. McNerney</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Fair Credit Reporting Act to clarify Federal law with respect to reporting certain
+			 positive consumer credit information to consumer reporting agencies, and
+			 for other purposes.</official-title>
+	</form>
+	<legis-body id="HE14C83525C4D4C5191458A85820C83D6" style="OLC">
+ <section id="H7DE2296E7ECB4555998777E063B43819" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>The Credit Access and Inclusion Act of 2015</short-title></quote>.</text> </section><section id="H90013523F18E46969C758C76A034E3AE"><enum>2.</enum><header>Positive credit reporting permitted</header><text display-inline="no-display-inline">Section 623 of the Fair Credit Reporting Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1681s-2">15 U.S.C. 1681s–2</external-xref>) is amended by adding at the end the following new subsection:</text>
+			<quoted-block display-inline="no-display-inline" id="HB7CBDC229D0C47C6B7836367213EF931" style="OLC">
+				<subsection id="H06449FF8BB52497B822253432A0BEDF7"><enum>(f)</enum><header>Full-File credit reporting</header>
+ <paragraph id="H41A1015C197947D19264A9ADFCC81DF2"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Subject to the limitation in paragraph (2) and notwithstanding any other provision of law, a person or the Secretary of Housing and Urban Development may furnish to a consumer reporting agency information relating to the performance of a consumer in making payments—</text>
+ <subparagraph id="H82A0D3E6AB79440EAA40977E17E5CB4B"><enum>(A)</enum><text>under a lease agreement with respect to a dwelling, including such a lease in which the Department of Housing and Urban Development provides subsidized payments for occupancy in a dwelling; or</text>
+ </subparagraph><subparagraph id="H457CE7FC642340C5BB424941B0FE036D"><enum>(B)</enum><text>pursuant to a contract for a utility or telecommunications service.</text> </subparagraph></paragraph><paragraph id="HC26CA5D8E3574FB39D4212C3FAFA1C69"><enum>(2)</enum><header>Limitation</header><text display-inline="yes-display-inline">Information about a consumer’s usage of any utility services provided by a utility or telecommunication firm may be furnished to a consumer reporting agency only to the extent that such information relates to payment by the consumer for the services of such utility or telecommunication service or other terms of the provision of the services to the consumer, including any deposit, discount, or conditions for interruption or termination of the services.</text>
+ </paragraph><paragraph id="HD4511686F3BC47679D597C47545CB053"><enum>(3)</enum><header>Payment plan</header><text display-inline="yes-display-inline">An energy utility firm may not report payment information to a consumer reporting agency with respect to an outstanding balance of a consumer as late if—</text>
+ <subparagraph id="H46525050D0684ADB8B9D21A165C5B9A1"><enum>(A)</enum><text>the energy utility firm and the consumer have entered into a payment plan (including a deferred payment agreement, an arrearage management program, or a debt forgiveness program) with respect to such outstanding balance; and</text>
+ </subparagraph><subparagraph id="HFC4CB2B2A22C4658A67EF75D7F863DB3"><enum>(B)</enum><text display-inline="yes-display-inline">the consumer is meeting the obligations of the payment plan, as determined by the energy utility firm.</text>
+ </subparagraph></paragraph><paragraph id="H9DFDE2490A6E4427801A46EF11D58F9D"><enum>(4)</enum><header>Definitions</header><text>In this subsection, the following definitions shall apply:</text> <subparagraph id="HAA95AF14ABE14583A1B83A073B965AA6"><enum>(A)</enum><header>Energy utility firm</header><text display-inline="yes-display-inline">The term <term>energy utility firm</term> means an entity that provides gas or electric utility services to the public.</text>
+ </subparagraph><subparagraph id="H9CCC61BF7C854CBFBA033944CD8FCEA3"><enum>(B)</enum><header>Utility or telecommunication firm</header><text>The term <term>utility or telecommunication firm</term> means an entity that provides utility services to the public through pipe, wire, landline, wireless, cable, or other connected facilities, or radio, electronic, or similar transmission (including the extension of such facilities).</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

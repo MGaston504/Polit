@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HDC3202F660314BF5BB55D812F99F241A" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1531 IH: Land Management Workforce Flexibility Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1531</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150323">March 23, 2015</action-date>
+			<action-desc><sponsor name-id="C001078">Mr. Connolly</sponsor> (for himself, <cosponsor name-id="Y000033">Mr. Young of Alaska</cosponsor>, and <cosponsor name-id="B001250">Mr. Bishop of Utah</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 5, United States Code, to provide a pathway for temporary seasonal employees in
+			 Federal land management agencies to compete for vacant permanent positions
+			 under internal merit promotion procedures, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HC7286080F3784D34A24D60F41ABAB36B" style="OLC">
+ <section id="H5A4A7E43C3E545DCB98C4010367C1C54" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Land Management Workforce Flexibility Act</short-title></quote>.</text> </section><section id="HC5EC6C6887184E0DBE43325FF3D0E4C7"><enum>2.</enum><header>Personnel flexibilities relating to land management agencies</header> <subsection id="H446D1C5D0CF24A8E92B95F9175D5741D"><enum>(a)</enum><header>In general</header><text>Subpart I of part III of title 5, United States Code, is amended by inserting after chapter 95 the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H3EF29DFB956E4BF79DF8DD2880D4DE0A" style="USC">
+					<chapter id="H7ECEF49CA59641CEAFE8FF8D67F003A7"><enum>96</enum><header>Personnel Flexibilities Relating to Land Management Agencies</header>
+						<toc container-level="chapter-container" idref="H7ECEF49CA59641CEAFE8FF8D67F003A7" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+							<toc-entry level="section">Sec.</toc-entry>
+							<toc-entry idref="HBACF36F40F914A9CB5BA0A6E1DA3E066" level="section">9601. Definitions.</toc-entry>
+							<toc-entry idref="HA828F55CCE4A4A92BE772FF1A8DF202A" level="section">9602. Competitive service; time-limited appointments.</toc-entry>
+						</toc>
+ <section id="HBACF36F40F914A9CB5BA0A6E1DA3E066"><enum>9601.</enum><header>Definitions</header><text display-inline="no-display-inline">For purposes of this chapter—</text> <paragraph id="H07C8BD9E75F7417690D5018934FB3F19"><enum>(1)</enum><text>the term <quote>land management agency</quote> means—</text>
+ <subparagraph id="H57FE0DA9027C48A5B997CA9B164E59E5"><enum>(A)</enum><text>the Forest Service of the Department of Agriculture;</text> </subparagraph><subparagraph id="H8997D773D58E45AE99892AA91378543B"><enum>(B)</enum><text>the Bureau of Land Management of the Department of the Interior;</text>
+ </subparagraph><subparagraph id="H37B39C7338104F11941806CD2412B414"><enum>(C)</enum><text>the National Park Service of the Department of the Interior;</text> </subparagraph><subparagraph id="HBAA9F0B33A9F4295860B67BEF839A9F8"><enum>(D)</enum><text>the Fish and Wildlife Service of the Department of the Interior;</text>
+ </subparagraph><subparagraph id="H282859871DF44EBE92BAB7BA0FFC52CE"><enum>(E)</enum><text>the Bureau of Indian Affairs of the Department of the Interior; and</text> </subparagraph><subparagraph id="HFA924B15880845FDB9489FB23BF6CAFC"><enum>(F)</enum><text>the Bureau of Reclamation of the Department of the Interior; and</text>
+ </subparagraph></paragraph><paragraph id="H598FC6FA4E4E420D8B759666B30BA818"><enum>(2)</enum><text>the term <quote>time-limited appointment</quote> includes a temporary appointment and a term appointment, as defined by the Office of Personnel Management.</text>
+							</paragraph></section><section id="HA828F55CCE4A4A92BE772FF1A8DF202A"><enum>9602.</enum><header>Competitive service; time-limited appointments</header>
+ <subsection commented="no" id="HB899898D25684EBAAC80122CF139C459"><enum>(a)</enum><text display-inline="yes-display-inline">Notwithstanding chapter 33 or any other provision of law relating to the examination, certification, and appointment of individuals in the competitive service, an employee of a land management agency serving under a time-limited appointment in the competitive service is eligible to compete for a permanent appointment in the competitive service at any land management agency or any other agency (as defined in section 101 of title 31) under the internal merit promotion procedures of the applicable agency if—</text>
+ <paragraph commented="no" id="H042C50EEF6A04C458C0BD731140555F3"><enum>(1)</enum><text>the employee was appointed initially under open, competitive examination under subchapter I of chapter 33 to the time-limited appointment;</text>
+ </paragraph><paragraph commented="no" id="H8388266CF1D0452594F39D1651D80DED"><enum>(2)</enum><text>the employee has served under 1 or more time-limited appointments by a land management agency for a period or periods totaling more than 24 months without a break of 2 or more years; and</text>
+ </paragraph><paragraph commented="no" id="H66CD8AA5C19546649C573E794E268F7C"><enum>(3)</enum><text>the employee’s performance has been at an acceptable level of performance throughout the period or periods (as the case may be) referred to in paragraph (2).</text>
+ </paragraph></subsection><subsection id="H133B2A1FE9E74CCCA9EFF691187EF176"><enum>(b)</enum><text>In determining the eligibility of a time-limited employee under this section to be examined for or appointed in the competitive service, the Office of Personnel Management or other examining agency shall waive requirements as to age, unless the requirement is essential to the performance of the duties of the position.</text>
+ </subsection><subsection id="H4F4E5E474FBD4863B43BB9BD797C882D"><enum>(c)</enum><text>An individual appointed under this section—</text> <paragraph id="H146F8E8F4A334EF29BAF85247878C7FE"><enum>(1)</enum><text>becomes a career-conditional employee, unless the employee has otherwise completed the service requirements for career tenure; and</text>
+ </paragraph><paragraph id="H652D01120FFF4D89AE9461448DC92CE3"><enum>(2)</enum><text>acquires competitive status upon appointment.</text> </paragraph></subsection><subsection id="H7BEC3F2EE2C14CBAB7E5D4B783244BF5"><enum>(d)</enum><text display-inline="yes-display-inline">A former employee of a land management agency who served under a time-limited appointment and who otherwise meets the requirements of this section shall be deemed a time-limited employee for purposes of this section if—</text>
+ <paragraph id="H8E907905A5E14E24B92E00CC250F49CC"><enum>(1)</enum><text display-inline="yes-display-inline">such employee applies for a position covered by this section within the period of 2 years after the most recent date of separation; and</text>
+ </paragraph><paragraph id="H53B9707F2C8D464AA461E83C1E077944"><enum>(2)</enum><text display-inline="yes-display-inline">such employee’s most recent separation was for reasons other than misconduct or performance.</text> </paragraph></subsection><subsection id="H207B6F4FAE9F47C1BF5D6AF08E97462B"><enum>(e)</enum><text>The Office of Personnel Management shall prescribe such regulations as may be necessary to carry out this section.</text></subsection></section></chapter><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H163F33CFF6424C61A173F029A3FF9190"><enum>(b)</enum><header>Clerical amendment</header><text>The analysis for part III of title 5, United States Code, is amended by inserting after the item for chapter 95 the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HC0163FEFED23422F942113D4732055C8" style="USC">
+					<toc regeneration="no-regeneration">
+						<multi-column-toc-entry bold="on" level="section"><toc-enum>96.</toc-enum><level-header bold="on" level="section">Personnel flexibilities relating to land management agencies</level-header><target>9601</target></multi-column-toc-entry>
+					</toc>
+					<after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2312 IS: DME Access and Stabilization Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-11-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2312</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151119">November 19, 2015</action-date>
+			<action-desc><sponsor name-id="S303">Mr. Thune</sponsor> (for himself, <cosponsor name-id="S360">Ms. Heitkamp</cosponsor>, <cosponsor name-id="S260">Mr. Roberts</cosponsor>, <cosponsor name-id="S363">Mr. King</cosponsor>, <cosponsor name-id="S266">Mr. Crapo</cosponsor>, <cosponsor name-id="S252">Ms. Collins</cosponsor>, and <cosponsor name-id="S372">Mrs. Capito</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend titles XVIII and XIX of the Social Security Act to make improvements to payments for
+			 durable medical equipment under the Medicare and Medicaid programs.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>DME Access and Stabilization Act of 2015</short-title></quote>.</text>
+		</section><section id="idA9573E50CF5D486BA8357824E4E7D937" section-type="subsequent-section"><enum>2.</enum><header>Revision of payments for durable medical equipment under the
+			 Medicare program</header>
+			<subsection id="H061E261C726F4A4E87C92E01AA3F98B3"><enum>(a)</enum><header>Transition to implementation of fee schedule payment adjustments using information from competitive
+ bidding programs</header><text>Section 1834(a)(1) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m">42 U.S.C. 1395m(a)(1)</external-xref>) is amended by adding at the end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="id4F8F9CC22E254F319ED7E8A213609C4C" style="OLC">
+					<subparagraph id="H05A00DBDEFC74B56B75141ADE893B090"><enum>(J)</enum><header>Transition to implementation of payment adjustments using information from competitive bidding
+			 programs</header>
+ <clause id="id8AE4B1D2D3804FA8A3CA551B8A963063"><enum>(i)</enum><header>In general</header><text display-inline="yes-display-inline">In implementing subparagraph (F) and paragraphs (1) and (2) of section 414.210(g) of title 42, Code of Federal Regulations with respect to items and services furnished on or after January 1, 2016, and before January 1, 2019, the fee schedule amount that would otherwise be determined for each area under this section shall be adjusted to the lesser of—</text>
+ <subclause id="HD68672FAC5144FC5968D8A9CF71E40F6"><enum>(I)</enum><text>the applicable percent of the regional price determined under clause (i) of such paragraph (1) for the region in which such area is located; and</text>
+ </subclause><subclause id="H625BA51E5B0B4D50A7D9CCB029DE033E"><enum>(II)</enum><text display-inline="yes-display-inline">the fee schedule amount that would otherwise be determined for such area under this section on January 1, 2015, updated by the covered item update described in paragraph (14)(L) for the year in which the items and services to which such fee schedule applies are furnished.</text>
+ </subclause></clause><clause id="id1ED5BAE3EF3342188F4CC7E11688346E"><enum>(ii)</enum><header>Applicable percent</header><text>For purposes of clause (i)(I), the term <quote>applicable percent</quote> means—</text> <subclause id="id31413AADCB3C46319A07002491C31784"><enum>(I)</enum><text>for an area defined as a rural area for purposes of such section 414.210(g) or an area in a frontier State (as defined in section 1886(d)(3)(E)(iii)(II)), 130 percent; and</text>
+ </subclause><subclause id="id40D133AB640841D582AEBCAA9B2A3621"><enum>(II)</enum><text>for any other area, 120 percent.</text> </subclause></clause><clause commented="no" id="HF80C46B433B440A4931FB507368C738E"><enum>(iii)</enum><header>Phase-in</header><text display-inline="yes-display-inline">The adjustment described in clause (i) shall be implemented over a two-year period and in a manner that phases in such adjustment in equal increments in each year of such two-year period, with such adjustment being fully implemented with respect to items and services furnished in 2017.</text>
+						</clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="idCD87F3C173974C34A6D51554DE4047B6"><enum>(b)</enum><header>Bid ceiling for competitive acquisition for durable medical equipment under the Medicare program</header><text display-inline="yes-display-inline">Section 1847(b)(5) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-3">42 U.S.C. 1395w–3(b)(5)</external-xref>) is amended—</text> <paragraph id="id3C70B5B3CAC042B19768AF60436699D1"><enum>(1)</enum><text>in subparagraph (A)—</text>
+ <subparagraph id="id569419A7470A4F5CB4F7FFE75716FE61"><enum>(A)</enum><text>by inserting <quote>, subject to subparagraph (E),</quote> after <quote>subsection (a)(2)</quote>; and</text> </subparagraph><subparagraph id="id75DF2E504E3F4B2EB0BAC31698831D59"><enum>(B)</enum><text>by inserting <quote>, subject to subparagraph (E),</quote> after <quote>Based on such bids</quote>; and</text>
+ </subparagraph></paragraph><paragraph id="id8BEAA7B6CE0249EDA349DC9BF1B9EF22"><enum>(2)</enum><text>by adding at the end the following new subparagraph:</text> <quoted-block display-inline="no-display-inline" id="idD3622CCD902B4AF3A18871023A372CE3" style="OLC"> <subparagraph commented="no" display-inline="no-display-inline" id="idB7371C4F3EF446AE973D3903AC7759EC"><enum>(E)</enum><header>Bid ceiling for durable medical equipment</header><text display-inline="yes-display-inline">In the case of covered items (as defined in section 1834(a)(13)) for which payment would otherwise be made under section 1834(a) that are furnished with respect to competitive bid contracts that begin on or after January 1, 2019, the Secretary may not establish a ceiling on bids submitted under this section for such items that is less than the amount that would otherwise be paid for such items under section 1834 (without the application of subsection (a)(1)(F) of such section) on January 1, 2015, updated by the covered item update described in subsection (a)(14)(L) of such section for the year in which such covered item is furnished.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="id0ebc1d8247c54ec98f61ea417cfc34f0"><enum>(c)</enum><header>Requirements in determining adjustments using information from competitive bidding programs</header><text>Section 1834(a)(1)(G) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m">42 U.S.C. 1395m(a)(1)(G)</external-xref>) is amended by adding at the end the following new sentence: <quote>In the case of items and services furnished on or after January 1, 2019, in making any adjustments under clause (ii) or (iii) of subparagraph (F), the Secretary shall solicit and receive stakeholder input and shall also take into account the average travel distance and cost associated with furnishing items and services in a competitive acquisition area, the average volume of items and services furnished by providers in such an area, the clearing price of items and services, and the number of providers in competitive acquisition areas compared to the number of providers in non-competitive acquisition areas.</quote>.</text>
+			</subsection></section><section id="H60E3FF0FD7924E31AC4859B31CB73EA2"><enum>3.</enum><header>Limiting Federal Medicaid reimbursement to States for durable medical equipment (DME) to Medicare
+			 payment rates</header>
+			<subsection id="H74B7641B3BBF48DD8C36DEE7AEDFB1C8"><enum>(a)</enum><header>Medicaid reimbursement</header>
+ <paragraph id="H8E9DCC1F21CB4A40978CE5823CEE6A60"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1903(i) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396b">42 U.S.C. 1396b(i)</external-xref>) is amended—</text> <subparagraph id="H5103A59A6A864B6D8B14E6A3DD846335"><enum>(A)</enum><text>in paragraph (25), by striking <quote>or</quote> at the end;</text>
+ </subparagraph><subparagraph id="HE4EE673C26824C8E8A36D6E440EE7F5B"><enum>(B)</enum><text>in paragraph (26), by striking the period at the end and inserting <quote>; or</quote>; and</text> </subparagraph><subparagraph id="H78F4E685AA2F45788193F36998D6528D"><enum>(C)</enum><text>by inserting after paragraph (26) the following new paragraph:</text>
+						<quoted-block id="H2580EAE1057B4CB8A33088AC2BF5596E" style="OLC">
+ <paragraph id="HFEF9427C4055464ABB9DE8E944CFDB7B"><enum>(27)</enum><text display-inline="yes-display-inline">with respect to any amounts expended by the State on the basis of a fee schedule for items described in section 1861(n), as determined in the aggregate with respect to each class of such items as defined by the Secretary, in excess of the aggregate amount, if any, that would be paid for such items within such class on a fee-for-service basis under the program under part B of title XVIII, including, as applicable, under a competitive acquisition program under section 1847 in an area of the State.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="H78B8D0C34ECE4A1DBE9A94432AFAF7E6"><enum>(2)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by this subsection shall be effective with respect to payments for items furnished on or after January 1, 2020.</text>
+ </paragraph></subsection><subsection id="H0453C200AEDC412FB74D87635F813AD9"><enum>(b)</enum><header>Medicare Beneficiary Ombudsman</header><text>Section 1808(c) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395b">42 U.S.C. 1395b(c)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="HE19D9FC8A93645AE9E8D3EB5364C0548" style="OLC">
+ <paragraph commented="no" display-inline="no-display-inline" id="H78B8146E70134D66BE6AC305B698154B"><enum>(4)</enum><header>Monitoring DME reimbursement under Medicaid</header><text display-inline="yes-display-inline">The Medicare Beneficiary Ombudsman shall evaluate the impact of the competitive acquisition program under section 1847, including as applied under section 1903(i)(27), on beneficiary health status and health outcomes.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

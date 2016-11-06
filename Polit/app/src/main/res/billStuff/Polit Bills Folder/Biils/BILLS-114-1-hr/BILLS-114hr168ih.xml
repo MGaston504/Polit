@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6007FDFDF60C4685A4E289B59AD12618" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 168 IH: To authorize an additional district judgeship for the district of Idaho.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 168</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="S001148">Mr. Simpson</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To authorize an additional district judgeship for the district of Idaho.</official-title>
+	</form>
+	<legis-body id="HF70D1A6D2A67488BA3A02836539BDEF4" style="OLC">
+		<section id="H5C755AB45FA3446395842A0A445C9136" section-type="section-one"><enum>1.</enum><header>District judgeship for the district of Idaho</header>
+			<subsection id="H9489E542C42B403F976709F216A098ED"><enum>(a)</enum><header>In general</header><text>The President shall appoint, by and with the advice and consent of the Senate, 1 additional
+			 district judge for the district of Idaho.</text>
+			</subsection><subsection id="H64397E53943B4BE28B997BE8B9E50B4C"><enum>(b)</enum><header>Technical and conforming amendment</header><text>In order that the table contained in <external-xref legal-doc="usc" parsable-cite="usc/28/133">section 133(a)</external-xref> of title 28, United States Code, will reflect
+			 the change in the number of judgeships authorized by subsection (a), such
+			 table is amended by striking the item relating to Idaho and inserting the
+			 following:</text>
+				<quoted-block display-inline="no-display-inline" id="H00364838DCB74EACB531BB30207EF0DD" style="OLC">
+					<table align-to-level="section" blank-lines-before="1" colsep="0" frame="none" line-rules="no-gen" rowsep="0" rule-weights="0.0.0.0.0.0" table-template-name="Generic: 1 text, 1 num" table-type="">
+						<tgroup cols="2" grid-typeface="1.1" rowsep="0" thead-tbody-ldg-size="10.10.12"><colspec coldef="txt" colname="column1" colwidth="269pts" min-data-value="200"></colspec><colspec coldef="fig" colname="column2" colwidth="56pts" min-data-value="10"></colspec>
+							<tbody>
+								<row><entry align="left" colname="column1" leader-modify="force-ldr" stub-definition="txt-ldr" stub-hierarchy="1">Idaho</entry><entry align="right" colname="column2" leader-modify="force-ldr">3</entry></row></tbody></tgroup></table><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

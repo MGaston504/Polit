@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HFB1CE52E38E54EAAB1D8B223D3639C60" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3869 IH: State and Local Cyber Protection Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3869</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151102">November 2, 2015</action-date>
+			<action-desc><sponsor name-id="H001073">Mr. Hurd of Texas</sponsor> (for himself and <cosponsor name-id="R000601">Mr. Ratcliffe</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Homeland Security Act of 2002 to require State and local coordination on cybersecurity
+			 with the national cybersecurity and communications integration center, and
+			 for other purposes.</official-title>
+	</form>
+	<legis-body id="H73D227BAF0B042CA8A13A72B87069D0A" style="OLC">
+ <section id="H28DC76090A464E5C8A8534C48CB1AB2E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>State and Local Cyber Protection Act of 2015</short-title></quote>.</text> </section><section id="HD1CD09E5555944D1A8F93DB5FE2E9015"><enum>2.</enum><header>State and local coordination on cybersecurity with the national cybersecurity and communications integration center</header> <subsection id="H185D6863FF674BC6A6DF2CFC5C97891F"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The second section 226 of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/148">6 U.S.C. 148</external-xref>; relating to the national cybersecurity and communications integration center) is amended by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="HC27D2716AE344379A561BFB0ABD4B881" style="OLC">
+					<subsection id="HE74B088675A2492AA4C42D07163D59CE"><enum>(g)</enum><header>State and local coordination on cybersecurity</header>
+ <paragraph id="H74CDCCADB7B34B73B9346694871F91A4"><enum>(1)</enum><header>In general</header><text>The Center shall, to the extent practicable—</text> <subparagraph commented="no" id="H9610BA0E569A4E1D9D6BBBCE8120F442"><enum>(A)</enum><text>assist State and local governments, upon request, in identifying information system vulnerabilities;</text>
+ </subparagraph><subparagraph id="H1E24D8AEAEE14E6DA2C7C1B7E65D3F71"><enum>(B)</enum><text>assist State and local governments, upon request, in identifying information security protections commensurate with cybersecurity risks and the magnitude of the potential harm resulting from the unauthorized access, use, disclosure, disruption, modification, or destruction of—</text>
+ <clause commented="no" id="H156417ECD0EC4F19A9D91D06A81424D4"><enum>(i)</enum><text>information collected or maintained by or on behalf of a State or local government; or</text> </clause><clause commented="no" id="H039E0D88D6F14F3DA6D0E75B3D4E91B6"><enum>(ii)</enum><text>information systems used or operated by an agency or by a contractor of a State or local government or other organization on behalf of a State or local government;</text>
+ </clause></subparagraph><subparagraph id="H9A6DAF72E5374D4B9CAB66CACF2A7055"><enum>(C)</enum><text>in consultation with State and local governments, provide and periodically update via a web portal tools, products, resources, policies, guidelines, and procedures related to information security;</text>
+ </subparagraph><subparagraph id="H46F70AFE11B04FBEA2B59421BDC18AA1"><enum>(D)</enum><text>work with senior State and local government officials, including State and local Chief Information Officers, through national associations to coordinate a nationwide effort to ensure effective implementation of tools, products, resources, policies, guidelines, and procedures related to information security to secure and ensure the resiliency of State and local information systems;</text>
+ </subparagraph><subparagraph id="HEA20FC54480D4317A18FD1D923C50EDD"><enum>(E)</enum><text>provide, upon request, operational and technical cybersecurity training to State and local government and fusion center analysts and operators to address cybersecurity risks or incidents;</text>
+ </subparagraph><subparagraph id="HD6635AFBC4F44B298DF80206D5C642E5"><enum>(F)</enum><text>provide, in coordination with the Chief Privacy Officer and the Chief Civil Rights and Civil Liberties Officer of the Department, privacy and civil liberties training to State and local governments related to cybersecurity;</text>
+ </subparagraph><subparagraph id="H976845C30DE04E9982E8EAA88277725B"><enum>(G)</enum><text>provide, upon request, operational and technical assistance to State and local governments to implement tools, products, resources, policies, guidelines, and procedures on information security by—</text>
+ <clause id="H8B6EE00476744CEAA96B4DC82A6E3877"><enum>(i)</enum><text>deploying technology to assist such State or local government to continuously diagnose and mitigate against cyber threats and vulnerabilities, with or without reimbursement;</text>
+ </clause><clause id="H6EADBF0A6DBD499CA0427B1DC2D2DBB0"><enum>(ii)</enum><text>compiling and analyzing data on State and local information security; and</text> </clause><clause id="H4BD7334252DA458BB91B4EBAE67DCBCA"><enum>(iii)</enum><text>developing and conducting targeted operational evaluations, including threat and vulnerability assessments, on the information systems of State and local governments;</text>
+ </clause></subparagraph><subparagraph id="HD0EEA78CB3F04C688D29DD42ACF55619"><enum>(H)</enum><text>assist State and local governments to develop policies and procedures for coordinating vulnerability disclosures, to the extent practicable, consistent with international and national standards in the information technology industry, including standards developed by the National Institute of Standards and Technology; and</text>
+ </subparagraph><subparagraph id="HE126D37735E149B7A07205DCA8B37D7C"><enum>(I)</enum><text>ensure that State and local governments, as appropriate, are made aware of the tools, products, resources, policies, guidelines, and procedures on information security developed by the Department and other appropriate Federal departments and agencies for ensuring the security and resiliency of Federal civilian information systems.</text>
+ </subparagraph></paragraph><paragraph id="H60F4A8699DE14C53A5FD8D2FB51D07CA"><enum>(2)</enum><header>Training</header><text display-inline="yes-display-inline">Privacy and civil liberties training provided pursuant to subparagraph (F) of paragraph (1) shall include processes, methods, and information that—</text>
+ <subparagraph id="HF548B83C88394F4DA4A50C891E0169C1"><enum>(A)</enum><text>are consistent with the Department’s Fair Information Practice Principles developed pursuant to section 552a of title 5, United States Code (commonly referred to as the <quote>Privacy Act of 1974</quote> or the <quote>Privacy Act</quote>);</text>
+ </subparagraph><subparagraph id="H42B986693168416FB3C8F6C70AFB589A"><enum>(B)</enum><text>reasonably limit, to the greatest extent practicable, the receipt, retention, use, and disclosure of information related to cybersecurity risks and incidents associated with specific persons that is not necessary, for cybersecurity purposes, to protect an information system or network of information systems from cybersecurity risks or to mitigate cybersecurity risks and incidents in a timely manner;</text>
+ </subparagraph><subparagraph id="H2E5F9C2E936F477392F14779974AD363"><enum>(C)</enum><text>minimize any impact on privacy and civil liberties;</text> </subparagraph><subparagraph id="HA08B0B1554BD43AC81E55346CD06853E"><enum>(D)</enum><text>provide data integrity through the prompt removal and destruction of obsolete or erroneous names and personal information that is unrelated to the cybersecurity risk or incident information shared and retained by the Center in accordance with this section;</text>
+ </subparagraph><subparagraph id="HF28DC0F0402642D3B125EB147D8A39FC"><enum>(E)</enum><text>include requirements to safeguard cyber threat indicators and defensive measures retained by the Center, including information that is proprietary or business-sensitive that may be used to identify specific persons from unauthorized access or acquisition;</text>
+ </subparagraph><subparagraph id="H98DF85F6C3AD4753991FAF4398242017"><enum>(F)</enum><text>protect the confidentiality of cyber threat indicators and defensive measures associated with specific persons to the greatest extent practicable; and</text>
+ </subparagraph><subparagraph id="H5E84B6539EB848579E459416FB26F7DF"><enum>(G)</enum><text>ensure all relevant constitutional, legal, and privacy protections are observed.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="H0C9FAE30CBAD489294822E2869440310"><enum>(b)</enum><header>Congressional oversight</header><text display-inline="yes-display-inline">Not later than two years after the date of the enactment of this Act, the national cybersecurity and communications integration center of the Department of Homeland Security shall provide to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate information on the activities and effectiveness of such activities under subsection (g) of the second section 226 of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/148">6 U.S.C. 148</external-xref>; relating to the national cybersecurity and communications integration center), as added by subsection (a) of this section, on State and local information security. The center shall seek feedback from State and local governments regarding the effectiveness of such activities and include such feedback in the information required to be provided under this subsection.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

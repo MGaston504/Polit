@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA517543694624C4A89451806019788C1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3699 IH: Judgement Fund Taxpayer Accountability Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3699</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151007">October 7, 2015</action-date>
+			<action-desc><sponsor name-id="W000796">Mr. Westmoreland</sponsor> (for himself, <cosponsor name-id="B001274">Mr. Brooks of Alabama</cosponsor>, and <cosponsor name-id="S001195">Mr. Smith of Missouri</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 31, United States Code, to require an annual report from the Financial Management
+			 Service within the Department of the Treasury regarding amounts paid or
+			 payable by Federal agencies to the judgement fund, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H96F1E8B267CB4A2AB91219CC9DD69C7C" style="OLC">
+ <section id="HFDB34A5F06CA4E9C9FA839C2CA265B6A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Judgement Fund Taxpayer Accountability Act</short-title></quote>.</text> </section><section id="H8C918D14FAD04B67B2BB80B90CC863F5" section-type="subsequent-section"><enum>2.</enum><header>Report from the Financial Management Service</header><text display-inline="no-display-inline">Section 1304 of title 31, United States Code, is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H3D7A5F3E998B40AFBAA047FBF38256F0" style="USC">
+ <subsection id="H2B2058648B624AC1BB4CB30587F1FB9B"><enum>(d)</enum><text display-inline="yes-display-inline">Not later than January 1 of each year, the Financial Management Service shall report to Congress the following information with regard to each agency (as defined in section 551 of title 5) on account of payments made from sums appropriated by this section:</text>
+ <paragraph id="H31ECFBC7E91E4A918E7443FC1F0461E6"><enum>(1)</enum><text>The total amount paid in reimbursement by that agency during the preceding fiscal year on account of each such payment.</text>
+ </paragraph><paragraph id="HC9F7BA28F97A4D53B9039854F23069A4"><enum>(2)</enum><text>The total amount still due from that agency in reimbursement for each such payment, as of the end of the preceding fiscal year.</text>
+ </paragraph><paragraph id="H215FAD50EB484698A932912DE7507579"><enum>(3)</enum><text>For each of the amounts described in paragraph (1) or (2), the name of the plaintiff or claimant to whom the payment was made from sums so appropriated.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

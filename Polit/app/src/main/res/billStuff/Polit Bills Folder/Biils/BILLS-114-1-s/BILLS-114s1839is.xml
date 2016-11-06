@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1839 IS: Servicemembers Self-Defense Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-07-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1839</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150722">July 22, 2015</action-date>
+			<action-desc><sponsor name-id="S348">Mr. Paul</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSAS00">Committee on Armed Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend titles 10 and 18, to permit members of the Armed Forces to possess firearms on military
+			 installations in accordance with applicable State law, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Servicemembers Self-Defense Act of 2015</short-title></quote>.</text>
+ </section><section id="idDA5F5B512AC646C1A04F4AC2C60D6ADC"><enum>2.</enum><header>Firearms permitted on Department of Defense property</header><text display-inline="no-display-inline">Section 930(g)(1) of title 18, United States Code, is amended—</text> <paragraph id="id47F8B69A9CCF4F9DA0FF0A79CDECBDA9"><enum>(1)</enum><text>by striking <quote>The term <term>Federal facility</term> means</quote> and inserting the following: “The term ‘Federal facility’—</text>
+				<quoted-block display-inline="no-display-inline" id="id2E6E0F398DFC467E941086FB962CADDA" style="OLC">
+ <subparagraph id="idED147FE0ABCA481894ADFFAED34AE0B8"><enum>(A)</enum><text>means</text></subparagraph><after-quoted-block>; </after-quoted-block></quoted-block> </paragraph><paragraph id="id826713F3CE9341DF9E741BB5B267B7E9"><enum>(2)</enum><text>by striking the period at the end and inserting <quote>; and</quote>; and</text>
+ </paragraph><paragraph id="idF47D9E3823904E2E840E1DE049953C6D"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="idB776F13A81994C6096B6EAF6935C06EB" style="OLC"> <subparagraph commented="no" display-inline="no-display-inline" id="id8BF1D545438846928643A57A8A019298"><enum>(B)</enum><text>with respect to a qualified member of the Armed Forces, as defined in section 926D(a), does not include any land, a building, or any part thereof owned or leased by the Department of Defense.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="idC5133EF56EA94D92B308302AB7E632E3"><enum>3.</enum><header>Lawful possession of firearms on military installations by members of the Armed Forces</header>
+ <subsection id="id419AF7B6E6D64B4AB67DEAE1225859FD"><enum>(a)</enum><header>Modification of general article</header><text>Section 934 of title 10, United States Code (article 134 of the Uniform Code of Military Justice), is amended—</text>
+ <paragraph id="idDE613D260A424826B16027EF3931069A"><enum>(1)</enum><text>by inserting <quote>(a) <header-in-text level="subsection" style="OLC">In general</header-in-text>.—</quote> before <quote>Though not specifically mentioned</quote>; and</text> </paragraph><paragraph id="id6B631757BB0D4D3AA89C79B080654CEE"><enum>(2)</enum><text>by adding at the end the following new subsection:</text>
+					<quoted-block display-inline="no-display-inline" id="id5F5F1D44FF1C4D15B3355884CA6FE105" style="OLC">
+ <subsection id="id414150A7B69846988633DDA50CC2E751"><enum>(b)</enum><header>Possession of a firearm</header><text>The possession of a concealed or open carry firearm by a member of the Armed Forces subject to this chapter on a military installation, if lawful under the laws of the State in which the installation is located, is not an offense under this section.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="ide9f20026ed754736b5582a1e6e0935c8"><enum>(b)</enum><header>Modification of regulations</header><text>Not later than 30 days after the date of the enactment of this Act, the Secretary of Defense shall amend Department of Defense Directive number 5210.56 to provide that members of the Armed Forces may possess firearms for defensive purposes on facilities and installations of the Department of Defense in a manner consistent with the laws of the State in which the facility or installation concerned is located.</text>
+			</subsection></section><section id="id05B02E0150D74E89A6BEEE5647CC9605"><enum>4.</enum><header>Carrying of concealed firearms by qualified members of the Armed Forces</header>
+ <subsection id="id37a4e078d3c2447289680b90a2a6e36d"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/44">Chapter 44</external-xref> of title 18, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/18/926C">section 926C</external-xref> the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idCC20EA0EF7B34DBBB8CFC2469571A9A2" style="USC">
+					<section id="idaab592bcae1b4a69b02934a93db8ed1c"><enum>926D.</enum><header>Carrying of concealed firearms by qualified members of the Armed Forces</header>
+ <subsection id="idc23b61f56cf74c4d97a7a9c33ac9b8dd"><enum>(a)</enum><header>Definitions</header><text>As used in this section—</text> <paragraph id="idCBDF7661681247B9B9B08A511CC1E2F9"><enum>(1)</enum><text>the term <term>firearm</term>—</text>
+ <subparagraph id="id3eefbe344d4042fa8d6b82e9dd74a10a"><enum>(A)</enum><text>except as provided in this paragraph, has the same meaning as in section 921;</text> </subparagraph><subparagraph id="idbf484ee43a014fac8634c63335ff6486"><enum>(B)</enum><text>includes ammunition not expressly prohibited by Federal law or subject to the provisions of the National Firearms Act; and</text>
+ </subparagraph><subparagraph id="idefd4d69e23d8489f803bc574ad34b992"><enum>(C)</enum><text>does not include—</text> <clause id="id0239505f05734a94bf1c56abb2085ac9"><enum>(i)</enum><text>any machinegun (as defined in section 5845 of the National Firearms Act);</text>
+ </clause><clause id="id20e66e3f88904147b5e57abf7fa88516"><enum>(ii)</enum><text>any firearm silencer; or</text> </clause><clause id="id7b0f107a2913427394a7fed04490338d"><enum>(iii)</enum><text>any destructive device; and</text>
+ </clause></subparagraph></paragraph><paragraph id="id34C42B8F289141DBA40BBD9122FB9169"><enum>(2)</enum><text>the term <term>qualified member of the Armed Forces</term> means an individual who—</text> <subparagraph id="idb0afa52137be47a5b9bdc1f99a47afaa"><enum>(A)</enum><text>is a member of the Armed Forces on active duty status, as defined in section 101(d)(1) of title 10;</text>
+ </subparagraph><subparagraph id="id8d314592eff64abb8a6908534b6c1309"><enum>(B)</enum><text>is not the subject of disciplinary action under the Uniform Code of Military Justice;</text> </subparagraph><subparagraph id="id243c9f59886f4b2a8eb6ed7716ef7239"><enum>(C)</enum><text>is not under the influence of alcohol or another intoxicating or hallucinatory drug or substance; and</text>
+ </subparagraph><subparagraph id="id32664deaec024bdb9d42d919d377da31"><enum>(D)</enum><text>is not prohibited by Federal law from receiving a firearm.</text> </subparagraph></paragraph></subsection><subsection id="id73cb78f175fd4f58a6840be8412b9e7b"><enum>(b)</enum><header>Authorization</header><text>Notwithstanding any provision of the law of any State or any political subdivision thereof, an individual who is a qualified member of the Armed Forces and who is carry identification required by subsection (d) may carry a concealed firearm that has been shipped or transported in interstate or foreign commerce, subject to subsection (c).</text>
+ </subsection><subsection id="id81b137e19fee44ea8999dfdc018490a6"><enum>(c)</enum><header>Limitations</header><text>This section shall not be construed to superseded or limit the laws of any State that—</text> <paragraph id="id3b2403751e654ef98b2f2db22c2636ff"><enum>(1)</enum><text>permit private persons or entities to prohibit or restrict the possession of concealed firearms on their property; or</text>
+ </paragraph><paragraph id="id8e54564a368e4816882fae857079c53d"><enum>(2)</enum><text>prohibit or restrict the possession of firearms on any State or local government property, installation, building, base, or park.</text>
+ </paragraph></subsection><subsection id="id1be5569dd4934af2aba01fae3659668a"><enum>(d)</enum><header>Identification</header><text>The identification required by this subsection is the photographic identification issued by the Department of Defense for the qualified member of the Armed Forces.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id7380F511041144C9815A1D4142B18182"><enum>(b)</enum><header>Technical and conforming amendment</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/44">chapter 44</external-xref> of title 18, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/18/926C">section 926C</external-xref> the following:</text>
+				<quoted-block id="id9ab0dd5e-731d-46cc-819e-ce27151f118e" style="USC"><toc><toc-entry idref="idaab592bcae1b4a69b02934a93db8ed1c" level="section">926D. Carrying of concealed firearms by qualified members of the Armed Forces.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section></legis-body>
+</bill>
+
+

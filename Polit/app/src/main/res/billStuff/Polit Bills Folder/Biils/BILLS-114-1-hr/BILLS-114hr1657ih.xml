@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HCA7B800852BA46AA913CDB071D53042B" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1657 IH: Fairness for Americans in Internal Revenue Refunds Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1657</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150326">March 26, 2015</action-date>
+			<action-desc><sponsor name-id="M001158">Mr. Marchant</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to prevent claims of the earned income tax credit by
+			 individuals receiving work authorizations pursuant to deferred action
+			 programs, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H3F47140D532E47EDA90041D4E4DCB4F6" style="OLC">
+ <section id="HDF13C8FED5404C39BFE8625F2B7E266F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fairness for Americans in Internal Revenue Refunds Act</short-title></quote>.</text> </section><section id="H0A712BF10B394725819E909C9D463DDF"><enum>2.</enum><header>Prevention of claims of earned income tax credit by individuals receiving work authorizations pursuant to deferred action programs</header> <subsection id="HE6C9070C471646169C562E60B8AAFA65"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/32">Section 32(m)</external-xref> of the Internal Revenue Code of 1986 is amended—</text>
+ <paragraph id="H6F7EA47FD1474852B32C6A0CEECFB5BA"><enum>(1)</enum><text>by striking <quote>Solely for purposes of</quote> and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="H76000BAFDD7046EDA6C53F2C7FDE2448" style="OLC"> <paragraph id="H31556AEF90E349F5BEBF1B6AD1755449"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Solely for purposes of</text></paragraph><after-quoted-block>, and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H6C5E8AEDEA2E489D8AA892E96402C76E"><enum>(2)</enum><text>by striking <quote>a social security number issued to an individual</quote> and all that follows and inserting <quote>a specified social security number.</quote>, and</text> </paragraph><paragraph id="H524642A5C78C4277845E60A30D0D2C0D"><enum>(3)</enum><text>by adding at the end the following new paragraphs:</text>
+					<quoted-block display-inline="no-display-inline" id="H61C503680CDF4FA68708E9B94CD38EEE" style="OLC">
+ <paragraph id="H1CA2717AADDE49968402B50B84346187"><enum>(2)</enum><header>Specified social security number</header><text display-inline="yes-display-inline">For purposes of this section—</text> <subparagraph id="H5E6485AEB246426385D54AEF7DDA31E8"><enum>(A)</enum><header>In general</header><text>The term <quote>specified social security number</quote> means a social security number issued to an individual by the Social Security Administration.</text>
+ </subparagraph><subparagraph id="H68BB8D41E9294E54A10E3788F4716D3F"><enum>(B)</enum><header>Exceptions</header><text>Such term shall not include—</text> <clause id="H670B17A0CFEC490A9C0A2006FD61183B"><enum>(i)</enum><text>any social security number issued pursuant to subclause (II) (or that portion of subclause (III) that relates to subclause (II)) of section 205(c)(2)(B)(i) of the Social Security Act, and</text>
+ </clause><clause id="H66A9A36104E746C6A80264DB26378AA0"><enum>(ii)</enum><text>any social security number issued pursuant to a work authorization obtained pursuant to—</text> <subclause id="HF2F54E57A7774D3A92A49411E6932CEE"><enum>(I)</enum><text display-inline="yes-display-inline">the memorandum of the Secretary of Homeland Security dated June 15, 2012, and entitled <quote>Exercising Prosecutorial Discretion with Respect to Individuals Who Came to the United States as Children</quote>,</text>
+ </subclause><subclause id="H7EED685F6AFA4351AC5EF8AF60EFD6B7"><enum>(II)</enum><text>the memorandum of the Secretary of Homeland Security dated November 20, 2014, and entitled <quote>Exercising Prosecutorial Discretion with Respect to Individuals Who Came to the United States as Children and with Respect to Certain Individuals Who Are the Parents of U.S. Citizens or Permanent Residents</quote>, or</text>
+ </subclause><subclause id="H235DA1367E584877BAE611AD3B3C6F82"><enum>(III)</enum><text display-inline="yes-display-inline">any other program not specifically established by law which provides a class of individuals not otherwise legally present in the United States deferred action on removal.</text>
+									</subclause></clause></subparagraph><subparagraph id="HC64B65F939DE4606A26918B1AA7677B1"><enum>(C)</enum><header>Special rules with respect to certain beneficiaries of deferred action</header>
+ <clause id="H0E75641C9C054624951EF2855D79CC2A"><enum>(i)</enum><header>Treatment upon grant of citizenship</header><text>A social security number otherwise described in subparagraph (B)(ii) shall cease to be treated as issued pursuant to a work authorization described in such subparagraph if, and only if, the individual to whom such social security number is issued becomes a citizen of the United States.</text>
+ </clause><clause id="H7780DCBC551D4A40BED1EFA402EC1E6E"><enum>(ii)</enum><header>No retroactive effect upon grant of citizenship</header><text>In the case of a social security number to which clause (i) applies, such social security number shall be treated as a specified social security number only to the extent that such number is included on returns of tax which relate to taxable years ending after the date on which such individual becomes a citizen of the United States.</text>
+								</clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="H60B66EC545F4446B8EE38CA5EEFBC30F"><enum>(b)</enum><header>Coordination with Department of Homeland Security and Social Security Administration</header>
+ <paragraph id="HAAFE654EA4AC4134ADFD7EEE367702A3"><enum>(1)</enum><header>Department of Homeland Security</header><text display-inline="yes-display-inline">The Secretary of Homeland Security shall—</text> <subparagraph id="H12AE6FB7EA124E98BBBE775F2D2025C9"><enum>(A)</enum><text display-inline="yes-display-inline">ensure that the Commissioner of Social Security receives sufficient information in a timely manner to determine that a social security account number described in <external-xref legal-doc="usc" parsable-cite="usc/26/32">section 32(m)(2)(B)(ii)</external-xref> of the Internal Revenue Code of 1986 is being issued pursuant to a program referred to in such section;</text>
+ </subparagraph><subparagraph id="H8340DE03144F4A7DB145D0933E43D649"><enum>(B)</enum><text>ensure that any document issued to an individual under such a program, including any document attesting to the individual’s authorization for employment and any document attesting to the deferral of action on any removal of that individual, has a notation that the individual was provided such document pursuant to such a program; and</text>
+ </subparagraph><subparagraph id="HD26E9D289F894D97B6D1B5421D643830"><enum>(C)</enum><text display-inline="yes-display-inline">take all other appropriate actions to coordinate with the Secretary of the Treasury and the Commissioner of Social Security in carrying out <external-xref legal-doc="usc" parsable-cite="usc/26/32">section 32(m)</external-xref> of the Internal Revenue Code of 1986 and this paragraph.</text>
+ </subparagraph></paragraph><paragraph id="H47180455F3EB4CFB9E9310D02711A0BD"><enum>(2)</enum><header>Social Security Administration</header><text>Section 205(c)(2) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/405">42 U.S.C. 405(c)(2)</external-xref>) is amended by adding at the end the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H58EFD9256D0F4B6D9B24B01CC2AA7AE7" style="OLC">
+ <subparagraph id="H8D041A56E2AA415DB8BCFFE681FAC3B2"><enum>(I)</enum><text display-inline="yes-display-inline">The Commissioner of Social Security shall—</text> <clause id="H7E2068D395A24AC28952B8310708B04C"><enum>(i)</enum><text display-inline="yes-display-inline">maintain a record of all social security account numbers described in <external-xref legal-doc="usc" parsable-cite="usc/26/32">section 32(m)(2)(B)(ii)</external-xref> of the Internal Revenue Code of 1986 and the names of the individuals to whom such numbers were issued;</text>
+ </clause><clause id="H0F7F3AEC32D04636AD75EC56CCEA45FE"><enum>(ii)</enum><text>in any case in which a social security account number so described would be disclosed by the Commissioner to the Secretary of the Treasury or to the Commissioner of the Internal Revenue Service, identify such number as being so described; and</text>
+ </clause><clause id="HBAAFFDC9174746539EC4BA7C080FFE39"><enum>(iii)</enum><text display-inline="yes-display-inline">take all other appropriate actions to coordinate with the Secretary of the Treasury and the Secretary of Homeland Security in carrying out <external-xref legal-doc="usc" parsable-cite="usc/26/32">section 32(m)</external-xref> of the Internal Revenue Code of 1986 and section 2(b)(1) of the Fairness for Americans in Internal Revenue Refunds Act.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="HF7149A352A4742A2980B8669359413FE"><enum>(c)</enum><header>Effective date</header><text>The amendments made by subsection (a) shall apply to any return of tax, and any amendment or supplement to any return of tax, which is filed after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

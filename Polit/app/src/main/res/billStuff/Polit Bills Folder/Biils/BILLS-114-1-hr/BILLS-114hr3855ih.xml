@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2CC6450E9C924100ADAC6764205E4277" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3855 IH: Taxpayer Receipt Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3855</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151028">October 28, 2015</action-date>
+			<action-desc><sponsor name-id="Q000023">Mr. Quigley</sponsor> (for himself, <cosponsor name-id="F000445">Mr. Forbes</cosponsor>, <cosponsor name-id="C000754">Mr. Cooper</cosponsor>, and <cosponsor name-id="R000586">Mr. Renacci</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to require the Secretary of the Treasury to provide each
+			 individual taxpayer a receipt for an income tax payment which itemizes the
+			 portion of the payment which is allocable to various Government spending
+			 categories.</official-title>
+	</form>
+	<legis-body id="HCE26B276993F460AB750CA70BDC95F1A" style="OLC">
+ <section id="H64CF2D8005A2408892D78EFB477521C8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Taxpayer Receipt Act</short-title></quote>.</text> </section><section id="H00348472B40F4573BE49E47A12E6DBE3"><enum>2.</enum><header>Itemized Federal tax receipt</header> <subsection id="H352588C5BFE943109BFA2AA11787B0D5"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/77">Chapter 77</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HF49F6E55A8824F568AC4635252EECC2F" style="OLC">
+					<section id="H048EAD8F6BFF4263AB07D2EAEEA95AB7"><enum>7529.</enum><header>Federal tax receipt</header>
+ <subsection id="H3042A044A8784332B5D31783E69C7CFF"><enum>(a)</enum><header>In general</header><text>The Secretary shall send to every taxpayer who files an individual income tax return for any taxable year an itemized Federal tax receipt showing a proportionate allocation (in money terms) of the taxpayer's total tax payment for such taxable year among major expenditure categories for the fiscal year ending in such taxable year. The Federal tax receipt shall also include 2 separate line items showing the amount of Federal debt per legal United States resident at the end of such fiscal year, and the amount of additional borrowing per legal United States resident by the Federal Government in such fiscal year.</text>
+ </subsection><subsection id="H31783824DFAB4555B8F5B96029B2BFB6"><enum>(b)</enum><header>Total tax payments</header><text>For purposes of subsection (a), the total tax payment of a taxpayer for any taxable year is equal to the sum of—</text>
+ <paragraph id="HD5BED4050D2D45709C796DE6A47EFBA6"><enum>(1)</enum><text>the tax imposed by subtitle A for such taxable year (as shown on such taxpayer's return), plus</text> </paragraph><paragraph id="HC1DBE3C8B1FA4FD281B0402BC9E7D1B8"><enum>(2)</enum><text>the tax imposed by section 3101 on wages received by such taxpayer during such taxable year.</text>
+ </paragraph></subsection><subsection id="H31CBB96368504468A67F34CC3028079E"><enum>(c)</enum><header>Determination of proportionate allocation of tax payment among major expenditure categories</header><text>For purposes of determining a proportionate allocation described in subsection (a), not later than 60 days after the end of any fiscal year, the Director of the Congressional Budget Office shall provide to the Secretary the percentage of Federal outlays for such fiscal year for the following categories and subcategories of Federal spending:</text>
+ <paragraph id="H24AF231CB398472288F7C61E0B30D240"><enum>(1)</enum><text>Social Security.</text> </paragraph><paragraph id="H493118E70DB24BFCA70814256B6B3450"><enum>(2)</enum><text>National defense:</text>
+ <subparagraph id="HBD73AE7B365045E5854B4F98849B1CE6"><enum>(A)</enum><text>Overseas combat operations.</text> </subparagraph></paragraph><paragraph id="H42A2D7FE16454204933C7C56890053E2"><enum>(3)</enum><text>Medicare.</text>
+ </paragraph><paragraph id="H2C23B141984D4C12A2A9EC1A32B78752"><enum>(4)</enum><text>Low-income assistance programs:</text> <subparagraph id="H464B50572FBA4B93AAD3D0CAFA085B44"><enum>(A)</enum><text>Housing assistance.</text>
+ </subparagraph><subparagraph id="H61F89126CD944FEFBDCF628998426F06"><enum>(B)</enum><text>Food stamps and other food programs.</text> </subparagraph></paragraph><paragraph id="H50B29643F3A8427799D47607EB1C6267"><enum>(5)</enum><text>Other Federal health programs:</text>
+ <subparagraph id="HA50A8BD85FF1401F928126637E1A6431"><enum>(A)</enum><text>Medicaid, Children's Health Insurance Program, and other public health programs.</text> </subparagraph><subparagraph id="H30E8295F603F42FC840CD1ADBAB0434D"><enum>(B)</enum><text>National Institutes of Health and other health research and training programs.</text>
+ </subparagraph><subparagraph id="H5DD1639BEFBC45228F415BB04CBA32F3"><enum>(C)</enum><text>Food and Drug Administration, Consumer Product Safety Commission, and other regulatory health and safety activities.</text>
+ </subparagraph></paragraph><paragraph id="H283C434A9C3743C28BD2A478279ABBD9"><enum>(6)</enum><text>Unemployment benefits.</text> </paragraph><paragraph id="HB96648125B7048FA96257B99FCFA4331"><enum>(7)</enum><text>Net interest on the Federal debt.</text>
+ </paragraph><paragraph id="HE97B62826CD243E99C4BA855F8710F47"><enum>(8)</enum><text>Veterans benefits and services.</text> </paragraph><paragraph id="H7754DAF80378472F973ED117A5F59BDF"><enum>(9)</enum><text>Education:</text>
+ <subparagraph id="H9E5B4C8A62404894B2395DCD19109E04"><enum>(A)</enum><text>K–12 and vocational education.</text> </subparagraph><subparagraph id="HB4A8EEDDCFAA4CF7BB683911E9D266D4"><enum>(B)</enum><text>Higher education.</text>
+ </subparagraph><subparagraph id="H6D5F593CC9E04A5182582423DB3D4620"><enum>(C)</enum><text>Job training and assistance.</text> </subparagraph></paragraph><paragraph id="HC1407E0B17054D4487D9473F87ADC82F"><enum>(10)</enum><text>Federal employee retirement and disability benefits.</text>
+ </paragraph><paragraph id="H57EF7176E2914BF4A8EF95AAB171E073"><enum>(11)</enum><text>Highway, mass transit, and railroad funding.</text> </paragraph><paragraph id="HC72FA9344DAF40C696E5E96208646EEA"><enum>(12)</enum><text>Mortgage finance (Federal National Mortgage Association, Federal Home Loan Mortgage Corporation, Federal Housing Administration, and other housing finance programs).</text>
+ </paragraph><paragraph id="H742CC5496C2C4F9D8B82AFC4173F68A2"><enum>(13)</enum><text>Justice and law enforcement funding, including Federal Bureau of Investigation, Federal courts, and Federal prisons.</text>
+ </paragraph><paragraph id="HE60E3AD1007C4A13AA2548852C9FDB3E"><enum>(14)</enum><text>Natural resources, land, and water management and conservation funding, including National Parks.</text> </paragraph><paragraph id="H0DE0FB6BA0D141F497CF464A9F800A0F"><enum>(15)</enum><text>Foreign aid.</text>
+ </paragraph><paragraph id="HBBE1A2C1CC3A4466975A52EAD72BD71B"><enum>(16)</enum><text>Science and technology research and advancement:</text> <subparagraph id="H25CACB4F13414FCFA6CEC0AFEE550703"><enum>(A)</enum><text>National Aeronautics and Space Administration.</text>
+ </subparagraph></paragraph><paragraph id="H9D716D0F23A249B895CDDDE5C90D24DD"><enum>(17)</enum><text>Air transportation, including Federal Aviation Administration.</text> </paragraph><paragraph id="HF5D888C0D75940F8AEAA43801216FBEC"><enum>(18)</enum><text>Farm subsidies.</text>
+ </paragraph><paragraph id="H98956B605CE84B24BD2414ABF429BEDE"><enum>(19)</enum><text>Energy funding, including renewable energy and efficiency programs, Strategic Petroleum Reserve, and Federal Energy Regulatory Commission.</text>
+ </paragraph><paragraph id="H5165DEE2AA5045589BA3C53EAE5BB53E"><enum>(20)</enum><text>Disaster relief and insurance, including Federal Emergency Management Administration.</text> </paragraph><paragraph id="HA207CBE49A314AA6984BD46EDD2D6F94"><enum>(21)</enum><text>Diplomacy and embassies.</text>
+ </paragraph><paragraph id="H85B5183E321B4539A0AE4CD3BAAE7143"><enum>(22)</enum><text>Environmental Protection Agency and pollution control programs.</text> </paragraph><paragraph id="H72E3B217732D4BDDBCC67C1826551B13"><enum>(23)</enum><text>Internal Revenue Service and United States Treasury operations.</text>
+ </paragraph><paragraph id="HA1EC3546F6284B428E426F64549A6AE1"><enum>(24)</enum><text>Coast Guard and maritime programs.</text> </paragraph><paragraph id="H39D108CAB8B24F90865D435050E93722"><enum>(25)</enum><text>Community Development Block Grants.</text>
+ </paragraph><paragraph id="H292A2EFFF18C4568AAD8757174E95141"><enum>(26)</enum><text>Congress and legislative branch activities.</text> </paragraph><paragraph id="H9170EFEEFD5D49B18A0E42500FF5493F"><enum>(27)</enum><text>United States Postal Service.</text>
+ </paragraph><paragraph id="HAEA0F50697B245048540101B8A7A830D"><enum>(28)</enum><text>Executive Office of the President.</text> </paragraph><paragraph id="HD0AB2D5297994B36929937DFA2D7B59F"><enum>(29)</enum><text>Other Federal spending.</text>
+ </paragraph></subsection><subsection id="H525A82E3C29A47A6A957F55259AAE9D7"><enum>(d)</enum><header>Additional major expenditure categories</header><text>With respect to each fiscal year, the Director of the Congressional Budget Office shall include additional categories and subcategories of Federal spending for purposes of subsection (c), but only if, and only for so long as, each such additional category or subcategory exceeds 3 percent of total Federal outlays for the fiscal year.</text>
+ </subsection><subsection id="HECE4A51240E44A3D9AD8CBB16F35D347"><enum>(e)</enum><header>Timing of Federal tax receipt</header><text>A Federal tax receipt shall be made available to each taxpayer as soon as practicable upon the processing of that taxpayer’s income tax return by the Internal Revenue Service.</text>
+ </subsection><subsection id="HCC752219D0304E839A190EC5A1B3FBA4"><enum>(f)</enum><header>Use of technologies</header><text display-inline="yes-display-inline">The Internal Revenue Service is encouraged to utilize modern technologies such as electronic mail and the Internet to minimize the cost of sending Federal tax receipts to taxpayers. The Internal Revenue Service shall establish an interactive program on its Internet Web site to allow taxpayers to generate Federal tax receipts on their own.</text>
+ </subsection><subsection id="H16D230F8E6C248139ED7781408CE0D8A"><enum>(g)</enum><header>Cost</header><text>No charge shall be imposed to cover any cost associated with the production or distribution of the Federal tax receipt.</text>
+ </subsection><subsection id="H5AE6AFFCBEE64B2B83BFD1DD30AC5EA0"><enum>(h)</enum><header>Regulations</header><text>The Secretary may prescribe such regulations as may be necessary to carry out this section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="HA8C15B4AFC84484EBEB42BB8FFC63CAA"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/77">chapter 77</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new item:</text>
+				<quoted-block id="H76119BEA037E425DB02F107CB91DD581" style="OLC">
+					<toc>
+						<toc-entry idref="H048EAD8F6BFF4263AB07D2EAEEA95AB7" level="section">Sec. 7529. Federal tax receipt.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H9C7B6A83DCC646F09D9E259F024ECF54"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

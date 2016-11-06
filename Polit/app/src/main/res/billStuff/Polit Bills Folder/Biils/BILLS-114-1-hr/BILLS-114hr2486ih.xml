@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H761F52FAAA254692A26C586698AC114C" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2486 IH: Stop Deducting Damages Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2486</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150520">May 20, 2015</action-date> 
+<action-desc><sponsor name-id="W000800">Mr. Welch</sponsor> (for himself and <cosponsor name-id="G000535">Mr. Gutiérrez</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Internal Revenue Code of 1986 to disallow deductions for the payment of compensatory and punitive damages to a government, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H30CA864865A6465B938833C96DC047CD" style="OLC"> 
+<section id="H15DE1700DB4B4430BA577C1E45BDFC9E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Deducting Damages Act of 2015</short-title></quote>.</text></section> <section id="HDA2FB36021C147F1B152CF42797B448F"><enum>2.</enum><header>Treatment of payments of compensatory and punitive damages paid to a government</header> <subsection id="H85739C2A03D24498914016EA73EC8931"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/162">Section 162(f)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text> 
+<quoted-block display-inline="no-display-inline" id="H57ACCD10DB0549C28F5B6FD274EAEBCF" style="OLC"> 
+<subsection id="HD8AE8DC6DF854BFDA963B68A570CDB90"><enum>(f)</enum><header>Damages paid to a government</header> 
+<paragraph id="H567D34434D57481CA5465FF4DD652903"><enum>(1)</enum><header>Fines and penalties</header><text>No deduction shall be allowed under subsection (a) for any fine or similar penalty paid to a government for the violation of any law.</text></paragraph> <paragraph id="H088C1B73E4474286988924AE96E104A5"><enum>(2)</enum><header>Compensatory damages</header><text display-inline="yes-display-inline">No deduction shall be allowed under this chapter for any amount paid or incurred for compensatory damages in connection with any judgment in, or settlement of, any action against a government.</text></paragraph> 
+<paragraph id="H6DCB6134C04C403F97159B4F364B3F48"><enum>(3)</enum><header>Punitive damages</header><text>No deduction shall be allowed under this chapter for any amount paid or incurred for punitive damages in connection with any judgment in, or settlement of, any action against a government. This paragraph shall not apply to punitive damages described in section 104(c).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H502C236CB3B54D1DAEB1004CF711BF4B"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by this section shall apply to damages paid or incurred after December 31, 2014.</text></subsection></section> 
+<section id="H8F58C822CF3044F2B3DE5E8DBC33916B"><enum>3.</enum><header>Inclusion in income of punitive damages paid by insurer or otherwise</header> 
+<subsection id="H28708D2821C94FF09DC486B1A2E35607"><enum>(a)</enum><header>In general</header><text>Part II of subchapter B of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text> <quoted-block id="H17578C11ACD8481D8C76DF5E5C5AD040" style="OLC"> <section id="H9ED88CE5AEE241EE970B052607EAA653"><enum>91.</enum><header>Punitive damages compensated by insurance or otherwise</header><text display-inline="no-display-inline">Gross income shall include any amount paid to or on behalf of a taxpayer as insurance or otherwise by reason of the taxpayer’s liability (or agreement) to pay punitive damages.</text></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="HCE0F71479AAD47AE9628DDBAC9B03B62"><enum>(b)</enum><header>Reporting requirements</header><text>Section 6041 of such Code is amended by adding at the end the following new subsection:</text> <quoted-block id="HCFCAF3078BDE44A39F55B65BC3D0A3DF" style="OLC"> <subsection id="HF4B7D3299A844A4083DEA7BB3C787DBC"><enum>(h)</enum><header>Section To Apply to punitive damages compensation</header><text>This section shall apply to payments by a person to or on behalf of another person as insurance or otherwise by reason of the other person’s liability (or agreement) to pay punitive damages.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="H9716E4BD97764AD691CEE8B1876048BC"><enum>(c)</enum><header>Conforming amendment</header><text>The table of sections for part II of subchapter B of chapter 1 of such Code is amended by adding at the end the following new item:</text> <quoted-block id="H42F52477F8A44B22AA51DA3D1772CEEB" style="OLC"> <toc regeneration="no-regeneration"> <toc-entry level="section">Sec. 91. Punitive damages compensated by insurance or otherwise.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H84D2EE53257942DBA98D381BE61D0F7F"><enum>(d)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by this section shall apply to damages paid or incurred after December 31, 2014.</text></subsection></section> 
+</legis-body> 
+</bill> 
+
+

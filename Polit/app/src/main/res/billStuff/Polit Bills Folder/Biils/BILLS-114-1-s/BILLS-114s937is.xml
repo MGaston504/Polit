@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S937 IS: State Grazing Management Authority Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-04-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 937</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150414">April 14, 2015</action-date>
+			<action-desc><sponsor name-id="S118">Mr. Hatch</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Land Policy and Management Act of 1976 to authorize the Secretary of the
+			 Interior to enter into cooperative agreements with States to provide for
+			 State management of grazing permits and leases.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>State Grazing Management Authority Act</short-title></quote>.</text>
+ </section><section id="id707005E49EFC47DCB247E9118D48A7D1"><enum>2.</enum><header>Authorization of cooperative agreements between the Secretary of the Interior and the States</header><text display-inline="no-display-inline">Section 402 of the Federal Land Policy and Management Act of 1976 (<external-xref legal-doc="usc" parsable-cite="usc/43/1752">43 U.S.C. 1752</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id8E3DE0EDA52246EE9F5BD5DBD2A9DD2D" style="OLC">
+				<subsection id="id8682F6742FC840C0A35CF1691FEE48E9"><enum>(k)</enum><header>Cooperative agreements with States</header>
+ <paragraph id="idD1D184A4720C412092A4A277EEBC5303"><enum>(1)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this subsection:</text> <subparagraph id="idF14D6FE698B74BAFBD2F8DC5D9F34E22"><enum>(A)</enum><header>Cooperative agreement</header><text>The term <quote>cooperative agreement</quote> means a cooperative agreement entered into under paragraph (2).</text>
+						</subparagraph><subparagraph id="idE14E0C6960DA464CB111D49809BC5666"><enum>(B)</enum><header>Eligible federal land</header>
+ <clause id="idB7EDDBF7AD7D488683322B00216A8D70"><enum>(i)</enum><header>In general</header><text>The term <quote>eligible Federal land</quote> means public land that is subject to a grazing permit or lease issued by the Bureau.</text> </clause><clause id="id08DE63B275B940EF96DC93BFCE3AD129"><enum>(ii)</enum><header>Exclusion</header><text>The term <quote>eligible Federal land</quote> does not include—</text>
+ <subclause id="idE4F4E9825BBF4542BA2D0AD0A9DDF92F"><enum>(I)</enum><text>a unit of the National Wilderness Preservation System; or</text> </subclause><subclause id="idBA46DA128372498A843A82BF399DF71D"><enum>(II)</enum><text>an area of critical environmental concern.</text>
+ </subclause></clause></subparagraph><subparagraph id="idA925AAA93C2A4B83AACFC32B1A4515D1"><enum>(C)</enum><header>Secretary</header><text>The term <quote>Secretary</quote> means the Secretary of the Interior, acting through the Director of the Bureau.</text> </subparagraph></paragraph><paragraph id="id5B9F521260684EF7BFB3562C35A1779D"><enum>(2)</enum><header>Authorization</header><text>At the request of the Governor of a State, the Secretary shall enter into a cooperative agreement with the State to provide for State management of grazing allotments on eligible Federal land in the State, subject to this subsection.</text>
+					</paragraph><paragraph id="id023439552663429689629A2F2CBB8B39"><enum>(3)</enum><header>Maximum number of grazing allotments</header>
+ <subparagraph id="idABA1E7C835D84A7AAE288EC6E5834EB9"><enum>(A)</enum><header>In general</header><text>Except as provided in subparagraph (B), not more than 2 grazing allotments may be managed by any one State at any one time under this subsection.</text>
+ </subparagraph><subparagraph id="id4FBEDC9191F24297B75EF077E65D84C9"><enum>(B)</enum><header>Waiver</header><text>The Secretary may waive the limitation under subparagraph (A) with respect to a State if the Secretary determines a waiver to be appropriate.</text>
+ </subparagraph></paragraph><paragraph id="id73258034BE4B4B17B96B51C36B4A8DCB"><enum>(4)</enum><header>NEPA authority</header><text>A cooperative agreement shall include the assignment of the responsibilities of the Secretary under the National Environmental Policy Act of 1969 (<external-xref legal-doc="usc" parsable-cite="usc/42/4321">42 U.S.C. 4321 et seq.</external-xref>) to the State with respect to the grazing allotments managed under that paragraph, including the responsibility for determining whether the following actions with respect to the grazing allotments qualify for a categorical exclusion under that Act:</text>
+ <subparagraph id="idA11063063D344FC786F62E7D249DD857"><enum>(A)</enum><text>The conduct of vegetation projects.</text> </subparagraph><subparagraph id="idCC5887AE3FD64A4DAAEB27B08F2040FB"><enum>(B)</enum><text>The conduct of pinyon or juniper treatments.</text>
+ </subparagraph><subparagraph id="idDC4D13E6C3F4456981840BBD22828E44"><enum>(C)</enum><text>Determinations with respect to the number of permitted animal unit months.</text> </subparagraph></paragraph><paragraph id="id25D5E3FD0EEF4C90AD9BF317DEAB5768"><enum>(5)</enum><header>Term</header> <subparagraph id="id91D38F9F0AC54B32BF96A03B6EB56739"><enum>(A)</enum><header>In general</header><text>A cooperative agreement shall be for a term of 20 years.</text>
+ </subparagraph><subparagraph id="idFA664A309DCD41649369439F04A92AF5"><enum>(B)</enum><header>Renewal</header><text>If the Secretary and State agree to a renewal of a cooperative agreement, the cooperative agreement may be renewed for an additional 20-year term.</text>
+ </subparagraph></paragraph><paragraph id="idFB6A6FF04AA243C8BED268F0076B757E"><enum>(6)</enum><header>Applicable law</header><text>In managing grazing allotments under paragraph (2), a State shall be subject to—</text> <subparagraph id="id626AF4C61C8E4966B20E02FC28A604DF"><enum>(A)</enum><text>this Act; and</text>
+ </subparagraph><subparagraph id="id9C2B534F2186422A8313A4E2C5B947C0"><enum>(B)</enum><text>any other applicable Federal law (including regulations).</text>
+						</subparagraph></paragraph><paragraph id="id8D9AD2126A724D4689BD3DD5A157A565"><enum>(7)</enum><header>Resolution of disputes</header>
+ <subparagraph id="idDB4EB513447A4820A78722DB30D22C52"><enum>(A)</enum><header>Authority of the Interior Board of Land Appeals</header><text>Nothing in this subsection provides to the Interior Board of Land Appeals authority to hear a case with respect to a decision relating to a grazing allotment managed by the State under paragraph (2).</text>
+ </subparagraph><subparagraph id="id091505CF21EE48B4A16BD025C1328E9E"><enum>(B)</enum><header>State dispute resolution process</header><text>A cooperative agreement shall provide for the development of a process by the State to resolve disputes relating to a decision by the State with respect to a grazing allotment managed by the State under the cooperative agreement.</text>
+						</subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body>
+</bill>
+
+

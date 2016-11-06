@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H91D2A3FF6E134732859968855337EABA" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3335 IH: Access to Veterans Benefits Improvement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 3335</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150729">July 29, 2015</action-date> 
+<action-desc><sponsor name-id="D000619">Mr. Rodney Davis of Illinois</sponsor> (for himself, <cosponsor name-id="B001295">Mr. Bost</cosponsor>, and <cosponsor name-id="W000799">Mr. Walz</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend title 38, United States Code, to provide certain employees of Members of Congress and certain employees of State or local governmental agencies with access to case-tracking information of the Department of Veterans Affairs.</official-title> 
+</form> 
+<legis-body id="H7B87970DBB574969B56C0DF7EDFFAD7B" style="OLC"> 
+<section id="HF65BB586A10A4187B3925229E90844EB" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Access to Veterans Benefits Improvement Act</short-title></quote>.</text></section> <section id="HE19D3399F5394B35B324BE1A322590A8" section-type="subsequent-section"><enum>2.</enum><header>Provision of access to case-tracking information</header> <subsection id="HF6E5A702241545B2B8722F4F289165EA"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/59">Chapter 59</external-xref> of title 38, United States Code, is amended by adding at the end the following:</text> 
+<quoted-block display-inline="no-display-inline" id="H96C122ABF8324AF4BF7477305C28DD70" style="USC"> 
+<section id="HAC8A052A96C949FEAE56C54DC12A1CA9"><enum>5906.</enum><header>Provision of access to case-tracking information</header> 
+<subsection id="H6A8FDB10CAA9424090456637DD65920D"><enum>(a)</enum><header>In general</header> 
+<paragraph commented="no" display-inline="yes-display-inline" id="H84159078C56E46C5BD788650EE73F49D"><enum>(1)</enum><text>In accordance with subsection (b), the Secretary shall provide a covered employee with access to the case-tracking system to provide a veteran with information regarding the status of a claim submitted by such veteran, regardless of whether such employee is acting under a power of attorney executed by such veteran.</text></paragraph> <paragraph id="H64B0D028976044DABA139DDB142BEC99" indent="up1"><enum>(2)</enum><text>In providing a covered employee with access to the case-tracking system under paragraph (1), the Secretary shall ensure—</text> 
+<subparagraph id="HF1472949FADD4DBD9A2B3C0AF5AC31BF"><enum>(A)</enum><text display-inline="yes-display-inline">that such access—</text> <clause id="HCF97D01BBB524B5DBF1F2636BB204826"><enum>(i)</enum><text>is provided in a manner that does not allow such employee to modify the data contained in such system; and</text></clause> 
+<clause id="HD23820C90ECA407FBDABE2D975FE9D89"><enum>(ii)</enum><text>does not include access to medical records; and</text></clause></subparagraph> <subparagraph id="H5FBDC61AA1914DA1AF18527BE8C7B51E"><enum>(B)</enum><text>that each time a covered employee accesses such system, the employee must certify that such access is for official purposes only.</text></subparagraph></paragraph></subsection> 
+<subsection id="HCF9C9540AC1F4C18A82A658EA96074BD"><enum>(b)</enum><header>Privacy certification course</header><text>The Secretary may not provide a covered employee with access to the case-tracking system under subsection (a)(1) unless the covered employee has successfully completed a certification course on privacy issues provided by the Secretary.</text></subsection> <subsection id="HFCC1719E6EE747048902F606C3DA91C9"><enum>(c)</enum><header>Treatment of disclosure</header><text>The access to information by a covered employee pursuant to subsection (a)(1) shall be deemed to be—</text> 
+<paragraph id="H221B9C379A94449CA38A36EB07ED8927"><enum>(1)</enum><text display-inline="yes-display-inline">a covered disclosure under section 552a(b) of title 5; and</text></paragraph> <paragraph id="H59CAC9E8D98843EE873BAE41782E5145"><enum>(2)</enum><text display-inline="yes-display-inline">a permitted disclosure under regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/42/1320d-2">42 U.S.C. 1320d–2</external-xref> note).</text></paragraph></subsection> 
+<subsection id="H828892587B3745D2844B1F8931678796"><enum>(d)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section:</text> <paragraph id="H932E8BEFF4664F469EDE242EB95F775F"><enum>(1)</enum><text>The term <term>case-tracking system</term> means the system of the Department of Veterans Affairs that provides information regarding the status of a claim submitted by a veteran.</text></paragraph> 
+<paragraph id="H3500BB7637B243AF840AE5B851DBD230"><enum>(2)</enum><text display-inline="yes-display-inline">The term <term>covered employee</term> means—</text> <subparagraph id="HB7D75848B85045419613A4A1BC72FC55"><enum>(A)</enum><text>an employee of a Member of Congress who assists the constituents of the Member with issues regarding departments or agencies of the Federal Government; or</text></subparagraph> 
+<subparagraph id="H590F94CFA84F484689515A4FAAD020D2"><enum>(B)</enum><text>an employee of a State or local governmental agency (including a veterans service officer) who, in the course of carrying out the responsibilities of such employment, assists veterans with claims for any benefit under the laws administered by the Secretary.</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HDA179874BD8644C6B1E21244002B4EF5"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of such chapter is amended by adding at the end the following new item:</text> 
+<quoted-block display-inline="no-display-inline" id="H665BBC5ABE3F4D83896377E243C31419" style="USC"> 
+<toc regeneration="no-regeneration"> 
+<toc-entry level="section">5906. Provision of access to case-tracking information.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> 
+</legis-body> 
+</bill> 
+

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5440EED2F0164FE6BD484803FF72C3A9" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3933 IH: 179 Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3933</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151105">November 5, 2015</action-date>
+			<action-desc><sponsor name-id="C001062">Mr. Conaway</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to make permanent the expensing limitations and
+			 treatment of certain real property as section 179 property, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="H0BADA1E6304042E9A05D5AE9F60BD82A" style="OLC">
+ <section id="id1AA74C15A87B4A3B9D3A19D406A007C4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>179 Act</short-title></quote>.</text></section><section id="HB59BB701AAE9482FAD6ED7E4251F0489" section-type="subsequent-section"><enum>2.</enum><header>Extension of increased expensing limitations and treatment of certain real property as section 179 property</header> <subsection id="H277F0BCE48654AA4A66E92E766234E15"><enum>(a)</enum><header>In general</header> <paragraph id="HD7F1EFEE8D274E6CA5C47DFC9FE7EF04"><enum>(1)</enum><header>Dollar limitation</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/179">Section 179(b)(1)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="HD2956D26EB4C4BDCB37BC63CBA6033BE" style="OLC">
+ <paragraph id="H7EF8AC2023D44E52A1EA3E6250F8D1A8"><enum>(1)</enum><header>Dollar limitation</header><text display-inline="yes-display-inline">The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $500,000.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="HBCAA9D3DED61409B88E3E12D12BC8F98"><enum>(2)</enum><header>Reduction in limitation</header><text>Section 179(b)(2) of such Code is amended to read as follows:</text> <quoted-block display-inline="no-display-inline" id="H0F0F83D2A33C44989733346C7A239FB1" style="OLC"> <paragraph id="H978D25DB694941F8AFAC245903D52F21"><enum>(2)</enum><header>Reduction in limitation</header><text display-inline="yes-display-inline">The limitation under paragraph (1) for any taxable year shall be reduced (but not below zero) by the amount by which the cost of section 179 property placed in service during such taxable year exceeds $2,000,000.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="HD6B6EC6A5B3E47A79DEF4099CEADB694"><enum>(b)</enum><header>Computer software</header><text display-inline="yes-display-inline">Section 179(d)(1)(A)(ii) of such Code is amended by striking <quote>and before 2015</quote>.</text> </subsection><subsection commented="no" id="H4E55726904094333A5659986779C1F05"><enum>(c)</enum><header>Election</header><text display-inline="yes-display-inline">Section 179(c)(2) of such Code is amended by striking <quote>and before 2015</quote>.</text>
+			</subsection><subsection commented="no" id="H4163312F7FB2452FB34DD1CB0B4032EC"><enum>(d)</enum><header>Special rules for treatment of qualified real property</header>
+ <paragraph commented="no" id="H65A3648513364D1A8E704135078C2E76"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Section 179(f)(1) of such Code is amended by striking <quote>and before 2015</quote>.</text> </paragraph><paragraph commented="no" id="H4F4EE82125A44516898AE83CB5E0BD12"><enum>(2)</enum><header>Carryover limitation</header><text>Section 179(f)(4) of such Code is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="H421F7076D972466C9F2DB09138A9DDD5" style="OLC">
+ <paragraph commented="no" id="HD721E289033348698DF02C824A8419D6"><enum>(4)</enum><header>Carryover limitation</header><text display-inline="yes-display-inline">For purposes of applying this paragraph and subsection (b)(3)(B) to any taxable year, the amount which is disallowed under subsection (b)(3)(A) for such taxable year which is attributed to qualified real property shall be the amount which bears the same ratio to the total amount so disallowed as—</text>
+ <subparagraph commented="no" id="HF001B3F87F5D4D23A5C5EB4BC119A5CC"><enum>(A)</enum><text>the aggregate amount attributable to qualified real property placed in service during such taxable year, increased by the portion of any amount carried over to such taxable year from a prior taxable year which is attributable to such property, bears to</text>
+ </subparagraph><subparagraph commented="no" id="HF9D6F63E0A45449FA503C8C5BCA6AC55"><enum>(B)</enum><text>the total amount of section 179 property placed in service during such taxable year, increased by the aggregate amount carried over to such taxable year from any prior taxable year.</text>
+							</subparagraph><continuation-text commented="no" continuation-text-level="paragraph">For purposes of the preceding sentence, only section 179 property with respect to which an
+			 election was made under subsection (c)(1) shall be taken into account.</continuation-text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="HBAA828A099CA4212A5FBF7448B2BC90E"><enum>(e)</enum><header>Time when property treated as placed in service for 2016</header><text>Section 179(d) of such Code is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H3FF7512BB16549FFA52AC9F1F8F0C361" style="OLC"> <paragraph id="HD8DA6E7C82A84E9F9470FC6982EBB33C"><enum>(11)</enum><header>Time when property treated as placed in service</header><text display-inline="yes-display-inline">For purposes of this section, section 179 property placed in service during the first quarter of the first taxable year beginning in 2016 by a taxpayer shall be treated as having placed such property in service on the last day of the preceding taxable year if the taxpayer elects such treatment with respect to such preceding taxable year in accordance with subsection (c).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H8E4AE1F57E97463DBF11295A260082B1"><enum>(f)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2014.</text> </subsection></section></legis-body> </bill> 
+

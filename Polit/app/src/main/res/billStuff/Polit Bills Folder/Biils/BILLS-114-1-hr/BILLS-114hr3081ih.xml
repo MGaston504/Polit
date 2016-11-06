@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HF31CCA115FA54660B3AEF063248FA8AD" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3081 IH: TELE–MED Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3081</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150715">July 15, 2015</action-date>
+			<action-desc><sponsor name-id="N000181">Mr. Nunes</sponsor> (for himself, <cosponsor name-id="P000034">Mr. Pallone</cosponsor>, <cosponsor name-id="C001090">Mr. Cartwright</cosponsor>, <cosponsor name-id="P000608">Mr. Peters</cosponsor>, <cosponsor name-id="R000515">Mr. Rush</cosponsor>, <cosponsor name-id="S001168">Mr. Sarbanes</cosponsor>, <cosponsor name-id="W000812">Mrs. Wagner</cosponsor>, <cosponsor name-id="Y000064">Mr. Young of Indiana</cosponsor>, <cosponsor name-id="M001158">Mr. Marchant</cosponsor>, <cosponsor name-id="T000462">Mr. Tiberi</cosponsor>, <cosponsor name-id="C001092">Mr. Collins of New York</cosponsor>, <cosponsor name-id="K000376">Mr. Kelly of Pennsylvania</cosponsor>, <cosponsor name-id="P000588">Mr. Pearce</cosponsor>, <cosponsor name-id="P000258">Mr. Peterson</cosponsor>, <cosponsor name-id="C000059">Mr. Calvert</cosponsor>, <cosponsor name-id="H001065">Mr. Holding</cosponsor>, <cosponsor name-id="R000582">Mr. Roe of Tennessee</cosponsor>, and <cosponsor name-id="B001255">Mr. Boustany</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to permit certain Medicare providers licensed in a
+			 State to provide telemedicine services to certain Medicare beneficiaries
+			 in a different State.</official-title>
+	</form>
+	<legis-body id="HF3C07AD6E80A452587F2C136CCA40700" style="OLC">
+ <section id="H060A66554F064138B0C6F171D48F01CA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>TELEmedicine for MEDicare Act of 2015</short-title></quote> or as the <quote>TELE–MED Act of 2015</quote>.</text> </section><section id="H4598D3A7E9A44A7D8CE7480E628EDDFB"><enum>2.</enum><header>Permitting certain Medicare providers licensed in a State to provide telemedicine services to certain Medicare beneficiaries in a different State</header><text display-inline="no-display-inline">Title XVIII of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395">42 U.S.C. 1395 et seq.</external-xref>) is amended by adding at the end the following new section:</text>
+			<quoted-block display-inline="no-display-inline" id="H4972B13270CB4BC489D8490E7AA6CB21" style="OLC">
+				<section id="H0FD372489B374292BBE8AE5F90336A02"><enum>1899B.</enum><header>Permitting certain Medicare providers licensed in a State to provide telemedicine services to
+			 certain Medicare beneficiaries in a different State</header>
+ <subsection id="HF0ADC71A55474BD5B3351B0ADDA746B8"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">In the case of a Medicare participating physician or practitioner who is licensed or otherwise legally authorized to provide a health care service in a State, such physician or practitioner may provide such a service as a telemedicine service to a Medicare beneficiary who is in a different State, and any requirement that such physician or practitioner obtain a comparable license or other comparable legal authorization from such different State with respect to the provision of such health care service by such physician or practitioner to such beneficiary shall not apply.</text>
+ </subsection><subsection id="H711937A39C944C209370F8CA33F8FA41"><enum>(b)</enum><header>Enforcement</header><text display-inline="yes-display-inline">With respect to the provision of a service pursuant to this section, the licensing or authorizing State has jurisdiction to enforce the licensure or other legal authorization requirements of such primary State, including through disciplinary actions used by such State as of the day before the date of the enactment of this section.</text>
+ </subsection><subsection commented="no" id="HD2AE765511724E16B78EE69980DF37EE"><enum>(c)</enum><header>Process To establish telemedicine service definition</header><text display-inline="yes-display-inline">Not later than 9 months after the date of the enactment of this section, the Secretary shall issue guidance to the States for developing a definition of the term <term>telemedicine services</term> for purposes of applying this section. For purposes of issuing such guidance, the Secretary shall solicit input from relevant stakeholders, including patients, health care providers, State government officials, health technology developers, insurers, employers, licensing boards, community health organizations, and other Federal agencies.</text>
+ </subsection><subsection id="HFBF5DD157BB2458E8F72A893AB09BCE4"><enum>(d)</enum><header>Report</header><text>Not later than 12 months after the date of the enactment of this section, the Secretary shall submit to Congress a report on the plans to develop and expand the use of current and emerging Internet and communications technologies to expand access of Medicare beneficiaries to health programs.</text>
+ </subsection><subsection id="HBAD466D1DE4D49C1B959E679A5E61D1C"><enum>(e)</enum><header>Definitions</header><text display-inline="yes-display-inline">For purposes of this section:</text> <paragraph id="H58476498B1384595A90997B155F77BB7"><enum>(1)</enum><header>Medicare beneficiary</header><text display-inline="yes-display-inline">The term <term>Medicare beneficiary</term> means an individual entitled to benefits under part A or enrolled under part B.</text>
+ </paragraph><paragraph id="HB4C844C304204F6EA53D2BC855FDD7B1"><enum>(2)</enum><header>Qualifying physician or practitioner</header><text display-inline="yes-display-inline">The term <term>Medicare participating physician or practitioner</term> means the following:</text> <subparagraph id="HCFA0069647234EFD9AE791AD7AE939D6"><enum>(A)</enum><text display-inline="yes-display-inline">A physician (as defined in section 1861(r)) who is a participating physician or supplier (as defined in section 1842(h)(1)).</text>
+ </subparagraph><subparagraph id="H7D27176A1E95482D84E458FB050EC16B"><enum>(B)</enum><text display-inline="yes-display-inline">A practitioner (as defined in section 1842(b)(18)(C)) who is a participating physician or supplier (as defined in section 1842(h)(1)).</text>
+ </subparagraph></paragraph></subsection><subsection id="H5A87647F5AE44F1490174F78D5C9A874"><enum>(f)</enum><header>Construction</header><text display-inline="yes-display-inline">Nothing in this section may be construed to remove, limit, or otherwise affect any obligation of a covered health care professional under the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/801">21 U.S.C. 801 et seq.</external-xref>).</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

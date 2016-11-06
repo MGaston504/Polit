@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Referred-in-Senate" bill-type="olc" dms-id="H6716649BCF5E46748989CEA646DA059D" key="H" public-private="public" stage-count="1">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1408 : Mortgage Servicing Asset Capital Requirements Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IIB</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1408</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action><action-date date="20150715">July 15, 2015</action-date><action-desc>Received; read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc></action><legis-type>AN ACT</legis-type>
+		<official-title display="yes">To require certain Federal banking agencies to conduct a study of the appropriate capital
+			 requirements for mortgage servicing assets for banking institutions, and
+			 for other purposes.</official-title>
+	</form>
+	<legis-body id="H4AA57647E84E406B891639302D013CC9" style="OLC">
+ <section id="H7C925F16670F490A9911A512BABFC742" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Mortgage Servicing Asset Capital Requirements Act of 2015</short-title></quote>.</text> </section><section id="HA8B1EFCBC4544544A18404912503DDDF"><enum>2.</enum><header>Study of mortgage servicing assets</header> <subsection id="H21D8E6E5B5B44F83860B39D4CAB81F70"><enum>(a)</enum><header>Definitions</header><text>In this section:</text>
+ <paragraph id="HF96C6132985D4406AEDF979C700F61E3"><enum>(1)</enum><header>Banking institution</header><text>The term <quote>banking institution</quote> means an insured depository institution, Federal credit union, State credit union, bank holding company, or savings and loan holding company.</text>
+ </paragraph><paragraph id="H09C8AE7E40FD463E911C44932F9F33E8"><enum>(2)</enum><header>Basel iii capital requirements</header><text>The term <quote>Basel III capital requirements</quote> means the Global Regulatory Framework for More Resilient Banks and Banking Systems issued by the Basel Committee on Banking Supervision on December 16, 2010, as revised on June 1, 2011.</text>
+ </paragraph><paragraph id="HDE2266B5EFDC4569B68B8C99267DC2A6"><enum>(3)</enum><header>Federal banking agencies</header><text>The term <quote>Federal banking agencies</quote> means the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration.</text>
+ </paragraph><paragraph id="H48EDA698ABC24E6A8C064D7471214B51"><enum>(4)</enum><header>Mortgage servicing assets</header><text>The term <quote>mortgage servicing assets</quote> means those assets that result from contracts to service loans secured by real estate, where such loans are owned by third parties.</text>
+ </paragraph><paragraph id="H749DF266A873423E8B402B8A5FF2B90A"><enum>(5)</enum><header>NCUA capital requirements</header><text>The term <quote>NCUA capital requirements</quote> means the proposed rule of the National Credit Union Administration entitled <quote>Risk-Based Capital</quote> (80 Fed. Reg. 4340 (January 27, 2015)).</text> </paragraph><paragraph id="HEE0370B92F634DBC9E6914238CC0009A"><enum>(6)</enum><header>Other definitions</header> <subparagraph id="H6A68DB5050584E06B9B828BF4E415750"><enum>(A)</enum><header>Banking definitions</header><text>The terms <quote>bank holding company</quote>, <quote>insured depository institution</quote>, and <quote>savings and loan holding company</quote> have the meanings given those terms in section 3 of the Federal Deposit Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1813">12 U.S.C. 1813</external-xref>).</text>
+ </subparagraph><subparagraph id="HE3BECB039F3746CB93146C1EED6F271D"><enum>(B)</enum><header>Credit union definitions</header><text>The terms <quote>Federal credit union</quote> and <quote>State credit union</quote> have the meanings given those terms in section 101 of the Federal Credit Union Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1752">12 U.S.C. 1752</external-xref>).</text>
+					</subparagraph></paragraph></subsection><subsection id="H553BF572714540F788D169129BF04920"><enum>(b)</enum><header>Study of the appropriate capital for mortgage servicing assets</header>
+ <paragraph id="HAD5E56A40891436092521729D845F089"><enum>(1)</enum><header>In general</header><text>The Federal banking agencies shall jointly conduct a study of the appropriate capital requirements for mortgage servicing assets for banking institutions.</text>
+ </paragraph><paragraph id="H2BB8E4388E214EC299C32BC836FB748A"><enum>(2)</enum><header>Issues to be studied</header><text>The study required under paragraph (1) shall include, with a specific focus on banking institutions—</text>
+ <subparagraph id="H562D392323154562B975985DED313A4B"><enum>(A)</enum><text>the risk to banking institutions of holding mortgage servicing assets;</text> </subparagraph><subparagraph id="H42397DEC93E1478482A4727D16C5EAFB"><enum>(B)</enum><text>the history of the market for mortgage servicing assets, including in particular the market for those assets in the period of the financial crisis;</text>
+ </subparagraph><subparagraph id="HC82FD96AB3B9405F97D64EED2A9A222D"><enum>(C)</enum><text>the ability of banking institutions to establish a value for mortgage servicing assets of the institution through periodic sales or other means;</text>
+ </subparagraph><subparagraph id="H509693407F0942B285EB9F3670EB2E78"><enum>(D)</enum><text>regulatory approaches to mortgage servicing assets and capital requirements that may be used to address concerns about the value of and ability to sell mortgage servicing assets;</text>
+ </subparagraph><subparagraph id="H77C610150E6F4FFBB8D75197C444C23A"><enum>(E)</enum><text>the impact of imposing the Basel III capital requirements and the NCUA capital requirements on banking institutions on the ability of those institutions—</text>
+ <clause id="HE26DFAEF1EA64B3E975C7BCCAC8B72A1"><enum>(i)</enum><text>to compete in the mortgage servicing business, including the need for economies of scale to compete in that business; and</text>
+ </clause><clause id="HEF8E663F67F94742A8A39056EA30483F"><enum>(ii)</enum><text>to provide service to consumers to whom the institutions have made mortgage loans;</text> </clause></subparagraph><subparagraph id="H0754215620DC408F9B8B5C30E698C90F"><enum>(F)</enum><text>an analysis of what the mortgage servicing marketplace would look like if the Basel III capital requirements and the NCUA capital requirements on mortgage servicing assets—</text>
+ <clause id="H5D6EAAA8C9B2404685C2F438019190C9"><enum>(i)</enum><text>were fully implemented; and</text> </clause><clause id="H75D5A298508044E29BB3DACE576BB68E"><enum>(ii)</enum><text>applied to both banking institutions and nondepository residential mortgage loan servicers;</text>
+ </clause></subparagraph><subparagraph id="HB424B8621374414497AA5D58BD080DAA"><enum>(G)</enum><text>the significance of problems with mortgage servicing assets, if any, in banking institution failures and problem banking institutions, including specifically identifying failed banking institutions where mortgage servicing assets contributed to the failure; and</text>
+ </subparagraph><subparagraph id="HEE9DD5B82E904E529336E85AAB94D15E"><enum>(H)</enum><text>an analysis of the relevance of the Basel III capital requirements and the NCUA capital requirements on mortgage servicing assets to the banking systems of other significantly developed countries.</text>
+ </subparagraph></paragraph><paragraph id="H2072074983DE4948A01AE415183F29E9"><enum>(3)</enum><header>Report to congress</header><text>Not later than 180 days after the date of enactment of this Act, the Federal banking agencies shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report containing—</text>
+ <subparagraph id="H2D1EC238EF684A8DB2585E353D8C956F"><enum>(A)</enum><text>the results of the study required under paragraph (1);</text> </subparagraph><subparagraph id="HAF170DF4BA304412B8A73CBD4A7C4D7C"><enum>(B)</enum><text>any analysis on the specific issue of mortgage servicing assets undertaken by the Federal banking agencies before finalizing regulations implementing the Basel III capital requirements and the NCUA capital requirements; and</text>
+ </subparagraph><subparagraph id="HFA2A4EDDD82F4DE89B95E8CBE34DD0ED"><enum>(C)</enum><text>any recommendations for legislative or regulatory actions that would address concerns about the value of and ability to sell and the ability of banking institutions to hold mortgage servicing assets.</text>
+					</subparagraph></paragraph></subsection></section></legis-body>
+	<attestation><attestation-group><attestation-date chamber="House" date="20150714">Passed the House of Representatives July 14, 2015.</attestation-date><attestor display="yes">Karen L. Haas,</attestor><role>Clerk</role></attestation-group></attestation>
+</bill>
+
+

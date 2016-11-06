@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9DB07F86AF264D7F80D7EA222E16B742" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2620 IH: To amend the United States Cotton Futures Act to exclude certain cotton futures contracts from coverage under such Act.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2620</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150602">June 2, 2015</action-date>
+			<action-desc><sponsor name-id="S001157">Mr. David Scott of Georgia</sponsor> (for himself, <cosponsor name-id="S001189">Mr. Austin Scott of Georgia</cosponsor>, <cosponsor name-id="W000796">Mr. Westmoreland</cosponsor>, and <cosponsor name-id="B000490">Mr. Bishop of Georgia</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the United States Cotton Futures Act to exclude certain cotton futures contracts from
+			 coverage under such Act.</official-title>
+	</form>
+	<legis-body id="HB236F15987DC419CB12820154385F67E" style="OLC">
+		<section id="HD7CCD18D07184F3ABEDB66D017BB55E8" section-type="section-one"><enum>1.</enum><header>Excluding certain cotton futures contracts from coverage under United States Cotton Futures Act</header>
+ <subsection id="H70B9AE09FB8F4D31B5F2183D03CFF49F"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subsection (c)(1) of the United States Cotton Futures Act (<external-xref legal-doc="usc" parsable-cite="usc/7/15B">7 U.S.C. 15B(c)(1)</external-xref>) is amended—</text> <paragraph id="HBD542DD6613E4D1AA9A391689E6558F0"><enum>(1)</enum><text>by striking <quote>except that any cotton futures contract</quote> and inserting the following:</text>
+					<quoted-block display-inline="yes-display-inline" id="H9550CF6D4BF848FAA55298B0CF0CAF0E" style="traditional">
+ <text>except that—</text><subparagraph id="HEB577594217D446DA840CA0BFC332D63"><enum>(A)</enum><text>any cotton futures contract</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block> </paragraph><paragraph id="HE7F2ED9C65A24F569811E08D5B1EBE73"><enum>(2)</enum><text>by adding at the end the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H3E132DA1A06349AAB61E0DF5DDF48E76" style="traditional">
+ <subparagraph id="H73764C24B8D642C8A94A4879ACEEF652"><enum>(B)</enum><text>any cotton futures contract that permits tender of cotton grown outside of the United States is excluded from the coverage of this paragraph and section to the extent that the cotton grown outside of the United States is tendered for delivery under the cotton futures contract.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="HF99644354C2D453D8CDC4E83727DDDE5"><enum>(b)</enum><header>Application</header><text>The amendments made by subsection (a) shall apply with respect to cotton futures contracts entered into on or after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

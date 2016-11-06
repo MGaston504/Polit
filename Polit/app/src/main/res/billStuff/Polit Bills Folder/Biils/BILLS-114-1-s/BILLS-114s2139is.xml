@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2139 IS: Small Contractors Improve Competition Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-10-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2139</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151006">October 6, 2015</action-date>
+			<action-desc><sponsor name-id="S299">Mr. Vitter</sponsor> (for himself and <cosponsor name-id="S324">Mrs. Shaheen</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSSB00">Committee on Small Business and Entrepreneurship</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Small Business Act to prohibit the use of reverse auctions for the procurement of
+			 covered contracts.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Contractors Improve Competition Act of 2015</short-title></quote>.</text>
+		</section><section id="idAF85DFCF1F3345CDA0872D4B49DBFB10"><enum>2.</enum><header>Limitations on reverse auctions</header>
+ <subsection id="id833E21AF085A4FA8A015072CE2E3D79F"><enum>(a)</enum><header>Sense of Congress</header><text>It is the sense of Congress that, when used appropriately, reverse auctions may improve procurement by the Federal Government of commercially available commodities by increasing competition, reducing prices, and improving opportunities for small businesses.</text>
+ </subsection><subsection id="idC1036A0B0F1844ADBF901EB3A901A941"><enum>(b)</enum><header>Limitations on reverse auctions</header><text>The Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/631">15 U.S.C. 631 et seq.</external-xref>) is amended—</text> <paragraph id="id14A0636E1F5742CBA8BEDA48E0140F01"><enum>(1)</enum><text>by redesignating section 47 as section 48; and</text>
+ </paragraph><paragraph id="id140037D094CA414BA246B92058A012E7"><enum>(2)</enum><text>by inserting after section 46 the following:</text> <quoted-block display-inline="no-display-inline" id="id5592A8C874C14E5194CC3B131DD1F981" style="OLC"> <section id="id4C9EDC065202422BA01FF2A17D81B9F8"><enum>47.</enum><header>Limitations on reverse auctions for covered contracts</header> <subsection id="id06AB9CDCCBAE475BB053747E313C629C"><enum>(a)</enum><header>Definitions</header><text>In this section—</text>
+ <paragraph id="H5F7C0CAE2A7348E8AFCFCBE548A76DF6"><enum>(1)</enum><text>the term <term>contracting officer</term> has the meaning given the term in section 2101 of title 41, United States Code;</text> </paragraph><paragraph id="H6564919DAA8C467D88442FDE9FF94A4A"><enum>(2)</enum><text>the term <term>covered contract</term> means a contract—</text>
+ <subparagraph id="H0E6CE92A8ABC451F9DD1B135CFE5170C"><enum>(A)</enum><text>for design and construction services;</text> </subparagraph><subparagraph id="HFE64860F7F1D479F83E19E64DBA6C653"><enum>(B)</enum><text display-inline="yes-display-inline">for goods purchased to protect Federal employees, members of the Armed Forces, or civilians from bodily harm; or</text>
+ </subparagraph><subparagraph id="H1FF08C3954E74E3BAD6C0B1AE144CD2D"><enum>(C)</enum><text display-inline="yes-display-inline">for goods or services other than those goods or services described in subparagraph (A) or (B)—</text> <clause id="H9A11F21E790E4EAD9F06355F7B70B008"><enum>(i)</enum><text display-inline="yes-display-inline">to be awarded based on factors other than price and technical responsibility; or</text>
+ </clause><clause id="HFF9124B86BA347B8AA7435EBEF21CDE1"><enum>(ii)</enum><text display-inline="yes-display-inline">if awarding the contract requires the contracting officer to conduct discussions with the offerors about their offer;</text>
+ </clause></subparagraph></paragraph><paragraph id="H9982EFF011CC4B21AB79C2746540A0F0"><enum>(3)</enum><text>the term <term>design and construction services</term> means—</text> <subparagraph id="HBCA37B61C5DE4027BE579A0AD36DFA37"><enum>(A)</enum><text>site planning and landscape design;</text>
+ </subparagraph><subparagraph id="H7CB3FEE81ADB4356A75B3CF7FF7BD158"><enum>(B)</enum><text>architectural and interior design;</text> </subparagraph><subparagraph id="H69599928E66A41FCB6C4AF72719B1588"><enum>(C)</enum><text>engineering system design;</text>
+ </subparagraph><subparagraph id="H767265828A334870862B093987BCF345"><enum>(D)</enum><text>performance of construction work for facility, infrastructure, and environmental restoration projects;</text>
+ </subparagraph><subparagraph id="H8BD7EA1FD02C4A73A8DC2EE76C475A07"><enum>(E)</enum><text>delivery and supply of construction materials to construction sites;</text> </subparagraph><subparagraph id="HDDBD2D2DECCE40A6890FBC1952611E5E"><enum>(F)</enum><text>construction, alteration, or repair, including painting and decorating, of public buildings and public works; and</text>
+ </subparagraph><subparagraph id="H5CA89C477EFC4D6F98D5D50C01E95117"><enum>(G)</enum><text>architectural and engineering services, as defined in section 1102 of title 40, United States Code;</text> </subparagraph></paragraph><paragraph id="id40265D8F78AC4E4E913ADAB9D2167A99"><enum>(4)</enum><text>the term <term>responsible source</term> has the meaning given the term in section 113 of title 41, United States Code; and</text>
+ </paragraph><paragraph id="H38825116D8C54E59B76672FFA01D3985"><enum>(5)</enum><text display-inline="yes-display-inline">the term <term>reverse auction</term>, with respect to procurement by an agency, means an auction between a group of offerors who compete against each other by submitting offers for a contract or task or delivery order with the ability to submit revised offers with lower prices throughout the course of the auction.</text>
+ </paragraph></subsection><subsection id="H5F3BD9F107064E94BC4C7A37DAF7D263"><enum>(b)</enum><header>Prohibition on using reverse auctions for covered contracts</header><text display-inline="yes-display-inline">In the case of a covered contract, a reverse auction may not be used if the award of the covered contract is to be made under—</text>
+ <paragraph id="HCC73C4B8C7EA4F3DA28AED1228F97849"><enum>(1)</enum><text>section 8(a);</text> </paragraph><paragraph id="HB4B42AC9766249F4ACA249081BFF97FE"><enum>(2)</enum><text>section 8(m);</text>
+ </paragraph><paragraph commented="no" id="H6426AEF141BE4FB9A6712295C529DFDB"><enum>(3)</enum><text>section 15(a);</text> </paragraph><paragraph id="H879F68BEEF84406983D3C913C584F113"><enum>(4)</enum><text>section 15(j);</text>
+ </paragraph><paragraph id="HFF2B3E7606004A258BFF8C74DB74CC48"><enum>(5)</enum><text>section 31; or</text> </paragraph><paragraph id="H5769908F0FC140FA99DDDB116759B3B9"><enum>(6)</enum><text>section 36.</text>
+ </paragraph></subsection><subsection id="H03A2394A5C4D4D51A90CD4F831FE1D64"><enum>(c)</enum><header>Limitations on using reverse auctions</header><text display-inline="yes-display-inline">In the case of the award of a contract made under paragraphs (1) through (6) of subsection (b) that is not a covered contract, a reverse auction may be used for the award of such a contract only if the following requirements are met:</text>
+ <paragraph id="HEEAACE6BC68B4745AA06EB18FC62AC85"><enum>(1)</enum><header>Decisions regarding use of a reverse auction</header><text display-inline="yes-display-inline">Subject to paragraph (2), the following decisions with respect to such a contract shall only be made by a contracting officer:</text>
+ <subparagraph id="H86F73967B038403B80D3C403E03AE522"><enum>(A)</enum><text>A decision to use a reverse auction as part of the competition for award of such a contract.</text> </subparagraph><subparagraph id="H1A3928F581A749FFB73A62ECA75E98DD"><enum>(B)</enum><text>Any decision made after the decision described in subparagraph (A) regarding the appropriate evaluation criteria, the inclusion of vendors, the acceptability of vendor submissions (including decisions regarding timeliness), and the selection of the winner.</text>
+									</subparagraph></paragraph><paragraph id="HF0FF1B92FD984B60AA88DF766E68BCA5"><enum>(2)</enum><header>Training required</header>
+ <subparagraph id="idBE634005A98F425CAA59D044F101BCD8"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Only a contracting officer who has received training on the appropriate use and supervision of reverse auctions may use or supervise a reverse auction for the award of such a contract.</text>
+ </subparagraph><subparagraph id="idE4E5E2EE68A6432EAEE0D1A192F0EC78"><enum>(B)</enum><header>Training</header><text display-inline="yes-display-inline">The training described in subparagraph (A) shall be provided by, or similar to the training provided by, the Defense Acquisition University as described in section 824 of the Carl Levin and Howard P. <quote>Buck</quote> McKeon National Defense Authorization Act for Fiscal Year 2015 (<external-xref legal-doc="public-law" parsable-cite="pl/113/291">Public Law 113–291</external-xref>; 127 Stat. 3436).</text>
+ </subparagraph></paragraph><paragraph id="HB1EBB3A5E16641F39B4B6A1299A96A86"><enum>(3)</enum><header>Number of offers; revisions to bids</header><text>A Federal agency may not award such a contract using a reverse auction if—</text> <subparagraph id="idEBD89268A80C4F47ABD6A16DA1E49806"><enum>(A)</enum><text>only 1 offer is received; or</text>
+ </subparagraph><subparagraph id="id40983ECF1C4C421C8084627CE0122009"><enum>(B)</enum><text>offerors do not have the ability to submit revised bids with lower prices throughout the course of the auction.</text>
+ </subparagraph></paragraph><paragraph id="H364699C456EB4DA6A69E65F2F7851947"><enum>(4)</enum><header>Technically acceptable offers</header><text display-inline="yes-display-inline">A Federal agency awarding such a contract using a reverse auction shall evaluate the technical acceptability of offers only as technically acceptable or unacceptable.</text>
+ </paragraph><paragraph id="HF48F572992CC492AAB331CEEF6DCFDC2"><enum>(5)</enum><header>Use of price rankings</header><text display-inline="yes-display-inline">A Federal agency may not award such a contract using a reverse auction if at any time during the procurement process the Federal agency misinforms an offeror about the price ranking of the last offer of the offeror submitted in relation to offers submitted by other offerors.</text>
+ </paragraph><paragraph id="H5416ECEFD43F410AA3CECA0AD30BA2E8"><enum>(6)</enum><header>Use of third-party agents</header><text display-inline="yes-display-inline">If a Federal agency uses a third-party agent to assist with the award of such a contract using a reverse auction, the Federal agency shall ensure that—</text>
+ <subparagraph id="H49A3F9D42214439A889EC07F17281494"><enum>(A)</enum><text>inherently governmental functions are not performed by private contractors, including by the third-party agent;</text>
+ </subparagraph><subparagraph id="H603BDAA450AA480F9079EF2750DC575A"><enum>(B)</enum><text>information on the past contract performance of offerors created by the third-party agent and shared with the Federal agency is collected, maintained, and shared in compliance with section 1126 of title 41, United States Code;</text>
+ </subparagraph><subparagraph id="H52AB87D79A4B4DBB8D155742810BEE1E"><enum>(C)</enum><text display-inline="yes-display-inline">information on whether an offeror is a responsible source that is created by the third-party agent and shared with the Federal agency is shared with the offeror and complies with section 8(b)(7); and</text>
+ </subparagraph><subparagraph id="HDBE67AC2ACA74F75AE700677755295B9"><enum>(D)</enum><text display-inline="yes-display-inline">disputes between the third-party agent and an offeror may not be used to justify a determination that an offeror is not a responsible source or to otherwise restrict the ability of an offeror to compete for the award of a contract or task.</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB656E71EDA7345E190F1CE292613FCF5" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1415 IH: Jane’s Law</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1415</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150318">March 18, 2015</action-date> 
+<action-desc><sponsor name-id="P000592">Mr. Poe of Texas</sponsor> (for himself and <cosponsor name-id="C001068">Mr. Cohen</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend title 18, United States Code, to strengthen enforcement of spousal court-ordered property distributions, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HDD7A22F61EA74652A451C42E40CE0926" style="OLC"> 
+<section display-inline="no-display-inline" id="H6CF32653CD01491B9BEC10DE0C116C7D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Jane’s Law</short-title></quote>.</text></section> <section id="H28F53F8F7A7E46BD8EC33C1C76021BC6"><enum>2.</enum><header>Spousal obligations</header> <subsection id="H72062DEF327A4886809689FF62ACAE3E"><enum>(a)</enum><header>In General</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/11A">Chapter 11A</external-xref> of title 18, United States Code, is amended by adding at the end the following:</text> 
+<quoted-block display-inline="no-display-inline" id="H1FA329D03CF542D0939C7ACFC22D6FDB" style="USC"> 
+<section id="H702AB5F3CE7B45C183952359096113D5"><enum>228A.</enum><header>Failure to pay legal spousal court-ordered property distribution</header> 
+<subsection id="HB30B00A23B9D4A7882A735832C4C5C1E"><enum>(a)</enum><header>Offense</header><text>Whoever knowingly, travels in interstate or foreign commerce, with the intent to evade compliance with a court ordered property distribution as part of a separation or divorce settlement involving more than $5,000, with respect to a spouse or former spouse, shall be fined under this title or imprisoned for not more than two years or both.</text></subsection> <subsection id="H673667D92E544F77910288A13B3B8BF3"><enum>(b)</enum><header>Mandatory Restitution</header><text>Upon a conviction under this section, the court shall order restitution under section 3663A in an amount equal to the total unpaid property distribution.</text></subsection> 
+<subsection id="H93035690F26D45938823B6126C1EB0E8"><enum>(c)</enum><header>Definition</header><text>The term <term>court ordered property distribution</term> means any amount determined under a court order pursuant to the law of a State or of an Indian tribe to be due from a spouse or former spouse as an equitable or other distribution to a spouse or former spouse of assets in connection with a separation or divorce.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HC08F5D95876B417E931025FC4F0B5228"><enum>(b)</enum><header>Clerical amendments</header> <paragraph id="HDD72FFF20A6D4D0483FF0340701ED658"><enum>(1)</enum><header>Table of sections</header><text>The table of sections at the beginning of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/11A">chapter 11A</external-xref> of title 18, United States Code, is amended by adding at the end the following new item:</text> 
+<quoted-block id="H48BBE43106074EB7A1F3E6F3F3D6F29D" style="OLC"> 
+<toc regeneration="no-regeneration"> 
+<toc-entry level="section">228A. Failure to pay legal spousal obligations.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></paragraph> 
+<paragraph id="H31CFC6CB5AB34911A84CBDAEA8F15805"><enum>(2)</enum><header>Table of chapters</header><text>The item in the table of chapters for part I of title 18, United States Code, relating to chapter 11A is amended to read as follows:</text> <quoted-block display-inline="no-display-inline" id="H182ACB5C4675412FAF4E1004FEF02768" style="USC"> <toc regeneration="no-regeneration"> <multi-column-toc-entry bold="on" level="section"><toc-enum>11A.</toc-enum><level-header bold="on" level="section">Child support and spousal obligations</level-header><target>228</target></multi-column-toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section> </legis-body> </bill> 
+

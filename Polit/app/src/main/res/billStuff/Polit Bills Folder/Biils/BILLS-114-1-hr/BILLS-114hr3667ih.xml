@@ -1,0 +1,1872 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H61BB5F8073384E928F9FAB251F7F3700"
+    public-private="public">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3667 IH: United Nations Transparency, Accountability, and Reform Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code display="yes">I</distribution-code>
+        <congress>114th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>H. R. 3667</legis-num>
+        <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+        <action>
+            <action-date date="20151001">October 1, 2015</action-date>
+            <action-desc><sponsor name-id="R000435">Ms. Ros-Lehtinen</sponsor> introduced the
+                following bill; which was referred to the <committee-name committee-id="HFA00"
+                    >Committee on Foreign Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To promote transparency, accountability, and reform within the United
+            Nations system, and for other purposes.</official-title>
+    </form>
+    <legis-body id="H220FE18C423143C09A0CB0F9C2178805" style="OLC">
+        <section id="HCC8563AEBA3F4B8DB280AD18C5B8A5A1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title; table of contents</header>
+            <subsection id="HC64D8A046F9747EA8B7F47DF36970E44">
+                <enum>(a)</enum>
+                <header>Short title</header>
+ <text>This Act may be cited as the <quote><short-title>United Nations Transparency, Accountability, and Reform Act of 2015</short-title></quote>.</text>
+            </subsection>
+            <subsection id="HCB9764B836314A99A5B2404581759371">
+                <enum>(b)</enum>
+                <header>Table of contents</header>
+ <text>The table of contents for this Act is as follows:</text> <toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration"> <toc-entry idref="HCC8563AEBA3F4B8DB280AD18C5B8A5A1" level="section" >Sec. 1. Short title; table of contents.</toc-entry> <toc-entry idref="H49AD42C2EE324EB5AD0E6824CAEEEF79" level="section" >Sec. 2. Definitions.</toc-entry> <toc-entry idref="H3CCBAD7CBB7A4CAD927B68F501BA0202" level="title">Title I—FUNDING OF THE UNITED NATIONS</toc-entry> <toc-entry idref="H6CDBCE2515274C688E3CF3769F3A017D" level="section" >Sec. 101. Findings.</toc-entry> <toc-entry idref="H3B1CC20CC8544960B629CCFBF45FA1F7" level="section" >Sec. 102. Apportionment of the United Nations regular budget on a voluntary basis.</toc-entry> <toc-entry idref="HEC4DF756285E4ED9942A1BE9428B409A" level="section" >Sec. 103. Budget justification for United States contributions to the regular budget of the United Nations.</toc-entry> <toc-entry idref="H61A188F019BB4F23B097BE20FE0AB54A" level="section" >Sec. 104. Report on United Nations reform.</toc-entry> <toc-entry idref="H99D15A0856A64FABB80922CEAEB4A8CF" level="title">Title II—TRANSPARENCY AND ACCOUNTABILITY FOR UNITED STATES CONTRIBUTIONS TO THE UNITED NATIONS</toc-entry> <toc-entry idref="HA341E58C69C744C6B582FDD77AE184A5" level="section" >Sec. 201. Findings.</toc-entry> <toc-entry idref="H6A071E3FF00E4897A536CFDAF41BBE31" level="section" >Sec. 202. Definitions.</toc-entry> <toc-entry idref="H1836A202868842E7B5DF92E6C286108D" level="section" >Sec. 203. Oversight of United States contributions to the United Nations System.</toc-entry> <toc-entry idref="H12F7ABAFEA054D2B8A39FE9A5F16AFBE" level="section" >Sec. 204. Transparency for United States Contributions.</toc-entry> <toc-entry idref="H44A8EC012B1F47FEAD39636B7102C3D4" level="section" >Sec. 205. Integrity for United States Contributions.</toc-entry> <toc-entry idref="HF54FEA29A0644276B1F915F933092A75" level="section" >Sec. 206. Refund of monies owed by the United Nations to the United States.</toc-entry> <toc-entry idref="H46375F244AB24916B34EADD1F24397CD" level="section" >Sec. 207. Annual reports on United States Contributions to the United Nations.</toc-entry> <toc-entry idref="HBBA2D927960B4A958A2D3ADA5F8A64AC" level="section" >Sec. 208. Report on United Nations procurement practices.</toc-entry> <toc-entry idref="H10BB1EA8C62D4ED09F98EBB1822AC7F1" level="title">Title III—UNITED STATES POLICY AT THE UNITED NATIONS</toc-entry> <toc-entry idref="H7DA4B390295D4E7895C45433D513A89F" level="section" >Sec. 301. Annual publication.</toc-entry> <toc-entry idref="H05B5F108F3244DA4BC4A614EE7FD42AE" level="section" >Sec. 302. Annual financial disclosure.</toc-entry> <toc-entry idref="H31EB9B979E3B43F59E6B658809D60E66" level="section" >Sec. 303. Policy with respect to expansion of the Security Council.</toc-entry> <toc-entry idref="HC394CE8469214B919448BF73A80EBFF9" level="section" >Sec. 304. Access to reports and audits.</toc-entry> <toc-entry idref="HEC1D7038C1EC4730975A9140CF036953" level="section" >Sec. 305. Waiver of immunity.</toc-entry> <toc-entry idref="HEF847CBE758543C78ED16C61DA441D44" level="section" >Sec. 306. Review of United Nations Conventions on Terrorism.</toc-entry> <toc-entry idref="H885D5C41A05E49FB8196E8B83E60BBE6" level="section" >Sec. 307. Report on United Nations personnel.</toc-entry> <toc-entry idref="HD74A0D6EF2654F5D81371C22B072BEA2" level="section" >Sec. 308. United Nations treaty bodies.</toc-entry> <toc-entry idref="H171654526AB54D1EA56C50C40322B903" level="section" >Sec. 309. Equality at the United Nations.</toc-entry> <toc-entry idref="H9CB531E6543844FBAA2E5C72B1F8A563" level="section" >Sec. 310. Anti-Semitism and the United Nations.</toc-entry> <toc-entry idref="HD9DACE58528B4FD9B062621DF68187B8" level="section" >Sec. 311. United States policy on Taiwan’s participation in United Nations Entities.</toc-entry> <toc-entry idref="HA1642A5EFD1B4310B33D45360DBC003E" level="section" >Sec. 312. United States policy on Tier 3 human rights violators.</toc-entry> <toc-entry idref="H2BE497BFB96446FFA77B1BD8F47F1EA2" level="title">Title IV—STATUS OF PALESTINIAN ENTITIES AT THE UNITED NATIONS</toc-entry> <toc-entry idref="HF3B78A94F3EB4996A39338531EDD519A" level="section" >Sec. 401. Findings.</toc-entry> <toc-entry idref="HD3ED0AFC71904190A7C9A7D8A2BEC7E3" level="section" >Sec. 402. Statement of policy.</toc-entry> <toc-entry idref="H7CECA177364247A49E1A230749D664DD" level="section" >Sec. 403. Implementation.</toc-entry> <toc-entry idref="HEBE08D6DC5044C8FA9C85EC2D4719C8B" level="title">Title V—UNITED NATIONS HUMAN RIGHTS COUNCIL</toc-entry> <toc-entry idref="H4B154E6360C14B27A535A9E38C1CA9FF" level="section" >Sec. 501. Findings.</toc-entry> <toc-entry idref="H4749607BBBBF40C18918D3C3F6C5B4C6" level="section" >Sec. 502. Human Rights Council membership and funding.</toc-entry> <toc-entry idref="HB9821E05A48B48B2B37BA08F73633C98" level="title">Title VI—2014 GAZA REPORT</toc-entry> <toc-entry idref="H74B1AD1FCB9D4F428D73FB9CB658A449" level="section" >Sec. 601. Findings.</toc-entry> <toc-entry idref="HFDA7A40D28EE4AED93F543D3E8466451" level="section" >Sec. 602. Statement of policy.</toc-entry> <toc-entry idref="H5171299AFE1948479228CB6CC4A814E7" level="section" >Sec. 603. Withholding of funds; Refund of United States taxpayer dollars.</toc-entry> <toc-entry idref="H0D2A668A6E16484590E8AF41E20847A2" level="title">Title VII—BIASED AND COMPROMISED ACTIVITIES</toc-entry> <toc-entry idref="HB6210D7E661D448BA405BA26A450A5E6" level="section" >Sec. 701. Withholding of funds.</toc-entry> <toc-entry idref="H1B31C5A387C04EBE90E0C74D792F32FE" level="title">Title VIII—UNRWA</toc-entry> <toc-entry idref="H75EB9BD3F4AC4149B3FB36F9B9768B83" level="section" >Sec. 801. Findings.</toc-entry> <toc-entry idref="HF0DF74E37E79444AB55A241DC192516F" level="section" >Sec. 802. United States Contributions to UNRWA.</toc-entry> <toc-entry idref="H8E608E9627604EFBB9469AD90A5A2BEA" level="section" >Sec. 803. Sense of Congress.</toc-entry> <toc-entry idref="H2C893380D87042F4A73AF4EF156C2630" level="title">Title IX—INTERNATIONAL ATOMIC ENERGY AGENCY</toc-entry> <toc-entry idref="H6E3BAF3D807A4ED195CBDA68E6A70BDE" level="section" >Sec. 901. Technical cooperation program.</toc-entry> <toc-entry idref="H36110B43CC58437D94D5AE1CCC579D51" level="section" >Sec. 902. United States policy at the IAEA.</toc-entry> <toc-entry idref="H56D03E1B02A148F5B3846B695090D327" level="section" >Sec. 903. Sense of Congress regarding the Nuclear Security Action Plan of the IAEA.</toc-entry> <toc-entry idref="H4956914CA55B41A19E1DADC190522A18" level="title">Title X—PEACEKEEPING</toc-entry> <toc-entry idref="H720A8C135B9843DA93673299ECBEF92A" level="section" >Sec. 1001. Reform of United Nations peacekeeping operations.</toc-entry> <toc-entry idref="HC062350FE268437F94096A9B0261AD6F" level="section" >Sec. 1002. Policy relating to reform of United Nations peacekeeping operations.</toc-entry> <toc-entry idref="HBE2E42116F024A8EA922A69EFB38C212" level="section" >Sec. 1003. Certification.</toc-entry> </toc> </subsection> </section> <section id="H49AD42C2EE324EB5AD0E6824CAEEEF79"> <enum>2.</enum> <header>Definitions</header> <text display-inline="no-display-inline">In this Act:</text>
+            <paragraph id="HC3FDEADBB3454649BFCEA4F67E5584C4">
+                <enum>(1)</enum>
+                <header>Employee</header>
+ <text>The term <term>employee</term> means an individual who is employed in the general services, professional staff, or senior management of the United Nations, including consultants, contractors, and subcontractors.</text>
+            </paragraph>
+            <paragraph id="H1512BCF3F9594001B9BC4E6B91C677E8">
+                <enum>(2)</enum>
+                <header>General Assembly</header>
+ <text>The term <term>General Assembly</term> means the General Assembly of the United Nations.</text>
+            </paragraph>
+            <paragraph id="HDA95F9F90B89484198F69BBE8C9FF883">
+                <enum>(3)</enum>
+                <header>Member State</header>
+ <text>The term <term>Member State</term> means a Member State of the United Nations. Such term is synonymous with the term <term>country</term>.</text>
+            </paragraph>
+            <paragraph id="H7DA4AC8318764B7EB33E1A70473B074A">
+                <enum>(4)</enum>
+                <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of State.</text> </paragraph> <paragraph id="HE92D085B22AC4358BCFBDA65C70CE7E3"> <enum>(5)</enum> <header>Secretary General</header> <text>The term <term>Secretary General</term> means the Secretary General of the United Nations.</text>
+            </paragraph>
+            <paragraph id="HF24E73B7C656431DA8A9620C7179ACF0">
+                <enum>(6)</enum>
+                <header>Security Council</header>
+ <text>The term <term>Security Council</term> means the Security Council of the United Nations.</text>
+            </paragraph>
+            <paragraph id="H777D121ADD76434A94EF83B0DF1466A3">
+                <enum>(7)</enum>
+                <header>U<enum-in-header>N</enum-in-header></header>
+ <text>The term <term>UN</term> means the United Nations.</text> </paragraph> <paragraph id="HE070CCF4F3E94B42AF6B653411FD44BD"> <enum>(8)</enum> <header>United Nations Entity</header> <text>The term <term>United Nations Entity</term> means any United Nations agency, commission, conference, council, court, department, forum, fund, institute, office, organization, partnership, program, subsidiary body, tribunal, trust, university or academic body, related organization or subsidiary body, wherever located, that flies the United Nations flag or is authorized to use the United Nations logo, including those United Nations affiliated agencies and bodies identified as recipients of United States contributions under section 1225(b)(3)(E) of the John Warner National Defense Authorization Act for Fiscal Year 2007 (<external-xref legal-doc="public-law" parsable-cite="pl/109/364">Public Law 109–364</external-xref>), but not including the International Bank for Reconstruction and Development, the International Centre for Settlement of Investment Disputes, the International Development Association, the International Finance Corporation, the Multilateral Investment Guarantee Agency, and the World Trade Organization.</text>
+            </paragraph>
+            <paragraph id="HF61471614C7A46139262DFFA9B39386F">
+                <enum>(9)</enum>
+                <header>United Nations System</header>
+ <text>The term <term>United Nations System</term> means the aggregation of all United Nations Entities, as defined in paragraph (8).</text>
+            </paragraph>
+            <paragraph id="H8D85696F76184FD8B94C14672BFB09FF">
+                <enum>(10)</enum>
+                <header>United States Contribution</header>
+ <text>The term <term>United States Contribution</term> means an assessed or voluntary contribution, whether financial, in-kind, or otherwise, from the United States Government to a United Nations Entity, including contributions passed through other entities for ultimate use by a United Nations Entity. United States Contributions include those contributions identified pursuant to section 1225(b)(3)(E) of the John Warner National Defense Authorization Act for Fiscal Year 2007 (<external-xref legal-doc="public-law" parsable-cite="pl/109/364">Public Law 109–364</external-xref>).</text>
+            </paragraph>
+            <paragraph id="H14D7F406891B4039B15FDE164ACE7656">
+                <enum>(11)</enum>
+                <header>Appropriate congressional committees</header>
+ <text>The term <term>appropriate congressional committees</term> means—</text> <subparagraph id="H80BC029F2EBB46A98BC44A1293C20342"> <enum>(A)</enum> <text>the Committees on Foreign Affairs, Appropriations, and Oversight and Government Reform of the House of Representatives; and</text>
+                </subparagraph>
+                <subparagraph id="H5E553F5293D643808AC886744D202105">
+                    <enum>(B)</enum>
+ <text>the Committees on Foreign Relations, Appropriations, and Homeland Security and Governmental Affairs of the Senate.</text>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <title id="H3CCBAD7CBB7A4CAD927B68F501BA0202">
+            <enum>I</enum>
+            <header>FUNDING OF THE UNITED NATIONS</header>
+            <section id="H6CDBCE2515274C688E3CF3769F3A017D">
+                <enum>101.</enum>
+                <header>Findings</header>
+ <text display-inline="no-display-inline">Congress makes the following findings:</text>
+                <paragraph id="H9D94D9A187FF45338AC7E58C2BC0AE6C">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">The United States pays billions of dollars into the United Nations system every year (almost $7,700,000,000 in 2010, according to the White House Office of Management and Budget, the last time a complete report has been provided), significantly more than any other nation.</text>
+                </paragraph>
+                <paragraph id="H78204FA345794DFF8D02F2C74072BD81">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">The Secretary of State has yet provide to Congress a report on all United States contributions to the United Nations and United Nations Entities as required 90 days after the enactment of the Consolidated and Further Continuing Appropriations Act of 2015 (<external-xref legal-doc="public-law" parsable-cite="pl/113/235">Public Law 113–235</external-xref>) on December 16, 2014, in accordance with House Report 113–499, which accompanied the State, Foreign Operations, and Related Programs Appropriations Bill of 2015.</text>
+                </paragraph>
+                <paragraph id="H10B3A1C264864761B6DE0CEB6DE99983">
+                    <enum>(3)</enum>
+ <text>Under current rules and contribution levels, it is possible to assemble the two-thirds majority needed for important United Nations budget votes with a group of countries that, taken together, pay approximately 1 percent of the total United Nations regular budget.</text>
+                </paragraph>
+                <paragraph id="HB9AA643EED574B1486F9D3D158A376C7">
+                    <enum>(4)</enum>
+ <text>The disconnect between contribution levels and management control creates significant perverse incentives in terms of United Nations spending, transparency, and accountability.</text>
+                </paragraph>
+                <paragraph id="HF725D7AE56754FBE8D9993D5669DD318">
+                    <enum>(5)</enum>
+ <text>The United Nations system suffers from unacceptably high levels of waste, fraud, and abuse, which seriously impair its ability to fulfill the lofty ideals of its founding.</text>
+                </paragraph>
+                <paragraph id="HC7CF5ECEED88483EA77A5061C0459CFF">
+                    <enum>(6)</enum>
+ <text>Amidst the continuing financial, corruption, and sexual abuse scandals of the past several years, American public disapproval of United Nations has reached all-time highs. A 2015 Gallup poll revealed that 57 percent of Americans believe that the United Nations is doing a poor job.</text>
+                </paragraph>
+                <paragraph id="H6DFDCEC1E8784A9AA003AED3A89B91D0">
+                    <enum>(7)</enum>
+ <text>Significant improvements in United Nations transparency and accountability are necessary for improving public perceptions of American support for United Nations operations.</text>
+                </paragraph>
+                <paragraph id="H56639EC585454EA093629E81965F028F">
+                    <enum>(8)</enum>
+ <text>Because of their need to justify future contributions from donors, voluntarily funded organizations have more incentive to be responsive and efficient in their operations than organizations funded by compulsory contributions that are not tied to performance.</text>
+                </paragraph>
+                <paragraph id="HDAD8E7A83441413F8BA63542E871D87B">
+                    <enum>(9)</enum>
+ <text>Catherine Bertini, the former United Nations Under-Secretary General for Management and director of the World Food Program (WFP), has stated that <quote>Voluntary funding creates an entirely different atmosphere at WFP than at the UN. At WFP, every staff member knows that we have to be as efficient, accountable, transparent, and results-oriented as possible. If we are not, donor governments can take their funding elsewhere in a very competitive world among UN agencies, NGOs, and bilateral governments.</quote>.</text>
+                </paragraph>
+                <paragraph id="HB568C8D08BAF4AD19764EE7C19610DB2">
+                    <enum>(10)</enum>
+ <text>Article XVII of the Charter of the United Nations, which states that <quote>[t]he expenses of the Organization shall be borne by the Members as apportioned by the General Assembly</quote>, leaves to the discretion of the General Assembly the basis of apportionment, which could be done on the basis of voluntary pledges by Member States.</text>
+                </paragraph>
+                <paragraph id="H9B33608C199847FE88BF8230E428966A">
+                    <enum>(11)</enum>
+ <text>Unlike United States assessed contributions to the United Nations regular budget, which are statutorily capped at 22 percent of the total, there is no cap on voluntary contributions.</text>
+                </paragraph>
+                <paragraph id="H72851ECDDE064E78A3071C03566C4454">
+                    <enum>(12)</enum>
+ <text>The United States, which contributes generously to international organizations whose activities it recognizes as credible, worthwhile, and efficient, contributes more than 22 percent of the budget of certain voluntarily funded United Nations Specialized Agencies.</text>
+                </paragraph>
+                <paragraph id="HFD104F466A78458082B693A40B6EB7ED">
+                    <enum>(13)</enum>
+ <text>John Bolton, former United States Permanent Representative to the United Nations, has stated that <quote>Moving to voluntary funding would end the UN practice of charging member states for the expenses of the UN and its activities. Member states would instead determine for themselves how much to provide to the UN and, importantly, the specific tasks and activities that those contributions would support. The shift toward a voluntary payment system would impose a stronger market incentive for UN programs and activities to meet their goals and justify continued funding.</quote>.</text>
+                </paragraph>
+            </section>
+            <section id="H3B1CC20CC8544960B629CCFBF45FA1F7">
+                <enum>102.</enum>
+                <header>Apportionment of the United Nations regular budget on a voluntary
+                    basis</header>
+                <subsection id="HF1C4EA745AA948ADB1C963B9D050177C">
+                    <enum>(a)</enum>
+                    <header>United States policy</header>
+                    <paragraph id="HD6286F7759C74BCA98ED8D0D4E2898D8">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>It is the policy of the United States to seek to shift the funding mechanism for the regular budget of the United Nations from an assessed to a voluntary basis.</text>
+                    </paragraph>
+                    <paragraph id="H38DF3E94EA1544D389203050B8E211C4">
+                        <enum>(2)</enum>
+                        <header>Action at United Nations</header>
+ <text>The President shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to shift the funding mechanism for the regular budget of the United Nations to a voluntary basis, and to make it a priority to build support for such a transformational change among Member States, particularly key United Nations donors.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="H2D365DC3F7674CB49186DC2A9379F38D">
+                    <enum>(b)</enum>
+                    <header>Certification of predominantly voluntary
+                            U<enum-in-header>N</enum-in-header> regular budget finding</header>
+ <text>A certification described in this section is a certification by the Secretary of State to the Appropriate Congressional Committees that at least 80 percent of the total regular budget (not including extra-budgetary contributions) of the United Nations is apportioned on a voluntary basis. Each such certification shall be effective for a period of not more than 1 year, and shall be promptly revoked by the Secretary, with notice to the appropriate congressional committees, if the underlying circumstances change so as not to warrant such certification.</text>
+                </subsection>
+                <subsection id="H80CA421039C54770B903455A5F532685">
+                    <enum>(c)</enum>
+                    <header>Withholding of nonvoluntary contributions</header>
+                    <paragraph id="H5EBA1A22F32441F3AEDE927C96CC6048">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>Beginning 2 years after the effective date of this Act and notwithstanding any other provision of law, no funds may be obligated or expended for a United States assessed contribution to the regular budget of the United Nations in an amount greater than 50 percent of the United States share of assessed contributions for the regular budget of the United Nations unless there is in effect a certification by the Secretary, as described in subsection (b).</text>
+                    </paragraph>
+                    <paragraph id="H0BDF092E072F47E19521E04382F6B860">
+                        <enum>(2)</enum>
+                        <header>Allowance</header>
+ <text>For a period of 1 year after appropriation, funds appropriated for use as a United States contribution to the regular budget of the United Nations but withheld from obligation and expenditure pursuant to paragraph (1) may be obligated and expended for that purpose upon the certification described in subsection (b). After 1 year, in the absence of such certification, those funds shall revert to the United States Treasury.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="HEC4DF756285E4ED9942A1BE9428B409A">
+                <enum>103.</enum>
+                <header>Budget justification for United States contributions to the regular budget
+                    of the United Nations</header>
+                <subsection id="HB9A715C29C174F63B73EB10626D5FA18">
+                    <enum>(a)</enum>
+                    <header>Detailed itemization</header>
+ <text>The annual congressional budget justification shall include a detailed itemized request in support of the contribution of the United States to the regular budget of the United Nations.</text>
+                </subsection>
+                <subsection id="HDC36D00BFE2F488185BE480E7D7B8C65">
+                    <enum>(b)</enum>
+                    <header>Contents of detailed itemization</header>
+ <text>The detailed itemization required under subsection (a) shall—</text> <paragraph id="HAF75615B7D304A7DA2B8E012D5D1DB25"> <enum>(1)</enum> <text>contain information relating to the amounts requested in support of each of the various sections and titles of the regular budget of the United Nations; and</text>
+                    </paragraph>
+                    <paragraph id="HF464A4D6796749F2A06691BEB9016401">
+                        <enum>(2)</enum>
+ <text>compare the amounts requested for the current year with the actual or estimated amounts contributed by the United States in previous fiscal years for the same sections and titles.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="H457B3288CF3D4A0380C413BAB897E392">
+                    <enum>(c)</enum>
+                    <header>Adjustments and notification</header>
+ <text>If the United Nations proposes an adjustment to its regular assessed budget, the Secretary of State shall, at the time such adjustment is presented to the Advisory Committee on Administrative and Budgetary Questions (ACABQ), notify and consult with the appropriate congressional committees.</text>
+                </subsection>
+            </section>
+            <section id="H61A188F019BB4F23B097BE20FE0AB54A">
+                <enum>104.</enum>
+                <header>Report on United Nations reform</header>
+                <subsection id="HD084A84FFF6B4F84818907CB1EA70428">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>Not later than 180 days after the date of the enactment of this Act and annually thereafter, the Secretary shall submit to the appropriate congressional committees a report on United Nations reform.</text>
+                </subsection>
+                <subsection id="H49EFC248E83945CDBE3CD26428D14373">
+                    <enum>(b)</enum>
+                    <header>Contents</header>
+ <text>The report required under subsection (a) shall describe the following:</text>
+                    <paragraph id="H52C6359B3B634F5AAC8E93FB57484C5B">
+                        <enum>(1)</enum>
+ <text>Progress toward the goal of shifting the funding for the United Nations Regular Budget to a voluntary basis as identified in section 102, and a detailed description of efforts and activities by United States diplomats and officials toward that end.</text>
+                    </paragraph>
+                    <paragraph id="H32EDC556AB234BBCAD9FE21A01B09AD6">
+                        <enum>(2)</enum>
+ <text>Progress toward each of the policy goals identified in the prior sections of this title, and a detailed, goal-specific description of efforts and activities by United States diplomats and officials toward those ends.</text>
+                    </paragraph>
+                    <paragraph id="H1650DCE0C0884FFBA03B010DDF72DC81">
+                        <enum>(3)</enum>
+ <text>The status of the implementation of management reforms within the United Nations and its specialized agencies.</text>
+                    </paragraph>
+                    <paragraph id="H83AC7B7B9E114DB3A5576812C962F6CF">
+                        <enum>(4)</enum>
+ <text>The number of outputs, reports, or other mandates generated by General Assembly resolutions that have been eliminated.</text>
+                    </paragraph>
+                    <paragraph id="H7D5297ED7A594B68964DC269238B4AAC">
+                        <enum>(5)</enum>
+ <text>The progress of the General Assembly to modernize and streamline the committee structure and its specific recommendations on oversight and committee outputs, consistent with the landmark March 2005 report of the Secretary General entitled <quote>In larger freedom: towards development, security and human rights for all</quote>.</text>
+                    </paragraph>
+                    <paragraph id="H6417DC68674B47B1A1BCD8BEF39BC0EB">
+                        <enum>(6)</enum>
+ <text>The status of the review by the General Assembly of all mandates older than 5 years and how resources have been redirected to new challenges, consistent with such March 2005 report of the Secretary General and other relevant reports.</text>
+                    </paragraph>
+                    <paragraph id="H86B506D601CC449C8F3733FA9CDA0B3A">
+                        <enum>(7)</enum>
+ <text>The continued utility and relevance of the Economic and Financial Committee and the Social, Humanitarian, and Cultural Committee, in light of the duplicative agendas of those committees and the Economic and Social Council.</text>
+                    </paragraph>
+                    <paragraph id="HEC34F947C00A4B6DA6783941EC55AAF4">
+                        <enum>(8)</enum>
+ <text>Whether the United Nations or any of its specialized agencies has contracted with any party included on the Lists of Parties Excluded from Federal Procurement and Nonprocurement Programs.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title id="H99D15A0856A64FABB80922CEAEB4A8CF">
+            <enum>II</enum>
+            <header>TRANSPARENCY AND ACCOUNTABILITY FOR UNITED STATES CONTRIBUTIONS TO THE UNITED
+                NATIONS</header>
+            <section id="HA341E58C69C744C6B582FDD77AE184A5">
+                <enum>201.</enum>
+                <header>Findings</header>
+ <text display-inline="no-display-inline">Congress makes the following findings:</text>
+                <paragraph id="H7D2D416E6C93458481577C0361E8C7C2">
+                    <enum>(1)</enum>
+ <text>As underscored by continuing revelations of waste, fraud, and abuse, oversight and accountability mechanisms within the United Nations system remain significantly deficient, despite decades of reform attempts, including those initiated by Secretaries General of the United Nations.</text>
+                </paragraph>
+                <paragraph id="H95429D15F43F4737A489736D5BAA89B1">
+                    <enum>(2)</enum>
+ <text>Notwithstanding the personal intentions of any Secretary General of the United Nations to promote institutional transparency and accountability within the United Nations System, the Secretary General lacks the power to impose far reaching management reforms without the concurrence of the General Assembly.</text>
+                </paragraph>
+                <paragraph id="H28405640C01548FD9C7CDA99A73CEC49">
+                    <enum>(3)</enum>
+ <text>Groupings of Member States whose voting power in the General Assembly significantly outpaces their proportional contributions to the United Nations system have repeatedly and successfully defeated, delayed, and diluted various reform proposals that would have enabled more detailed oversight and scrutiny of United Nations system operations and expenditures.</text>
+                </paragraph>
+                <paragraph id="H3E11EEF8AFAF4A658EE85343510DC89E">
+                    <enum>(4)</enum>
+ <text>To an unacceptable degree, major donor states, including the United States, lack access to reasonably detailed, reliable information that would allow them to determine how their contributions have been spent by various United Nations system entities, further contributing to the lack of accountability within the United Nations system.</text>
+                </paragraph>
+                <paragraph id="H67E8884197D340E29E1E466CF114F61E">
+                    <enum>(5)</enum>
+ <text display-inline="yes-display-inline">In September 2015, the State Department announced the United States would withhold 15 percent of United States contributions to the World Intellectual Property Organization (WIPO) because the Secretary of State could not certify that WIPO is meeting best practices for the protection of whistleblowers from retaliation in accordance with the Consolidated Appropriations Act of 2014 (<external-xref legal-doc="public-law" parsable-cite="pl/113/76">Public Law 113–76</external-xref>).</text>
+                </paragraph>
+            </section>
+            <section id="H6A071E3FF00E4897A536CFDAF41BBE31">
+                <enum>202.</enum>
+                <header>Definitions</header>
+ <text display-inline="no-display-inline">In this title:</text> <paragraph id="H7D61081D7D4348DCA4E972025D58D6CB"> <enum>(1)</enum> <header>Accountability Certification</header> <text>The term <term>Accountability Certification</term> means an annual, written affirmation by the head or authorized designee of a United Nations Entity provided to the Secretary of State that the Entity—</text>
+                    <subparagraph id="HFB351F86FFBC4EFF92D0329E909E4CD7">
+                        <enum>(A)</enum>
+ <text>provides the public with full, complete, and unfettered access to all relevant documentation relating to operations and activities, including budget and procurement activities;</text>
+                    </subparagraph>
+                    <subparagraph id="HD3D6EFE0B8F04526A5F7D61ED3167D83">
+                        <enum>(B)</enum>
+ <text>implements best practices for the protection of whistleblowers from retaliation, including best practices for—</text>
+                        <clause id="HA11B129979C04E87B2B851AD8B9B32B0">
+                            <enum>(i)</enum>
+ <text>protection against retaliation for internal and lawful public disclosures;</text>
+                        </clause>
+                        <clause id="HF018360D16694F709DDDF8E08BE751A9">
+                            <enum>(ii)</enum>
+ <text>legal burdens of proof;</text> </clause> <clause id="H319E86B98C65469AB360F0B94EA4C38B"> <enum>(iii)</enum> <text>statutes of limitation for reporting retaliation;</text>
+                        </clause>
+                        <clause id="HC161EC09173C4067808C2EF0833B2424">
+                            <enum>(iv)</enum>
+ <text>access to independent adjudicative bodies, including external arbitration; and</text>
+                        </clause>
+                        <clause id="H79405C173AD1416284B1270832D1794A">
+                            <enum>(v)</enum>
+ <text>results that eliminate the effects of proven retaliation;</text> </clause> </subparagraph> <subparagraph id="H8A6AE819B57F4532A69922748904CFA8"> <enum>(C)</enum> <text>implements and upholds policies and procedures to require the filing of individual annual financial disclosure forms by each of its employees at the P–5 level and above and to require that such forms be made available to the Office of Internal Oversight Services, to Member States, and to the public;</text>
+                    </subparagraph>
+                    <subparagraph id="H4DC36FAD80DA4A9FAA3283FCA1BB7F33">
+                        <enum>(D)</enum>
+ <text>has established an effective ethics office;</text> </subparagraph> <subparagraph id="H94CEF5A701854FB883D2AE3E17F500C8"> <enum>(E)</enum> <text>has established a fully independent, autonomous, and effective internal oversight body;</text>
+                    </subparagraph>
+                    <subparagraph id="HB388B94AC16443B0937CEBB30F0C4786">
+                        <enum>(F)</enum>
+ <text>has adopted and implemented, and is in full compliance with, International Public Sector Accounting Standards;</text>
+                    </subparagraph>
+                    <subparagraph id="HE694661B33F243B78BD7C23D32561040">
+                        <enum>(G)</enum>
+ <text>has established a cap on its administrative overhead costs;</text> </subparagraph> <subparagraph id="H00673946875249B2A84D56D83D6D37DD"> <enum>(H)</enum> <text>is not subject to sanctions by the Security Council; and</text>
+                    </subparagraph>
+                    <subparagraph id="H06138329AFF541D6AF1BD7B322C715C0">
+                        <enum>(I)</enum>
+ <text>is not subject to sanctions by the United States.</text> </subparagraph> </paragraph> <paragraph id="H851B948AAA334CABB79BC6F8B45426D1"> <enum>(2)</enum> <header>Oversight Information</header> <text>The term <term>Oversight Information</term> includes—</text>
+                    <subparagraph id="H33B643D764564B7AACD98534766147E5">
+                        <enum>(A)</enum>
+ <text>internally and externally commissioned audits, investigatory reports, program reviews, performance reports, and evaluations;</text>
+                    </subparagraph>
+                    <subparagraph id="H074427D1A0634DE4BE13A5CBF8D9EF7A">
+                        <enum>(B)</enum>
+ <text>financial statements, records, and billing systems;</text> </subparagraph> <subparagraph id="H2D533EC7EEE344CE86B6CB1DD1D2B22D"> <enum>(C)</enum> <text>program budgets and program budget implications, including revised estimates and reports produced by or provided to the Secretary General and the Secretary General’s agents on budget related matters;</text>
+                    </subparagraph>
+                    <subparagraph id="HC888C4964E5A4426AC3CF0420700B670">
+                        <enum>(D)</enum>
+ <text>operational plans, budgets, and budgetary analyses for peacekeeping operations;</text>
+                    </subparagraph>
+                    <subparagraph id="HF79CB5927D894933817E7DB3D6897C7B">
+                        <enum>(E)</enum>
+ <text>analyses and reports regarding the scale of assessments;</text> </subparagraph> <subparagraph id="HAA3B8DB8EB90446F89246662B5B76794"> <enum>(F)</enum> <text>databases and other data systems containing financial or programmatic information;</text>
+                    </subparagraph>
+                    <subparagraph id="H9CFF107490284E5F9AEFC86E001821AB">
+                        <enum>(G)</enum>
+ <text>documents or other records alleging or involving improper use of resources, misconduct, mismanagement, or other violations of rules and regulations applicable to the United Nations Entity; and</text>
+                    </subparagraph>
+                    <subparagraph id="H1EE0614602BC4827974BC5521309DDFF">
+                        <enum>(H)</enum>
+ <text>other documentation relevant to the oversight work of Congress with respect to United States contributions to the United Nations system.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H393EE9846E0842198AF2C21074C55612">
+                    <enum>(3)</enum>
+                    <header>Transparency Certification</header>
+ <text>The term <term>Transparency Certification</term> means an annual, written affirmation by the head or authorized designee of a United Nations Entity, provided to the Department of State, that the Entity will cooperate with the Department of State and Congress, including by providing the Department of State and Congress with full, complete, and unfettered access to Oversight Information as defined in this title.</text>
+                </paragraph>
+            </section>
+            <section id="H1836A202868842E7B5DF92E6C286108D">
+                <enum>203.</enum>
+                <header>Oversight of United States contributions to the United Nations
+                    System</header>
+                <subsection id="H07DA99DD428943DD9184BD7BB19304D9">
+                    <enum>(a)</enum>
+                    <header>Purpose</header>
+ <text>The purpose of this section is to enhance oversight of United States contributions to the United Nations System and the use of those contributions by United Nations Entities, in an effort to eliminate and deter waste, fraud, and abuse in the use of those contributions, and thereby to contribute to the development of greater transparency, accountability, and internal controls throughout the United Nations System.</text>
+                </subsection>
+                <subsection id="H91DA5FC1FB064C2DB0D6BAC97D3F71F4">
+                    <enum>(b)</enum>
+                    <header>Implementation</header>
+                    <paragraph id="HAE85D8D6A15B441A8F6B436AD6317BA0">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>The Department of State shall collect and maintain current records regarding Transparency Certifications and Accountability Certifications by all United Nations Entities that receive United States contributions and submit that information for inclusion in the report required under section 207.</text>
+                    </paragraph>
+                    <paragraph id="H5E40CC8E035E46FD9A2C6A78D202D5D6">
+                        <enum>(2)</enum>
+                        <header>Notification</header>
+ <text display-inline="yes-display-inline">The Department of State shall keep the appropriate congressional committees fully informed of how United Nations Entities are spending United States contributions prior to the President’s budget request, and periodically throughout the remainder of the year thereafter.</text>
+                    </paragraph>
+                    <paragraph id="H122ABA8C59004E4BBC5510C92FC6C775">
+                        <enum>(3)</enum>
+                        <header>Referrals</header>
+                        <subparagraph id="H37AB4D5ECBB64E30988A724D4F9F96BB">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>The Secretary of State shall promptly report to the Attorney General and to the appropriate congressional committees when the Secretary of State has reasonable grounds to believe a Federal criminal law has been violated by a United Nations Entity or one of its employees, contractors, or representatives.</text>
+                        </subparagraph>
+                        <subparagraph id="H950AF9EC946C4130BA0CB697CBB64A9D">
+                            <enum>(B)</enum>
+                            <header>Notification</header>
+ <text display-inline="yes-display-inline">The Secretary of State shall promptly report, when appropriate, to the appropriate congressional committees, and to the Secretary General or to the head of the appropriate United Nations Entity, cases in which the Secretary of State reasonably believes that mismanagement, misfeasance, or malfeasance is likely to have taken place within a United Nations Entity and disciplinary proceedings are likely justified, and shall keep the appropriate congressional committees informed of any relevant actions undertaken by the Secretary General or relevant United Nations Entity.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="H14799514E6EA4E5FAE9972D84E069998">
+                        <enum>(4)</enum>
+                        <header>Confirmation of transparency by United Nations Entities</header>
+                        <subparagraph id="HB4BC8CA5EF5942CB88E6C63701A1EC31">
+                            <enum>(A)</enum>
+                            <header>Prompt notice by Department of State</header>
+ <text>Whenever information or assistance requested from a United Nations Entity by the Department of State pursuant to a Transparency Certification is, in the opinion of the Secretary of State, unreasonably refused or not provided in a timely manner, the Secretary of State shall notify the appropriate congressional committees, the head of that particular United Nations Entity, and the Secretary General of the circumstances in writing, without delay.</text>
+                        </subparagraph>
+                        <subparagraph id="H7A6D85BE017F454AB7BC7AFB63888593">
+                            <enum>(B)</enum>
+                            <header>Notice of compliance</header>
+ <text>If and when the information or assistance being sought by the Department of State in connection with a notification pursuant to subparagraph (A) is provided to the satisfaction of the Secretary of State, the Secretary of State shall so notify in writing to the appropriate congressional committees and the head of that particular United Nations Entity.</text>
+                        </subparagraph>
+                        <subparagraph id="H7FAAA8CDC6694C428C992FFBB542B164">
+                            <enum>(C)</enum>
+                            <header>Noncompliance</header>
+ <text>If the information or assistance being sought by the Department of State in connection with a notification pursuant to subparagraph (A) is not provided within 90 days of that notification, then the United Nations Entity that is the subject of the notification is deemed to be noncompliant with its Transparency Certification.</text>
+                        </subparagraph>
+                        <subparagraph id="H4D534B649362429DA71E0C4D6F76523E">
+                            <enum>(D)</enum>
+                            <header>Restoration of compliance</header>
+ <text>After the situation has been resolved to the satisfaction of the Secretary of State, the Secretary of State shall promptly provide prompt, written notification of that fact and of the restoration of compliance, along with a description of the basis for the Secretary of State’s decision, to the appropriate congressional committees, the head of that United Nations Entity, the Secretary General, and any office or agency of the Federal Government that has provided that United Nations Entity with any United States contribution during the prior 2 years.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="H0DD65183B6824D8083170CE84EB67350">
+                        <enum>(5)</enum>
+                        <header>Confirmation of accountability by United Nations Entities</header>
+                        <subparagraph id="HE1A1A472DF724CCEA87A21756B27BC1F">
+                            <enum>(A)</enum>
+                            <header>Prompt notice by Secretary of State</header>
+ <text>Whenever a United Nations Entity that has provided an Accountability Certification is, in the opinion of the Secretary of State, not in full compliance with any or all of the provisions of that certification, the Secretary of State shall notify the appropriate congressional committees, the head of that particular United Nations Entity, and the Secretary General of the circumstances in writing, without delay.</text>
+                        </subparagraph>
+                        <subparagraph id="H49968DB191B44954AD13C152E28DC379">
+                            <enum>(B)</enum>
+                            <header>Notice of compliance</header>
+ <text>If and when the United Nations Entity resumes full compliance with its Accountability Certification following the provision of the notification pursuant to subparagraph (A), the Secretary of State shall so notify in writing the appropriate congressional committees and the head of that United Nations Entity.</text>
+                        </subparagraph>
+                        <subparagraph id="HEEEC12B251A445E4B5353C0BC411DA15">
+                            <enum>(C)</enum>
+                            <header>Noncompliance</header>
+ <text>If the United Nations Entity named in the notification in subparagraph (A) does not resume full compliance with its Accountability Certification to the satisfaction of the Secretary of State within 90 days of that notification, then the United Nations Entity that is the subject of the notification is deemed to be noncompliant with its Accountability Certification, and the Secretary of State shall provide prompt, written notification of that fact to the appropriate congressional committees, the head of that United Nations Entity, the Secretary General, and any office or agency of the Federal Government that has provided that United Nations Entity with any United States Contribution during the prior 2 years.</text>
+                        </subparagraph>
+                        <subparagraph id="H0279B403BEB0485884F8DCD399E264FC">
+                            <enum>(D)</enum>
+                            <header>Restoration of compliance</header>
+ <text>After the situation has been resolved to the satisfaction of the Secretary of State, the Secretary of State shall promptly provide prompt, written notification of that fact and of the restoration of compliance, along with a description of the basis for the Secretary of State’s decision, to the appropriate congressional committees, the head of that United Nations Entity, the Secretary General, and any office or agency of the Federal Government that has provided that United Nations Entity with any United States contribution during the prior 2 years.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="H0C67536F3133405D97C84C018C037549">
+                        <enum>(6)</enum>
+                        <header>Reporting</header>
+                        <subparagraph id="H6C5CF657229F4D558E4753A533D2B4F5">
+                            <enum>(A)</enum>
+                            <header>Reporting</header>
+ <text>In the report submitted by the Director of the Office of Management and Budget to Congress pursuant to section 207, the Secretary of State shall submit for inclusion a section that, among other things, includes a list and detailed description of the circumstances surrounding any notification of compliance issued pursuant to paragraph (4)(C) or (5)(C) during the covered timeframe, and whether and when the Secretary has reversed such finding of noncompliance.</text>
+                        </subparagraph>
+                        <subparagraph id="HC14E64FECACC478CA1CEB628571D6BD3">
+                            <enum>(B)</enum>
+                            <header>Prohibited disclosures</header>
+ <text>Nothing in this subsection shall be construed to authorize the public disclosure of information that is—</text>
+                            <clause id="H1583B96430DF4565B887097F6D5E5B60">
+                                <enum>(i)</enum>
+ <text>specifically prohibited from disclosure by any other provision of law;</text>
+                            </clause>
+                            <clause id="H971C1F886256446E8EF949F633DA98B5">
+                                <enum>(ii)</enum>
+ <text>specifically required by Executive order to be protected from disclosure in the interest of national defense or national security or in the conduct of foreign affairs; or</text>
+                            </clause>
+                            <clause id="HAB428D6D39B6485B9DBF3D4A827A2563">
+                                <enum>(iii)</enum>
+ <text>a part of an ongoing criminal investigation.</text> </clause> </subparagraph> <subparagraph id="HB339D80A23D145C5B9BB8952B9274189"> <enum>(C)</enum> <header>Privacy protections</header> <text>The Secretary of State shall exempt from public disclosure information received from a United Nations Entity that the Secretary of State believes—</text>
+                            <clause id="H63B8C0BB2086451EA7894627909873CE">
+                                <enum>(i)</enum>
+ <text>constitutes a trade secret or privileged and confidential personal financial information;</text>
+                            </clause>
+                            <clause id="H9D169270183044E68D18C945B52D2B29">
+                                <enum>(ii)</enum>
+ <text>constitutes confidential personal medical information;</text> </clause> <clause id="HEE28F97A4A754EF6852C39A4259E99BD"> <enum>(iii)</enum> <text>accuses a particular person of a crime;</text>
+                            </clause>
+                            <clause id="HA4A6713FB4E047CD8360CFCFE9192275">
+                                <enum>(iv)</enum>
+ <text>would, if publicly disclosed, constitute a clearly unwarranted invasion of personal privacy; and</text>
+                            </clause>
+                            <clause id="H1D356944B183480EA0A4668799A191D4">
+                                <enum>(v)</enum>
+ <text>would compromise an ongoing law enforcement investigation or judicial trial in the United States.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="H12F7ABAFEA054D2B8A39FE9A5F16AFBE">
+                <enum>204.</enum>
+                <header>Transparency for United States Contributions</header>
+                <subsection id="H684899920824457EA1967933B989FAB8">
+                    <enum>(a)</enum>
+                    <header>Funding prerequisites</header>
+ <text>Notwithstanding any other provision of law, no funds made available for use as a United States Contribution to any United Nations Entity may be obligated or expended if—</text>
+                    <paragraph id="H5BDB7D07F5B8458F9DAD69C02AB8B382">
+                        <enum>(1)</enum>
+ <text>the intended United Nations Entity recipient has not provided to the Secretary of State within the preceding year a Transparency Certification as defined in section 202(1);</text>
+                    </paragraph>
+                    <paragraph id="H336ADD78E6AF4620B7A9330493C233D8">
+                        <enum>(2)</enum>
+ <text>the intended United Nations Entity recipient is noncompliant with its Transparency Certification as described in section 203(b)(4)(C);</text>
+                    </paragraph>
+                    <paragraph id="HF2721FA4497A4C94B98413C267265F19">
+                        <enum>(3)</enum>
+ <text>the intended United Nations Entity recipient has not provided to the Secretary of State within the preceding year an Accountability Certification as defined in section 202(3); or</text>
+                    </paragraph>
+                    <paragraph id="HBA79DE95ECCC4C56BEABB949D41AF36A">
+                        <enum>(4)</enum>
+ <text>the intended United Nations Entity is noncompliant with its Accountability Certification as described in section 203(b)(5)(C).</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="H096E80A0B18B4C0E97E28233CB496CA3">
+                    <enum>(b)</enum>
+                    <header>Treatment of funds withheld for noncompliance</header>
+ <text>At the conclusion of each fiscal year, any funds that had been appropriated for use as a United States Contribution to a United Nations Entity during that fiscal year, but could not be obligated or expended because of the restrictions of subsection (a), shall be returned to the United States Treasury, and are not subject to reprogramming for any other use. Any such funds returned to the Treasury shall not be considered arrears to be repaid to any United Nations Entity.</text>
+                </subsection>
+            </section>
+            <section id="H44A8EC012B1F47FEAD39636B7102C3D4">
+                <enum>205.</enum>
+                <header>Integrity for United States Contributions</header>
+                <subsection id="H166FA45DCB3B4259AE7AC030B9D9D0C1">
+                    <enum>(a)</enum>
+                    <header>Limitations</header>
+                    <paragraph commented="no" display-inline="yes-display-inline"
+                        id="H7ED49104A32541819E83621C3FF9E66E">
+                        <enum>(1)</enum>
+ <text>No funds made available for use under the heading <term>Contributions to International Organizations</term> may be used for any purpose other than an assessed United States contribution to a United Nations Entity or other international organization.</text>
+                    </paragraph>
+                    <paragraph id="HE5A90C4D85BD481984D5D4FCE430744E" indent="up1">
+                        <enum>(2)</enum>
+ <text>No funds made available for use under the heading <term>International Organizations and Programs</term> may be used for any purpose other than a voluntary United States contribution to a United Nations Entity or other international organization.</text>
+                    </paragraph>
+                    <paragraph id="HDFAB4D35706A448D82C9920BB1D9F9E0" indent="up1">
+                        <enum>(3)</enum>
+ <text>No funds made available for use under the heading <term>Contributions to International Peacekeeping Activities</term> may be used for any purpose other than a United States contribution to United Nations peacekeeping activities, to the International Criminal Tribunal for the former Yugoslavia, or to the International Criminal Tribunal for Rwanda.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="H701FD5358A0845B19C752291096DC3FC">
+                    <enum>(b)</enum>
+                    <header>Treatment of funds withheld for noncompliance</header>
+ <text>At the conclusion of each fiscal year, any funds that had been appropriated for use as a United States contribution to a United Nations Entity during that fiscal year, but could not be obligated or expended because of the restrictions of subsection (a), shall be returned to the United States Treasury, and are not subject to reprogramming for any other use. Any such funds returned to the Treasury shall not be considered arrears to be repaid to any United Nations Entity.</text>
+                </subsection>
+            </section>
+            <section id="HF54FEA29A0644276B1F915F933092A75">
+                <enum>206.</enum>
+                <header>Refund of monies owed by the United Nations to the United States</header>
+                <subsection id="HAA34C620816D44F59C7EC781260855CF">
+                    <enum>(a)</enum>
+                    <header>Findings</header>
+ <text>Congress makes the following findings:</text> <paragraph id="HEDAB3C33F48549B99BA4AB11216CA84A"> <enum>(1)</enum> <text>United States taxpayer funds overpaid to United Nations Entities and payable back to the United States sometimes remain in the hands of the United Nations because the United States has not requested the return of those funds.</text>
+                    </paragraph>
+                    <paragraph id="H3F81D81FBF9E4E4EA1A1489A61985913">
+                        <enum>(2)</enum>
+ <text>Such funds have been paid into, among other United Nations Entities, the United Nations Tax Equalization Fund (TEF), which was established under the provisions of United Nations General Assembly Resolution 973 (1955), and which is used to reimburse United Nations staff members subject to United States income taxes for the cost of those taxes.</text>
+                    </paragraph>
+                    <paragraph id="HE882FFD3CD3342BEB5CC1C9911EE579F">
+                        <enum>(3)</enum>
+ <text display-inline="yes-display-inline">In recent years, the TEF has taken in considerably more money than it has paid out, with the United States apparently overpaying into the TEF by $24,363,000 in 2014 alone.</text>
+                    </paragraph>
+                    <paragraph id="HCBECDBCC05E3493EB66820F2796F22E7">
+                        <enum>(4)</enum>
+ <text display-inline="yes-display-inline">According to the United Nations Financial Report and Audited Financial Statements released on July 23, 2015, <quote>The cumulative surplus payable to the United States of America at year-end was $27,600,000</quote>.</text>
+                    </paragraph>
+                    <paragraph id="H684DF7C159274B039E4F27676C2C90BA">
+                        <enum>(5)</enum>
+ <text>That balance was allowed to accrue notwithstanding United Nations Financial Regulation 4.12, which states that any such surpluses <quote>shall be credited against the assessed contributions due from that Member State the following year.</quote>.</text>
+                    </paragraph>
+                    <paragraph id="HD10177501D6C478695596C23130E2DBF">
+                        <enum>(6)</enum>
+ <text>Allowing the United Nations to regularly overcharge the United States and to retain those overpayments, or to spend them on wholly unrelated activities, is a disservice to American taxpayers and a subversion of the Congressional budget process.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="H09209210D6554A75BC3B0E0516E848A8">
+                    <enum>(b)</enum>
+                    <header>Statement of policy</header>
+ <text>It is the policy of the United States—</text> <paragraph id="HA94684DAD82F4023A45F6A93D4758B43"> <enum>(1)</enum> <text>to annually instruct the United Nations to return to the United States any surplus assessed contributions or other overpayments by the United States to any United Nations Entity; and</text>
+                    </paragraph>
+                    <paragraph id="H568F63A727F74357A693ADB152C6C232">
+                        <enum>(2)</enum>
+ <text>to use the voice and vote of the United States to press the United Nations to reform its TEF assessment procedures to reduce the repeated discrepancies between TEF income and expenditures.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="HACE36DB8104A4745B5B0404158B1B2BC">
+                    <enum>(c)</enum>
+                    <header>Certification and withholding</header>
+ <text>For each and every fiscal year subsequent to the effective date of this Act, until the Secretary of State submits to the appropriate congressional committees a certification that the United Nations has returned to the United States any surplus assessed contributions or other overpayments by the United States to any United Nations Entity, the Secretary of State shall withhold from the regular budget of the United Nations an amount equal to the amount of the funds that the United Nations has yet to return to the United States.</text>
+                </subsection>
+            </section>
+            <section id="H46375F244AB24916B34EADD1F24397CD">
+                <enum>207.</enum>
+                <header>Annual reports on United States Contributions to the United Nations</header>
+                <subsection id="HCF9691FBE2AD46F9B242B1C936D177B7">
+                    <enum>(a)</enum>
+                    <header>Annual report</header>
+ <text>Not later than 90 days after the date of the enactment of this Act and annually thereafter, the Director of the Office of Management and Budget shall submit to Congress a report listing all assessed and voluntary contributions of the United States Government for the preceding fiscal year to the United Nations and United Nations affiliated agencies and related bodies.</text>
+                </subsection>
+                <subsection id="HC2F7F6C8E7E2441F95814E2541145163">
+                    <enum>(b)</enum>
+                    <header>Contents</header>
+ <text>Each report required under subsection (a) shall set forth, for the fiscal year covered by such report, the following:</text>
+                    <paragraph id="H2D9C117E7B2948FD8916764A7BE1A83D">
+                        <enum>(1)</enum>
+ <text>The total amount of all assessed and voluntary contributions of the United States Government to the United Nations and United Nations affiliated agencies and related bodies.</text>
+                    </paragraph>
+                    <paragraph id="H6D126FC037844BCCAE0143F7E2B2BC76">
+                        <enum>(2)</enum>
+ <text>The approximate percentage of United States Government contributions to each United Nations affiliated agency or body in such fiscal year when compared with all contributions to such agency or body from any source in such fiscal year.</text>
+                    </paragraph>
+                    <paragraph id="HDA2CF4C0556B4B488A22507CF44FE39C">
+                        <enum>(3)</enum>
+ <text>For each such contribution—</text> <subparagraph id="H9565FA4572DC4657B49462C3B5BA243C"> <enum>(A)</enum> <text>the amount of such contribution;</text>
+                        </subparagraph>
+                        <subparagraph id="H429F43F394FD403C9262B9B5A8ABA05D">
+                            <enum>(B)</enum>
+ <text>a description of such contribution (including whether assessed or voluntary);</text>
+                        </subparagraph>
+                        <subparagraph id="H7554596EEEED41C98BEAF745DA5ED5AA">
+                            <enum>(C)</enum>
+ <text>the department or agency of the United States Government responsible for such contribution;</text>
+                        </subparagraph>
+                        <subparagraph id="HDD439575828D445EA051B4B0E990C86C">
+                            <enum>(D)</enum>
+ <text>the purpose of such contribution; and</text> </subparagraph> <subparagraph id="H88161A9D1F6D421F9B23C332E1169355"> <enum>(E)</enum> <text>the United Nations or United Nations affiliated agency or related body receiving such contribution.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="H50AC258369BB47179E5F86074B9B000E">
+                    <enum>(c)</enum>
+                    <header>Scope of initial report</header>
+ <text>The first report required under subsection (a) shall include the information required under this section for the previous three fiscal years.</text>
+                </subsection>
+                <subsection id="HE587139E5FB24F95AEAB9BDD76BB0719">
+                    <enum>(d)</enum>
+                    <header>Public availability of information</header>
+ <text>Not later than 14 days after submitting a report required under subsection (a), the Director of the Office of Management and Budget shall post a public version of the report on a text-based, searchable, and publicly available Internet Web site.</text>
+                </subsection>
+            </section>
+            <section id="HBBA2D927960B4A958A2D3ADA5F8A64AC">
+                <enum>208.</enum>
+                <header>Report on United Nations procurement practices</header>
+                <subsection id="H7EEB1FA3A2D24BA09C0081CB07808123">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this Act and annually thereafter, the Secretary shall submit to the appropriate congressional committees a report on United Nations procurement reform.</text>
+                </subsection>
+                <subsection id="H0DC6993C1C84463DB44F191098A6933C">
+                    <enum>(b)</enum>
+                    <header>Contents</header>
+ <text>The reports required under subsection (a) shall describe—</text> <paragraph id="H319E4F376ACF487C8A2B15DAA9CEC68B"> <enum>(1)</enum> <text>progress toward the goal of donor countries establishing a threshold number for procurement purposes, of which 50 percent of the procurement for donor programs over $1,000,000,000 shall utilize donor vendors;</text>
+                    </paragraph>
+                    <paragraph id="HDA8A4954F77441DA91896B4B4CDC5D1F">
+                        <enum>(2)</enum>
+ <text>the status of the amount and percentage of procurement at the United Nations through United States vendors; and</text>
+                    </paragraph>
+                    <paragraph id="H6AE01C63680D4490B59278AD738AE6F1">
+                        <enum>(3)</enum>
+ <text>the status of examinations and investigations if companies on the Excluded Parties List System are receiving contracts through the United Nations, and the values of such contracts.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title id="H10BB1EA8C62D4ED09F98EBB1822AC7F1">
+            <enum>III</enum>
+            <header>UNITED STATES POLICY AT THE UNITED NATIONS</header>
+            <section id="H7DA4B390295D4E7895C45433D513A89F">
+                <enum>301.</enum>
+                <header>Annual publication</header>
+ <text display-inline="no-display-inline">The President shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to ensure the United Nations publishes annually, including on a publicly searchable Internet Web site, a list of all United Nations subsidiary bodies and their functions, budgets, staff, and contributions, both voluntary and assessed, sorted by donor.</text>
+            </section>
+            <section id="H05B5F108F3244DA4BC4A614EE7FD42AE">
+                <enum>302.</enum>
+                <header>Annual financial disclosure</header>
+ <text display-inline="no-display-inline">The President shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to implement a system for the required filing of individual annual financial disclosure forms by each employee of the United Nations and its specialized agencies, programs, and funds at the P–5 level and above, which shall be made available to the Office of Internal Oversight Services, to Member States, and to the public.</text>
+            </section>
+            <section id="H31EB9B979E3B43F59E6B658809D60E66">
+                <enum>303.</enum>
+                <header>Policy with respect to expansion of the Security Council</header>
+ <text display-inline="no-display-inline">It is the policy of the United States to use the voice, vote, and influence of the United States at the United Nations to oppose any proposals on expansion of the Security Council if such expansion would—</text>
+                <paragraph id="HDFFDD86661BD4AC9A763AFB4127E5D52">
+                    <enum>(1)</enum>
+ <text>diminish the influence of the United States on the Security Council; or</text>
+                </paragraph>
+                <paragraph id="HE62811F921524C6583B7C008B2BE8007">
+                    <enum>(2)</enum>
+ <text>include veto rights for any new members of the Security Council.</text> </paragraph> </section> <section id="HC394CE8469214B919448BF73A80EBFF9"> <enum>304.</enum> <header>Access to reports and audits</header> <text display-inline="no-display-inline">The President shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to ensure that Member States may, upon request, have access to all reports and audits completed by the Board of External Auditors.</text>
+            </section>
+            <section id="HEC1D7038C1EC4730975A9140CF036953">
+                <enum>305.</enum>
+                <header>Waiver of immunity</header>
+ <text display-inline="no-display-inline">The President shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to ensure that the Secretary General exercises the right and duty of the Secretary General under section 20 of the Convention on the Privileges and Immunities of the United Nations to waive the immunity of any United Nations official in any case in which such immunity would impede the course of justice. In exercising such waiver, the Secretary General is urged to interpret the interests of the United Nations as favoring the investigation or prosecution of a United Nations official who is credibly under investigation for having committed a serious criminal offense or who is credibly charged with a serious criminal offense.</text>
+            </section>
+            <section id="HEF847CBE758543C78ED16C61DA441D44">
+                <enum>306.</enum>
+                <header>Review of United Nations Conventions on Terrorism</header>
+                <subsection id="HD485E12812FF4724A7C2B74CE4C93E49">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">The President shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to initiate a comprehensive review of United Nations Conventions on Terrorism that builds upon the recommendations of the December 2004 report of the High-Level Panel on Threats, Challenges, and Change with the goal of providing recommendations to the Security Council.</text>
+                </subsection>
+                <subsection id="H643C388A601F42E48C93FF607F5E9A14">
+                    <enum>(b)</enum>
+                    <header>Report</header>
+ <text display-inline="yes-display-inline">A year from the date of enactment, the Secretary of State, in coordination with the United States Permanent Representative to the United Nations, shall report to the appropriate congressional committees on the status of the review under subsection (a).</text>
+                </subsection>
+            </section>
+            <section id="H885D5C41A05E49FB8196E8B83E60BBE6">
+                <enum>307.</enum>
+                <header>Report on United Nations personnel</header>
+                <subsection id="H84F82CC635A04E0FB119F8DFFF86AB5C">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>Not later than 1 year after the date of the enactment of this Act, the Secretary of State shall submit to the appropriate congressional committees a report—</text>
+                    <paragraph id="HE94A03C6FA854848B054056B25CFF3C5">
+                        <enum>(1)</enum>
+ <text>concerning the progress of the General Assembly to modernize human resource practices, consistent with the March 2005 report of the Secretary General entitled <quote>In larger freedom: towards development, security and human rights for all</quote>; and</text>
+                    </paragraph>
+                    <paragraph id="HDF396C0621BA4823BE657EA3BDCF83C0">
+                        <enum>(2)</enum>
+ <text>containing the information described in subsection (b).</text> </paragraph> </subsection> <subsection id="HAA9B247B22A5476D9A390DAF11E023B3"> <enum>(b)</enum> <header>Contents</header> <text>The report shall include—</text>
+                    <paragraph id="HFE5B271EBB0E4B9C961DBE95893EF8AA">
+                        <enum>(1)</enum>
+ <text>a comprehensive evaluation of human resources reforms at the United Nations, including an evaluation of—</text>
+                        <subparagraph id="H60647064015C444CA29170F7C631EE9A">
+                            <enum>(A)</enum>
+ <text>tenure;</text> </subparagraph> <subparagraph id="HE81B1293C34842DB8B5DF8F409B2419C"> <enum>(B)</enum> <text>performance reviews;</text>
+                        </subparagraph>
+                        <subparagraph id="HB04AD5BEC0FB477C9A11AC025132C3B6">
+                            <enum>(C)</enum>
+ <text>the promotion system;</text> </subparagraph> <subparagraph id="HF51920347B8B47FAA38357F63FA1585A"> <enum>(D)</enum> <text>a merit-based hiring system and enhanced regulations concerning termination of employment of employees; and</text>
+                        </subparagraph>
+                        <subparagraph id="H4DD69742D29E4D4794A520E06679F248">
+                            <enum>(E)</enum>
+ <text>the implementation of a code of conduct and ethics training;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="HF3F6B82CB1E042828EB0F34BE52A1717">
+                        <enum>(2)</enum>
+ <text>the implementation of a system of procedures for filing complaints and protective measures for work-place harassment, including sexual harassment;</text>
+                    </paragraph>
+                    <paragraph id="H2CD5C1D023E74439B846A588170C2D1B">
+                        <enum>(3)</enum>
+ <text>policy recommendations relating to the establishment of a rotation requirement for nonadministrative positions;</text>
+                    </paragraph>
+                    <paragraph id="H5D06D02475204447BE3036CEFC9636EB">
+                        <enum>(4)</enum>
+ <text>policy recommendations relating to the establishment of a prohibition preventing personnel and officials assigned to the mission of a member state to the United Nations from transferring to a position within the United Nations Secretariat that is compensated at the P–5 level and above;</text>
+                    </paragraph>
+                    <paragraph id="HB291D80F26834248941C0E32DA5C6A5B">
+                        <enum>(5)</enum>
+ <text>policy recommendations relating to a reduction in travel allowances and attendant oversight with respect to accommodations and airline flights; and</text>
+                    </paragraph>
+                    <paragraph id="H20CF93BC52924F80AC771B8FBD1461FE">
+                        <enum>(6)</enum>
+ <text>an evaluation of the recommendations of the Secretary General relating to greater flexibility for the Secretary General in staffing decisions to accommodate changing priorities.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="HD74A0D6EF2654F5D81371C22B072BEA2">
+                <enum>308.</enum>
+                <header>United Nations treaty bodies</header>
+ <text display-inline="no-display-inline">The United States shall withhold from United States contributions to the regular assessed budget of the United Nations for a biennial period amounts that are proportional to the percentage of such budget that are expended with respect to a United Nations human rights treaty monitoring body or committee that was established by—</text>
+                <paragraph id="H128BDE06674541479F8DC4F47F21B00E">
+                    <enum>(1)</enum>
+ <text>a convention (without any protocols) or an international covenant (without any protocols) to which the United States is not party; or</text>
+                </paragraph>
+                <paragraph id="HD13B5D665E4F45768934EB3F8A727D01">
+                    <enum>(2)</enum>
+ <text>a convention, with a subsequent protocol, if the United States is a party to neither.</text>
+                </paragraph>
+            </section>
+            <section id="H171654526AB54D1EA56C50C40322B903">
+                <enum>309.</enum>
+                <header>Equality at the United Nations</header>
+                <subsection id="HEA62EE93BAEC49A5ABC047FC5A21E2E7">
+                    <enum>(a)</enum>
+                    <header>Department of State review and report</header>
+                    <paragraph id="HBA5A9072BAE84AB783C50ADE0756FF28">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>To avoid duplicative efforts and funding with respect to Palestinian interests and to ensure balance in the approach to Israeli-Palestinian issues, the Secretary shall, not later than 180 days after the date of the enactment of this Act—</text>
+                        <subparagraph id="HA6E5CE7537B44FCA99ECE8E5E7E3DA55">
+                            <enum>(A)</enum>
+ <text>complete an audit of the functions of the entities listed in paragraph (2); and</text>
+                        </subparagraph>
+                        <subparagraph id="H60125B57E33C4662981FF7A86309E1A2">
+                            <enum>(B)</enum>
+ <text>submit to the appropriate congressional committees a report containing audit findings and conclusions, and recommendations for the elimination of such duplicative entities and efforts.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="H56CB1BC07A7344048512034CB4556E53">
+                        <enum>(2)</enum>
+                        <header>Entities</header>
+ <text>The entities referred to in paragraph (1)(A) are the following:</text> <subparagraph id="HA73E7AB61E3D4CE4B23C5A3CDF7C3CFE"> <enum>(A)</enum> <text>The United Nations Division for Palestinian Rights.</text>
+                        </subparagraph>
+                        <subparagraph id="H8C40E6E51CB745E39410AA53EA2240EF">
+                            <enum>(B)</enum>
+ <text>The Committee on the Exercise of the Inalienable Rights of the Palestinian People.</text>
+                        </subparagraph>
+                        <subparagraph id="H3925B2787C644D9D9AF52FC6573B63E5">
+                            <enum>(C)</enum>
+ <text>The United Nations Special Coordinator for the Middle East Peace Process and Personal Representative to the Palestine Liberation Organization and the Palestinian Authority.</text>
+                        </subparagraph>
+                        <subparagraph id="HB63C51C2EE31408EACDCD505ACD2ECC5">
+                            <enum>(D)</enum>
+ <text>The NGO Network on the Question of Palestine.</text> </subparagraph> <subparagraph id="H30D6439054FB4BB6B6D91D8E7E7C535C"> <enum>(E)</enum> <text>The Special Committee to Investigate Israeli Practices Affecting the Human Rights of the Palestinian People and Other Arabs of the Occupied Territories.</text>
+                        </subparagraph>
+                        <subparagraph id="HCFC796DB17164256A4069ADE5CBD960F">
+                            <enum>(F)</enum>
+ <text>Any other entity the Secretary determines results in duplicative efforts or funding or fails to ensure balance in the approach to Israeli-Palestinian issues.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="H9D50FB354EC44A7198BDE302623E670D">
+                    <enum>(b)</enum>
+                    <header>Implementation by Permanent Representative</header>
+                    <paragraph id="H0329E0612344479D9632392D1B6B7D18">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>The President shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to seek the implementation of the recommendations contained in the report required under subsection (a)(1)(B).</text>
+                    </paragraph>
+                    <paragraph id="HF91CC0E519744317B5DE7601AD13F4A5">
+                        <enum>(2)</enum>
+                        <header>Withholding of funds</header>
+ <text>Until such recommendations have been implemented, the United States shall withhold from United States contributions to the regular assessed budget of the United Nations for a biennial period amounts that are proportional to the percentage of such budget that are expended for such entities.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="H9CB531E6543844FBAA2E5C72B1F8A563">
+                <enum>310.</enum>
+                <header>Anti-Semitism and the United Nations</header>
+ <text display-inline="no-display-inline">The President shall direct the United States permanent representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to make every effort to—</text>
+                <paragraph id="H70BAE04FA96941B49961378635CDB332">
+                    <enum>(1)</enum>
+ <text>ensure the issuance and implementation of a directive by the Secretary General or the Secretariat, as appropriate, that—</text>
+                    <subparagraph id="HE7B4815FC1DC487F9C632FF6D15C5E9A">
+                        <enum>(A)</enum>
+ <text>requires the United Nations and its specialized agencies to officially and publicly condemn anti-Semitic statements made at any session of the United Nations or its specialized agencies, or at any other session sponsored by the United Nations;</text>
+                    </subparagraph>
+                    <subparagraph id="H6222193D5A34462A84A3174523D5329A">
+                        <enum>(B)</enum>
+ <text>requires employees of the United Nations and its specialized agencies, programs, and funds to be subject to punitive action, including immediate dismissal, for making anti-Semitic statements or references;</text>
+                    </subparagraph>
+                    <subparagraph id="HC09922F37CD94C63AF846B91526F1D77">
+                        <enum>(C)</enum>
+ <text>proposes specific recommendations to the General Assembly for the establishment of mechanisms to hold accountable employees and officials of the United Nations and its specialized agencies, programs, and funds, or Member States, that make such anti-Semitic statements or references in any forum of the United Nations or of its specialized agencies;</text>
+                    </subparagraph>
+                    <subparagraph id="H4973F52AD8C84E8EAE40D9DBF9BC284D">
+                        <enum>(D)</enum>
+ <text>continues to develop and implements education awareness programs about the Holocaust and anti-Semitism throughout the world, as part of an effort to combat intolerance and hatred; and</text>
+                    </subparagraph>
+                    <subparagraph id="HAD91D3AC366F462883FBFD170C2C7A95">
+                        <enum>(E)</enum>
+ <text>requires the Office of the United Nations High Commissioner for Human Rights (OHCHR) to develop programming and other measures that address anti-Semitism;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H0C6F5ECB5C314A04960B4C4D4FF31BE1">
+                    <enum>(2)</enum>
+ <text>secure the adoption of a resolution by the General Assembly that establishes the mechanisms described in paragraph (1)(C); and</text>
+                </paragraph>
+                <paragraph id="H81BFC9BF5C984E03B00BFB7D602AA4FF">
+                    <enum>(3)</enum>
+ <text>continue working toward further reduction of anti-Semitic language and anti-Israel resolutions in the United Nations and its specialized agencies, programs, and funds.</text>
+                </paragraph>
+            </section>
+            <section id="HD9DACE58528B4FD9B062621DF68187B8">
+                <enum>311.</enum>
+                <header>United States policy on Taiwan’s participation in United Nations
+                    Entities</header>
+ <text display-inline="no-display-inline">The Secretary of State shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to ensure meaningful participation for Taiwan in relevant United Nations Entities in which Taiwan has expressed an interest in participating.</text>
+            </section>
+            <section id="HA1642A5EFD1B4310B33D45360DBC003E">
+                <enum>312.</enum>
+                <header>United States policy on Tier 3 human rights violators</header>
+ <text display-inline="no-display-inline">The Secretary of State shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to ensure that no representative of a country designated pursuant to section 110 of the Trafficking Victims Protection Act of 2000 (<external-xref legal-doc="usc" parsable-cite="usc/22/7107">22 U.S.C. 7107</external-xref>) by the Department of State as a Tier 3 country shall preside as Chair or President of any United Nations Entity.</text>
+            </section>
+        </title>
+        <title id="H2BE497BFB96446FFA77B1BD8F47F1EA2">
+            <enum>IV</enum>
+            <header>STATUS OF PALESTINIAN ENTITIES AT THE UNITED NATIONS</header>
+            <section id="HF3B78A94F3EB4996A39338531EDD519A">
+                <enum>401.</enum>
+                <header>Findings</header>
+ <text display-inline="no-display-inline">Congress makes the following findings:</text>
+                <paragraph id="HA3E743B445C54661A1A4A6D70ADF730C">
+                    <enum>(1)</enum>
+ <text>In 1989, the Palestine Liberation Organization (PLO) launched an effort to evade direct negotiations for peace with the State of Israel by instead pursuing Palestinian membership in international organizations, which could imply de facto recognition of a Palestinian state by the United Nations.</text>
+                </paragraph>
+                <paragraph id="HB3C2F24233E143CEB9BBFCCABCD3E314">
+                    <enum>(2)</enum>
+ <text>The executive branch, with significant support from Members of Congress, successfully stopped the PLO’s effort by credibly threatening, as noted in a May 1, 1989, statement by then-Secretary of State James A. Baker, <quote>that the United States [would] make no further contributions, voluntary or assessed, to any international organization which makes any change in the P.L.O.’s present status as an observer organization.</quote>.</text>
+                </paragraph>
+                <paragraph id="H237E80E61F2344959FBDA254826B4F85">
+                    <enum>(3)</enum>
+ <text>The United States success in this case demonstrates that withholding contributions and placing conditions on their payment can result in real reforms, stop counterproductive developments, and advance United States interests at the United Nations.</text>
+                </paragraph>
+                <paragraph id="H4A7497D428C94E018C24B53B4C51AF40">
+                    <enum>(4)</enum>
+ <text>The Palestinian leadership has continued its effort to evade direct negotiations for peace with the State of Israel by seeking recognition of a Palestinian state from foreign governments and in international forums.</text>
+                </paragraph>
+                <paragraph id="H68D3D4640FD6494289012DE734B99E6D">
+                    <enum>(5)</enum>
+ <text>On September 30, 2015, Abu Mazen declared that Palestinian leadership would no longer be bound by its signed agreements with Israel.</text>
+                </paragraph>
+                <paragraph id="H6CA68478A6C04AA1BEF10F7C591E5C74">
+                    <enum>(6)</enum>
+ <text>Further efforts to bypass negotiations and to unilaterally declare a Palestinian state, or to appeal to the United Nations or other international forums or to foreign governments for recognition of a Palestinian state or membership or other upgraded status for the Palestinian observer mission at those forums, would violate the underlying principles of the Oslo Accords, the Road Map, and other relevant Middle East peace process efforts.</text>
+                </paragraph>
+                <paragraph id="HAA35B9DF363C4A24860A6D5664F81FC6">
+                    <enum>(7)</enum>
+ <text>In 2011, the United Nations Educational, Scientific, and Cultural Organization (UNESCO) granted full membership to the Palestinians, triggering United States law that prohibits United States funding for any United Nations organization that grants membership to the PLO.</text>
+                </paragraph>
+                <paragraph id="H5B5DC8A4DB12494FACF67F1754E77243">
+                    <enum>(8)</enum>
+ <text>On December 15, 2010, the House of Representatives passed House Resolution 1765, in which, inter alia, the House of Representatives:</text>
+                    <subparagraph id="HC15B4796CE304DE98FA9D04C72DCD11A">
+                        <enum>(A)</enum>
+ <text><quote>reaffirms its strong opposition to any attempt to establish or seek recognition of a Palestinian state outside of an agreement negotiated between Israel and the Palestinians</quote>;</text>
+                    </subparagraph>
+                    <subparagraph id="H6A2FD3B350774A21BB94E2EC6E1BFC51">
+                        <enum>(B)</enum>
+ <text><quote>supports the Administration’s opposition to a unilateral declaration of a Palestinian state</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="H2090345D474446FDB0DBB3802A5B0483">
+                        <enum>(C)</enum>
+ <text><quote>calls upon the Administration to … lead a diplomatic effort to persuade other nations to oppose a unilateral declaration of a Palestinian state and to oppose recognition of a Palestinian state by other nations, within the United Nations, and in other international forums prior to achievement of a final agreement between Israel and the Palestinians.</quote>.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HF4D85589E7094E9281663ECC91CEB5F0">
+                    <enum>(9)</enum>
+ <text>Ambassador Rosemary DiCarlo, former United States Deputy Permanent Representative to the United Nations, stated on July 26, 2011, <quote>Let there be no doubt: symbolic actions to isolate Israel at the United Nations in September will not create an independent Palestinian state … The United States will not support unilateral campaigns at the United Nations in September or any other time.</quote>.</text>
+                </paragraph>
+                <paragraph id="HFD98EC4021E1485FA25855B506A412FA">
+                    <enum>(10)</enum>
+ <text>On September 16, 2011, the Deputy National Security Advisor for Strategic Communications stated that <quote>We would veto actions through the Security Council and oppose action through the Security Council associated with a unilateral declaration of [Palestinian] statehood.</quote>.</text>
+                </paragraph>
+            </section>
+            <section id="HD3ED0AFC71904190A7C9A7D8A2BEC7E3">
+                <enum>402.</enum>
+                <header>Statement of policy</header>
+ <text display-inline="no-display-inline">It is the policy of the United States to oppose the recognition of a Palestinian state by any United Nations Entity, or any upgrade, including full membership, in the status of the Palestinian observer mission at the United Nations, the Palestine Liberation Organization, the Palestinian Authority, or any other Palestinian administrative organization or governing entity, at any United Nations Entity, prior to the achievement of a final peace agreement negotiated between and agreed to by Israel and the Palestinians.</text>
+            </section>
+            <section id="H7CECA177364247A49E1A230749D664DD">
+                <enum>403.</enum>
+                <header>Implementation</header>
+                <subsection id="H47955C28F1F748008C43CBA8E93F9EDF">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>The President shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to advance the policy stated in section 402.</text>
+                </subsection>
+                <subsection id="H403AFA4143254755B35419CC596C475C">
+                    <enum>(b)</enum>
+                    <header>Withholding of funds</header>
+ <text>The Secretary of State shall withhold United States contributions from any United Nations Entity that recognizes a Palestinian state or upgrades in any way, including granting full membership, the status of the Palestinian observer mission at the United Nations, the Palestine Liberation Organization, the Palestinian Authority, or any other Palestinian administrative organization or governing entity, at that United Nations Entity, prior to the achievement of complete and final peace agreement negotiated between and agreed to by Israel and the Palestinians. Funds appropriated for use as a United States contribution to the United Nations but withheld from obligation and expenditure pursuant to this section shall immediately revert to the United States Treasury and shall not be considered arrears to be repaid to any United Nations Entity.</text>
+                </subsection>
+            </section>
+        </title>
+        <title id="HEBE08D6DC5044C8FA9C85EC2D4719C8B">
+            <enum>V</enum>
+            <header>UNITED NATIONS HUMAN RIGHTS COUNCIL</header>
+            <section id="H4B154E6360C14B27A535A9E38C1CA9FF">
+                <enum>501.</enum>
+                <header>Findings</header>
+ <text display-inline="no-display-inline">Congress makes the following findings:</text>
+                <paragraph id="HA103C5B13D8A466AB5FA8B72F0BB2CDD">
+                    <enum>(1)</enum>
+ <text>Since its establishment in 2006, the United Nations Human Rights Council has failed to meaningfully promote the protection of internationally recognized human rights, and has proven to be even more problematic than the United Nations Human Rights Commission that it was created to replace.</text>
+                </paragraph>
+                <paragraph id="HE1F692C4745A4F34BA8A8A444A4F4725">
+                    <enum>(2)</enum>
+ <text>The United Nations Human Rights Council suffers from fundamental and severe structural flaws present since its establishment by the United Nations General Assembly, such as the fact that it draws its members from the General Assembly without any substantive membership criteria, with the perverse result that a number of the world’s worst human rights abusers are members of the council.</text>
+                </paragraph>
+                <paragraph id="HEAF49F417A514B1190F9C9E675B33D50">
+                    <enum>(3)</enum>
+ <text>For example, many members of the United Nations Human Rights Council are rated <term>Not Free</term> or only <term>Partly Free</term> by Freedom House. Only a minority of members were rated <term>Free</term>.</text>
+                </paragraph>
+                <paragraph id="H63EE98E915D849739EABB10B5825A1C6">
+                    <enum>(4)</enum>
+ <text display-inline="yes-display-inline">The structure and composition of the United Nations Human Rights Council have made it subject to gross political manipulation, with the result that, during its almost seven years of operation, the Council has passed over 61 resolutions censuring the democratic, Jewish State of Israel, as compared to relatively few or no resolutions censuring dictatorships or addressing severe, ongoing human rights abuses around the world.</text>
+                </paragraph>
+                <paragraph id="HDBDE39E2CDC74131B33A0D6F2B54693C">
+                    <enum>(5)</enum>
+ <text>The United Nations Human Rights Council’s agenda contains a permanent item for criticism of the democratic, Jewish State of Israel, but no permanent items criticizing any other state.</text>
+                </paragraph>
+                <paragraph id="HD663FCAD65BC47E7B0FCE8BFAF5CB7DC">
+                    <enum>(6)</enum>
+ <text>The United Nations Human Rights Council has established, or preserved the existence of, a number of <term>Special Procedures</term> mechanisms to address country-specific situations or thematic issues. These mechanisms include a number of <term>special rapporteurs</term> whose expenses and staff support are paid for by contributions to the United Nations.</text>
+                </paragraph>
+                <paragraph id="H30426EA810B540B19BF56117C5972080">
+                    <enum>(7)</enum>
+ <text>The United Nations Human Rights Council has also established an <term>Advisory Committee</term> whose expenses and staff support are paid for by contributions to the United Nations.</text>
+                </paragraph>
+                <paragraph id="HB42250D3862A42C081319F2A8F7847E9">
+                    <enum>(8)</enum>
+ <text>Some of these special rapporteurs and members of the Advisory Committee have displayed consistent bias against the United States, Israel, and the Jewish people, while providing support to human rights abusers.</text>
+                </paragraph>
+                <paragraph id="H28F4B90C335F425BA2A17AFE0AE03FC6">
+                    <enum>(9)</enum>
+ <text>Miguel D’Escoto Brockmann, a member of the United Nations Human Rights Council Advisory Committee who has previously served as President of the United Nations General Assembly and as foreign minister for the Sandinista regime in Nicaragua, has implicitly accused the United States of terrorism, has called former President Ronald Reagan a <term>butcher</term>, has called for an international boycott of Israel, has stated that the Palestinians were being <term>crucified</term> by Israel, has called Israel’s defensive Operation Cast Lead in the Gaza Strip a <term>monstrosity</term> and <term>genocide</term>, has urged the United Nations to use the term <quote>apartheid</quote> in discussing Israeli treatment of Palestinians, has embraced Iranian leader Mahmoud Ahmadinejad after Ahmadinejad delivered an anti-American, anti-Israel address to the United Nations General Assembly, has stated that charges of genocide against Sudanese dictator Omar Hassan al Bashir are <term>racist</term>, and has declared Fidel Castro <term>World Hero of Solidarity</term>, stating that Castro <quote>embod[ied] virtues and values worth emulation by all of us</quote>.</text>
+                </paragraph>
+                <paragraph id="H864E127EFD584312B02C948751FA16CA">
+                    <enum>(10)</enum>
+ <text>The five-year review of the United Nations Human Rights Council concluded on June 17, 2011, and failed to make any significant reforms to its fundamental and severe structural flaws, including its absence of substantive membership criteria, or to remove the permanent agenda item on Israel.</text>
+                </paragraph>
+                <paragraph id="HE4D74956EBBD412687C07B2ECD25C925">
+                    <enum>(11)</enum>
+ <text>On June 17, 2011, former John F. Sammis, United States Deputy Representative to the Economic and Social Council, stated that <quote>The Geneva process [of the five-year review] failed to yield even minimally positive results, forcing us to dissociate from the outcome … the final resolution [for the five-year review] also fails to address the core problems that still plague the Human Rights Council … The United States has therefore voted <term>no</term> on the resolution … the Council’s effectiveness and legitimacy will always be compromised so long as one country in all the world is unfairly and uniquely singled out while others, including chronic human rights abusers, escape scrutiny … The resolution before us today does nothing to address the Council’s failures nor move it any closer to the founding values of the UN Charter and the Universal Declaration of Human Rights.</quote>.</text>
+                </paragraph>
+                <paragraph id="HB13CE57AEFD7430893907A8F278D6C53">
+                    <enum>(12)</enum>
+ <text>United States membership in the Human Rights Council has not led to reform of its fundamental flaws diminished the Council’s virulently anti-Israel behavior. The Council has passed 35 resolutions criticizing Israel since the United States joined in 2009.</text>
+                </paragraph>
+            </section>
+            <section id="H4749607BBBBF40C18918D3C3F6C5B4C6">
+                <enum>502.</enum>
+                <header>Human Rights Council membership and funding</header>
+                <subsection id="HBD58A2014E5A4EA3AF05C66B136074AB">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>For each and every fiscal year subsequent to the effective date of this Act, until the Secretary of State submits to Congress a certification that the requirements described in subsection (b) have been satisfied—</text>
+                    <paragraph id="H3BE1EF0FC18F4A13A9E5099049DF9235">
+                        <enum>(1)</enum>
+ <text>the Secretary of State shall withhold from a United States contribution each fiscal year to a regular budget of the United Nations an amount that is equal to the percentage of such contribution that the Secretary determines would be allocated by the United Nations to support the United Nations Human Rights Council;</text>
+                    </paragraph>
+                    <paragraph id="H60904309C71E46F3A991E3220FD6ABDD">
+                        <enum>(2)</enum>
+ <text>the Secretary of State shall not make a voluntary contribution to the United Nations Human Rights Council; and</text>
+                    </paragraph>
+                    <paragraph id="H9C623DC40B5D4FFEB1E1153E0FB9D368">
+                        <enum>(3)</enum>
+ <text>the United States shall not run for a seat on the United Nations Human Rights Council.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="H3DCB002C0BBC4E809E93F3C5F4E9B28C">
+                    <enum>(b)</enum>
+                    <header>Certification</header>
+ <text>The annual certification referred to in subsection (a) is a certification made by the Secretary to Congress that—</text>
+                    <paragraph id="H3FEC2C3706C84FF08535D1AA1546BB7C">
+                        <enum>(1)</enum>
+ <text>the United Nations Human Rights Council’s mandate from the United Nations General Assembly explicitly and effectively prohibits candidacy for Human Rights Council membership of a United Nations Member State—</text>
+                        <subparagraph id="H539ABD32FD9B49BD9CD4E9BA98438E00">
+                            <enum>(A)</enum>
+ <text>subject to sanctions by the Security Council; and</text> </subparagraph> <subparagraph id="HBF0F1E7550884C638879BA50A3E362EA"> <enum>(B)</enum> <text>under a Security Council-mandated investigation for human rights abuses;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="HEBBFBB4DA9FF4C82BD67E533A1255862">
+                        <enum>(2)</enum>
+ <text>the United Nations Human Rights Council does not include a United Nations Member State—</text>
+                        <subparagraph id="HF80ADD492D2C4F0F96BA652E4A7E3AEA">
+                            <enum>(A)</enum>
+ <text>subject to sanctions by the Security Council;</text> </subparagraph> <subparagraph id="H2EB05F64C37144E19B619C70E0E2A480"> <enum>(B)</enum> <text>under a Security Council-mandated investigation for human rights abuses;</text>
+                        </subparagraph>
+                        <subparagraph id="HE92C975A06B74685A47EDD6E999C0ECB">
+                            <enum>(C)</enum>
+ <text>which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (as continued in effect pursuant to the International Emergency Economic Powers Act), section 40 of the Arms Export Control Act, section 620A of the Foreign Assistance Act of 1961, or other provision of law, is a government that has repeatedly provided support for acts of international terrorism;</text>
+                        </subparagraph>
+                        <subparagraph id="H2C7A0B2E36FD44DDA7D75BEBBE6D8EC7">
+                            <enum>(D)</enum>
+ <text>which the President has designated as a country of particular concern for religious freedom under section 402(b) of the International Religious Freedom Act of 1998;</text>
+                        </subparagraph>
+                        <subparagraph id="H1BD28D6FA95C4BCB849C5650C078F164">
+                            <enum>(E)</enum>
+ <text>designated by the Department of State pursuant to section 110 of the Trafficking Victims Protection Act of 2000 (<external-xref legal-doc="usc" parsable-cite="usc/22/7107">22 U.S.C. 7107</external-xref>) as a Tier 3 country; or</text>
+                        </subparagraph>
+                        <subparagraph id="HE84AB58347CF4F01961BA7B537627CED">
+                            <enum>(F)</enum>
+ <text>subject to sanctions by the United States; and</text> </subparagraph> </paragraph> <paragraph id="HD59C14FB05A0476DAD012AF607757359"> <enum>(3)</enum> <text>the United Nations Human Rights Council’s agenda or programme of work does not include a permanent item with regard to the State of Israel.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="H4F37296E4CB84E8387475C4C077A1123">
+                    <enum>(c)</enum>
+                    <header>Special procedures</header>
+ <text>The Secretary of State shall withhold from a United States contribution each year to a regular budget of the United Nations an amount that is equal to the percentage of such contribution that the Secretary determines would be allocated by the United Nations to support the United Nations <quote>Special Rapporteur on the situation of human rights in Palestinian territories occupied since 1967</quote>, and any other United Nations Human Rights Council <term>Special Procedures</term> used to display bias against the United States or the State of Israel or to provide support for the government of any United Nations Member State—</text>
+                    <paragraph id="H50FA47C6A51C4B4694CC6007CF2A781E">
+                        <enum>(1)</enum>
+ <text>subject to sanctions by the Security Council;</text> </paragraph> <paragraph id="HF68456877A0449EEA7CB9A42CD962387"> <enum>(2)</enum> <text>under a Security Council-mandated investigation for human rights abuses;</text>
+                    </paragraph>
+                    <paragraph id="H32C5B556CD144609B77D879BA2EB9567">
+                        <enum>(3)</enum>
+ <text>which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (as continued in effect pursuant to the International Emergency Economic Powers Act), section 40 of the Arms Export Control Act, section 620A of the Foreign Assistance Act of 1961, or other provision of law, is a government that has repeatedly provided support for acts of international terrorism;</text>
+                    </paragraph>
+                    <paragraph id="H3D5A03ED0C15475D8993FAE3D31E2AA1">
+                        <enum>(4)</enum>
+ <text>which the President has designated as a country of particular concern for religious freedom under section 402(b) of the International Religious Freedom Act of 1998;</text>
+                    </paragraph>
+                    <paragraph id="HBD2E858C5BA94B37A6FBA0C437F4DE4C">
+                        <enum>(5)</enum>
+ <text>designated by the Department of State pursuant to section 110 of the Trafficking Victims Protection Act of 2000 (<external-xref legal-doc="usc" parsable-cite="usc/22/7107">22 U.S.C. 7107</external-xref>) as a Tier 3 country; or</text>
+                    </paragraph>
+                    <paragraph id="H04213A78298D44B994106721F9872522">
+                        <enum>(6)</enum>
+ <text>subject to sanctions by the United States.</text> </paragraph> </subsection> <subsection id="H76EC0357F43E4A6B972C802DBF17B06A"> <enum>(d)</enum> <header>Reversion of funds</header> <text>Funds appropriated for use as a United States contribution to the United Nations but withheld from obligation and expenditure pursuant to this section shall immediately revert to the United States Treasury and shall not be considered arrears to be repaid to any United Nations Entity.</text>
+                </subsection>
+            </section>
+        </title>
+        <title id="HB9821E05A48B48B2B37BA08F73633C98">
+            <enum>VI</enum>
+            <header>2014 GAZA REPORT</header>
+            <section id="H74B1AD1FCB9D4F428D73FB9CB658A449">
+                <enum>601.</enum>
+                <header>Findings</header>
+ <text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="HE2290E48CCA04F8C88286BF7EB2B0830"> <enum>(1)</enum> <text>On January 12, 2009, the United Nations Human Rights Council passed Resolution A/HRC/S–9/L.1, which authorized a <quote>fact-finding mission</quote> regarding Israel’s conduct of Operation Cast Lead against violent militants in the Gaza Strip between December 27, 2008, and January 18, 2009.</text>
+                </paragraph>
+                <paragraph id="HD41D67F7DD24440790BD6E0564CA3AFD">
+                    <enum>(2)</enum>
+ <text>The resolution pre-judged the outcome of its investigation by one-sidedly mandating the <quote>fact-finding mission</quote> to <quote>investigate all violations of international human rights law and International Humanitarian Law by … Israel, against the Palestinian people … particularly in the occupied Gaza Strip, due to the current aggression</quote>.</text>
+                </paragraph>
+                <paragraph id="HB6B7D5A72C6D474DA636253544D78E3F">
+                    <enum>(3)</enum>
+ <text>The mandate of the <quote>fact-finding mission</quote> makes no mention of the relentless rocket and mortar attacks, which numbered in the thousands and spanned a period of eight years, by Hamas and other violent militant groups in Gaza against civilian targets in Israel, that necessitated Israel’s defensive measures.</text>
+                </paragraph>
+                <paragraph id="HE9ADC312027B4B2EAF54A91497AFEAF4">
+                    <enum>(4)</enum>
+ <text>The <quote>fact-finding mission</quote> included a member who, before joining the mission, had already declared Israel guilty of committing atrocities in Operation Cast Lead by signing a public letter on January 11, 2009, published in the Sunday Times, that called Israel’s actions <quote>war crimes</quote>.</text>
+                </paragraph>
+                <paragraph id="HF718E1B565C2449BA9115DFB5552A262">
+                    <enum>(5)</enum>
+ <text>The mission’s flawed and biased mandate gave serious concern to many United Nations Human Rights Council Member States which refused to support it, including Bosnia and Herzegovina, Cameroon, Canada, France, Germany, Italy, Japan, the Netherlands, the Republic of Korea, Slovakia, Slovenia, Switzerland, Ukraine, and the United Kingdom of Great Britain and Northern Ireland, and troubled many distinguished individuals who refused invitations to head the mission.</text>
+                </paragraph>
+                <paragraph id="H5B575227D283407B8D69B220C51CDD6C">
+                    <enum>(6)</enum>
+ <text>On September 15, 2009, the <quote>United Nations Fact Finding Mission on the Gaza Conflict</quote> released its report, commonly referred to as the <quote>Goldstone Report</quote>, which repeatedly made sweeping and unsubstantiated determinations that the Israeli military had deliberately attacked civilians during Operation Cast Lead.</text>
+                </paragraph>
+                <paragraph id="HB97355DC0A414ACC8D04CA49A90FC8BE">
+                    <enum>(7)</enum>
+ <text>The Goldstone Report, in effect, denied the State of Israel the right to self-defense, and never noted the fact that Israel had the right to defend its citizens from the repeated violent attacks committed against civilian targets in southern Israel by Hamas and other Foreign Terrorist Organizations operating from Gaza.</text>
+                </paragraph>
+                <paragraph id="HE1DF74A536DD41F2B995170CA900AB3F">
+                    <enum>(8)</enum>
+ <text>The Goldstone Report largely ignored the culpability of the Government of Iran and the Government of Syria, both of whom sponsor Hamas and other Foreign Terrorist Organizations.</text>
+                </paragraph>
+                <paragraph id="HEAAEF115FC644EB3B725A7A066A35CFB">
+                    <enum>(9)</enum>
+ <text>On April 1, 2011, Richard Goldstone, the head of the <quote>United Nations Fact Finding Mission on the Gaza Conflict</quote> that authored the Goldstone Report, wrote an op-ed in the Washington Post that renounced the Goldstone Report’s claim that the Israeli military deliberately attacked civilians during Operation Cast Lead. Goldstone wrote that the Israeli military’s investigations with respect to incidents in Operation Cast Lead <quote>indicate that civilians were not intentionally targeted as a matter of policy</quote>.</text>
+                </paragraph>
+                <paragraph id="HB7E85CF0E02E411EB7FEFE0424D8C95D">
+                    <enum>(10)</enum>
+ <text>Three years later, on July 23, 2014, the United Nations Human Rights Council passed Resolution A/HRC/RES/S–21/1, which authorized a <quote>commission of inquiry</quote> regarding the conflict between Israel and Hamas between July 8, 2014, and August 26, 2014.</text>
+                </paragraph>
+                <paragraph id="HE4488A917D0245069D596D44DCF18C89">
+                    <enum>(11)</enum>
+ <text>On June 22, 2015, the <quote>United Nations Independent Commission of Inquiry on the 2014 Gaza conflict</quote> released its report, hereafter referred to as the <quote>Gaza report</quote>, which attempted to establish a false moral equivalency between the actions of Israel’s military and of Hamas and other Foreign Terrorist Organizations operating from Gaza.</text>
+                </paragraph>
+                <paragraph id="H5A69729CA2DE436BAF5434C4E0C053B2">
+                    <enum>(12)</enum>
+ <text>The Gaza report, in effect, denies the State of Israel the right to self defense, and never notes the fact that Israel had the right to defend its citizens from the repeated violent attacks committed against civilian targets in southern Israel by Hamas and other Foreign Terrorist Organizations operating from Gaza.</text>
+                </paragraph>
+                <paragraph id="H22BA7D5947E6477AAD1302CBD94F7275">
+                    <enum>(13)</enum>
+ <text>Hamas uses civilian populations as human shields by placing their missile batteries in densely populated areas and near schools, hospitals, and mosques.</text>
+                </paragraph>
+                <paragraph id="H62D40EDD203B4ED9A5F3469008DD4385">
+                    <enum>(14)</enum>
+ <text>Israel’s military went to extraordinary lengths to target only terrorist actors and to minimize collateral damage by warning Gaza residents of imminent attacks.</text>
+                </paragraph>
+                <paragraph id="H09754E09DB4B48C7951B16A9212FF13A">
+                    <enum>(15)</enum>
+ <text>Hamas urged the residents of Gaza to ignore the Israeli warnings and to remain in their houses and encouraged Palestinians to gather on the roofs of their homes to act as human shields.</text>
+                </paragraph>
+                <paragraph id="H653ACBFB3D6F4AE18D71398309DD0139">
+                    <enum>(16)</enum>
+ <text>The Gaza report reflects the longstanding, historic bias at the United Nations against the democratic, Jewish State of Israel.</text>
+                </paragraph>
+                <paragraph id="H7779A45DB4C74DC79395683E2826892D">
+                    <enum>(17)</enum>
+ <text>The Gaza report is being exploited by Israel’s enemies to excuse the actions of violent militant groups and their state sponsors, and to justify isolation of and punitive measures against the democratic, Jewish State of Israel.</text>
+                </paragraph>
+                <paragraph id="HE9FF5E369B454FC48CEF9FB955D79CEA">
+                    <enum>(18)</enum>
+ <text>Efforts to delegitimize the democratic State of Israel and deny it the right to defend its citizens and its existence can be used to delegitimize other democracies and deny them the same right.</text>
+                </paragraph>
+            </section>
+            <section id="HFDA7A40D28EE4AED93F543D3E8466451">
+                <enum>602.</enum>
+                <header>Statement of policy</header>
+ <text display-inline="no-display-inline">It is the policy of the United States to—</text>
+                <paragraph id="H0AC0DF121880412EABC38CBF25DCD84D">
+                    <enum>(1)</enum>
+ <text>consider the Gaza report irredeemably biased and unworthy of further consideration or legitimacy;</text>
+                </paragraph>
+                <paragraph id="HAAB49023AB5C4C349B8D2341B5906AAA">
+                    <enum>(2)</enum>
+ <text>strongly and unequivocally oppose any consideration, legitimization, or endorsement of the Gaza report, or any other measures stemming from this report, in multilateral fora;</text>
+                </paragraph>
+                <paragraph id="H55D4DC2D7C4C4E67A38B0CD14CB6CCB5">
+                    <enum>(3)</enum>
+ <text>lead a high-level diplomatic campaign in support of the revocation and repudiation, by the United Nations General Assembly, of the Gaza report and any United Nations resolutions stemming from the report, including</text>
+                </paragraph>
+                <paragraph id="HFDEDB2A87526429089FC7DE634FB9B23">
+                    <enum>(4)</enum>
+ <text>lead a high-level diplomatic effort to encourage other responsible countries not to endorse, support, or legitimize the Gaza report or any other measures stemming from the report.</text>
+                </paragraph>
+            </section>
+            <section id="H5171299AFE1948479228CB6CC4A814E7">
+                <enum>603.</enum>
+                <header>Withholding of funds; Refund of United States taxpayer dollars</header>
+                <subsection id="HA8DB3ED742EA48348CFED3EA17B50047">
+                    <enum>(a)</enum>
+                    <header>Withholding of funds</header>
+ <text>The Secretary of State shall withhold from the United States contribution to the regular budget of the United Nations an amount that is equal to the percentage of such contribution that the Secretary determines would be or has been expended by the United Nations for any part of the Gaza report or its preparatory or follow-on activities.</text>
+                </subsection>
+                <subsection id="H9DC1619D217B44419390B41AC6E016FA">
+                    <enum>(b)</enum>
+                    <header>Refund of united states taxpayer dollars</header>
+ <text>Funds appropriated for use as a United States contribution to the regular budget of the United Nations but withheld from obligation and expenditure pursuant to subsection (a) shall immediately revert to the United States Treasury and shall not be considered arrears to be repaid to any United Nations Entity.</text>
+                </subsection>
+            </section>
+        </title>
+        <title id="H0D2A668A6E16484590E8AF41E20847A2">
+            <enum>VII</enum>
+            <header>BIASED AND COMPROMISED ACTIVITIES</header>
+            <section id="HB6210D7E661D448BA405BA26A450A5E6">
+                <enum>701.</enum>
+                <header>Withholding of funds</header>
+                <subsection id="H2A61DD6391464B05AE7C91CE0018187B">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>Until the Secretary of State submits to the appropriate congressional committees a certification, on a case-by-case basis, that the requirements described in subsection (b) have been satisfied, the United States shall withhold from the United States contribution to the regular budget of the United Nations an amount that is equal to the percentage of such contribution that the Secretary determines has been allocated by the United Nations for any conference, meeting, or other multilateral forum, or the preparatory or follow-on activities of any conference, meeting, or other multilateral forum, that is organized under the aegis or jurisdiction of the United Nations or of any United Nations Entity.</text>
+                </subsection>
+                <subsection id="H1B985E1AFA5A47A09847C6D8744E285D">
+                    <enum>(b)</enum>
+                    <header>Requirements</header>
+ <text>The certification referred to in subsection (a) is a certification made by the Secretary of State to the appropriate congressional committees concerning the following:</text>
+                    <paragraph id="H77DF1D2D79E34ECFA07D9E9D0F4516E3">
+                        <enum>(1)</enum>
+ <text>The specified conference or forum was not used to single out the United States or the State of Israel for unfair or unbalanced criticism.</text>
+                    </paragraph>
+                    <paragraph id="HC0B406DC0F6A4539B6D9E2D0170D9988">
+                        <enum>(2)</enum>
+ <text>The specified conference or forum was not used to propagate racism, racial discrimination, anti-Semitism, denial of the Holocaust, incitement to violence or genocide, xenophobia, or related intolerance.</text>
+                    </paragraph>
+                    <paragraph id="H06EB4AB8873041E1A28C8746CFEFB047">
+                        <enum>(3)</enum>
+ <text>The specified conference or forum was not used to advocate for restrictions on the freedoms of speech, expression, religion, the press, assembly, or petition, or for restrictions on other fundamental human rights and freedoms.</text>
+                    </paragraph>
+                    <paragraph id="H4372B077ABD1486C8286960FD3794349">
+                        <enum>(4)</enum>
+ <text>The leadership of the specified conference or forum does not include a Member State, or a representative from a Member State—</text>
+                        <subparagraph id="HAA43984A01104F34881F56AD38DA3898">
+                            <enum>(A)</enum>
+ <text>subject to sanctions by the Security Council;</text> </subparagraph> <subparagraph id="HC513984EC484452F8C3335F5BA518D35"> <enum>(B)</enum> <text>under a Security Council-mandated investigation for human rights abuses;</text>
+                        </subparagraph>
+                        <subparagraph id="H834CBAFFC8C44E8B843C8E9010C5B468">
+                            <enum>(C)</enum>
+ <text>the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (as continued in effect pursuant to the International Emergency Economic Powers Act), section 40 of the Arms Export Control Act, section 620A of the Foreign Assistance Act of 1961, or other provision of law, is a government that has repeatedly provided support for acts of international terrorism; or</text>
+                        </subparagraph>
+                        <subparagraph id="H154CE0B4A85D436F9F69FF5017EF4994">
+                            <enum>(D)</enum>
+ <text>subject to sanctions by the United States.</text> </subparagraph> </paragraph> </subsection> </section> </title> <title id="H1B31C5A387C04EBE90E0C74D792F32FE"> <enum>VIII</enum> <header>UNRWA</header> <section id="H75EB9BD3F4AC4149B3FB36F9B9768B83"> <enum>801.</enum> <header>Findings</header> <text display-inline="no-display-inline">Congress makes the following findings:</text>
+                <paragraph id="HB060F637BA2E473E923B4BE2F497C541">
+                    <enum>(1)</enum>
+ <text>United Nations General Assembly Resolution 302 (1949) created the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) with the temporary, strictly humanitarian mandate to <quote>carry out … direct relief and works programmes</quote> for Palestinian refugees.</text>
+                </paragraph>
+                <paragraph id="HD43DFD8294AD46B585A82E585BA17F99">
+                    <enum>(2)</enum>
+ <text>The total annual budget of the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA), including its core programs, emergency activities and special projects, exceeds almost $1,400,000,000.</text>
+                </paragraph>
+                <paragraph id="HD8A55097E46B49A196A8ECCBFB66C53D">
+                    <enum>(3)</enum>
+ <text>The United States has long been the largest single contributing country to UNRWA.</text>
+                </paragraph>
+                <paragraph id="HC6919635BB644206B2CE7D2B7A374C2B">
+                    <enum>(4)</enum>
+ <text>From 1950 to 2015, the United States has contributed over $5,000,000,000 to UNRWA, including an average of over $280,000,000 per year between 2009 and 2014.</text>
+                </paragraph>
+                <paragraph id="HF10C278D7F364A678BB6E87D3FF47751">
+                    <enum>(5)</enum>
+ <text>UNRWA staff unions, including the teachers’ union, are frequently controlled by members affiliated with Hamas.</text>
+                </paragraph>
+                <paragraph id="HCE18746F4AB64681A089272D3CB55807">
+                    <enum>(6)</enum>
+ <text>The late Representative Tom Lantos, in a May 13, 2002, letter, expressed his concern that—</text>
+                    <subparagraph id="H5D5CD7A515684533A2F7F56B0B8DFA34">
+                        <enum>(A)</enum>
+ <text><quote>UNRWA is perpetuating, rather than ameliorating, the situation of Palestinian refugees</quote>;</text>
+                    </subparagraph>
+                    <subparagraph id="H21AA2F641BDE4388B3C7989FFB5BFECC">
+                        <enum>(B)</enum>
+ <text><quote>UNRWA officials have … failed to prevent their camps from becoming centers of terrorist activity</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="H8862798C58B946F185EB1D01089A97FC">
+                        <enum>(C)</enum>
+ <text><quote>for too long, UNRWA has been part of the problem, rather than the solution, in the Middle East … UNRWA camps have fostered a culture of anger and dependency that undermines both regional peace and the well-being of the camps</quote> inhabitants.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H5736B42DB76C4945B27EB93E38381F5B">
+                    <enum>(7)</enum>
+ <text>The curriculum of UNRWA schools, which has been known to use the textbooks of their respective host governments or authorities, has a history of containing materials that are anti-Israel, anti-Semitic, and supportive of violent extremism.</text>
+                </paragraph>
+                <paragraph id="HCF4B63782F6F414A9217548431FA4C63">
+                    <enum>(8)</enum>
+ <text>Despite UNRWA’s contravention of United States law and activities that compromise its strictly humanitarian mandate, UNRWA continues to receive United States contributions, including $408,751,396 in 2014.</text>
+                </paragraph>
+                <paragraph id="H63E8F1F5AF6E47E3B7364CB181CFE046">
+                    <enum>(9)</enum>
+ <text>Assistance from the United States and other responsible nations allows UNRWA to claim that criticisms of the agency’s behavior are unfounded. UNRWA spokesman Christopher Gunness has dismissed concerns by stating that <quote>If these baseless allegations were even halfway true, do you really think the U.S. and [European Commission] would give us hundreds of millions of dollars per year?</quote>.</text>
+                </paragraph>
+                <paragraph id="H2D4596E32AEB4F6392103C0A3F43C16D">
+                    <enum>(10)</enum>
+ <text>Former UNRWA general counsel James Lindsay noted in a 2009 report that:</text>
+                    <subparagraph id="HEAA8B8259C2D4DDE8DE828DEE3C636F5">
+                        <enum>(A)</enum>
+ <text><quote>The United States, despite funding nearly 75 percent of UNRWA’s national budget and remaining its largest single country donor, has mostly failed to make UNRWA reflect U.S. foreign policy objectives … Recent U.S. efforts to shape UNRWA appear to have been ineffective …</quote>;</text>
+                    </subparagraph>
+                    <subparagraph id="H811A7811256C4A058E8E6F099B3C6348">
+                        <enum>(B)</enum>
+ <text><quote>[T]he United States is not obligated to fund agencies that refuse to check its rolls for individuals their donors do not wish to support.</quote>;</text>
+                    </subparagraph>
+                    <subparagraph id="H77404BC6A52548D7BDB48A92FAB85655">
+                        <enum>(C)</enum>
+ <text><quote>A number of changes in UNRWA could benefit the refugees, the Middle East, and the United States, but those changes will not occur unless the United States, ideally with support from UNRWA’s other main financial supporter, the European Union, compels the agency to enact reforms.</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="HD004290936F4419CA147C13505406DC7">
+                        <enum>(D)</enum>
+ <text><quote>If the [UNRWA commissioner-general’s] power is used in ways that are conflict with the donors</quote> political objectives, it is up to the donors to take the necessary actions to ensure that their interests are respected. When they have done so, UNRWA—given the tight financial leash it has been on for most of its existence—has tended to follow their dictates, even if sometimes slowly.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H876AE0A5095F42308806EBB67213764F">
+                    <enum>(11)</enum>
+ <text>The Government of Canada has placed restrictions on its contributions to UNRWA, demonstrating consequences for UNRWA’s malfeasance and setting an example for the United States and other donor governments.</text>
+                </paragraph>
+                <paragraph id="HC343AD1AD95A449E9D870E9D4FFD32F4">
+                    <enum>(12)</enum>
+ <text>During Israel’s Operation Protective Edge in 2014 in response to Hamas rocket attacks against Israel, UNRWA's Commissioner General gave a press briefing ignoring the extraordinary efforts Israel goes to avoid civilian casualties, and not once in the nearly 1,100 word statement mentioning Hamas or condemning Hamas' use of Palestinian children, women, and men as human shields in violation of international humanitarian law.</text>
+                </paragraph>
+                <paragraph id="H6B9F7873CFEC4EEDB4AFAAA5D09E2752">
+                    <enum>(13)</enum>
+ <text>On July 16, 2014, UNRWA reported that it had found 20 missiles in one of its schools in Gaza, likely placed there by Hamas, and then instead of dismantling the missiles, UNRWA returned them to the <quote>relevant authorities</quote> in Gaza, and since Hamas controls Gaza, it likely turned them back over to Hamas.</text>
+                </paragraph>
+                <paragraph id="H5EEF356B2D78423C95DD4BE5A836EC64">
+                    <enum>(14)</enum>
+ <text>On July 22, 2014, UNRWA reported that it had found a second instance in which missiles were stockpiled in one of its schools in Gaza, and again failed to condemn Hamas publicly.</text>
+                </paragraph>
+                <paragraph id="HC35C2A2DB8174E74AA5E46AA97D012D4">
+                    <enum>(15)</enum>
+ <text>On July 29, 2014, UNRWA confirmed that, for the third time in less than a month, a stockpile of Hamas rockets was found in one of its schools in Gaza, establishing a pattern of Hamas weapons being stored in UNRWA facilities, and calling into question UNRWA’s claim of being caught unawares to Hamas’ actions.</text>
+                </paragraph>
+                <paragraph id="HBED004C866BF47AEA36EDB8E7F6EACAF">
+                    <enum>(16)</enum>
+ <text>On July 30, 2014, three Israeli Defense Force soldiers were killed in an explosion at a booby-trapped UNRWA health clinic, which was housing the opening to one of Hamas' underground tunnels.</text>
+                </paragraph>
+                <paragraph id="HDA336BBCE103401DB3BF4BEBFB967AF3">
+                    <enum>(17)</enum>
+ <text>On July 30, 2014, John Ging, head of UNRWA from 2006 to 2011, when asked if Hamas has been using human shields and using United Nations schools and hospitals to store weapons and as a shelter from which to launch missiles into Israel, stated in an interview, <quote>Yes, the armed groups are firing their rockets into Israel from the vicinity of UN facilities and residential areas. Absolutely.</quote>.</text>
+                </paragraph>
+                <paragraph id="H800C51D9603C40A082F5D1D9EA2C1B97">
+                    <enum>(18)</enum>
+ <text>During Operation Protective Edge in Gaza, UNRWA repeatedly distorted the facts and accused Israel of targeting Palestinian women and children based off of the casualty numbers provided to it by Gaza's Hamas-run Health Ministry, which has been shown to have deliberately lied about the casualty numbers.</text>
+                </paragraph>
+            </section>
+            <section id="HF0DF74E37E79444AB55A241DC192516F">
+                <enum>802.</enum>
+                <header>United States Contributions to UNRWA</header>
+ <text display-inline="no-display-inline">Section 301 of the Foreign Assistance Act of 1961 is amended by striking subsection (c) and inserting the following new subsection:</text>
+                <quoted-block id="H68729E72C84C4C0DA39DB6674A7D5395" style="OLC">
+                    <subsection id="H467B22140FB84ACDBEF26FAF897372AB">
+                        <enum>(c)</enum>
+                        <paragraph commented="no" display-inline="yes-display-inline"
+                            id="H4A935D9E2BAA4243BEA87462ED9F9EA9">
+                            <enum>(1)</enum>
+                            <header>Withholding</header>
+ <text>Contributions by the United States to the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA), to any successor or related entity, or to the regular budget of the United Nations for the support of UNRWA or a successor entity (through staff positions provided by the United Nations Secretariat, or otherwise), may be provided only during a period for which a certification described in paragraph (2) is in effect. Notwithstanding any other provision of law, if such a certification cannot be made, such contributions shall be made available to the United Nations High Commissioner for Refugees (UNHCR) specifically for use by UNHCR Emergency Response.</text>
+                        </paragraph>
+                        <paragraph id="HFB29C6FB441F4B50BC9AE776C2B1CAE7" indent="up1">
+                            <enum>(2)</enum>
+                            <header>Certification</header>
+ <text>A certification described in this paragraph is a written determination by the Secretary of State, based on all information available after diligent inquiry, and transmitted to the appropriate congressional committees along with a detailed description of the factual basis therefor, that—</text>
+                            <subparagraph id="H8812112994694E47A04D1C948B1339A2">
+                                <enum>(A)</enum>
+ <text>no official, employee, consultant, contractor, subcontractor, representative, or affiliate of UNRWA—</text>
+                                <clause id="H1501FC7F01684B328A7E11C7BA491E0F">
+                                    <enum>(i)</enum>
+ <text>is a member of a Foreign Terrorist Organization;</text> </clause> <clause id="H33C23CA1056D43EEB29894E146280DCB"> <enum>(ii)</enum> <text>has propagated, disseminated, or incited anti-American, anti-Israel, or anti-Semitic rhetoric or propaganda; or</text>
+                                </clause>
+                                <clause id="H27AB6030AA124D2B885221438539ECEE">
+                                    <enum>(iii)</enum>
+ <text>has used any UNRWA resources, including publications or Web sites, to propagate or disseminate political materials, including political rhetoric regarding the Israeli-Palestinian conflict;</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph id="HDB11AC315788430FA2237ED940CD30E3">
+                                <enum>(B)</enum>
+ <text>no UNRWA school, hospital, clinic, other facility, or other infrastructure or resource is being used by a Foreign Terrorist Organization for operations, planning, training, recruitment, fundraising, indoctrination, communications, sanctuary, storage of weapons or other materials, or any other purposes;</text>
+                            </subparagraph>
+                            <subparagraph id="HD7CE666A91C1426183DECF7EFBB4CEE5">
+                                <enum>(C)</enum>
+ <text>UNRWA is subject to comprehensive financial audits by an internationally recognized third-party independent auditing firm and has implemented an effective system of vetting and oversight to prevent the use, receipt, or diversion of any UNRWA resources by any foreign terrorist organization or members thereof;</text>
+                            </subparagraph>
+                            <subparagraph id="H77225F3D5D1E4FCA89D4C0CC1879C0D9">
+                                <enum>(D)</enum>
+ <text>no UNRWA-funded school or educational institution uses textbooks or other educational materials that propagate or disseminate anti-American, anti-Israel, or anti-Semitic rhetoric, propaganda or incitement;</text>
+                            </subparagraph>
+                            <subparagraph id="HB3815ADDF21E4D2DA687A50868DB8D42">
+                                <enum>(E)</enum>
+ <text>no recipient of UNRWA funds or loans is a member of a Foreign Terrorist Organization; and</text>
+                            </subparagraph>
+                            <subparagraph id="HF22D6320FB3343A08C09346ED42EA5BB">
+                                <enum>(F)</enum>
+ <text>UNRWA holds no accounts or other affiliations with financial institutions that the United States deems or believes to be complicit in money laundering and terror financing.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="H1FCF24B02533467C95A52016F613485E" indent="up1">
+                            <enum>(3)</enum>
+                            <header>Definitions</header>
+ <text>In this section:</text> <subparagraph id="HB51FF1C649384421AA6F6845E02E220D"> <enum>(A)</enum> <header>Appropriate congressional committees</header> <text>The term <term>appropriate congressional committees</term> means—</text>
+                                <clause id="HDBC672317A85472D865604764E9570C9">
+                                    <enum>(i)</enum>
+ <text>the Committees on Foreign Affairs, Appropriations, and Oversight and Government Reform of the House of Representatives; and</text>
+                                </clause>
+                                <clause id="H743234B54CC044CE885A381C533E8A6A">
+                                    <enum>(ii)</enum>
+ <text>the Committees on Foreign Relations, Appropriations, and Homeland Security and Governmental Affairs of the Senate.</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph id="H500C938BB38246E797F1A51B8F106EC8">
+                                <enum>(B)</enum>
+                                <header>Foreign Terrorist Organization</header>
+ <text>The term <term>Foreign Terrorist Organization</term> means an organization designated as a Foreign Terrorist Organization by the Secretary of State in accordance with section 219(a) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1189">8 U.S.C. 1189(a)</external-xref>).</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="HD49A8B40B7824E1A838F2913D6CE0037" indent="up1">
+                            <enum>(4)</enum>
+                            <header>Effective Duration of Certification</header>
+ <text>The certification described in paragraph (2) shall be effective for a period of 180 days from the date of transmission to the appropriate congressional committees, or until the Secretary receives information rendering that certification factually inaccurate, whichever is earliest. In the event that a certification becomes ineffective, the Secretary shall promptly transmit to the appropriate congressional committees a description of any information that precludes the renewal or continuation of the certification.</text>
+                        </paragraph>
+                        <paragraph id="HD6E806E0084F4B6C9354B339B5EC209C" indent="up1">
+                            <enum>(5)</enum>
+                            <header>Limitation</header>
+ <text>During a period for which a certification described in paragraph (2) is in effect, the United States may not contribute to the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) or a successor entity an annual amount—</text>
+                            <subparagraph id="HA1F71AF810CD4D6EB58E1582C7C614B8">
+                                <enum>(A)</enum>
+ <text>greater than the highest annual contribution to UNRWA made by a member country of the League of Arab States;</text>
+                            </subparagraph>
+                            <subparagraph id="H416B0AA07DFC4A5985B5FE93FD5041EF">
+                                <enum>(B)</enum>
+ <text>that, as a proportion of the total UNRWA budget, exceeds the proportion of the total budget for the United Nations High Commissioner for Refugees (UNHCR) paid by the United States; or</text>
+                            </subparagraph>
+                            <subparagraph id="H3CF45CC4F0C74614A6C5D485B06175B0">
+                                <enum>(C)</enum>
+ <text>that exceeds 22 percent of the total budget of UNRWA.</text> </subparagraph> </paragraph> </subsection> <after-quoted-block>.</after-quoted-block> </quoted-block> </section> <section id="H8E608E9627604EFBB9469AD90A5A2BEA"> <enum>803.</enum> <header>Sense of Congress</header> <text display-inline="no-display-inline">It is the sense of Congress that—</text>
+                <paragraph id="H4E59C86628E04B5FBA1AAA83B12A1019">
+                    <enum>(1)</enum>
+ <text>the President and the Secretary of State should lead a high-level diplomatic effort to encourage other responsible nations to withhold contributions to UNRWA, to any successor or related entity, or to the regular budget of the United Nations for the support of UNRWA or a successor entity (through staff positions provided by the United Nations Secretariat, or otherwise) until UNRWA has met the conditions listed in subparagraphs (A) through (F) of section 301(c)(2) of the Foreign Assistance Act of 1961 (as added by section 802 of this Act);</text>
+                </paragraph>
+                <paragraph id="HB6FB4378267647E68737D476B0A8B1CB">
+                    <enum>(2)</enum>
+ <text>citizens of recognized states should be removed from UNRWA’s jurisdiction;</text>
+                </paragraph>
+                <paragraph id="H2E9F2DFE3FAB4DD5B8DBA830D4A574F2">
+                    <enum>(3)</enum>
+ <text>UNRWA’s definition of a <term>Palestine refugee</term> should be changed to that used for a refugee by the Office of the United Nations High Commissioner for Refugees; and</text>
+                </paragraph>
+                <paragraph id="HF39B6248C98E4BC8B90097A614FFA2A7">
+                    <enum>(4)</enum>
+ <text>in order to alleviate the suffering of Palestinian refugees, responsibility for those refugees should be fully transferred to the Office of the United Nations High Commissioner for Refugees.</text>
+                </paragraph>
+            </section>
+        </title>
+        <title id="H2C893380D87042F4A73AF4EF156C2630">
+            <enum>IX</enum>
+            <header>INTERNATIONAL ATOMIC ENERGY AGENCY</header>
+            <section id="H6E3BAF3D807A4ED195CBDA68E6A70BDE">
+                <enum>901.</enum>
+                <header>Technical cooperation program</header>
+                <subsection id="H9163B338868248EA9744478091760FD0">
+                    <enum>(a)</enum>
+                    <header>Prohibition</header>
+ <text>No funds from any United States assessed or voluntary contribution to the IAEA may be used to support any assistance provided by the IAEA through its Technical Cooperation program to North Korea and any country that—</text>
+                    <paragraph id="H943EF87C7AE44B59B9FF07A430621CF4">
+                        <enum>(1)</enum>
+ <text>is a country the government of which has been determined by the Secretary of State, for purposes of section 6(j) of the Export Administration Act of 1979, section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or other provision of law, is a government that has repeatedly provided support for acts of international terrorism;</text>
+                    </paragraph>
+                    <paragraph id="H0F938DAB34E74588A9E724F9E9F4AF13">
+                        <enum>(2)</enum>
+ <text display-inline="yes-display-inline">is subject to sanctions by the United States as a proliferation concern or for being in breach of or noncompliance with its obligations regarding—</text>
+                        <subparagraph id="H8FA8AB9DBC444C89A6A1510556CDE610">
+                            <enum>(A)</enum>
+ <text>its safeguards agreement with the IAEA;</text> </subparagraph> <subparagraph id="H03D532F49E054D53AA0C1C25C801F2E7"> <enum>(B)</enum> <text>the Additional Protocol;</text>
+                        </subparagraph>
+                        <subparagraph id="H6F51F16434534B12901266965E1D57F4">
+                            <enum>(C)</enum>
+ <text>the Nuclear Non-Proliferation Treaty;</text> </subparagraph> <subparagraph id="H47618CEFCB1549669D502D98E0C07DBF"> <enum>(D)</enum> <text>any relevant United Nations Security Council Resolution; or</text>
+                        </subparagraph>
+                        <subparagraph id="HB4681044909347A8A801BBD366BE042A">
+                            <enum>(E)</enum>
+ <text>the Charter of the United Nations; or</text> </subparagraph> </paragraph> <paragraph id="HA613575C4211446C9BF0009595EFD634"> <enum>(3)</enum> <text>is under investigation for a breach of or noncompliance with the obligations specified in paragraph (2).</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="HA6EE9B2DFF9B4908B27BE36DF401A03A">
+                    <enum>(b)</enum>
+                    <header>Withholding of voluntary contributions</header>
+ <text>Not later than 30 days after the date of the enactment of this Act, the Secretary of State shall withhold from the United States voluntary contribution to the IAEA an amount proportional to that spent by the IAEA on assistance through its Technical Cooperation Program to countries described in subsection (a).</text>
+                </subsection>
+                <subsection id="HD95A9FD30B294DF2A2FFF51E312AF3D2">
+                    <enum>(c)</enum>
+                    <header>Withholding of assessed contributions</header>
+ <text>If, not later than 30 days of the date of the enactment of this Act, the amount specified in subsection (b) has not been withheld and the IAEA has not suspended all assistance provided through its Technical Cooperation Program to the countries described in subsection (a), an amount equal to that specified in subsection (b) shall be withheld from the United States assessed contribution to the IAEA.</text>
+                </subsection>
+                <subsection id="H3112281BF41D480783AC76DCD9C94400">
+                    <enum>(d)</enum>
+                    <header>Report</header>
+ <text>Not later than 6 months after the date of the enactment of this Act, the President shall transmit to the appropriate congressional committees a report on the implementation of this section.</text>
+                </subsection>
+            </section>
+            <section id="H36110B43CC58437D94D5AE1CCC579D51">
+                <enum>902.</enum>
+                <header>United States policy at the IAEA</header>
+                <subsection id="HBA81ECE9E6D84B9EB5074BCBD0E3AA8D">
+                    <enum>(a)</enum>
+                    <header>United States Contributions</header>
+                    <paragraph id="H2F527B098F0A494084DE6CB59375DC05">
+                        <enum>(1)</enum>
+                        <header>Voluntary contributions</header>
+ <text>Voluntary contributions of the United States to the IAEA should primarily be used to fund activities relating to Nuclear Safety and Security or activities relating to Nuclear Verification.</text>
+                    </paragraph>
+                    <paragraph id="H27FAFEC36727443DB9CF60B3EBF0EE82">
+                        <enum>(2)</enum>
+                        <header>Limitation on use of funds</header>
+ <text>The President shall direct the United States Permanent Representative to the IAEA to use the voice, vote, and influence of the United States at the IAEA to—</text>
+                        <subparagraph id="HB73EC3DA9B964EB1B8FD91250C83F4AB">
+                            <enum>(A)</enum>
+ <text>ensure that funds for safeguards inspections are prioritized for countries that—</text>
+                            <clause id="HD2AF1CEA68FF44BAAD0ADBEA3712323A">
+                                <enum>(i)</enum>
+ <text>are or have been in the previous 5 years in breach of or noncompliance with its obligations with—</text>
+                                <subclause id="H1BE16B10C1AD4089871D8F4A53E9BB1D">
+                                    <enum>(I)</enum>
+ <text>its safeguards agreement with the IAEA;</text> </subclause> <subclause id="H0DEF1F484CA24C509AEA812FFCF75085"> <enum>(II)</enum> <text>the Additional Protocol;</text>
+                                </subclause>
+                                <subclause id="H58BB8D4E727F488A9458815CC345F6F9">
+                                    <enum>(III)</enum>
+ <text>the Nuclear Non-Proliferation Treaty;</text> </subclause> <subclause id="HBA11B69378D54DBAA8F4BADA53DCBBD5"> <enum>(IV)</enum> <text>any relevant United Nations Security Council Resolution; or</text>
+                                </subclause>
+                                <subclause id="HDD3717A59F7D46969CF6C1239DB6D0A0">
+                                    <enum>(V)</enum>
+ <text>the Charter of the United Nations; or</text> </subclause> </clause> <clause id="HCCB30FA6D6F44E3481DB0DF9DD2BE867"> <enum>(ii)</enum> <text>have newly established nuclear programs and are initiating nuclear programs; and</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="H2D58283242E4489A8376CEE45D8702A1">
+                            <enum>(B)</enum>
+ <text>block the allocation of funds for any other IAEA development, environmental, or nuclear science assistance or activity to a country—</text>
+                            <clause id="H91437555F6594678BDB6FD981A5D25D6">
+                                <enum>(i)</enum>
+ <text>the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979, section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or other provision of law, is a government that has repeatedly provided support for acts of international terrorism and the government of which the Secretary has determined has not dismantled and surrendered its weapons of mass destruction programs under international verification;</text>
+                            </clause>
+                            <clause id="HFC72FF9602A041C49AA1421E3E577BCE">
+                                <enum>(ii)</enum>
+ <text>that is under investigation for a breach of or noncompliance with its IAEA obligations or the purposes and principles of the Charter of the United Nations; or</text>
+                            </clause>
+                            <clause id="H239DAAF91F764D5EA31098A24FA245BE">
+                                <enum>(iii)</enum>
+ <text>that is in violation of its IAEA obligations or the purposes and principles of the Charter of the United Nations.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="H42092DA8A7C648F49B17CCA6FFF92C44">
+                        <enum>(3)</enum>
+                        <header>Detail of expenditures</header>
+ <text>The President shall direct the United States Permanent Representative to the IAEA to use the voice, vote, and influence of the United States at the IAEA to secure, as part of the regular budget presentation of the IAEA to Member States of the IAEA, a detailed breakdown by country of expenditures of the IAEA for safeguards inspections and nuclear security activities.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="HDE63C291E56D4C368890ADDDAF1AA185">
+                    <enum>(b)</enum>
+                    <header>Membership</header>
+                    <paragraph id="H21FEB485F05240C0B9FC01365C975AF8">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>The President shall direct the United States Permanent Representative to the IAEA to use the voice, vote, and influence of the United States at the IAEA to block the membership on the Board of Governors of the IAEA for a Member State of the IAEA that has not signed, ratified and implemented the Additional Protocol and—</text>
+                        <subparagraph id="H295E3317E8204FA0A782C40A0F5493A9">
+                            <enum>(A)</enum>
+ <text>is under investigation for a breach of or noncompliance with its IAEA obligations or the purposes and principles of the Charter of the United Nations; or</text>
+                        </subparagraph>
+                        <subparagraph id="H8E6A8E8D7B5E499B829FC4ECD5EA4032">
+                            <enum>(B)</enum>
+ <text>that is in violation of its IAEA obligations or the purposes and principles of the Charter of the United Nations.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="H59D52A7196504A89ACFCBB47931D7A6D">
+                        <enum>(2)</enum>
+                        <header>Criteria</header>
+ <text>The United States Permanent Representative to the IAEA shall make every effort to modify the criteria for Board membership to reflect the principles described in paragraph (1).</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="H4060CB3765824FBDA8652AFE8401077B">
+                    <enum>(c)</enum>
+                    <header>Small quantities protocol</header>
+ <text>The President shall direct the United States Permanent Representative to the IAEA to use the voice, vote, and influence of the United States at the IAEA to make every effort to ensure that the IAEA changes the policy regarding the Small Quantities Protocol in order to—</text>
+                    <paragraph id="H3DBCEA69BE324B12ABD68E91066F0F32">
+                        <enum>(1)</enum>
+ <text>rescind and eliminate the Small Quantities Protocol;</text> </paragraph> <paragraph id="HE9F39334A1CE4659A72661F967E2B213"> <enum>(2)</enum> <text>require that any IAEA Member State that has previously signed a Small Quantities Protocol to sign, ratify, and implement the Additional Protocol, provide immediate access for IAEA inspectors to its nuclear-related facilities, and agree to the strongest inspections regime of its nuclear efforts; and</text>
+                    </paragraph>
+                    <paragraph commented="no" id="H0B6DFDF36A594B5885F191F322BAB182">
+                        <enum>(3)</enum>
+ <text>require that any IAEA Member State that does not comply with paragraph (2) to be ineligible to receive nuclear material, technology, equipment, or assistance from any IAEA Member State.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="H1993BAF2E13D468E83203D69C7C1CD64">
+                    <enum>(d)</enum>
+                    <header>Report</header>
+ <text>Not later than 6 months after the date of the enactment of this Act and annually for 2 years thereafter, the President shall submit to the appropriate congressional committees a report on the implementation of this section.</text>
+                </subsection>
+            </section>
+            <section id="H56D03E1B02A148F5B3846B695090D327">
+                <enum>903.</enum>
+                <header>Sense of Congress regarding the Nuclear Security Action Plan of the
+                    IAEA</header>
+ <text display-inline="no-display-inline">It is the sense of Congress that the national security interests of the United States are enhanced by the Nuclear Security Action Plan of the IAEA and the Board of Governors should recommend, and the General Conference should adopt, a resolution incorporating the Nuclear Security Action Plan into the regular budget of the IAEA.</text>
+            </section>
+        </title>
+        <title id="H4956914CA55B41A19E1DADC190522A18">
+            <enum>X</enum>
+            <header>PEACEKEEPING</header>
+            <section id="H720A8C135B9843DA93673299ECBEF92A">
+                <enum>1001.</enum>
+                <header>Reform of United Nations peacekeeping operations</header>
+ <text display-inline="no-display-inline">It is the sense of Congress that—</text> <paragraph id="HD8F0237304474EDDA64834DF7DEAC438"> <enum>(1)</enum> <text>although United Nations peacekeeping operations have contributed greatly toward the promotion of peace and stability for over 6 decades and the majority of peacekeeping personnel who have served under the United Nations flag have done so with honor and courage, the record of United Nations peacekeeping has been severely tarnished by operational failures and unconscionable acts of misconduct;</text>
+                </paragraph>
+                <paragraph id="H91AF7F22F1AF43F985DA13B1890EFE72">
+                    <enum>(2)</enum>
+ <text>in response to such failures, successive Secretaries General of the United Nations have launched numerous reform efforts, including the high-level Panel on United Nations Peace Operations, led by former Foreign Minister of Algeria Lakhdar Brahimi, the 2005 report by the Special Advisor on the Prevention of Sexual Exploitation and Abuse, His Royal Highness Prince Zeid Ra’ad Zeid Al-Hussein of Jordan, the 2009 New Partnership Agenda, known as the <term>New Horizon</term> reports, and the 2015 report by the High-level Independent Panel on United Nations Peace Operations;</text>
+                </paragraph>
+                <paragraph id="HF46CFCE79732439EB6406943E47F4E85">
+                    <enum>(3)</enum>
+ <text>despite the fact that the United Nations has had over a decade to implement many of these reforms, nearly 10 years to implement the reforms in the Zeid Report, and the fact that Secretary General Ban Ki-Moon, his predecessor Kofi Annan, and the Special Committee on Peacekeeping Operations repeatedly have expressed their commitment <quote>to implementing fundamental, systematic changes as a matter of urgency,</quote> a number of critical reforms continue to be blocked or delayed by Members States who arguably benefit from maintenance of the status quo;</text>
+                </paragraph>
+                <paragraph id="H9B563BB156414E6ABE0C35DB1A417B38">
+                    <enum>(4)</enum>
+ <text>further, audits of procurement practices in the Department of Peacekeeping Operations, conducted by the Office of Internal Oversight Services, and the now-defunct United Nations Procurement Task Force have uncovered <term>significant</term> corruption schemes and criminal acts by United Nations peacekeeping personnel; and</text>
+                </paragraph>
+                <paragraph id="H05881BCC512647E9AB842930CF22E8F1">
+                    <enum>(5)</enum>
+ <text>if the reputation of and confidence in United Nations peacekeeping operations is to be restored, fundamental and far-reaching reforms, particularly in the areas of planning, management, procurement, training, conduct, and discipline, must be implemented without further delay.</text>
+                </paragraph>
+            </section>
+            <section id="HC062350FE268437F94096A9B0261AD6F">
+                <enum>1002.</enum>
+                <header>Policy relating to reform of United Nations peacekeeping operations</header>
+ <text display-inline="no-display-inline">It shall be the policy of the United States to pursue reform of United Nations peacekeeping operations in the following areas:</text>
+                <paragraph id="HF0EE6D9CEBD0408DB6A3024424E7331D">
+                    <enum>(1)</enum>
+                    <header>Planning and management</header>
+                    <subparagraph id="H2736370E0D804F9ABF1A737BC388D541">
+                        <enum>(A)</enum>
+                        <header>Global audit</header>
+ <text>As the size, cost, and number of United Nations peacekeeping operations have increased substantially over the past decade, independent audits of each such operation should be conducted annually, with a view toward <term>right-sizing</term> operations and ensuring that all operations are efficient and cost effective.</text>
+                    </subparagraph>
+                    <subparagraph id="H40932D7701B0490683559D1A444F51CF">
+                        <enum>(B)</enum>
+                        <header>Procurement and transparency</header>
+ <text>The logistics established within the United Nations Department of Field Support should be streamlined and strengthened to ensure that all peacekeeping missions are resourced appropriately, transparently, and in a timely fashion while individual accountability for waste, fraud and abuse within United Nations peacekeeping missions is uniformly enforced.</text>
+                    </subparagraph>
+                    <subparagraph id="HC38C0F7504C54BDB8ED60DD7960CF079">
+                        <enum>(C)</enum>
+                        <header>Review of mandates and closing operations</header>
+ <text>In conjunction with the audit described in subparagraph (A), the United Nations Department of Peacekeeping Operations should conduct a comprehensive review of all United Nations peacekeeping operation mandates, with a view toward identifying objectives that are practical and achievable, and report its findings to the Security Council. In particular, the review should consider the following:</text>
+                        <clause id="H356A2B05D6E34398B12FC11F6C9501AD">
+                            <enum>(i)</enum>
+ <text>Except in extraordinary cases, including genocide, the United Nations Department of Peacekeeping Operations should not be tasked with activities that are impractical or unachievable without the cooperation of the Member State(s) hosting a United Nations peacekeeping operation, or which amount to de-facto Trusteeship outside of the procedures established for such under Chapter XII of the United Nations Charter, thereby creating unrealistic expectations and obfuscating the primary responsibility of the Member States themselves in creating and maintaining conditions for peace.</text>
+                        </clause>
+                        <clause id="H352C828EF5604AC79FEBB3DDB0D09261">
+                            <enum>(ii)</enum>
+ <text>Long-standing operations that are static and cannot fulfill their mandate should be downsized or closed.</text>
+                        </clause>
+                        <clause id="H3EFAA08B150448D48DD0B143CBB580B1">
+                            <enum>(iii)</enum>
+ <text>Where there is legitimate concern that the withdrawal from a country of an otherwise static United Nations peacekeeping operation would result in the resumption of major conflict, a burden-sharing arrangement that reduces the level of assessed contributions, similar to that currently supporting the United Nations Peacekeeping Force in Cyprus, should be explored and instituted.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="H92D92ABDF06842E2B2BF97B9562AF46B">
+                        <enum>(D)</enum>
+                        <header>Leadership</header>
+ <text>As peacekeeping operations become larger and increasingly complex, the Secretariat should adopt a minimum standard of qualifications for senior leaders and managers, with particular emphasis on specific skills and experience, and current senior leaders and managers who do not meet those standards should be removed.</text>
+                    </subparagraph>
+                    <subparagraph id="H1F060F9DDC6B4B7AA7132EB0D5A36D4B">
+                        <enum>(E)</enum>
+                        <header>Pre-deployment training</header>
+ <text>Pre-deployment training on interpretation of the mandate of the operation, specifically in the areas of use of force, civilian protection and field conditions, the Code of Conduct, HIV/AIDS, and human rights should be mandatory, and all personnel, regardless of category or rank, should be required to sign an oath that each has received and understands such training as a condition of participation in the operation.</text>
+                    </subparagraph>
+                    <subparagraph id="HFF0F58D7B8C3426A90B1B4C4057E01A2">
+                        <enum>(F)</enum>
+                        <header>Gratis military personnel</header>
+ <text>The General Assembly should seek to strengthen the capacity the United Nations Department of Peacekeeping Operations and ease the extraordinary burden currently placed upon the limited number of headquarters staff by lifting restrictions on the utilization of gratis military personnel by the Department so that the Department may accept secondments from Member States of military personnel with expertise in mission planning, logistics, and other operational specialties.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HB8E516D4447641DC9441749A8DBFEAE5">
+                    <enum>(2)</enum>
+                    <header>Conduct and discipline</header>
+                    <subparagraph id="HD683E74B0C674B58A253AE1D2ED8A25B">
+                        <enum>(A)</enum>
+                        <header>Adoption of a uniform code of conduct</header>
+ <text>A single, uniform Code of Conduct that has the status of a binding rule and applies equally to all personnel serving in United Nations peacekeeping operations, regardless of category or rank, including military personnel, should be adopted and incorporated into legal documents governing participation in such an operation, including all contracts and Memorandums of Understanding, promulgated and effectively enforced.</text>
+                    </subparagraph>
+                    <subparagraph id="H2A3C5D729CD8424FA9303FC6D5BBFA8C">
+                        <enum>(B)</enum>
+                        <header>Understanding the code of conduct</header>
+ <text>All personnel, regardless of category or rank, should receive training on the Code of Conduct prior to deployment with a peacekeeping operation, in addition to periodic follow-on training. In particular—</text>
+                        <clause id="H6A49E6C7BB004F219F5A653A4C24521D">
+                            <enum>(i)</enum>
+ <text>all personnel, regardless of category or rank, should be provided with a personal copy of the Code of Conduct that has been translated into the national language of such personnel, regardless of whether such language is an official language of the United Nations;</text>
+                        </clause>
+                        <clause id="H3031FB2C9734495594762D00CEE536E7">
+                            <enum>(ii)</enum>
+ <text>all personnel, regardless of category or rank, should sign an oath that each has received a copy of the Code of Conduct, that each pledges to abide by the Code of Conduct, and that each understands the consequences of violating the Code of Conduct, including immediate termination of participation in and permanent exclusion from all current and future peacekeeping operations, as well as the assumption of personal liability and victims compensation, where appropriate, as a condition of appointment to any such operation; and</text>
+                        </clause>
+                        <clause id="H39CCB4F8AB0A4159BE5F48FF69890868">
+                            <enum>(iii)</enum>
+ <text>peacekeeping operations should continue and enhance educational outreach programs to reach local communities where peacekeeping personnel of such operations are based, including explaining prohibited acts on the part of United Nations peacekeeping personnel and identifying the individual to whom the local population may direct complaints or file allegations of exploitation, abuse, or other acts of misconduct.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="HBF2D97AEA63E43E29B340A9E3B00664D">
+                        <enum>(C)</enum>
+                        <header>Monitoring mechanisms</header>
+ <text>Dedicated monitoring mechanisms, such as the Conduct and Discipline Teams already deployed to support United Nations peacekeeping operations should be present in each operation to monitor compliance with the Code of Conduct, and should report simultaneously to the Head of Mission, the United Nations Department of Field Support, the United Nations Department of Peacekeeping Operations, and the Associate Director of the Office of Internal Oversight Services for Peacekeeping Operations.</text>
+                    </subparagraph>
+                    <subparagraph id="H1B85EAEEFE954F07955CE6D87D34D1DA">
+                        <enum>(D)</enum>
+                        <header>Investigations</header>
+ <text>A permanent, professional, and independent investigative body should be established and introduced into United Nations peacekeeping operations. In particular—</text>
+                        <clause id="H95887E66FA7C4A41A4F05354DCA8B431">
+                            <enum>(i)</enum>
+ <text>the investigative body should include professionals with experience in investigating sex crimes and the illegal exploitation of resources, as appropriate, as well as experts who can provide guidance on standards of proof and evidentiary requirements necessary for any subsequent legal action;</text>
+                        </clause>
+                        <clause id="HF5F6882E04754194B2908F8C45BBD111">
+                            <enum>(ii)</enum>
+ <text>provisions should be included in all Memorandums of Understanding, including a Model Memorandum of Understanding, that obligate Member States that contribute troops to a peacekeeping operation to designate a military prosecutor who will participate in any investigation into credible allegations of misconduct brought against an individual of such Member State, so that evidence is collected and preserved in a manner consistent with the military law of such Member State;</text>
+                        </clause>
+                        <clause id="H634A90AB65674EE7B5FEB5DFC84ECDF5">
+                            <enum>(iii)</enum>
+ <text>the investigative body should be regionally based to ensure rapid deployment and should be equipped with modern forensics equipment for the purpose of positively identifying perpetrators and, where necessary, for determining paternity; and</text>
+                        </clause>
+                        <clause id="HC9C5C1A1688645B294A9D262203ABA52">
+                            <enum>(iv)</enum>
+ <text>the investigative body should report directly to the Associate Director of the Office of Internal Oversight Services for Peacekeeping Operations, while providing copies of any reports to the Department of Field Support, the Department of Peacekeeping Operations, the Head of Mission, and the Member State concerned.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="HDCE9FCAA7EBE4E8281DA16B97E2EEDDE">
+                        <enum>(E)</enum>
+                        <header>Follow-up</header>
+ <text>The Conduct and Discipline Unit in the headquarters of the United Nations Department of Field Support should be appropriately staffed, resourced, and tasked with—</text>
+                        <clause id="HF775C23C82ED48429FA0BCE3EC1D2333">
+                            <enum>(i)</enum>
+ <text>promulgating measures to prevent misconduct;</text> </clause> <clause id="H03CC0C730D384CA992D5892B63DEC16C"> <enum>(ii)</enum> <text>receiving reports by field personnel and coordinating the Department’s response to allegations of misconduct;</text>
+                        </clause>
+                        <clause id="H24A95EA836844F4882AEB40C2AB7F4BA">
+                            <enum>(iii)</enum>
+ <text>gathering follow-up information on completed investigations, particularly by focusing on disciplinary actions against the individual concerned taken by the United Nations or by the Member State that is contributing troops to which such individual belongs, and sharing such information with the Security Council, the Department of Peacekeeping Operations, the Head of Mission, and the community hosting the peacekeeping operation; and</text>
+                        </clause>
+                        <clause id="HE3EAFD87E78545C6BA637C2CE6B0A196">
+                            <enum>(iv)</enum>
+ <text>contributing pertinent data on conduct and discipline to the database required pursuant to subparagraph (H).</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="HBF4DC327304C41559F2167309A89FA80">
+                        <enum>(F)</enum>
+                        <header>Financial liability and victims assistance</header>
+ <text>Although peacekeeping operations should provide immediate medical assistance to victims of sexual abuse or exploitation, the responsibility for providing longer-term treatment, care, or restitution lies solely with the individual found guilty of the misconduct. In particular:</text>
+                        <clause id="HAE8133BC27D243D3856203D71C8410AC">
+                            <enum>(i)</enum>
+ <text>The United Nations should not assume responsibility for providing long-term treatment or compensation under the Sexual Exploitation and Abuse Victim Assistance Mechanism by utilizing assessed contributions to United Nations peacekeeping operations, thereby shielding individuals from personal liability and reinforcing an atmosphere of impunity.</text>
+                        </clause>
+                        <clause id="HEF804AF69BAB492C8230057E81AA5AC1">
+                            <enum>(ii)</enum>
+ <text>If an individual responsible for misconduct has been repatriated, reassigned, redeployed, or is otherwise unable to provide assistance, responsibility for providing assistance to a victim should be assigned to the Member State that contributed the contingent to which such individual belonged or to the manager concerned.</text>
+                        </clause>
+                        <clause id="H775F91BE883D45E788E0E7155DC8B4FC">
+                            <enum>(iii)</enum>
+ <text>In the case of misconduct by a member of a military contingent, appropriate funds shall be withheld from the troop contributing country concerned.</text>
+                        </clause>
+                        <clause id="H270252AE39794B43992EF0B45A4CC052">
+                            <enum>(iv)</enum>
+ <text>In the case of misconduct by a civilian employee or contractor of the United Nations, appropriate wages shall be garnished from such individual or fines shall be imposed against such individual, consistent with existing United Nations Staff Rules, and retirement funds shall not be shielded from liability.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="H552743CAF05D4521840C4EF8A8D1B05A">
+                        <enum>(G)</enum>
+                        <header>Managers and commanders</header>
+ <text>The manner in which managers and commanders handle cases of misconduct by those serving under them should be included in their individual performance evaluations, so that managers and commanders who take decisive action to deter and address misconduct are rewarded, while those who create a permissive environment or impede investigations are penalized or relieved of duty, as appropriate.</text>
+                    </subparagraph>
+                    <subparagraph id="H40C180C6F6424F2B8DDA2254130F4436">
+                        <enum>(H)</enum>
+                        <header>Database</header>
+ <text>A centralized database, including personnel photos, fingerprints, and biometric data, should be created and maintained within the United Nations Department of Peacekeeping Operations, the Department of Field Support, and other relevant United Nations bodies without further delay to track cases of misconduct, including the outcome of investigations and subsequent prosecutions, to ensure that personnel who have engaged in misconduct or other criminal activities, regardless of category or rank, are permanently barred from participation in future peacekeeping operations.</text>
+                    </subparagraph>
+                    <subparagraph id="H60DB56FE04284493AC028C1EDCC0F26B">
+                        <enum>(I)</enum>
+                        <header>Cooperation of member states</header>
+ <text>If a Member State routinely refuses to cooperate with the directives contained herein or acts to shield its nationals from personal liability, that Member State should be barred from contributing troops or personnel to future peacekeeping operations.</text>
+                    </subparagraph>
+                    <subparagraph id="H24FD3940BDF74416BB2C11E4448ED136">
+                        <enum>(J)</enum>
+                        <header>Welfare</header>
+ <text>Peacekeeping operations should continue to seek to maintain a minimum standard of welfare for mission personnel to ameliorate conditions of service, while adjustments are made to the discretionary welfare payments currently provided to Member States that contribute troops to offset the cost of operation-provided recreational facilities, as necessary and appropriate.</text>
+                    </subparagraph>
+                </paragraph>
+            </section>
+            <section id="HBE2E42116F024A8EA922A69EFB38C212">
+                <enum>1003.</enum>
+                <header>Certification</header>
+                <subsection commented="no" id="HF555BA5698E54D7BBC053B5494F522A7">
+                    <enum>(a)</enum>
+                    <header>No new or expanded peacekeeping operations</header>
+ <text display-inline="yes-display-inline">Until the Secretary of State certifies that the requirements described in subsection (b) have been satisfied, the President shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to oppose the creation of new, or expansion of existing, United Nations peacekeeping operations.</text>
+                </subsection>
+                <subsection id="H0314ADDD4801467DA005F139F1378EBC">
+                    <enum>(b)</enum>
+                    <header>Certification of peacekeeping operations reforms</header>
+ <text>The certification referred to in subsection (a) is a certification made by the Secretary to the appropriate congressional committees that the following reforms, or an equivalent set of reforms, related to peacekeeping operations have been adopted by the United Nations Department of Peacekeeping Operations or the General Assembly, as appropriate:</text>
+                    <paragraph id="H48FC51D6326943518E20B476933AC602">
+                        <enum>(1)</enum>
+ <text>A single, uniform Code of Conduct that has the status of a binding rule and applies equally to all personnel serving in United Nations peacekeeping operations, regardless of category or rank, has been adopted by the General Assembly and duly incorporated into all contracts and a Model Memorandum of Understanding, and mechanisms have been established for training such personnel concerning the requirements of the Code and enforcement of the Code.</text>
+                    </paragraph>
+                    <paragraph id="H51FA5243647A431FA8205B4C608509BC">
+                        <enum>(2)</enum>
+ <text>All personnel, regardless of category or rank, serving in a peacekeeping operation have been trained concerning the requirements of the Code of Conduct and each has been given a personal copy of the Code, translated into the national language of such personnel.</text>
+                    </paragraph>
+                    <paragraph id="H5379D638E76A4454A813C9FB7B05D748">
+                        <enum>(3)</enum>
+ <text>All personnel, regardless of category or rank, are required to sign an oath that each has received a copy of the Code of Conduct, that each pledges to abide by the Code, and that each understands the consequences of violating the Code, including immediate termination of participation in and permanent exclusion from all current and future peacekeeping operations, as well as the assumption of personal liability for victims compensation as a condition of the appointment to such operation.</text>
+                    </paragraph>
+                    <paragraph id="H14722D200BE74B51AEC1E884ED86A7F4">
+                        <enum>(4)</enum>
+ <text>All peacekeeping operations have designed and implemented educational outreach programs to reach local communities where peacekeeping personnel of such operations are based to explain prohibited acts on the part of United Nations peacekeeping personnel and to identify the individual to whom the local population may direct complaints or file allegations of exploitation, abuse, or other acts of misconduct.</text>
+                    </paragraph>
+                    <paragraph id="HCEF6495ED96C4AE89A473D64EB5362D7">
+                        <enum>(5)</enum>
+ <text>The creation of a centralized database, including personnel photos, fingerprints, and biometric data, has been completed and is being maintained in the United Nations Department of Peacekeeping Operations that tracks cases of misconduct, including the outcomes of investigations and subsequent prosecutions, to ensure that personnel, regardless of category or rank, who have engaged in misconduct or other criminal activities are permanently barred from participation in future peacekeeping operations.</text>
+                    </paragraph>
+                    <paragraph id="H67068EE6473C41A0B31A0FDBDC39DC0C">
+                        <enum>(6)</enum>
+ <text>A Model Memorandum of Understanding between the United Nations and each Member State that contributes troops to a peacekeeping operation has been adopted by the United Nations Department of Peacekeeping Operations that specifically obligates each such Member State to—</text>
+                        <subparagraph id="H649C903086DD44AD84155E1F1D72B517">
+                            <enum>(A)</enum>
+ <text>uphold the uniform Code of Conduct which shall apply equally to all personnel serving in United Nations peacekeeping operations, regardless of category or rank;</text>
+                        </subparagraph>
+                        <subparagraph id="H1D5AFDD879744D5A9CBABB99860E3F89">
+                            <enum>(B)</enum>
+ <text>designate a competent legal authority, preferably a prosecutor with expertise in the area of sexual exploitation and abuse where appropriate, to participate in any investigation into an allegation of misconduct brought against an individual of such Member State;</text>
+                        </subparagraph>
+                        <subparagraph id="H5F2FDBF572324E19A0E6ED18A35A6B8B">
+                            <enum>(C)</enum>
+ <text>refer to its competent national or military authority for possible prosecution, if warranted, any investigation of a violation of the Code of Conduct or other criminal activity by an individual of such Member State;</text>
+                        </subparagraph>
+                        <subparagraph id="HF4AD252EE0194DD884071E83F879FD88">
+                            <enum>(D)</enum>
+ <text>report to the Department of Field Support and the Department of Peacekeeping Operations on the outcome of any such investigation;</text>
+                        </subparagraph>
+                        <subparagraph id="HF557937F649D4973BFF2AEC914A398BE">
+                            <enum>(E)</enum>
+ <text>undertake to conduct on-site court martial proceedings, where practical and appropriate, relating to allegations of misconduct alleged against an individual of such Member State; and</text>
+                        </subparagraph>
+                        <subparagraph id="H73B792B724B24FA0A24E13928013C7D7">
+                            <enum>(F)</enum>
+ <text>assume responsibility for the provision of appropriate assistance to a victim of misconduct committed by an individual of such Member State.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="HC6C83F794E6B48D695D07D29BD480124">
+                        <enum>(7)</enum>
+ <text>A professional and independent investigative and audit function has been established within the United Nations Department of Peacekeeping Operations and the Office of Internal Oversight Services to monitor United Nations peacekeeping operations.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+    </legis-body>
+</bill>
+
+

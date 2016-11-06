@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HE63044BB735B4E27B86319E9C6FAB598" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1090 IH: Retail Investor Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1090</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150225">February 25, 2015</action-date>
+			<action-desc><sponsor name-id="W000812">Mrs. Wagner</sponsor> (for herself and <cosponsor name-id="G000548">Mr. Garrett</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name>, and in addition to the Committee on <committee-name committee-id="HED00">Education and the Workforce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Securities Exchange Act of 1934 to provide protections for retail customers, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body id="HD8CC3A3EAA774D6CA741437CACFBA267" style="OLC">
+ <section id="H17EC4068B2DC4117BF15885307D3DC01" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Retail Investor Protection Act</short-title></quote>.</text> </section><section id="H57949DA68F29400F96FFA98C91DA2706"><enum>2.</enum><header>Stay on rules defining certain fiduciaries</header><text display-inline="no-display-inline">After the date of enactment of this Act, the Secretary of Labor shall not prescribe any regulation under the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1001">29 U.S.C. 1001 et seq.</external-xref>) defining the circumstances under which an individual is considered a fiduciary until the date that is 60 days after the Securities and Exchange Commission issues a final rule relating to standards of conduct for brokers and dealers pursuant to the second subsection (k) of section 15 of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78o">15 U.S.C. 78o(k)</external-xref>).</text>
+ </section><section id="H4CEDE5B933274FDCB7EAF9D7AA6BAC6A"><enum>3.</enum><header>Amendments to the Securities Exchange Act of 1934</header><text display-inline="no-display-inline">The second subsection (k) of section 15 of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78o">15 U.S.C. 78o(k)</external-xref>), as added by section 913(g)(1) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (<external-xref legal-doc="usc" parsable-cite="usc/12/5301">12 U.S.C. 5301 et seq.</external-xref>), is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HBF21E0833EF5449CA9480733EC6113B9" style="OLC">
+ <paragraph id="H3D56E8F920904254AC765151566E5A97"><enum>(3)</enum><header>Requirements prior to rulemaking</header><text display-inline="yes-display-inline">The Commission shall not promulgate a rule pursuant to paragraph (1) before—</text> <subparagraph id="H60B69BA5AFDB437C9B258F9E29FA6DDE"><enum>(A)</enum><text display-inline="yes-display-inline">providing a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate describing whether—</text>
+ <clause id="HC0C8490B1C9B41188CBA797189582088"><enum>(i)</enum><text display-inline="yes-display-inline">retail investors (and such other customers as the Commission may provide) are being harmed due to brokers or dealers operating under different standards of conduct than those that apply to investment advisors under section 211 of the Investment Advisers Act of 1940 (<external-xref legal-doc="usc" parsable-cite="usc/15/80b-11">15 U.S.C. 80b–11</external-xref>);</text>
+ </clause><clause id="H59DD861304734BD1A82E547B59DACEFB"><enum>(ii)</enum><text display-inline="yes-display-inline">alternative remedies will reduce any confusion or harm to retail investors due to brokers or dealers operating under different standards of conduct than those standards that apply to investment advisors under section 211 of the Investment Advisers Act of 1940 (<external-xref legal-doc="usc" parsable-cite="usc/15/80b-11">15 U.S.C. 80b–11</external-xref>), including—</text>
+ <subclause id="HA26794FE106F4E239C35291E89BAA6C9"><enum>(I)</enum><text>simplifying the titles used by brokers, dealers, and investment advisers; and</text> </subclause><subclause id="H00A993A661714FE085E68CA31A817730"><enum>(II)</enum><text>enhancing disclosure surrounding the different standards of conduct currently applicable to brokers, dealers, and investment advisers;</text>
+ </subclause></clause><clause id="H14D327B2022A4ED9B00A3A0511351274"><enum>(iii)</enum><text>the adoption of a uniform fiduciary standard of conduct for brokers, dealers, and investment advisors would adversely impact the commissions of brokers and dealers, the availability of proprietary products offered by brokers and dealers, and the ability of brokers and dealers to engage in principal transactions with customers; and</text>
+ </clause><clause id="HFF92D21AD3684139861EFD7DF83C3CF7"><enum>(iv)</enum><text display-inline="yes-display-inline">the adoption of a uniform fiduciary standard of conduct for brokers or dealers and investment advisors would adversely impact retail investor access to personalized and cost-effective investment advice, recommendations about securities, or the availability of such advice and recommendations.</text>
+ </clause></subparagraph></paragraph><paragraph id="H6F445C0FE5E2445AA72514816AD45033"><enum>(4)</enum><header>Economic analysis</header><text display-inline="yes-display-inline">The Commission’s conclusions contained in the report described in paragraph (3) shall be supported by economic analysis.</text>
+ </paragraph><paragraph id="HF8B273FDF3894507BBBD1F3A0B5090C0"><enum>(5)</enum><header>Requirements for promulgating a rule</header><text display-inline="yes-display-inline">The Commission shall publish in the Federal Register alongside the rule promulgated pursuant to paragraph (1) formal findings that such rule would reduce confusion or harm to retail customers (and such other customers as the Commission may by rule provide) due to different standards of conduct applicable to brokers, dealers, and investment advisors.</text>
+ </paragraph><paragraph id="HA6028ED298CF413581E4F6948394F3AD"><enum>(6)</enum><header>Requirements under Investment Advisers Act of 1940</header><text display-inline="yes-display-inline">In proposing rules under paragraph (1) for brokers or dealers, the Commission shall consider the differences in the registration, supervision, and examination requirements applicable to brokers, dealers, and investment advisors.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC88B95875CB14794AB9EEE277833BD5A" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1768 IH: Workforce Democracy and Fairness Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1768</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150414">April 14, 2015</action-date>
+			<action-desc><sponsor name-id="K000363">Mr. Kline</sponsor> (for himself, <cosponsor name-id="R000582">Mr. Roe of Tennessee</cosponsor>, and <cosponsor name-id="P000591">Mr. Tom Price of Georgia</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the National Labor Relations Act with respect to the timing of elections and pre-election
+			 hearings and the identification of pre-election issues.</official-title>
+	</form>
+	<legis-body id="H0FE3DC19E4C147D8A8FBE125E26B45E7" style="OLC">
+ <section id="H06E04CDBD25045CAACB6320B320A35D5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Workforce Democracy and Fairness Act</short-title></quote>.</text> </section><section id="HDA3EDCA0F9FB41E7A244A98B40C09DCC"><enum>2.</enum><header>Pre-election hearings</header><text display-inline="no-display-inline">Section 9(c)(1) of the National Labor Relations Act (<external-xref legal-doc="usc" parsable-cite="usc/29/159">29 U.S.C. 159(c)(1)</external-xref>) is amended in the matter following subparagraph (B)—</text>
+ <paragraph id="HE1AC183BF0544657BD51E95B25E5F0D6"><enum>(1)</enum><text>by inserting <quote>, but in no circumstances less than 14 calendar days after the filing of the petition</quote> after <quote>upon due notice</quote>;</text> </paragraph><paragraph id="HBAEAA533A5414594A96337B83A27A099"><enum>(2)</enum><text>by inserting after <quote>with respect thereto.</quote> the following: <quote>An appropriate hearing shall be one that is non-adversarial with the hearing officer charged, in collaboration with the parties, with the responsibility of identifying any relevant and material pre-election issues and thereafter making a full record thereon. Relevant and material pre-election issues shall include, in addition to unit appropriateness, the Board’s jurisdiction and any other issue the resolution of which may make an election unnecessary or which may reasonably be expected to impact the outcome of the election. Parties may independently raise any relevant and material pre-election issue or assert any relevant and material position at any time prior to the close of the hearing.</quote>; and</text>
+ </paragraph><paragraph id="H3ADFC738F8524EF09BCD302C84B467B6"><enum>(3)</enum><text>by striking <quote>and shall certify the results thereof</quote> and inserting <quote>to be conducted as soon as practicable but no earlier than 35 calendar days after the filing of an election petition. The Board shall certify the results of the election after it has ruled on each pre-election issue not resolved before the election and any additional issue pertaining to the conduct or results of the election</quote>.</text>
+ </paragraph></section><section id="HBAD3F12E3BC547F5A8F6015B1730EF88"><enum>3.</enum><header>Determination of appropriate units for collective bargaining</header><text display-inline="no-display-inline">Section 9(b) of the National Labor Relations Act (<external-xref legal-doc="usc" parsable-cite="usc/29/159">29 U.S.C. 159(b)</external-xref>) is amended—</text> <paragraph id="H46A1B2055B77424381370A024F4871C8"><enum>(1)</enum><text>by redesignating paragraphs (1) through (3) as subparagraphs (A) through (C), respectively;</text>
+ </paragraph><paragraph id="H5449451A4768465E809F29AF1F50FF8C"><enum>(2)</enum><text display-inline="yes-display-inline">by striking <quote>The Board shall decide</quote> and all that follows through <quote>or subdivision thereof:</quote> and inserting the following:</text> <quoted-block display-inline="yes-display-inline" id="H70A9C8B366C9498A871C3C4A4BAD2729" style="OLC"> <text>(1) In each case, prior to an election, the Board shall determine, in order to assure to employees the fullest freedom in exercising the rights guaranteed by this Act, the unit appropriate for the purposes of collective bargaining. Unless otherwise stated in this Act, and excluding any bargaining unit determination promulgated through rulemaking before August 26, 2011, the unit appropriate for purposes of collective bargaining shall consist of employees that share a sufficient community of interest. In determining whether employees share a sufficient community of interest, the Board shall consider—</text><subparagraph id="H7DFECA73751F4999B7BA23D516120E8E" indent="up1"><enum>(A)</enum><text display-inline="yes-display-inline">similarity of wages, benefits, and working conditions;</text> </subparagraph><subparagraph id="H9E83DEB34F0D4769AAA8D8AF51F96E7E" indent="up1"><enum>(B)</enum><text>similarity of skills and training;</text>
+ </subparagraph><subparagraph id="HC53A30A89FAD455B8FF1F9740D02DC97" indent="up1"><enum>(C)</enum><text>centrality of management and common supervision;</text> </subparagraph><subparagraph id="HE92577D38D654EB9BF59F8455F88A75F" indent="up1"><enum>(D)</enum><text>extent of interchange and frequency of contact between employees;</text>
+ </subparagraph><subparagraph id="H5E8C6424E58F483A932E129C9478D009" indent="up1"><enum>(E)</enum><text>integration of the work flow and interrelationship of the production process;</text> </subparagraph><subparagraph id="HD5A4659AD8CC4880A4011EB4B38E1094" indent="up1"><enum>(F)</enum><text>the consistency of the unit with the employer’s organizational structure;</text>
+ </subparagraph><subparagraph id="HFA5B4D233DBF4CF5AC29BA7C89860805" indent="up1"><enum>(G)</enum><text>similarity of job functions and work; and</text> </subparagraph><subparagraph id="HD3DCE966B4CB4B5CAEE1252A331ACCAB" indent="up1"><enum>(H)</enum><text>the bargaining history in the particular unit and the industry.</text>
+					</subparagraph><quoted-block-continuation-text quoted-block-continuation-text-level="subsection">To avoid the proliferation or fragmentation of bargaining units, employees shall not be excluded
+			 from the unit unless the interests of the group seeking a separate unit
+			 are sufficiently distinct from those of other employees to warrant the
+			 establishment of a separate unit. Whether additional employees should be
+			 included in a proposed unit shall be determined based on whether such
+			 additional employees and proposed unit members share a sufficient
+			 community of interest, with the sole exception of proposed accretions to
+			 an existing unit, in which the inclusion of additional employees shall be
+			 based on whether such additional employees and existing unit members share
+			 an overwhelming community of interest and the additional employees have
+			 little or no separate identity.</quoted-block-continuation-text><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H4C20752DA50B469FB961AAC33BF19BC8"><enum>(3)</enum><text>by striking <quote><italic>Provided, </italic>That the Board</quote> and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="HE726A06F9BB44926A148A059192AC920" style="traditional"> <paragraph id="H5619BCEB39FD4642B7578DF477AF9FF4" indent="up1"><enum>(2)</enum><text>The Board</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

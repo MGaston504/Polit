@@ -1,0 +1,387 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H952BC9B0D18040BDBEB7E11CDC8DF083" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 34 IH: Tsunami Warning, Education, and Research Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 34</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="B001278">Ms. Bonamici</sponsor> (for herself, <cosponsor name-id="R000409">Mr. Rohrabacher</cosponsor>, <cosponsor name-id="J000126">Ms. Eddie Bernice Johnson of Texas</cosponsor>, <cosponsor name-id="S000583">Mr. Smith of Texas</cosponsor>, <cosponsor name-id="S001177">Mr. Sablan</cosponsor>, <cosponsor name-id="D000191">Mr. DeFazio</cosponsor>, and <cosponsor name-id="S001180">Mr. Schrader</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HSY00">Committee on Science, Space, and Technology</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To authorize and strengthen the tsunami detection, forecast, warning, research, and mitigation
+			 program of the National Oceanic and Atmospheric Administration, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body id="H29C5A331F9454E168731B60A615A231D" style="OLC">
+		<section id="H415FDC5FCDE2468C91E79F7AB799AAB8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Tsunami Warning, Education, and Research Act of 2015</short-title></quote>.</text>
+		</section><section id="H457B6F6A80C943208EF59E13D30E72D5"><enum>2.</enum><header>References to the Tsunami Warning and Education Act</header><text display-inline="no-display-inline">Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in
+			 terms of an amendment to, or repeal of, a section or other provision, the
+			 reference shall be considered to be made to a section or other provision
+			 of the Tsunami Warning and Education Act (<external-xref legal-doc="usc" parsable-cite="usc/33/3201">33 U.S.C. 3201 et seq.</external-xref>).</text>
+		</section><section id="H4EB3DBAAF48647D193EB82192BDAEEA1"><enum>3.</enum><header>Expansion of purposes of Tsunami Warning and Education Act</header><text display-inline="no-display-inline">Section 3 (<external-xref legal-doc="usc" parsable-cite="usc/33/3202">33 U.S.C. 3202</external-xref>) is amended—</text>
+			<paragraph id="H003ADF283A354D6CA41B199E080B0865"><enum>(1)</enum><text>in paragraph (1), by inserting <quote>research,</quote> after <quote>warnings,</quote>;</text>
+			</paragraph><paragraph id="H8D3D556C7E874BD3A988C771F31B9AC1"><enum>(2)</enum><text>by amending paragraph (2) to read as follows:</text>
+				<quoted-block id="H61922206F7E54A96AD2AFF6D4B3B1A46" style="OLC">
+					<paragraph id="HC590C5B8E7784630980357836521A1E7"><enum>(2)</enum><text>to enhance and modernize the existing United States Tsunami Warning System to increase the accuracy
+			 of forecasts and warnings, to maintain full coverage of tsunami detection
+			 assets, and to reduce false alarms;</text></paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+			</paragraph><paragraph id="HC531D108D9014E1B81AC9D93FC1A3C74"><enum>(3)</enum><text>by amending paragraph (3) to read as follows:</text>
+				<quoted-block id="H08947B2AB4154E8BAC7B7E53BAA91065" style="OLC">
+					<paragraph id="HA262887BB7C2439DAECBEC1D4172C8D3"><enum>(3)</enum><text>to improve and develop standards and guidelines for mapping, modeling, and assessment efforts to
+			 improve tsunami detection, forecasting, warnings, notification,
+			 mitigation, resiliency, response, outreach, and recovery;</text></paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+			</paragraph><paragraph id="H1379CDA6949A4DE4AC1E033FA2BFC709"><enum>(4)</enum><text>by redesignating paragraphs (4), (5), and (6) as paragraphs (5), (6), and (8), respectively;</text>
+			</paragraph><paragraph id="H4F3064F792D347BF99B294B6EFAE4360"><enum>(5)</enum><text>by inserting after paragraph (3) the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H7E785EE8B9A647559D51D3E00334FCC5" style="OLC">
+					<paragraph id="H22ACEE70DB6F457B9BFBF8B898DB0157"><enum>(4)</enum><text display-inline="yes-display-inline">to improve research efforts related to improving tsunami detection, forecasting, warnings,
+			 notification, mitigation, resiliency, response, outreach, and recovery;</text></paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+			</paragraph><paragraph id="H59B60F33D28D403A8F3D73C62AB6CE6C"><enum>(6)</enum><text>in paragraph (5), as so redesignated—</text>
+				<subparagraph id="HBC265E352CA34B2AABD9513219CB7BD3"><enum>(A)</enum><text>by striking <quote>and increase</quote> and inserting <quote>, increase, and develop uniform standards and guidelines for</quote>; and</text>
+				</subparagraph><subparagraph id="H09D78C158A00484D839ACFA47DD6B7AF"><enum>(B)</enum><text>by inserting <quote>, including the warning signs of locally generated tsunami</quote> after <quote>approaching</quote>;</text>
+				</subparagraph></paragraph><paragraph commented="no" id="H7D5C4A840FAE4454AFE548AADF38E5A7"><enum>(7)</enum><text>in paragraph (6), as so redesignated, by striking <quote>, including the Indian Ocean; and</quote> and inserting a semicolon; and</text>
+			</paragraph><paragraph commented="no" id="H9B328C8EE8C4457384E6D9B4BDB7FCB5"><enum>(8)</enum><text display-inline="yes-display-inline">by inserting after paragraph (6), as so redesignated, the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HA2C2C78BD72C427C8F0C75D9B0194E11" style="OLC">
+					<paragraph commented="no" id="H3243922B14994F36AB34BA366141F0BE"><enum>(7)</enum><text display-inline="yes-display-inline">to foster resilient communities in the face of tsunami and other coastal hazards; and</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="HFF74BE4E334B4FE1A81A311CD2CE28A7"><enum>4.</enum><header>Modification of tsunami forecasting and warning program</header>
+			<subsection id="H4775A8BA73144521A4E35E10F806C2C5"><enum>(a)</enum><header>In general</header><text>Subsection (a) of section 4 (<external-xref legal-doc="usc" parsable-cite="usc/33/3203">33 U.S.C. 3203</external-xref>) is amended by striking <quote>Atlantic Ocean, Caribbean Sea, and Gulf of Mexico region</quote> and inserting <quote>Atlantic Ocean region, including the Caribbean Sea and the Gulf of Mexico</quote>.</text>
+			</subsection><subsection id="HC0EFA56413ED4D46B7363B9EFBB3646A"><enum>(b)</enum><header>Components</header><text>Subsection (b) of such section 4 is amended—</text>
+				<paragraph id="HE0914356B2F64E93A65D59E9CB86F4C6"><enum>(1)</enum><text>in paragraph (1), by striking <quote>established</quote> and inserting <quote>supported or maintained</quote>;</text>
+				</paragraph><paragraph id="H0618F914999E4711AA5705321B58847B"><enum>(2)</enum><text>in paragraph (4), by inserting <quote>and safeguarding port and harbor operations</quote> after <quote>communities</quote>;</text>
+				</paragraph><paragraph id="H51382DE756E0403D89693E985397183F"><enum>(3)</enum><text>in paragraph (7)—</text>
+					<subparagraph id="HA6220FC59ECB49C5B1C57D774B52EDA9"><enum>(A)</enum><text>by inserting <quote>, including graphical warning products,</quote> after <quote>warnings</quote>;</text>
+					</subparagraph><subparagraph id="HBA2D581CFF7645D2AD3E509A19648042"><enum>(B)</enum><text>by inserting <quote>, territories,</quote> after <quote>States</quote>; and</text>
+					</subparagraph><subparagraph id="H2863EFB7216549C7BE6D08F30AEB979A"><enum>(C)</enum><text>by inserting <quote>and Wireless Emergency Alerts</quote> after <quote>Hazards Program</quote>; and</text>
+					</subparagraph></paragraph><paragraph id="H92760D7497D844579A62244578EFD0A1"><enum>(4)</enum><text>in paragraph (8), by inserting <quote>and commercial and Federal undersea communications cables</quote> after <quote>observing technologies</quote>.</text>
+				</paragraph></subsection><subsection id="H8AEC590183F04F798F0E4B495AA4940C"><enum>(c)</enum><header>Tsunami warning system</header><text>Subsection (c) of such section 4 is amended to read as follows:</text>
+				<quoted-block id="H876E454AB69246C9A576545FA941024B" style="OLC">
+					<subsection id="H253904CD412B47149A196A5B9F4E0B53"><enum>(c)</enum><header>Tsunami warning system</header><text>The program under this section shall operate a tsunami warning system that—</text>
+						<paragraph id="HE1B7E395530F47C1B97CCFA1C26C4FE6"><enum>(1)</enum><text>is capable of forecasting tsunami, including forecasting tsunami arrival time and inundation
+			 estimates, anywhere in the Pacific and Arctic Ocean regions and providing
+			 adequate warnings;</text>
+						</paragraph><paragraph id="H3E42A70B32FA4A7AA7D5D05346010420"><enum>(2)</enum><text>is capable of forecasting and providing adequate warnings in areas of the Atlantic Ocean, including
+			 the Caribbean Sea and Gulf of Mexico, that are determined—</text>
+							<subparagraph id="HA33A6683D66E458E99F42DE32E722425"><enum>(A)</enum><text>to be geologically active, or to have significant potential for geological activity; and</text>
+							</subparagraph><subparagraph id="HFE5863CDA2DA4FEF83FDE81D40400ACE"><enum>(B)</enum><text>to pose significant risks of tsunami for States along the coastal areas of the Atlantic Ocean,
+			 Caribbean Sea, or Gulf of Mexico; and</text>
+							</subparagraph></paragraph><paragraph id="HFEF1CBC6BEFB4EBDB26813585F75F0F3"><enum>(3)</enum><text>supports other international tsunami forecasting and warning efforts.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H96ED076903FD4115A8210A0C0B2415D6"><enum>(d)</enum><header>Tsunami warning centers</header><text>Subsection (d) of such section 4 is amended to read as follows:</text>
+				<quoted-block id="HCF621AFE2B3142479CAFD1FFC4924CE0" style="OLC">
+					<subsection id="HD87E2EECDA0A4CFFA8BA95DA321CE9E4"><enum>(d)</enum><header>Tsunami warning centers</header>
+						<paragraph id="HA0DB9CBA2AE2476D982ABB9D22453BE0"><enum>(1)</enum><header>In general</header><text>The Administrator shall support or maintain centers to support the tsunami warning system required
+			 by subsection (c). The Centers shall include—</text>
+							<subparagraph id="HB75E63865C0C41779EC1B32D8A0D0BE4"><enum>(A)</enum><text display-inline="yes-display-inline">the National Tsunami Warning Center, located in Alaska, which is primarily responsible for Alaska
+			 and the continental United States;</text>
+							</subparagraph><subparagraph id="H2F12A03FACAD45778564BC50DCC15899"><enum>(B)</enum><text>the Pacific Tsunami Warning Center, located in Hawaii, which is primarily responsible for Hawaii,
+			 the Caribbean, and other areas of the Pacific not covered by the National
+			 Center; and</text>
+							</subparagraph><subparagraph id="H2667230F59CF472CB55D82C790AD6640"><enum>(C)</enum><text display-inline="yes-display-inline">any additional forecast and warning centers determined by the National Weather Service to be
+			 necessary.</text>
+							</subparagraph></paragraph><paragraph id="H569DD8B1C4264A808524EC0176C2D689"><enum>(2)</enum><header>Responsibilities</header><text>The responsibilities of the centers supported or maintained pursuant to paragraph (1) shall include
+			 the following:</text>
+							<subparagraph id="H56878F61D35F4856B1520BAAC85B9DD5"><enum>(A)</enum><text>Continuously monitoring data from seismological, deep ocean, coastal sea level, and tidal
+			 monitoring stations and other data sources as may be developed and
+			 deployed.</text>
+							</subparagraph><subparagraph id="H32E5FEEF782847729E70A3E9E7BAC17C"><enum>(B)</enum><text>Evaluating earthquakes, landslides, and volcanic eruptions that have the potential to generate
+			 tsunami.</text>
+							</subparagraph><subparagraph id="H6C3A849585444288970F53ABBBEF8F56"><enum>(C)</enum><text>Evaluating deep ocean buoy data and tidal monitoring stations for indications of tsunami resulting
+			 from earthquakes and other sources.</text>
+							</subparagraph><subparagraph id="H0042F20A8AB94A2D8DF1DD86075D84C7"><enum>(D)</enum><text>To the extent practicable, utilizing a range of models to predict tsunami arrival times and
+			 flooding estimates.</text>
+							</subparagraph><subparagraph id="H2720F8CB223E42A1A98D0CD66E5969F3"><enum>(E)</enum><text>Disseminating forecasts and tsunami warning bulletins to Federal, State, and local government
+			 officials and the public.</text>
+							</subparagraph><subparagraph id="H674556844AD849F0A32DA61B5243C3E2"><enum>(F)</enum><text>Coordinating with the tsunami hazard mitigation program conducted under section 5 to ensure ongoing
+			 sharing of information between forecasters and emergency management
+			 officials.</text>
+							</subparagraph><subparagraph id="H91563E8D8D4A403B9B1FE49391EB6FD1"><enum>(G)</enum><text>Making data gathered under this Act and post-warning analyses conducted by the National Weather
+			 Service or other relevant Administration offices available to researchers.</text>
+							</subparagraph></paragraph><paragraph id="HB68650D395CC4ACF9E6CDC86F0D3103D"><enum>(3)</enum><header>Fail-safe warning capability</header><text>The tsunami warning centers supported or maintained pursuant to paragraph (1) shall maintain a
+			 fail-safe warning capability and ability to perform back-up duties for
+			 each other.</text>
+						</paragraph><paragraph id="H8FDFE3E6076347C09E63F802F19179A2"><enum>(4)</enum><header>Coordination with National Weather Service</header><text>The National Weather Service shall coordinate with the centers supported or maintained pursuant to
+			 paragraph (1) to ensure that regional and local forecast offices—</text>
+							<subparagraph id="H244327AB88C244358801978290A81205"><enum>(A)</enum><text>have the technical knowledge and capability to disseminate tsunami warnings for the communities
+			 they serve; and</text>
+							</subparagraph><subparagraph id="HFD5476F497B749C89E5E0B30C2A58B97"><enum>(B)</enum><text>leverage connections with local emergency management officials for optimally disseminating tsunami
+			 warnings and forecasts.</text>
+							</subparagraph></paragraph><paragraph id="HD1909C9FD9F64F13B1DB2627CDFD3FA3"><enum>(5)</enum><header>Uniform operating procedures</header><text>The Administrator shall—</text>
+							<subparagraph id="H43CABB42868B40F1A4ECD85B0B1435E6"><enum>(A)</enum><text>develop uniform operational procedures for the centers supported or maintained pursuant to
+			 paragraph (1), including the use of software applications, checklists,
+			 decision support tools, and tsunami warning products that have been
+			 standardized across the program supported under this section;</text>
+							</subparagraph><subparagraph id="H648A32F1A2904681829538AB7109B8F8"><enum>(B)</enum><text>ensure that processes and products of the warning system operated pursuant to subsection (c)—</text>
+								<clause id="H7B6154F4507840E79C616CA8AEA618BD"><enum>(i)</enum><text>reflect industry best practices;</text>
+								</clause><clause id="H5E96D1B4D97047BBBF940EC70F59E1FF"><enum>(ii)</enum><text>conform to the maximum extent practicable with internationally recognized standards for information
+			 technology; and</text>
+								</clause><clause id="HB30D584A62FC4DFD9B28277556158A47"><enum>(iii)</enum><text>conform to the maximum extent practicable with other warning products and practices of the National
+			 Weather Service;</text>
+								</clause></subparagraph><subparagraph id="H10380FE8179D46EE959B310BD75E9AAB"><enum>(C)</enum><text>ensure that future adjustments to operational protocols, processes, and warning products—</text>
+								<clause id="HA4BC65A26BF04814A408A8515F914098"><enum>(i)</enum><text>are made consistently across the warning system operated pursuant to subsection (c); and</text>
+								</clause><clause id="HC8348DBF3C0149ACBABF212088746826"><enum>(ii)</enum><text>are applied in a uniform manner across such warning system; and</text>
+								</clause></subparagraph><subparagraph id="H8B3DA030350C4CF4B7D0AB57F53033C1"><enum>(D)</enum><text>disseminate guidelines and metrics for evaluating and improving tsunami forecast models.</text>
+							</subparagraph></paragraph><paragraph id="H4941F357AEC848F58D006A1F17747AE5"><enum>(6)</enum><header>Available resources</header><text>The Administrator, through the National Weather Service, shall ensure that resources are available
+			 to fulfill the obligations of this Act. This includes ensuring
+			 supercomputing resources are available to run such computer models as are
+			 needed for purposes of the tsunami warning system operated pursuant to
+			 subsection (c).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H6E9E357C9E894F319103C541CA90BCCC"><enum>(e)</enum><header>Transfer of technology; maintenance and upgrades</header><text>Subsection (e) of such section 4 is amended to read as follows:</text>
+				<quoted-block id="H323B5F74054641BEADD82C945076C8DF" style="OLC">
+					<subsection id="H587F305A5C6941ADB5FD9FA018E819E8"><enum>(e)</enum><header>Transfer of technology; maintenance and upgrades</header><text>In carrying out this section, the Administrator shall—</text>
+						<paragraph id="HED42010CA8FC4A69A6C43F66F0642D37"><enum>(1)</enum><text>develop requirements for the equipment used to forecast tsunami, including—</text>
+							<subparagraph id="HE15D645FFC424A24B5E7C8A58B9A97BD"><enum>(A)</enum><text>provisions for multipurpose detection platforms;</text>
+							</subparagraph><subparagraph id="H12FDD7C885E14A9A891855A4A867E94C"><enum>(B)</enum><text>reliability and performance metrics; and</text>
+							</subparagraph><subparagraph id="H24F8C6B63BEB4FCA9649375C87E712E8"><enum>(C)</enum><text>to the maximum extent practicable, requirements for the integration of equipment with other United
+			 States and global ocean and coastal observation systems, the global Earth
+			 observing system of systems, the global seismic networks, and the Advanced
+			 National Seismic System;</text>
+							</subparagraph></paragraph><paragraph id="HB5C5E9E802CB45ED91D486C2208542FE"><enum>(2)</enum><text>develop and execute a plan for the transfer of technology from ongoing research conducted as part
+			 of the program supported or maintained under section 6 into the program
+			 under this section; and</text>
+						</paragraph><paragraph id="H5B0E009235C7478B98000B48932A6994"><enum>(3)</enum><text>ensure that the Administration’s operational tsunami detection equipment is properly maintained.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H6F7CBCE6A93A4E8EA2E9677D75FA01C1"><enum>(f)</enum><header>Federal cooperation</header><text>Subsection (f) of such section 4 is amended to read as follows:</text>
+				<quoted-block id="H2BDDEFB07867447C99512100EAE11184" style="OLC">
+					<subsection id="H86CC299A83F046C891748E99772B5619"><enum>(f)</enum><header>Federal cooperation</header><text>When deploying and maintaining tsunami detection technologies under the program under this section,
+			 the Administrator shall—</text>
+						<paragraph id="HC3F8BC4E4EFA49BABFB8F05B65AB9575"><enum>(1)</enum><text>identify which assets of other Federal agencies are necessary to support such program; and</text>
+						</paragraph><paragraph id="H0670F437A7394F6E990856B588AE8AE1"><enum>(2)</enum><text>work with each agency identified under paragraph (1)—</text>
+							<subparagraph id="H983EE86F9EC24088BD54D4E18F591543"><enum>(A)</enum><text>to acquire the agency’s assistance; and</text>
+							</subparagraph><subparagraph id="H92DBEE5CB22647979FDA6E22905632A7"><enum>(B)</enum><text>to prioritize the necessary assets.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H051C18AAD7F44B0AA22AEBE509FBE465"><enum>(g)</enum><header>Unnecessary provisions</header><text>Such section 4 is further amended by striking subsections (g) through (k).</text>
+			</subsection></section><section id="HF1D11093C29F400BB389BF6773ABD36B"><enum>5.</enum><header>Modification of national tsunami hazard mitigation program</header>
+			<subsection id="H95B081B420894BE0B4F3262944405418"><enum>(a)</enum><header>In general</header><text>Section 5 (<external-xref legal-doc="usc" parsable-cite="usc/33/3204">33 U.S.C. 3204</external-xref>) is amended by striking subsections (a) through (d) and inserting the
+			 following:</text>
+				<quoted-block id="HD3EA15E52A6242959689BAB835AFD923" style="OLC">
+					<subsection id="H49281E5058D34DD4BCBD7711A485BBD4"><enum>(a)</enum><header>Program required</header><text>The Administrator, in consultation with the Administrator of the Federal Emergency Management
+			 Agency and the heads of such other agencies as the Administrator considers
+			 relevant, shall conduct a community-based tsunami hazard mitigation
+			 program to improve tsunami preparedness and resiliency of at-risk areas in
+			 the United States and the territories of the United States.</text>
+					</subsection><subsection id="HD4EE7B43C2254861806E60E8D30EBC42"><enum>(b)</enum><header>Program components</header><text>The Program conducted pursuant to subsection (a) shall include the following:</text>
+						<paragraph id="HB535934B9CC54B0CBF2DCA48DEF71935"><enum>(1)</enum><text>Technical and financial assistance to coastal States, territories, tribes, and local governments to
+			 develop and implement activities under this section.</text>
+						</paragraph><paragraph id="H9DA395C6DC5B40EFABF89D044D7E5297"><enum>(2)</enum><text>Integration of tsunami preparedness and mitigation programs into ongoing State-based hazard
+			 warning, resilience planning, and risk management activities, including
+			 predisaster planning, emergency response, evacuation planning, disaster
+			 recovery, hazard mitigation, and community development and redevelopment
+			 programs in affected areas.</text>
+						</paragraph><paragraph id="H83D8CD54B955496C90A51B91A29CB62F"><enum>(3)</enum><text>Activities to promote the adoption of tsunami resilience, preparedness, warning, and mitigation
+			 measures by Federal, State, territorial, tribal, and local governments and
+			 nongovernmental entities, including educational and risk communication
+			 programs to discourage development in high-risk areas.</text>
+						</paragraph><paragraph id="HC3899EDD50A3418F981E279C0385DB38"><enum>(4)</enum><text>Activities to support the development of regional tsunami hazard and risk assessments, using
+			 inundation models that meet programmatic standards for accuracy. Such
+			 regional risk assessments may include the following:</text>
+							<subparagraph id="H456AC20FA73A47F2B698FE3251D7A1A3"><enum>(A)</enum><text>The sources, sizes, and histories of tsunami in that region.</text>
+							</subparagraph><subparagraph id="H8C1B06C2DAE047559ADEB8BB986DDE0C"><enum>(B)</enum><text>Inundation models and maps of critical infrastructure and socioeconomic vulnerability in areas
+			 subject to tsunami inundation.</text>
+							</subparagraph><subparagraph id="H56555102A2C147C5832FE9994A8F257B"><enum>(C)</enum><text>Maps of evacuation areas and evacuation routes.</text>
+							</subparagraph><subparagraph id="HE09CC88821134197A30068F5F28E8F07"><enum>(D)</enum><text>Evaluations of the size of populations that will require evacuation, including populations with
+			 special evacuation needs.</text>
+							</subparagraph></paragraph><paragraph id="H148870447BFC46A5A7055A48EA2E2BEE"><enum>(5)</enum><text display-inline="yes-display-inline">Activities to support the development of community-based outreach and education programs to ensure
+			 community readiness and resilience, including the following:</text>
+							<subparagraph id="HDB8F44FD73254922ABBBF3F741145349"><enum>(A)</enum><text display-inline="yes-display-inline">The development, implementation, and assessment of technical training and public education
+			 programs, including education programs that address unique characteristics
+			 of distant and near-field tsunami.</text>
+							</subparagraph><subparagraph id="HDB73A1F07253418AB2DF549679C20ED5"><enum>(B)</enum><text>The development of decision support tools.</text>
+							</subparagraph><subparagraph id="HEE703908B4BA49DA8C73BFD350BE6F57"><enum>(C)</enum><text>The incorporation of social science research into community readiness and resilience efforts.</text>
+							</subparagraph><subparagraph id="H7A278EACD7974011A40240ECE0833DB9"><enum>(D)</enum><text display-inline="yes-display-inline">The development of evidence-based education guidelines.</text>
+							</subparagraph></paragraph><paragraph id="H9A07E86A28354C98A7C258E50093F87A"><enum>(6)</enum><text>Dissemination of guidelines and standards for community planning, education, and training products,
+			 programs, and tools, including standards for—</text>
+							<subparagraph id="HC0D379FFD9F44E37A5DB0B079C401AB3"><enum>(A)</enum><text>mapping products;</text>
+							</subparagraph><subparagraph id="HF4D8CB38E6F5465682F788A19B1A09A9"><enum>(B)</enum><text>inundation models; and</text>
+							</subparagraph><subparagraph id="H59A421C119144E8A911AF7E43AE57807"><enum>(C)</enum><text>effective emergency exercises.</text>
+							</subparagraph></paragraph></subsection><subsection id="H068142A27F5E48B9BD1EACEE70E2BAD9"><enum>(c)</enum><header>Authorized activities</header><text>In addition to activities conducted under subsection (b), the program conducted pursuant to
+			 subsection (a) may include the following:</text>
+						<paragraph id="H617C9A5EA35C43C0B1F0CDD5FEC71689"><enum>(1)</enum><text>Multidisciplinary vulnerability assessment research, education, and training to help integrate risk
+			 management and resilience objectives with community development planning
+			 and policies.</text>
+						</paragraph><paragraph id="HC843DF23952E42D4B0EDFDB6B10E528D"><enum>(2)</enum><text>Risk management training for local officials and community organizations to enhance understanding
+			 and preparedness.</text>
+						</paragraph><paragraph id="HA2B1EFBD8BFD471E975F2EA6CE9585A2"><enum>(3)</enum><text>Development of practical applications for existing or emerging technologies, such as modeling,
+			 remote sensing, geospatial technology, engineering, and observing systems.</text>
+						</paragraph><paragraph id="H81FA6E7B74D14408BFC5617CCDD91534"><enum>(4)</enum><text>Risk management, risk assessment, and resilience data and information services, including—</text>
+							<subparagraph id="HC0ACAD424CA346DB9AD250DAE481170D"><enum>(A)</enum><text>access to data and products derived from observing and detection systems; and</text>
+							</subparagraph><subparagraph id="H1FE083C780FE41ABA64397D62DFD9A30"><enum>(B)</enum><text>development and maintenance of new integrated data products to support risk management, risk
+			 assessment, and resilience programs.</text>
+							</subparagraph></paragraph><paragraph id="H7861CF9B266F42B29A4624B713BCD301"><enum>(5)</enum><text>Risk notification systems that coordinate with and build upon existing systems and actively engage
+			 decisionmakers, local and State government agencies, business communities,
+			 nongovernmental organizations, and the media.</text>
+						</paragraph></subsection><subsection id="H92EBA46396194D81A415B035AEB72344"><enum>(d)</enum><header>No preemption</header>
+						<paragraph id="H7376803EFA55426FAE83BF91EB7D6323"><enum>(1)</enum><header>Designation of at-risk areas</header><text>The establishment of national standards for inundation models under this section shall not prevent
+			 States, territories, tribes, and local governments from designating
+			 additional areas as being at risk based on knowledge of local conditions.</text>
+						</paragraph><paragraph id="H904949B7B72C45C68E7858E6993464B5"><enum>(2)</enum><header>No new regulatory authority</header><text>Nothing in this Act may be construed as establishing new regulatory authority for any Federal
+			 agency.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H1EEC428242EF45A3B49ADC38BC6883E7"><enum>(b)</enum><header>Report on accreditation of Tsunami<enum-in-header>R</enum-in-header>eady program</header><text display-inline="yes-display-inline">Not later than 180 days after the date of enactment of this Act, the Administrator of the National
+			 Oceanic and Atmospheric Administration shall submit to the Committee on
+			 Commerce, Science, and Transportation of the Senate and the Committee on
+			 Science, Space, and Technology of the House of Representatives a report on
+			 which authorities and activities would be needed to have the TsunamiReady
+			 program of the National Weather Service accredited by the Emergency
+			 Management Accreditation Program.</text>
+			</subsection></section><section id="H1DB6ED018C524EF8A2422DAC7886C4D7"><enum>6.</enum><header>Modification of tsunami research program</header><text display-inline="no-display-inline">Section 6 (<external-xref legal-doc="usc" parsable-cite="usc/33/3205">33 U.S.C. 3205</external-xref>) is amended—</text>
+			<paragraph id="H6F03BF6EFA4848569E344E29866FC997"><enum>(1)</enum><text>in the matter before paragraph (1), by striking <quote>The Administrator shall</quote> and all that follows through <quote>establish or maintain</quote> and inserting the following:</text>
+				<quoted-block id="HC3C2645086024D12951E74AB1648E07E" style="OLC">
+					<subsection id="H1C46EC4F57A94F1D9AF8E08CA5E6D2AB"><enum>(a)</enum><header>In general</header><text>The Administrator shall, in consultation with such other Federal agencies, State and territorial
+			 governments, and academic institutions as the Administrator considers
+			 appropriate, the coordinating committee under section 11(b), and the panel
+			 under section 8(a), support or maintain</text></subsection><after-quoted-block>;</after-quoted-block></quoted-block>
+			</paragraph><paragraph commented="no" id="H2A20FFC6A2794FA6B9D8E48BE12D6C94"><enum>(2)</enum><text>by striking <quote>and assessment for tsunami tracking and numerical forecast modeling. Such research program shall—</quote> and inserting the following: “assessment for tsunami tracking and numerical forecast modeling, and
+			 standards development.</text>
+				<quoted-block id="HC73C6BC9FC9F4A91A15D8A84A9310538" style="OLC">
+					<subsection commented="no" id="H2CC0C19A25074399961506B103ECFF50"><enum>(b)</enum><header>Responsibilities</header><text>The research program supported or maintained pursuant to subsection (a) shall—</text></subsection><after-quoted-block>;</after-quoted-block></quoted-block>
+			</paragraph><paragraph id="H6CDA38B09C414536AFD5C61EDB49F497"><enum>(3)</enum><text>in subsection (b), as designated by paragraph (2)—</text>
+				<subparagraph id="HD45E730D32024481A9CDC7B7AC1CF66B"><enum>(A)</enum><text>by amending paragraph (1) to read as follows:</text>
+					<quoted-block id="H978D5ECD33164256831FD5CFBD8AC064" style="OLC">
+						<paragraph id="H4DD4268CA37A4878A27DB0DA3D6D6C37"><enum>(1)</enum><text display-inline="yes-display-inline">consider other appropriate research to mitigate the impact of tsunami, including the improvement of
+			 near-field tsunami detection and forecasting capabilities, which may
+			 include use of new generation Deep-ocean Assessment and Reporting of
+			 Tsunamis and National Oceanic and Atmospheric Administration supercomputer
+			 capacity to develop a rapid tsunami forecast for all United States
+			 coastlines;</text></paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+				</subparagraph><subparagraph id="HDF8163E47E804D938DB25788266AE1C9"><enum>(B)</enum><text>in paragraph (3)—</text>
+					<clause id="H90C5861DEE8A487E9D8C9295CDDADB18"><enum>(i)</enum><text>by striking <quote>include</quote> and inserting <quote>conduct</quote>; and</text>
+					</clause><clause id="H52ECCA28ED944D858659AA5C3358A41C"><enum>(ii)</enum><text>by striking <quote>and</quote> at the end;</text>
+					</clause></subparagraph><subparagraph id="HFBA49C5D04F5459891AECA6BA9FC9879"><enum>(C)</enum><text>by redesignating paragraph (4) as paragraph (5); and</text>
+				</subparagraph><subparagraph id="H8BFEFEF64BA2452CAD108DEF7433048B"><enum>(D)</enum><text>by inserting after paragraph (3) the following:</text>
+					<quoted-block id="H72BDEB64C08542A5901B1DB7DF4C2345" style="OLC">
+						<paragraph id="H96A53AA2B205451FB412AD5CCC3F1B39"><enum>(4)</enum><text>develop the technical basis for validation of tsunami maps, numerical tsunami models, digital
+			 elevation models, and forecasts; and</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+				</subparagraph></paragraph><paragraph id="H35703E6017734D9D8C2374C32D161CDC"><enum>(4)</enum><text>by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H4AF78FF4CAF2478684F16A5551BCF4DD" style="OLC">
+					<subsection id="HB1822DE690A1477B93F7C5707A7DA459"><enum>(c)</enum><header>Pilot project</header><text display-inline="yes-display-inline">The Administrator may, pursuant to subsection (b), develop a pilot project for near-field tsunami
+			 forecast development for the Cascadia region along the west coast of the
+			 United States using new generation Deep-ocean Assessment and Reporting of
+			 Tsunamis, upcoming and existing cable networks, and new National Centers
+			 for Environmental Protection modeling capability.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="H3FB5268778D8467F8263236A6F8B0808"><enum>7.</enum><header>Global tsunami warning and mitigation network</header><text display-inline="no-display-inline">Section 7 (<external-xref legal-doc="usc" parsable-cite="usc/33/3206">33 U.S.C. 3206</external-xref>) is amended—</text>
+			<paragraph id="H174274892F624283BB9EB89C83D691D7"><enum>(1)</enum><text>by amending subsection (a) to read as follows:</text>
+				<quoted-block id="H244F2A6AC40F4A3298FE9F9D08105828" style="OLC">
+					<subsection id="H9850D4FFBF58410FB78E70BFF932713B"><enum>(a)</enum><header>Support for development of international tsunami warning system</header><text>The Administrator shall, in coordination with the Secretary of State and in consultation with such
+			 other agencies as the Administrator considers relevant, provide technical
+			 assistance and training to the Intergovernmental Oceanographic Commission
+			 of the United Nations Educational, Scientific, and Cultural Organization,
+			 the World Meteorological Organization of the United Nations, and such
+			 other international entities as the Administrator considers appropriate,
+			 as part of the international efforts to develop a fully functional global
+			 tsunami forecast and warning system comprised of regional tsunami warning
+			 networks.</text></subsection><after-quoted-block>;</after-quoted-block></quoted-block>
+			</paragraph><paragraph id="H6D50C22B86A44840971FE43CF30CB98B"><enum>(2)</enum><text>in subsection (b), by striking <quote>shall</quote> and inserting <quote>may</quote>; and</text>
+			</paragraph><paragraph id="H950136AB6AC14F91A0B9726E4CE82EDC"><enum>(3)</enum><text>in subsection (c)—</text>
+				<subparagraph id="H7414BB3AC0254228988CAD05D3C318E5"><enum>(A)</enum><text>in paragraph (1), by striking <quote>establishing</quote> and inserting <quote>supporting</quote>; and</text>
+				</subparagraph><subparagraph id="HAA5033B81EE24C57B0601538E7C2DFB5"><enum>(B)</enum><text>in paragraph (2)—</text>
+					<clause id="H10DC22495CB643A3BFCD88FC2A460209"><enum>(i)</enum><text>by striking <quote>establish</quote> and inserting <quote>support</quote>; and</text>
+					</clause><clause id="H5B02ABF2B4A34B6AA0B659836DF0F326"><enum>(ii)</enum><text display-inline="yes-display-inline">by striking <quote>establishing</quote> and inserting <quote>supporting</quote>.</text>
+					</clause></subparagraph></paragraph></section><section id="HB4246CE7336F45D99E3624AFCD025B08"><enum>8.</enum><header>Tsunami science and technology advisory panel</header>
+			<subsection id="H267825B834A042BDB0EABFDCF3AEBC5B"><enum>(a)</enum><header>In general</header><text>The Act is further amended—</text>
+				<paragraph id="H1A7C4C45BE214FE49FDBB33EA3920712"><enum>(1)</enum><text>by redesignating section 8 (<external-xref legal-doc="usc" parsable-cite="usc/33/3207">33 U.S.C. 3207</external-xref>) as section 9; and</text>
+				</paragraph><paragraph id="HC74E3DC00D35465FB088B9ED876A596A"><enum>(2)</enum><text>by inserting after section 7 (<external-xref legal-doc="usc" parsable-cite="usc/33/3206">33 U.S.C. 3206</external-xref>) the following:</text>
+					<quoted-block id="H740D35E6E5124CD0BF866D2D656336BC" style="OLC">
+						<section id="H7613C1E28CA744E185DF668EABC02AC5"><enum>8.</enum><header>Tsunami Science and Technology Advisory Panel</header>
+							<subsection id="HECD14085D05343A9B95A257A9B1C16AC"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The Administrator shall designate an existing working group within the Science Advisory Board of
+			 the Administration to serve as the Tsunami Science and Technology Advisory
+			 Panel to provide advice to the Administrator on matters regarding tsunami
+			 science, technology, and regional preparedness.</text>
+							</subsection><subsection id="HABD224E326F9493BB2303FAAA421253B"><enum>(b)</enum><header>Membership</header>
+								<paragraph id="HF909A79722C64475A783D4365A45A0D7"><enum>(1)</enum><header>Composition</header><text>The working group designated under subsection (a) shall be composed of no fewer than 7 members
+			 selected by the Administrator from among individuals from academia or
+			 State agencies who have academic or practical expertise in physical
+			 sciences, social sciences, information technology, coastal resilience,
+			 emergency management, or such other disciplines as the Administrator
+			 considers appropriate.</text>
+								</paragraph><paragraph id="H6B9C26962D3443EE98562D8D66285D76"><enum>(2)</enum><header>Federal employment</header><text>No member of the working group designated pursuant to subsection (a) may be a Federal employee.</text>
+								</paragraph></subsection><subsection id="HDD7071095F79497286C66A7D9EEE7CCD"><enum>(c)</enum><header>Responsibilities</header><text>Not less frequently than once every 4 years, the working group designated under subsection (a)
+			 shall—</text>
+								<paragraph id="H0325D5C78A73419CB9D4EEDA47C7688A"><enum>(1)</enum><text>review the activities of the Administration, and other Federal activities as appropriate, relating
+			 to tsunami research, detection, forecasting, warning, mitigation,
+			 resiliency, and preparation; and</text>
+								</paragraph><paragraph id="H2A338C79357049879ACCDEA0F2FA7321"><enum>(2)</enum><text>submit to the Administrator and such others as the Administrator considers appropriate—</text>
+									<subparagraph id="H94FE8390D0DA4A978D28EA5E21D585EB"><enum>(A)</enum><text>the findings of the working group with respect to the most recent review conducted pursuant to
+			 paragraph (1); and</text>
+									</subparagraph><subparagraph id="H0B39EDCEC2E74C6DADD8E7F12D404AA1"><enum>(B)</enum><text>such recommendations for legislative or administrative action as the working group considers
+			 appropriate to improve Federal tsunami research, detection, forecasting,
+			 warning, mitigation, resiliency, and preparation.</text>
+									</subparagraph></paragraph></subsection><subsection id="HF90B0A5BAC1948CE879C8BC5CCC4A5A0"><enum>(d)</enum><header>Reports to congress</header><text>Not less frequently than once every 4 years, the Administrator shall submit to the Committee on
+			 Commerce, Science, and Transportation of the Senate, and the Committee on
+			 Science, Space, and Technology of the House of Representatives a report on
+			 the findings and recommendations received by the Administrator under
+			 subsection (c)(2).</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection></section><section id="H34B8A1BB2D294ECFB26959DD6D8C7BA0"><enum>9.</enum><header>Report on implementation of Tsunami Warning and Education Act</header>
+			<subsection id="H43D3C69AF3F0444F8E75B939C88994C6"><enum>(a)</enum><header>In general</header><text>Not later than 1 year after the date of the enactment of this Act, the Administrator shall submit
+			 to Congress a report on the implementation of the Tsunami Warning and
+			 Education Act (<external-xref legal-doc="usc" parsable-cite="usc/33/3201">33 U.S.C. 3201 et seq.</external-xref>).</text>
+			</subsection><subsection id="H801DC2E7EA864AEAA37B6E96C939FA95"><enum>(b)</enum><header>Elements</header><text>The report required by subsection (a) shall include the following:</text>
+				<paragraph id="H35667AF0C540405396E0590A92ED0BEF"><enum>(1)</enum><text>A detailed description of the progress made in implementing sections 4(d)(6), 5(b)(6), and 6(b)(4)
+			 of the Tsunami Warning and Education Act.</text>
+				</paragraph><paragraph id="HFE6B31D1E4874E828319D09512D83501"><enum>(2)</enum><text display-inline="yes-display-inline">A description of the ways that tsunami warnings and warning products issued by the Tsunami
+			 Forecasting and Warning Program established under section 4 of the Tsunami
+			 Warning and Education Act (<external-xref legal-doc="usc" parsable-cite="usc/33/3203">33 U.S.C. 3203</external-xref>) can be standardized and
+			 streamlined with warnings and warning products for hurricanes, coastal
+			 storms, and other coastal flooding events.</text>
+				</paragraph></subsection></section><section id="HB3CD17855B614D82919A7531296151CF"><enum>10.</enum><header>Authorization of appropriations</header><text display-inline="no-display-inline">Section 9 of the Act, as redesignated by section 8(a)(1) of this Act, is amended to read as
+			 follows:</text>
+			<quoted-block display-inline="no-display-inline" id="HCAA5BFB028814B5F880547FE8D2D6264" style="OLC">
+				<section id="HE9FB8DB2C2AA4E6A8CC787E0779684EA"><enum>9.</enum><header>Authorization of appropriations</header><text display-inline="no-display-inline">There are authorized to be appropriated to the Administrator to carry out this Act $27,000,000 for
+			 each of fiscal years 2015 through 2017, of which—</text>
+					<paragraph id="HB17C7FAB65CA47D38D54FB83D4854418"><enum>(1)</enum><text>not less than 27 percent of the amount appropriated for each fiscal year shall be for activities
+			 under the National Tsunami Hazard Mitigation Program under section 5; and</text>
+					</paragraph><paragraph id="HBD4F254C6957435D8C8E82710EC66FB7"><enum>(2)</enum><text>not less than 8 percent of the amount appropriated for each fiscal year shall be for the Tsunami
+			 Research Program under section 6.</text></paragraph></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="HD5A6F64507D34D97ABC87EA8D3851103"><enum>11.</enum><header>Outreach responsibilities</header>
+			<subsection id="H91F551EC311841DE91C099C5C02AAC1E"><enum>(a)</enum><header>In General</header><text>The Administrator of the National Oceanic and Atmospheric Administration, in coordination with
+			 State and local emergency managers, shall develop and carry out formal
+			 outreach activities to improve tsunami education and awareness and foster
+			 the development of resilient communities. Outreach activities may include—</text>
+				<paragraph id="H3660C1416DD44BF893635006D57BC5F6"><enum>(1)</enum><text display-inline="yes-display-inline">the development of outreach plans to ensure the close integration of tsunami warning centers
+			 supported or maintained pursuant to section 4(d) of the Tsunami Warning
+			 and Education Act (<external-xref legal-doc="usc" parsable-cite="usc/33/3203">33 U.S.C. 3203(d)</external-xref>) with local Weather Forecast Offices
+			 of the National Weather Service and emergency managers;</text>
+				</paragraph><paragraph id="HC839D536CA104193BDC5285259A24C07"><enum>(2)</enum><text>working with appropriate local Weather Forecast Offices to ensure they have the technical knowledge
+			 and capability to disseminate tsunami warnings to the communities they
+			 serve; and</text>
+				</paragraph><paragraph id="H54B3B73AB58E4D3F96658F2D391521D0"><enum>(3)</enum><text>evaluating the effectiveness of warnings and of coordination with local Weather Forecast Offices
+			 after significant tsunami events.</text>
+				</paragraph></subsection><subsection id="H88CCC42410A84CDE99D5C8D9EB45143D"><enum>(b)</enum><header>Coordinating committee of the National Tsunami Hazard Mitigation Program</header>
+				<paragraph id="HFCB948FE11264167BFD5F3A7FC60CCD2"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Administrator shall convene a coordinating committee to assist the Administrator in the conduct
+			 of the program required by section 5(a) of the Tsunami Warning and
+			 Education Act (<external-xref legal-doc="usc" parsable-cite="usc/33/3204">33 U.S.C. 3204(a)</external-xref>).</text>
+				</paragraph><paragraph id="H700C7B46841240B9929FA8930323DC5B"><enum>(2)</enum><header>Composition</header><text>The coordinating committee shall be composed of members from each of the States at risk from
+			 tsunami, and any other such representatives as the Administrator considers
+			 appropriate to represent Federal, State, tribal, territorial, and local
+			 governments.</text>
+				</paragraph><paragraph id="H72D66B8782BF4D6DB0CA8C3524349130"><enum>(3)</enum><header>Subcommittees</header><text>The Administrator may approve the formation of subcommittees to address specific program components
+			 or regional issues.</text>
+				</paragraph><paragraph id="H257A5312DCC04F96828AF6AFC1F05852"><enum>(4)</enum><header>Responsibilities</header><text>The coordinating committee shall—</text>
+					<subparagraph id="HBDB044BD1A394F4BADEB50DE0EDB3A63"><enum>(A)</enum><text display-inline="yes-display-inline">provide feedback on how funds should be prioritized to carry out the program required by section
+			 5(a) of the Tsunami Warning and Education Act (<external-xref legal-doc="usc" parsable-cite="usc/33/3204">33 U.S.C. 3204(a)</external-xref>);</text>
+					</subparagraph><subparagraph id="H1D925C89F0F84FE6BA35F483FB6212FA"><enum>(B)</enum><text display-inline="yes-display-inline">ensure that areas described in section 4(c) of the Tsunami Warning and Education Act (33 U.S.C.
+			 3203(c)) in the United States and its territories have the opportunity to
+			 participate in the program;</text>
+					</subparagraph><subparagraph id="HE7DD7BAE66D0415D976EDBC9EBEF2E70"><enum>(C)</enum><text>provide recommendations to the Administrator on how to improve and continuously advance the
+			 TsunamiReady program, particularly on ways to make communities more
+			 tsunami resilient through the use of inundation maps and models and other
+			 hazard mitigation practices; and</text>
+					</subparagraph><subparagraph id="H43D019297AF5475A86CE3C85A5FF42AB"><enum>(D)</enum><text display-inline="yes-display-inline">ensure that all components of the program required by section 5(a) of the Tsunami Warning and
+			 Education Act (<external-xref legal-doc="usc" parsable-cite="usc/33/3204">33 U.S.C. 3204(a)</external-xref>) are integrated with ongoing State-based
+			 hazard warning, risk management, and resilience activities, including—</text>
+						<clause id="H34B0D77E88C74A409E0B35B87EB550B8"><enum>(i)</enum><text>integrating activities with emergency response plans, disaster recovery, hazard mitigation, and
+			 community development programs in affected areas; and</text>
+						</clause><clause id="H83787C6FBBFA4310A88DA61663C6AEE2"><enum>(ii)</enum><text>integrating information to assist in tsunami evacuation route planning.</text>
+						</clause></subparagraph></paragraph></subsection></section></legis-body>
+</bill>
+
+

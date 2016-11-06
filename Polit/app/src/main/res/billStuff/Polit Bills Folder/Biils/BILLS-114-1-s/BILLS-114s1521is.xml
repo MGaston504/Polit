@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1521 IS: Charity Care Expansion Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-06-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 1521</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150604">June 4, 2015</action-date><action-desc><sponsor name-id="S365">Mr. Scott</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Internal Revenue Code of 1986 to increase access for the uninsured to high quality
+			 physician care.</official-title></form>
+	<legis-body id="H8890B070B55D4FA2A5A3E0CC34BE0F6E" style="OLC">
+ <section id="H22DF8581B62F4041BB2AD43DE4D46B99" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Charity Care Expansion Act of 2015</short-title></quote>.</text>
+		</section><section id="HE64CB33C3984400C972705E0C9F5D328"><enum>2.</enum><header>Physician charity
+			 care deduction</header>
+			<subsection id="H65098A35B14F48FAB432937947365E14"><enum>(a)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Part VI of subchapter B of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="H6F3678992A5344718F7D48483A60860A" style="OLC">
+					<section id="H3356830330C2432D817CF806FE4B8A47"><enum>199A.</enum><header>Physician
+				charity care</header>
+						<subsection id="HE8E5B9624BAA49D492089025196B9AA5"><enum>(a)</enum><header>In
+ general</header><text display-inline="yes-display-inline">In the case of a physician, there shall be allowed as a deduction for the taxable year an amount equal to the amount such physician would have otherwise charged for qualified charity care provided by such physician during the taxable year.</text>
+						</subsection><subsection id="H5AD43C3647FB443DB804C2E5BB5AFF37"><enum>(b)</enum><header>Qualified
+ charity care</header><text>For purposes of this section—</text> <paragraph id="H8CF6AA36B83D48ADBFD382E361129115"><enum>(1)</enum><header>Qualified charity care</header><text display-inline="yes-display-inline">The term <term>qualified charity care</term> means physicians’ services (as defined in section 1861(q) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x(q)</external-xref>)) provided on a volunteer or pro bono basis through a qualifying arrangement.</text>
+ </paragraph><paragraph id="H5226DDE071F5471297CC8EA5B429950A"><enum>(2)</enum><header>Physician</header><text>The term <term>physician</term> has the meaning given to such term in section 1861(r) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x(r)</external-xref>).</text>
+ </paragraph><paragraph id="idB1CA7A906833457F8946029A2A71FE56"><enum>(3)</enum><header>Qualifying arrangement</header><text>The term <term>qualifying arrangement</term> means an agreement or contract to provide physicians' services on a volunteer or pro bono basis which is entered into—</text>
+ <subparagraph id="id8F45514CE6E4425D96701351EE7C97FD"><enum>(A)</enum><text>between the physician and a health care clinic or other organization providing health care which is targeted to serve underserved or low-income individuals, and</text>
+ </subparagraph><subparagraph id="idB01930EE8F23495CB6618D20BEE93147"><enum>(B)</enum><text>before the date the services are provided.</text> </subparagraph></paragraph></subsection><subsection commented="no" id="H76DB9AF51B6F46F9A330B2650038BA82"><enum>(c)</enum><header>Limitations</header> <paragraph commented="no" id="H24574AB2B32140E0AFB54F2EA2F2199E"><enum>(1)</enum><header>Service charge limitation</header><text>The amount determined under subsection (a) with respect to any services shall not exceed the medicare economic index (referred to in the fourth sentence of section 1842(b)(3) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395u">42 U.S.C. 1395u(b)(3)</external-xref>) applicable to the services provided. In the case of physicians’ services to which the medicare economic index is not applicable, the Secretary, in consultation with the Secretary of Health and Human Services, shall use data on uncompensated care for purposes of the limitation under subparagraph (B), and may adjust such data so as to be an appropriate proxy, including a downward adjustment to eliminate bad debt data from uncompensated care data.</text>
+							</paragraph><paragraph commented="no" id="H64D9C0492BEB4E3290D751383720C413"><enum>(2)</enum><header>Overall
+ limitation</header><text display-inline="yes-display-inline">The amount allowed as a deduction under subsection (a) for any taxable year shall not exceed an amount equal to—</text>
+ <subparagraph commented="no" id="idE92270E21B8F4AE799C0F428C0BC1C82"><enum>(A)</enum><text display-inline="yes-display-inline">10 percent of the gross income of the taxpayer for the taxable year derived from the taxpayer’s provision of physicians’ services (as defined in section 1861(q) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x(q)</external-xref>)), or</text>
+ </subparagraph><subparagraph commented="no" id="id5E6E1B0194384ECDA66E79887017DB12"><enum>(B)</enum><text>in the case of a physician who does not have income for the taxable year derived from the provision of physicians' services, $10,000.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="idC82C951C3137449B9E25F41D706237C5"><enum>(3)</enum><header>Exclusion for services with respect to which any reimbursement is received</header><text display-inline="yes-display-inline">Physicians' services shall not be treated as qualified charity care under subsection (b) if a physician receives any reimbursement, including payment at a partial or discounted rate, for such services.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HDEFC641C55EA452585D1F09C17424B54"><enum>(b)</enum><header>Clerical
+ amendment</header><text display-inline="yes-display-inline">The table of sections for part VI of subchapter B of chapter 1 of such Code is amended by adding at the end the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H611D67E7FF1E47A6B76DFA1B903F1503" style="OLC"><toc regeneration="no-regeneration"><toc-entry level="section">Sec. 199A. Physician charity
+				care.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HFD6738340C80424A8B76B0BE765141D4"><enum>(c)</enum><header>Effective
+ date</header><text>The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.</text>
+ </subsection></section><section commented="no" display-inline="no-display-inline" id="id7CCD6A2CE82D49B4B5EA448AA115F114" section-type="subsequent-section"><enum>3.</enum><header display-inline="yes-display-inline">Preventive health and health services block grant</header><text display-inline="no-display-inline">Part A of title XIX of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300w">42 U.S.C. 300w et seq.</external-xref>) is repealed.</text></section></legis-body></bill> 
+

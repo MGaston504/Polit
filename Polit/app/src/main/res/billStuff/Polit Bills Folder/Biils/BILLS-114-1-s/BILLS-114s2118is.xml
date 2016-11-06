@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2118 IS: Ensuring Enhanced Access to Primary Care Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-10-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 2118</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20151001">October 1, 2015</action-date><action-desc><sponsor name-id="S311">Ms. Klobuchar</sponsor> (for herself and <cosponsor name-id="S359">Mr. Heinrich</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend title XIX of the Social Security Act to extend the application of the Medicare payment
+			 rate floor to primary care services furnished under Medicaid and to apply
+			 the rate floor to additional providers of primary care services.</official-title></form>
+	<legis-body>
+ <section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ensuring Enhanced Access to Primary Care Act</short-title></quote>.</text>
+		</section><section id="HCD236F4D58404CD5932AE693115A3A4B"><enum>2.</enum><header>Extension of  application of Medicare payment rate floor to primary care services furnished
+			 under Medicaid and application to additional providers</header>
+			<subsection id="idBE10B1790C0847438A2B72DAE2DBFADB"><enum>(a)</enum><header>Renewal of payment floor; additional providers</header>
+ <text>Section 1902(a)(13) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396a">42 U.S.C. 1396a(a)(13)</external-xref>) is amended by striking subparagraph (C) and inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id8A8A9A13410C4CD781A82B6F883D18EE" style="OLC">
+ <subparagraph commented="no" display-inline="no-display-inline" id="id167DC4158EF443DAA5D4DC1B817712C3"><enum>(C)</enum><text>payment for primary care services (as defined in subsection (jj)) at a rate that is not less than 100 percent of the payment rate that applies to such services and physician under part B of title XVIII (or, if greater, the payment rate that would be applicable under such part if the conversion factor under section 1848(d) for the year involved were the conversion factor under such section for 2009), and that is not less than the rate that would otherwise apply to such services under this title if the rate were determined without regard to this subparagraph, and that are—</text>
+ <clause commented="no" display-inline="no-display-inline" id="idC8204D7807FC49FEA4B055EED233ED08"><enum>(i)</enum><text>furnished in 2013 and 2014, by a physician with a primary specialty designation of family medicine, general internal medicine, or pediatric medicine; or</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="id3A26B1DF71D74CCE8D30F608483ABE2B"><enum>(ii)</enum><text>furnished in the 2-year period that begins on the first day of the first month that begins after the date of enactment of the <short-title>Ensuring Enhanced Access to Primary Care Act</short-title>—</text>
+ <subclause commented="no" display-inline="no-display-inline" id="id53EB42652BE543518F97B1D170BFAB20"><enum>(I)</enum><text>by a physician with a primary specialty designation of family medicine, general internal medicine, or pediatric medicine, but only if the physician self-attests that the physician is Board certified in family medicine, general internal medicine, or pediatric medicine;</text>
+ </subclause><subclause commented="no" display-inline="no-display-inline" id="id6A8EB046CE374C78B6ED8B66B9A41FD0"><enum>(II)</enum><text>by a physician with a primary specialty designation of obstetrics and gynecology, but only if the physician self-attests that the physician is Board certified in obstetrics and gynecology; or</text>
+ </subclause><subclause commented="no" display-inline="no-display-inline" id="id8158BB584CE144B3A271B95F533E385D"><enum>(III)</enum><text>by physician with a primary specialty designation of psychiatry or neurology, but only if the physician self-attests that the physician is Board certified in psychiatry or neurology;</text>
+							</subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id0304e618697b49d3ae2f7e63cda83f01"><enum>(b)</enum><header>Conforming amendment</header><text>Section 1905(dd) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396d">42 U.S.C. 1396d(dd)</external-xref>) is amended by inserting <quote>or furnished during the 2-year period that begins on the first day of the first month that begins after the date of enactment of the <short-title>Ensuring Enhanced Access to Primary Care Act</short-title>,</quote> after <quote>2015,</quote>.</text>
+			</subsection></section></legis-body></bill>
+
+

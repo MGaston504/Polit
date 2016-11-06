@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HF51DC2C739A3404CBD9C63FB2AB16555" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3782 IH: Prohibiting Detention of Youth Status Offenders Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3782</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151021">October 21, 2015</action-date>
+			<action-desc><sponsor name-id="C001097">Mr. Cárdenas</sponsor> (for himself, <cosponsor name-id="C001068">Mr. Cohen</cosponsor>, <cosponsor name-id="C000984">Mr. Cummings</cosponsor>, <cosponsor name-id="E000288">Mr. Ellison</cosponsor>, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, <cosponsor name-id="G000535">Mr. Gutiérrez</cosponsor>, <cosponsor name-id="J000032">Ms. Jackson Lee</cosponsor>, <cosponsor name-id="M001160">Ms. Moore</cosponsor>, <cosponsor name-id="R000053">Mr. Rangel</cosponsor>, <cosponsor name-id="R000588">Mr. Richmond</cosponsor>, <cosponsor name-id="S000185">Mr. Scott of Virginia</cosponsor>, and <cosponsor name-id="V000130">Mr. Vargas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Juvenile Justice and Delinquency Prevention Act of 1974 to eliminate the use of valid
+			 court orders to secure lockup of status offenders, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H923579EE8ABB443BBCE2C1B4099B363F" style="OLC">
+ <section id="H9EE0195670EC43F3BD2201AE7A95A077" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Prohibiting Detention of Youth Status Offenders Act of 2015</short-title></quote>.</text> </section><section id="H541027166DF3441EA9850D33A539362E"><enum>2.</enum><header>Deinstitutionalization of status offenders</header><text display-inline="no-display-inline">Section 223 of the Juvenile Justice and Delinquency Prevention Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/42/5633">42 U.S.C. 5633</external-xref>) is amended—</text>
+ <paragraph id="HD7CD19219FE0489AA693C3C2D7F14BC8"><enum>(1)</enum><text display-inline="yes-display-inline">in subsection (a)(11)—</text> <subparagraph id="H9BB8D55C57DE48C4A677E7B8A515AF2B"><enum>(A)</enum><text>by striking <quote>shall</quote> the first place it appears;</text>
+ </subparagraph><subparagraph id="HB4084E34A31E44DDB1D4E15DF5A34151"><enum>(B)</enum><text>in subparagraph (A)—</text> <clause id="HCA2FCD383C3445928EC62A2E9EA343BE"><enum>(i)</enum><text>in clause (i), by inserting <quote>and</quote> at the end;</text>
+ </clause><clause id="HD6E457ACAE534D4BA9964FEE5DDE0839"><enum>(ii)</enum><text>in clause (ii), by striking <quote>and</quote> at the end;</text> </clause><clause id="H53AD1C8FA2EF41DC88008F8E02E3E8F2"><enum>(iii)</enum><text>by striking clause (iii); and</text>
+ </clause><clause id="HBAEDD462F8824AC4B2306149C5A6539B"><enum>(iv)</enum><text>in the matter following clause (iii) by striking <quote>and</quote> at the end;</text> </clause></subparagraph><subparagraph id="H38B9A7DCEB3F42A5A7207E8E51AE1EF2"><enum>(C)</enum><text>in subparagraph (B), by inserting <quote>and</quote> at the end; and</text>
+ </subparagraph><subparagraph id="H98FB6A16FDBA41A7AB1DFF1E47C5F078"><enum>(D)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H9F4FC519A2594C38ADDB7F23351487AC" style="OLC"> <subparagraph id="HEE16FF0039C44A55BD158238107130FC"><enum>(C)</enum><text>if a court determines the juvenile should be placed in a secure detention facility or correctional facility for violating an order described in subparagraph (A)(ii)—</text>
+ <clause id="H29FA887A3B184588AF0B1A7F3C7BE8E9"><enum>(i)</enum><text display-inline="yes-display-inline">the court shall issue a written order that—</text> <subclause id="HDA7F30B2E5344AA3A422A2034109E739"><enum>(I)</enum><text display-inline="yes-display-inline">identifies the valid court order that has been violated;</text>
+ </subclause><subclause id="H8FB6D05D89284285B58CC138E844685B"><enum>(II)</enum><text display-inline="yes-display-inline">specifies the factual basis for determining that there is reasonable cause to believe that the juvenile has violated such order;</text>
+ </subclause><subclause id="H63D367CCAAB1412484ED4EE10B150774"><enum>(III)</enum><text display-inline="yes-display-inline">includes findings of fact to support a determination that there is no appropriate less restrictive alternative available to placing the juvenile in such a facility, with due consideration to the best interest of the juvenile;</text>
+ </subclause><subclause id="HCEBA017AA03D419695DA6ED680AE559B"><enum>(IV)</enum><text display-inline="yes-display-inline">specifies the length of time, not to exceed 3 days, that the juvenile may remain in a secure detention facility or correctional facility, and includes a plan for the juvenile’s release from such facility; and</text>
+ </subclause><subclause id="H0E3E2B16830842F6965D29F382C836F6"><enum>(V)</enum><text display-inline="yes-display-inline">may not be renewed or extended; and</text> </subclause></clause><clause id="H8B7F44FD092A45CB8F3C96742ECF834E"><enum>(ii)</enum><text display-inline="yes-display-inline">the court may not issue a second or subsequent order described in clause (i) relating to a juvenile, unless the juvenile violates a valid court order after the date on which the court issues an order described in clause (i);</text>
+ </clause></subparagraph><subparagraph id="H79CA9A284B924A7EBC62669B68A3CC88"><enum>(D)</enum><text display-inline="yes-display-inline">there are procedures in place to ensure that any juvenile held in a secure detention facility or correctional facility pursuant to a court order described in this paragraph does not remain in custody longer than 3 days (with the exception of weekends and holidays) or the length of time authorized by the court, or authorized under applicable State law, whichever is shorter;</text>
+ </subparagraph><subparagraph id="H82C0E8414D514135A9851C690B82D470"><enum>(E)</enum><text display-inline="yes-display-inline">juvenile status offenders detained or confined in a secure detention facility or correctional facility pursuant to a court order as described in this paragraph may only be detained in secure custody one time in any six-month period, provided that all conditions set forth in subparagraph (D) are satisfied; and</text>
+ </subparagraph><subparagraph id="HFAD19EA47A334D018D4B9DE4EB282999"><enum>(F)</enum><text display-inline="yes-display-inline">not later than one year after the date of enactment of this subparagraph, with a single one-year extension if the State can demonstrate hardship as determined by the Administrator, the State will eliminate the use of valid court orders as described in subparagraph (A)(ii) to provide secure lockup of status offenders;</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="HACB6CE80FB0743E680D9B0144DB60DE9"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H2F98F28AB8B74514A06372A2D8364947" style="OLC"> <subsection id="H068C77583F6E4AB8985F3FA0B7AA48DB"><enum>(g)</enum><header>Applications for extension for compliance</header><text display-inline="yes-display-inline">States may apply for a single one-year extension to comply with subsection (a)(11). To apply, a State must submit an application to the Administrator describing—</text>
+ <paragraph id="H9959E15D45714BC48E8BE770649506AD"><enum>(1)</enum><text>the State’s measurable progress and good faith effort to reduce the number of status offenders who are placed in a secure detention facility or correctional facility pursuant to a court order as described in this paragraph; and</text>
+ </paragraph><paragraph id="H4E6DA5A957214449A4921D0C48CF30E1"><enum>(2)</enum><text>the State’s plan to come into compliance not later than 1 year after the date of extension.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></section></legis-body> </bill> 
+

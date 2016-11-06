@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HBC00E7FCC99E43B988F067A5279BBA24" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1069 IH: Presidential Library Donation Reform Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1069</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150225">February 25, 2015</action-date>
+			<action-desc><sponsor name-id="D000533">Mr. Duncan of Tennessee</sponsor> (for himself and <cosponsor name-id="C000984">Mr. Cummings</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 44, United States Code, to require information on contributors to Presidential
+			 library fundraising organizations, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HA5EF9E542DE247C788F1F80B570A7A74" style="OLC">
+ <section id="H9EA9953780D94346912B0E628DF142A1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Presidential Library Donation Reform Act of 2015</short-title></quote>.</text> </section><section id="HC8CAC7D6B96149559182BF3D1BAE5630"><enum>2.</enum><header>Presidential libraries</header> <subsection id="HF9EE24ADF27F463589311109165A6142"><enum>(a)</enum><header>In general</header><text>Section 2112 of title 44, United States Code, is amended by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="H4F75158C43E84322A5493AFC2257767E" style="USC">
+					<subsection id="HD150464703A5420C9DAC6B95CBA2CC8F"><enum>(h)</enum><header>Presidential library fundraising organization reporting requirement</header>
+ <paragraph id="H64E0BAD812614663AD99830F2E7AA3B3"><enum>(1)</enum><header>Reporting requirement</header><text display-inline="yes-display-inline">Not later than 15 days after the end of a calendar quarter and until the end of the requirement period described in paragraph (2), each Presidential library fundraising organization shall submit to the Archivist information for that quarter in an electronic searchable and sortable format with respect to every contributor who gave the organization a contribution or contributions (whether monetary or in-kind) totaling $200 or more for the quarterly period.</text>
+ </paragraph><paragraph id="H92F0B380285C43FB83D447EC4D3AA1F7"><enum>(2)</enum><header>Duration of reporting requirement</header><text display-inline="yes-display-inline">The requirement to submit information under paragraph (1) shall continue until the later of the following occurs:</text>
+ <subparagraph id="HCF52B6E5E5A74A7ABF6A2993E16B2086"><enum>(A)</enum><text>The Archivist has accepted, taken title to, or entered into an agreement to use any land or facility for the Presidential archival depository for the President for whom the Presidential library fundraising organization was established.</text>
+ </subparagraph><subparagraph id="HCF27894D04F743D3888987296EA1B47D"><enum>(B)</enum><text>The President whose archives are contained in the deposit no longer holds the Office of President.</text> </subparagraph></paragraph><paragraph id="HEAB0E7E81B02408AB0996245DC6B6C70"><enum>(3)</enum><header>Information required to be published</header><text>The Archivist shall publish on the website of the National Archives and Records Administration, within 30 days after each quarterly filing, any information that is submitted under paragraph (1), without a fee or other access charge in a downloadable database.</text>
+						</paragraph><paragraph id="H7A61F610B6ED4DD9A1D1A7A4FE86F933"><enum>(4)</enum><header>Submission of false material information prohibited</header>
+							<subparagraph id="HD2F496D0B99E42F3A4F6781489C9BF2F"><enum>(A)</enum><header>Individual</header>
+ <clause id="H461D4C2375AB4A3BA9F7A002CFAB9679"><enum>(i)</enum><header>Prohibition</header><text display-inline="yes-display-inline">It shall be unlawful for any person who makes a contribution described in paragraph (1) to knowingly and willfully submit false material information or omit material information with respect to the contribution to an organization described in such paragraph.</text>
+ </clause><clause id="H07C9AB804B4D448EBE7744511267F9AC"><enum>(ii)</enum><header>Penalty</header><text>The penalties described in section 1001 of title 18, United States Code, shall apply with respect to a violation of clause (i) in the same manner as a violation described in such section.</text>
+								</clause></subparagraph><subparagraph id="H037E1640453B4426AF355FCEE83B1E18"><enum>(B)</enum><header>Organization</header>
+ <clause id="HF73A202CCB65440A88DBCE45A8E57661"><enum>(i)</enum><header>Prohibition</header><text display-inline="yes-display-inline">It shall be unlawful for any Presidential library fundraising organization to knowingly and willfully submit false material information or omit material information under paragraph (1).</text>
+ </clause><clause id="H22CED1871EDF437C9748FB652A61A4A9"><enum>(ii)</enum><header>Penalty</header><text display-inline="yes-display-inline">The penalties described in section 1001 of title 18, United States Code, shall apply with respect to a violation of clause (i) in the same manner as a violation described in such section.</text>
+								</clause></subparagraph></paragraph><paragraph id="H460347B81C5E4FB9915A7805762A491A"><enum>(5)</enum><header>Prohibition on contribution</header>
+ <subparagraph id="H6CE644D7690E4A2D927F2355E6275E54"><enum>(A)</enum><header>In general</header><text>It shall be unlawful for a person to knowingly and willfully—</text> <clause id="H46F255E931264ED0A430B3FCD75FA810"><enum>(i)</enum><text>make a contribution described in paragraph (1) in the name of another person;</text>
+ </clause><clause id="H7E2B4412C1694A5482D45D871C307EC4"><enum>(ii)</enum><text>permit his or her name to be used to effect a contribution described in paragraph (1); or</text> </clause><clause id="H84F29FB1F07E45CA98EEF8F714D9D640"><enum>(iii)</enum><text>accept a contribution described in paragraph (1) that is made by one person in the name of another person.</text>
+ </clause></subparagraph><subparagraph id="HB0D5368C56C042E49040D57498089F4E"><enum>(B)</enum><header>Penalty</header><text>The penalties set forth in section 309(d) of the Federal Election Campaign Act of 1971 (<external-xref legal-doc="usc" parsable-cite="usc/2/437g">2 U.S.C. 437g(d)</external-xref>) shall apply to a violation of subparagraph (A) in the same manner as if such violation were a violation of section 316(b)(3) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/2/441b">2 U.S.C. 441b(b)(3)</external-xref>).</text>
+ </subparagraph></paragraph><paragraph id="H9DD42DFB00D14D71BF05E3BFDD5E4324"><enum>(6)</enum><header>Regulations required</header><text display-inline="yes-display-inline">The Archivist shall promulgate regulations for the purpose of carrying out this subsection.</text> </paragraph><paragraph id="H70637C72AE81434D8AB4AECFD16494E9"><enum>(7)</enum><header>Definitions</header><text>In this subsection:</text>
+ <subparagraph id="HFB8E5F76048B492FAE038892965DE686"><enum>(A)</enum><header>Information</header><text>The term <quote>information</quote> means the following:</text> <clause id="H717A71690FD145E2B83D372575F8496C"><enum>(i)</enum><text>The amount or value of each contribution made by a contributor referred to in paragraph (1) in the quarter covered by the submission.</text>
+ </clause><clause id="H8988A2CE578441F084EA24B8BFB1123D"><enum>(ii)</enum><text>The source of each such contribution, and the address of the entity or individual that is the source of the contribution.</text>
+ </clause><clause id="H22D5DDECA9A34D8AB92C5028308AD799"><enum>(iii)</enum><text>If the source of such a contribution is an individual, the occupation of the individual.</text> </clause><clause id="HE8C80A8286FB44088DB05F7D325AA4BC"><enum>(iv)</enum><text>The date of each such contribution.</text>
+ </clause></subparagraph><subparagraph id="HE371CD5AA7B64A70BFE2E150A6841A98"><enum>(B)</enum><header>Presidential library fundraising organization</header><text>The term <quote>Presidential library fundraising organization</quote> means an organization that is established for the purpose of raising funds for creating, maintaining, expanding, or conducting activities at—</text>
+ <clause id="H5F5F3140AA6F4C11A3B41F4C764D42B0"><enum>(i)</enum><text>a Presidential archival depository; or</text> </clause><clause id="HFBB35258ACBF493C97C5603BB319ABA3"><enum>(ii)</enum><text>any facilities relating to a Presidential archival depository.</text></clause></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H5DA112983C77479393B20200EAB2A932"><enum>(b)</enum><header>Applicability</header><text>Section 2112(h) of title 44, United States Code (as added by subsection (a))—</text> <paragraph id="H05B76A23BA5B45A4A07CBC73A960B577"><enum>(1)</enum><text>shall apply to an organization established for the purpose of raising funds for creating, maintaining, expanding, or conducting activities at a Presidential archival depository or any facilities relating to a Presidential archival depository before, on, or after the date of the enactment of this Act; and</text>
+ </paragraph><paragraph id="HCF92FDB0E1234A66A6D1C0E787EDC92B"><enum>(2)</enum><text>shall only apply with respect to contributions (whether monetary or in-kind) made after the date of the enactment of this Act.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

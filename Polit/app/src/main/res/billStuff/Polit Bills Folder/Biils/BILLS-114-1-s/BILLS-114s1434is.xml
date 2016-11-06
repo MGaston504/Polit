@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1434 IS: Energy Storage Promotion and Deployment Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 1434</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150521">May 21, 2015</action-date><action-desc><sponsor name-id="S359">Mr. Heinrich</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Public Utility Regulatory Policies Act of 1978 to establish an energy storage
+			 portfolio standard, and for other purposes.</official-title></form>
+	<legis-body>
+ <section id="id394A2F0F87A54FF1BBF2DA71A431C56A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Energy Storage Promotion and Deployment Act of 2015</short-title></quote>.</text> </section><section id="H220220E022DF4E79B6B9F17FA4A9CF6D" section-type="subsequent-section"><enum>2.</enum><header>Energy storage portfolio standard</header> <subsection id="HBBFCA2384FB24712BAF02616D73300DC"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Title VI of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2601">16 U.S.C. 2601 et seq.</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H22501F749D9D4F16BE70B7F9939F6C96" style="OLC">
+					<section id="idCB46DE82C9524ED088A8D63A7721237D"><enum>610.</enum><header>Energy storage portfolio standard</header>
+ <subsection id="idE642BA1C764F42C18761DD20E2756D00"><enum>(a)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="idE278822AAD33499E83A22D64EBDDE3A5"><enum>(1)</enum><header>Energy storage device</header><text>The term <term>energy storage device</term> includes a device used to store energy using pumped hydropower, compressed air, batteries or other electrochemical forms (including hydrogen for fuel cells), thermal forms (including hot water and ice), flywheels, capacitors, superconducting magnets, and other energy storage devices, to be available for use when the energy is needed.</text>
+							</paragraph><paragraph id="HFEEFE71463B04408856674CB6B964829"><enum>(2)</enum><header>Retail electric
+		  supplier</header>
+								<subparagraph id="id41FD131E9E5C4099A055AB5D413072CD"><enum>(A)</enum><header>In
+ general</header><text display-inline="yes-display-inline">The term <term>retail electric supplier</term> means a person that—</text>
+ <clause id="idA46DC44639CF49129252794C1E8DBEB9"><enum>(i)</enum><text display-inline="yes-display-inline">sells electric energy to electric consumers; and</text>
+ </clause><clause id="id0F96DFD118624C0099CD65D4A6720E9B"><enum>(ii)</enum><text display-inline="yes-display-inline">sold not less than 500,000 megawatt hours of electric energy to electric consumers for purposes other than resale during the preceding calendar year.</text>
+ </clause></subparagraph><subparagraph id="id82AA545180594C7184154B55934DB138"><enum>(B)</enum><header>Inclusion</header><text display-inline="yes-display-inline">The term <term>retail electric supplier</term> includes a person that sells electric energy to electric consumers that, in combination with the sales of any affiliate organized after the date of enactment of this section, sells not less than 500,000 megawatt hours of electric energy to consumers for purposes other than resale.</text>
+ </subparagraph><subparagraph commented="no" id="H861881B364F34A7781DA4EE797DC34"><enum>(C)</enum><header>Exclusions</header><text>The term <term>retail electric supplier</term> does not include—</text>
+ <clause commented="no" id="idC9BB9127EB2643B18C43861E9CBA9A20"><enum>(i)</enum><text>the United States, a State, any political subdivision of a State, or any agency, authority, or instrumentality of the United States, a State, an Indian tribe, or a political subdivision; or</text>
+ </clause><clause commented="no" id="idD2023E1CC02341A39F31B21119FA34D2"><enum>(ii)</enum><text>a rural electric cooperative.</text>
+									</clause></subparagraph><subparagraph id="id0B8EEFB96F934780A296754EF3479A68"><enum>(D)</enum><header>Sales to parent
+ companies or affiliates</header><text display-inline="yes-display-inline">For purposes of this paragraph, sales by any person to a parent company or to other affiliates of the person shall not be treated as sales to electric consumers.</text>
+								</subparagraph></paragraph></subsection><subsection id="id4135014B2CE4418C9A0D56580C701C74"><enum>(b)</enum><header>Requirements</header>
+ <paragraph id="idBD58DD9DA5CB41BE8BF8D9D3CBA427FB"><enum>(1)</enum><header>Primary standards</header><text>Subject to paragraph (2) and except as provided in subsection (e)(2), each retail electric supplier shall achieve compliance with the following energy storage portfolio standards by the following dates:</text>
+ <subparagraph id="idC39A492C037848CA8D4303EC3B9AE52A"><enum>(A)</enum><header>January 1, 2021</header><text>Not later than January 1, 2021, each retail electric supplier shall have available on the system of the retail electric supplier energy storage devices with a power capacity rating equal to not less than 1 percent of the annual average peak power demand of the system, as—</text>
+ <clause id="id394EBC4EDFAF4B40866B6412DF4BB272"><enum>(i)</enum><text>measured over a 1-hour period; and</text> </clause><clause id="idD93B1D0A35644124967D7490DDBB249D"><enum>(ii)</enum><text>averaged over the period of calendar years 2017 through 2019.</text>
+ </clause></subparagraph><subparagraph id="id62B8C0F21CBF4FAFA8DCB01C18D9AED8"><enum>(B)</enum><header>January 1, 2025</header><text>Not later than January 1, 2025, each retail electric supplier shall have available on the system of the retail electric supplier energy storage devices with a power capacity rating equal to not less than 2 percent of the annual average peak power demand of the system, as—</text>
+ <clause id="id0CC455BAEE93412CA02FD7D3E7E2353E"><enum>(i)</enum><text>measured over a 1-hour period; and</text> </clause><clause id="id657AF0952788442A81887B254CCD3456"><enum>(ii)</enum><text>averaged over the period of calendar years 2021 through 2023.</text>
+ </clause></subparagraph></paragraph><paragraph id="idA92D63202C4D4CBC9B6FC8FA24CCEC7C"><enum>(2)</enum><header>Secondary standard</header><text>Of each applicable storage capacity required under paragraph (1), at least 50 percent shall be sufficient to provide electricity at the rated capacity for a duration of not less than 1 hour.</text>
+ </paragraph></subsection><subsection id="id3eedd14e1f0d49369850e6e88eb3a8c8"><enum>(c)</enum><header>Inclusions</header><text>The following may be used to comply with the energy storage portfolio standards established by subsection (b):</text>
+ <paragraph id="id11EEFB55FC4A4CA983621AA71A1C3D8E"><enum>(1)</enum><text>Energy storage devices associated with a retail customer of the retail electric supplier.</text> </paragraph><paragraph id="id78de72a8ba8e4194bf1e133bacfb39e2"><enum>(2)</enum><text>Energy storage owned or operated by the retail electric supplier.</text>
+ </paragraph><paragraph id="iddef134398d8948f6b5f221ceca2fefc1"><enum>(3)</enum><text>Energy storage devices that are electrically connected to the retail electric supplier and available to provide power, including storage owned by—</text>
+ <subparagraph id="idAD4DECAB2133443AB12030608AD199F7"><enum>(A)</enum><text>a third party;</text> </subparagraph><subparagraph id="id2037C13BCADA4A67A54ED75FB6E4D28D"><enum>(B)</enum><text>a regional transmission entity; or</text>
+ </subparagraph><subparagraph id="idECB7DEBC4A4C4F61989EE9B777068702"><enum>(C)</enum><text>a transmission or generation entity.</text> </subparagraph></paragraph></subsection><subsection id="id0805effed8b24a0181679225ce061ff4"><enum>(d)</enum><header>Exclusion</header><text>An energy storage device placed in operation before January 1, 2009, may not be used to achieve compliance with the energy storage portfolio standards established by subsection (b).</text>
+						</subsection><subsection id="id23ec1f4bcf6c466e991817ecee4d85ce"><enum>(e)</enum><header>Deadline for compliance</header>
+ <paragraph id="id7705bbda16234478aac1d7bdf11442b9"><enum>(1)</enum><header>In general</header><text>Subject to paragraph (2), the chief executive officer of each retail electric supplier shall certify to the Secretary compliance with the energy storage portfolio standards established by subsection (b) by the applicable dates specified in that subsection.</text>
+							</paragraph><paragraph id="id6b806a2120a34a14826b59913e7b1786"><enum>(2)</enum><header>Waivers</header>
+ <subparagraph id="id7B4786F1BAB447269A9F0E6EDC6551EC"><enum>(A)</enum><header>In general</header><text>Notwithstanding any other provision of this section, the Secretary may provide to a retail electric supplier a waiver of an applicable deadline under subsection (b) for a period of 1 calendar year, if the Secretary determines that achieving compliance by the applicable deadline would present undue hardship to—</text>
+ <clause id="id95D5EE751B984B9080331684B00CFFF6"><enum>(i)</enum><text>the retail electric supplier; or</text> </clause><clause id="id4896B03C82C245AFB97643D8FFDFC20A"><enum>(ii)</enum><text>ratepayers of the retail electric supplier.</text>
+ </clause></subparagraph><subparagraph id="id4828C3BE0DFB4059A9001FFB2CDB9B1B"><enum>(B)</enum><header>Additional waivers</header><text>The Secretary may provide to a retail electric supplier such additional 1-year waivers under subparagraph (A) as the Secretary determines to be appropriate on making a subsequent determination under that subparagraph.</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="ID12893634b2d047b7a02c53972e7c7fd6"><enum>(b)</enum><header>Table of
+ contents amendment</header><text>The table of contents of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. prec. 2601) is amended by adding at the end of the items relating to title VI the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idA66E47E524C84507BB8DC074EEBC680C" style="OLC"><toc><toc-entry bold="off" level="section">Sec. 609. Rural and remote
+		  communities electrification grants.</toc-entry><toc-entry bold="off" level="section">Sec. 610. Energy storage portfolio
+		  standard.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section></legis-body></bill>
+
+

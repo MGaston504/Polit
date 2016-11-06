@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9C11EDE623D743D7AC4FDCA646773095" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3747 IH: Social Security Garnishment Modernization Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3747</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151009">October 9, 2015</action-date>
+			<action-desc><sponsor name-id="D000610">Mr. Deutch</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 31, United States Code, to adjust for inflation the amount that is exempt from
+			 administrative offsets by the Department of Education for defaulted
+			 student loans.</official-title>
+	</form>
+	<legis-body id="H4D85CDCF2E17456AA70FA47B7F69619C" style="OLC">
+ <section id="HDC7D4727C8244FEE8F0F7E0F57E35224" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Social Security Garnishment Modernization Act of 2015</short-title></quote>.</text> </section><section id="H168CFDAFB10B401B98F3BB97DE06F983" section-type="subsequent-section"><enum>2.</enum><header>Adjustment for inflation</header> <subsection id="H83C0F94CD45843B6984791DB6B7F9E4A"><enum>(a)</enum><header>In general</header><text>Section 3716(c)(3)(A) of title 31, United States Code, is amended—</text>
+ <paragraph id="HB0667A8A8FC34D69BA636699E52EB647"><enum>(1)</enum><text>in clause (ii), by striking <quote>An amount</quote> and inserting <quote>Except as provided in clause (iii), an amount</quote>; and</text> </paragraph><paragraph id="H5A546EB1D8A540749D992B3217C5911F"><enum>(2)</enum><text>by inserting after the matter following clause (ii)(II) the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H035F484A244E498EA68991E35C2BAEA8" style="OLC">
+ <clause id="H2493924807A34DB79B1DDA72F08652E9" indent="up1"><enum>(iii)</enum><text>For a claim that may be collected under this section by the Department of Education relating to a defaulted student loan under part B, D, or E of title IV of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1071">20 U.S.C. 1071 et seq.</external-xref>, 1087a et seq., and 1087aa et seq.), the amount of payments due to an individual under the Social Security Act that is exempt from offset under this subsection shall be equal to the exemption amount under clause (ii), as adjusted annually to reflect increases in the Consumer Price Index for Urban Wage Earners and Clerical Workers published by the Bureau of Labor Statistics of the Department of Labor.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="HA180A0529096497282D2B0C43A585AC6"><enum>(b)</enum><header>Effective date</header><text>The amendments made by subsection (a) shall—</text> <paragraph id="HA19DFEB3ED794EFFB5DF769704ACD9F2"><enum>(1)</enum><text>take effect as if included in the enactment of the Omnibus Consolidated Rescissions and Appropriations Act of 1996 (<external-xref legal-doc="public-law" parsable-cite="pl/104/134">Public Law 104–134</external-xref>; 110 Stat. 1321); and</text>
+ </paragraph><paragraph id="HEEE8144734CF4637A85F88E7EBE26AC5"><enum>(2)</enum><text>only apply with respect to a claim described in section 3716(c)(3)(A)(iii) of title 31, United States Code, as added by subsection (a)(2), that may be collected by administrative offset by the Department of Education under section 3716 of such title after the date of enactment of this Act.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

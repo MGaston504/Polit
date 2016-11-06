@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC5154F7C227341278C03D7055E478677" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1785 IH: Voluntary Verification Program Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1785</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150414">April 14, 2015</action-date>
+			<action-desc><sponsor name-id="L000566">Mr. Latta</sponsor> (for himself, <cosponsor name-id="C000754">Mr. Cooper</cosponsor>, and <cosponsor name-id="B001243">Mrs. Blackburn</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Energy Policy and Conservation Act to provide for the recognition of voluntary
+			 verification programs for air conditioning, furnace, boiler, heat pump,
+			 and water heater products.</official-title>
+	</form>
+	<legis-body id="H812D2F8DBB93487DB1E16FA116DA1DC9" style="OLC">
+ <section id="HEA0AC209FA0447B3A63747F6E288547D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Voluntary Verification Program Act of 2015</short-title></quote>.</text> </section><section id="HEE26D6958A58405BAC7445FD0CF9706B"><enum>2.</enum><header>Voluntary verification programs for air conditioning, furnace, boiler, heat pump, and water heater products</header><text display-inline="no-display-inline">Section 326(b) of the Energy Policy and Conservation Act (<external-xref legal-doc="usc" parsable-cite="usc/42/6296">42 U.S.C. 6296(b)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block id="H5E2757DCC0D44218BC48522B44B71AEA" style="OLC">
+				<paragraph id="H8E0EB76610124A7A86690CA00339213F"><enum>(6)</enum><header>Voluntary verification programs for air conditioning, furnace, boiler, heat pump, and water heater
+			 products</header>
+ <subparagraph id="H58B076073B0E4E4A9CD6CFD07C7ECA5B"><enum>(A)</enum><header>Reliance on voluntary verification programs</header><text>For the purpose of verifying compliance with energy conservation standards and Energy Star specifications established under sections 324A, 325, and 342 for covered products described in paragraphs (3), (4), (5), (9), and (11) of section 322(a) and covered equipment described in subparagraphs (B), (C), (D), (F), (I), (J), and (K) of section 340(1), the Secretary and Administrator of the Environmental Protection Agency (in this paragraph referred to as the <quote>Administrator</quote>) shall—</text>
+ <clause id="H601F81E0848E4073BE31F73857D25BCA"><enum>(i)</enum><text>rely on voluntary verification programs that are recognized by the Secretary or the Administrator according to criteria that have consensus support established through a negotiated rulemaking; and</text>
+ </clause><clause id="H783664F2B8E94ADAB00022472A97684E"><enum>(ii)</enum><text display-inline="yes-display-inline">not later than 180 days after the date of enactment of the <short-title>Voluntary Verification Program Act of 2015</short-title>, initiate a negotiated rulemaking described in clause (i) to establish criteria for achieving recognition by the Secretary or the Administrator as an approved voluntary verification program, which at a minimum shall ensure that voluntary verification programs—</text>
+ <subclause id="H9510DD8092C14DE6A357C7656028C7EE"><enum>(I)</enum><text>are nationally recognized;</text> </subclause><subclause id="HAC5DC18EBC9F4F1883BD0F6746254A30"><enum>(II)</enum><text>maintain a publicly available list of all verified products and equipment;</text>
+ </subclause><subclause id="H6C26EE51471041F58D4FD4BCE1DDB9F1"><enum>(III)</enum><text display-inline="yes-display-inline">require the changing of the performance rating or removal of the product or equipment from the program if testing determines that the performance rating does not meet the levels the manufacturer has verified to the Secretary or the Administrator;</text>
+ </subclause><subclause id="HA3D9228606174F1784D2DE6782097322"><enum>(IV)</enum><text>require the qualification of new participants in the program through testing and production of test reports;</text>
+ </subclause><subclause id="HCA224027FF8D4FBDAE80D0A5E8599B57"><enum>(V)</enum><text>allow for challenge testing of products and equipment within the scope of the program;</text> </subclause><subclause id="H6692E78DDDE94F219C1F1F0EF64219D5"><enum>(VI)</enum><text>require program participants to verify the performance rating of all covered products and equipment within the scope of the voluntary verification program;</text>
+ </subclause><subclause id="HF5D1D00B6A694DCAA38DBB1879962131"><enum>(VII)</enum><text display-inline="yes-display-inline">provide to the Secretary or the Administrator—</text> <item id="HE31B871F58FB4F44B000ECE3B22A9147"><enum>(aa)</enum><text display-inline="yes-display-inline">prompt notification when program testing results in—</text>
+ <subitem id="H9105AFEB687C4779A091196BBC22673A"><enum>(AA)</enum><text>the rerating of the performance rating of a product or equipment; or</text> </subitem><subitem id="H33DC0909F7C74E4996955D9924B58D59"><enum>(BB)</enum><text>the delisting of a product or equipment; and</text>
+ </subitem></item><item id="HFDB5219755CF47C490E80C76EC7B5F9D"><enum>(bb)</enum><text>test reports, on the request of the Secretary or the Administrator, for Energy Star compliant products, which shall be treated as confidential business information as provided for under section 552(b)(4) of title 5, United States Code (commonly known as the <quote>Freedom of Information Act</quote>); and</text>
+ </item></subclause><subclause id="HBB7021E6099F417AA3A68D0E1EC8DFCB"><enum>(VIII)</enum><text>meet any additional requirements or standards that the Secretary or the Administrator shall establish consistent with this clause.</text>
+							</subclause></clause></subparagraph><subparagraph id="HFBA586F532174EF7ACBA2B4F04FA7B5D"><enum>(B)</enum><header>Administration</header>
+ <clause id="HD9D1D6EAD22A4746BE8B67580B32E925"><enum>(i)</enum><header>In general</header><text>Neither the Secretary nor the Administrator shall require—</text> <subclause id="HE290A4D360CE42C49BF7D0D50438DABD"><enum>(I)</enum><text>manufacturers to participate in a voluntary verification program described in subparagraph (A); or</text>
+ </subclause><subclause id="H4302F2C9F53A47A78D1F6A65BCFD68A6"><enum>(II)</enum><text>participating manufacturers to provide information that can be obtained through a voluntary verification program described in subparagraph (A).</text>
+ </subclause></clause><clause id="HCECD7243A17A4D57822E8A3AD18176F8"><enum>(ii)</enum><header>List of covered products</header><text>The Secretary or the Administrator may maintain a publicly available list of covered products and equipment verified under subparagraph (A) that distinguishes between—</text>
+ <subclause id="H73FAA8EEA50144E3B09236284ABF55E8"><enum>(I)</enum><text>covered products and equipment verified by a program described in subparagraph (A); and</text> </subclause><subclause id="H9FC4F6BD7A8B4A63B700DC2AD37EED1F"><enum>(II)</enum><text>products not verified by a program described in subparagraph (A).</text>
+ </subclause></clause><clause id="HE627121E630341D99470B31FF515BCFE"><enum>(iii)</enum><header>Periodic verification testing</header><text>The Secretary and the Administrator shall not subject a manufacturer that participates in a voluntary verification program described in subparagraph (A), and that is in compliance with subparagraph (A)(ii) (I) through (VIII), to additional periodic verification testing to verify the accuracy of the performance rating of the product or equipment, if the voluntary verification program subjects covered products to periodic verification testing and provides test results to the Secretary or the Administrator on request.</text>
+ </clause><clause id="H5CD6BA481C3A41248751ACF605D9D602"><enum>(iv)</enum><header>Effect on other authority</header><text>Nothing in this paragraph limits the authority of the Secretary or the Administrator to enforce compliance with any law.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HAC808194A2884312A45C2D5D5152BEBB" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3500 IH: Honesty in Consumer Price Index Reporting Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3500</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150911">September 11, 2015</action-date>
+			<action-desc><sponsor name-id="J000255">Mr. Jones</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require the Bureau of Labor Statistics, Department of Labor, to report the Consumer Price Index
+			 (CPI–W) using methodology employed in 1980.</official-title>
+	</form>
+	<legis-body id="HAA22E16CBEDA43228F9F38E97B394C88" style="OLC">
+ <section id="H279A6FD105FA450A97A31442511EF247" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Honesty in Consumer Price Index Reporting Act</short-title></quote>.</text> </section><section id="HB21A6F0DD79C44AA87A8CB9C4AD1A679"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+ <paragraph id="H45BDADE9EE714AC3A7868F6BF2327DAA"><enum>(1)</enum><text display-inline="yes-display-inline">Beginning in 1975, Congress required Social Security retirement benefits to automatically increase annually in order to provide a cost-of-living adjustment (COLA), based on increases in the Consumer Price Index for Urban Wage Earners and Clerical Workers, or CPI–W, a data set issued by the Bureau of Labor Statistics.</text>
+ </paragraph><paragraph id="H463471EF2A6241EAA24A198C26A2DDBD"><enum>(2)</enum><text>The Social Security Administration website correctly explains that the purpose of the COLA is <quote>to ensure that the purchasing power of Social Security and Supplemental Security Income (SSI) benefits is not eroded by inflation</quote>.</text>
+ </paragraph><paragraph id="HDCBFF0B046C7487EAAC751FA420C4688"><enum>(3)</enum><text>The CPI–W data set published by the Bureau of Labor Statistics has come under criticism, as the BLS has made repeated changes in the methodology for calculation, particularly since 1980, so that it no longer measures maintaining a constant standard of living by reflecting changes in price of a fixed market basket of goods and services, but rather reflects the consumer substitution of less-expensive products and services as prices rise.</text>
+			</paragraph></section><section id="H19502401F7BE44CA944ACFC1E0AF1EB9"><enum>3.</enum><header>Required reporting of certain consumer price index data using 1980 methodology</header>
+ <subsection id="HB1A8B51F02804DD7A02F84F29BE86D07"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Bureau of Labor Statistics shall regularly and routinely report an additional data set designed to replicate the Consumer Price Index for Urban Wage Earners and Clerical Workers or CPI–W set reflecting a fixed market basket of goods and services, omitting consideration of substitution of goods and services due to changes in individual consumption patterns caused by price increases, utilizing the methodology that was employed by such Bureau in 1980.</text>
+ </subsection><subsection id="HF65FF421917E485C85596186A7A313AE"><enum>(b)</enum><header>Construction</header><text display-inline="yes-display-inline">Nothing in subsection (a) shall prevent the Bureau of Labor Statistics from making changes in the market basket employed in the new data set required to be created under subsection (a) that are necessitated by technological changes which are fully disclosed to the public prior to making such changes.</text>
+ </subsection><subsection id="H8372D29255264B3994A1D49A0CDBD9BD"><enum>(c)</enum><header>Termination</header><text>The requirement in subsection (a) shall terminate if the Bureau of Labor Statistics ends its reporting of CPI–W.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

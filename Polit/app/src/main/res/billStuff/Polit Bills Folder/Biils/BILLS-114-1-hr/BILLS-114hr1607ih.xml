@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD4D9EBD1E2434582BD7F5EA13717F25C" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1607 IH: Ruth Moore Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1607</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150325">March 25, 2015</action-date>
+			<action-desc><sponsor name-id="P000597">Ms. Pingree</sponsor> (for herself, <cosponsor name-id="P000611">Mr. Poliquin</cosponsor>, <cosponsor name-id="T000465">Ms. Tsongas</cosponsor>, <cosponsor name-id="R000515">Mr. Rush</cosponsor>, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, <cosponsor name-id="D000216">Ms. DeLauro</cosponsor>, <cosponsor name-id="P000607">Mr. Pocan</cosponsor>, <cosponsor name-id="K000382">Ms. Kuster</cosponsor>, <cosponsor name-id="L000287">Mr. Lewis</cosponsor>, <cosponsor name-id="D000613">Mr. Dold</cosponsor>, and <cosponsor name-id="G000570">Mr. Guinta</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to improve the disability compensation evaluation procedure
+			 of the Secretary of Veterans Affairs for veterans with mental health
+			 conditions related to military sexual trauma, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HE1BA8CE534A2495C9DC268D726D805BD" style="OLC">
+ <section id="HED284D0C91214D56B86D25BA9D6313AA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ruth Moore Act of 2015</short-title></quote>.</text> </section><section id="H320D2F0297634BFC8AA9DD888EA085B8"><enum>2.</enum><header>Standard of proof for service-connection of mental health conditions related to military sexual trauma</header> <subsection id="HB51BFCCBDAD64941BB64CF93C5C40EEF"><enum>(a)</enum><header>Standard of proof</header><text>Section 1154 of title 38, United States Code, is amended by adding at the end the following new subsection:</text>
+				<quoted-block id="HD1A8ED4CDBC04A7AA97939B271855A7F" style="OLC">
+					<subsection id="H84472316BCE14AC3AC06F1A2E78A0E6B"><enum>(c)</enum>
+ <paragraph commented="no" display-inline="yes-display-inline" id="H9D638753C3374B92B60B11152B0148ED"><enum>(1)</enum><text>In the case of any veteran who claims that a covered mental health condition was incurred in or aggravated by military sexual trauma during active military, naval, or air service, the Secretary shall accept as sufficient proof of service-connection a diagnosis of such mental health condition by a mental health professional together with satisfactory lay or other evidence of such trauma and an opinion by the mental health professional that such covered mental health condition is related to such military sexual trauma, if consistent with the circumstances, conditions, or hardships of such service, notwithstanding the fact that there is no official record of such incurrence or aggravation in such service, and, to that end, shall resolve every reasonable doubt in favor of the veteran. Service-connection of such covered mental health condition may be rebutted by clear and convincing evidence to the contrary. The reasons for granting or denying service-connection in each case shall be recorded in full.</text>
+ </paragraph><paragraph id="HC1CB923371D44DCF9F89458737B6B9BD" indent="up1"><enum>(2)</enum><text>For purposes of this subsection, in the absence of clear and convincing evidence to the contrary, and provided that the claimed military sexual trauma is consistent with the circumstances, conditions, or hardships of the veteran’s service, the veteran’s lay testimony alone may establish the occurrence of the claimed military sexual trauma.</text>
+ </paragraph><paragraph id="H5BBF1900392245DAAC9F7B3DEB59CFFE" indent="up1"><enum>(3)</enum><text>In this subsection:</text> <subparagraph id="H7C61118D2C0144BD94E1029E3010E967"><enum>(A)</enum><text>The term <term>covered mental health condition</term> means post-traumatic stress disorder, anxiety, depression, or other mental health diagnosis described in the current version of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association that the Secretary determines to be related to military sexual trauma.</text>
+ </subparagraph><subparagraph id="H65350284C7AA4DBBACCD22F0661FDA5B"><enum>(B)</enum><text>The term <term>military sexual trauma</term> means, with respect to a veteran, psychological trauma, which in the judgment of a mental health professional, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred during active military, naval, or air service.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H225C712048C5493F87BFB261E9403050"><enum>(b)</enum><header>Annual reports</header>
+ <paragraph id="HB0AEC31401A546199E0CF3350A5DDA1D"><enum>(1)</enum><header>In general</header><text>Subchapter VI of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/11">chapter 11</external-xref> of title 38, United States Code, is amended by adding at the end the following new section:</text>
+					<quoted-block id="H30CD45802DA94603A2C7E3BA03D0F230" style="OLC">
+						<section id="H7C1FDEAFD8B846F488477D3E8351E39B"><enum>1164.</enum><header>Reports on claims for disabilities incurred or aggravated by military sexual trauma</header>
+ <subsection id="H56DC1BF624F34EB9982AAC0C0CE9A53E"><enum>(a)</enum><header>Reports</header><text>Not later than December 1, 2016, and each year thereafter through 2020, the Secretary shall submit to Congress a report on covered claims submitted during the previous fiscal year.</text>
+ </subsection><subsection id="H4D73847066894903BA6519005BA5FBDC"><enum>(b)</enum><header>Elements</header><text>Each report under subsection (a) shall include the following:</text> <paragraph id="HAE5C6ADBA83A486C8C8B14F2C8444138"><enum>(1)</enum><text>The number of covered claims submitted to or considered by the Secretary during the fiscal year covered by the report.</text>
+ </paragraph><paragraph id="H1F8463C5AB1F4510A6B01A2B54C260DA"><enum>(2)</enum><text>Of the covered claims listed under paragraph (1), the number and percentage of such claims—</text> <subparagraph id="HEAA33DA6854B4A51940985858E3C17B3"><enum>(A)</enum><text>submitted by each sex;</text>
+ </subparagraph><subparagraph id="HCD6B33C27B4D4AF7A6850BB5CE2C4155"><enum>(B)</enum><text>that were approved, including the number and percentage of such approved claims submitted by each sex; and</text>
+ </subparagraph><subparagraph id="HAF85B1B5896A4A43BE69A7D4822439B9"><enum>(C)</enum><text>that were denied, including the number and percentage of such denied claims submitted by each sex.</text> </subparagraph></paragraph><paragraph id="H34165ACE2FE84C8F90648A227D2B0E46"><enum>(3)</enum><text>Of the covered claims listed under paragraph (1) that were approved, the number and percentage, listed by each sex, of claims assigned to each rating percentage.</text>
+ </paragraph><paragraph id="H5D5F89C4C4B04C01A2EC18FF86054A4C"><enum>(4)</enum><text>Of the covered claims listed under paragraph (1) that were denied—</text> <subparagraph id="H5B952E9786D94E4CB938828547F75917"><enum>(A)</enum><text>the three most common reasons given by the Secretary under section 5104(b)(1) of this title for such denials; and</text>
+ </subparagraph><subparagraph id="H23169983B6724B2FAA3C63C6A2FADE11"><enum>(B)</enum><text>the number of denials that were based on the failure of a veteran to report for a medical examination.</text>
+ </subparagraph></paragraph><paragraph id="H316AAEF2B18144F8A411990437658B3D"><enum>(5)</enum><text>The number of covered claims that, as of the end of the fiscal year covered by the report, are pending and, separately, the number of such claims on appeal.</text>
+ </paragraph><paragraph id="H548CD8390B9D40489D79E38F7A3FCF2C"><enum>(6)</enum><text>For the fiscal year covered by the report, the average number of days that covered claims take to complete beginning on the date on which the claim is submitted.</text>
+ </paragraph><paragraph id="HC963209CEAF0471BA6B49E988096A3A6"><enum>(7)</enum><text>A description of the training that the Secretary provides to employees of the Veterans Benefits Administration specifically with respect to covered claims, including the frequency, length, and content of such training.</text>
+ </paragraph></subsection><subsection id="HE68DF3DA8697481B8E014D6ABAF212D3"><enum>(c)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HF197FB768A08410A9F20D60047192218"><enum>(1)</enum><text>The term <term>covered claims</term> means claims for disability compensation submitted to the Secretary based on a covered mental health condition alleged to have been incurred or aggravated by military sexual trauma.</text>
+ </paragraph><paragraph id="H2E619D127F674286AE90FF1C65A8DB66"><enum>(2)</enum><text>The term <term>covered mental health condition</term> has the meaning given that term in subparagraph (A) of section 1154(c)(3) of this title.</text> </paragraph><paragraph id="H3462D382EF91434782DA81742ECAA310"><enum>(3)</enum><text>The term <term>military sexual trauma</term> has the meaning given that term in subparagraph (B) of such section.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="HB532DCA96072459094C981EFE195EA5D"><enum>(2)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of such chapter is amended by adding at the end the following new item:</text>
+					<quoted-block display-inline="no-display-inline" id="H51C86F2BF9CD468FA1AE424BA323C5E0" style="USC">
+						<toc regeneration="no-regeneration">
+							<toc-entry level="section">1164. Annual reports on claims for disabilities incurred or aggravated by military sexual trauma.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="HD031793BE5CB44A29E8A51EC703D21F3"><enum>(c)</enum><header>Effective date</header><text>Subsection (c) of section 1154 of title 38, United States Code, as added by subsection (a), shall apply with respect to any claim for disability compensation under laws administered by the Secretary of Veterans Affairs for which no final decision has been made before the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

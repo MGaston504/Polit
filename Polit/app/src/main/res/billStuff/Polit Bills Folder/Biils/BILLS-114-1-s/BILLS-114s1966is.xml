@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1966 IS: Hunger Free Summer for Kids Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-08-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1966</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150805">August 5, 2015</action-date>
+			<action-desc><sponsor name-id="S343">Mr. Boozman</sponsor> (for himself, <cosponsor name-id="S174">Mr. McConnell</cosponsor>, <cosponsor name-id="S339">Mr. Kirk</cosponsor>, <cosponsor name-id="S307">Mr. Brown</cosponsor>, <cosponsor name-id="S356">Mr. Donnelly</cosponsor>, and <cosponsor name-id="S330">Mr. Bennet</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and Forestry</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Richard B. Russell National School Lunch Act to require alternative options for
+			 program delivery.</official-title>
+	</form>
+	<legis-body>
+ <section id="id2069410550A24EC88CBC85EDB46D9E5D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Hunger Free Summer for Kids Act of 2015</short-title></quote>.</text> </section><section id="idC37A562680F34815AF16F93C2194E4C6" section-type="subsequent-section"><enum>2.</enum><header>Alternative options for program delivery</header><text display-inline="no-display-inline">Section 13 of the Richard B. Russell National School Lunch Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1761">42 U.S.C. 1761</external-xref>) is amended—</text>
+ <paragraph id="id7AE66C78906248A5AD7BCDA22D5307E6"><enum>(1)</enum><text display-inline="yes-display-inline">in subsection (a), by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="idB3C5BD30A4654A27886BFD7C9AEF11A1" style="OLC"> <paragraph id="id380dc31f39a84f80af4886d88bd4dc65"><enum>(13)</enum><header>Alternative options for program delivery</header> <subparagraph id="id666dafeb7c5d4936a266abb7f8be9781"><enum>(A)</enum><header>In general</header><text>To reach children that do not have readily available access to meals provided under this section, the Secretary shall establish 2 alternative options for program delivery, including summer food service program meals delivered through—</text>
+ <clause id="idd660c73e4ece45fd809d2ecd09fecf07"><enum>(i)</enum><text>an electronic benefit card (referred to this paragraph as an <quote>EBT card</quote>) in accordance with subparagraph (C); and</text> </clause><clause id="id1c0df55f07a2475c92971d48072b3872"><enum>(ii)</enum><text>off-site consumption in accordance with subparagraph (D).</text>
+ </clause></subparagraph><subparagraph id="id42a48397e6f741f5979f3706c198713c"><enum>(B)</enum><header>Purpose</header><text>The Secretary shall design and implement the alternative options described in subparagraph (A) so as—</text>
+ <clause id="id53f9afab6dd5462a8177d8a0abd25b38"><enum>(i)</enum><text>to increase program effectiveness and efficiency;</text> </clause><clause id="idd339be4e1e014d57b7dd4859ea18b1ef"><enum>(ii)</enum><text>to improve child nutrition; and</text>
+ </clause><clause id="idaf032958df21494792254140b4031f19"><enum>(iii)</enum><text>to reduce food insecurity among children.</text> </clause></subparagraph><subparagraph id="id6d1e0240c87141aeb31490e4adad01c4"><enum>(C)</enum><header>Electronic benefit transfer card</header> <clause id="idde744c6beba64e8eb3616d90f9f6d516"><enum>(i)</enum><header>In general</header><text>As an alternative to the meals provided by eligible service institutions and private nonprofit organizations at congregate feeding sites, the Secretary shall establish an option for States, beginning in summer 2018, to issue EBT cards to children eligible to participate in the program.</text>
+							</clause><clause id="id17e7ec76f2aa4e1bb1c3fe99c726600d"><enum>(ii)</enum><header>Amount</header>
+ <subclause id="id86859B1C68D94FCDA3591191EC908DAC"><enum>(I)</enum><header>In general</header><text>Subject to subclause (III), the value of an EBT card under this subparagraph shall be $30, less administrative expenses, for each child.</text>
+ </subclause><subclause id="idA750CC8D842C4C5CB0A18670318380BE"><enum>(II)</enum><header>Annual limitation</header><text>No child may receive more than $100 under this subparagraph in any 12-month period.</text> </subclause><subclause id="id12576c10c4d24616b13225d28ace4f52"><enum>(III)</enum><header>Adjustment</header><text>Each January 1, the Secretary shall adjust the value described in subclause (I) by the same percentage as the adjustment made under subsection (b)(1)(B).</text>
+ </subclause></clause><clause id="id1278d5cb5e7048969193b3083a96ef98"><enum>(iii)</enum><header>Timing of issuance</header><text>EBT cards under this subparagraph may be used only when school is out of session for the summer period, as defined by the Secretary.</text>
+							</clause><clause id="idcbb378aa6a3149c5bf6f674be70a5118"><enum>(iv)</enum><header>Use of benefits</header>
+ <subclause id="id5C15D02D4B554FFF8B7D9D98BC210AEC"><enum>(I)</enum><header>In general</header><text>An EBT card issued under this subparagraph may be used only for the purchase of food from retail stores approved for participation in the special supplemental nutrition program for women, infants, and children established by section 17 of the <act-name parsable-cite="CNA66">Child Nutrition Act of 1966</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/1786">42 U.S.C. 1786</external-xref>).</text>
+ </subclause><subclause id="idA2003458A5DA4F00B8F12C7BCCCFA91F"><enum>(II)</enum><header>Benefit redemption</header><text>A retail store shall redeem EBT card benefits under this subparagraph in the same manner as benefit redemption under the special supplemental nutrition program described in subclause (I).</text>
+ </subclause></clause><clause id="id741da2cd29e64838b8d855512c650259"><enum>(v)</enum><header>Administration</header><text>In administering the alternative option described in clause (i), the Secretary shall ensure that—</text> <subclause id="id81a362cb7a80405da4512cc5111b6f29"><enum>(I)</enum><text>EBT cards are issued only to children residing—</text>
+ <item id="ida15eefcae8724e6da8440b2a01fbbc46"><enum>(aa)</enum><text>in a rural area, as defined by the Secretary; or</text> </item><item id="ida5f1d950d5344fdb967286c72c89203e"><enum>(bb)</enum><text>outside an area in which poor economic conditions exist;</text>
+ </item></subclause><subclause id="id27def27c2ef845ecb69d81339cbc3605"><enum>(II)</enum><text>EBT cards are not issued in an area in which congregate feeding sites are operating until the date on which the Secretary promulgates a regulation to prevent duplication in benefits received;</text>
+ </subclause><subclause id="id441aad397ef54fec90e5525e427e3343"><enum>(III)</enum><text>not more than 2.5 percent of the amount of benefits described in clause (ii)(I) is used for administrative expenses;</text>
+ </subclause><subclause id="id54e13ea8255c49868983e3d403c24225"><enum>(IV)</enum><text>EBT cards are issued to children only through an application process developed by the Secretary; and</text>
+ </subclause><subclause id="id5a56d64a43fb4f4c8b4a3b2e1b7e32ed"><enum>(V)</enum><text>EBT cards are issued only to children who have been determined to be eligible for free or reduced price school meals under this Act and the Child Nutrition Act of 1966 (<external-xref legal-doc="usc" parsable-cite="usc/42/1771">42 U.S.C. 1771 et seq.</external-xref>).</text>
+								</subclause></clause></subparagraph><subparagraph id="id6957526a01c54406b24b798e70394992"><enum>(D)</enum><header>Off-site consumption</header>
+ <clause id="id0631d26efb5c48c5a19bbd37a71b6ad8"><enum>(i)</enum><header>In general</header><text>The Secretary shall establish an option for service institutions, beginning in summer 2018, to provide summer food service program meals for children eligible to participate in the program to consume off-site.</text>
+ </clause><clause id="id503cd5adbb674246ae5394f3d465bd76"><enum>(ii)</enum><header>Availability</header><text>The option described in clause (i) shall be available to children only when at least 1 of the following conditions is present:</text>
+ <subclause id="id4edd356d284749dc8733d1eb103e76ec"><enum>(I)</enum><text>The child lives in a rural area, as defined by the Secretary.</text> </subclause><subclause id="id40e7150a1ad34ec696597a364ed731f2"><enum>(II)</enum><text>The child lives outside an area in which poor economic conditions exist.</text>
+ </subclause><subclause id="id5345c99360054fa69c7fb35c1901d0aa"><enum>(III)</enum><text>The program is available to the child at a congregate feeding site but—</text> <item id="id77951621defc4394a61f4e41d70d4519"><enum>(aa)</enum><text>the site is closed due to extreme weather conditions;</text>
+ </item><item id="ida82cf82812064fda907b58da58ef543b"><enum>(bb)</enum><text>violence or other public safety concerns in the area prevent the child from traveling safely to the site;</text>
+ </item><item id="id1f30498776944181a7836d664ff503ec"><enum>(cc)</enum><text>the site is only open 4 or fewer days a week; or</text> </item><item id="id0a5bfaa817a344929e5bfd956ee92e53"><enum>(dd)</enum><text>the site only provides 1 meal per day.</text>
+ </item></subclause></clause><clause id="idb82424334d6c43259c9aa102de71a0ca"><enum>(iii)</enum><header>Administration</header><text>In administering the alternative option described in clause (i), the Secretary shall ensure that—</text> <subclause id="id3674a99e9b724076babc65f2faf56729"><enum>(I)</enum><text>when providing meals under the condition described in clause (ii)(III)(cc), the number of meals served to each child in a single meal service is limited to 2 meals; and</text>
+ </subclause><subclause id="id2d64078716a1460c9d90ea45873c63d1"><enum>(II)</enum><text>any meal served meets the same standards for safety and quality as a meal served at a congregate feeding site.</text>
+ </subclause></clause></subparagraph><subparagraph id="idf6437581ffc54dd09e6da8244357147f"><enum>(E)</enum><header>Scope</header><text>In implementing the alternative options described in subparagraph (A), the Secretary shall—</text> <clause id="id37b93491a4704501acd18b9f12373d7a"><enum>(i)</enum><text>permit States to operate either alternative option but prohibit States from operating both alternative delivery options simultaneously in the same area; and</text>
+ </clause><clause id="idc9dc623e93e2449ca29d7dcf43f184d9"><enum>(ii)</enum><text>permit States to implement either alternative option in some or all eligible areas in a State.</text> </clause></subparagraph><subparagraph id="id1a1c7b8ba7e54b2b9793fffbba5fa6a9"><enum>(F)</enum><header>Program integrity</header><text>Not later than October 1, 2017, the Secretary shall promulgate regulations, with an opportunity for notice and comment, to ensure the integrity of the 2 alternative options for program delivery described in this paragraph.</text></subparagraph></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="id05A57B1D0C3F4EE0953A507D67209E7C"><enum>(2)</enum><text>in subsection (n)—</text> <subparagraph id="id56A651C63169403089E05489D35FA597"><enum>(A)</enum><text>by striking <quote>and (6)</quote> and inserting <quote>(6)</quote>; and</text>
+ </subparagraph><subparagraph id="id502C02B8E73E4FE781CFB541ADF1FE1E"><enum>(B)</enum><text>by striking the period at the end and inserting <quote>; and (7) the plans of the State for using 1 or both of the alternative options for program delivery described in subsection (a)(13).</quote>.</text>
+				</subparagraph></paragraph></section></legis-body>
+</bill>
+
+

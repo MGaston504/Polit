@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H32DD251B3CFD44E29B6B97A4F03F899F" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 37 IH: Promoting Job Creation and Reducing Small Business Burdens Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 37</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="F000451">Mr. Fitzpatrick</sponsor> (for himself, <cosponsor name-id="G000565">Mr. Gosar</cosponsor>, <cosponsor name-id="B001282">Mr. Barr</cosponsor>, and <cosponsor name-id="F000458">Mr. Fincher</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name>, and in addition to the Committee on <committee-name committee-id="HAG00">Agriculture</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To make technical corrections to the Dodd-Frank Wall Street Reform and Consumer Protection Act, to
+			 enhance the ability of small and emerging growth companies to access
+			 capital through public and private markets, to reduce regulatory burdens,
+			 and for other purposes.</official-title>
+	</form>
+	<legis-body id="H3BF69017647B42D5B0DA769FF6576DFE" style="OLC">
+		<section id="H14671E0275D94E0FA0F6B8E4924FB27A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Promoting Job Creation and Reducing Small Business Burdens Act</short-title></quote>.</text>
+		</section><section id="H4A5871BA90344A649769443E47FE1261"><enum>2.</enum><header>Table of contents</header><text display-inline="no-display-inline">The table of contents for this Act is as follows:</text>
+			<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+				<toc-entry idref="H14671E0275D94E0FA0F6B8E4924FB27A" level="section">Sec. 1. Short title.</toc-entry>
+				<toc-entry idref="H4A5871BA90344A649769443E47FE1261" level="section">Sec. 2. Table of contents.</toc-entry>
+				<toc-entry idref="HED68997788164FF6888541397B073862" level="title">Title I—Business Risk Mitigation and Price Stabilization Act</toc-entry>
+				<toc-entry idref="HC8D92CC5F598409FAD59252967B858D5" level="section">Sec. 101. Margin requirements.</toc-entry>
+				<toc-entry idref="H136D2BD839C54E89BD0DCBD3AFA381FF" level="section">Sec. 102. Implementation.</toc-entry>
+				<toc-entry idref="HA7766EAC783146D3B92D21F71D4FE3E0" level="title">Title II—Treatment of affiliate transactions</toc-entry>
+				<toc-entry idref="HD4A7FBF6CF6C4CA9BB8A4078955CA8AB" level="section">Sec. 201. Treatment of affiliate transactions.</toc-entry>
+				<toc-entry idref="HF63AA557561E4F8EADDC25B50397633A" level="title">Title III—Holding Company Registration Threshold Equalization Act</toc-entry>
+				<toc-entry idref="H33CE66B1DA364AF687F620B28373720F" level="section">Sec. 301. Registration threshold for savings and loan holding companies.</toc-entry>
+				<toc-entry idref="H890858E545DE4979B9E200F061F8F9CD" level="title">Title IV—Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act </toc-entry>
+				<toc-entry idref="H3C631EFAF2C740689654EB1D8692A117" level="section">Sec. 401. Registration exemption for merger and acquisition brokers.</toc-entry>
+				<toc-entry idref="H345CC521D6CA41CFB88F4D4612999331" level="section">Sec. 402. Effective date.</toc-entry>
+				<toc-entry idref="HACD14DC29191426AA92C99EFDD3C5350" level="title">Title V—Swap Data Repository and Clearinghouse Indemnification Corrections</toc-entry>
+				<toc-entry idref="H24E7659A484F43E781309D5639956AB6" level="section">Sec. 501. Repeal of indemnification requirements.</toc-entry>
+				<toc-entry idref="HDBB5A382C0C14FBC82B52105466527FC" level="title">Title VI—Improving Access to Capital for Emerging Growth Companies Act </toc-entry>
+				<toc-entry idref="H907BB6557216482885FB9BE56469B417" level="section">Sec. 601. Filing requirement for public filing prior to public offering.</toc-entry>
+				<toc-entry idref="H6FB3D891240D4C8BB665C2C0C9E11C7C" level="section">Sec. 602. Grace period for change of status of emerging growth companies.</toc-entry>
+				<toc-entry idref="H87725F12856A4D2CBF50BDC2156487E3" level="section">Sec. 603. Simplified disclosure requirements for emerging growth companies.</toc-entry>
+				<toc-entry idref="H064413A86CFC464586FA1C790A8B8994" level="title">Title VII—Small Company Disclosure Simplification Act</toc-entry>
+				<toc-entry idref="H4384FCF927784B9CBC118A2E6AB12672" level="section">Sec. 701. Exemption from XBRL requirements for emerging growth companies and other smaller
+			 companies.</toc-entry>
+				<toc-entry idref="H3189F394E326475DA83240C77BE4F01E" level="section">Sec. 702. Analysis by the SEC.</toc-entry>
+				<toc-entry idref="H1E744CF9490F4D119E9AC9B6AB387908" level="section">Sec. 703. Report to Congress.</toc-entry>
+				<toc-entry idref="HB43239DB11CC4DB2869EE07EE67F34F8" level="section">Sec. 704. Definitions.</toc-entry>
+				<toc-entry idref="HB856794EDBCC4A899F7D72D2B001FAC2" level="title">Title VIII—Restoring Proven Financing for American Employers Act </toc-entry>
+				<toc-entry idref="H443C4E76CCD94FBFA6DC7E594B1B996E" level="section">Sec. 801. Rules of construction relating to collateralized loan obligations.</toc-entry>
+				<toc-entry idref="HFBEEC6FE3D8445479E0F3237536FD359" level="title">Title IX—SBIC Advisers Relief Act</toc-entry>
+				<toc-entry idref="H725C7F17131E4F0A8D3A540B636D0D55" level="section">Sec. 901. Advisers of SBICs and venture capital funds.</toc-entry>
+				<toc-entry idref="HAE18E86CA209408B84F808258A335BE1" level="section">Sec. 902. Advisers of SBICs and private funds.</toc-entry>
+				<toc-entry idref="HB0E6B4D8422D418C9A808DBEA261FFFA" level="section">Sec. 903. Relationship to State law.</toc-entry>
+				<toc-entry idref="HF787EB85C96640CCA833ECA8C1C6D48F" level="title">Title X—Disclosure Modernization and Simplification Act</toc-entry>
+				<toc-entry idref="HECBAB39A617949BBAEA3CDD6555AFB9A" level="section">Sec. 1001. Summary page for form 10–K.</toc-entry>
+				<toc-entry idref="HF98E2034D9204A8C88B9CF7F74E04C07" level="section">Sec. 1002. Improvement of regulation S–K.</toc-entry>
+				<toc-entry idref="H9D24DA540B39436BB6AF012873310260" level="section">Sec. 1003. Study on modernization and simplification of regulation S–K.</toc-entry>
+				<toc-entry idref="HE41E19DB8AE64CF691358C7DEFBA993D" level="title">Title XI—Encouraging Employee Ownership Act </toc-entry>
+				<toc-entry idref="HCA5FAF0C5DFF4F53AE97BCCC48768FD7" level="section">Sec. 1101. Increased threshold for disclosures relating to compensatory benefit plans.</toc-entry>
+			</toc>
+		</section><title id="HED68997788164FF6888541397B073862"><enum>I</enum><header>Business Risk Mitigation and Price Stabilization Act</header>
+			<section id="HC8D92CC5F598409FAD59252967B858D5"><enum>101.</enum><header>Margin requirements</header>
+				<subsection id="H1E5E1AEF2FC6417495A8ABA0182EFFDD"><enum>(a)</enum><header>Commodity Exchange Act amendment</header><text display-inline="yes-display-inline">Section 4s(e) of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/6s">7 U.S.C. 6s(e)</external-xref>), as added by section 731 of the
+			 Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by
+			 adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H84BEAF84E08A42EFB1A1DA5C9716B0A0" style="OLC">
+						<paragraph id="H93CEB08ABD9941D7B76FE40B31799CAE"><enum>(4)</enum><header>Applicability with respect to counterparties</header><text display-inline="yes-display-inline">The requirements of paragraphs (2)(A)(ii) and (2)(B)(ii), including the initial and variation
+			 margin requirements imposed by rules adopted pursuant to paragraphs
+			 (2)(A)(ii) and (2)(B)(ii), shall not apply to a swap in which a
+			 counterparty qualifies for an exception under section 2(h)(7)(A), or an
+			 exemption issued under section 4(c)(1) from the requirements of section
+			 2(h)(1)(A) for cooperative entities as defined in such exemption, or
+			 satisfies the criteria in section 2(h)(7)(D).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="H8391D78868DA4A87AA30B05EE9B0C9F7"><enum>(b)</enum><header>Securities Exchange Act amendment</header><text display-inline="yes-display-inline">Section 15F(e) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78o-10">15 U.S.C. 78o–10(e)</external-xref>), as added by section
+			 764(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act,
+			 is amended by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H2B8C6DA496424F40914DA8BF57C74ED5" style="OLC">
+						<paragraph id="H4916F411BEA34D03BD888CE8ACB0CAB1"><enum>(4)</enum><header>Applicability with respect to counterparties</header><text display-inline="yes-display-inline">The requirements of paragraphs (2)(A)(ii) and (2)(B)(ii) shall not apply to a security-based swap
+			 in which a counterparty qualifies for an exception under section 3C(g)(1)
+			 or satisfies the criteria in section 3C(g)(4).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection></section><section display-inline="no-display-inline" id="H136D2BD839C54E89BD0DCBD3AFA381FF" section-type="subsequent-section"><enum>102.</enum><header>Implementation</header><text display-inline="no-display-inline">The amendments made by this title to the Commodity Exchange Act shall be implemented—</text>
+				<paragraph id="H181411FA8036495F98C7AD270C4D0A14"><enum>(1)</enum><text>without regard to—</text>
+					<subparagraph id="HE99F03AA0B1B4C7EAEEBD51E2936FCA9"><enum>(A)</enum><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/35">chapter 35</external-xref> of title 44, United States Code; and</text>
+					</subparagraph><subparagraph id="H35B5C401B6AE4DB795762A7EA9353B51"><enum>(B)</enum><text>the notice and comment provisions of <external-xref legal-doc="usc" parsable-cite="usc/5/553">section 553</external-xref> of title 5, United States Code;</text>
+					</subparagraph></paragraph><paragraph id="H1C40577DB15E4CADB4699BFD7E2EC806"><enum>(2)</enum><text>through the promulgation of an interim final rule, pursuant to which public comment will be sought
+			 before a final rule is issued; and</text>
+				</paragraph><paragraph id="HF3F25CFD4994414C9FD943F865ED68F9"><enum>(3)</enum><text>such that paragraph (1) shall apply solely to changes to rules and regulations, or proposed rules
+			 and regulations, that are limited to and directly a consequence of such
+			 amendments.</text>
+				</paragraph></section></title><title id="HA7766EAC783146D3B92D21F71D4FE3E0"><enum>II</enum><header>Treatment of affiliate transactions</header>
+			<section display-inline="no-display-inline" id="HD4A7FBF6CF6C4CA9BB8A4078955CA8AB" section-type="subsequent-section"><enum>201.</enum><header>Treatment of affiliate transactions</header>
+				<subsection id="HDB9B25A5165341A19AFE77EC59330629"><enum>(a)</enum><header>In general</header>
+					<paragraph id="H0A93C4EE10AE49738CDD694E36A55533"><enum>(1)</enum><header>Commodity Exchange Act amendment</header><text>Section 2(h)(7)(D)(i) of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/2">7 U.S.C. 2(h)(7)(D)(i)</external-xref>) is amended to read as
+			 follows:</text>
+						<quoted-block id="H42C1DAEDF7824BA9AC092AD28AB31C40" style="OLC">
+							<clause id="H1002752350BA456D9658D99536D49B65"><enum>(i)</enum><header>In general</header><text>An affiliate of a person that qualifies for an exception under subparagraph (A) (including
+			 affiliate entities predominantly engaged in providing financing for the
+			 purchase of the merchandise or manufactured goods of the person) may
+			 qualify for the exception only if the affiliate enters into the swap to
+			 hedge or mitigate the commercial risk of the person or other affiliate of
+			 the person that is not a financial entity, provided that if the hedge or
+			 mitigation of such commercial risk is addressed by entering into a swap
+			 with a swap dealer or major swap participant, an appropriate credit
+			 support measure or other mechanism must be utilized.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph><paragraph id="H8B3A366A9ADA4626BC15D21585652BB1"><enum>(2)</enum><header>Securities Exchange Act of 1934 amendment</header><text>Section 3C(g)(4)(A) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c-3">15 U.S.C. 78c–3(g)(4)(A)</external-xref>) is amended to
+			 read as follows:</text>
+						<quoted-block id="HCF7BB1F301CF4F90813218238E81C2F6" style="OLC">
+							<subparagraph id="HFC6E0EEEBFBD42F9B7EEC2632F838512"><enum>(A)</enum><header>In general</header><text>An affiliate of a person that qualifies for an exception under paragraph (1) (including affiliate
+			 entities predominantly engaged in providing financing for the purchase of
+			 the merchandise or manufactured goods of the person) may qualify for the
+			 exception only if the affiliate enters into the security-based swap to
+			 hedge or mitigate the commercial risk of the person or other affiliate of
+			 the person that is not a financial entity, provided that if the hedge or
+			 mitigation such commercial risk is addressed by entering into a
+			 security-based swap with a security-based swap dealer or major
+			 security-based swap participant, an appropriate credit support measure or
+			 other mechanism must be utilized.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection id="H8E0DDA8089674AAC9D546655923CB76C"><enum>(b)</enum><header>Applicability of credit support measure requirement</header><text>The requirements in section 2(h)(7)(D)(i) of the Commodity Exchange Act and section 3C(g)(4)(A) of
+			 the Securities Exchange Act of 1934, as amended by subsection (a),
+			 requiring that a credit support measure or other mechanism be utilized if
+			 the transfer of commercial risk referred to in such sections is addressed
+			 by entering into a swap with a swap dealer or major swap participant or a
+			 security-based swap with a security-based swap dealer or major
+			 security-based swap participant, as appropriate, shall not apply with
+			 respect to swaps or security-based swaps, as appropriate, entered into
+			 before the date of the enactment of this Act.</text>
+				</subsection></section></title><title id="HF63AA557561E4F8EADDC25B50397633A"><enum>III</enum><header>Holding Company Registration Threshold Equalization Act</header>
+			<section id="H33CE66B1DA364AF687F620B28373720F"><enum>301.</enum><header>Registration threshold for savings and loan holding companies</header><text display-inline="no-display-inline">The Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78a">15 U.S.C. 78a et seq.</external-xref>) is amended—</text>
+				<paragraph id="H53FE77FEF03048888F84A00F893C130E"><enum>(1)</enum><text>in section 12(g)—</text>
+					<subparagraph id="H968B2CB8FA5E4CBAA050A6A9B43ED654"><enum>(A)</enum><text>in paragraph (1)(B), by inserting after <quote>is a bank</quote> the following: <quote>, a savings and loan holding company (as defined in section 10 of the Home Owners' Loan Act),</quote>; and</text>
+					</subparagraph><subparagraph id="H9118E018A0734A3D90B276ED5AF67EA4"><enum>(B)</enum><text display-inline="yes-display-inline">in paragraph (4), by inserting after <quote>case of a bank</quote> the following: <quote>, a savings and loan holding company (as defined in section 10 of the Home Owners' Loan Act),</quote>; and</text>
+					</subparagraph></paragraph><paragraph id="H7E1551D6BB204E059BFF7FD0C31E4BC3"><enum>(2)</enum><text display-inline="yes-display-inline">in section 15(d), by striking <quote>case of bank</quote> and inserting the following: <quote>case of a bank, a savings and loan holding company (as defined in section 10 of the Home Owners'
+			 Loan Act),</quote>.</text>
+				</paragraph></section></title><title id="H890858E545DE4979B9E200F061F8F9CD"><enum>IV</enum><header>Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act </header>
+			<section id="H3C631EFAF2C740689654EB1D8692A117"><enum>401.</enum><header>Registration exemption for merger and acquisition brokers</header><text display-inline="no-display-inline">Section 15(b) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78o">15 U.S.C. 78o(b)</external-xref>) is amended by adding at the
+			 end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H09CE7F0A8C064C3F8B48FFDC57E16BD2" style="OLC">
+					<paragraph id="H56101556700942D18D3D0E535B5E72FD"><enum>(13)</enum><header>Registration exemption for merger and acquisition brokers</header>
+						<subparagraph id="H3BF32D7B95EC43AAB01CA8170905DDA1"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Except as provided in subparagraph (B), an M&amp;A broker shall be exempt from registration under this section.</text>
+						</subparagraph><subparagraph id="HAF4178283CB14A428EB63A1AD5B4E868"><enum>(B)</enum><header>Excluded activities</header><text display-inline="yes-display-inline">An M&amp;A broker is not exempt from registration under this paragraph if such broker does any of the
+			 following:</text>
+							<clause id="H4C32B1E0782446E28E90F1F1AD987595"><enum>(i)</enum><text>Directly or indirectly, in connection with the transfer of ownership of an eligible privately held
+			 company, receives, holds, transmits, or has custody of the funds or
+			 securities to be exchanged by the parties to the transaction.</text>
+							</clause><clause id="H05AC7FE079DA43DA8074CB78D156CF52"><enum>(ii)</enum><text>Engages on behalf of an issuer in a public offering of any class of securities that is registered,
+			 or is required to be registered, with the Commission under section 12 or
+			 with respect to which the issuer files, or is required to file, periodic
+			 information, documents, and reports under subsection (d).</text>
+							</clause></subparagraph><subparagraph id="HD51158CFB77C4435BFF9DA85116EF037"><enum>(C)</enum><header>Rule of construction</header><text display-inline="yes-display-inline">Nothing in this paragraph shall be construed to limit any other authority of the Commission to
+			 exempt any person, or any class of persons, from any provision of this
+			 title, or from any provision of any rule or regulation thereunder.</text>
+						</subparagraph><subparagraph id="HF5613A9E3F3A4FAF8994BD4B8B816F0B"><enum>(D)</enum><header>Definitions</header><text>In this paragraph:</text>
+							<clause id="HF85AC049786B4A2FB668A97C7ECD7BE8"><enum>(i)</enum><header>Control</header><text display-inline="yes-display-inline">The term <quote>control</quote> means the power, directly or indirectly, to direct the management or policies of a company,
+			 whether through ownership of securities, by contract, or otherwise. There
+			 is a presumption of control for any person who—</text>
+								<subclause id="H62812873B24540E79AF0DD2CAC7CF9F5"><enum>(I)</enum><text>is a director, general partner, member or manager of a limited liability company, or officer
+			 exercising executive responsibility (or has similar status or functions);</text>
+								</subclause><subclause id="HA035B69874C942BDAB43B4EA605F0C90"><enum>(II)</enum><text>has the right to vote 20 percent or more of a class of voting securities or the power to sell or
+			 direct the sale of 20 percent or more of a class of voting securities; or</text>
+								</subclause><subclause id="H0E5E7C72CE66423296468859FAB041E9"><enum>(III)</enum><text>in the case of a partnership or limited liability company, has the right to receive upon
+			 dissolution, or has contributed, 20 percent or more of the capital.</text>
+								</subclause></clause><clause id="HB875FB3170544CFCB0417383CA1C1A36"><enum>(ii)</enum><header>Eligible privately held company</header><text>The term <quote>eligible privately held company</quote> means a company that meets both of the following conditions:</text>
+								<subclause id="HA94722789CED46EDAD8DAE896FD248BB"><enum>(I)</enum><text>The company does not have any class of securities registered, or required to be registered, with
+			 the Commission under section 12 or with respect to which the company
+			 files, or is required to file, periodic information, documents, and
+			 reports under subsection (d).</text>
+								</subclause><subclause id="HC4D07F11A07047DD8C71C737264F76DD"><enum>(II)</enum><text display-inline="yes-display-inline">In the fiscal year ending immediately before the fiscal year in which the services of the M&amp;A broker are initially engaged with respect to the securities transaction, the company meets either
+			 or both of the following conditions (determined in accordance with the
+			 historical financial accounting records of the company):</text>
+									<item id="H6C608453D78C49CEB7FF53400212F621"><enum>(aa)</enum><text>The earnings of the company before interest, taxes, depreciation, and amortization are less than
+			 $25,000,000.</text>
+									</item><item id="H003B267239334437AEF99C8E79579922"><enum>(bb)</enum><text>The gross revenues of the company are less than $250,000,000.</text>
+									</item></subclause></clause><clause commented="no" id="HF25304B5E43B42F389548822BFF4DCC4"><enum>(iii)</enum><header>M&amp;A broker</header><text>The term <quote>M&amp;A broker</quote> means a broker, and any person associated with a broker, engaged in the business of effecting
+			 securities transactions solely in connection with the transfer of
+			 ownership of an eligible privately held company, regardless of whether the
+			 broker acts on behalf of a seller or buyer, through the purchase, sale,
+			 exchange, issuance, repurchase, or redemption of, or a business
+			 combination involving, securities or assets of the eligible privately held
+			 company, if the broker reasonably believes that—</text>
+								<subclause commented="no" id="H12DE82BE7B3E4101B8FCBC9D5081C9A2"><enum>(I)</enum><text display-inline="yes-display-inline">upon consummation of the transaction, any person acquiring securities or assets of the eligible
+			 privately held company, acting alone or in concert, will control and,
+			 directly or indirectly, will be active in the management of the eligible
+			 privately held company or the business conducted with the assets of the
+			 eligible privately held company; and</text>
+								</subclause><subclause commented="no" id="HC5D390409CDF456BB1A9B33E785A5268"><enum>(II)</enum><text display-inline="yes-display-inline">if any person is offered securities in exchange for securities or assets of the eligible privately
+			 held company, such person will, prior to becoming legally bound to
+			 consummate the transaction, receive or have reasonable access to the most
+			 recent year-end balance sheet, income statement, statement of changes in
+			 financial position, and statement of owner’s equity of the issuer of the
+			 securities offered in exchange, and, if the financial statements of the
+			 issuer are audited, the related report of the independent auditor, a
+			 balance sheet dated not more than 120 days before the date of the offer,
+			 and information pertaining to the management, business, results of
+			 operations for the period covered by the foregoing financial statements,
+			 and material loss contingencies of the issuer.</text>
+								</subclause></clause></subparagraph><subparagraph id="HC4D4D643DE1949FA9D745053C60B93F5"><enum>(E)</enum><header>Inflation adjustment</header>
+							<clause id="H4138136D02B7429CA6C6AE111F6AC787"><enum>(i)</enum><header>In general</header><text display-inline="yes-display-inline">On the date that is 5 years after the date of the enactment of this paragraph, and every 5 years
+			 thereafter, each dollar amount in subparagraph (D)(ii)(II) shall be
+			 adjusted by—</text>
+								<subclause id="H2A52FCB2A3524A62B1E590DB42B54F41"><enum>(I)</enum><text display-inline="yes-display-inline">dividing the annual value of the Employment Cost Index For Wages and Salaries, Private Industry
+			 Workers (or any successor index), as published by the Bureau of Labor
+			 Statistics, for the calendar year preceding the calendar year in which the
+			 adjustment is being made by the annual value of such index (or successor)
+			 for the calendar year ending December 31, 2014; and</text>
+								</subclause><subclause id="HA5FC5AE98E9649C28A82750195B344FA"><enum>(II)</enum><text>multiplying such dollar amount by the quotient obtained under subclause (I).</text>
+								</subclause></clause><clause id="H18C09788134848CBA06776E1F8903FEC"><enum>(ii)</enum><header>Rounding</header><text>Each dollar amount determined under clause (i) shall be rounded to the nearest multiple of
+			 $100,000.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</section><section id="H345CC521D6CA41CFB88F4D4612999331"><enum>402.</enum><header>Effective date</header><text display-inline="no-display-inline">This Act and any amendment made by this Act shall take effect on the date that is 90 days after the
+			 date of the enactment of this Act.</text>
+			</section></title><title id="HACD14DC29191426AA92C99EFDD3C5350"><enum>V</enum><header>Swap Data Repository and Clearinghouse Indemnification Corrections</header>
+			<section id="H24E7659A484F43E781309D5639956AB6"><enum>501.</enum><header>Repeal of indemnification requirements</header>
+				<subsection id="HD786361A64214FA49FF42957584460B2"><enum>(a)</enum><header>Derivatives clearing organizations</header><text display-inline="yes-display-inline">Section 5b(k)(5) of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/7a-1">7 U.S.C. 7a–1(k)(5)</external-xref>) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="H90756DC20BD74B7A92CB156509DD5579" style="OLC">
+						<paragraph id="H3E3F17B54F5747B8B83BF0DF7CC98DDA"><enum>(5)</enum><header>Confidentiality agreement</header><text display-inline="yes-display-inline">Before the Commission may share information with any entity described in paragraph (4), the
+			 Commission shall receive a written agreement from each entity stating that
+			 the entity shall abide by the confidentiality requirements described in
+			 section 8 relating to the information on swap transactions that is
+			 provided.</text>
+						</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="H348EA02D79D045C29EF41DBC94E12BEF"><enum>(b)</enum><header>Swap data repositories</header><text>Section 21(d) of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/24a">7 U.S.C. 24a(d)</external-xref>) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="HBEE2E9934A524046BE95E427FC78EFDA" style="OLC">
+						<subsection id="HA7887AD1BEDF46658D3DCBD73E991860"><enum>(d)</enum><header>Confidentiality agreement</header><text display-inline="yes-display-inline">Before the swap data repository may share information with any entity described in subsection
+			 (c)(7), the swap data repository shall receive a written agreement from
+			 each entity stating that the entity shall abide by the confidentiality
+			 requirements described in section 8 relating to the information on swap
+			 transactions that is provided.</text>
+						</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="HE26CAAC122C541CE861FFB9776B4EBFB"><enum>(c)</enum><header>Security-Based swap data repositories</header><text>Section 13(n)(5)(H) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78m">15 U.S.C. 78m(n)(5)(H)</external-xref>) is amended to
+			 read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="H477AC8DC5C894D168ADA6EED1D936B48" style="OLC">
+						<subparagraph id="H80EA1C5ED52C4E869D86A7B0B2583CE4"><enum>(H)</enum><header>Confidentiality agreement</header><text display-inline="yes-display-inline">Before the security-based swap data repository may share information with any entity described in
+			 subparagraph (G), the security-based swap data repository shall receive a
+			 written agreement from each entity stating that the entity shall abide by
+			 the confidentiality requirements described in section 24 relating to the
+			 information on security-based swap transactions that is provided.</text>
+						</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="H09D1B1E310C84A7287DA08E84939AB30"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this Act shall take effect as if enacted as part of the Dodd-Frank Wall
+			 Street Reform and Consumer Protection Act (<external-xref legal-doc="public-law" parsable-cite="pl/111/203">Public Law 111–203</external-xref>) on July 21,
+			 2010.</text>
+				</subsection></section></title><title id="HDBB5A382C0C14FBC82B52105466527FC"><enum>VI</enum><header>Improving Access to Capital for Emerging Growth Companies Act </header>
+			<section id="H907BB6557216482885FB9BE56469B417"><enum>601.</enum><header>Filing requirement for public filing prior to public offering</header><text display-inline="no-display-inline">Section 6(e)(1) of the Securities Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/15/77f">15 U.S.C. 77f(e)(1)</external-xref>) is amended by striking <quote>21 days</quote> and inserting <quote>15 days</quote>.</text>
+			</section><section id="H6FB3D891240D4C8BB665C2C0C9E11C7C"><enum>602.</enum><header>Grace period for change of status of emerging growth companies</header><text display-inline="no-display-inline">Section 6(e)(1) of the Securities Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/15/77f">15 U.S.C. 77f(e)(1)</external-xref>) is further amended by adding at
+			 the end the following: <quote>An issuer that was an emerging growth company at the time it submitted a confidential registration
+			 statement or, in lieu thereof, a publicly filed registration statement for
+			 review under this subsection but ceases to be an emerging growth company
+			 thereafter shall continue to be treated as an emerging market growth
+			 company for the purposes of this subsection through the earlier of the
+			 date on which the issuer consummates its initial public offering pursuant
+			 to such registrations statement or the end of the 1-year period beginning
+			 on the date the company ceases to be an emerging growth company.</quote>.</text>
+			</section><section id="H87725F12856A4D2CBF50BDC2156487E3"><enum>603.</enum><header>Simplified disclosure requirements for emerging growth companies</header><text display-inline="no-display-inline">Section 102 of the Jumpstart Our Business Startups Act (<external-xref legal-doc="public-law" parsable-cite="pl/112/106">Public Law 112–106</external-xref>) is amended by adding at
+			 the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HEECFE70EF0DF4CAE9DB379094C9DF2D2" style="OLC">
+					<subsection commented="no" id="HD0AEF8274A3848E8908064AC16565EE5"><enum>(d)</enum><header>Simplified disclosure requirements</header><text display-inline="yes-display-inline">With respect to an emerging growth company (as such term is defined under section 2 of the
+			 Securities Act of 1933):</text>
+						<paragraph id="H440A7328FDFC41A6895BCEBB28E9E154"><enum>(1)</enum><header>Requirement to include notice on form S–1</header><text>Not later than 30 days after the date of enactment of this subsection, the Securities and Exchange
+			 Commission shall revise its general instructions on Form S–1 to indicate
+			 that a registration statement filed (or submitted for confidential review)
+			 by an issuer prior to an initial public offering may omit financial
+			 information for historical periods otherwise required by regulation S–X
+			 (17 C.F.R. 210.1–01 et seq.) as of the time of filing (or confidential
+			 submission) of such registration statement, provided that—</text>
+							<subparagraph id="HAF4F21E3BEE64766858447EC42E6D5C8"><enum>(A)</enum><text display-inline="yes-display-inline">the omitted financial information relates to a historical period that the issuer reasonably
+			 believes will not be required to be included in the Form S–1 at the time
+			 of the contemplated offering; and</text>
+							</subparagraph><subparagraph id="HFF7CA4C9279A42F596984E70F89505D1"><enum>(B)</enum><text>prior to the issuer distributing a preliminary prospectus to investors, such registration statement
+			 is amended to include all financial information required by such
+			 regulation S–X at the date of such amendment.</text>
+							</subparagraph></paragraph><paragraph id="H668FB53F62F540F4B3731DCBBEED2431"><enum>(2)</enum><header>Reliance by issuers</header><text display-inline="yes-display-inline">Effective 30 days after the date of enactment of this subsection, an issuer filing a registration
+			 statement (or submitting the statement for confidential review) on Form
+			 S–1 may omit financial information for historical periods otherwise
+			 required by regulation S–X (17 C.F.R. 210.1–01 et seq.) as of the time of
+			 filing (or confidential submission) of such registration statement,
+			 provided that—</text>
+							<subparagraph id="HD9D7E6754BE745E48251FF2E44DADDDE"><enum>(A)</enum><text display-inline="yes-display-inline">the omitted financial information relates to a historical period that the issuer reasonably
+			 believes will not be required to be included in the Form S–1 at the time
+			 of the contemplated offering; and</text>
+							</subparagraph><subparagraph id="HA34CEF0C27DE4D87B237286C6B81BC89"><enum>(B)</enum><text>prior to the issuer distributing a preliminary prospectus to investors, such registration statement
+			 is amended to include all financial information required by such
+			 regulation S–X at the date of such amendment.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</section></title><title id="H064413A86CFC464586FA1C790A8B8994"><enum>VII</enum><header>Small Company Disclosure Simplification Act</header>
+			<section id="H4384FCF927784B9CBC118A2E6AB12672"><enum>701.</enum><header>Exemption from XBRL requirements for emerging growth companies and other smaller companies</header>
+				<subsection id="HC3D74B2EAA084542853E78C15A55CCDF"><enum>(a)</enum><header>Exemption for emerging growth companies</header><text display-inline="yes-display-inline">Emerging growth companies are exempted from the requirements to use Extensible Business Reporting
+			 Language (XBRL) for financial statements and other periodic reporting
+			 required to be filed with the Commission under the securities laws. Such
+			 companies may elect to use XBRL for such reporting.</text>
+				</subsection><subsection id="HE41FE5D4A840434D89CB62A7D31968C7"><enum>(b)</enum><header>Exemption for other smaller companies</header><text display-inline="yes-display-inline">Issuers with total annual gross revenues of less than $250,000,000 are exempt from the requirements
+			 to use XBRL for financial statements and other periodic reporting required
+			 to be filed with the Commission under the securities laws. Such issuers
+			 may elect to use XBRL for such reporting. An exemption under this
+			 subsection shall continue in effect until—</text>
+					<paragraph id="HE68E2B0DE5A84127BC224DFE8B5C3DA4"><enum>(1)</enum><text display-inline="yes-display-inline">the date that is five years after the date of enactment of this Act; or</text>
+					</paragraph><paragraph id="H7EBE4C0D91464FF4B35594267DC1E6C1"><enum>(2)</enum><text display-inline="yes-display-inline">the date that is two years after a determination by the Commission, by order after conducting the
+			 analysis required by section 702, that the benefits of such requirements
+			 to such issuers outweigh the costs, but no earlier than three years after
+			 enactment of this Act.</text>
+					</paragraph></subsection><subsection id="H10A94511BEA9454489289A2C5133697C"><enum>(c)</enum><header>Modifications to regulations</header><text display-inline="yes-display-inline">Not later than 60 days after the date of enactment of this Act, the Commission shall revise its
+			 regulations under parts 229, 230, 232, 239, 240, and 249 of title 17, Code
+			 of Federal Regulations, to reflect the exemptions set forth in subsections
+			 (a) and (b).</text>
+				</subsection></section><section id="H3189F394E326475DA83240C77BE4F01E"><enum>702.</enum><header>Analysis by the SEC</header><text display-inline="no-display-inline">The Commission shall conduct an analysis of the costs and benefits to issuers described in section
+			 701(b) of the requirements to use XBRL for financial statements and other
+			 periodic reporting required to be filed with the Commission under the
+			 securities laws. Such analysis shall include an assessment of—</text>
+				<paragraph id="H12955F455688485C86ED8A88FBF766FF"><enum>(1)</enum><text display-inline="yes-display-inline">how such costs and benefits may differ from the costs and benefits identified by the Commission in
+			 the order relating to interactive data to improve financial reporting
+			 (dated January 30, 2009; 74 Fed. Reg. 6776) because of the size of such
+			 issuers;</text>
+				</paragraph><paragraph id="H980921B0E73F4DC1B368ECC1A0F9BB4F"><enum>(2)</enum><text>the effects on efficiency, competition, capital formation, and financing and on analyst coverage of
+			 such issuers (including any such effects resulting from use of XBRL by
+			 investors);</text>
+				</paragraph><paragraph id="H3827952F1478447F9ED8CDA5360831FE"><enum>(3)</enum><text>the costs to such issuers of—</text>
+					<subparagraph id="HEF2AB340E5C54940A969F3CA51706925"><enum>(A)</enum><text>submitting data to the Commission in XBRL;</text>
+					</subparagraph><subparagraph id="HB75F299D59434B63A81E46EAB03AF546"><enum>(B)</enum><text>posting data on the website of the issuer in XBRL;</text>
+					</subparagraph><subparagraph id="H0581F3E29677458288EE57722F76A84A"><enum>(C)</enum><text>software necessary to prepare, submit, or post data in XBRL; and</text>
+					</subparagraph><subparagraph id="H576C45E81C2349E091CC9EA88214B70B"><enum>(D)</enum><text>any additional consulting services or filing agent services;</text>
+					</subparagraph></paragraph><paragraph id="HE258BA07687849969A7B0D855BB99740"><enum>(4)</enum><text display-inline="yes-display-inline">the benefits to the Commission in terms of improved ability to monitor securities markets, assess
+			 the potential outcomes of regulatory alternatives, and enhance investor
+			 participation in corporate governance and promote capital formation; and</text>
+				</paragraph><paragraph id="H90F7EFA61D2E4DD783D7ED2298DF2B60"><enum>(5)</enum><text>the effectiveness of standards in the United States for interactive filing data relative to the
+			 standards of international counterparts.</text>
+				</paragraph></section><section id="H1E744CF9490F4D119E9AC9B6AB387908"><enum>703.</enum><header>Report to Congress</header><text display-inline="no-display-inline">Not later than one year after the date of enactment of this Act, the Commission shall provide the
+			 Committee on Financial Services of the House of Representatives and the
+			 Committee on Banking, Housing, and Urban Affairs of the Senate a report
+			 regarding—</text>
+				<paragraph id="HA99DE94F0E074CE48575169D3C5AF2BE"><enum>(1)</enum><text>the progress in implementing XBRL reporting within the Commission;</text>
+				</paragraph><paragraph id="HF5DDB013429E4350B4932B2E855A2051"><enum>(2)</enum><text>the use of XBRL data by Commission officials;</text>
+				</paragraph><paragraph id="HCA2A57E5A0A54B368025467EF31BADF1"><enum>(3)</enum><text>the use of XBRL data by investors;</text>
+				</paragraph><paragraph id="HFB04BFDD6EDF45219A1D363D98FBFD75"><enum>(4)</enum><text>the results of the analysis required by section 702; and</text>
+				</paragraph><paragraph id="H61BAA0AAED0D487CB88AAF46F8D8276D"><enum>(5)</enum><text>any additional information the Commission considers relevant for increasing transparency,
+			 decreasing costs, and increasing efficiency of regulatory filings with the
+			 Commission.</text>
+				</paragraph></section><section id="HB43239DB11CC4DB2869EE07EE67F34F8"><enum>704.</enum><header>Definitions</header><text display-inline="no-display-inline">As used in this title, the terms <term>Commission</term>, <term>emerging growth company</term>, <term>issuer</term>, and <term>securities laws</term> have the meanings given such terms in section 3 of the Securities Exchange Act of 1934 (15 U.S.C.
+			 78c).</text>
+			</section></title><title id="HB856794EDBCC4A899F7D72D2B001FAC2"><enum>VIII</enum><header>Restoring Proven Financing for American Employers Act </header>
+			<section id="H443C4E76CCD94FBFA6DC7E594B1B996E"><enum>801.</enum><header>Rules of construction relating to collateralized loan obligations</header><text display-inline="no-display-inline">Section 13(c)(2) of the Bank Holding Company Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/12/1851">12 U.S.C. 1851(c)(2)</external-xref>) is amended—</text>
+				<paragraph id="HFBBE8C339DC2411F804D8E68F783D7DD"><enum>(1)</enum><text display-inline="yes-display-inline">by striking <quote>A banking entity or nonbank financial company supervised by the Board</quote> and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="HEABD19F41B3E4C56BB9DDC25B7ACF7CC" style="OLC">
+						<subparagraph id="H92586F268EDA4C8CAF0B8B6251451B9D"><enum>(A)</enum><header>General conformance period</header><text display-inline="yes-display-inline">A banking entity or nonbank financial company supervised by the Board</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="H771212F2C8494C778A418A18A5150206"><enum>(2)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H74147E6D99934BECADC677324580EBDA" style="OLC">
+						<subparagraph id="HF0D9F18A4AD543A3BCD1021D118B1349"><enum>(B)</enum><header>Conformance period for certain collateralized loan obligations</header>
+							<clause id="HFDB59D51309E4E1D9576B9113048C20F"><enum>(i)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding subparagraph (A), a banking entity or nonbank financial company supervised by the
+			 Board shall bring its activities related to or investments in a debt
+			 security of a collateralized loan obligation issued before January 31,
+			 2014, into compliance with the requirements of subsection (a)(1)(B) and
+			 any applicable rules relating to subsection (a)(1)(B) not later than July
+			 21, 2019.</text>
+							</clause><clause id="H578267B626E04EDBB585BAED3733F35A"><enum>(ii)</enum><header>Collateralized loan obligation</header><text display-inline="yes-display-inline">For purposes of this subparagraph, the term <term>collateralized loan obligation</term> means any issuing entity of an asset-backed security, as defined in section 3(a)(77) of the
+			 Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c(a)(77)</external-xref>), that is comprised
+			 primarily of commercial loans.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></section></title><title id="HFBEEC6FE3D8445479E0F3237536FD359"><enum>IX</enum><header>SBIC Advisers Relief Act</header>
+			<section commented="no" id="H725C7F17131E4F0A8D3A540B636D0D55"><enum>901.</enum><header>Advisers of SBICs and venture capital funds</header><text display-inline="no-display-inline">Section 203(l) of the Investment Advisers Act of 1940 (<external-xref legal-doc="usc" parsable-cite="usc/15/80b-3">15 U.S.C. 80b–3(l)</external-xref>) is amended—</text>
+				<paragraph id="HFE9B980944D243088F335AAE86F78B00"><enum>(1)</enum><text>by striking <quote>No investment adviser</quote> and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H6BEE3AB7E6B34B11A2F05809C99F49D2" style="OLC">
+						<paragraph id="H15AA5A14359D4A20A30E6024846C9842"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">No investment adviser</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="H31954D3BC0C24E0B8E5C48106749E42D"><enum>(2)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H00902D8BFACC4089BA6870CCDFC91D60" style="OLC">
+						<paragraph id="H012ABE286485467E8337D974F9322F78"><enum>(2)</enum><header>Advisers of SBICs</header><text display-inline="yes-display-inline">For purposes of this subsection, a venture capital fund includes an entity described in
+			 subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity
+			 that has elected to be regulated or is regulated as a business development
+			 company pursuant to section 54 of the Investment Company Act of 1940).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></section><section id="HAE18E86CA209408B84F808258A335BE1"><enum>902.</enum><header>Advisers of SBICs and private funds</header><text display-inline="no-display-inline">Section 203(m) of the Investment Advisers Act of 1940 (<external-xref legal-doc="usc" parsable-cite="usc/15/80b-3">15 U.S.C. 80b–3(m)</external-xref>) is amended by adding at
+			 the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H4D675C0366B04CA18B642DDAFB3D2487" style="OLC">
+					<paragraph id="H27F50E04F7A74FB0B15065CD8054B71E"><enum>(3)</enum><header>Advisers of SBICs</header><text display-inline="yes-display-inline">For purposes of this subsection, the assets under management of a private fund that is an entity
+			 described in subparagraph (A), (B), or (C) of subsection (b)(7) (other
+			 than an entity that has elected to be regulated or is regulated as a
+			 business development company pursuant to section 54 of the Investment
+			 Company Act of 1940) shall be excluded from the limit set forth in
+			 paragraph (1).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</section><section id="HB0E6B4D8422D418C9A808DBEA261FFFA"><enum>903.</enum><header>Relationship to State law</header><text display-inline="no-display-inline">Section 203A(b)(1) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3a(b)(1)) is amended—</text>
+				<paragraph id="H9AFD391D7D9947A78071AC63650FAD3D"><enum>(1)</enum><text>in subparagraph (A), by striking <quote>or</quote> at the end;</text>
+				</paragraph><paragraph id="HE742D35CB8FE48849CFECDFD0E60FB76"><enum>(2)</enum><text>in subparagraph (B), by striking the period at the end and inserting <quote>; or</quote>; and</text>
+				</paragraph><paragraph id="H1B63A74508F94334AFA5CE87D0155269"><enum>(3)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="HB8257EB8D09F4DA1A27B0A86654AB027" style="OLC">
+						<subparagraph id="HA6B27FA6A13E459CB1D23F933C57BE29"><enum>(C)</enum><text display-inline="yes-display-inline">that is not registered under section 203 because that person is exempt from registration as
+			 provided in subsection (b)(7) of such section, or is a supervised person
+			 of such person.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></section></title><title id="HF787EB85C96640CCA833ECA8C1C6D48F"><enum>X</enum><header>Disclosure Modernization and Simplification Act</header>
+			<section id="HECBAB39A617949BBAEA3CDD6555AFB9A"><enum>1001.</enum><header>Summary page for form 10–K</header><text display-inline="no-display-inline">Not later than the end of the 180-day period beginning on the date of the enactment of this Act,
+			 the Securities and Exchange Commission shall issue regulations to permit
+			 issuers to submit a summary page on form 10–K (17 C.F.R. 249.310), but
+			 only if each item on such summary page includes a cross-reference (by
+			 electronic link or otherwise) to the material contained in form 10–K to
+			 which such item relates.</text>
+			</section><section id="HF98E2034D9204A8C88B9CF7F74E04C07"><enum>1002.</enum><header>Improvement of regulation S–K</header><text display-inline="no-display-inline">Not later than the end of the 180-day period beginning on the date of the enactment of this Act,
+			 the Securities and Exchange Commission shall take all such actions to
+			 revise regulation S–K (17 C.F.R. 229.10 et seq.)—</text>
+				<paragraph id="HB05721DDBD6A4D879D6C2DCA199F0119"><enum>(1)</enum><text display-inline="yes-display-inline">to further scale or eliminate requirements of regulation S–K, in order to reduce the burden on
+			 emerging growth companies, accelerated filers, smaller reporting
+			 companies, and other smaller issuers, while still providing all material
+			 information to investors;</text>
+				</paragraph><paragraph id="HDD4C191846434D6898C729649DA857B4"><enum>(2)</enum><text>to eliminate provisions of regulation S–K, required for all issuers, that are duplicative,
+			 overlapping, outdated, or unnecessary; and</text>
+				</paragraph><paragraph id="H7A62275380A742A19CACD2AFB71BBFEA"><enum>(3)</enum><text display-inline="yes-display-inline">for which the Commission determines that no further study under section 1003 is necessary to
+			 determine the efficacy of such revisions to regulation S–K.</text>
+				</paragraph></section><section id="H9D24DA540B39436BB6AF012873310260"><enum>1003.</enum><header>Study on modernization and simplification of regulation S–K</header>
+				<subsection id="HE924F89204124315AD3F486CE3B44A04"><enum>(a)</enum><header>Study</header><text display-inline="yes-display-inline">The Securities and Exchange Commission shall carry out a study of the requirements contained in
+			 regulation S–K (17 C.F.R. 229.10 et seq.). Such study shall—</text>
+					<paragraph id="HB191F088F6A14723A8689297CA20C5D2"><enum>(1)</enum><text>determine how best to modernize and simplify such requirements in a manner that reduces the costs
+			 and burdens on issuers while still providing all material information;</text>
+					</paragraph><paragraph id="H1128202323D24588A37B655E46BF3D3A"><enum>(2)</enum><text display-inline="yes-display-inline">emphasize a company by company approach that allows relevant and material information to be
+			 disseminated to investors without boilerplate language or static
+			 requirements while preserving completeness and comparability of
+			 information across registrants; and</text>
+					</paragraph><paragraph id="H383550E9B2934CB8A5A0983338B8EFD9"><enum>(3)</enum><text display-inline="yes-display-inline">evaluate methods of information delivery and presentation and explore methods for discouraging
+			 repetition and the disclosure of immaterial information.</text>
+					</paragraph></subsection><subsection id="H01040CDE83C04C0D837B08AB924ABC75"><enum>(b)</enum><header>Consultation</header><text display-inline="yes-display-inline">In conducting the study required under subsection (a), the Commission shall consult with the
+			 Investor Advisory Committee and the Advisory Committee on Small and
+			 Emerging Companies.</text>
+				</subsection><subsection id="HB2C0FC33805A4F06A1E7DE666384C111"><enum>(c)</enum><header>Report</header><text>Not later than the end of the 360-day period beginning on the date of enactment of this Act, the
+			 Commission shall issue a report to the Congress containing—</text>
+					<paragraph id="H0FE95B279C6F4AECA462A11975454C98"><enum>(1)</enum><text>all findings and determinations made in carrying out the study required under subsection (a);</text>
+					</paragraph><paragraph id="HA723603E2AF14F5BACD20A7ED0A6420F"><enum>(2)</enum><text display-inline="yes-display-inline">specific and detailed recommendations on modernizing and simplifying the requirements in regulation
+			 S–K in a manner that reduces the costs and burdens on companies while
+			 still providing all material information; and</text>
+					</paragraph><paragraph id="H75580AC7D082420D97C80AC4925A9F50"><enum>(3)</enum><text display-inline="yes-display-inline">specific and detailed recommendations on ways to improve the readability and navigability of
+			 disclosure documents and to discourage repetition and the disclosure of
+			 immaterial information.</text>
+					</paragraph></subsection><subsection id="H3922EB77341043D58F34461277153963"><enum>(d)</enum><header>Rulemaking</header><text display-inline="yes-display-inline">Not later than the end of the 360-day period beginning on the date that the report is issued to the
+			 Congress under subsection (c), the Commission shall issue a proposed rule
+			 to implement the recommendations of the report issued under subsection
+			 (c).</text>
+				</subsection><subsection id="H6E966188BAA44D12B3A6EE2D333E7978"><enum>(e)</enum><header>Rule of construction</header><text>Revisions made to regulation S–K by the Commission under section 1002 shall not be construed as
+			 satisfying the rulemaking requirements under this section.</text>
+				</subsection></section></title><title id="HE41E19DB8AE64CF691358C7DEFBA993D"><enum>XI</enum><header>Encouraging Employee Ownership Act </header>
+			<section id="HCA5FAF0C5DFF4F53AE97BCCC48768FD7" section-type="subsequent-section"><enum>1101.</enum><header>Increased threshold for disclosures relating to compensatory benefit plans</header><text display-inline="no-display-inline">Not later than 60 days after the date of the enactment of this Act, the Securities and Exchange
+			 Commission shall revise <external-xref legal-doc="usc" parsable-cite="usc/17/230">section 230.701(e)</external-xref> of title 17, Code of Federal
+			 Regulations, so as to increase from $5,000,000 to $10,000,000 the
+			 aggregate sales price or amount of securities sold during any consecutive
+			 12-month period in excess of which the issuer is required under such
+			 section to deliver an additional disclosure to investors. The Commission
+			 shall index for inflation such aggregate sales price or amount every 5
+			 years to reflect the change in the Consumer Price Index for All Urban
+			 Consumers published by the Bureau of Labor Statistics, rounding to the
+			 nearest $1,000,000.</text>
+			</section></title></legis-body>
+</bill>
+
+

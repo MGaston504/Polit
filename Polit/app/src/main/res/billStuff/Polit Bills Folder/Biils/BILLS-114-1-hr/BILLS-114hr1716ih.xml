@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC05D72D291D04A6388E6CD3BAEA0E075" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1716 IH: No Social Security for Illegal Immigrants Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1716</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150326">March 26, 2015</action-date> 
+<action-desc><sponsor name-id="R000409">Mr. Rohrabacher</sponsor> (for himself, <cosponsor name-id="H001057">Mr. Huelskamp</cosponsor>, <cosponsor name-id="D000615">Mr. Duncan of South Carolina</cosponsor>, <cosponsor name-id="H001048">Mr. Hunter</cosponsor>, <cosponsor name-id="D000533">Mr. Duncan of Tennessee</cosponsor>, <cosponsor name-id="B001274">Mr. Brooks of Alabama</cosponsor>, <cosponsor name-id="J000255">Mr. Jones</cosponsor>, <cosponsor name-id="L000566">Mr. Latta</cosponsor>, <cosponsor name-id="J000295">Mr. Joyce</cosponsor>, <cosponsor name-id="M001177">Mr. McClintock</cosponsor>, <cosponsor name-id="C001062">Mr. Conaway</cosponsor>, <cosponsor name-id="O000168">Mr. Olson</cosponsor>, <cosponsor name-id="M001156">Mr. McHenry</cosponsor>, <cosponsor name-id="P000592">Mr. Poe of Texas</cosponsor>, <cosponsor name-id="W000804">Mr. Wittman</cosponsor>, <cosponsor name-id="G000565">Mr. Gosar</cosponsor>, <cosponsor name-id="F000445">Mr. Forbes</cosponsor>, <cosponsor name-id="F000451">Mr. Fitzpatrick</cosponsor>, <cosponsor name-id="B001257">Mr. Bilirakis</cosponsor>, <cosponsor name-id="M001158">Mr. Marchant</cosponsor>, <cosponsor name-id="P000602">Mr. Pompeo</cosponsor>, <cosponsor name-id="J000290">Ms. Jenkins of Kansas</cosponsor>, <cosponsor name-id="S000250">Mr. Sessions</cosponsor>, <cosponsor name-id="C001076">Mr. Chaffetz</cosponsor>, <cosponsor name-id="W000795">Mr. Wilson of South Carolina</cosponsor>, <cosponsor name-id="R000593">Mr. Ross</cosponsor>, and <cosponsor name-id="L000569">Mr. Luetkemeyer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend title II of the Social Security Act to exclude from creditable wages and self-employment income wages earned for services by aliens illegally performed in the United States and self-employment income derived from a trade or business illegally conducted in the United States.</official-title> 
+</form> 
+<legis-body id="H530819B280D94051B7C4B45FE5F762E0" style="OLC"> 
+<section display-inline="no-display-inline" id="HF8A614466E0A4C7795FD4EB064F55DC5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Social Security for Illegal Immigrants Act of 2015</short-title></quote>.</text></section> <section id="H5215971DDDE94F45B46BFB6CDAAC264C"><enum>2.</enum><header>Exclusion of unauthorized employment from employment upon which creditable wages may be based</header><text display-inline="no-display-inline">Section 210(a)(19) of the <act-name parsable-cite="SSA">Social Security Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/410">42 U.S.C. 410(a)(19)</external-xref>) is amended—</text>
+<paragraph id="HC7131F8A2E9C4D6EBE4DAC4048320E88"><enum>(1)</enum><text>by striking <quote>(19) Service</quote> and inserting the following:</text> <quoted-block id="H250E7C1DD2ED4368928394C71B6C1C05"> <paragraph id="H438C21B338FB4CC2A039412AADF277D5"><enum>(19)</enum> <subparagraph commented="no" display-inline="yes-display-inline" id="HE55A889D715D4FDE995245DB967E80F6"><enum>(A)</enum><text>Service performed by an alien while employed in the United States for any period during which the alien is not authorized to be so employed;</text></subparagraph>
+<subparagraph id="H4B823201A53B43B5BE3A2A34057AFF64" indent="up1"><enum>(B)</enum><text>Service</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> <section id="HB31EA61BABC94F45A1231D0B50C684C2"><enum>3.</enum><header>Exclusion of unauthorized functions and services from trade or business from which creditable self-employment income may be derived</header><text display-inline="no-display-inline">Section 211(c) of the <act-name parsable-cite="SSA">Social Security Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/411">42 U.S.C. 411(c)</external-xref>) is amended—</text>
+<paragraph id="H3C471EB60D834248A4C7CF6AED478665"><enum>(1)</enum><text>in paragraph (5), by striking <quote>or</quote> at the end;</text></paragraph> <paragraph id="HAD6A42C67690480196DCE4804D6529EE"><enum>(2)</enum><text>in paragraph (6), by striking <quote>him.</quote> and inserting <quote>him; or</quote>; and</text></paragraph>
+<paragraph id="H59B1EA898A084AACAD1F2288E0F7726B"><enum>(3)</enum><text>by inserting after paragraph (6) the following new paragraph:</text> <quoted-block act-name="Social Security Act" id="HECDBC7B06DA74827B1BC05C03E6F4C71"> <paragraph id="H1EEDD6B17C8D4DF095B9299D96209F70"><enum>(7)</enum><text>The performance of a function or service in the United States by an alien during any period for which the alien is not authorized to perform such function or service in the United States.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section>
+<section id="H00475354377B4D2CA4586B693D4D021D"><enum>4.</enum><header>Effective date</header><text display-inline="no-display-inline">The amendments made by this Act shall apply with respect to wages earned, and self-employment income derived, before, on, or after the date of the enactment of this Act. Notwithstanding section 215(f)(1) of the <act-name parsable-cite="SSA">Social Security Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/415">42 U.S.C. 415(f)(1)</external-xref>), as soon as practicable after the date of the enactment of this Act, the Commissioner of Social Security shall recompute all primary insurance amounts to the extent necessary to carry out such amendments. Such amendments shall affect benefits only for months after the date of the enactment of this Act.</text></section> </legis-body> </bill> 
+

@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HCAD05FF823B04CB880EB2E7C9C7307CB" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3143 IH: Smart Energy and Water Efficiency Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3143</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150721">July 21, 2015</action-date>
+			<action-desc><sponsor name-id="M001166">Mr. McNerney</sponsor> (for himself and <cosponsor name-id="K000378">Mr. Kinzinger of Illinois</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HSY00">Committee on Science, Space, and Technology</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for a smart water resource management pilot program.</official-title>
+	</form>
+	<legis-body id="H7C37A27ECD444F87AFD4A2015DA47DBC" style="OLC">
+ <section id="HC143D7C588DE44159CA8E0783C14F06A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Smart Energy and Water Efficiency Act of 2015</short-title></quote>.</text> </section><section id="H60724DFD37D740BCB56A02016FF7FDF0"><enum>2.</enum><header>Smart energy and water efficiency pilot program</header> <subsection id="H9CA5E34955874B298A7B83CD64E08330"><enum>(a)</enum><header>Definitions</header><text>In this section:</text>
+ <paragraph id="H9A5FBA9B98E041FA8AAFE9BD267E8749"><enum>(1)</enum><header>Eligible entity</header><text>The term <term>eligible entity</term> means—</text> <subparagraph id="HEAE08479276A45C284084B3787EE3638"><enum>(A)</enum><text>a utility;</text>
+ </subparagraph><subparagraph id="H2D9B0EE64A714409B7E8FBFAF0ABA4B6"><enum>(B)</enum><text>a municipality;</text> </subparagraph><subparagraph id="H40F3821194FF44A1A46B84F291E53BCB"><enum>(C)</enum><text>a water district; and</text>
+ </subparagraph><subparagraph id="H6E53F1BEFA3D4BBFB1AE5CECD2610144"><enum>(D)</enum><text>any other authority that provides water, wastewater, or water reuse services.</text> </subparagraph></paragraph><paragraph id="HF979718E82D94946A6DD50BAA62F30EF"><enum>(2)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of Energy.</text>
+ </paragraph><paragraph id="H92C2D9B7C1FD4597B9B78F74E8DA462F"><enum>(3)</enum><header>Smart energy and water efficiency pilot program</header><text>The term <term>smart energy and water efficiency pilot program</term> or <term>pilot program</term> means the pilot program established under subsection (b).</text> </paragraph></subsection><subsection id="H8FAAEDD59E1F47958D8F12AAA30625B0"><enum>(b)</enum><header>Smart energy and water efficiency pilot program</header> <paragraph id="HCD745442B2DC4425AADB8A80CA862CE6"><enum>(1)</enum><header>In general</header><text>The Secretary shall establish and carry out a smart energy and water efficiency management pilot program in accordance with this section.</text>
+ </paragraph><paragraph id="H0129CEE272504279971C4B6FF3794E5F"><enum>(2)</enum><header>Purpose</header><text>The purpose of the smart energy and water efficiency pilot program is to award grants to eligible entities to demonstrate advanced and innovative technology-based solutions that will—</text>
+ <subparagraph id="H869DD98882634D2CB3C3053864E3CA6A"><enum>(A)</enum><text display-inline="yes-display-inline">increase and improve the energy efficiency of water, wastewater, and water reuse systems to help communities across the United States make significant progress in conserving water, saving energy, and reducing costs;</text>
+ </subparagraph><subparagraph id="HF0D3B87AC0034D20A1CC2C7DA53E9074"><enum>(B)</enum><text>support the implementation of innovative processes and the installation of advanced automated systems that provide real-time data on energy and water; and</text>
+ </subparagraph><subparagraph id="HFB13A458CD194D63B3032107B9992664"><enum>(C)</enum><text>improve energy and water conservation, water quality, and predictive maintenance of energy and water systems, through the use of Internet-connected technologies, including sensors, intelligent gateways, and security embedded in hardware.</text>
+					</subparagraph></paragraph><paragraph id="HF602091616C14A4FB344DDE1B2E0FD9E"><enum>(3)</enum><header>Project selection</header>
+ <subparagraph id="H799E41ED750F45A9A41F839710E7985B"><enum>(A)</enum><header>In general</header><text>The Secretary shall make competitive, merit-reviewed grants under the pilot program to not less than 3, but not more than 5, eligible entities.</text>
+ </subparagraph><subparagraph id="HC0A22CC73E6B44368326216FD0192C67"><enum>(B)</enum><header>Selection criteria</header><text>In selecting an eligible entity to receive a grant under the pilot program, the Secretary shall consider—</text>
+ <clause id="H66970AF45C7948D287EFC3CB9096431C"><enum>(i)</enum><text>energy and cost savings anticipated to result from the project;</text> </clause><clause id="H4F05F18BCE75482F9A6ABB59D852B7A3"><enum>(ii)</enum><text display-inline="yes-display-inline">the innovative nature, commercial viability, and reliability of the technology to be used;</text>
+ </clause><clause id="H8A7A0696969E4FCE9DE382239AB0BC78"><enum>(iii)</enum><text>the degree to which the project integrates next-generation sensors, software, hardware, analytics, and management tools;</text>
+ </clause><clause id="HC80ED3FB8E8C436F986CC269AE43FE5A"><enum>(iv)</enum><text>the anticipated cost-effectiveness of the pilot project in terms of energy efficiency savings, water savings or reuse, and infrastructure costs averted;</text>
+ </clause><clause id="H71BF566EB6974737AF6AC30A8849F674"><enum>(v)</enum><text>whether the technology can be deployed in a variety of geographic regions and the degree to which the technology can be implemented on a smaller or larger scale, including whether the technology can be implemented by each type of eligible entity;</text>
+ </clause><clause id="H512FE97DDCCD460A903861324B688B14"><enum>(vi)</enum><text display-inline="yes-display-inline">whether the technology has been successfully deployed elsewhere;</text> </clause><clause id="HA374E2B658544E50A956C8CD5DFC3CB2"><enum>(vii)</enum><text>whether the technology is sourced from a manufacturer based in the United States; and</text>
+ </clause><clause id="H454960AE1E51442A93F6E12B6A3F34E3"><enum>(viii)</enum><text>whether the project will be completed in 5 years or less.</text> </clause></subparagraph><subparagraph id="H7B702EC0F14C4B91913816B4D2F53A43"><enum>(C)</enum><header>Applications</header> <clause id="H85C2A4BFA4D547B7B7931885D361BBF5"><enum>(i)</enum><header>In general</header><text>Subject to clause (ii), an eligible entity seeking a grant under the pilot program shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary determines to be necessary.</text>
+ </clause><clause id="H1E34EAE4100A4983A87238934FAF8A28"><enum>(ii)</enum><header>Contents</header><text>An application under clause (i) shall, at a minimum, include—</text> <subclause id="H0627F25B66B74523BECD83C13A50E716"><enum>(I)</enum><text>a description of the project;</text>
+ </subclause><subclause id="HA40ED16A9A5F4D3D80C96A4904534DC4"><enum>(II)</enum><text>a description of the technology to be used in the project;</text> </subclause><subclause id="H44BC0E2A5BD4410B8F2A7BD50CAFE4E7"><enum>(III)</enum><text>the anticipated results, including energy and water savings, of the project;</text>
+ </subclause><subclause id="H52A26AB06ED64D258196B4AB4169E4CC"><enum>(IV)</enum><text>a comprehensive budget for the project;</text> </subclause><subclause id="H205FF346E3074EDCAB9208474BE495A8"><enum>(V)</enum><text>the names of the project lead organization and any partners;</text>
+ </subclause><subclause id="H2337505B2BCD44E58C38F5444155085F"><enum>(VI)</enum><text>the number of users to be served by the project; and</text> </subclause><subclause id="H240FB9894DCD45FAB03D160E07FA1DCF"><enum>(VII)</enum><text>any other information that the Secretary determines to be necessary to complete the review and selection of a grant recipient.</text>
+							</subclause></clause></subparagraph></paragraph><paragraph id="HC93212ADF69E4F23B32C58D978055213"><enum>(4)</enum><header>Administration</header>
+ <subparagraph id="H3550C0D4E5D24398BC51A88500F8C868"><enum>(A)</enum><header>In general</header><text>Not later than 300 days after the date of enactment of this Act, the Secretary shall select grant recipients under this section.</text>
+ </subparagraph><subparagraph id="H976C8D03545E44EF80FF8F388F8B8B81"><enum>(B)</enum><header>Evaluations</header><text>The Secretary shall annually carry out an evaluation of each project for which a grant is provided under this section that—</text>
+ <clause id="H99BA772523F345F491AA65E13FD35A25"><enum>(i)</enum><text>evaluates the progress and impact of the project; and</text> </clause><clause id="HCBEEE2C2C2A64122AABA588664F8BD5E"><enum>(ii)</enum><text>assesses the degree to which the project is meeting the goals of the pilot program.</text>
+ </clause></subparagraph><subparagraph id="H02B520CBCCE44CBF84CBFF5B81ADC0A6"><enum>(C)</enum><header>Technical and policy assistance</header><text>On the request of a grant recipient, the Secretary shall provide technical and policy assistance to the grant recipient to carry out the project.</text>
+ </subparagraph><subparagraph id="H6DF562B9E3684488BF60FB1AD44EF1BD"><enum>(D)</enum><header>Best practices</header><text>The Secretary shall make available to the public—</text> <clause id="HA1E313E59C51405F959CE364470FCD02"><enum>(i)</enum><text>a copy of each evaluation carried out under subparagraph (B); and</text>
+ </clause><clause id="H77953423290642F69CCA8F87E4BD6025"><enum>(ii)</enum><text>a description of any best practices identified by the Secretary as a result of those evaluations.</text> </clause></subparagraph><subparagraph id="H652A359AAD0349528093CECE4829BD5C"><enum>(E)</enum><header>Report to congress</header><text>The Secretary shall submit to Congress a report containing the results of each evaluation carried out under subparagraph (B).</text>
+					</subparagraph></paragraph></subsection><subsection id="H10A68C04AAD74D0480C3605221A7A32B"><enum>(c)</enum><header>Funding</header>
+ <paragraph id="H8035D803846E44549FA83285068AADE3"><enum>(1)</enum><header>In general</header><text>The Secretary shall use not less than $7,500,000 of amounts made available to the Secretary to carry out this section.</text>
+ </paragraph><paragraph id="H0220A6B4F4C046E89B9A5DA0713D4F06"><enum>(2)</enum><header>Prioritization</header><text>In funding activities under this section, the Secretary shall prioritize funding in the following manner:</text>
+ <subparagraph id="H5C029C7FD2294285A6974FD420ED75A3"><enum>(A)</enum><text>The Secretary shall first use any unobligated amounts made available to the Secretary to carry out the activities of the Energy Efficiency and Renewable Energy Office.</text>
+ </subparagraph><subparagraph id="HB21FE22266FF4E688CA06DA47835B206"><enum>(B)</enum><text>After any amounts described in subparagraph (A) have been used, the Secretary shall then use any unobligated amounts (other than those described in subparagraph (A)) made available to the Secretary.</text>
+					</subparagraph></paragraph></subsection></section></legis-body>
+</bill>
+
+

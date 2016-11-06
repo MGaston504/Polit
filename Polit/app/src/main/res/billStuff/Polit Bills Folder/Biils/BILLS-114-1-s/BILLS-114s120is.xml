@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S120 IS: To amend the Water Resources Development Act of 2000 to authorize the Central Everglades Planning Project, Florida.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-01-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 120</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150108">January 8, 2015</action-date>
+			<action-desc><sponsor name-id="S282">Mr. Nelson</sponsor> (for himself and <cosponsor name-id="S350">Mr. Rubio</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEV00">Committee on Environment and Public Works</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Water Resources Development Act of 2000 to authorize the Central Everglades Planning
+			 Project, Florida.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>CERP, Central everglades planning project, Florida</header>
+ <text display-inline="no-display-inline">Section 601 of the Water Resources Development Act of 2000 (<external-xref legal-doc="public-law" parsable-cite="pl/106/541">Public Law 106–541</external-xref>; 114 Stat. 2680) is amended by adding at the end the following:</text>
+ <quoted-block display-inline="no-display-inline" id="id32FAF58617FC4812ABA16D1549C9B362" style="OLC"><subsection id="idEDA68362A951479E9F31B1CF86C90761"><enum>(q)</enum><header>CERP, Central Everglades Planning Project, Florida</header><paragraph id="id339C4ACB05514C1396E86CC791EB3F9A"><enum>(1)</enum><header>Authorization</header><text>In accordance with subsection (d), the project for environmental restoration, CERP, Central Everglades Planning Project, Florida, is authorized to be carried out by the Secretary substantially in accordance with the plans, and subject to the conditions, recommended in the final report of the Chief of Engineers signed on December 23, 2014.</text></paragraph><paragraph id="id0F59A8E29B4D48DA8A57D6ABA3A3BC6B"><enum>(2)</enum><header>Total cost</header><text>The project authorized under paragraph (1) is authorized to be carried out by the Secretary at a total cost of $1,900,000,000, with an estimated Federal cost of $950,875,000 and an estimated non-Federal cost of $949,125,000.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

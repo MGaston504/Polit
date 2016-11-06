@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H25DC72C7ADBD416FB7561DA361BBDD4B" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2706 IH: Veterans National Remembrance Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2706</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150609">June 9, 2015</action-date>
+			<action-desc><sponsor name-id="T000468">Ms. Titus</sponsor> (for herself, <cosponsor name-id="B001250">Mr. Bishop of Utah</cosponsor>, <cosponsor name-id="C001096">Mr. Cramer</cosponsor>, and <cosponsor name-id="S001192">Mr. Stewart</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to provide priority for the establishment of new national
+			 cemeteries by the Secretary of Veterans Affairs, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HD7AFA0AC881E4DBCB71FE75CDFC80B05" style="OLC">
+ <section id="H26D3CA6944324ACDB4A2F35D4AA5C168" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans National Remembrance Act</short-title></quote>.</text> </section><section id="H6DAEB3AA513B4C88809190F0A83EAA5A"><enum>2.</enum><header>Establishment of new national cemeteries by the Secretary of Veterans Affairs</header> <subsection id="H51BD7E97A82B4CC8AF7C54C58170A69D"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 2404 of title 38, United States Code, is amended by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="H9A93C5B9E7BB4CFB8B81C702A86211F2" style="USC">
+					<subsection id="H28A7CAD12A0D45F2B35AC2CB41F4DC8A"><enum>(i)</enum>
+ <paragraph commented="no" display-inline="yes-display-inline" id="HADEA84835D4F49B3AF196082BA2C7410"><enum>(1)</enum><text>In selecting a location for the establishment of a new national cemetery under this chapter, the Secretary shall—</text>
+ <subparagraph id="HDFB3625330F14470A0563E56ADE37D59" indent="up1"><enum>(A)</enum><text>give priority to a location in accordance with paragraph (2); and</text> </subparagraph><subparagraph commented="no" id="HB9EAEA6034D840EB812615FA084E1413" indent="up1"><enum>(B)</enum><text>with respect to a location given such priority, ensure that the location is within 10 miles of the location that the Secretary determines likely to have a significant amount of the population to be served by such national cemetery during the 25-year period following such establishment.</text>
+							</subparagraph></paragraph><paragraph id="H2105ADEA33D240C9A6C3E973CE07568D" indent="up1"><enum>(2)</enum>
+ <subparagraph commented="no" display-inline="yes-display-inline" id="H8B37AE753D2C4E42934079D3FA97E2D8"><enum>(A)</enum><text display-inline="yes-display-inline">Except as provided by subparagraph (C), in selecting a location for the establishment of a new national cemetery under this chapter, the Secretary shall give priority to a State that does not have a national cemetery.</text>
+ </subparagraph><subparagraph id="H0A100911816548C981B8E9ABD53C1BE7" indent="up1"><enum>(B)</enum><text>In determining priority among more than one State described in subparagraph (A), the Secretary shall give priority to the State that has the largest population of veterans.</text>
+ </subparagraph><subparagraph commented="no" id="HD02B959824A345D0BEC681051D5F8C91" indent="up1"><enum>(C)</enum><text>After any time that the Secretary establishes two national cemeteries in accordance with the priority described in subparagraph (A), the Secretary may waive the requirements of such priority in establishing the national cemetery that immediately follows such two national cemeteries if the Secretary determines that such waiver will allow the Secretary to establish a national cemetery that will serve a larger population of veterans as compared to establishing a national cemetery in accordance with such priority.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="H700F5FAF61404166A593E160F2CD13A5" indent="up1"><enum>(3)</enum><text>In this subsection, the term <term>national cemetery</term>—</text> <subparagraph commented="no" id="HB16B63CD78724B22BB6B2F6F5F36EE46"><enum>(A)</enum><text>includes—</text>
+ <clause commented="no" id="H9649F2605A81493AB0BC4652141F86ED"><enum>(i)</enum><text>the cemeteries described in section 2400(b) of this title; and</text> </clause><clause commented="no" id="HAC610D253EDE42159DE1D2402F8AADBF"><enum>(ii)</enum><text display-inline="yes-display-inline">any traditional or vaulted internments—</text>
+ <subclause commented="no" id="H31BD67464EFA406BBE31301A49DC4D37"><enum>(I)</enum><text>located on land that is larger than 20 acres; and</text> </subclause><subclause commented="no" id="HD3E8F1EF7D4448E0ABAEE846217C9BB2"><enum>(II)</enum><text>administered and operated by employees of the Department; and</text>
+ </subclause></clause></subparagraph><subparagraph commented="no" id="H67A66C49F5094777B27D12BA4D0B795C"><enum>(B)</enum><text display-inline="yes-display-inline">does not include facilities of the National Cemetery Administration that are located in rural areas to serve small populations of veterans (commonly known as <quote>National Burial Grounds</quote>).</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H559057E2160741668F290044CB5D1D1E"><enum>(b)</enum><header>Construction</header><text display-inline="yes-display-inline">Subsection (i) of section 2404 of title 38, United States Code, as added by subsection (a), may not be construed as affecting the plans of the Secretary of Veterans Affairs, as of the date of the enactment of this Act, to establish National Burial Grounds or National Columbaria.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

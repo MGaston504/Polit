@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H1A79ACA282B1456B8288B445BB91D04D" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2455 IH: To amend the Federal Food, Drug, and Cosmetic Act with respect to precision medicine.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2455</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150519">May 19, 2015</action-date>
+			<action-desc><sponsor name-id="P000373">Mr. Pitts</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Food, Drug, and Cosmetic Act with respect to precision medicine.</official-title>
+	</form>
+	<legis-body id="HDF28DA62FD074D79B76FBC8821E27D46" style="OLC">
+ <section commented="no" id="H10B7CD02F3E24DC983A161E7413BE56F" section-type="section-one"><enum>1.</enum><header>Precision medicine guidance and other programs of Food and Drug Administration</header><text display-inline="no-display-inline">Chapter V of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/351">21 U.S.C. 351 et seq.</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HF5639FA64417454BB69BD9B361176AB6" style="OLC">
+				<subchapter commented="no" id="HC11E1830E4774B319A8F8F7DACF6AE17"><enum>J</enum><header>Precision Medicine</header>
+					<section commented="no" id="H252DC9A0E6814B099A4C7226E061309B"><enum>591.</enum><header>General agency guidance on precision medicine</header>
+ <subsection commented="no" id="H28EF5D6037FB4847A6BBBB568266397B"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary shall issue and periodically update guidance to assist sponsors in the development of a precision drug or biological product. Such guidance shall—</text>
+ <paragraph commented="no" id="H6389F0F9A45C49DF93981F1486C336C0"><enum>(1)</enum><text>define the term <quote>precision drug or biological product</quote>; and</text> </paragraph><paragraph commented="no" id="H1326284D267D4AFE832F0C9BE36C989C"><enum>(2)</enum><text>address the topics described in subsection (b).</text>
+ </paragraph></subsection><subsection commented="no" id="HEEAC48B184AD471D92DDE8C8AEE8D3BF"><enum>(b)</enum><header>Certain issues</header><text>The topics to be addressed by guidance under subsection (a) are—</text> <paragraph commented="no" id="H695CBE0252234C78B57A819F4D98D88E"><enum>(1)</enum><text display-inline="yes-display-inline">the evidence needed to support the use of biomarkers (as defined in section 507(e)) that identify subsets of patients as likely responders to therapies in order to streamline the conduct of clinical trials;</text>
+ </paragraph><paragraph commented="no" id="H277D5437E03D4773B1FED23BF1204B4C"><enum>(2)</enum><text>recommendations for the design of studies to demonstrate the validity of a biomarker as a predictor of drug or biological product response;</text>
+ </paragraph><paragraph commented="no" id="H1028E1BDDB38470898BA1C4E76D8C8F4"><enum>(3)</enum><text>the manner and extent to which a benefit-risk assessment may be affected when clinical trials are limited to patient population subsets that are identified using biomarkers;</text>
+ </paragraph><paragraph commented="no" id="H19D814D52033414FAD631548AC8BEF36"><enum>(4)</enum><text>the development of companion diagnostics in the context of a drug development program; and</text> </paragraph><paragraph commented="no" id="H8EBC308D72F542E0B41BC7C41996D7D7"><enum>(5)</enum><text>considerations for developing biomarkers that aid prescribing decisions for a drug or biological product, and when information regarding a biomarker may be included in the labeling for a drug or biological product approved under section 505 of this Act or section 351 of the Public Health Service Act.</text>
+ </paragraph></subsection><subsection commented="no" id="H0C043160574742DFA0169183B235F939"><enum>(c)</enum><header>Date certain for initial guidance</header><text>The Secretary shall issue guidance under subsection (a) not later than 18 months after the date of the enactment of the 21st Century Cures Act.</text>
+ </subsection></section><section commented="no" id="H9E8877392E6A43799E8DE94B2D6AFDE9"><enum>592.</enum><header>Precision medicine regarding orphan-drug and expedited-approval programs</header><text display-inline="no-display-inline"><italic></italic>In the case of an application for a precision drug or biological product under section 505(b)(1), or section 351(a) of the Public Health Service Act, that has been designated under section 526 as a drug for a rare disease for a serious condition, the Secretary may—</text>
+ <paragraph id="H00A3569229434511868830C54B3931EB"><enum>(1)</enum><text display-inline="yes-display-inline">consistent with applicable standards for approval, rely upon data or information previously developed by the sponsor of the precision drug or biological product for a prior approved drug or indication (or that of another sponsor, provided the sponsor of the precision drug or biological product has obtained a contractual right of reference to such other sponsor’s data and information) in order to expedite clinical development for a precision drug or indication that is using the same or similar approach as that of the prior approved drug or indication; and</text>
+ </paragraph><paragraph commented="no" id="HBEDB4F4316ED455E8256370E03551481"><enum>(2)</enum><text>as appropriate under section 506, consider the application for approval of such precision drug or biological product to be eligible for expedited review, including under section 506(c) (relating to accelerated approval).</text></paragraph></section></subchapter><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

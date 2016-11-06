@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H04076ACD0BE047668A32AFFC578A0711" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2774 IH: Stop Punishing Innocent Taxpayers Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2774</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150615">June 15, 2015</action-date>
+			<action-desc><sponsor name-id="B001260">Mr. Buchanan</sponsor> (for himself and <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title II of the Social Security Act to prohibit recovery of certain overpayments through
+			 tax refund offsets and to prohibit the application of the earnings test
+			 with respect to child’s insurance benefits, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HDCCFABA2E9D24C50AF90E19D441CA422" style="OLC">
+ <section id="HD4132500B8C9467E98CE631BB3632E2D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Punishing Innocent Taxpayers Act</short-title></quote>.</text> </section><section id="H01D37E2895B6407D863E5B6952C794D4"><enum>2.</enum><header>Restriction on recovery of certain overpayments</header><text display-inline="no-display-inline">Section 204(a)(1)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/404">42 U.S.C. 404(a)(1)(A)</external-xref>) is amended by inserting after <quote>section 3720A of title 31, United States Code</quote> the following: <quote>(except that recovery by such means of reduction in tax refunds or by any other means may not be used with respect to any payment to a person who had not attained the age of 18 at the time such payment was made)</quote>.</text>
+		</section><section id="H788A30BE2CF64847B19585792512450B"><enum>3.</enum><header>Restriction on application of earnings test with respect to child’s insurance benefits</header>
+ <subsection id="H7CE6EFC252054889B5C604263412F042"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 203(f)(8) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/403">42 U.S.C. 403(f)(8)</external-xref>) is amended by adding at the end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H155D652D5E804E4EB451F154A832315F" style="OLC">
+ <subparagraph id="H209BA156822E43D680FAEB0F1E6793C8"><enum>(F)</enum><text display-inline="yes-display-inline">Notwithstanding any other provision of this subsection, no deductions in benefits shall be made under subsection (b) with respect to the earnings of any individual in any month in which the individual is entitled to a child’s insurance benefit under section 202(d).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HD783FD8A2F464CEA9DC0B6BB13775290"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by this section shall apply with respect to taxable years ending after December 31, 2015.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

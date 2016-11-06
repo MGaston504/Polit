@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2229 IS: Veterans Scheduling Accountability Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-11-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2229</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151103">November 3, 2015</action-date>
+			<action-desc><sponsor name-id="S324">Mrs. Shaheen</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSVA00">Committee on Veterans' Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require the Comptroller General of the United States to conduct audits relating to the timely
+			 access of veterans to hospital care, medical
+			 services, and other health care from the Department of Veterans Affairs.   </official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans Scheduling Accountability Act</short-title></quote>.</text>
+		</section><section commented="no" display-inline="no-display-inline" id="id7A18878B44E843688ED9AC888C0BCB20"><enum>2.</enum><header display-inline="yes-display-inline">Audits by Comptroller General of the United States with respect to health care provided by
+ Department of Veterans Affairs</header><text display-inline="no-display-inline">The Comptroller General of the United States shall conduct random, periodic audits of medical facilities of the Department of Veterans Affairs and the Veterans Integrated Service Networks to assess whether such facilities and Networks are complying with all standards imposed by law or by the Secretary of Veterans Affairs with respect to the timely access of veterans to hospital care, medical services, and other health care from the Department.</text>
+		</section></legis-body>
+</bill>
+
+

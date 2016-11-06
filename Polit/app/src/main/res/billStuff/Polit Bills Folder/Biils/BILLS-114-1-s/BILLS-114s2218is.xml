@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2218 IS: Personal Health Investment Today Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-10-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2218</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151029">October 29, 2015</action-date>
+			<action-desc><sponsor name-id="S303">Mr. Thune</sponsor> (for himself, <cosponsor name-id="S364">Mr. Murphy</cosponsor>, <cosponsor name-id="S305">Mr. Isakson</cosponsor>, and <cosponsor name-id="S356">Mr. Donnelly</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to treat certain amounts paid for physical activity,
+			 fitness, and exercise as amounts paid for medical care.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Personal Health Investment Today Act of 2015</short-title></quote> or the <quote><short-title>PHIT Act of 2015</short-title></quote>.</text>
+		</section><section id="id83107F370736498F996576A029CDB30E"><enum>2.</enum><header>Purpose</header>
+ <text display-inline="no-display-inline">The purpose of this Act is to promote health and prevent disease, particularly diseases related to being overweight and obese, by—</text>
+ <paragraph id="id5afa2d8811a24d1db925290e87774b73"><enum>(1)</enum><text>encouraging healthier lifestyles;</text> </paragraph><paragraph id="id4261f5b3fa914e4b8780dbbd31ea5838"><enum>(2)</enum><text>providing financial incentives to ease the financial burden of engaging in healthy behavior; and</text>
+ </paragraph><paragraph id="id900a70c5e04748e6b190392500c6e15f"><enum>(3)</enum><text>increasing the ability of individuals and families to participate in physical fitness activities.</text> </paragraph></section><section id="idFE9E237D45A94B92A25B81C3B5EB22EA"><enum>3.</enum><header>Certain amounts paid for physical activity, fitness, and exercise treated as amounts paid for medical care</header> <subsection id="id3268cea3b4df44cca66dfd9870f25e1e"><enum>(a)</enum><header>In general</header><text>Paragraph (1) of <external-xref legal-doc="usc" parsable-cite="usc/26/213">section 213(d)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>or</quote> at the end of subparagraph (C), by striking the period at the end of subparagraph (D) and inserting <quote>, or</quote>, and by inserting after subparagraph (D) the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="id9CC9A53FB0BF4B7FBD1F25A80CE41357" style="OLC">
+ <subparagraph id="idb872772cab624562add551877962f28c"><enum>(E)</enum><text>for qualified sports and fitness expenses.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="id80ab9cdf0c3d4a5cbd269a8fb43008b2"><enum>(b)</enum><header>Qualified sports and fitness expenses</header><text>Subsection (d) of <external-xref legal-doc="usc" parsable-cite="usc/26/213">section 213</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="id2A21C57395EA492CA92359B6FAF6FA15" style="OLC">
+					<paragraph id="idcf82b2bcdc5944738f91c812400872ca"><enum>(12)</enum><header>Qualified sports and fitness expenses</header>
+ <subparagraph id="id9172e628bb5d4c80a711f6d1bb233f9e"><enum>(A)</enum><header>In general</header><text>The term <term>qualified sports and fitness expenses</term> means amounts paid exclusively for the sole purpose of participating in a physical activity including—</text>
+ <clause id="id6e64fee833214f24a6ae5a7e9ca0337e"><enum>(i)</enum><text>for membership at a fitness facility,</text> </clause><clause id="idcda7642249934b5fa4c54da6b6b3bd8d"><enum>(ii)</enum><text>for participation or instruction in physical exercise or physical activity, or</text>
+ </clause><clause id="id80e24b7d756c49fda20e7e600f411803"><enum>(iii)</enum><text>for equipment used in a program (including a self-directed program) of physical exercise or physical activity.</text>
+ </clause></subparagraph><subparagraph id="id5a0a4206ea9e496092135f5ff5e202d8"><enum>(B)</enum><header>Overall dollar limitation</header><text>The aggregate amount treated as qualified sports and fitness expenses with respect to any taxpayer for any taxable year shall not exceed $1,000 ($2,000 in the case of a joint return or a head of household (as defined in section 2(b))).</text>
+ </subparagraph><subparagraph id="idff7ea5b5c3e043fcb737aee3cd9826e2"><enum>(C)</enum><header>Fitness facility</header><text>For purposes of subparagraph (A)(i), the term <term>fitness facility</term> means a facility—</text> <clause id="idb3580556dbde43f68fd47ec478cc6d8f"><enum>(i)</enum><text>that provides instruction in a program of physical exercise, offers facilities for the preservation, maintenance, encouragement, or development of physical fitness, or serves as the site of such a program of a State or local government,</text>
+ </clause><clause id="id7df384199763480182692d511b30888d"><enum>(ii)</enum><text>which is not a private club owned and operated by its members,</text> </clause><clause id="id2a84c3fc483f49438566b528daba242c"><enum>(iii)</enum><text>which does not offer golf, hunting, sailing, or riding facilities,</text>
+ </clause><clause id="id617c61da2cec471c9a9c1cb7be234fdd"><enum>(iv)</enum><text>the health or fitness component of which is not incidental to its overall function and purpose, and</text> </clause><clause id="id4e0ca4b718a54f489c18d066fcd96003"><enum>(v)</enum><text>which is fully compliant with the State of jurisdiction and Federal anti-discrimination laws.</text>
+ </clause></subparagraph><subparagraph id="idfb70f85e321d4dc79f5fb71d9f114e4f"><enum>(D)</enum><header>Treatment of exercise videos, etc</header><text>Videos, books, and similar materials shall be treated as described in subparagraph (A)(ii) if the content of such materials constitutes instruction in a program of physical exercise or physical activity.</text>
+ </subparagraph><subparagraph id="ida7f4115b23d846d4a76b4e64abd006bb"><enum>(E)</enum><header>Limitations related to sports and fitness equipment</header><text>Amounts paid for equipment described in subparagraph (A)(iii) shall be treated as qualified sports and fitness expenses only—</text>
+ <clause id="id3d17a8231dcb4a4abe0469fc564ef6ee"><enum>(i)</enum><text>if such equipment is utilized exclusively for participation in fitness, exercise, sport, or other physical activity,</text>
+ </clause><clause id="id0cc9feccbcd24cb8b1758199f4b62938"><enum>(ii)</enum><text>in the case of amounts paid for apparel or footwear, if such apparel or footwear is of a type that is necessary for, and is not used for any purpose other than, a specific physical activity, and</text>
+ </clause><clause id="id7ea9a70ef8934d24ac0ed121cec907b0"><enum>(iii)</enum><text>in the case of amounts paid for any single item of sports equipment (other than exercise equipment), to the extent such amounts do not exceed $250.</text>
+ </clause></subparagraph><subparagraph id="idfd472773c6b24fd18fc77836be7ac784"><enum>(F)</enum><header>Programs which include components other than physical exercise and physical activity</header><text>Rules similar to the rules of paragraph (6) shall apply in the case of any program that includes physical exercise or physical activity and also other components. For purposes of the preceding sentence, travel and accommodations shall be treated as a separate component.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id4A3AC9463D6B4418A8200883D7D44C10"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S735 IS: Level Playing Field in Trade Agreements Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-03-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 735</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150312">March 12, 2015</action-date>
+			<action-desc><sponsor name-id="S322">Mr. Merkley</sponsor> (for himself and <cosponsor name-id="S354">Ms. Baldwin</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require that any trade agreement eligible for expedited consideration by Congress include
+			 requirements with respect to paying adequate wages and maintaining
+			 sustainable production methods, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Level Playing Field in Trade Agreements Act of 2015</short-title></quote>.</text>
+		</section><section id="id637F0C4F384F4FBF943EEEF16F759AE3"><enum>2.</enum><header>Ineligibility for expedited consideration by Congress of certain trade agreements</header>
+ <subsection id="id6EB72891BE7A4C8397E5631234A3987C"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">No trade agreement with a country or implementing bill with respect to a trade agreement may receive expedited consideration by Congress under any provision of law, including any limitation on amendments or debate in either the Senate or the House of Representatives (other than under rule XXII of the Standing Rules of the Senate, as in effect on the date of the enactment of this Act) unless the agreement—</text>
+ <paragraph id="id4718F8808DC247B4B38CD661EA516003"><enum>(1)</enum><text display-inline="yes-display-inline">includes binding and enforceable requirements that all producers of merchandise exported to the United States from that country pay adequate wages and maintain sustainable production methods; and</text>
+ </paragraph><paragraph id="id7CCA7C1AB35046D6A058E6CCA994504B"><enum>(2)</enum><text>provides that, for purposes of merchandise from that country, the application of antidumping duty laws under subtitle B of title VII of the Tariff Act of 1930 (<external-xref legal-doc="usc" parsable-cite="usc/19/1673">19 U.S.C. 1673 et seq.</external-xref>) shall be modified as provided under subsection (b).</text>
+				</paragraph></subsection><subsection id="id6F14463BEDB84335BA253D9017675ABA"><enum>(b)</enum><header>Adjustment of
+			 Normal Value To Include the Cost of Paying Adequate Wages and Maintaining
+			 Sustainable Production Methods</header>
+ <paragraph id="idFEDFF8405E2B4E54AA5D319055979438"><enum>(1)</enum><header>In general</header><text>Except as provided in paragraph (3), in determining the price of covered merchandise under subsection (a)(1)(B) of section 773 of the Tariff Act of 1930 (<external-xref legal-doc="usc" parsable-cite="usc/19/1677b">19 U.S.C. 1677b</external-xref>) for purposes of determining the normal value of the covered merchandise under that section, the administering authority shall increase the price by the difference, if any, between—</text>
+ <subparagraph commented="no" id="id6ae2a5141df544589a23ec076d428fb5"><enum>(A)</enum><text>the actual cost of producing the covered merchandise; and</text>
+ </subparagraph><subparagraph commented="no" id="id21a3cfa218f44974a7933d5ea0ebb58f"><enum>(B)</enum><text>the estimated cost of producing the covered merchandise if the producer paid its employees adequate wages and maintained sustainable production methods.</text>
+ </subparagraph></paragraph><paragraph id="id64811fdb43194f5b80e3007dc56de7bd"><enum>(2)</enum><header>Demonstration of injury</header><text>An interested party described in subparagraph (C), (D), (E), (F), or (G) of section 771(9) of the Tariff Act of 1930 (<external-xref legal-doc="usc" parsable-cite="usc/19/1677">19 U.S.C. 1677(9)</external-xref>) that files a petition under section 732(b)(1) of that Act (<external-xref legal-doc="usc" parsable-cite="usc/19/1673a">19 U.S.C. 1673a(b)(1)</external-xref>) with respect to covered merchandise that relies on calculations of normal value made under this subsection shall be presumed to demonstrate that the party is materially injured or threatened with material injury by reason of imports of the covered merchandise unless—</text>
+ <subparagraph id="id9050A521436340909C57AD26C02975D9"><enum>(A)</enum><text>the country from which the covered merchandise is exported is covered by a precertification issued under paragraph (3)(A)(ii); or</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id8B2EFB3110E9448A9834AA4FC0BBA5C2"><enum>(B)</enum><text>the estimated cost of producing the covered merchandise under paragraph (1)(B) is equal to or greater than the cost of producing the merchandise in the country in which the interested party is located.</text>
+					</subparagraph></paragraph><paragraph id="id15e073a3492042e8aaa406e18d8afc0a"><enum>(3)</enum><header>Precertification</header>
+					<subparagraph id="id00B177CDCD5947B0974A8E0E0D8ED659"><enum>(A)</enum><header>In general</header>
+ <clause id="id9898428C2A74435DBB3DD889C739AC3D"><enum>(i)</enum><header>Exporter- or producer-specific precertification</header><text>If an exporter or producer of covered merchandise demonstrates to the satisfaction of the administering authority that all such merchandise, including significant components or ingredients of the covered merchandise, was or will be produced under conditions under which all employees receive adequate wages or sustainable production methods are maintained, the administering authority shall issue to that exporter or producer, upon request, a precertification with respect to wages, production methods, or both, that covers all covered merchandise by that exporter or producer.</text>
+ </clause><clause id="id5f47e26ccaca4ea999db97f589e2d78e"><enum>(ii)</enum><header>Country precertification</header><text>The administering authority may issue a precertification for all covered merchandise imported from a country if the government of that country maintains and enforces laws requiring all producers of such merchandise in that country to pay its employees adequate wages and to maintain sustainable production methods.</text>
+						</clause></subparagraph><subparagraph id="id65B9D94FDDBD472F94B1B98DAA6BECF9"><enum>(B)</enum><header>Safe harbor</header>
+ <clause id="id6FE6BE14D6B64846A91BDBB56DC14C3E"><enum>(i)</enum><header>In general</header><text>If the administering authority has issued a precertification under subparagraph (A), covered merchandise to which the precertification applies shall not be subject to an antidumping duty solely because a petition filed under section 732(b)(1) of the Tariff Act of 1930 (<external-xref legal-doc="usc" parsable-cite="usc/19/1673a">19 U.S.C. 1673a(b)(1)</external-xref>) with respect to the covered merchandise alleges that the covered merchandise was not produced under conditions under which all employees receive adequate wages and sustainable production methods are maintained.</text>
+ </clause><clause id="idA719AC5885FC496080A35FDDE4A35E4F"><enum>(ii)</enum><header>Challenging precertification</header><text>An interested party described in subparagraph (C), (D), (E), (F), or (G) of section 771(9) of the Tariff Act of 1930 (<external-xref legal-doc="usc" parsable-cite="usc/19/1677">19 U.S.C. 1677(9)</external-xref>) that files a petition under section 732(b)(1) of that Act (<external-xref legal-doc="usc" parsable-cite="usc/19/1673a">19 U.S.C. 1673a(b)(1)</external-xref>) with respect to covered merchandise covered by a precertification issued under subparagraph (A) bears the burden of proving that the covered merchandise was not produced under conditions under which all employees receive adequate wages, sustainable production methods are maintained, or both, depending on the scope of the precertification.</text>
+						</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id4fa1a3ac78564ad6ad839def37341afd"><enum>(C)</enum><header>Use of third-party
+				standards</header>
+ <clause commented="no" display-inline="no-display-inline" id="id21BBBBDAB19841AAB474D9ED31CBF36F"><enum>(i)</enum><header>In general</header><text>The administering authority, the Secretary of Labor, and the Administrator of the Environmental Protection Agency may jointly establish procedures pursuant to which obtaining certification from an organization described in clause (ii) may demonstrate the eligibility of an exporter or producer for a precertification under subparagraph (A)(i) or the eligibility of a country for a precertification under subparagraph (A)(ii).</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="id32EADA0F5FC8416198A3E3926583359C"><enum>(ii)</enum><header>Organization described</header><text>An organization described in this clause is an independent third-party organization that sets standards with respect to adequate wages or sustainable production methods.</text>
+ </clause></subparagraph><subparagraph id="id12548961D9AD4C95B8120401C32B1615"><enum>(D)</enum><header>Guidance on compliance</header><text>Not later than one year after the date of the enactment of this Act, the administering authority shall publish in the Federal Register guidance with respect to how persons producing covered merchandise for exportation to the United States or seeking to import covered merchandise into the United States may obtain a precertification under subparagraph (A).</text>
+ </subparagraph></paragraph></subsection><subsection id="id5BCF5273CCE24F6CBEFDD917C42BF17D"><enum>(c)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section:</text> <paragraph id="id401ebe40aa10467da22d8590fd328763"><enum>(1)</enum><header>Adequate wages</header><text>The term <term>adequate wages</term>—</text>
+ <subparagraph id="idfd193e8e3f1a46d7a0ef1d43827af630"><enum>(A)</enum><text>means compensation for a regular work week that is sufficient to meet the basic needs of the employee and any dependents of the employee, including providing reasonable discretionary income; and</text>
+ </subparagraph><subparagraph id="ida60d976550714628959d9d0378f5dc80"><enum>(B)</enum><text>includes, at a minimum—</text> <clause id="id62B60FE8B8A94344ADF3382EBED10562"><enum>(i)</enum><text>the payment of the higher of the minimum wage or the appropriate prevailing wage;</text>
+ </clause><clause id="id1B9A7B42C86540EE9A3E2F60B9FC7BA0"><enum>(ii)</enum><text>compliance with all legal requirements relating to wages (including freedom of association relating to the bargaining relating to wages and related matters); and</text>
+ </clause><clause id="idC10EB304899A483C85B476D50612EAD0"><enum>(iii)</enum><text>the provision of such benefits as are required by law or contract.</text> </clause></subparagraph></paragraph><paragraph id="idE672636F0DFC4E93B15D9C92873C22DF"><enum>(2)</enum><header>Administering authority</header><text>The term <term>administering authority</term> has the meaning given that term in section 771(1) of the Tariff Act of 1930 (<external-xref legal-doc="usc" parsable-cite="usc/19/1677">19 U.S.C. 1677(1)</external-xref>).</text>
+ </paragraph><paragraph id="idFE7B5D475D1149AB80D5DF08BB4C0196"><enum>(3)</enum><header>Covered merchandise</header><text>The term <term>covered merchandise</term> means merchandise imported into the United States from a country described in subsection (a).</text> </paragraph><paragraph id="id70d4063417154b769f974d0b0131d3ed"><enum>(4)</enum><header>Sustainable production methods</header><text>The term <term>sustainable production methods</term>—</text>
+ <subparagraph id="id5913d14186c24ee4a5d08cb9c2f207b9"><enum>(A)</enum><text>means the application of technologies and methods that are necessary to provide for workplace safety, toxic waste control, control of discharge of pollutants to air, water, and land, and the reasonable conservation of energy and natural resources, taking into account local standards and conditions; and</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idf0f24e912b304120af4e6d81dc69633b"><enum>(B)</enum><text>includes, at a minimum, the use of technologies and methods that would be required for similar production facilities in the United States.</text></subparagraph></paragraph></subsection></section></legis-body>
+</bill>
+
+

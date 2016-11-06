@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HE4BA85CB40FA4612BD477F6F48392747" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3871 IH: Stingray Privacy Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3871</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151102">November 2, 2015</action-date>
+			<action-desc><sponsor name-id="C001076">Mr. Chaffetz</sponsor> (for himself, <cosponsor name-id="C000714">Mr. Conyers</cosponsor>, and <cosponsor name-id="W000800">Mr. Welch</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 18, United States Code, to regulate the use of cell-site simulators, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="H427E355635E2414EB560CAD6A07B2DDC" style="OLC">
+ <section id="HEBC889BFEB5F4193BBE27E0BA754398E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stingray Privacy Act of 2015</short-title></quote> .</text> </section><section id="H880D7A0551F44CE6906471F7A57B7CD3"><enum>2.</enum><header>Prohibition on cell-site simulator use</header> <subsection id="H1E2019D9B7E142D59F7451E42280C502"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/205">Chapter 205</external-xref> of title 18, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HD01662D902CF4917AD751D0B15145A4B" style="USC">
+					<section id="HC3893CD62D40450185B9FCA9099D09C9"><enum>3119.</enum><header>Cell-site simulators</header>
+ <subsection id="H39D2865438084D7DBA70F80A39DD452C"><enum>(a)</enum><header>Prohibition of use</header><text display-inline="yes-display-inline">Except as provided in subsection (d), anyone who knowingly uses a cell-site simulator shall be punished as provided in subsection (b).</text>
+ </subsection><subsection id="H639872E543984370BA4506551B996857"><enum>(b)</enum><header>Penalty</header><text display-inline="yes-display-inline">The punishment for an offense under subsection (a) is a fine under this title or imprisonment for not more than 10 years, or both.</text>
+ </subsection><subsection id="H0CDAEFA66D9240C39862A49C34EB3A3D"><enum>(c)</enum><header>Prohibition of use as evidence</header><text display-inline="yes-display-inline">No information acquired through the use of a cell-site simulator in violation of subsection (a), and no evidence derived therefrom, may be received in evidence in any trial, hearing, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision thereof.</text>
+ </subsection><subsection id="H842E65BD6684416CB65D29907DD102A8"><enum>(d)</enum><header>Exceptions</header><text display-inline="yes-display-inline">Subsection (a) does not apply to the following:</text> <paragraph id="HD862CE3F5EFF48B28ACDCBC0973CBBE7"><enum>(1)</enum><header>Warrant</header><text display-inline="yes-display-inline">Use of a cell-site simulator by a governmental entity under a warrant issued under the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued under State warrant procedures) by a court of competent jurisdiction.</text>
+ </paragraph><paragraph id="HA6B7DF427CC1430B8316627F47B4D641"><enum>(2)</enum><header>Foreign intelligence surveillance</header><text display-inline="yes-display-inline">Use of a cell-site simulator by a governmental entity to conduct electronic surveillance under the Foreign Intelligence Service Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">50 U.S.C. 1801 et seq.</external-xref>).</text>
+ </paragraph><paragraph id="HDD065A3386BD437D9922EE5D82579014"><enum>(3)</enum><header>Emergency</header><text display-inline="yes-display-inline">Subject to subsection (e), use of a cell-site simulator by a governmental entity, if—</text> <subparagraph id="HDF81965ADF194603BC92306692A25441"><enum>(A)</enum><text display-inline="yes-display-inline">such governmental entity reasonably determines an emergency exists that—</text>
+ <clause id="H8D3F217239FE401CB38D40D1CCB425E8"><enum>(i)</enum><text>involves—</text> <subclause id="H55D4E25C32404AFBBE2C5E3A939EC85E"><enum>(I)</enum><text>immediate danger of death or serious physical injury to any person;</text>
+ </subclause><subclause id="HAE838236C9FC4338AB38AAE1CCA50040"><enum>(II)</enum><text>conspiratorial activities threatening the national security interest; or</text> </subclause><subclause id="HC42A9B7D44B643A38B02D50779EF39C9"><enum>(III)</enum><text>conspiratorial activities characteristic of organized crime; and</text>
+ </subclause></clause><clause id="HC1B6451624D141A3B52E746746166C5E"><enum>(ii)</enum><text>requires use of a cell-site simulator before a warrant can, with due diligence, be obtained;</text> </clause></subparagraph><subparagraph id="H59B37F0DDE9A492CBD1E8A2E26968F98"><enum>(B)</enum><text>there are grounds upon which a warrant could be entered to authorize such use; and</text>
+ </subparagraph><subparagraph display-inline="no-display-inline" id="H4372CE1120334037B1F5F2046EB420E8"><enum>(C)</enum><text display-inline="yes-display-inline">such governmental entity applies for a warrant approving such use not later than 48 hours after such use begins.</text>
+								</subparagraph></paragraph></subsection><subsection id="HC54CD9596A2540BC846BD4EA1EA8E720"><enum>(e)</enum><header>Termination of emergency use</header>
+ <paragraph id="H8DF9E71C127B49C0B3BB36703A93B01E"><enum>(1)</enum><header>In general</header><text>A governmental entity shall immediately terminate use of a cell-site simulator under subsection (d)(3) when the information sought is obtained or when the application for a warrant is denied, whichever is earlier.</text>
+ </paragraph><paragraph id="H20B346F9DFF34299AA32A5B6EECD6526"><enum>(2)</enum><header>Prohibition on use as evidence</header><text display-inline="yes-display-inline">If an application for a warrant under subsection (d)(3) is denied, any information or evidence derived from use of the cell-site simulator shall be subject to subsection (c) and an inventory shall be served on each person named in the application.</text>
+ </paragraph></subsection><subsection id="H5E27A208D8C94113AEA762119C670BA6"><enum>(f)</enum><header>Definitions</header><text>As used in this section—</text> <paragraph id="HF98768AB44C94294AA82EC610CF2838C"><enum>(1)</enum><text>the terms defined in section 2711 have, respectively, the definitions given such terms in that section; and</text>
+ </paragraph><paragraph id="H2F566496D3D947F8B9895D30752B8579"><enum>(2)</enum><text display-inline="yes-display-inline">the term <term>cell-site simulator</term> means any device that simulates facilities for the provision of electronic communication service.</text> </paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="HACA4BDBB2898419887F06FF07E38DADD"><enum>(b)</enum><header>Conforming amendments</header><text>Section 3127 of title 18, United States Code, is amended—</text>
+ <paragraph id="H7A85D25E013A498ABD95A48BEAB85CE3"><enum>(1)</enum><text display-inline="yes-display-inline">in paragraph (3) by striking <quote>but such term does not include any</quote> and inserting <quote>except such term does not include any cell-site simulator, as that term is defined in section 3119, or</quote>; and</text>
+ </paragraph><paragraph id="H47EABB0D4A31472284D181DB6DDC24C0"><enum>(2)</enum><text>in paragraph (4) by striking <quote>of any communication</quote> and inserting <quote>of any communication, except such term does not include any cell-site simulator, as that term is defined in section 3119</quote>.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

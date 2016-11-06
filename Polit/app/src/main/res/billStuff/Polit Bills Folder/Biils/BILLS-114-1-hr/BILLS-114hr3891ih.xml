@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5B06BBBCFA7146DFAACCEF689708D1D6" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3891 IH: Get Regulation Out of the Way Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3891</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151103">November 3, 2015</action-date>
+			<action-desc><sponsor name-id="C001102">Mr. Clawson of Florida</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Sarbanes-Oxley Act of 2002 to exempt issuers with a total market capitalization of
+			 less than $2,000,000,000 from the auditor attestation requirement for
+			 internal control assessments.</official-title>
+	</form>
+	<legis-body id="HD58100D5CE334137B8C63995732C4309" style="OLC">
+ <section id="H0EE07E8879BC492FB3FE36A4770F1DE3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Get Regulation Out of the Way Act of 2015</short-title></quote> or the <quote><short-title>GROW Act of 2015</short-title></quote>.</text> </section><section id="H5846A0F220024DC5BAB190F295DCEA60"><enum>2.</enum><header>Additional exemption from auditor attestation to internal control assessments</header><text display-inline="no-display-inline">Section 404(c) of the Sarbanes-Oxley Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/15/7262">15 U.S.C. 7262(c)</external-xref>) is amended—</text>
+ <paragraph id="H8E796345D7E0457A87DAFC846057583D"><enum>(1)</enum><text>by striking the period at the end and inserting <quote>; or</quote>;</text> </paragraph><paragraph id="H1B3DF3E409874E3AB3DB9260791751E5"><enum>(2)</enum><text>by striking <quote>prepared for an issuer</quote> and inserting the following:</text>
+				<quoted-block display-inline="yes-display-inline" id="HF2152962AD584185BD0F3E2740D70F1F" style="OLC">
+ <text>prepared for—</text><paragraph id="H6E9B8EAA92EA47C887AD2B54631491E6"><enum>(1)</enum><text display-inline="yes-display-inline">an issuer</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block> </paragraph><paragraph id="H4D0DAE7B99494B4CAE19DE39BEC6AD88"><enum>(3)</enum><text>by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H7777C358346E40BCB48704E7DEEDB2B4" style="OLC">
+ <paragraph id="H134901B93F6F41FD8CF5E46991B0C558"><enum>(2)</enum><text display-inline="yes-display-inline">an issuer that, as of the first day of the fiscal year to which the assessment described in such subsection relates, has a total market capitalization of less than $2,000,000,000.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

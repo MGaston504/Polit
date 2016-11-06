@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H7536A298A3474043A2CDA5D4787A36CC" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1707 IH: Access to Frontline Health Care Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1707</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150326">March 26, 2015</action-date>
+			<action-desc><sponsor name-id="L000565">Mr. Loebsack</sponsor> (for himself, <cosponsor name-id="G000559">Mr. Garamendi</cosponsor>, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, <cosponsor name-id="K000188">Mr. Kind</cosponsor>, <cosponsor name-id="R000053">Mr. Rangel</cosponsor>, <cosponsor name-id="M001143">Ms. McCollum</cosponsor>, and <cosponsor name-id="E000288">Mr. Ellison</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Public Health Service Act to direct the Secretary of Health and Human Services to
+			 establish a Frontline Providers Loan Repayment Program.</official-title>
+	</form>
+	<legis-body id="H0800E42B1A91428CB64E7E64CF33F1AB" style="OLC">
+ <section id="HB8B1AA5F32B8464CB53201712121F552" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Access to Frontline Health Care Act of 2015</short-title></quote>.</text> </section><section id="H155871BC58AC4001A80422E598880003"><enum>2.</enum><header>Frontline providers loan repayment program</header><text display-inline="no-display-inline">Part D of title III of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/254b">42 U.S.C. 254b et seq.</external-xref>) is amended—</text>
+ <paragraph id="H01ACCC5CC49B4F45BBE9E542DFF90022"><enum>(1)</enum><text>by redesignating the second subpart XI (as added by section 10333 of <external-xref legal-doc="public-law" parsable-cite="pl/111/148">Public Law 111–148</external-xref>) as subpart XII;</text>
+ </paragraph><paragraph id="HD71A5FB489234FA2BBE0057608AE5F4F"><enum>(2)</enum><text>by redesignating the second section 340H (as added by such section 10333) as section 340I; and</text> </paragraph><paragraph id="H621A8EA532A44D18B0221B01AACC6EFF"><enum>(3)</enum><text>by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H8DBD52B91EF64E32B922BE1772692C4C" style="OLC">
+					<subpart id="HE9F0F2E779DF4B8988D0E55B34F845A7"><enum>XIII</enum><header>Frontline Health Care Services</header>
+						<section id="HA57EF8CE31BF41929BB84D336F62FEF9"><enum>340J.</enum><header>Frontline Providers Loan Repayment Program</header>
+ <subsection id="HD9A6DF5133E6444BB44ECE425C507AD1"><enum>(a)</enum><header>In General</header><text>The Secretary shall establish and carry out a Frontline Providers Loan Repayment Program (in this section referred to as the <term>Loan Repayment Program</term>) under which, pursuant to contracts in accordance with this section—</text>
+ <paragraph id="H99091FB6E0454304BC5D3D23BFE3C7F3"><enum>(1)</enum><text display-inline="yes-display-inline">the Secretary agrees to make student loan repayments; and</text> </paragraph><paragraph id="H1715CA28DDD440B9A5EB44D1F92272F4"><enum>(2)</enum><text display-inline="yes-display-inline">the individual agrees to serve as a health professional for a period of full-time service of not less than 2 years at a health care facility serving a frontline care scarcity area.</text>
+ </paragraph></subsection><subsection id="HC8DBD1707D3D49E0978F64BC0F4CF765"><enum>(b)</enum><header>Eligibility</header><text>To be eligible to participate in the Loan Repayment Program, an individual must—</text> <paragraph id="H7B404AD6AB9E4747A984912AE0F148B8"><enum>(1)</enum><text>submit an application to participate in the Loan Repayment Program in such form and manner and at such time as specified by the Secretary; and</text>
+ </paragraph><paragraph id="HB3D956ECC9B64FFF84189ABF372AEAA8"><enum>(2)</enum><text>sign and submit to the Secretary, at the time of submittal of such application, a written contract (described in subsection (d)).</text>
+								</paragraph></subsection><subsection id="H1D09F8EDAC984D6BA82BB8E464FF805E"><enum>(c)</enum><header>Participation in Program</header>
+ <paragraph id="HFCB551AA91CB405B9028E751B1400C4B"><enum>(1)</enum><header>In general</header><text>An individual becomes a participant in the Loan Repayment Program only upon the approval of the Secretary of the individual’s application submitted under subsection (b)(1) and the Secretary’s acceptance of the contract submitted by the individual under subsection (b)(2).</text>
+ </paragraph><paragraph display-inline="no-display-inline" id="H33AED2C0E91D4D8FB08B2AF5C24F88D5"><enum>(2)</enum><header>Preference</header><text>In awarding contracts under this section, the Secretary shall give preference to applicants who have undertaken training or coursework in interdisciplinary studies.</text>
+ </paragraph><paragraph commented="no" id="HF130372BDC1C40108BA9C7E024E4F7D8"><enum>(3)</enum><header>Recruitment for Interdisciplinary Programs</header><text>The Secretary shall—</text> <subparagraph id="HC5E58CCD53BD40609A662F17D9D6D14A"><enum>(A)</enum><text>determine the frontline care scarcity areas in which to place contract recipients under this section; and</text>
+ </subparagraph><subparagraph id="HA8B81AB4758B405199721D047F49280B"><enum>(B)</enum><text>in making such determination, give preference to areas with a demonstrated program of interdisciplinary health care, or with demonstrated plans to initiate interdisciplinary approaches to community health care.</text>
+ </subparagraph></paragraph><paragraph id="H1C34482A46DA4CE3B58B34652F3262EB"><enum>(4)</enum><header>Notice</header><text>The Secretary shall provide written notice to an individual promptly upon the Secretary’s approving, under paragraph (1), of the individual’s participation in the Loan Repayment Program.</text>
+ </paragraph></subsection><subsection id="HA703FD6311C64B148D12081FA7BFA262"><enum>(d)</enum><header>Contract</header><text>The contract described in this subsection is a written contract between the Secretary and an individual that contains—</text>
+ <paragraph id="HF5E05530C6A5499E9A77499370070F56"><enum>(1)</enum><text>an agreement that—</text> <subparagraph id="H98CE3891FF1F477296387D678B3B36AB"><enum>(A)</enum><text>the Secretary agrees to provide the individual with student loan repayment (described in subsection (e)) for a period of time as determined by the Secretary, to pay off debts incurred during the course of the study or program described in subsection (g)(2)(B); and</text>
+ </subparagraph><subparagraph id="H4B204C42462A44E1B75F8B6AE74D2AC3"><enum>(B)</enum><text>the individual agrees—</text> <clause id="H5764539D5E404E73B9CA5F5C66361A99"><enum>(i)</enum><text>to accept provision of such a student loan repayment to the individual; and</text>
+ </clause><clause id="HCA4C8FB7A88346AC80925D007F1265A3"><enum>(ii)</enum><text display-inline="yes-display-inline">to provide frontline care services for a period of full-time service of not less than 2 years at a health care facility serving a frontline care scarcity area;</text>
+ </clause></subparagraph></paragraph><paragraph id="H8D59D77A7B544F5B9538C736712BEC21"><enum>(2)</enum><text>a provision that any financial obligation of the United States arising out of a contract entered into under this section and any obligation of the individual which is conditioned thereon, is contingent upon funds being appropriated for student loan repayment under this section;</text>
+ </paragraph><paragraph id="HED8633A1765849BB97D3BA7D3DB787D8"><enum>(3)</enum><text>a statement of the damages to which the United States is entitled, under subsection (f), for the individual’s breach of the contract; and</text>
+ </paragraph><paragraph id="H6A58A0F6CE714F6CB06B7D5D4021C8DD"><enum>(4)</enum><text>such other statements as the Secretary deems appropriate of the rights and liabilities of the Secretary and of the individual, not inconsistent with the provisions of this section.</text>
+								</paragraph></subsection><subsection id="H4A837A2F9EE74CE5A36A716ECABCF3F3"><enum>(e)</enum><header>Student Loan Repayment</header>
+ <paragraph id="H95B281F9259C45828B55BA93D72A1AB7"><enum>(1)</enum><header>Amount</header><text>The amount of an annual student loan repayment under this section on behalf of an individual shall be determined by the Secretary, and shall take into consideration the need to pay a sufficient amount to enable recruiting of health care providers into the loan repayment program under this section.</text>
+ </paragraph><paragraph id="HE999BFE4410E4E199E402EF6C512427B"><enum>(2)</enum><header>Payments Directly to Loan Provider</header><text>The Secretary may contract with an individual’s loan provider, for the payment to the loan provider, on behalf of the individual, of the amounts of a student loan repayment described in paragraph (1).</text>
+ </paragraph></subsection><subsection commented="no" id="H76F354E7FE244EE999CF1EA8F37154D6"><enum>(f)</enum><header>Breach of contract</header><text display-inline="yes-display-inline">If an individual breaches a written contract under this section by failing to begin such individual’s service obligation, or to complete such service obligation, the United States shall be entitled to recover from the individual an amount that is equal to the sum of—</text>
+ <paragraph commented="no" id="H3D893EA1DA84446D8FC572565915C899"><enum>(1)</enum><text>the total amount which has been paid to the individual, or on behalf of the individual, under the contract; and</text>
+ </paragraph><paragraph commented="no" id="HF7492BDFB2C84D1FAD03AD2E2C93139E"><enum>(2)</enum><text>any amount of interest, as determined by the Secretary.</text> </paragraph></subsection><subsection id="H47B71A362208485E941A5D4A31D6DDE3"><enum>(g)</enum><header>Definitions</header><text>In this section:</text>
+ <paragraph id="HC44D20F8A583400A989BFDC67F16E1DA"><enum>(1)</enum><text>The term <term>frontline care scarcity area</term> means an area, population group, or facility that—</text> <subparagraph id="H07E3827C4A9A4B3AAFC0EF10BAAB958D"><enum>(A)</enum><text>is designated as a health professional shortage area under section 332; or</text>
+ </subparagraph><subparagraph id="H64E2A287F00A4236A95C8131CCF43CF4"><enum>(B)</enum><text>is designated by the State in which the area is located as having a shortage of frontline care services.</text>
+ </subparagraph></paragraph><paragraph id="HE5FE13C050034DF591C88F199B4EFCA5"><enum>(2)</enum><text>The term <term>frontline care services</term> means health care services—</text> <subparagraph id="H656D3B74F9CB41A981984C19098D0B57"><enum>(A)</enum><text display-inline="yes-display-inline">in the field of general surgery, optometry, ophthalmology, chiropractic, physical therapy, audiology, speech language pathology, pharmacies, public health, podiatric medicine, dietetics, occupational therapy, general pediatrics, respiratory therapy, medical technology, otolaryngology, or radiologic technology; and</text>
+ </subparagraph><subparagraph id="H78DC3C9924294B1092590637CD4D96E8"><enum>(B)</enum><text display-inline="yes-display-inline">provided by a general surgeon, optometrist, ophthalmologist, chiropractor, physical therapist, audiologist, speech language pathologist, pharmacist, public health professional, podiatric physician, registered dietician, occupational therapist, pediatrician, respiratory therapist, medical technologist, otolaryngologist, or radiologic technologist who has completed an appropriate course of study or program, offered by an accredited institution of higher education in the United States.</text>
+ </subparagraph></paragraph></subsection><subsection commented="no" id="H1864C19CFC3944318617CEBB4BF825E7"><enum>(h)</enum><header>Implementation</header><text>The Secretary shall begin implementation of the loan repayment program under this section within 180 days of the date of the enactment of this section.</text></subsection></section></subpart><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

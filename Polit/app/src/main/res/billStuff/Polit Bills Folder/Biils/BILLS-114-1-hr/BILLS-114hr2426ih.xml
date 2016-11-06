@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H1FF67EF4FC354239B296EE5096A1333F" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2426 IH: 21st Century Cures Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2426</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150519">May 19, 2015</action-date> 
+<action-desc><sponsor name-id="S000364">Mr. Shimkus</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Federal Food, Drug, and Cosmetic Act with respect to easing regulatory burden with respect to certain class I and class II devices.</official-title> 
+</form> 
+<legis-body id="H1FAF6D7A0910421A8BDA939C6B695363" style="OLC"> 
+<section id="HF4D3CAA8A1084F2C94B7A6EC8A25691E" section-type="section-one"><enum>1.</enum><header>Easing regulatory burden with respect to certain class I and class II devices</header> 
+<subsection id="H48D882133E484E4BBD4D5833D8A109DB"><enum>(a)</enum><header>Class I devices</header><text display-inline="yes-display-inline">Section 510(l) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360">21 U.S.C. 360(l)</external-xref>) is amended—</text> <paragraph id="H96D74307CD6645AFAC45FB7B2CB94221"><enum>(1)</enum><text display-inline="yes-display-inline">by striking <quote>A report under subsection (k)</quote> and inserting <quote>(1) A report under subsection (k)</quote>; and</text></paragraph> 
+<paragraph id="H030BF2B868CD45F59E6E0061DC1AA383"><enum>(2)</enum><text>by adding at the end the following new paragraph: </text> <quoted-block style="traditional" id="H92104377CE294D1D88D4E62971296A9B" display-inline="no-display-inline"> <paragraph id="HCFE0F0D180FE4C21BDC0063740909D61" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">Not later than 120 days after the date of the enactment of the <short-title>21st Century Cures Act</short-title>, the Secretary shall identify, through publication in the Federal Register, any type of class I device that the Secretary determines no longer requires a report under subsection (k) to provide reasonable assurance of safety and effectiveness. Upon such publication—</text> 
+<subparagraph id="HB956CBE1713A43E69677D7D85897B657"><enum>(A)</enum><text display-inline="yes-display-inline">each type of class I device so identified shall be exempt from the requirement for a report under subsection (k); and</text></subparagraph> <subparagraph id="HF814D70F5A3244C6989824347F5BE073"><enum>(B)</enum><text display-inline="yes-display-inline">the classification regulation applicable to each such type of device shall be deemed amended to incorporate such exemption.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="HDC2EC485284645ADB27AB3A0D243EA87"><enum>(b)</enum><header>Class II devices</header><text display-inline="yes-display-inline">Section 510(m) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360">21 U.S.C. 360(m)</external-xref>) is amended—</text> <paragraph id="H567E8EF6AC694AE8A323DCAADF868C91"><enum>(1)</enum><text display-inline="yes-display-inline">by striking paragraph (1) and inserting the following new paragraph:</text> 
+<quoted-block style="traditional" id="H3BDA1943169C4A629FE4FAC20CC3F847" display-inline="no-display-inline"> 
+<paragraph id="H5349D8FEE71E42ECA5620CD797DB4A30" indent="up1"><enum>(1)</enum><text>The Secretary shall—</text> <subparagraph id="H1EFE87A4C2084E239C732F9F4BBF88D4"><enum>(A)</enum><text display-inline="yes-display-inline">not later than 60 days after the date of the enactment of the <short-title>21st Century Cures Act</short-title>—</text> 
+<clause id="H1E23A087C5B04A6EA242795DCFE9179A"><enum>(i)</enum><text display-inline="yes-display-inline">publish in the Federal Register a notice that contains a list of each type of class II device that the Secretary determines no longer requires a report under subsection (k) to provide reasonable assurance of safety and effectiveness; and</text></clause> <clause id="HDA78737099CA4C909FC3D6054215AB47"><enum>(ii)</enum><text display-inline="yes-display-inline">provide for a period of not less than 60 days for public comment beginning on the date of the publication of such notice; and</text></clause></subparagraph> 
+<subparagraph id="H6DA6F3077AB8459EB891E80F256EB68B"><enum>(B)</enum><text display-inline="yes-display-inline">not later than 180 days after the date of the enactment of <short-title>21st Century Cures Act</short-title>, publish in the Federal Register a list representing the Secretary’s final determination with respect to the devices contained in the list published under subparagraph (A). </text></subparagraph></paragraph><after-quoted-block>;</after-quoted-block></quoted-block></paragraph> <paragraph id="H0F5B8FA8AF104D9BA80205D0E815793C"><enum>(2)</enum><text>in paragraph (2)—</text> 
+<subparagraph id="HEAED5413E8E443D6987542C995B73177"><enum>(A)</enum><text display-inline="yes-display-inline">by striking <quote>1 day after the date of publication of a list under this subsection,</quote> and inserting <quote>1 day after the date of publication of the final list under paragraph (1)(B),</quote>; and</text></subparagraph> <subparagraph id="H3A82A749D5294063BD65F18E5B10D26C"><enum>(B)</enum><text>by striking <quote>30-day period</quote> and inserting <quote>60-day period</quote>; and</text></subparagraph></paragraph> 
+<paragraph id="H412C5B60DB174F13ACA46AB7A793EB1C"><enum>(3)</enum><text display-inline="yes-display-inline">by adding at the end the following new paragraph: </text> <quoted-block style="traditional" id="H9F5F5FED49134D20BE82F820628003C1" display-inline="no-display-inline"> <paragraph id="H0CED61D71C024C67B190EC066B5D9E75" indent="up1"><enum>(3)</enum><text>Upon the publication of the final list under paragraph (1)(B)—</text> 
+<subparagraph id="HCE41F9B1AB0148DA9797EBB0244D7A36"><enum>(A)</enum><text display-inline="yes-display-inline">each type of class II device so listed shall be exempt from the requirement for a report under subsection (k); and</text></subparagraph> <subparagraph id="H912A81C220E9447EABBF407CE29F94EC"><enum>(B)</enum><text display-inline="yes-display-inline">the classification regulation applicable to each such type of device shall be deemed amended to incorporate such exemption. </text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section> 
+</legis-body> 
+</bill> 
+

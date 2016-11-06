@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H284060467B2B4FAA99151855A1CDA974" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3361 IH: Department of Homeland Security Insider Threat and Mitigation Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3361</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150729">July 29, 2015</action-date>
+			<action-desc><sponsor name-id="K000210">Mr. King of New York</sponsor> (for himself, <cosponsor name-id="H001038">Mr. Higgins</cosponsor>, <cosponsor name-id="B001269">Mr. Barletta</cosponsor>, <cosponsor name-id="K000386">Mr. Katko</cosponsor>, and <cosponsor name-id="D000625">Mr. Donovan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Homeland Security Act of 2002 to establish the Insider Threat Program, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="H38AA6C99F7C54706BF696C08D87D14CB" style="OLC">
+ <section id="HA6E2BBE3FB0D477B918ADD25FF5F350D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Department of Homeland Security Insider Threat and Mitigation Act of 2015</short-title></quote>.</text> </section><section id="H8B901C7D075247179427F748EF93062D"><enum>2.</enum><header>Establishment of Insider Threat Program</header> <subsection id="HE41B3564DC7F4297BC249B322D622FFC"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Title I of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/111">6 U.S.C. 111 et seq.</external-xref>) is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="H31DE04765D574BBDAE4BF2BEF627B0F9" style="OLC">
+					<section id="H4BE6D7AD1B644D8391A8D252F090E15F"><enum>104.</enum><header>Insider Threat Program</header>
+ <subsection id="HF2CC2590DB0F4221A5090B4DD61AB654"><enum>(a)</enum><header>Establishment</header><text display-inline="yes-display-inline">The Secretary shall establish an Insider Threat Program within the Department. Such Program shall—</text> <paragraph id="HF472482348C645CE95A684EF0C84C79A"><enum>(1)</enum><text>provide training and education for Department personnel to identify, prevent, mitigate, and respond to insider threat risks to the Department’s critical assets;</text>
+ </paragraph><paragraph id="H83219028C76F406A80CE40255B58AE53"><enum>(2)</enum><text>provide investigative support regarding potential insider threats that may pose a risk to the Department’s critical assets; and</text>
+ </paragraph><paragraph id="HE2306EF4B11C4EED9907C3D97D9C19CE"><enum>(3)</enum><text>conduct risk mitigation activities for insider threats.</text> </paragraph></subsection><subsection id="H3512B6189B534FF7A507CDC98E5EFEFB"><enum>(b)</enum><header>Steering Committee</header> <paragraph id="HF47458B71F9B4033B85421CE9CCE7499"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary shall establish a Steering Committee within the Department. The Under Secretary for Intelligence and Analysis shall serve as the Chair of the Steering Committee. The Chief Security Officer shall serve as the Vice Chair. The Steering Committee shall be comprised of representatives of the Office of Intelligence and Analysis, the Office of the Chief Information Officer, the Office of the General Counsel, the Office for Civil Rights and Civil Liberties, the Privacy Office, the Office of the Chief Human Capital Officer, the Office of the Chief Financial Officer, the Federal Protective Service, the Office of the Chief Procurement Officer, the Science and Technology Directorate, and other components or offices of the Department as appropriate. Such representatives shall meet on a regular basis to discuss cases and issues related to insider threats to the Department’s critical assets, in accordance with subsection (a).</text>
+ </paragraph><paragraph id="H286FDCDCE8234875B290939EE2BB0257"><enum>(2)</enum><header>Responsibilities</header><text>Not later than one year after the date of the enactment of this section, the Under Secretary for Intelligence and Analysis and the Chief Security Officer, in coordination with the Steering Committee established pursuant to paragraph (1), shall—</text>
+ <subparagraph id="H868D6529B6A4408585BD29F60C786B62"><enum>(A)</enum><text display-inline="yes-display-inline">develop a holistic strategy for Department-wide efforts to identify, prevent, mitigate, and respond to insider threats to the Department’s critical assets;</text>
+ </subparagraph><subparagraph id="HD52C494C67DC4DAB808A4C746AF2050A"><enum>(B)</enum><text>develop a plan to implement the insider threat measures identified in the strategy developed under subparagraph (A) across the components and offices of the Department;</text>
+ </subparagraph><subparagraph id="H53377E9930254E2BB0DED60A785FCA9F"><enum>(C)</enum><text>document insider threat policies and controls;</text> </subparagraph><subparagraph id="HD9BCCB42081B4A8F88C6C8BE3CEEC63D"><enum>(D)</enum><text>conduct a baseline risk assessment of insider threats posed to the Department’s critical assets;</text>
+ </subparagraph><subparagraph id="H99BC098B577349A2807513310D743BBA"><enum>(E)</enum><text display-inline="yes-display-inline">examine existing programmatic and technology best practices adopted by the Federal Government, industry, and research institutions to implement solutions that are validated and cost-effective;</text>
+ </subparagraph><subparagraph id="H70100F9A2AD84CB8B6FB12AB76CC79F2"><enum>(F)</enum><text display-inline="yes-display-inline">develop a timeline for deploying workplace monitoring technologies, employee awareness campaigns, and education and training programs related to identifying, preventing, mitigating, and responding to potential insider threats to the Department’s critical assets;</text>
+ </subparagraph><subparagraph id="HB7992C14AF314C0DA9C085F64F2A6467"><enum>(G)</enum><text display-inline="yes-display-inline">require the Chair and Vice Chair of the Steering Committee to consult with the Under Secretary for Science and Technology and other appropriate stakeholders to ensure the Insider Threat Program is informed, on an ongoing basis, by current information regarding threats, beset practices, and available technology; and</text>
+ </subparagraph><subparagraph id="H42121B8620FE40C3930FBD5184B461F4"><enum>(H)</enum><text display-inline="yes-display-inline">develop, collect, and report metrics on the effectiveness of the Department’s insider threat mitigation efforts.</text>
+								</subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

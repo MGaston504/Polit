@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S532 IS: Highway-Rail Grade Crossing Safety Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-02-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 532</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150223">February 23, 2015</action-date>
+			<action-desc><sponsor name-id="S341">Mr. Blumenthal</sponsor> (for himself and <cosponsor name-id="S270">Mr. Schumer</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To improve highway-rail grade crossing safety, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Highway-Rail Grade Crossing Safety Act of 2015</short-title></quote>.</text>
+ </section><section id="id178D52BB15C14E95BA25B3E36A100852"><enum>2.</enum><header>Railway-Highway Crossing Program</header><text display-inline="no-display-inline">In addition to amounts otherwise apportioned for the highway safety improvement program described in section 148 of title 23, United States Code, there are authorized to be appropriated, for each of fiscal years 2016 through 2019, $50,000,000, which shall be set aside for the Railway-Highway Crossings Program authorized under section 130 of such title.</text>
+ </section><section id="idDDBB3E34DF5F4ABFB93C7D6F32D0C0FF"><enum>3.</enum><header>Highway-Rail Grade Crossing Grants Safety Program</header><text display-inline="no-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/225">Chapter 225</external-xref> of title 49, United States Code, is amended—</text> <paragraph id="id7D94C4C15EDE4FA39D25D93E1966BB25"><enum>(1)</enum><text display-inline="yes-display-inline">in section 22501(1), by striking <quote>to a maximum of 3 States per year for development</quote> and inserting <quote>for the development</quote>;</text>
+ </paragraph><paragraph id="idCE3D7F401D694DE8AF95A2411F2086B0"><enum>(2)</enum><text display-inline="yes-display-inline">in section 22504(b)—</text> <subparagraph id="idCEFA135167AE49C8BE383B618A6991C6"><enum>(A)</enum><text display-inline="yes-display-inline">in the subsection heading, by striking <quote><header-in-text level="subsection" style="USC">under section 22501(2)</header-in-text></quote>; and</text>
+ </subparagraph><subparagraph id="id3C3F09BB51A84E86BCC1808AFAF63D29"><enum>(B)</enum><text display-inline="yes-display-inline">by striking <quote>$250,000</quote> and inserting <quote>$2,500,000</quote>; and</text> </subparagraph></paragraph><paragraph id="idCDFD856E580E4B688307CD8DFF287FDB"><enum>(3)</enum><text display-inline="yes-display-inline">by amending section 22505 to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="id34C2E2D9D956402CA3625FB5AA1FAC3A" style="USC">
+					<section id="idCE6EB5FFE2FF496F8A235575219041B2"><enum>22505.</enum><header>Authorization of appropriations</header>
+ <subsection id="id54A636DA5B094D7CA59D939101501511"><enum>(a)</enum><header>In general</header><text>There are authorized to be appropriated, for each of the fiscal years 2016 through 2019, $100,000,000 for grants authorized under section 22501.</text>
+ </subsection><subsection id="id291DD13A27DD4B96BFAEBBC5BFC10729"><enum>(b)</enum><header>Availability of funds</header><text>Amounts appropriated pursuant to this section shall remain available until expended.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></section><section id="id0E152ED378F54F088093589F0659A736"><enum>4.</enum><header>Rail Line Relocation and Improvement Capital Grant Program</header><text display-inline="no-display-inline">Section 20154 of title 49, United States Code, is amended—</text>
+ <paragraph id="id80C00F820DAA40149E756B835B762E5D"><enum>(1)</enum><text>in subsection (b)(1), by striking <quote>, motor vehicle traffic flow, community quality of life, or economic development</quote>;</text> </paragraph><paragraph id="idF2FEC196FA7245A8BDC1A183D7BA24E7"><enum>(2)</enum><text>in subsection (c)(4), by striking <quote>motor vehicle and pedestrian traffic, safety, community quality of life, and area commerce</quote> and inserting <quote>safety</quote>; and</text>
+ </paragraph><paragraph id="idF0BF94C500144ADAAD14A8DE0074C05E"><enum>(3)</enum><text>in subsection (h)—</text> <subparagraph id="id98483C21074D4A428F40849B204A2EB3"><enum>(A)</enum><text>by striking paragraph (2); and</text>
+ </subparagraph><subparagraph id="idE2DEA430076B44D0BF08543B80BC1F1A"><enum>(B)</enum><text>by redesignating paragraph (3) as paragraph (2); and</text> </subparagraph></paragraph><paragraph id="id9EF2B7BDA9574F148B2DB29293B3641A"><enum>(4)</enum><text>in subsection (i), by striking <quote>$350,000,000 for each of the fiscal years 2006 through 2009</quote> and inserting <quote>$25,000,000 for each of the fiscal years 2016 through 2019</quote>.</text>
+ </paragraph></section><section id="idAA91C0B234B641C8B069A51A466E1E13"><enum>5.</enum><header>Operation Lifesaver</header><text display-inline="no-display-inline">Section 206(c) of the Rail Safety Improvement Act of 2008 (division A of <external-xref legal-doc="public-law" parsable-cite="pl/110/432">Public Law 110–432</external-xref>) is amended to read as follows:</text>
+			<quoted-block display-inline="no-display-inline" id="idDA128E19C95A4165B6929AA218CDF3C9" style="USC">
+ <subsection id="id1F8D497E97784A679F52CF8C43978340"><enum>(c)</enum><header>Authorization of appropriations</header><text>There are authorized to be appropriated to the Federal Railroad Administration, for each of the fiscal years 2016 through 2019, $3,000,000 to carry out this section.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="idAAE6BA608479450B8D006B9D3D570273"><enum>6.</enum><header>Highway-rail grade crossing safety personnel</header>
+ <subsection id="id7BAA2DE816BB4443844CBA9F19B27190"><enum>(a)</enum><header>Grade crossing safety managers</header><text display-inline="yes-display-inline">In addition to the personnel authorized to be employed by the Federal Railroad Administration on the day before the date of the enactment of this Act, the Administration shall hire 16 full-time grade crossing safety managers to work with State and local officials to identify safety improvements to highway-rail grade crossings.</text>
+ </subsection><subsection id="id9E2DDEE8AD7949B0963989192BC63BDC"><enum>(b)</enum><header>Trespass prevention managers</header><text display-inline="yes-display-inline">In addition to the personnel authorized to be employed by the Federal Railroad Administration on the day before the date of the enactment of this Act, the Administration shall hire 8 trespass prevention managers to work with local governments, schools, businesses, and railroads to develop site-specific mitigation plans.</text>
+ </subsection><subsection id="id09A58BAEFA494412862D9CF5D86D05B5"><enum>(c)</enum><header>Authorization of appropriations</header><text display-inline="yes-display-inline">There are authorized to be appropriated to the Federal Railroad Administration, for fiscal years 2016 through 2019, such sums as may be necessary to carry out this section.</text>
+ </subsection></section><section id="idFB5EFC5E002A48C1AFC7D0E59E20F89E"><enum>7.</enum><header>Feasibility of using new technology to report highway-rail grade crossing problems</header><text display-inline="no-display-inline">Section 20152 of title 49, United States Code, is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="idC7EF10DFC5FE4385BF782BDF03D44138" style="USC"> <subsection id="id78F0A9F78F8044669914CD2EF9336FC8"><enum>(c)</enum><header>Feasibility study</header><text>The Secretary of Transportation shall conduct a study of the feasibility of requiring railroads to provide additional means for the public to report problems at highway-rail grade crossings, including through a website and text messaging.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1656 IS: Master Limited Partnerships Parity Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-06-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 1656</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150624">June 24, 2015</action-date><action-desc><sponsor name-id="S337">Mr. Coons</sponsor> (for himself, <cosponsor name-id="S347">Mr. Moran</cosponsor>, <cosponsor name-id="S288">Ms. Murkowski</cosponsor>, <cosponsor name-id="S284">Ms. Stabenow</cosponsor>, <cosponsor name-id="S252">Ms. Collins</cosponsor>, <cosponsor name-id="S330">Mr. Bennet</cosponsor>, <cosponsor name-id="S377">Mr. Gardner</cosponsor>, and <cosponsor name-id="S363">Mr. King</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Internal Revenue Code of 1986 to extend the publicly traded partnership ownership
+			 structure to energy power generation projects and transportation fuels,
+			 and for other purposes. </official-title></form>
+	<legis-body>
+ <section id="idF24572E6DFCD4AA3A2BA15B38492575A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Master Limited Partnerships Parity Act</short-title></quote>.</text>
+		</section><section id="id8AED0E230DCC4A52BDD964E2D18829C9" section-type="subsequent-section"><enum>2.</enum><header>Extension of publicly
+			 traded partnership ownership structure to energy power generation
+			 projects,
+			 transportation fuels, and related energy activities</header>
+			<subsection id="idF593996A301A4F96A17164A8504028C0"><enum>(a)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Subparagraph (E) of <external-xref legal-doc="usc" parsable-cite="usc/26/7704">section 7704(d)(1)</external-xref> of the Internal Revenue Code of 1986 is amended—</text>
+ <paragraph id="idC1C0CD23A6024FEAA386B10A0FA9DC6D"><enum>(1)</enum><text display-inline="yes-display-inline">by striking <quote>income and gains derived from the exploration</quote> and inserting</text>
+					<quoted-block display-inline="yes-display-inline" id="id361964A57BCF4BFCAE44248E453BF7B0" style="OLC">
+ <text>income and gains derived from the following:</text><clause id="idAC59905888204E409C5A1DA8BE6D32CB"><enum>(i)</enum><header>Minerals,
+ natural resources, etc</header><text>The exploration</text></clause><after-quoted-block>,</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="idA20EB75F6B2A47F5A385F3D7B648AA0C"><enum>(2)</enum><text>by inserting <quote>or</quote> before <quote>industrial source</quote>,</text>
+ </paragraph><paragraph id="idA356B77DA2264D5DA79368F5DF1AF217"><enum>(3)</enum><text>by inserting a period after <quote>carbon dioxide</quote>, and</text>
+ </paragraph><paragraph id="idE80C20E3E2A94A199A320AFFD2D35796"><enum>(4)</enum><text display-inline="yes-display-inline">by striking <quote>, or the transportation or storage</quote> and all that follows and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id7AF4564DDE604BA0846F2542D368665E" style="OLC">
+						<clause id="id11FE12D8A29D4C3EBA20657286EFC1D3"><enum>(ii)</enum><header>Renewable
+ energy</header><text display-inline="yes-display-inline">The generation of electric power (including the leasing of tangible personal property used for such generation) exclusively utilizing any resource described in section 45(c)(1) or energy property described in section 48 (determined without regard to any termination date), or in the case of a facility described in paragraph (3) or (7) of section 45(d) (determined without regard to any placed in service date or date by which construction of the facility is required to begin), the accepting or processing of such resource.</text>
+						</clause><clause id="id0AA3B3B36AA74C60A1FAD294D6EF45A1"><enum>(iii)</enum><header>Electricity
+ storage devices</header><text>The receipt and sale of electric power that has been stored in a device directly connected to the grid.</text>
+						</clause><clause id="id81F106173B98436FB6360D3858BAE5DE"><enum>(iv)</enum><header>Combined heat
+ and power</header><text>The generation, storage, or distribution of thermal energy exclusively utilizing property described in section 48(c)(3) (determined without regard to subparagraphs (B) and (D) thereof and without regard to any placed in service date).</text>
+						</clause><clause id="id63B5300A6C3047E2AF132937C5AE00E1"><enum>(v)</enum><header>Renewable
+ thermal energy</header><text>The generation, storage, or distribution of thermal energy exclusively using any resource described in section 45(c)(1) or energy property described in clause (i) or (iii) of section 48(a)(3)(A).</text>
+						</clause><clause id="id88BCCDF2147248F5B28513F83638FED5"><enum>(vi)</enum><header>Waste heat to
+ power</header><text>The use of recoverable waste energy, as defined in section 371(5) of the Energy Policy and Conservation Act (<external-xref legal-doc="usc" parsable-cite="usc/42/6341">42 U.S.C. 6341(5)</external-xref>) (as in effect on the date of the enactment of the <short-title>Master Limited Partnerships Parity Act</short-title>).</text>
+						</clause><clause id="idB97E3030514F497D905B2223C0E3A137"><enum>(vii)</enum><header>Renewable
+ fuel infrastructure</header><text display-inline="yes-display-inline">The storage or transportation of any fuel described in subsection (b), (c), (d), or (e) of section 6426.</text>
+						</clause><clause id="idAE26A2D55F58403082819844DD8A2D01"><enum>(viii)</enum><header>Renewable
+ fuels</header><text display-inline="yes-display-inline">The production, storage, or transportation of any renewable fuel described in section 211(o)(1)(J) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7545">42 U.S.C. 7545(o)(1)(J)</external-xref>) (as in effect on the date of the enactment of the <short-title>Master Limited Partnerships Parity Act</short-title>) or section 40A(d)(1).</text>
+						</clause><clause id="id85DF25C26AE14A9CA3798A3B7839691E"><enum>(ix)</enum><header>Renewable
+ chemicals</header><text display-inline="yes-display-inline">The production, storage, or transportation of any qualifying renewable chemical (as defined in paragraph (6)).</text>
+						</clause><clause id="id99AFBFA5CAB04C3088A61EF7D5E8DB0C"><enum>(x)</enum><header>Energy
+ efficient buildings</header><text display-inline="yes-display-inline">The audit and installation through contract or other agreement of any energy efficient building property described in section 179D(c)(1).</text>
+						</clause><clause id="id58CD80ED37B045DAA050D938E3985CED"><enum>(xi)</enum><header>Gasification
+ with sequestration</header><text display-inline="yes-display-inline">The production of any product or the generation of electric power from a project that meets the requirements of subparagraphs (A) and (B) of section 48B(c)(1) and that separates and sequesters in secure geological storage (as determined under section 45Q(d)(2)) at least 75 percent of such project's total qualified carbon dioxide (as defined in section 45Q(b)).</text>
+						</clause><clause id="id28CDC6E920B342A2ADB2EF81B3034E6E"><enum>(xii)</enum><header>Carbon capture and sequestration</header>
+ <subclause id="idDFCEDFEA296844419B3336719C4FBD3D"><enum>(I)</enum><header>Power generation facilities</header><text>The generation or storage of electric power (including associated income from the sale or marketing of energy, capacity, resource adequacy, and ancillary services) produced from any power generation facility which is, or from any power generation unit within, a qualified facility described in section 45Q(c) which—</text>
+ <item id="id7F3A867C7CAA4E24A0FEE1AED08D06E8"><enum>(aa)</enum><text>in the case of a power generation facility or power generation unit placed in service after January 8, 2013, captures 50 percent or more of the qualified carbon dioxide (as defined in section 45Q(b)) of such facility and disposes of such captured qualified carbon dioxide in secure geological storage (as determined under section 45Q(d)(2)), and</text>
+ </item><item id="id0C4F80B4EB81455F8531742E43276422"><enum>(bb)</enum><text>in the case of a power generation facility or power generation unit placed in service before January 9, 2013, captures 30 percent or more of the qualified carbon dioxide (as defined in section 45Q(b)) of such facility and disposes of such captured qualified carbon dioxide in secure geological storage (as determined under section 45Q(d)(2)).</text>
+ </item></subclause><subclause id="id723571F7A13A426C99EC94E108A6554B"><enum>(II)</enum><header>Other facilities</header><text>The sale of any good or service from any facility (other than a power generation facility) which is a qualified facility described in section 45Q(c) and the captured qualified carbon dioxide (as so defined) of which is disposed of in secure geological storage (as determined under section 45Q(d)(2)).</text></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="id80CDEC2EFD2D400B9DE722E4F8B1A775"><enum>(b)</enum><header>Renewable
+			 chemical</header>
+ <paragraph id="id8FA6D519B85B4389ACF52B5C3162511B"><enum>(1)</enum><header>In general</header><text>Section 7704(d) of such Code is amended by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="id72572B293A7E47259BE705395E8EEC05" style="OLC">
+						<paragraph id="id546A54F418CD458C88E34F5D395B1181"><enum>(6)</enum><header>Qualifying renewable
+				chemical</header>
+ <subparagraph id="id521CAB552A594F7FBC3399FB529BE32F"><enum>(A)</enum><header>In general</header><text>The term <term>qualifying renewable chemical</term> means any renewable chemical (as defined in section 9001 of the Agriculture Act of 2014)—</text> <clause id="id380713A41EE34382B8C4620D53C79E6F"><enum>(i)</enum><text>which is produced by the taxpayer in the United States or in a territory or possession of the United States,</text>
+ </clause><clause id="id1ACCAE2743784386B455ADF7C41B9616"><enum>(ii)</enum><text>which is the product of, or reliant upon, biological conversion, thermal conversion, or a combination of biological and thermal conversion, of renewable biomass (as defined in section 9001(12) of the Farm Security and Rural Investment Act of 2002),</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="idB123DBA59F2343C4920C454F0F448279"><enum>(iii)</enum><text display-inline="yes-display-inline">the biobased content of which is 95 percent or higher,</text> </clause><clause id="id07161D06C4B04F9EA3FB72893593BDC4"><enum>(iv)</enum><text>which is sold or used by the taxpayer—</text>
+ <subclause id="idBC65EF89FC024A8C875B52B1D4CE3CEC"><enum>(I)</enum><text>for the production of chemical products, polymers, plastics, or formulated products, or</text> </subclause><subclause id="id77C3B9CB9A1747C58F64E35128A82A8F"><enum>(II)</enum><text>as chemicals, polymers, plastics, or formulated products,</text>
+ </subclause></clause><clause id="id065A6CCB65F34556A7F946B683B5CD6A"><enum>(v)</enum><text>which is not sold or used for the production of any food, feed, or fuel, and</text> </clause><clause id="idC60853BFF00948B0B2AFC1BA5EE66481"><enum>(vi)</enum><text>which is—</text>
+ <subclause id="id8B010B01D8C64E58A11E98078B91F542"><enum>(I)</enum><text>acetic acid, acrylic acid, acyl glutamate, adipic acid, algae oils, algae sugars, aromatics, 1,4-butanediol, iso-butanol, n-butanol, carboxylic acids, cellulosic sugar, diethyl methylene malonate, ethyl acetate, farnesene, gamma-butyrolactone, glucaric acid, hexamethylenediamine, 3-hydroxy propionic acid, C10 hydrocarbons, isoprene, itaconic acid, ketals, levulinic acid, olefins, polyhydroxyalkonate, polylactic acid, polyitaconic acid, polyols from vegetable oils, poly(xylitan levulinate ketal), 1,3-propanediol, 1,2-propanediol, succinic acid, terpenes, thiols, or <italic>p</italic>-Xylene, or</text>
+ </subclause><subclause id="idE8654F5678304E23B19177E7018CC7AE"><enum>(II)</enum><text>any chemical not described in clause (i) which is a chemical listed by the Secretary for purposes of this paragraph.</text>
+ </subclause></clause></subparagraph><subparagraph id="idA606608EACFD410CA20AECB9903151FF"><enum>(B)</enum><header>Biobased content</header><text>For purposes of subparagraph (A)(iii), the term <term>biobased content percentage</term> means, with respect to any renewable chemical, the biobased content of such chemical (expressed as a percentage) determined by testing representative samples using the American Society for Testing and Materials (ASTM) D6866.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="id9DD6A88FB44A46398F01D2F0E0FAD50F"><enum>(2)</enum><header>List of other qualifying renewable chemicals</header><text>Not later than 180 days after the date of the enactment of this Act, the Secretary of the Treasury (or the Secretary's delegate), in consultation with the Secretary of Agriculture, shall establish a program to consider applications from taxpayers for the listing of chemicals under section 7874(d)(6)(A)(vi)(II) (as added by paragraph (1)).</text>
+				</paragraph></subsection><subsection id="idE82048C063F44BF4925A3D80B91C7E00"><enum>(c)</enum><header>Effective
+ date</header><text>The amendments made by this section shall take effect on the date of the enactment of this Act, in taxable years ending after such date.</text></subsection></section></legis-body></bill>
+
+

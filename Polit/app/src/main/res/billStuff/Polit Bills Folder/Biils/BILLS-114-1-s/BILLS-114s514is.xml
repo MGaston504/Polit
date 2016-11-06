@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S514 IS: Promise Neighborhoods Authorization Act of 2015 </dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-02-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 514</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150212">February 12, 2015</action-date>
+			<action-desc><sponsor name-id="S364">Mr. Murphy</sponsor> (for himself, <cosponsor name-id="S229">Mrs. Murray</cosponsor>, <cosponsor name-id="S307">Mr. Brown</cosponsor>, <cosponsor name-id="S332">Mr. Franken</cosponsor>, and <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Elementary and Secondary Education Act of 1965 to establish the Promise Neighborhoods
+			 program. </official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Promise Neighborhoods Authorization Act of 2015 </short-title></quote>.</text>
+ </section><section id="id16F9CC0BFD144F05805054D27BB73B28"><enum>2.</enum><header>Promise neighborhoods</header><text display-inline="no-display-inline">Title IV of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7101">20 U.S.C. 7101 et seq.</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="idC22CE8FBA87A42569BE99D36DB11D9DE" style="OLC">
+				<part id="id43CE11C30ADC4036B4346E4F24E59175"><enum>D</enum><header>Promise
+				neighborhoods</header>
+					<section id="id24b8526d82644ad499532367e74e5c00"><enum>4401.</enum><header>Short
+ title</header><text display-inline="no-display-inline">This part may be cited as the <quote>Promise Neighborhoods Act of 2015</quote>.</text>
+ </section><section id="ida4614a7ceef84e608c2bd970b29e7441"><enum>4402.</enum><header>Purpose</header><text display-inline="no-display-inline">The purpose of this part is to significantly improve the academic and developmental outcomes of children living in our Nation’s most distressed communities from birth through college and career entry, including ensuring school readiness, high school graduation, and college and career readiness for such children, through the use of data-driven decisionmaking and access to a community-based continuum of high-quality services, beginning at birth.</text>
+ </section><section id="idf3c445a62b654c40931c1db9cb50256c"><enum>4403.</enum><header>Definitions</header><text display-inline="no-display-inline">In this part:</text> <paragraph id="idb0ac41f682434e20b62555856df2fefd"><enum>(1)</enum><header>Child</header><text>The term <term>child</term> means an individual from birth through age 21.</text>
+						</paragraph><paragraph id="idb7cf084454a2419e90fdc8a61663a6f7"><enum>(2)</enum><header>College and
+ career readiness</header><text>The term <term>college and career readiness</term> means the level of preparation a student needs in order to meet the State academic content and achievement standards under section 1111(b)(1).</text>
+						</paragraph><paragraph id="id44b2838626874ba3a3ee2c9384c2ecb8"><enum>(3)</enum><header>Community of
+ practice</header><text>The term <term>community of practice</term> means a group of entities that interact regularly to share best practices to address 1 or more persistent problems, or improve practice with respect to such problems, in 1 or more neighborhoods.</text>
+						</paragraph><paragraph id="ided264d8aecd945ccab7ad10eef79b86e"><enum>(4)</enum><header>Comprehensive
+ school readiness assessment</header><text>The term <term>comprehensive school readiness assessment</term> means an objective tool that—</text>
+ <subparagraph id="id1D8720DD136D41228FB8DB77EAA50588"><enum>(A)</enum><text>screens for school readiness across domains, including language, cognitive, physical, motor, sensory, and social-emotional domains, and through a developmental screening; and</text>
+ </subparagraph><subparagraph id="id7B611AA659304CE7A72B900AE84D2CCA"><enum>(B)</enum><text>may also include other sources of information, such as child observations by parents and others, verbal and written reports, child work samples (for children aged 3 to 5), and health and developmental histories.</text>
+							</subparagraph></paragraph><paragraph id="id0ec19ec5890549d9b745ce806f0b7daf"><enum>(5)</enum><header>Developmental
+ screening</header><text>The term <term>developmental screening</term> means the use of a standardized tool to identify a child who may be at risk of a developmental delay or disorder.</text>
+						</paragraph><paragraph commented="no" id="id1a445c200c134031a2e613106e2ba3f9"><enum>(6)</enum><header>Expanded
+ learning time</header><text>The term <term>expanded learning time</term> means the activities and programs described in subparagraphs (A) and (B) of section 4201(b)(1).</text>
+						</paragraph><paragraph id="id384dd486d48a48869b7f734c22a0a758"><enum>(7)</enum><header>Family and
+ community engagement</header><text>The term <term>family and community engagement</term> means the process of engaging family and community members in education meaningfully and at all stages of the planning, implementation, and school and neighborhood improvement process, including, at a minimum—</text>
+ <subparagraph id="idb52bec094b684c91b5ec7962eb261c59"><enum>(A)</enum><text>disseminating a clear definition of the neighborhood to the members of the neighborhood;</text>
+ </subparagraph><subparagraph id="id1a262e9be797482cb8f83106060e0630"><enum>(B)</enum><text>ensuring representative participation by the members of such neighborhood in the planning and implementation of the activities of each grant awarded under this part;</text>
+ </subparagraph><subparagraph id="id6e569b2094bc4c1d8de5604e76ec7495"><enum>(C)</enum><text>regular engagement by the eligible entity and the partners of the eligible entity with family members and community partners;</text>
+ </subparagraph><subparagraph id="id21b24ba04f3d47c5825e47f701df99fa"><enum>(D)</enum><text>the provision of strategies and practices to assist family and community members in actively supporting student achievement and child development; and</text>
+ </subparagraph><subparagraph id="idd36e27690d5a45e1ae42d4df9fd82d5e"><enum>(E)</enum><text>collaboration with institutions of higher education, workforce development centers, and employers to align expectations and programming with college and career readiness.</text>
+							</subparagraph></paragraph><paragraph id="id9f992ba03cee450989654636689abde6"><enum>(8)</enum><header>Family and
+ student supports</header><text>The term <term>family and student supports</term> includes—</text>
+ <subparagraph id="id4adb84956a6a49909d423ce8a79aa7e7"><enum>(A)</enum><text>health programs (including both mental health and physical health services);</text>
+ </subparagraph><subparagraph id="id9757bc2f36854322935a8d4248b8506c"><enum>(B)</enum><text>school, public, and child-safety programs;</text>
+ </subparagraph><subparagraph id="idcb5d4e1c717e4da788200ce7263f2ade"><enum>(C)</enum><text>programs that improve family stability;</text>
+ </subparagraph><subparagraph id="idb6ed0290e8884ab19716d2430d2e8e10"><enum>(D)</enum><text>workforce development programs (including those that meet local business needs, such as internships and externships);</text>
+ </subparagraph><subparagraph id="id51f73e88552f40dc98778e9dd712ff1d"><enum>(E)</enum><text>social service programs;</text>
+ </subparagraph><subparagraph id="id1122ab197dcb442cbb1b4a8095869c88"><enum>(F)</enum><text>legal aid programs;</text>
+ </subparagraph><subparagraph id="idaf9359976e744bcab91d7e9580b392ef"><enum>(G)</enum><text>financial literacy education programs;</text>
+ </subparagraph><subparagraph id="idcf3d524332e04dea9711cee1b6080470"><enum>(H)</enum><text>adult education and family literacy programs;</text>
+ </subparagraph><subparagraph id="id047abd545bb14280989146534dc64e06"><enum>(I)</enum><text>parent, family, and community engagement programs; and</text>
+ </subparagraph><subparagraph id="id9be4a1ad62a44320b007ee9c3474fce4"><enum>(J)</enum><text>programs that increase access to learning technology and enhance the digital literacy skills of students.</text>
+							</subparagraph></paragraph><paragraph id="idf3b49215ff4848b783cace5a33a8c6df"><enum>(9)</enum><header>Family
+ member</header><text>The term <term>family member</term> means a parent, relative, or other adult who is responsible for the education, care, and well-being of a child.</text>
+						</paragraph><paragraph id="id360dc0ed6a74403a8104c96947dbe46c"><enum>(10)</enum><header>Integrated
+ student supports</header><text>The term <term>integrated student supports</term> means wraparound services, supports, and community resources, which shall be offered through a site coordinator for at-risk students, that have been shown by evidence-based research—</text>
+ <subparagraph id="ida336e29310de4e71ade776bee873e1e5"><enum>(A)</enum><text>to increase academic achievement and engagement;</text>
+ </subparagraph><subparagraph id="idee262410b6044124a09167c5c7d1f493"><enum>(B)</enum><text>to support positive child development; and</text>
+ </subparagraph><subparagraph id="id9c48514b6f5e4460a0fd2b068bc0c302"><enum>(C)</enum><text>to increase student preparedness for success in college and the workforce.</text>
+ </subparagraph></paragraph><paragraph id="ide0f929797a594372aefa5365c6b66b06"><enum>(11)</enum><header>Neighborhood</header><text>The term <term>neighborhood</term> means a defined geographical area in which there are multiple signs of distress, demonstrated by indicators of need, including poverty, childhood obesity rates, academic failure, and rates of juvenile delinquency, adjudication, or incarceration.</text>
+						</paragraph><paragraph id="id89035f42fc19415eb77a1ba237a35632"><enum>(12)</enum><header>Pipeline
+ services</header><text>The term <term>pipeline services</term> means a continuum of supports and services for children from birth through college entry, college success, and career attainment, including, at a minimum, strategies to address through services or programs (including integrated student supports) the following:</text>
+ <subparagraph id="id4a6067388ad34951b9770c242e999341"><enum>(A)</enum><text>Prenatal education and support for expectant parents.</text>
+ </subparagraph><subparagraph id="idcaa11486fe2444c8831db2b0cda4ee1b"><enum>(B)</enum><text>High-quality early learning opportunities.</text>
+ </subparagraph><subparagraph id="id118c1d8d10e142a18adc25db6bf9c2a7"><enum>(C)</enum><text>High-quality schools and out-of-school-time programs and strategies.</text>
+ </subparagraph><subparagraph id="id2cae103fd8504049820a7b6d818652d7"><enum>(D)</enum><text>Support for a child’s transition to elementary school, including the administration of a comprehensive school readiness assessment.</text>
+ </subparagraph><subparagraph id="idef66cc20aca3451a8e1f15608c7d4b25"><enum>(E)</enum><text>Support for a child’s transition from elementary school to middle school, from middle school to high school, and from high school into and through college and into the workforce.</text>
+ </subparagraph><subparagraph id="id5973a3caff3f4fc086fb0b3ea0952472"><enum>(F)</enum><text>Family and community engagement.</text>
+ </subparagraph><subparagraph id="idbeb150b9cd3d495eba156cbe767235a4"><enum>(G)</enum><text>Family and student supports.</text>
+ </subparagraph><subparagraph id="id3dc276b745ed4bb4aeee6b8deed0cb2f"><enum>(H)</enum><text>Activities that support college and career readiness, including coordination between such activities, such as—</text>
+ <clause id="id8c95639cacbc4ef2b0904ff7cb3f2031"><enum>(i)</enum><text>assistance with college admissions, financial aid, and scholarship applications, especially for low-income and low-achieving students; and</text>
+ </clause><clause id="id2bd9d0b5812245dcbef04a436fecd911"><enum>(ii)</enum><text>career preparation services and supports.</text>
+ </clause></subparagraph><subparagraph id="id4c95e17346c14dbd83f32970352ed84f"><enum>(I)</enum><text>Neighborhood-based support for college-age students who have attended the schools in the pipeline, or students who are members of the community, facilitating their continued connection to the community and success in college and the workforce.</text>
+							</subparagraph></paragraph></section><subpart id="idd56bab5f589640579caefd63fa46e9d9"><enum>1</enum><header>Promise
+				neighborhood partnership grants</header>
+						<section id="id61759ddddea0489097d7941ddac740f2"><enum>4411.</enum><header>Program
+				authorized</header>
+							<subsection id="id5d40b12cd48d4d7284f838c29e8ddfea"><enum>(a)</enum><header>In
+				general</header>
+								<paragraph id="id1568770d88604d8f8c73dbcf01d65058"><enum>(1)</enum><header>Program
+ authorized</header><text>From amounts appropriated to carry out this subpart, the Secretary shall award grants, on a competitive basis, to eligible entities to implement a comprehensive, evidence-based continuum of coordinated services and supports that engages community partners to improve academic achievement, student development, and college and career readiness, measured by common outcomes, by carrying out the activities described in section 4414 in neighborhoods with high concentrations of low-income individuals and persistently low-achieving schools or schools with an achievement gap.</text>
+								</paragraph><paragraph id="idca169e8b67c64b258e651c2d3948d9de"><enum>(2)</enum><header>Sufficient size
+ and scope</header><text>Each grant awarded under this subpart shall be of sufficient size and scope to allow the eligible entity to carry out the purpose of this part.</text>
+ </paragraph></subsection><subsection id="idfa97defeb10c436794e01b83c15456a0"><enum>(b)</enum><header>Duration</header><text>A grant awarded under this subpart shall be for a period of not more than 5 years.</text>
+							</subsection><subsection id="idfe39aabc797848ed882feee210fba1e4"><enum>(c)</enum><header>Continued
+ funding</header><text>Continued funding of a grant under this subpart, including a grant renewed under subsection (b)(2), after the third year of the grant period shall be contingent on the eligible entity’s progress toward meeting the performance metrics described in section 4416(a).</text>
+							</subsection><subsection id="id22be41470fb34ea0947018b07c07f21c"><enum>(d)</enum><header>Matching
+				requirement</header>
+								<paragraph id="id2172A2684C484AD5B6FD1F631E3213C9"><enum>(1)</enum><header>In
+ general</header><text>Each eligible entity receiving a grant under this subpart shall contribute matching funds in an amount equal to not less than 100 percent of the amount of the grant. Such matching funds shall come from Federal, State, local, and private sources.</text>
+								</paragraph><paragraph id="idB4E4A7D94FBE4DBEA401D012FB4AFE0E"><enum>(2)</enum><header>Private
+ sources</header><text>The Secretary—</text> <subparagraph id="idF35CDBAFF3BC44909F26881B9BED99B9"><enum>(A)</enum><text>shall require that a portion of the matching funds come from private sources; and</text>
+ </subparagraph><subparagraph id="id6D1E494D401A4D4F8163FEEABE7DF783"><enum>(B)</enum><text>may allow the use of in-kind donations to satisfy the matching funds requirement.</text>
+ </subparagraph></paragraph><paragraph id="id5344E5E6A4634A5C98397BBFDC0F39AA"><enum>(3)</enum><header>Adjustment</header><text>The Secretary may adjust the matching funds requirement for applicants that demonstrate high need, including applicants from rural areas or applicant that wish to provide services on tribal lands.</text>
+								</paragraph></subsection><subsection id="id6d3e3cc37cdf41dfb417231758052d86"><enum>(e)</enum><header>Financial
+				hardship waiver</header>
+								<paragraph id="id681160792E3747CF82D04711BEEB86B6"><enum>(1)</enum><header>In
+ General</header><text>The Secretary may waive or reduce, on a case-by-case basis, the matching requirement described in subsection (d), for a period of 1 year at a time, if the eligible entity demonstrates significant financial hardship.</text>
+								</paragraph><paragraph id="idB144AED567D449D5BA3BFAFA8D2DB60C"><enum>(2)</enum><header>Private sources
+ waiver</header><text>The Secretary may waive or reduce, on a case-by-case basis, the requirement described in subsection (d) that a portion of matching funds come from private sources if the eligible entity demonstrates an inability to access such funds in the State.</text>
+								</paragraph></subsection></section><section id="id4ac3cdc8f5cb4a419fac2f7cdfc51bb9"><enum>4412.</enum><header>Eligible
+ entities</header><text display-inline="no-display-inline">In this subpart, the term <term>eligible entity</term> means—</text>
+ <paragraph id="id162F92C6969D41F1878DD9BDCE5C3920"><enum>(1)</enum><text display-inline="yes-display-inline">an institution of higher education, as defined in section 102 of the Higher Education Act of 1965;</text> </paragraph><paragraph id="id8F739B40A0B64DE88A63D45E19399DC4"><enum>(2)</enum><text>an Indian tribe or tribal organization, as defined under section 4 of the Indian Self-Determination and Education Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/25/450b">25 U.S.C. 450b</external-xref>); or</text>
+ </paragraph><paragraph id="id471067799CC747448A3F90768AB4E6A7"><enum>(3)</enum><text display-inline="yes-display-inline">not less than 1 nonprofit entity working in coordination with not less than 1 of the following entities:</text>
+ <subparagraph id="id55886eedc1a64f9cbf4253d201f247a3"><enum>(A)</enum><text>A high-need local educational agency.</text>
+ </subparagraph><subparagraph id="id1a29769d1bff4e2191078590c66165f2"><enum>(B)</enum><text>A charter school funded by the Bureau of Indian Education that is not a local educational agency, except that such school shall not be the fiscal agent for the eligible entity partnership.</text>
+ </subparagraph><subparagraph id="ide96cf223a67a4bb68b3aa310b3017023"><enum>(C)</enum><text>An institution of higher education, as defined in section 102 of the Higher Education Act of 1965.</text>
+ </subparagraph><subparagraph id="iddf719151ee364777a21c92ab6a2d7694"><enum>(D)</enum><text>The office of a chief elected official of a unit of local government.</text>
+ </subparagraph><subparagraph id="id480bebe1db4f485894e4e65db23b8180"><enum>(E)</enum><text>An Indian tribe or tribal organization, as defined under section 4 of the Indian Self-Determination and Education Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/25/450b">25 U.S.C. 450b</external-xref>).</text>
+								</subparagraph></paragraph></section><section id="id4d246232bca34063b6ee228a82683f24"><enum>4413.</enum><header>Application
+				requirements</header>
+							<subsection id="idd6a42868fb7a4b4680a0f4eb714a3637"><enum>(a)</enum><header>In
+ general</header><text>An eligible entity desiring a grant under this subpart shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.</text>
+							</subsection><subsection id="idfadf6d3b7c82420b8e879cdfedd72dbd"><enum>(b)</enum><header>Contents of
+ application</header><text>At a minimum, an application described in subsection (a) shall include the following:</text>
+ <paragraph id="id95fc24f3ab0b4db09f724582cefbd756"><enum>(1)</enum><text>A plan to significantly improve the academic outcomes of children living in a neighborhood that is served by the eligible entity, by providing pipeline services that address the needs of children in the neighborhood, as identified by the needs analysis described in paragraph (4) and supported by evidence-based practices.</text>
+ </paragraph><paragraph id="id36b8865dfaf240b4b9edb14a68acc9b0"><enum>(2)</enum><text>A description of the neighborhood that the eligible entity will serve.</text>
+ </paragraph><paragraph id="id652b95ac252d49c785dcde928650719e"><enum>(3)</enum><text>Measurable annual goals for the outcomes of the grant, including—</text>
+ <subparagraph id="id56760896301e4bdfba794ddd522860ef"><enum>(A)</enum><text>performance goals, in accordance with the metrics described in section 4416(a), for each year of the grant; and</text>
+ </subparagraph><subparagraph id="id97c6f7640ee24df5a28fa0e22c663dc2"><enum>(B)</enum><text>projected participation rates and any plans to expand the number of children served or the neighborhood proposed to be served by the grant program.</text>
+ </subparagraph></paragraph><paragraph id="id8e6833ce1180439b89979431f0e74cf5"><enum>(4)</enum><text>An analysis of the needs and assets of the neighborhood identified in paragraph (2), including—</text>
+ <subparagraph id="id481430c9696448f69ab8ae0d7432bee9"><enum>(A)</enum><text>a description of the process through which the needs analysis was produced, including a description of how parents, family, and community members were engaged in such analysis;</text>
+ </subparagraph><subparagraph id="iddb7c8146139043b7933d0a744c2bb401"><enum>(B)</enum><text>an analysis of community assets, including programs already provided from Federal and non-Federal sources, within, or accessible to, the neighborhood, including, at a minimum—</text>
+ <clause id="id6cdc99267b2a45f6b50f6c1de6f08ace"><enum>(i)</enum><text>early learning programs, including high-quality child care, Early Head Start programs, Head Start programs, and prekindergarten programs;</text>
+ </clause><clause id="id97306224fa3b40b8ab0437edbdb03fd8"><enum>(ii)</enum><text>the availability of healthy food options and opportunities for physical activity;</text>
+ </clause><clause id="idebde32b8263844989c4c20cf01b4944b"><enum>(iii)</enum><text>existing family and student supports;</text>
+ </clause><clause id="id8620a9430c6049d0aa7e496d4fc9379c"><enum>(iv)</enum><text>locally owned businesses and employers; and</text>
+ </clause><clause id="id7605dddcf9d540c787455175b04020ec"><enum>(v)</enum><text>institutions of higher education;</text>
+ </clause></subparagraph><subparagraph id="id2469ff2eac664e7384785ac35843e2f7"><enum>(C)</enum><text>evidence of successful collaboration within the neighborhood;</text>
+ </subparagraph><subparagraph id="id02a62d9aa1914847a4ebcfdf88ffef51"><enum>(D)</enum><text>the steps that the eligible entity is taking, at the time of the application, to address the needs identified in the needs analysis; and</text>
+ </subparagraph><subparagraph id="id9e2e0c874890418a96765c002382cf45"><enum>(E)</enum><text>any barriers the eligible entity, public agencies, and other community-based organizations have faced in meeting such needs.</text>
+ </subparagraph></paragraph><paragraph id="id878b976d72e143c88b3b6742e9cdf703"><enum>(5)</enum><text>A description of the data used to identify the pipeline services to be provided, including data regarding—</text>
+ <subparagraph id="id932379cc095c448493d48f6496866ab0"><enum>(A)</enum><text>school readiness;</text>
+ </subparagraph><subparagraph id="idc3e1a5d48ff14ff3ae348711dc0aee0d"><enum>(B)</enum><text>academic achievement and college and career readiness;</text>
+ </subparagraph><subparagraph id="id5e306c03fde743228f25436db4ae3b1d"><enum>(C)</enum><text>graduation rates;</text>
+ </subparagraph><subparagraph id="id5daa915df7a841bc9cebd407dffa2c78"><enum>(D)</enum><text>health indicators;</text>
+ </subparagraph><subparagraph id="idbba08f6d29e4425a94e77a768f8b52bc"><enum>(E)</enum><text>rates of enrollment, remediation, persistence, and completion at institutions of higher education, as available; and</text>
+ </subparagraph><subparagraph id="id8eb2cad37455480eb264cacd5d1d8248"><enum>(F)</enum><text>conditions for learning, including school climate surveys, discipline rates, and student attendance and incident data.</text>
+ </subparagraph></paragraph><paragraph id="id0c8e337104524eb8beefa944297fef90"><enum>(6)</enum><text>A description of the process used to develop the application, including the involvement of family and community members.</text>
+ </paragraph><paragraph id="ide0b66b2d447c425eb2307ef6dd0f7c23"><enum>(7)</enum><text>An estimate of—</text>
+ <subparagraph id="ida8516ef0692b437a8407b9af0d41ecf1"><enum>(A)</enum><text>the number of children, by age, who will be served by each pipeline service; and</text>
+ </subparagraph><subparagraph id="id5116734c40464e2d99e5006fc30ec926"><enum>(B)</enum><text>for each age group, the percentage of children (of such age group), within the neighborhood, who the eligible entity proposes to serve, disaggregated by each service, and the goals for increasing such percentage over time.</text>
+ </subparagraph></paragraph><paragraph id="id770fb28a313242ea892a15813b28749a"><enum>(8)</enum><text>A description of how the pipeline services will facilitate the coordination of the following activities:</text>
+ <subparagraph id="id78e2fa36f21740b99654b911c85f77de"><enum>(A)</enum><text>Providing high-quality early learning opportunities for children, beginning prenatally and extending through grade 3, by—</text>
+ <clause id="id47363779f2f747cb8a861b4a1d5d82aa"><enum>(i)</enum><text>supporting high-quality early learning opportunities that provide children with access to programs that support the cognitive and developmental skills, including social and emotional skills, needed for success in elementary school;</text>
+ </clause><clause id="id1e76520b60c44ed1b3880ae3c4af4e12"><enum>(ii)</enum><text>providing for opportunities, through parenting classes, baby academies, home visits, family and community engagement, or other evidence-based strategies, for families and expectant parents to—</text>
+ <subclause id="id853479a7ecb449638a74d5180963285a"><enum>(I)</enum><text>acquire the skills to promote early learning, development, and health and safety, including learning about child development and positive discipline strategies (such as through the use of technology and public media programming);</text>
+ </subclause><subclause id="idce75dc2f1acf4a328de3e3136100a987"><enum>(II)</enum><text>learn about the role of families and expectant parents in their child’s education; and</text>
+ </subclause><subclause id="id62b71c44313f4e7faa3300ea310d33b3"><enum>(III)</enum><text>become informed about educational opportunities for their children, including differences in quality among early learning opportunities;</text>
+ </subclause></clause><clause id="idce807be528b94138abfeed2e4d23770c"><enum>(iii)</enum><text>ensuring successful transitions between early learning programs and elementary school, including through the establishment of memoranda of understanding between early learning providers and local educational agencies serving young children and families;</text>
+ </clause><clause id="idc0a7133777a845f0b9855992ffc8b8ca"><enum>(iv)</enum><text>ensuring appropriate screening, diagnostic assessments, and referrals for children with disabilities, developmental delays, or other special needs, consistent with the Individuals with Disabilities Education Act (<external-xref legal-doc="usc" parsable-cite="usc/20/1400">20 U.S.C. 1400 et seq.</external-xref>), where applicable;</text>
+ </clause><clause id="id78a7ea7f97544bdbb2cf421cbf04a654"><enum>(v)</enum><text>improving the early learning workforce in the community, including through—</text>
+ <subclause id="id13343d48735b4526bcde2eec2a70bf1c"><enum>(I)</enum><text>investments in the recruitment, retention, distribution, and support of high-quality professionals, especially those with certification and experience in child development;</text>
+ </subclause><subclause id="id60b6f7da57964ccebfd66455228aee9a"><enum>(II)</enum><text>the provision of high-quality teacher preparation and professional development; or</text>
+ </subclause><subclause id="id37fe525267e34aa188b4575e499a041a"><enum>(III)</enum><text>the use of joint professional development for early learning providers and elementary school teachers and administrators; and</text>
+ </subclause></clause><clause id="id799fcaf1a2a9499691ed18647ff39cfe"><enum>(vi)</enum><text>enhancing data systems and data sharing among the eligible entity, partners, early learning providers, schools, and local educational agencies operating in the neighborhood.</text>
+ </clause></subparagraph><subparagraph id="id1363c5ec6b0447909200a764a6117caf"><enum>(B)</enum><text>Supporting, enhancing, operating, or expanding rigorous and comprehensive education reforms designed to significantly improve educational outcomes for children in early learning programs through grade 12, which may include—</text>
+ <clause id="id5b3c80f2b2e44cd296c57025544a791d"><enum>(i)</enum><text>operating schools or working in close collaboration with local schools to provide high-quality academic programs, curricula, and integrated student supports;</text>
+ </clause><clause id="iddd840740d402466d851cdf14296e02cf"><enum>(ii)</enum><text>providing expanded learning time, which may include the integration and use of arts education in such learning time; and</text>
+ </clause><clause id="id4190708baecd45bb89c0745b10ebdd3b"><enum>(iii)</enum><text>providing programs and activities that ensure that students—</text>
+ <subclause id="id1a743de693f5466bb517a98a00a58b75"><enum>(I)</enum><text>are prepared for the college admissions, scholarship, and financial aid application processes; and</text>
+ </subclause><subclause id="idaf57f2c67f9045399826706f4b8b3a6a"><enum>(II)</enum><text>graduate college and career ready.</text>
+ </subclause></clause></subparagraph><subparagraph id="id9abebdde0e164a7bbe59ea3b4c79d7cf"><enum>(C)</enum><text>Supporting access to a healthy lifestyle, which may include—</text>
+ <clause id="id90c06e866bd84cbc8def634c23d1aac7"><enum>(i)</enum><text>the provision of high-quality and nutritious meals;</text>
+ </clause><clause id="idf05dfd9c269e4adf85376e15e705c631"><enum>(ii)</enum><text>access to programs that promote physical activity, physical education, and fitness; and</text>
+ </clause><clause id="id2ee5fd09ff65481499ccefdbe1330ed1"><enum>(iii)</enum><text>education to promote a healthy lifestyle and positive body image.</text>
+ </clause></subparagraph><subparagraph id="ida3d01b0964be420583bee4ab91f3539a"><enum>(D)</enum><text>Providing social, health, and mental health services and supports, including referrals for essential care and preventative screenings, for children, family, and community members, which may include—</text>
+ <clause id="id5d28e0c7081841d7b05d072c833dabb6"><enum>(i)</enum><text>dental services;</text>
+ </clause><clause id="idb92ee16620354804a07f4f57382cf5cb"><enum>(ii)</enum><text>vision care; and</text>
+ </clause><clause id="idaef336c9b793426cac694dcff9aa8565"><enum>(iii)</enum><text>speech, language, and auditory screenings and referrals.</text>
+ </clause></subparagraph><subparagraph id="id29b52450702243b0b1d0c1413035553c"><enum>(E)</enum><text>Supporting students and family members as the students transition from early learning programs into elementary school, from elementary school to middle school, from middle school to high school, from high school into and through college and into the workforce, including through evidence-based strategies to address challenges that students may face as they transition, such as the following:</text>
+ <clause id="id95f04540c1714724b022abad9f836a95"><enum>(i)</enum><text>Early college high schools.</text>
+ </clause><clause id="ida68e74a0f7c844f78c8b8cab2b08b4bf"><enum>(ii)</enum><text>Dual enrollment programs.</text>
+ </clause><clause id="idaf26983f41d743fab2d81d5d475434f7"><enum>(iii)</enum><text>Career academies.</text>
+ </clause><clause id="id551de2e2ff0743108585acfaf20e0ce6"><enum>(iv)</enum><text>Counseling and support services.</text>
+ </clause><clause id="idf2553c4d468245a3b42de5f84418ab01"><enum>(v)</enum><text>Dropout prevention and recovery strategies.</text>
+ </clause><clause id="id2a468d4492dd47aabf3abbdcba9d9fa2"><enum>(vi)</enum><text>Collaboration with the juvenile justice system and reentry counseling for adjudicated youth.</text>
+ </clause><clause id="id4244150e437e4c4089e641f1220baddb"><enum>(vii)</enum><text>Advanced Placement or International Baccalaureate courses.</text>
+ </clause><clause id="id6938d9b38c454dd49d64f259b43711fc"><enum>(viii)</enum><text>Teen parent classrooms.</text>
+ </clause><clause id="id7fa6bbb9dbad463584d78201cdddb5ca"><enum>(ix)</enum><text>Graduation and career coaches.</text>
+ </clause></subparagraph></paragraph><paragraph id="idf3978c04137340f08f84d2e9b5e523cd"><enum>(9)</enum><text>A description of the strategies that will be used to provide pipeline services (including a description of the process used to identify such strategies and the outcomes expected and a description of which programs and services will be provided to children, family members, community members, and children not attending schools or programs operated by the eligible entity or its partner providers) to support the purpose of this part.</text>
+ </paragraph><paragraph id="id1b7947ffcf124201b68cd6125caf8e05"><enum>(10)</enum><text>An explanation of the process the eligible entity will use to establish and maintain family and community engagement.</text>
+ </paragraph><paragraph id="id086ad11a31a244ff8819c206e01096c7"><enum>(11)</enum><text>An explanation of how the eligible entity will continuously evaluate and improve the continuum of high-quality pipeline services, including—</text>
+ <subparagraph id="id2843d1733a6d468db90e0c8a0da6ffa1"><enum>(A)</enum><text>a description of the metrics, consistent with section 4416(a), that will be used to inform each component of the pipeline; and</text>
+ </subparagraph><subparagraph id="iddb62f06227e248eb87b45c5d78d67269"><enum>(B)</enum><text>the processes for using data to improve instruction, optimize integrated student supports, provide for continuous program improvement, and hold staff and partner organizations accountable.</text>
+ </subparagraph></paragraph><paragraph id="ided415cf817114145ac04a59d226738b2"><enum>(12)</enum><text>An identification of the fiscal agent, which may be any entity described in section 4412 (not including paragraph (2) of such section).</text>
+ </paragraph><paragraph id="id9851b1771a2d4d1e8f2b99b8753cb808"><enum>(13)</enum><text>A list of the non-Federal sources of funding that the eligible entity will secure to comply with the matching funds requirement described in section 4411(d), in addition to other programs from which the eligible entity has already secured funding, including programs funded by the Department or programs of the Department of Health and Human Services, the Department of Housing and Urban Development, the Department of Justice, or the Department of Labor.</text>
+								</paragraph></subsection><subsection id="id3c0dcc26a9014d658c9a838c84d831f8"><enum>(c)</enum><header>Memorandum of
+ understanding</header><text>An eligible entity, as part of the application described in this section, shall submit a preliminary memorandum of understanding, signed by each partner entity or agency. The preliminary memorandum of understanding shall describe, at a minimum—</text>
+ <paragraph id="id15bc36694fc942e4840f5e166f300f1e"><enum>(1)</enum><text>each partner’s financial and programmatic commitment with respect to the strategies described in the application, including an identification of the fiscal agent;</text>
+ </paragraph><paragraph id="id756dbd1766a14ef792cb757d0954e2e8"><enum>(2)</enum><text>each partner’s long-term commitment to providing pipeline services that, at a minimum, accounts for the cost of supporting the continuum of supports and services (including a plan for how to support services and activities after grant funds are no longer available) and potential changes in local government;</text>
+ </paragraph><paragraph id="idefc52c62604a4486ba6231054f93da04"><enum>(3)</enum><text>each partner’s mission and the plan that will govern the work that the partners do together;</text>
+ </paragraph><paragraph id="id93c1eee813a04088a5235293efc5bd9c"><enum>(4)</enum><text>each partner’s long-term commitment to supporting the continuum of supports and services through data collection, monitoring, reporting, and sharing; and</text>
+ </paragraph><paragraph id="id5ebf2c11ffa34d949522711f6f3f48da"><enum>(5)</enum><text>each partner’s commitment to ensure sound fiscal management and controls, including evidence of a system of supports and personnel.</text>
+								</paragraph></subsection></section><section id="id7e7326556041418c9da8ee074abdea8e"><enum>4414.</enum><header>Use of
+				funds</header>
+							<subsection id="id7434b1ac5dbd4828bf7b1da7342f17ce"><enum>(a)</enum><header>In
+ general</header><text>Each eligible entity that receives a grant under this subpart shall use the grant funds to—</text>
+ <paragraph id="idAF3862563C65415B9561A2861B6F4590"><enum>(1)</enum><text>support planning activities to develop and implement pipeline services;</text> </paragraph><paragraph id="idd843dd9503154fadbd52a5fbb24f9b53"><enum>(2)</enum><text>implement the pipeline services, as described in the application under section 4413; and</text>
+ </paragraph><paragraph id="id35a1df081b3f4ab8a3f84ca18f4a76aa"><enum>(3)</enum><text>continuously evaluate the success of the program and improve the program based on data and outcomes.</text>
+								</paragraph></subsection><subsection id="iddcd5a80cbde4400eaf41c7df981b15a2"><enum>(b)</enum><header>Special
+				rules</header>
+								<paragraph id="id921f2f09cbf446d288d1946e028b412f"><enum>(1)</enum><header>Funds for
+ pipeline services</header><text>Each eligible entity that receives a grant under this subpart, for the first and second year of the grant, shall use not less than 50 percent of the grant funds to carry out the activities described in subsection (a)(1).</text>
+								</paragraph><paragraph id="idd82fd017f32248a8ad424ae031416b63"><enum>(2)</enum><header>Operational
+ flexibility</header><text>Each eligible entity that operates a school in a neighborhood served by a grant program under this subpart shall provide such school with the operational flexibility, including autonomy over staff, time, and budget, needed to effectively carry out the activities described in the application under section 4413.</text>
+								</paragraph><paragraph id="ide32d1946f9b941ab930ecd78fef3a181"><enum>(3)</enum><header>Limitation on
+ use of funds for early childhood education programs</header><text>Funds under this subpart that are used to improve early childhood education programs shall not be used to carry out any of the following activities:</text>
+ <subparagraph id="id8ad04b8e2f104480bbcb9ff211848224"><enum>(A)</enum><text>Assessments that provide rewards or sanctions for individual children or teachers.</text>
+ </subparagraph><subparagraph id="id055e9bb7383745d587cf8847be3bad82"><enum>(B)</enum><text>A single assessment that is used as the primary or sole method for assessing program effectiveness.</text>
+ </subparagraph><subparagraph id="idc4c741c73e344519ac888a3091a7167c"><enum>(C)</enum><text>Evaluating children, other than for the purposes of improving instruction, classroom environment, professional development, or parent and family engagement, or program improvement.</text>
+									</subparagraph></paragraph></subsection></section><section id="ided1e5cdd22f2402ea306fa3c1ba91848"><enum>4415.</enum><header>Report and
+				publicly available data</header>
+ <subsection id="id6416efdecb124f468bcb38426febcf0d"><enum>(a)</enum><header>Report</header><text>Each eligible entity that receives a grant under this subpart shall prepare and submit an annual report to the Secretary, which shall include—</text>
+ <paragraph id="ida6f90a37eeb343acbfb40c57da48c931"><enum>(1)</enum><text>information about the number and percentage of children in the neighborhood who are served by the grant program, including a description of the number and percentage of children accessing each support or service offered as part of the pipeline services;</text>
+ </paragraph><paragraph id="idddb1c0647ae34928bf847a6c4f9dfe6f"><enum>(2)</enum><text>information relating to the performance metrics described in section 4416(a); and</text>
+ </paragraph><paragraph id="id9496a9bb1428408f968ff7612db8ea34"><enum>(3)</enum><text>other indicators that may be required by the Secretary, in consultation with the Director of the Institute of Education Sciences.</text>
+								</paragraph></subsection><subsection id="id18c38a52164947edbdd32c52d7fc4978"><enum>(b)</enum><header>Publicly
+ available data</header><text>Each eligible entity that receives a grant under this subpart shall make publicly available, including through electronic means, the information described in subsection (a). To the extent practicable, such information shall be provided in a form and language accessible to parents and families in the neighborhood, and such information shall be a part of statewide longitudinal data systems.</text>
+							</subsection></section><section id="id70b105ea51ee449e857aed1b2a521f29"><enum>4416.</enum><header>Performance
+				accountability and evaluation</header>
+							<subsection id="id366e475538bf4c0f9ba8e4dc468d2824"><enum>(a)</enum><header>Performance
+ metrics</header><text>Each eligible entity that receives a grant under this subpart shall collect data on performance indicators of pipeline services and family and student supports and report the results to the Secretary, who shall use the results as a consideration in continuing grants after the third year and in awarding grant renewals. The indicators shall, at a minimum, include the following:</text>
+ <paragraph id="ida3a11cb71c694c9eb7fda2eb8e49f608"><enum>(1)</enum><text>Evidence of increasing qualifications for staff in early care and education programs attended by children in the neighborhood.</text>
+ </paragraph><paragraph id="iddf82d027874e43369d0e26ffbb98a433"><enum>(2)</enum><text>With respect to the children served by the grant—</text>
+ <subparagraph id="idbf3ea8b19a7f4130bad3abba566f39d3"><enum>(A)</enum><text>the percentage of children who are ready for kindergarten, as measured by a comprehensive developmental screening instrument;</text>
+ </subparagraph><subparagraph id="id2c48bb1316504438a4fe5a291dfac4d4"><enum>(B)</enum><text>the percentage of school-age children proficient in core academic subjects;</text>
+ </subparagraph><subparagraph id="id02d0db91255a4a21849276b2eb2d335b"><enum>(C)</enum><text>evidence of narrowing student achievement gaps among the categories described in section 1111(b)(3)(C)(xiii);</text>
+ </subparagraph><subparagraph id="idd1751d92a36c44f08ef8d04bb887d999"><enum>(D)</enum><text>the percentage of children who are reading at grade level by the end of grade 3;</text>
+ </subparagraph><subparagraph id="id1769468303104be3adeff81d79dd9276"><enum>(E)</enum><text>the percentage of children who successfully transition from grade 8 to grade 9;</text>
+ </subparagraph><subparagraph id="ide089cef614c640ecb7113992d7a5ce3b"><enum>(F)</enum><text>for each school year during the grant period, the percentage of students in prekindergarten, elementary school, and secondary school who miss more than 10 percent of school days for any reason, excused or unexcused, and the number and percentage of students who are suspended or expelled for any reason, starting in prekindergarten;</text>
+ </subparagraph><subparagraph id="id53864e08bd9248138114950c06cff534"><enum>(G)</enum><text>the percentage of children who graduate with a high school diploma;</text>
+ </subparagraph><subparagraph id="id790fc52f9c404c25a2c562bc32df243d"><enum>(H)</enum><text>the percentage of children who enter postsecondary education and remain after 1 year;</text>
+ </subparagraph><subparagraph id="id668a2dc59c474da9bf980ad75fff3fe2"><enum>(I)</enum><text>the percentage of children who are healthy, as measured by a child-health index that includes cognitive, nutritional, physical, social, mental-health, and emotional domains;</text>
+ </subparagraph><subparagraph id="id3d7955bb860240528e8817db0660e010"><enum>(J)</enum><text>the percentage of children who feel safe, as measured by a school climate survey;</text>
+ </subparagraph><subparagraph id="id4719f369bca04ac8aa0ec4e6a6e502da"><enum>(K)</enum><text>rates of student mobility and homelessness;</text>
+ </subparagraph><subparagraph id="idaec25673b13541f38454ae8938dfb591"><enum>(L)</enum><text>opportunities for family members of children to receive education and job training; and</text>
+ </subparagraph><subparagraph id="id7feefc800d064914b521bc52261f4b8b"><enum>(M)</enum><text>the percentage of children who have digital literacy skills and access to broadband internet and a connected computing device at home and at school.</text>
+ </subparagraph></paragraph></subsection><subsection id="id157cd05a3e6746a4b501b06cd838f634"><enum>(b)</enum><header>Evaluation</header><text>The Secretary shall evaluate the implementation and impact of the activities funded under this subpart, in accordance with section 9601.</text>
+							</subsection></section></subpart><subpart id="idcb8e02a492e14530a70130919fefa9ed"><enum>2</enum><header>Promise school
+				grants</header>
+						<section id="id93cb755de5d34665bf52dda4326234f7"><enum>4421.</enum><header>Program
+				authorized</header>
+							<subsection id="id54876a93b6b4421abcd29760e57af25b"><enum>(a)</enum><header>In
+				general</header>
+								<paragraph id="id3326e032203c4efe9ffdb32a4566188a"><enum>(1)</enum><header>Program
+ authorized</header><text>From amounts appropriated to carry out this subpart, the Secretary shall award grants, on a competitive basis, to eligible entities to implement school-centered, evidence-based strategies and integrated student supports that leverage community partnerships to improve student achievement and child development by carrying out the activities described in section 4424 in schools with high concentrations of low-income children.</text>
+								</paragraph><paragraph id="idc36cabc762cf4398b2b63e6861d7c565"><enum>(2)</enum><header>Sufficient size
+ and scope</header><text>Each grant awarded under this subpart shall be of sufficient size and scope to allow the eligible entity to carry out the purpose of this part.</text>
+								</paragraph></subsection><subsection id="idd97afc723fe945e7a59406736250f834"><enum>(b)</enum><header>General
+ provisions</header><text>The requirements of subsections (b), (c), (d), and (e) of section 4411 and section 4414(b) shall apply to a grant under this subpart in the same manner as such subsections apply to a grant under subpart 1, except that the performance metrics used for section 4411(c) shall be the metrics under section 4426(a).</text>
+							</subsection></section><section id="id17be4791e7fb4ec681210d987618648d"><enum>4422.</enum><header>Definition of
+ eligible entity</header><text display-inline="no-display-inline">In this subpart, the term <term>eligible entity</term> means—</text>
+ <paragraph id="id96547033320248c49f2c1c9dc298886b"><enum>(1)</enum><text>not less than 1 high-need local educational agency (including a charter school that is a local educational agency) in partnership with 1 or more nonprofit entities or institutions of higher education; or</text>
+ </paragraph><paragraph id="idf6850a395b3f4e509b9e31911c3da496"><enum>(2)</enum><text>a school funded by the Bureau of Indian Education that falls under the definition of a local educational agency in partnership with 1 or more nonprofit entities or institutions of higher education.</text>
+							</paragraph></section><section id="id9c24533e2dcd4314b0631eb8d415fb04"><enum>4423.</enum><header>Application
+				requirements; priority</header>
+							<subsection id="id87aa1cc2aa2d496f9736123dacd46b82"><enum>(a)</enum><header>In
+ general</header><text>An eligible entity desiring a grant under this subpart shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.</text>
+							</subsection><subsection id="id32806032d0114adcae6133b9128d626a"><enum>(b)</enum><header>Contents of
+ application</header><text>At a minimum, the application described in subsection (a) shall include the following:</text>
+ <paragraph id="id95420c16ebb14dd49071fd87904f5e38"><enum>(1)</enum><text>A description of the local educational agency, schools, and students that will be served by the grant program.</text>
+ </paragraph><paragraph id="idfad7eab425644debbfd2f2abbfc8406c"><enum>(2)</enum><text>A description of the steps that the eligible entity is taking—</text>
+ <subparagraph id="id3fc2c0a39f3643fa8a36ca2bfab8cc6a"><enum>(A)</enum><text>to meet the needs identified in the analysis described in paragraph (4); and</text>
+ </subparagraph><subparagraph id="id9ee600dfbb2a4f7f965e01e2dc5a742e"><enum>(B)</enum><text>to remove any barriers that the eligible entity has identified in meeting such needs.</text>
+ </subparagraph></paragraph><paragraph id="idad91b3dc0cd24e64bf698b8a26e51d4e"><enum>(3)</enum><text>The designation of a site coordinator, with appropriate qualifications and appropriate time, autonomy, and support to provide—</text>
+ <subparagraph id="id6e2c8a6afa504c7690a2616a558166b1"><enum>(A)</enum><text>leadership in building relationships and establishing and sustaining partnerships that support school improvement, school turnaround efforts in accordance with the State accountability system included in the State plan submitted to the Secretary, increases in student achievement, positive child development, and parent, family, and community engagement; and</text>
+ </subparagraph><subparagraph id="id808b267190954bcf8e379057be1aa871"><enum>(B)</enum><text>effective coordination of student services at all stages of the continuum of high-quality pipeline services.</text>
+ </subparagraph></paragraph><paragraph id="id12e1acd9daa74cba8658cdfdf6202f49"><enum>(4)</enum><text>An analysis of the needs and assets of the schools and communities that will be assisted under the grant. Such analysis shall include—</text>
+ <subparagraph id="id039d3d0098f24cd78ffdf1638dc2972e"><enum>(A)</enum><text>student data, including information about—</text>
+ <clause id="id761227e5e7524eafb25f977b03a49a3a"><enum>(i)</enum><text>kindergarten readiness, as measured by a comprehensive developmental screening instrument;</text>
+ </clause><clause id="id5027d663959040e4809231a725e47ad1"><enum>(ii)</enum><text>academic achievement;</text>
+ </clause><clause id="id1b0ab24da5534c17a424aa2e8db8124f"><enum>(iii)</enum><text>credit accumulation;</text>
+ </clause><clause id="id31b112cc64fc483a99b4fddb8df79571"><enum>(iv)</enum><text>grade-to-grade promotion;</text>
+ </clause><clause id="idca91944bb38e43399341a94a366cb255"><enum>(v)</enum><text>graduation;</text> </clause><clause id="ide89d9579ec5e48139f83d6a3fe860980"><enum>(vi)</enum><text>attendance; and</text>
+ </clause><clause id="ide105c7e306da4727a612b318b020ae3c"><enum>(vii)</enum><text>discipline; and</text>
+ </clause></subparagraph><subparagraph id="id845991133ac849609e9946e46ded0489"><enum>(B)</enum><text>information about the assets described in section 4413(b)(4)(B) with respect to such schools and communities.</text>
+ </subparagraph></paragraph><paragraph id="id27acf8c2aa54466ea1f9ddc4089160b0"><enum>(5)</enum><text>An explanation of how the eligible entity and its program partners will use evidence-based practice, data, research, and partnerships to provide pipeline services that—</text>
+ <subparagraph id="idc7ce22edaa614098ae909697495b3790"><enum>(A)</enum><text>address the needs identified in paragraph (4);</text>
+ </subparagraph><subparagraph id="id1a4ebe67ebd749d5a641900d7d4c2894"><enum>(B)</enum><text>conduct family and community engagement;</text>
+ </subparagraph><subparagraph id="id4f5e4912c0ac487b89841f09fe34ec16"><enum>(C)</enum><text>enable teachers and administrators, including early learning providers, to complement and enrich efforts to help children—</text>
+ <clause id="id9ed7df83fc95441e8a05c9a5d7a45d54"><enum>(i)</enum><text>achieve learning gains;</text>
+ </clause><clause id="id0d7415e5e1194229a35d7f7d57271650"><enum>(ii)</enum><text>prepare for graduation; and</text>
+ </clause><clause id="id343325350bd14e9ab992bf9da750d936"><enum>(iii)</enum><text>plan for the future, including preparing for college and careers; and</text>
+ </clause></subparagraph><subparagraph id="id7820d472bebe43ccaba1e098ab04b33e"><enum>(D)</enum><text>coordinate and leverage other programs that serve children, the schools served by the grant, and the neighborhood.</text>
+ </subparagraph></paragraph><paragraph id="idba892e26b9424f0d9a6a7af6ddeba362"><enum>(6)</enum><text>An explanation of the extent to which the eligible entity and its program partners will serve or involve children residing in the neighborhood regardless of whether such children attend a school served by the grant, including by carrying out the activities described in section 4413(b)(8).</text>
+ </paragraph><paragraph id="iddf4fd29266c541d4abf3aec8c8cc919f"><enum>(7)</enum><text>A description of the capacity of the eligible entity for measuring student outcomes and school-specific outcomes.</text>
+ </paragraph><paragraph id="id12ba1488ba58451cbdac628dc677f705"><enum>(8)</enum><text>A description of how the strategies supported with funds under this subpart will be—</text>
+ <subparagraph id="id82ed01f9636542d5aa1305b31be4d3b4"><enum>(A)</enum><text>coordinated with other programs and strategies carried out by the local educational agency; and</text>
+ </subparagraph><subparagraph id="id27b07211c8e143f18d7590e12d34b1d8"><enum>(B)</enum><text>to the greatest extent practicable, coordinated with other agencies, such as agencies that provide reentry services to adjudicated youth.</text>
+ </subparagraph></paragraph><paragraph id="id842fdfac26f246e89509e0a3e51b9b53"><enum>(9)</enum><text>A description of the strategy the eligible entity will use to—</text>
+ <subparagraph id="idaa64eee4aef74e549c25d73e6bdd5318"><enum>(A)</enum><text>conduct family and community engagement; and</text>
+ </subparagraph><subparagraph id="idafa2aa3dbe6d4efebc88d7f84cf6bb03"><enum>(B)</enum><text>make schools the centers of their respective communities.</text>
+ </subparagraph></paragraph><paragraph id="id0f60690897a148d2afc63120971bd7b2"><enum>(10)</enum><text>A list of the non-Federal sources of funding that the eligible entity will secure to comply with the matching funds requirement pursuant to sections 4411(d) and 4421, in addition to other programs the eligible entity has already secured funding from, including programs funded by the Department, or programs of the Department of Health and Human Services, the Department of Housing and Urban Development, the Department of Justice, or the Department of Labor.</text>
+								</paragraph></subsection><subsection id="id8c9beb2c0b14480687855dd06a40f56e"><enum>(c)</enum><header>Memorandum of
+ understanding</header><text>An eligible entity, as part of the application described in this section, shall submit a preliminary memorandum of understanding that meets the requirements of section 4413(c).</text>
+ </subsection><subsection id="id2c563889fcce4341aa168ad02bdc2df9"><enum>(d)</enum><header>Priority</header><text>In awarding grants under this subpart, the Secretary shall give priority to applicants that—</text>
+ <paragraph id="idFC18F27CFACA422B9E128BD604F65BA6"><enum>(1)</enum><text>propose to include significant investments, as determined by the Secretary, in high-quality early learning programs, consistent with section 4413(b)(8)(A); and</text>
+ </paragraph><paragraph id="id5409dd801a044749bc715e22b1afb34f"><enum>(2)</enum><text>provide schools served by the grant with the operational flexibility, including autonomy over staff, time, and budget, needed to effectively carry out the activities described in the application under this section.</text>
+								</paragraph></subsection></section><section id="id17b1999853e448db9f7ede5003afc169"><enum>4424.</enum><header>Use of
+				funds</header>
+							<subsection id="idCFAF3A34BBE34795A103597D2843C61A"><enum>(a)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Each eligible entity that receives a grant under this subpart shall use the grant funds to—</text>
+ <paragraph id="idabbb1b00c6c9458ca4e3b7c74e943ebf"><enum>(1)</enum><text>implement the activities described in the application under section 4423; and</text>
+ </paragraph><paragraph id="idc75930147098409a9243028c9675e952"><enum>(2)</enum><text>continuously evaluate the success of the grant program and improve the grant program based on data and outcomes.</text>
+								</paragraph></subsection><subsection id="id6c4e2b1995bb4a0387cf14018d5d96a4"><enum>(b)</enum><header>Special
+				rule</header>
+								<paragraph id="id128ce837e25f4636946d3945f91a82ba"><enum>(1)</enum><header>Limitation on
+ use of funds for early childhood education programs</header><text>Funds under this subpart that are used to improve early childhood education programs shall not be used to carry out any of the following activities:</text>
+ <subparagraph id="id8722e8bf3ac9490fa8f37bd52822e29a"><enum>(A)</enum><text>Assessments that provide rewards or sanctions for individual children or teachers.</text>
+ </subparagraph><subparagraph id="idabe654205c974ea380ebdee5e83eb713"><enum>(B)</enum><text>A single assessment that is used as the primary or sole method for assessing program effectiveness.</text>
+ </subparagraph><subparagraph id="id05d1be511b3a4d44acace21c25b8da02"><enum>(C)</enum><text>Evaluating children, other than for the purposes of improving instruction, classroom environment, professional development, or parent and family engagement, or program improvement.</text>
+									</subparagraph></paragraph></subsection></section><section id="id3d1a6bc0047542fab06e99c1d7099c62"><enum>4425.</enum><header>Report and
+				publicly available data</header>
+ <subsection id="id26f5f815f67f4cb89a7dc8a3b6e9993d"><enum>(a)</enum><header>Report</header><text>Each eligible entity that receives a grant under this subpart shall prepare and submit an annual report to the Secretary, which shall include—</text>
+ <paragraph id="id0e6dd66c70f448f9858218ebc92bb085"><enum>(1)</enum><text>information about the number and percentage of children served by the grant program, disaggregated the subgroups described in section 1111(b)(3)(C)(xiii);</text>
+ </paragraph><paragraph id="id57240b4f783849729dd761d9ae1c47c4"><enum>(2)</enum><text>information relating to the performance metrics described in section 4426(a); and</text>
+ </paragraph><paragraph id="idf5d0f0fa5609499db9552e10f0b35ebd"><enum>(3)</enum><text>other indicators that may be required by the Secretary, in consultation with the Director of the Institute of Education Sciences.</text>
+								</paragraph></subsection><subsection id="ida9a7465301b144f895481df6e9845539"><enum>(b)</enum><header>Publicly
+ available data</header><text>Each eligible entity that receives a grant under this subpart shall make publicly available, including through electronic means, the information described in subsection (a). To the extent practicable, such information shall be provided in a form and language accessible to parents and families in the neighborhood.</text>
+							</subsection></section><section id="idab942381b32144d9a16b6310ca53f793"><enum>4426.</enum><header>Performance
+				accountability and evaluation</header>
+							<subsection id="id4800e8d86c59486cbe32eec8adc1801e"><enum>(a)</enum><header>Performance
+ metrics</header><text>Each eligible entity receiving a grant under this subpart shall collect data on performance indicators of pipeline services and family and student supports and report the results to the Secretary, who shall use the results as a consideration in continuing grants after the third year and awarding grant renewals. The indicators shall, at a minimum, include the indicators described in paragraphs (1) and (2) of section 4416(a).</text>
+ </subsection><subsection id="id54a6cc2c4c794ee196907a948f87d709"><enum>(b)</enum><header>Evaluation</header><text>The Secretary shall evaluate the implementation and impact of the activities funded under this subpart, in accordance with section 9601.</text>
+							</subsection></section></subpart><subpart id="idccf538b108ee4d4fab3a4ee1c7e28433"><enum>3</enum><header>General
+				provisions</header>
+						<section id="idaee8e85509e7404eb7dc0c9b52de2825"><enum>4431.</enum><header>National
+ activities</header><text display-inline="no-display-inline">From the amounts appropriated to carry out this part for a fiscal year, in addition to the amounts that may be reserved in accordance with section 9601, the Secretary may reserve not more than 8 percent for national activities, which may include—</text>
+ <paragraph id="id1109fdebc664464b9716bfec7ae3af7c"><enum>(1)</enum><text>research on the activities carried out under subparts 1 and 2;</text>
+ </paragraph><paragraph id="ida1abb3a5209b4d4d97a4fe9f06879251"><enum>(2)</enum><text>identification and dissemination of best practices, including through support for a community of practice;</text>
+ </paragraph><paragraph id="id7919cb4861384e6ca497ca97c659cd32"><enum>(3)</enum><text>technical assistance, including assistance relating to family and community engagement and outreach to potential partner organizations;</text>
+ </paragraph><paragraph id="id8659bf660b434120ae473570d8caf093"><enum>(4)</enum><text>professional development, including development of materials related to professional development; and</text>
+ </paragraph><paragraph id="id889cdc58bc7a41c7ba71a7d20dfcda5a"><enum>(5)</enum><text>other activities consistent with the purpose of this part.</text>
+							</paragraph></section></subpart></part><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

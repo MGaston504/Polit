@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H27075596FDBB4F7CA030F1168E1C718F" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1322 IH: Stop Hiding Congressional Farm Subsidies Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1322</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150304">March 4, 2015</action-date> 
+<action-desc><sponsor name-id="P000608">Mr. Peters</sponsor> (for himself, <cosponsor name-id="K000188">Mr. Kind</cosponsor>, <cosponsor name-id="S000480">Ms. Slaughter</cosponsor>, <cosponsor name-id="C001078">Mr. Connolly</cosponsor>, and <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Federal Crop Insurance Act to require the public disclosure of crop insurance premium subsidies made on behalf of Members of Congress and their immediate families, Cabinet Secretaries and their immediate families, and entities of which any such individual or combination of such individuals is a majority shareholder, and to require the public disclosure of the underwriting gains earned by private insurance providers and the business expenses covered by the Federal Government.</official-title> 
+</form> 
+<legis-body id="HF3F648C1A8314D92871BC7D2CC6EC294" style="OLC"> 
+<section id="HFCD6EDB6FE414A13A430BE8BEFECD448" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Hiding Congressional Farm Subsidies Act</short-title></quote>.</text></section> <section id="H40CD04D061F34F3AA1D288288D20E0F2"><enum>2.</enum><header>Disclosure of crop insurance premium subsidies made on behalf of Members of Congress and certain other individuals and entities</header><text display-inline="no-display-inline">Section 502(c) of the Federal Crop Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1502">7 U.S.C. 1502(c)</external-xref>) is amended—</text>
+<paragraph id="H4A2E91BA8FE946E9B056667B9F2F0B70"><enum>(1)</enum><text>in paragraph (2), by adding at the end the following new subparagraph:</text> <quoted-block display-inline="no-display-inline" id="HFF9B6A7351FC4EA99D61618316375475" style="OLC"> <subparagraph id="HDB889A8E009B416F92535BA0730F2F7E"><enum>(C)</enum><header>Disclosure of subsidies made on behalf of Members of Congress and Cabinet Secretaries</header> <clause id="H1E25CF950C704ACB9F98FEB0E7ABFBCB"><enum>(i)</enum><header>Disclosure required</header><text display-inline="yes-display-inline">The Secretary shall make available to the public, on an annual basis, the following information regarding each individual or entity specified in clause (ii) who obtained a federally subsidized crop insurance, livestock, or forage policy or plan of insurance (other than a catastrophic risk protection plan offered under section 508(b)) during the previous fiscal year:</text>
+<subclause id="H7B1F11DDD34848679268AD7010CD0CFB"><enum>(I)</enum><text display-inline="yes-display-inline">The name of the individual or entity.</text></subclause> <subclause id="H96FAD90197FA479AB438314DFE2B813D"><enum>(II)</enum><text display-inline="yes-display-inline">The amount of premium subsidy received by the individual or entity from the Corporation for such policy or plan of insurance.</text></subclause>
+<subclause id="H4DCA420FA32A4C188344627CE5AEC7AA"><enum>(III)</enum><text display-inline="yes-display-inline">The amount of any Federal portion of indemnities paid to the individual or entity in the event of a loss during that fiscal year under the policy or plan of insurance.</text></subclause></clause> <clause id="HB2D9B035D52D49F1A9D946C97FEE150E"><enum>(ii)</enum><header>Covered individuals</header><text display-inline="yes-display-inline">This subparagraph applies with respect to the following:</text>
+<subclause id="H789797F4C69048639206E98BEC576A91"><enum>(I)</enum><text display-inline="yes-display-inline">Members of Congress and their immediate families.</text></subclause> <subclause id="HE1068D6EA0C74DD7A592AE3FCC1ABDF5"><enum>(II)</enum><text>Cabinet Secretaries and their immediate families.</text></subclause>
+<subclause id="HD761583CF925458A8706E95D966B0ED3"><enum>(III)</enum><text>Entities of which any individual described in clause (i) or (ii), or a combination of such individuals, is a majority shareholder.</text></subclause></clause></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block></paragraph> <paragraph id="HE1523E4CF26943B28C0B1C66C9820F9A"><enum>(2)</enum><text display-inline="yes-display-inline">by adding at the end the following new paragraph:</text>
+<quoted-block style="OLC" id="H278049B90DCE4FDDB0E3A53A5C0A4F53" display-inline="no-display-inline">
+<paragraph id="HFC9EA8D0232740B091817D59994D5549"><enum>(5)</enum><header>Disclosure of benefits for private insurance providers</header><text display-inline="yes-display-inline">Notwithstanding paragraph (1) or any other provision of law, the Secretary shall make available to the public, on an annual basis, the following information regarding each private insurance provider, by name:</text> <subparagraph id="HDF9DEAECCD084514978F6CCFB3BCB669"><enum>(A)</enum><text display-inline="yes-display-inline">The underwriting gains earned through participation in the federally subsidized crop insurance program.</text></subparagraph>
+<subparagraph id="H7E556CC74B7A418487CE3DEBF42272AB"><enum>(B)</enum><text>The amount paid under this subtitle for administrative and operating expenses, any Federal portion of indemnities and reinsurance, and any other purpose.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> </legis-body> </bill> 
+

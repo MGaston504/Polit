@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1843 IS: Criminal Alien Notification Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-07-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1843</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150722">July 22, 2015</action-date>
+			<action-desc><sponsor name-id="S358">Mr. Flake</sponsor> (for himself and <cosponsor name-id="S197">Mr. McCain</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To enhance communication between Federal, State, tribal, and local jurisdictions and to ensure the
+			 rapid and effective deportation of certain criminal aliens.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Criminal Alien Notification Act</short-title></quote>.</text>
+ </section><section id="id3AE3E0903EAF4EA3B8504ACB79D8FC22"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> <paragraph id="idad1bc632b6ef4f518fd370cc165b7805"><enum>(1)</enum><header>Department</header><text>The term <term>Department</term> means the Department of Homeland Security.</text>
+ </paragraph><paragraph id="id45C8A0BB9145474DAB0AC34DF06FBFE2"><enum>(2)</enum><header>Law enforcement notification system</header><text>The term <term>law enforcement notification system</term> means a secure information sharing system utilized by Federal, State, tribal, and local law enforcement agencies—</text>
+ <subparagraph id="id1BC12CB66261431E9EE582FBF918ABC7"><enum>(A)</enum><text>to notify the identification bureaus, of the State from which an alien is being released and of the State in which the alien is intending to reside (if different), of the anticipated release of an inadmissible or deportable alien described in subparagraph (A), (B), (C), or (D) of section 236(c)(1) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1226">8 U.S.C. 1226(c)(1)</external-xref>) from the custody of U.S. Immigration and Customs Enforcement; and</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id124EDCE6AEFD4F09B595253563A8EC75"><enum>(B)</enum><text>to notify the Secretary of the release from custody of an alien who has been arrested for any offense described in subparagraphs (A) through (D) of section 236(c)(1) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1226">8 U.S.C. 1226(c)(1)</external-xref>), the conviction of which would render the alien inadmissible under sections 212(a) and 237(a) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1182">8 U.S.C. 1182(a)</external-xref> and 1227(a)).</text>
+ </subparagraph></paragraph><paragraph id="idfb06d7443ff84d54a243c3b1b81ee57e"><enum>(3)</enum><header>Protection order</header><text>The term <term>protection order</term> includes any injunction, restraining order, or any other order issued by a civil or criminal court to prevent violent or threatening acts or harassment against, sexual violence, or contact or communication with, or physical proximity to, another person, including any temporary or final order issued by a civil or criminal court (whether obtained by filing an independent action or as a pendente lite order in another proceeding) if—</text>
+ <subparagraph id="id2C803CFAF0DA4A459A1779F5EF1312CA"><enum>(A)</enum><text>a civil or criminal order was issued by a State, tribal, or territorial court in response to a complaint, petition, or motion filed by, or on behalf of, a person seeking protection;</text>
+ </subparagraph><subparagraph id="id52a8968588f14c69806de4c59628318b"><enum>(B)</enum><text>such court has jurisdiction over the parties and matter under the law of such State, Indian tribe, or territory;</text>
+ </subparagraph><subparagraph id="id8ce04751b3a547259e1e32f412cb8b41"><enum>(C)</enum><text>reasonable notice and opportunity to be heard is given to the person against whom the order is sought that is sufficient to protect that person’s right to due process; and</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id1BE7D9AB886547D397CC32A98913203A"><enum>(D)</enum><text>in the case of ex parte orders, notice and opportunity to be heard is provided within the time required under the law of such State, Indian tribe, or territory and within a reasonable time after the order is issued to sufficiently protect the respondent’s due process rights.</text>
+ </subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id0F634FE983D7424F9A26F68AB3FDAC38"><enum>(4)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of Homeland Security.</text> </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id0CA8AF63EDC343588B2EBF738D8BFDE2"><enum>(5)</enum><header>State</header><text>The term <term>State</term> has the meaning given the term in section 101(a)(36) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1101">8 U.S.C. 1101(a)(36)</external-xref>).</text>
+			</paragraph></section><section id="id903172cf78a447a4bfe6fc8ce2fd5691"><enum>3.</enum><header>Law enforcement notification system</header>
+ <text display-inline="no-display-inline">Not later than 180 days after the date of the enactment of this Act, the Secretary shall establish a law enforcement notification system for every State.</text>
+		</section><section id="id2f8d22866e1e4a41bf4aca5ae9c99254"><enum>4.</enum><header>Protective order notification system</header>
+ <subsection id="ida586b16d948647afa9b7dee04d66969c"><enum>(a)</enum><header>Establishment</header><text>Not later than 180 days after the date of the enactment of this Act, the Secretary shall establish a secure information sharing system that enables State, tribal, and local courts to notify the Secretary of a protective order issued against an inadmissible or deportable alien described in section 212(a) or 237(a) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1182">8 U.S.C. 1182(a)</external-xref> and 1227(a)) who is under the supervision of the Secretary.</text>
+ </subsection><subsection id="idb5e8cc9da64c4158aa2d2cc51580c07a"><enum>(b)</enum><header>Construction</header><text>Nothing in this section may be construed to authorize the Secretary to establish a system that allows for the inclusion of protection orders for anyone other than an inadmissible alien described in section 212(a) or 237(a) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1182">8 U.S.C. 1182(a)</external-xref> and 1227(a)).</text>
+			</subsection></section><section id="id9d747b20d29c4860a9be10f35b2d263c"><enum>5.</enum><header>Reporting requirements</header>
+ <subsection id="id3dcb32d9eb6e4b2e84d988f29f57bd1b"><enum>(a)</enum><header>Report required</header><text>Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the Secretary shall submit a report to the <committee-name committee-id="SSJU00">Committee on the Judiciary of the Senate</committee-name> and the <committee-name committee-id="">Committee on the Judiciary of the House of Representatives</committee-name> that includes the information specified in subsection (b).</text>
+ </subsection><subsection id="id50723218866c46db9d156386de0ad63a"><enum>(b)</enum><header>Contents</header><text>The report required under subsection (a) shall describe—</text> <paragraph id="idc3b88ce55f1b4e24987cf5f4aeba908b"><enum>(1)</enum><text>the number of aliens currently present in the United States who have ever been arrested for a criminal offense;</text>
+ </paragraph><paragraph id="idA72E3EFA6E834C1EB1F50C087E9E94B3"><enum>(2)</enum><text>the number of aliens currently present in the United States who have ever been convicted of a criminal offense;</text>
+ </paragraph><paragraph id="idD07243656ED74D31A1A12736E4D40587"><enum>(3)</enum><text>the number of aliens with final orders of removal who are currently present in the United States and of such aliens—</text>
+ <subparagraph id="idAE6F57B30E6E4F61BD48E05B3749A9CE"><enum>(A)</enum><text>how many have ever been arrested for any criminal offense; and</text> </subparagraph><subparagraph id="idE2FBA17C4F15416CB5B22A09232BA7E6"><enum>(B)</enum><text>how many have ever been convicted for any criminal offense;</text>
+ </subparagraph></paragraph><paragraph id="idFDE029BDBA8D4548B685C604A1C4B373"><enum>(4)</enum><text>the number of detainers that were issued by the Department during the previous fiscal year and the number of such detainers that were honored;</text>
+ </paragraph><paragraph id="idD0499163C8DF4793AFEEAD0C4B7A0AFB"><enum>(5)</enum><text>the number of times the Department was notified during the previous fiscal year of a protective order issued pursuant to this Act and, for each such notification—</text>
+ <subparagraph id="id3481C66F1CC6408C88964A14E8C434B0"><enum>(A)</enum><text>the actions taken by the Department; or</text> </subparagraph><subparagraph id="id027c54d1251540bca82ee78288063219"><enum>(B)</enum><text>if no action was taken, the reasons for not taking action;</text>
+ </subparagraph></paragraph><paragraph id="ide29bc470519a4d18bf1ef1ea2e70e031"><enum>(6)</enum><text>the number of times during the previous fiscal year that the Department was notified through the law enforcement notification system established under section 3 and, for each such notification—</text>
+ <subparagraph id="idA3B7A01893184139961B33BCE4F8F181"><enum>(A)</enum><text>a list of offenses for which notification was provided; and</text> </subparagraph><subparagraph id="idE2040B8BF0314DC9B888BB04392E8B37"><enum>(B)</enum><clause commented="no" display-inline="yes-display-inline" id="id06E8A7D682754A6C81EAD75EF8856BF7"><enum>(i)</enum><text>the actions taken by the Department; or</text>
+ </clause><clause id="idF14E72E564DF47AEAAE550061F50ECCA" indent="up1"><enum>(ii)</enum><text>if no action was taken, the reasons for not taking action; and</text> </clause></subparagraph></paragraph><paragraph id="id7AB6161F7AA146B8A89170AAFBF29647"><enum>(7)</enum><text>the number of times during the previous fiscal year that the Department was notified by a State, tribal, or local law court through the system established under section 4 and, for each notification—</text>
+ <subparagraph id="id1EC1BC26094044EA9251B9F879E588DC"><enum>(A)</enum><text>the actions taken by the Department; or</text> </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id0F26359AE67441A880A6FACAC3A426E2"><enum>(B)</enum><text>if no action was taken, the reasons for not taking action.</text>
+					</subparagraph></paragraph></subsection></section></legis-body>
+</bill>
+
+

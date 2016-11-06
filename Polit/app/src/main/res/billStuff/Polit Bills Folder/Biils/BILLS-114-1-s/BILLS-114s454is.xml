@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" dms-id="A1" public-print="no" public-private="public" stage-count="1" star-print="no-star-print">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S454 IS: Exascale Computing for Science, Competitiveness, Advanced Manufacturing, Leadership, and the Economy Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-02-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form display="yes">
+		<distribution-code display="yes">II</distribution-code>
+		<congress display="yes">114th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num display="yes">S. 454</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20150211">February 11, 2015</action-date>
+			<action-desc><sponsor name-id="S289">Mr. Alexander</sponsor> (for himself and <cosponsor name-id="S354">Ms. Baldwin</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type display="yes">A BILL</legis-type>
+		<official-title display="yes">To amend the Department of Energy High-End Computing Revitalization Act of 2004 to improve the
+			 high-end computing research and development program of the Department of
+			 Energy, and for other purposes.</official-title>
+	</form>
+	<legis-body display-enacting-clause="yes-display-enacting-clause" style="OLC">
+		<section commented="no" display-inline="no-display-inline" id="S1" section-type="section-one">
+			<enum>1.</enum>
+			<header display-inline="yes-display-inline">Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Exascale Computing for Science, Competitiveness, Advanced Manufacturing, Leadership, and the Economy Act of 2015</short-title></quote> or the <quote><short-title>ExaSCALE Computing Leadership Act of 2015</short-title></quote>.</text>
+		</section><section commented="no" display-inline="no-display-inline" id="id1e452a3dfe8640c498510cf40b2ada74" section-type="subsequent-section">
+			<enum>2.</enum>
+			<header display-inline="yes-display-inline">Renaming of Act</header>
+			<subsection commented="no" display-inline="no-display-inline" id="id998a6a5f36e64f84bca05b4230c26b05">
+				<enum>(a)</enum>
+				<header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">Section 1 of the Department of Energy High-End Computing Revitalization Act of 2004 (<external-xref legal-doc="usc" parsable-cite="usc/15/5501">15 U.S.C. 5501</external-xref> note; <external-xref legal-doc="public-law" parsable-cite="pl/108/423">Public Law 108–423</external-xref>) is amended by striking <quote>Department of Energy High-End Computing Revitalization Act of 2004</quote> and inserting <quote><short-title>Exascale Computing for Science, Competitiveness, Advanced Manufacturing, Leadership, and the Economy Act of 2015</short-title></quote>.</text>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="idadfbfb8aef244f22a25dccab62f4b284">
+				<enum>(b)</enum>
+				<header display-inline="yes-display-inline">Conforming amendment</header>
+ <text display-inline="yes-display-inline">Section 976(a)(1) of the Energy Policy Act of 2005 (<external-xref legal-doc="usc" parsable-cite="usc/42/16316">42 U.S.C. 16316(1)</external-xref>) is amended by striking <quote>Department of Energy High-End Computing Revitalization Act of 2004</quote> and inserting <quote>Exascale Computing for Science, Competitiveness, Advanced Manufacturing, Leadership, and the Economy Act of 2015</quote>.</text>
+			</subsection></section><section commented="no" display-inline="no-display-inline" id="id86c835683a3f43419e57b19fbc28d1cd" section-type="subsequent-section">
+			<enum>3.</enum>
+			<header display-inline="yes-display-inline">Definitions</header>
+ <text display-inline="no-display-inline">Section 2 of the Exascale Computing for Science, Competitiveness, Advanced Manufacturing, Leadership, and the Economy Act of 2015 (<external-xref legal-doc="usc" parsable-cite="usc/15/5541">15 U.S.C. 5541</external-xref>) is amended—</text>
+			<paragraph commented="no" display-inline="no-display-inline" id="id988bf12cee0b49d29ca9dd6521f39623">
+				<enum>(1)</enum>
+ <text display-inline="yes-display-inline">by redesignating paragraphs (2) through (5) as paragraphs (3) through (6), respectively;</text> </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id16fe887b677048419939c1ef5b022f61"> <enum>(2)</enum> <text display-inline="yes-display-inline">by striking paragraph (1) and inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idfaa2c02e8f4142a089ad52eed9f3089e" style="OLC">
+					<paragraph commented="no" display-inline="no-display-inline" id="id5ca72fdf4bf447e0b4acd86eb0df7cde">
+						<enum>(1)</enum>
+						<header display-inline="yes-display-inline">Department</header>
+ <text display-inline="yes-display-inline">The term <term>Department</term> means the Department of Energy.</text> </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id9025909b27764ee7a135aa025cded1e2"> <enum>(2)</enum> <header display-inline="yes-display-inline">Exascale computing</header> <text display-inline="yes-display-inline">The term <term>exascale computing</term> means computing through the use of a computing machine that performs near or above 10 to the 18th power floating point operations per second.</text>
+					</paragraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id90497e0813264fff85c8aa7973ccbab3">
+				<enum>(3)</enum>
+ <text display-inline="yes-display-inline">in paragraph (6) (as redesignated by paragraph (1)), by striking <quote>, acting through the Director of the Office of Science of the Department of Energy</quote>.</text> </paragraph></section><section commented="no" display-inline="no-display-inline" id="id75d9497ba60e40c9a3fd420018e3a288" section-type="subsequent-section"> <enum>4.</enum> <header display-inline="yes-display-inline">Department of Energy High-End Computing Research and Development Program</header> <text display-inline="no-display-inline">Section 3 of the Exascale Computing for Science, Competitiveness, Advanced Manufacturing, Leadership, and the Economy Act of 2015 (<external-xref legal-doc="usc" parsable-cite="usc/15/5542">15 U.S.C. 5542</external-xref>) is amended—</text>
+			<paragraph commented="no" display-inline="no-display-inline" id="idd1cd4d70f50949479817c6aa08092a06">
+				<enum>(1)</enum>
+ <text display-inline="yes-display-inline">in subsection (a)(1), by striking <quote>program</quote> and inserting <quote>coordinated program across the Department</quote>;</text> </paragraph><paragraph commented="no" display-inline="no-display-inline" id="idec34547cb438480ca1de09af6326ff00"> <enum>(2)</enum> <text display-inline="yes-display-inline">in subsection (b)(2), by striking <quote>, which may</quote> and all that follows through <quote>architectures</quote>; and</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idd4551430d7f44b37a88a7d184aaf2062">
+				<enum>(3)</enum>
+ <text display-inline="yes-display-inline">by striking subsection (d) and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="id4c5fdd6e73b24498b02c3e796eaf1bc5" style="OLC"> <subsection commented="no" display-inline="no-display-inline" id="idd312614c04da447da993e0ee2d9a4e7e"> <enum>(d)</enum> <header display-inline="yes-display-inline">Exascale computing program</header> <paragraph commented="no" display-inline="no-display-inline" id="id7be72a33cfbd422083b7217002cc0858"> <enum>(1)</enum> <header display-inline="yes-display-inline">In general</header> <text display-inline="yes-display-inline">The Secretary shall conduct a research program (referred to in this subsection as the <quote>Program</quote>) to develop 2 or more exascale computing machine architectures to promote the missions of the Department.</text>
+						</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id3c74317794dd45a8a1ed69c9e912100d">
+							<enum>(2)</enum>
+							<header display-inline="yes-display-inline">Implementation</header>
+							<subparagraph commented="no" display-inline="no-display-inline" id="id89C71C90DAF84852B0AD5379F6A283DF">
+								<enum>(A)</enum>
+								<header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">In carrying out the Program, the Secretary shall—</text> <clause commented="no" display-inline="no-display-inline" id="id7CE2A1DD59904EDE828E6F1085442774"> <enum>(i)</enum> <text display-inline="yes-display-inline">establish 2 or more National Laboratory partnerships with industry partners and institutions of higher education for the research and development of 2 or more exascale computing systems across all applicable organizations of the Department; and</text>
+								</clause><clause commented="no" display-inline="no-display-inline" id="id60E44A4EDDDD47EE9B64B44B282A1975">
+									<enum>(ii)</enum>
+ <text display-inline="yes-display-inline">provide, as appropriate, on a competitive, merit-reviewed basis, access for researchers in industries in the United States, institutions of higher education, National Laboratories, and other Federal agencies to the exascale computing systems developed pursuant to clause (i).</text>
+								</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idEE71C9CB57854C6C8811889AAC770753">
+								<enum>(B)</enum>
+								<header display-inline="yes-display-inline">Selection of partners</header>
+ <text display-inline="yes-display-inline">The Secretary shall select members for the partnerships under subparagraph (A) through a competitive, peer-review process.</text>
+							</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id558fdd46b9604d5f890e014edda7cc23">
+							<enum>(3)</enum>
+							<header display-inline="yes-display-inline">Codesign and application development</header>
+							<subparagraph commented="no" display-inline="no-display-inline" id="idCE281F17C2624C2AA694A4F4AB3F6ECA">
+								<enum>(A)</enum>
+								<header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">The Secretary shall carry out the Program through an integration of application, computer science, and computer hardware architecture using the partnerships established pursuant to paragraph (2) to ensure that, to the maximum extent practicable, 2 or more exascale computing machine architectures are capable of solving Department target applications and broader scientific problems.</text>
+							</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id5E75A9A4CF15490EB78A1D0366F68C98">
+								<enum>(B)</enum>
+								<header display-inline="yes-display-inline">Report</header>
+ <text display-inline="yes-display-inline">The Secretary shall submit to Congress a report on how the integration under subparagraph (A) is furthering application science data and computational workloads across application interests, including national security, material science, physical science, cyber security, biological science, the Materials Genome and BRAIN Initiatives of the President, advanced manufacturing, and the national electric grid.</text>
+							</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id04b504622e894bab850f7a9c81754a1e">
+							<enum>(4)</enum>
+							<header display-inline="yes-display-inline">Project review</header>
+							<subparagraph commented="no" display-inline="no-display-inline" id="id551BA30F096E4EC1BE265A00A661E51E">
+								<enum>(A)</enum>
+								<header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">The exascale architectures systems developed pursuant to partnerships established pursuant to paragraph (2) shall be reviewed through a project review process.</text>
+							</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idB6B7E43DB8B84841A5A24170D340AD80">
+								<enum>(B)</enum>
+								<header display-inline="yes-display-inline">Report</header>
+ <text display-inline="yes-display-inline">Not later than 90 days after the date of enactment of this subsection, the Secretary shall submit to Congress a report on—</text>
+								<clause commented="no" display-inline="no-display-inline" id="id30C17047CEF8448984172C0253822947">
+									<enum>(i)</enum>
+ <text display-inline="yes-display-inline">the results of the review conducted under subparagraph (A); and</text> </clause><clause commented="no" display-inline="no-display-inline" id="id293CC8075E684781A0A5D569D6537D3B"> <enum>(ii)</enum> <text display-inline="yes-display-inline">the coordination and management of the Program to ensure an integrated research program across the Department.</text>
+								</clause></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id49ab846e1eff49e69717c734a95d2291">
+							<enum>(5)</enum>
+							<header display-inline="yes-display-inline">Annual reports</header>
+ <text display-inline="yes-display-inline">At the time of the budget submission of the Department for each fiscal year, the Secretary, in consultation with the members of the partnerships established pursuant to paragraph (2), shall submit to Congress a report that describes funding for the Program as a whole by functional element of the Department and critical milestones.</text>
+						</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section commented="no" display-inline="no-display-inline" id="id3401abbb272f4abc9f9ab3f3794d376f" section-type="subsequent-section">
+			<enum>5.</enum>
+			<header display-inline="yes-display-inline">Authorization of appropriations</header>
+ <text display-inline="no-display-inline">Section 4 of the Exascale Computing for Science, Competitiveness, Advanced Manufacturing, Leadership, and the Economy Act of 2015 (<external-xref legal-doc="usc" parsable-cite="usc/15/5543">15 U.S.C. 5543</external-xref>) is amended—</text>
+			<paragraph commented="no" display-inline="no-display-inline" id="id9096df24d6f24a3f91b05de387fc620c">
+				<enum>(1)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>this Act</quote> and inserting <quote>section 3(d)</quote>; and</text> </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id12f8c87203234ff38ba64d9034cb5774"> <enum>(2)</enum> <text display-inline="yes-display-inline">by striking paragraphs (1) through (3) and inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id9b1e92af0cc04715b0e55e4f7b4d29a7" style="OLC">
+					<paragraph commented="no" display-inline="no-display-inline" id="id41471f0adb314d26b0df405273bb38e3">
+						<enum>(1)</enum>
+ <text display-inline="yes-display-inline">$272,000,000 for fiscal year 2016;</text> </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id1cfeac36b32b4c6e9348e1cea524d27c"> <enum>(2)</enum> <text display-inline="yes-display-inline">$340,000,000 for fiscal year 2017; and</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id141be0346fc145e9b622f3d8f476020c">
+						<enum>(3)</enum>
+ <text display-inline="yes-display-inline">$360,000,000 for fiscal year 2018.</text> </paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></section></legis-body> </bill> 
+

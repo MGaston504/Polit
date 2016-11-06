@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2148 IS: Protecting Medicare Beneficiaries Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-10-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 2148</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20151007">October 7, 2015</action-date><action-desc><sponsor name-id="S247">Mr. Wyden</sponsor> (for himself, <cosponsor name-id="S330">Mr. Bennet</cosponsor>, <cosponsor name-id="S307">Mr. Brown</cosponsor>, <cosponsor name-id="S308">Mr. Cardin</cosponsor>, <cosponsor name-id="S309">Mr. Casey</cosponsor>, <cosponsor name-id="S306">Mr. Menendez</cosponsor>, <cosponsor name-id="S229">Mrs. Murray</cosponsor>, <cosponsor name-id="S282">Mr. Nelson</cosponsor>, <cosponsor name-id="S284">Ms. Stabenow</cosponsor>, <cosponsor name-id="S270">Mr. Schumer</cosponsor>, <cosponsor name-id="S313">Mr. Sanders</cosponsor>, <cosponsor name-id="S354">Ms. Baldwin</cosponsor>, <cosponsor name-id="S057">Mr. Leahy</cosponsor>, <cosponsor name-id="S277">Mr. Carper</cosponsor>, <cosponsor name-id="S326">Mr. Udall</cosponsor>, <cosponsor name-id="S361">Ms. Hirono</cosponsor>, <cosponsor name-id="S363">Mr. King</cosponsor>, <cosponsor name-id="S182">Ms. Mikulski</cosponsor>, <cosponsor name-id="S337">Mr. Coons</cosponsor>, <cosponsor name-id="S332">Mr. Franken</cosponsor>, and <cosponsor name-id="S322">Mr. Merkley</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend title XVIII of the Social Security Act to prevent an increase in the Medicare part B
+			 premium and deductible in 2016.</official-title></form>
+	<legis-body display-enacting-clause="no-display-enacting-clause" id="HF9A7D95D24DB428198023A8782EC10C6" style="OLC">
+ <section id="idF0D13C9184824D908F0FD293CC5B80EA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Medicare Beneficiaries Act of 2015</short-title></quote>.</text> </section><section id="HD126CA82F071493999E88D59AD67DE31"><enum>2.</enum><header>Preventing Medicare part B premium and deductible increases in 2016</header> <subsection id="H65A3CDA9A9954DE0A3FB709B82F6E459"><enum>(a)</enum><header>In general</header><text>Section 1839(a) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395r">42 U.S.C. 1395r(a)</external-xref>) is amended—</text>
+ <paragraph id="HB935A65AAE9243D2A37A6CB1CB45F562"><enum>(1)</enum><text>in the second sentence of paragraph (1), by striking <quote>Such</quote> and inserting <quote>Subject to paragraph (5), such</quote>; and</text> </paragraph><paragraph id="H46B5507456A3484B981CE4FC826244B7"><enum>(2)</enum><text>by adding at the end the following new paragraph:</text>
+					<quoted-block id="H6DA317D4C831475995EBA31124028138" style="OLC">
+ <paragraph id="H4DD0C568A1DB4863B8929A2C738151B5" indent="up1"><enum>(5)</enum><text display-inline="yes-display-inline">In applying this part (including subsection (i) and section 1833(b)), the monthly actuarial rate for enrollees age 65 and over for 2016 shall be equal to the monthly actuarial rate for such enrollees for 2015.</text>
+						</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H574BF845527F4367B8F121F06D4ECEE5"><enum>(b)</enum><header>Conforming funding</header><text>Section 1844(a) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w">42 U.S.C. 1395w(a)</external-xref>) is amended—</text> <paragraph id="HA4B429D725D74867A9D189E707724F92"><enum>(1)</enum><text>in paragraph (3), by striking the period at the end and inserting <quote>; plus</quote>; and</text>
+ </paragraph><paragraph id="HF21CD53720EA430D9EB6FA41C70A9B17"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block id="HFB2275632B514BA7898D5136A90ACA3B" style="OLC"> <paragraph id="H38E56539F74E46E893D691261662312D"><enum>(4)</enum><text display-inline="yes-display-inline">a Government contribution equal to, as estimated by the Chief Actuary of the Centers for Medicare &amp; Medicaid Services, the reduction in aggregate premiums payable for a month under this part that is attributable to the application of section 1839(a)(5) with respect to—</text>
+ <subparagraph id="HF8F016FC11344B16B9C3C86F207D9722"><enum>(A)</enum><text>enrollees age 65 and over; and</text> </subparagraph><subparagraph id="HE8AFB3883BD44AB1848A758E4B990A8E"><enum>(B)</enum><text>enrollees under age 65.</text>
+							</subparagraph></paragraph><quoted-block-continuation-text quoted-block-continuation-text-level="subsection">In applying paragraph (1), the Government contribution under paragraph (4) with respect to
+			 enrollees described in subparagraphs (A) and (B) of such paragraph (4)
+			 shall be treated as premiums payable and deposited in the Trust Fund under
+			 subparagraphs (A) and (B), respectively, of paragraph (1).</quoted-block-continuation-text><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section></legis-body></bill>
+
+

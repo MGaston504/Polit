@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H0F4D6FB703684A7DAE14D60480EDEC03" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4209 IH: Minority Diabetes Initiative Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4209</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151210">December 10, 2015</action-date>
+			<action-desc><sponsor name-id="W000187">Ms. Maxine Waters of California</sponsor> (for herself, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, <cosponsor name-id="L000551">Ms. Lee</cosponsor>, <cosponsor name-id="B001245">Ms. Bordallo</cosponsor>, <cosponsor name-id="K000385">Ms. Kelly of Illinois</cosponsor>, <cosponsor name-id="S001156">Ms. Linda T. Sánchez of California</cosponsor>, <cosponsor name-id="M001137">Mr. Meeks</cosponsor>, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, <cosponsor name-id="B001251">Mr. Butterfield</cosponsor>, <cosponsor name-id="B001281">Mrs. Beatty</cosponsor>, <cosponsor name-id="H000324">Mr. Hastings</cosponsor>, <cosponsor name-id="S000510">Mr. Smith of Washington</cosponsor>, <cosponsor name-id="J000032">Ms. Jackson Lee</cosponsor>, <cosponsor name-id="P000604">Mr. Payne</cosponsor>, <cosponsor name-id="G000553">Mr. Al Green of Texas</cosponsor>, <cosponsor name-id="M001160">Ms. Moore</cosponsor>, <cosponsor name-id="V000081">Ms. Velázquez</cosponsor>, <cosponsor name-id="L000581">Mrs. Lawrence</cosponsor>, <cosponsor name-id="C001072">Mr. Carson of Indiana</cosponsor>, <cosponsor name-id="B001270">Ms. Bass</cosponsor>, <cosponsor name-id="L000287">Mr. Lewis</cosponsor>, <cosponsor name-id="C001080">Ms. Judy Chu of California</cosponsor>, <cosponsor name-id="F000043">Mr. Fattah</cosponsor>, <cosponsor name-id="T000472">Mr. Takano</cosponsor>, <cosponsor name-id="C001067">Ms. Clarke of New York</cosponsor>, <cosponsor name-id="B000911">Ms. Brown of Florida</cosponsor>, <cosponsor name-id="S001157">Mr. David Scott of Georgia</cosponsor>, <cosponsor name-id="S001185">Ms. Sewell of Alabama</cosponsor>, <cosponsor name-id="J000288">Mr. Johnson of Georgia</cosponsor>, <cosponsor name-id="P000610">Ms. Plaskett</cosponsor>, <cosponsor name-id="S001168">Mr. Sarbanes</cosponsor>, <cosponsor name-id="S001145">Ms. Schakowsky</cosponsor>, <cosponsor name-id="E000290">Ms. Edwards</cosponsor>, <cosponsor name-id="C001068">Mr. Cohen</cosponsor>, <cosponsor name-id="C001097">Mr. Cárdenas</cosponsor>, <cosponsor name-id="D000096">Mr. Danny K. Davis of Illinois</cosponsor>, <cosponsor name-id="R000588">Mr. Richmond</cosponsor>, <cosponsor name-id="N000002">Mr. Nadler</cosponsor>, <cosponsor name-id="C000984">Mr. Cummings</cosponsor>, <cosponsor name-id="H000636">Mr. Hinojosa</cosponsor>, <cosponsor name-id="A000370">Ms. Adams</cosponsor>, <cosponsor name-id="F000455">Ms. Fudge</cosponsor>, and <cosponsor name-id="V000128">Mr. Van Hollen</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Public Health Service Act to authorize grants to provide treatment for diabetes in
+			 minority communities.</official-title>
+	</form>
+	<legis-body id="H3DE1CECFD5AF4D1EB54BE0C8420DC726" style="OLC">
+ <section display-inline="no-display-inline" id="H7252091BCF28467C829B5D15A974C090" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Minority Diabetes Initiative Act</short-title></quote>.</text> </section><section id="HB427401C32F14073B2998138F0D33C62"><enum>2.</enum><header>Grants regarding treatment of diabetes in minority communities</header><text display-inline="no-display-inline">Part D of title III of the <act-name parsable-cite="PHSA">Public Health Service Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/254b">42 U.S.C. 254b et seq.</external-xref>) is amended by inserting after section 330L the following:</text>
+			<quoted-block act-name="Public Health Service Act" id="H3FAB951B39DA4D9EADB248CAC8579EE7">
+				<section id="HF61DD5DB046345389799A1EF7EAADFCB"><enum>330M.</enum><header>Grants regarding treatment of diabetes in minority communities</header>
+ <subsection id="H84F79749CADD45FA91B5C47D19D58A9E"><enum>(a)</enum><header>In general</header><text>The Secretary may make grants to public and nonprofit private health care providers for the purpose of providing treatment for diabetes in minority communities.</text>
+ </subsection><subsection id="H7341A9A783064ECBBD296E0C451FC053"><enum>(b)</enum><header>Recipients of grants</header><text>The public and nonprofit private health care providers to whom grants may be made under subsection (a) include physicians, podiatrists, community-based organizations, health care organizations, community health centers, and State, local, and tribal health departments.</text>
+ </subsection><subsection id="HDCCD4F1D4BBC4DA095E509410D744779"><enum>(c)</enum><header>Scope of treatment activities</header><text>The Secretary shall ensure that grants under subsection (a) cover a variety of diabetes-related health care services, including routine care for diabetic patients, public education on diabetes prevention and control, eye care, foot care, and treatment for kidney disease and other complications of diabetes.</text>
+ </subsection><subsection id="H32BA0091589D488A9F1BC95060CB61BD"><enum>(d)</enum><header>Appropriate cultural context</header><text display-inline="yes-display-inline">A condition for the receipt of a grant under subsection (a) is that the applicant involved agrees that, in the program carried out with the grant, services will be provided in the languages most appropriate for, and with consideration for the cultural backgrounds of, the individuals for whom the services are provided.</text>
+ </subsection><subsection id="HC79178284DAC401EAAE6AC4778423179"><enum>(e)</enum><header>Outreach services</header><text>A condition for the receipt of a grant under subsection (a) is that the applicant involved agrees to provide outreach activities to inform the public of the services of the program, and to provide offsite information on diabetes.</text>
+ </subsection><subsection id="H67E6961E1E2C4950889E314F5BB10625"><enum>(f)</enum><header>Application for grant</header><text>A grant may be made under subsection (a) only if an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.</text>
+ </subsection><subsection id="H655D2EB867B94359B610675576D0DBA2"><enum>(g)</enum><header>Authorization of appropriations</header><text>For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2016 through 2021.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

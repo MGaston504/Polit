@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H588F4FAEAD174530A4F9559432038A40" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1863 IH: Local Care for Veterans Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1863</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150416">April 16, 2015</action-date>
+			<action-desc><sponsor name-id="B001255">Mr. Boustany</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Veterans Access, Choice, and Accountability Act of 2014 to expand the Veterans Choice
+			 Program to veterans who would otherwise receive medical care from a
+			 deficient medical facility of the Department of Veterans Affairs.</official-title>
+	</form>
+	<legis-body id="HAFA5DAF30B864E6D888A38646C346DB9" style="OLC">
+ <section id="H2E8CC9ED74F24582BD481A6C85A0B69D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Local Care for Veterans Act</short-title></quote>.</text> </section><section id="HAF43929315A64D60A6E645053C16BABD" section-type="subsequent-section"><enum>2.</enum><header>Provision of care under Veterans Choice Program for veterans residing near deficient medical facility of the Department of Veterans Affairs</header><text display-inline="no-display-inline">Section 101(b)(2) of the Veterans Access, Choice, and Accountability Act of 2014 (<external-xref legal-doc="usc" parsable-cite="usc/38/1701">38 U.S.C. 1701</external-xref> note) is amended—</text>
+ <paragraph id="HC6234741561A41528F94A076ABA9EBC2"><enum>(1)</enum><text>in subparagraph (C)(ii), by striking <quote>or</quote>;</text> </paragraph><paragraph id="H8E1893B8104F4BCDA29C3ECDE49B6406"><enum>(2)</enum><text display-inline="yes-display-inline">in subparagraph (D), by striking the period at the end and inserting <quote>; or</quote>; and</text>
+ </paragraph><paragraph id="HBBE14732DC0843E285B99B82D842F450"><enum>(3)</enum><text>by adding at the end the following new subparagraph:</text> <quoted-block display-inline="no-display-inline" id="HCAC557BBB04B4795979A6457CF20E549" style="OLC"> <subparagraph id="H01C7E640817344AAA2A761D0858FE667"><enum>(E)</enum><text display-inline="yes-display-inline">notwithstanding paragraph (1)(A), resides not more than 50 miles from the medical facility of the Department, including a community-based outpatient clinic, that is closest to the residence of the veteran if—</text>
+ <clause id="HA2D0D1BF1B554461805F519B12A61B5C"><enum>(i)</enum><text display-inline="yes-display-inline">the Secretary has identified such medical facility—</text> <subclause id="H17E7A71DAC4D4CF9BFCEE24327583563"><enum>(I)</enum><text>in a prospectus level lease request, regardless of the date of such request, as being deficient with respect to providing certain treatment or services; or</text>
+ </subclause><subclause id="HEC21010FB98B44C6974C414CC718B6C5"><enum>(II)</enum><text>as needing expansion; and</text> </subclause></clause><clause id="H9192DDC374504ED7A79F9F6B6524B308"><enum>(ii)</enum><text display-inline="yes-display-inline">the Secretary determines that such a deficiency has not been resolved or such an expansion has not occurred, including pursuant to leases entered into under an Act authorizing major medical facility leases.</text>
+						</clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1284 IS: To clarify the treatment of carbon emissions from forest biomass, and for other purposes.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1284</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150511">May 11, 2015</action-date>
+			<action-desc><sponsor name-id="S363">Mr. King</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEV00">Committee on Environment and Public Works</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To clarify the treatment of carbon emissions from forest biomass, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+ <section id="idA97C04E994FF4012A08DF17A05B43E32" section-type="section-one"><enum>1.</enum><header>Carbon emissions from forest biomass</header><text display-inline="no-display-inline">In taking an action regarding air emissions from an energy source or facility that uses forest biomass, the Administrator of the Environmental Protection Agency shall assume that forest biomass emissions do not increase overall carbon accumulations in the atmosphere if—</text>
+ <paragraph id="id542EF5459CBB4CEE8EB2F482F7679D75"><enum>(1)</enum><text>a Forest Inventory and Analysis of the Department of Agriculture that is current at the time the action is taken shows that forest carbon stocks in the United States are stable or increasing; or</text>
+ </paragraph><paragraph id="idD1DB578DD92343628E9439B2C7E48383"><enum>(2)</enum><text>the forest biomass is derived from mill residuals, harvest residuals, or forest management activities.</text>
+			</paragraph></section></legis-body>
+</bill>
+
+

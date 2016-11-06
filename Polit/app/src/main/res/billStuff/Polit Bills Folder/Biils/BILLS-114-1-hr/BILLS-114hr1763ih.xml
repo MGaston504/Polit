@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H61EC17F6CC364D0EBC467EBCBD4B0917" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1763 IH: Safe Freight Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1763</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150413">April 13, 2015</action-date>
+			<action-desc><sponsor name-id="Y000033">Mr. Young of Alaska</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for the minimum size of crews of freight trains, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HE7466F29E86B4265AB79DFB90FDBE61B" style="OLC">
+ <section id="H2C05E7CDD62D49439EB0692076DEAA1D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Safe Freight Act</short-title></quote>.</text> </section><section id="H1BF5DC770B684CB0BBE35074E4502132"><enum>2.</enum><header>Freight train crew size</header> <subsection id="HB3A68246599C4F4B98CDBD25DA222B8E"><enum>(a)</enum><header>Amendment</header><text display-inline="yes-display-inline">Subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/201">chapter 201</external-xref> of title 49, United States Code, is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HFDB7980B8FFE4971AE605A14D29FA87C" style="USC">
+ <section id="H203F6EAA009E44CFBAE93B3F790CDCFD"><enum>20168.</enum><header>Freight train crew size</header><text display-inline="no-display-inline">Effective 30 days after the date of enactment of the <short-title>Safe Freight Act</short-title>, no freight train or light engine used in connection with the movement of freight may be operated unless it has a crew consisting of at least 2 individuals, one of whom is certified under regulations promulgated by the Federal Railroad Administration as a locomotive engineer pursuant to section 20135, and the other of whom is certified under regulations promulgated by the Federal Railroad Administration as a conductor pursuant to section 20163.</text></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H24E85907716D4EE6A17AB9FB2427E0E9"><enum>(b)</enum><header>Table of sections amendment</header><text display-inline="yes-display-inline">The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/201">chapter 201</external-xref> of title 49, United States Code, is amended by adding at the end the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H3AEB912EF9EC4C57A7FCB1D33EDB2510" style="USC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">20168. Freight train crew size.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

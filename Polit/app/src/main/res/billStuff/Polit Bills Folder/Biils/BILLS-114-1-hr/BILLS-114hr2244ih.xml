@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HDDD6B86611064CE8A11D0D654B6A5376" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2244 IH: To establish a Strategic Transformer Reserve program, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2244</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150508">May 8, 2015</action-date>
+			<action-desc><sponsor name-id="E000291">Mrs. Ellmers of North Carolina</sponsor> (for herself and <cosponsor name-id="M001166">Mr. McNerney</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To establish a Strategic Transformer Reserve program, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H51097C65B3C245F597113B70B3ACAF6A" style="OLC">
+		<section id="H4563438470894FDCB7A83F4AF5D25DC7" section-type="section-one"><enum>1.</enum><header>Strategic Transformer Reserve program</header>
+ <subsection id="H3B63FF9AFF6E439ABD3470015344AD62"><enum>(a)</enum><header>Finding</header><text display-inline="yes-display-inline">Congress finds that the storage of strategically located spare large power transformers will diminish the vulnerability of the United States to multiple risks facing electric grid reliability, including physical attack, cyber attack, electromagnetic pulse, geomagnetic disturbances, severe weather, and seismic events.</text>
+ </subsection><subsection id="HA3C8DCCB58CD43C0A5C0CBED09A3867C"><enum>(b)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section:</text> <paragraph commented="no" id="HB3A1EB621887419EBDA7BDCC36FDB731"><enum>(1)</enum><header>Bulk-power system</header><text display-inline="yes-display-inline">The term <term>bulk-power system</term> has the meaning given such term in section 215(a) of the Federal Power Act (<external-xref legal-doc="usc" parsable-cite="usc/16/824o">16 U.S.C. 824o(a)</external-xref>).</text>
+ </paragraph><paragraph id="HD8A35F47482C495FA8BF147E297C7C08"><enum>(2)</enum><header>Critically damaged large power transformer</header><text>The term <term>critically damaged large power transformer</term> means a large power transformer that—</text> <subparagraph id="HA90AEAD57F514A909565BF9F4F125111"><enum>(A)</enum><text>has sustained extensive damage such that—</text>
+ <clause id="H811111EE8FEA42BC8A31A15952EEE8A4"><enum>(i)</enum><text>repair or refurbishment is not economically viable; or</text> </clause><clause id="H68B5FB56963E4C74984CD9503871B488"><enum>(ii) </enum><text display-inline="yes-display-inline">the extensive time to repair or refurbish the large power transformer would create an extended period of instability in the bulk-power system; and</text>
+ </clause></subparagraph><subparagraph id="H40DFE6C6AA174A779527D73F0A2CFAC6"><enum>(B)</enum><text>prior to sustaining such damage was part of the bulk-power system.</text> </subparagraph></paragraph><paragraph id="HF0ABC5A2D48F47B0B7D095BC6C9E7254"><enum>(3)</enum><header>Large power transformer</header><text>The term <term>large power transformer</term> means a power transformer, including related critical equipment, that is, or is intended to be, a part of the bulk-power system, with a maximum nameplate rating of 100 megavolt-amperes or higher.</text>
+ </paragraph><paragraph id="H86502B40C559405FB4A92AA7C6B5E03A"><enum>(4)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of Energy.</text> </paragraph><paragraph id="H791DD772EFCE4035B5805C3675D15D8F"><enum>(5)</enum><header>Spare large power transformer</header><text display-inline="yes-display-inline">The term <term>spare large power transformer</term> means a large power transformer that is stored within the Strategic Transformer Reserve to be available to temporarily replace a critically damaged large power transformer.</text>
+				</paragraph></subsection><subsection id="H8217B21623674895B201E70B6D57C2FC"><enum>(c)</enum><header>Strategic Transformer Reserve plan</header>
+ <paragraph id="H1BB8CAB0FE844ED3BC9A3D2F2B3F4F8B"><enum>(1)</enum><header>Plan</header><text display-inline="yes-display-inline">Not later than one year after the date of enactment of this Act, the Secretary, acting through the Office of Electricity Delivery and Energy Reliability, shall prepare and submit to Congress for approval a plan to establish a Strategic Transformer Reserve for the storage, in strategically located facilities, of spare large power transformers in sufficient numbers to temporarily replace critically damaged large power transformers.</text>
+ </paragraph><paragraph id="H4ED7AF31AE96456280698E2295967FF0"><enum>(2)</enum><header>Inclusions</header><text>The Strategic Transformer Reserve plan shall include a description of—</text> <subparagraph id="H06DE121CA1AF43AFB9A30A42CCE20AB1"><enum>(A)</enum><text display-inline="yes-display-inline">the appropriate number of spare large power transformers and total capacity in megawatts necessary in the Strategic Transformer Reserve to provide or restore sufficient resiliency to the bulk-power system to mitigate significant impacts to the electric grid resulting from—</text>
+ <clause id="H8C89C7EBC1A0446C996BC3E246161930"><enum>(i)</enum><text>physical attack;</text> </clause><clause id="HBDE2043DDDA6401E8313F2A0009AF7E5"><enum>(ii)</enum><text>cyber attack;</text>
+ </clause><clause id="H2FABB16B9E2548E38E9EA734276C730B"><enum>(iii)</enum><text>electromagnetic pulse attack;</text> </clause><clause id="HD898F3CC1BD046258A4302D7559C914C"><enum>(iv)</enum><text>geomagnetic disturbances;</text>
+ </clause><clause id="HC6F95E6BE7654C9387A9D62BBB392C5E"><enum>(v)</enum><text>severe weather; or</text> </clause><clause id="H935CB45F08BC4459AE56F820DA82B968"><enum>(vi)</enum><text>seismic events;</text>
+ </clause></subparagraph><subparagraph id="H381A11296A634A658B3201F951241471"><enum>(B)</enum><text>the potential locations for, and feasibility and appropriate number of, strategic storage locations, including consideration of—</text>
+ <clause id="H7C389B4D312D439A8AFB44952F853DDB"><enum>(i)</enum><text>the physical security of such locations;</text> </clause><clause id="H086EFFFE1D874F54B8B5872A0C8545D5"><enum>(ii)</enum><text>the protection of the confidentiality of such locations; and</text>
+ </clause><clause commented="no" id="HDA5D7A30813B4098913B1DB54E8851E1"><enum>(iii)</enum><text display-inline="yes-display-inline">the proximity of such locations to sites of potentially critically damaged large power transformers, so as to enable efficient delivery of spare large power transformers to such sites;</text>
+ </clause></subparagraph><subparagraph id="H2EE37BBAD8B343A087E04EDDD26BB0D7"><enum>(C)</enum><text display-inline="yes-display-inline">the degree of flexibility of spare large power transformers in the Strategic Transformer Reserve to conform to different substation configurations, including consideration of transformer—</text>
+ <clause id="H7A0C5DC0238B42038E130C15A2038C17"><enum>(i)</enum><text>power and voltage rating for each winding;</text> </clause><clause id="HF4FE298F64AB486EBAB118542841B7D9"><enum>(ii)</enum><text>overload requirements;</text>
+ </clause><clause id="H9A925C0540AC45F2AEBB568FC29D96FC"><enum>(iii)</enum><text>impedance between windings;</text> </clause><clause id="H5985A32D2A834829BFB870FBC11D5155"><enum>(iv)</enum><text>configuration of windings; and</text>
+ </clause><clause id="H4EA624F7AC0E4A1AAD27D4FB87FF1987"><enum>(v)</enum><text>tap requirements;</text> </clause></subparagraph><subparagraph id="HAA3ABF63826C46B2911F0504B1CF56F5"><enum>(D)</enum><text display-inline="yes-display-inline">an estimate of the direct cost of the Strategic Transformer Reserve, as proposed, including—</text>
+ <clause id="HA30FC2271EB340349427BF52151328FF"><enum>(i)</enum><text>the cost of storage facilities for the spare large power transformers;</text> </clause><clause id="HB280B508F87C4F7899A9AF8D6B1FA3ED"><enum>(ii)</enum><text display-inline="yes-display-inline">the cost of the spare large power transformers; and</text>
+ </clause><clause id="HE2DDED879BD74B638C8F4789D4FD9FE7"><enum>(iii)</enum><text>management, maintenance, and operation costs;</text> </clause></subparagraph><subparagraph id="H94F7653FB5AB4E94BB0AECC35AB29B8F"><enum>(E)</enum><text display-inline="yes-display-inline">the funding options available to establish, stock, manage, and maintain the Strategic Transformer Reserve, including consideration of public-private cost-sharing options;</text>
+ </subparagraph><subparagraph id="HB0F2067D3DBE490A8F6EAA38FCF2B377"><enum>(F)</enum><text display-inline="yes-display-inline">the ease and speed of transportation, installation, and energization of spare large power transformers, including consideration of factors such as—</text>
+ <clause id="H3EEF1AC085984FCE922F0F03474AE8A3"><enum>(i)</enum><text>transformer transportation weight;</text> </clause><clause id="H66F269D49C374EA289C77DFC40AD6A2D"><enum>(ii)</enum><text>transformer size;</text>
+ </clause><clause id="H5201E85246D240CE84D1905043B12F68"><enum>(iii)</enum><text>topology of critical substations;</text> </clause><clause id="H8591F222704C47D5B4A9CB0A94AD1B76"><enum>(iv)</enum><text>availability of appropriate transformer mounting pads;</text>
+ </clause><clause commented="no" id="H783A7B0FB1654268B9F597E0C4BFA2DB"><enum>(v)</enum><text>flexibility of the spare large power transformers as described in subparagraph (C); and</text> </clause><clause id="HAC146099B1E7457B9F9CC375A359419D"><enum>(vi)</enum><text>ability to rapidly transition a spare large power transformer from storage to energization;</text>
+ </clause></subparagraph><subparagraph id="HF995C68A698144F7BBF206C40ED2B1A0"><enum>(G)</enum><text display-inline="yes-display-inline">eligibility criteria for withdrawal of spare large power transformers from the Strategic Transformer Reserve to replace critically damaged large power transformers, including consideration of related existing industry programs;</text>
+ </subparagraph><subparagraph id="H6C6E6ADC014F436D9D69ABE635E835B4"><enum>(H)</enum><text display-inline="yes-display-inline">the process by which owners of critically damaged large power transformers may apply for a withdrawal from the Strategic Transformer Reserve;</text>
+ </subparagraph><subparagraph id="H70F3BE75D67441A0837CE38E6B07E043"><enum>(I)</enum><text display-inline="yes-display-inline">the process by which spare large power transformers withdrawn from the Strategic Transformer Reserve are returned to the Strategic Transformer Reserve;</text>
+ </subparagraph><subparagraph id="H7EB539A34E3B49BBBBBF126FB883504C"><enum>(J)</enum><text display-inline="yes-display-inline">any cost-share or rental fees determined appropriate for restocking returned spare large power transformers to the Strategic Transformer Reserve to be paid by owners of critically damaged large power transformers that have withdrawn such spare large power transformers; and</text>
+ </subparagraph><subparagraph id="HB0E9D8EB18C0462AAD040861D1182251"><enum>(K)</enum><text display-inline="yes-display-inline">other considerations for designing, constructing, stocking, and managing the Strategic Transformer Reserve.</text>
+ </subparagraph></paragraph></subsection><subsection id="H9DD2672EF69A4184A202DD48076F6102"><enum>(d)</enum><header>Congressional approval of Strategic Transformer Reserve plan</header><text display-inline="yes-display-inline">The Secretary may not establish a Strategic Transformer Reserve until Congress has approved the plan submitted pursuant to subsection (c).</text>
+ </subsection><subsection id="H64485D6DC91E4613826B264424EA7B61"><enum>(e)</enum><header>Restriction</header><text display-inline="yes-display-inline">No funds may be used by the Secretary to establish a Strategic Transformer Reserve without prior Congressional approval of the plan submitted pursuant to subsection (c).</text>
+			</subsection></section></legis-body>
+</bill>
+
+

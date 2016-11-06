@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1405 IS: Severe Fuel Supply Emergency Response Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1405</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150520">May 20, 2015</action-date>
+			<action-desc><sponsor name-id="S332">Mr. Franken</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require a coordinated response to coal fuel supply emergencies
+that could impact electric power system adequacy or reliability.
+</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Severe Fuel Supply Emergency Response Act of 2015</short-title></quote>.</text>
+ </section><section id="id31C5F04D6F0E44968173E1F1F6B15066"><enum>2.</enum><header>Severe fuel supply emergency response</header><text display-inline="no-display-inline">The Federal Power Act is amended by inserting after section 215 (<external-xref legal-doc="usc" parsable-cite="usc/16/824o">16 U.S.C. 824o</external-xref>) the following:</text> <quoted-block display-inline="no-display-inline" id="id94C315995BC942028ED033F03ADD4D69" style="OLC"> <section id="id9d9e958bfdc644409781e63180cd0805"><enum>215A.</enum><header>Emergency response to coal supply deficiencies</header> <subsection id="id1F2D594086B045FA8C80243C8FD9B14A"><enum>(a)</enum><header>Findings</header><text display-inline="yes-display-inline">Congress finds that—</text>
+ <paragraph id="idf655e4d2c5614b39b9147412a8caf83f"><enum>(1)</enum><text>electric utilities operating coal-fired generating units seek to maintain target levels of coal inventories in order to meet forecasted demand;</text>
+ </paragraph><paragraph id="idB978491712D143B8B75835A8B5799C61"><enum>(2)</enum><text>by coordinating generator actions and coal levels with Reliability Coordinators, electric utilities seek to ensure adequacy and reliability for the Bulk Power System;</text>
+ </paragraph><paragraph id="idac86e159d21845078347ead101f4866e"><enum>(3)</enum><text>rail service issues have resulted in critically low coal inventory levels at numerous utilities;</text>
+ </paragraph><paragraph id="id59a6f5847045425fa570eb51cd27e81d"><enum>(4)</enum><text>coal shortages can threaten the adequacy and reliability of electricity supplies, and may jeopardize the health and safety of electricity consumers;</text>
+ </paragraph><paragraph id="id134e1eb0e4634d8fae1893e5de565c23"><enum>(5)</enum><text>when faced with declining coal inventories, electric utilities have taken actions to curtail coal-fired electricity production, including by closing electric generating units, in order to preserve coal stockpiles;</text>
+ </paragraph><paragraph id="id4d3664d7fbe04830a68f81f54bdda497"><enum>(6)</enum><text>under the Federal Energy Administration Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/15/761">15 U.S.C. 761 et seq.</external-xref>), electric utilities are required to file a mandatory Electric Emergency Incident and Disturbance Report with the Department of Energy regarding fuel supply emergencies that could impact electric power system adequacy or reliability; and</text>
+ </paragraph><paragraph id="id86119ba00adc4084ad69539e7c90bb15"><enum>(7)</enum><text>the depletion of coal inventories due to rail service issues may constitute a fuel supply emergency.</text>
+ </paragraph></subsection><subsection id="idece35f300af847eba2bb91702881093b"><enum>(b)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section:</text> <paragraph id="id4039f762172f451cb2fc5baab009cac1"><enum>(1)</enum><header>Board</header><text>The term <term>Board</term> means the Surface Transportation Board.</text>
+ </paragraph><paragraph id="id8E3FE2E343B74357B9DB4F0CF2237FF1"><enum>(2)</enum><header>Bulk-power system</header><text>The term <term>bulk-power system</term> has the meaning given the term in section 215.</text> </paragraph><paragraph id="id4189e61222ef400d88977d147d179248"><enum>(3)</enum><header>Electric reliability organization</header><text>The term <term>Electric Reliability Organization</term> has the meaning given the term in section 215.</text>
+ </paragraph><paragraph id="id6FF6694CEC494BE2AD063F55B85A59A0"><enum>(4)</enum><header>Form OE-417</header><text>The term <term>Form OE-417</term> means the form entitled <quote>Electric Emergency Incident and Disturbance Report</quote> and filed in accordance with the Federal Energy Administration Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/15/761">15 U.S.C. 761 et seq.</external-xref>).</text>
+ </paragraph><paragraph id="idefe5317397e44aa489560b77fc81c46f"><enum>(5)</enum><header>Regional entity</header><text>The term <term>Regional Entity</term> means an entity delegated authority by the Electric Reliability Organization to propose and enforce reliability standards in the region of the entity.</text>
+ </paragraph><paragraph id="ide6933ee189a848cc95e0ccc701fc661c"><enum>(6)</enum><header>Reliability coordinator</header><text>The term <term>Reliability Coordinator</term> means an entity recognized by the Electric Reliability Organization as responsible for continually assessing transmission reliability and coordinating emergency operations to ensure the reliable operation of the bulk-power system.</text>
+ </paragraph><paragraph id="id8bed40a0cb2f48af94af90d114be52b5"><enum>(7)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of Energy.</text> </paragraph><paragraph id="id0b974f1ecb2f4bf2b5dff6996d811408"><enum>(8)</enum><header>Severe fuel supply emergency</header><text>The term <term>severe fuel supply emergency</term> means a coal supply deficiency reported to the Department of Energy on Form OE-417 that has the potential to affect at least 500 MW of electricity generation or 100,000 electricity customers.</text>
+						</paragraph></subsection><subsection id="id1b7c816449394bacba018eeefafd93df"><enum>(c)</enum><header>Coordinated response to emergencies</header>
+ <paragraph id="idff7aa18f1d564be48018feca78b0b15c"><enum>(1)</enum><header>In general</header><text>The Secretary shall lead the Federal response to severe fuel supply emergencies.</text> </paragraph><paragraph id="idc2381ecf8a754487883599cc1126b7df"><enum>(2)</enum><header>Duties of the Secretary</header><text>On the filing of a Form OE-417 that reports a severe fuel supply emergency, the Secretary shall—</text>
+ <subparagraph id="id6723f8f29b15425eb53e5de2b98006f0"><enum>(A)</enum><text>promptly investigate the circumstances of the severe fuel supply emergency;</text> </subparagraph><subparagraph id="id9b8db888e4854ab997c211891e853818"><enum>(B)</enum><text>notify the Board and the Federal Energy Regulatory Commission of the existence of the severe fuel supply emergency;</text>
+ </subparagraph><subparagraph id="id61c2524e67dc4f6687dd0bb62835424b"><enum>(C)</enum><text>convene a meeting with the Board, the Federal Energy Regulatory Commission, and, as appropriate, the Electric Reliability Organization and affected Regional Entities and Reliability Coordinators; and</text>
+ </subparagraph><subparagraph id="id2bed19852d0441fe95146ef61230ad47"><enum>(D)</enum><text>submit in writing to the Board and the Federal Energy Regulatory Commission, and post publicly on the website of the Department of Energy, recommendations for actions the Board or Federal Energy Regulatory Commission should consider to alleviate the severe fuel supply emergency and prevent recurrences of the severe fuel supply emergency.</text>
+ </subparagraph></paragraph></subsection><subsection id="idd9ffe547a7ee4e8d90865006ad0d9f2a"><enum>(d)</enum><header>Effect on other laws</header><text>Nothing in this section limits any existing authority of any Federal agency.</text> </subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body> </bill> 
+

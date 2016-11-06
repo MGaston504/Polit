@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1111 IS: Public Power Risk Management Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-04-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1111</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150428">April 28, 2015</action-date>
+			<action-desc><sponsor name-id="S356">Mr. Donnelly</sponsor> (for himself and <cosponsor name-id="S236">Mr. Inhofe</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and Forestry</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide equal treatment for utility special entities using utility operations-related swaps, and
+			 for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Public Power Risk Management Act of 2015</short-title></quote>.</text>
+ </section><section id="idf648326495304b19a88632cb31d87e14"><enum>2.</enum><header>Transactions with utility special entities</header><text display-inline="no-display-inline">Section 1a(49) of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1a">7 U.S.C. 1a(49)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="idd4f1703b55c34178ab8240384a65463f" style="OLC">
+				<subparagraph id="id2df3210e74af4409a3d1ac0b3b5d0c5e"><enum>(E)</enum><header>Certain transactions with a utility special entity</header>
+ <clause id="ida9faa30b3d45480b86a6a872179bc494"><enum>(i)</enum><text>Transactions in utility operations-related swaps shall be reported pursuant to section 4r.</text> </clause><clause id="iddb928ac605424b4495e2a7b510682023"><enum>(ii)</enum><text>In making a determination to exempt pursuant to subparagraph (D), the Commission shall treat a utility operations-related swap entered into with a utility special entity, as defined in section 4s(h)(2)(D), as if it were entered into with an entity that is not a special entity, as defined in section 4s(h)(2)(C).</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="id779a810b1dd44667ac313f5302790cbe"><enum>3.</enum><header>Utility special entity defined</header><text display-inline="no-display-inline">Section 4s(h)(2) of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/6s">7 U.S.C. 6s(h)(2)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="idd159c25622df4f8790217db14b65d361" style="OLC">
+ <subparagraph id="id308a6a1feff34e3f8807185471727291"><enum>(D)</enum><header>Utility special entity</header><text>For purposes of this Act, the term <term>utility special entity</term> means a special entity, or any instrumentality, department, or corporation of or established by a State or political subdivision of a State, that—</text>
+ <clause id="idf6eee15b1ec34a2db63047ab7214ef1e"><enum>(i)</enum><text>owns or operates, or anticipates owning or operating, an electric or natural gas facility or an electric or natural gas operation;</text>
+ </clause><clause id="id349e7532b3bc451088ea2c9b6249d77e"><enum>(ii)</enum><text>supplies, or anticipates supplying, natural gas or electric energy to another utility special entity;</text>
+ </clause><clause id="id26859cd610e44bbb83ff09a6aca605b8"><enum>(iii)</enum><text>has, or anticipates having, public service obligations under Federal, State, or local law or regulation to deliver electric energy or natural gas service to customers; or</text>
+ </clause><clause id="id20eab3f386ce42f9881035583df1d123"><enum>(iv)</enum><text>is a Federal power marketing agency, as defined in section 3 of the Federal Power Act.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </section><section id="id480ec785d5ad432e90ad7b54f4ca8964"><enum>4.</enum><header>Utility operations-related swap</header> <subsection id="idc2c7cd25715c4fb0a13962614df3d5f5"><enum>(a)</enum><header>Swap further defined</header><text>Section 1a(47)(A)(iii) of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1a">7 U.S.C. 1a(47)(A)(iii)</external-xref>) is amended—</text>
+ <paragraph id="id0543ba95fee54cccbfb0801358a31d37"><enum>(1)</enum><text>by striking <quote>and</quote> at the end of subclause (XXI);</text> </paragraph><paragraph id="ided50a8c219ae4af7a9ab90d77da08e63"><enum>(2)</enum><text>by adding <quote>and</quote> at the end of subclause (XXII); and</text>
+ </paragraph><paragraph id="id3bfcb6ec55f844a4b5e1a1c236bb1c9b"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="id46aaab427db7415a9704bf9c39c02bf6" style="OLC"> <subclause id="id0D57A63D26634C57ACCEA9D0AC6B6B6A"><enum>(XXIII)</enum><text>a utility operations-related swap;</text></subclause><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="id9aee0fe81f5c476cbc167e7ed4d953e6"><enum>(b)</enum><header>Utility operations-Related swap defined</header><text>Section 1a of such Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1a">7 U.S.C. 1a</external-xref>) is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="id8a9845d02705434d90007e60bfde1243" style="OLC"> <paragraph id="id5cfbf56f0f1744a8907dc4dd3ddedbfb"><enum>(52)</enum><header>Utility operations-related swap</header><text>The term <term>utility operations-related swap</term> means a swap that—</text>
+ <subparagraph id="idaef3834c9f684053a0f54823809198b1"><enum>(A)</enum><text>is entered into to hedge or mitigate a commercial risk;</text> </subparagraph><subparagraph id="id3123fd27f29f439c9ed73c26faf5d5a2"><enum>(B)</enum><text>is not a contract, agreement, or transaction based on, derived on, or referencing—</text>
+ <clause id="ide8f9f06d517045bdaf9884e3bd47f7f6"><enum>(i)</enum><text>an interest rate, credit, equity, or currency asset class;</text> </clause><clause id="id45b122822d724568947a85d0318d2cbe"><enum>(ii)</enum><text>except as used as fuel for electric energy generation, a metal, agricultural commodity, or crude oil or gasoline commodity of any grade; or</text>
+ </clause><clause id="idbaa153d5006f4633af32109f4fb3b047"><enum>(iii)</enum><text>any other commodity or category of commodities identified for this purpose in a rule or order adopted by the Commission in consultation with the appropriate Federal and State regulatory commissions; and</text>
+ </clause></subparagraph><subparagraph id="idfa97ef8a11024c0ea7a5c3e05ecb08a0"><enum>(C)</enum><text>is associated with—</text> <clause id="id1000651d2a5e46988ea4cdfde7b9182d"><enum>(i)</enum><text>the generation, production, purchase, or sale of natural gas or electric energy, the supply of natural gas or electric energy to a utility, or the delivery of natural gas or electric energy service to utility customers;</text>
+ </clause><clause id="id9bb7b70bf91f4bd7b80a11a98a82b396"><enum>(ii)</enum><text>fuel supply for the facilities or operations of a utility;</text> </clause><clause id="id4b5451ee1a124df7864260492b8f52d8"><enum>(iii)</enum><text>compliance with an electric system reliability obligation;</text>
+ </clause><clause id="id251eadbd39df415798b900b0a3c8b9b1"><enum>(iv)</enum><text>compliance with an energy, energy efficiency, conservation, or renewable energy or environmental statute, regulation, or government order applicable to a utility; or</text>
+ </clause><clause id="ida071754b033b43b0a92aa9d8062eb782"><enum>(v)</enum><text>any other electric energy or natural gas swap to which a utility is a party.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </subsection></section></legis-body> </bill> 
+

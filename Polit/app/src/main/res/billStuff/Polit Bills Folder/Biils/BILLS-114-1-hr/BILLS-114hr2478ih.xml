@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H43347F66482442F1B24614C89C8A54E6" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2478 IH: ITIN Reform Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2478</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150520">May 20, 2015</action-date> 
+<action-desc><sponsor name-id="J000174">Mr. Sam Johnson of Texas</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Internal Revenue Code of 1986 to require that ITIN applicants submit their application in person at taxpayer assistance centers, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HE046C3C0DD584288B293C0205E5AD4F4" style="OLC"> 
+<section id="HB3C8FA57D357479682C0455D3DB46895" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>ITIN Reform Act of 2015</short-title></quote>.</text></section> <section id="HBF9A0CB90424460A97F63639716FBEAA" section-type="subsequent-section"><enum>2.</enum><header>Requirements for the issuance of ITINs</header> <subsection id="H00EE807E7A17418791CE93E50F205947"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/6109">Section 6109</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following:</text>
+<quoted-block display-inline="no-display-inline" id="H44BA435CEB374077A6C22049DB90F447" style="OLC">
+<subsection id="H384E24ABF8AC48C188C6CBF928CEDA5A"><enum>(i)</enum><header>Special rules relating to the issuance of ITINs</header>
+<paragraph id="HA747598C840F4ECCAA75CEDEFA515217"><enum>(1)</enum><header>In general</header><text>The Secretary may issue an individual taxpayer identification number to an individual only if the requirements of paragraphs (2) and (3) are met.</text></paragraph> <paragraph id="HDFCFB458A33A4D2E96F1E2299210DF09"><enum>(2)</enum><header>In-person application</header><text>The requirements of this paragraph are met if, with respect to an application for an individual taxpayer identification number—</text>
+<subparagraph id="HD3435854D3334C62B5E1A247172CFC62"><enum>(A)</enum><text>the applicant submits an application in person, using Form W–7 (or any successor thereof) and including the required documentation, at a taxpayer assistance center of the Internal Revenue Service, or</text></subparagraph> <subparagraph id="HEF48616839B848D8ADEC89D2E72D5674"><enum>(B)</enum><text display-inline="yes-display-inline">in the case of an applicant who resides outside of the United States, the applicant submits the application in person to an employee of the Internal Revenue Service or a designee of the Secretary at a United States diplomatic mission or consular post, together with the required documentation.</text></subparagraph></paragraph>
+<paragraph id="H4C2672C4E69E4FEBAFCC6CB3CA249ED3"><enum>(3)</enum><header>Initial on-site verification of documentation</header><text>The requirements of this paragraph are met if, with respect to each application, an employee of the Internal Revenue Service at the taxpayer assistance center, or the employee or designee described in paragraph (2)(B), as the case may be, conducts an initial verification of the documentation supporting the application submitted under paragraph (2).</text></paragraph> <paragraph id="HEA753E85755B49899366512159F6DE73"><enum>(4)</enum><header>Required documentation</header><text display-inline="yes-display-inline">For purposes of this subsection—</text>
+<subparagraph id="H20F5FEDF79274578AEEA91D9186F7DE5"><enum>(A)</enum><text>required documentation includes such documentation as the Secretary may require that proves the individual’s identity and foreign status, and</text></subparagraph> <subparagraph id="H7D98606064CE402EBFF77BDB23A73880"><enum>(B)</enum><text>the Secretary may only accept original documents.</text></subparagraph></paragraph>
+<paragraph id="H8987F1EF58E14DAFB0D01DE16D625408"><enum>(5)</enum><header>Exceptions</header>
+<subparagraph id="HDEB8FB3ED2464B5BA1AAAF60D3F520C0"><enum>(A)</enum><header>Military spouses</header><text display-inline="yes-display-inline">Paragraph (1) shall not apply to the spouse, or the dependents, without a social security number of a taxpayer who is a member of the Armed Forces of the United States.</text></subparagraph> <subparagraph id="H1E394B89114545B782458AB1E89E176C"><enum>(B)</enum><header>Treaty benefits</header><text>Paragraph (1) shall not apply to a nonresident alien applying for an individual taxpayer identification number for the purpose of claiming tax treaty benefits.</text></subparagraph></paragraph>
+<paragraph id="H46B58E80B7254EB0A42CD5CF2C4ED8FA"><enum>(6)</enum><header>Term</header>
+<subparagraph id="H296241531E5049F3A5E8ECA75AFDBFBA"><enum>(A)</enum><header>In general</header><text>An individual taxpayer identification number issued after the date of the enactment of this subsection shall be valid only for the 5-year period which includes the taxable year of the individual for which such number is issued and the 4 succeeding taxable years.</text></subparagraph> <subparagraph id="HBEEF68D97F2E4C699ED81482F7C420A4"><enum>(B)</enum><header>Renewal of ITIN</header><text>Such number shall be valid for an additional 5-year period only if it is renewed through an application which satisfies the requirements under paragraphs (2) and (3).</text></subparagraph>
+<subparagraph id="HAE05C09FCF344E169FA321117D7B8454"><enum>(C)</enum><header>Special rule for existing ITINs</header><text>In the case of an individual with an individual taxpayer identification number issued on or before the date of the enactment of this subsection, such number shall not be valid after the earlier of—</text> <clause id="H20104CF35B9E4979829FD4564CB192E6"><enum>(i)</enum><text>the end of the 3-year period beginning on the date of the enactment of this subsection, or</text></clause>
+<clause id="H7B4E4B4749C24A28AA63B38F4CB9BA48"><enum>(ii)</enum><text>the first taxable year beginning after—</text> <subclause id="H80A75A7746004BFD9EC4F03021B48C24"><enum>(I)</enum><text>the date of the enactment of this subsection, and</text></subclause>
+<subclause id="H81698B2A731343B48E989644FD232FC5"><enum>(II)</enum><text>any taxable year for which the individual (or, if a dependent, on which the individual is included) did not make a return.</text></subclause></clause></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HCF8502B5BC074F75905E0F2342A613F4"><enum>(b)</enum><header>Interest</header><text>Section 6611 of such Code is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection:</text>
+<quoted-block display-inline="no-display-inline" id="HF4F86864BB634A31B4C0E26FB2FA9898" style="OLC">
+<subsection id="HE94DEFAC88A843F4A75DE68C3E96D07C"><enum>(h)</enum><header>Special rule relating to ITINs</header><text display-inline="yes-display-inline">Notwithstanding any other provision of this section, no interest shall be allowed or paid to or on behalf of an individual with respect to any overpayment until 45 days after an individual taxpayer identification number is issued to the individual.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HEC448439AE164ECE82BB2ADECE96C4BA"><enum>(c)</enum><header>Audit by TIGTA</header><text>Not later than two years after the date of the enactment of this Act, and every two years thereafter, the Treasury Inspector General for Tax Administration shall conduct an audit of the program of the Internal Revenue Service for the issuance of individual taxpayer identification numbers pursuant to <external-xref legal-doc="usc" parsable-cite="usc/26/6109">section 6109(i)</external-xref> of the Internal Revenue Code of 1986. The report required by this subsection shall be submitted to the Congress.</text></subsection>
+<subsection id="HC466F250AFD746FDB0F9039FC39FAD38"><enum>(d)</enum><header>Effective date</header>
+<paragraph id="H77A0CACFDB9C42ED8DB09768F03BD242"><enum>(1)</enum><header>Subsection <enum-in-header>(a)</enum-in-header></header><text>The amendment made by subsection (a) shall apply to requests for individual taxpayer identification numbers made after the date of the enactment of this Act.</text></paragraph> <paragraph id="H40B72B4954774BD0BB4FC34D2B3BBCA4"><enum>(2)</enum><header>Subsection <enum-in-header>(b)</enum-in-header></header><text>The amendment made by subsection (b) shall apply to returns due, claims filed, and refunds paid after the date of the enactment of this Act.</text></paragraph></subsection></section> 
+</legis-body> 
+</bill> 
+
+

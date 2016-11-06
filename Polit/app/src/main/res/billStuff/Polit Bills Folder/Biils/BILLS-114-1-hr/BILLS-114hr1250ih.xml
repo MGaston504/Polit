@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H949D346F6841414CB12638B806C8C28F" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1250 IH: To amend title XVIII of the Social Security Act to provide that payment under the Medicare program to a long-term care hospital for inpatient services shall not be made at the applicable site neutral payment rate for certain discharges involving severe wounds, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1250</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150304">March 4, 2015</action-date>
+			<action-desc><sponsor name-id="H001045">Mr. Harper</sponsor> (for himself and <cosponsor name-id="T000193">Mr. Thompson of Mississippi</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to provide that payment under the Medicare program
+			 to a long-term care hospital for inpatient services shall not be made at
+			 the applicable site neutral payment rate for certain discharges involving
+			 severe wounds, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HC7CA87BDE72A4617BDEDAA759433F294" style="OLC">
+		<section id="H08314D6650A94C0A825BB5751E54D324" section-type="section-one"><enum>1.</enum><header>Temporary exception to site neutral payment rate for certain discharges involving severe wounds</header>
+ <subsection id="HC99A8EAC7BAE46B7AFA7B699EE40C879"><enum>(a)</enum><header>In General</header><text>Section 1886(m)(6) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww(m)(6)</external-xref>) is amended—</text> <paragraph id="HE2BC1920F34F483FB2079EAA78691B11"><enum>(1)</enum><text>in subparagraph (A)(i) by striking <quote>subparagraph (C)</quote> and inserting <quote>subparagraphs (C), (E), and (F)</quote>; and</text>
+ </paragraph><paragraph id="H439E4B23E5DD42C08139AE3C0BE820C2"><enum>(2)</enum><text display-inline="yes-display-inline">by adding at the end the following new subparagraphs:</text> <quoted-block id="H94868EC7FFB34860B91F62B45D092560"> <subparagraph display-inline="no-display-inline" id="HF331B436262545169918F929FB194F6B"><enum>(E)</enum><header>Temporary exception for certain severe wound discharges from subsection <enum-in-header>(d)</enum-in-header> hospitals</header> <clause id="H8BE0A1EAD17248B9876EB27706B3848E"><enum>(i)</enum><header>In general</header><text>For a discharge occurring in a cost reporting period beginning prior to October 1, 2017, subparagraph (A)(i) shall not apply (and payment shall be made to a long-term care hospital without regard to this paragraph) if—</text>
+ <subclause id="H6602BEA1E7D74B9CBBE17C15A33FB4F7"><enum>(I)</enum><text>the individual discharged has a severe wound during the stay in the long-term care hospital ending with such discharge;</text>
+ </subclause><subclause id="HD184CDF90F7B4B43AF164A05A5FA53A9"><enum>(II)</enum><text>the individual discharged meets the severe wound criterion; and</text> </subclause><subclause id="HDD30D14E963D45798FB5AEC34E52B28A"><enum>(III)</enum><text>the stay in the long-term care hospital ending with such discharge was immediately preceded by a discharge from a stay in a subsection (d) hospital.</text>
+ </subclause></clause><clause id="HC65E1C3B1A94450D96981CAAFE5EDBA7"><enum>(ii)</enum><header>Severe wound defined</header><text display-inline="yes-display-inline">In this paragraph, the term <quote>severe wound</quote> means a stage 3 wound, stage 4 wound, unstageable wound, non-healing surgical wound, infected wound, fistula, osteomyelitis, or wound with morbid obesity, as identified in the claim from the long-term care hospital.</text>
+ </clause><clause id="HF11CC7E094EC4AD49E15948FA50D0AE6"><enum>(iii)</enum><header>Severe wound criterion</header><text display-inline="yes-display-inline">In this subparagraph, the term <quote>severe wound criterion</quote> means that the individual discharged—</text> <subclause id="H6698DE018DB549C68B6E361687C5ADF7"><enum>(I)</enum><text>received an excisional debridement or total parenteral nutrition during the stay in the long-term care hospital referred to in clause (i)(III); or</text>
+ </subclause><subclause id="HA00B809A29914BD299BF1D438DE21C75"><enum>(II)</enum><text>has at least one major system organ failure (lung, liver, kidney, or heart) as identified in the claim from the immediately preceding stay in a subsection (d) hospital referred to in clause (i)(III).</text>
+ </subclause></clause></subparagraph><subparagraph id="H98AA223B70C54A2E9FA87C7A5F81B3C5"><enum>(F)</enum><header>Temporary exception for certain severe wound discharges from certain long-term care hospitals</header><text display-inline="yes-display-inline">For a discharge occurring in a cost reporting period beginning prior to October 1, 2017, subparagraph (A)(i) shall not apply (and payment shall be made to a long-term care hospital without regard to this paragraph) if such discharge—</text>
+ <clause id="HA87F0044BFD14A5E9021A35DA4EAEE0F"><enum>(i)</enum><text>is from a long-term care hospital identified by the amendment made by section 4417(a) of the Balanced Budget Act of 1997 (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww</external-xref> note, <external-xref legal-doc="public-law" parsable-cite="pl/105/33">Public Law 105–33</external-xref>); and</text>
+ </clause><clause id="H7D7D26F9670447D2A62D1C9D69F3792C"><enum>(ii)</enum><text display-inline="yes-display-inline">the individual discharged has a severe wound (as defined in subparagraph (E)(ii)).</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></subsection><subsection id="HF3BD30A047CA4BF8A4BE464E7C889EA3"><enum>(b)</enum><header>Study and report to Congress</header> <paragraph commented="no" id="H850E27B64FC54847963860C352FED4F9"><enum>(1)</enum><header>Study</header><text display-inline="yes-display-inline">The Secretary of Health and Human Services shall, in consultation with relevant stakeholders, conduct a study on the treatment needs of individuals entitled to benefits under part A of such title, or enrolled under part B of such title, requiring specialized wound care, and the cost, for such individuals and the Medicare program, of treating severe wounds in rural and urban areas. Such study shall include an assessment of—</text>
+ <subparagraph commented="no" id="H03510880A21F4F059D8D1EC17F992BF0"><enum>(A)</enum><text>access of such individuals to appropriate levels of care for such cases;</text> </subparagraph><subparagraph commented="no" id="H11F2210A7A6B4D1AB6D2615438164E26"><enum>(B)</enum><text display-inline="yes-display-inline">the potential impact that section 1886(m)(6)(A)(i) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww(m)(6)(A)(i)</external-xref>) will have on the access, quality, and cost of care for such individuals; and</text>
+ </subparagraph><subparagraph commented="no" id="H4F6B00DE88BD4BDFBD832EBC05425C84"><enum>(C)</enum><text>how to appropriately pay for such care under the Medicare program under such title.</text> </subparagraph></paragraph><paragraph id="HD313E75B527A4CB4962EC4D03A5E6EFC"><enum>(2)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than October 1, 2016, the Secretary of Health and Human Services shall submit to Congress a report on the study conducted under paragraph (1), together with recommendations for such legislation and administrative action as the Secretary determines appropriate.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

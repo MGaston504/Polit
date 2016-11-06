@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H392EA9D6DC084C86B39686724C3F830E" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1358 IH: Armor-Piercing Bullets Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1358</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150313">March 13, 2015</action-date>
+			<action-desc><sponsor name-id="E000179">Mr. Engel</sponsor> (for himself, <cosponsor name-id="C001067">Ms. Clarke of New York</cosponsor>, <cosponsor name-id="W000822">Mrs. Watson Coleman</cosponsor>, and <cosponsor name-id="M000087">Mrs. Carolyn B. Maloney of New York</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To enact into law a framework for deciding whether certain projectiles are <quote>primarily intended for sporting purposes</quote> for purposes of determining whether the projectiles are armor piercing ammunition.</official-title>
+	</form>
+	<legis-body id="HD1B507D6E336404C8D32B814EB627D2A" style="OLC">
+ <section id="H82FC98E0138943D68F144C94A9EEE316" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Armor-Piercing Bullets Act of 2015</short-title></quote>.</text> </section><section id="H96C7C23CD56942F5A7FA85640E76F778" section-type="subsequent-section"><enum>2.</enum><header>Framework for deciding whether certain projectiles are <quote>primarily intended for sporting purposes</quote> for purposes of determining whether the projectiles are armor piercing ammunition</header> <text display-inline="no-display-inline">Section 921(a)(17) of title 18, United States Code, is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H6D409C75EC2743F5B537685B92055DB0" style="OLC">
+				<subparagraph id="HA558BDDD59FA42DA92203A99FDA974A1" indent="up2"><enum>(D)</enum>
+ <clause commented="no" display-inline="yes-display-inline" id="H34B06C9FE33F44A2BB76DA53EB49D819"><enum>(i)</enum><text display-inline="yes-display-inline">For purposes of subparagraph (C), a .22 caliber projectile that otherwise would be armor piercing ammunition shall be considered to be primarily intended to be used for sporting purposes if the projectile weighs 40 grains or less and is loaded into a rimfire cartridge.</text>
+					</clause><clause id="H49E378CB21B6487DA2AC96A1AF526674" indent="up1"><enum>(ii)</enum>
+						<subclause commented="no" display-inline="yes-display-inline" id="HCAE54D24F11D4732847E75AABB350E09"><enum>(I)</enum>
+ <item commented="no" display-inline="yes-display-inline" id="HD87A24E9A73A46AE95B9E84BAC9C061C"><enum>(aa)</enum><text display-inline="yes-display-inline">Except as provided in clause (i), a projectile that otherwise would be armor piercing ammunition shall, for purposes of subparagraph (C), be considered to be primarily intended to be used for sporting purpose if the projectile is loaded into a cartridge for which the only handgun that is readily available in the ordinary channels of commercial trade is a single shot handgun, subject to subclause (II).</text>
+ </item><item id="HC3FB0EFE11EA42C2A7C1CB9ECBEEF050" indent="up2"><enum>(bb)</enum><text>In subclause (aa), the term <quote>single shot handgun</quote> means a break-open or bolt action handgun that can accept only a single cartridge manually, and does not accept or use a magazine or other ammunition feeding device, but does not include a pocket pistol or derringer-type firearm.</text>
+ </item></subclause><subclause id="H627A873AF0704DF0AB4562C0D1DB5905" indent="up1"><enum>(II)</enum><text>For purposes of subparagraph (C), the Attorney General may treat a projectile as not primarily intended to be used for sporting purposes if substantial evidence exists that the projectile is not primarily intended to be used for sporting purposes.</text></subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

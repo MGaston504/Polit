@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2317 IS: Minority-Serving Institution Fairness Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-11-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2317</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151119">November 19, 2015</action-date>
+			<action-desc><sponsor name-id="S361">Ms. Hirono</sponsor> (for herself, <cosponsor name-id="S287">Mr. Cornyn</cosponsor>, and <cosponsor name-id="S353">Mr. Schatz</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title III of the Higher Education Act of 1965 to strengthen minority-serving institutions.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Minority-Serving Institution Fairness Act</short-title></quote>.</text>
+ </section><section id="id46D5AED069664A38AB50F679D79C18EF"><enum>2.</enum><header>Alaska Native and Native Hawaiian-Serving Institutions</header><text display-inline="no-display-inline">Section 317(d)(3) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1059d">20 U.S.C. 1059d(d)(3)</external-xref>) is amended by striking subparagraph (A) and inserting the following:</text>
+			<quoted-block display-inline="no-display-inline" id="idBC3DB72AEB0442549DA6B64833BCC5BA" style="OLC">
+ <subparagraph id="idB99E011B16F44783AD4BD8CADB68526D"><enum>(A)</enum><header>Concurrent funding</header><text>No Alaskan Native-serving institution or Native Hawaiian-serving institution that receives funds under this section shall concurrently receive funds under section 316 or 318, or part B.</text>
+				</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="idA2AFCB524A224B78B640F800AB393461"><enum>3.</enum><header>Native American-Serving, Nontribal Institutions</header><text display-inline="no-display-inline">Section 319(d)(3) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1059f">20 U.S.C. 1059f(d)(3)</external-xref>) is amended by striking subparagraph (A) and inserting the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id5D5DBECD47874621A5BB7A79AC24E37B" style="OLC">
+ <subparagraph id="idD4774B385C414C9B9AA1A1B3949E2893"><enum>(A)</enum><header>Concurrent funding</header><text display-inline="yes-display-inline">No Native American-serving, nontribal institution that receives funds under this section shall concurrently receive funds under section 316 or 318, or part B.</text>
+				</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="id3F3D28CA25164C0DA0C620C50AF3EEA0"><enum>4.</enum><header>Asian American and Native American Pacific Islander-Serving Institutions</header><text display-inline="no-display-inline">Section 320(d)(3) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1059g">20 U.S.C. 1059g(d)(3)</external-xref>) is amended by striking subparagraph (A) and inserting the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id767CC9E2EEE74C92987849B3627A613B" style="OLC">
+ <subparagraph commented="no" display-inline="no-display-inline" id="IDA565E8478B954D29A9A68A489CB2AB64"><enum>(A)</enum><header display-inline="yes-display-inline">Concurrent funding</header><text display-inline="yes-display-inline">No Asian American and Native American Pacific Islander-serving institution that receives funds under this section shall concurrently receive funds under section 316 or 318, or part B.</text>
+				</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="idC81D64F56A754FCFA804AA76EB83B966"><enum>5.</enum><header>Hispanic-serving institutions</header><text display-inline="no-display-inline">Section 505 of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1101d">20 U.S.C. 1101d</external-xref>) is amended by striking <quote>part A</quote> and inserting <quote>section 316, section 318,</quote>.</text> </section><section id="id4620D9F27B7A4470A176A9E2FF1F8474"><enum>6.</enum><header>Limitations on concurrent receipt of program funds</header> <subsection id="idC83B778C9CDB444CBE23D9FB25170E51"><enum>(a)</enum><header>Limitations on concurrent receipt of program funds</header><text display-inline="yes-display-inline">Part A of title III of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1057">20 U.S.C. 1057 et seq.</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idCAD819715DD34776B34C7465A6E3D21E" style="OLC">
+ <section id="idCE34B316AC494DC2B5D7145C5CC008B5"><enum>321.</enum><header>Limitation on concurrent receipt of program funds</header><text display-inline="no-display-inline">Subject to the availability of applications, not less than 35 percent of the funding awarded under each of sections 317, 319, or 320, or part A of title V, for a fiscal year, shall be awarded to institutions that are not eligible for funds concurrently under more than one program under section 317, 319, or 320, or part A of title V, for such fiscal year.</text></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="idDA1EEF4C0322470EBE39891D132994A5"><enum>(b)</enum><header>Investment in historically Black colleges and universities and other minority-Serving institutions</header><text>Section 371 of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1067q">20 U.S.C. 1067q</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id79BF418ED61C4DE986ECC34A4BCD0650" style="OLC">
+ <subsection id="idC040017DDE6C4FE7BC2544325205EB16"><enum>(d)</enum><header>Limitations on concurrent receipt of program funds</header><text>An eligible institution described in paragraph (2), (4), (6), or (7) of subsection (a) may receive more than one grant under this section for a fiscal year, if, subject to availability of applications, not less than 35 percent of the funding awarded under this section to institutions described in each of such paragraphs is awarded to institutions that are not eligible for funds concurrently under more than one program under this section for such fiscal year.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id2D907EE14FA54CA8ABEE3988E86FFB16"><enum>(c)</enum><header>Duration of grant</header><text>Section 313(b) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1059">20 U.S.C. 1059(b)</external-xref>) is amended—</text> <paragraph id="id9B0C84A65E97444DB8051B448EBB95DB"><enum>(1)</enum><text>by inserting <quote>a section under</quote> after <quote>awarding grants under</quote>; and</text>
+ </paragraph><paragraph id="idF052E6FEC2524B39B33BDD30E366332A"><enum>(2)</enum><text>by inserting <quote>the same section under</quote> after <quote>receiving a grant under</quote>.</text></paragraph></subsection></section></legis-body></bill> 
+

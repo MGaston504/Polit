@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2D9AA2C1FD9F4209BC297763EB82ABC0" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 855 IH: New Markets Tax Credit Extension Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 855</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150210">February 10, 2015</action-date> 
+<action-desc><sponsor name-id="T000462">Mr. Tiberi</sponsor> (for himself, <cosponsor name-id="N000015">Mr. Neal</cosponsor>, and <cosponsor name-id="R000585">Mr. Reed</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Internal Revenue Code of 1986 to permanently extend the new markets tax credit, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H493C05F1A4BB490DA117AB0050457D35" style="OLC"> 
+<section display-inline="no-display-inline" id="H762940A7CA48496CADC7141A7528DFA8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>New Markets Tax Credit Extension Act of 2015</short-title></quote>.</text></section> <section id="HAF04E983CE34475AB0C5C8A3D97AC1D4"><enum>2.</enum><header>Permanent extension of new markets tax credit</header> <subsection id="H249651FA89BA4DE0B30D7A42454BC0A6"><enum>(a)</enum><header>Extension</header> <paragraph id="HEF8F017D9B084DCBA918F8077F7F44D7" commented="no"><enum>(1)</enum><header>In general</header><text>Subparagraph (G) of <external-xref legal-doc="usc" parsable-cite="usc/26/45D">section 45D(f)(1)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>, 2011, 2012, 2013, and 2014</quote> and inserting <quote>and each calendar year thereafter</quote>.</text></paragraph> 
+<paragraph id="H794B9DBCA1654C74991D1D71A25F123C"><enum>(2)</enum><header>Conforming amendment</header><text>Section 45D(f)(3) of such Code is amended by striking the last sentence.</text></paragraph></subsection> <subsection id="HCAB084A1E31746E49A04EEA1465B8609"><enum>(b)</enum><header>Inflation adjustment</header><text>Subsection (f) of <external-xref legal-doc="usc" parsable-cite="usc/26/45D">section 45D</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text> 
+<quoted-block display-inline="no-display-inline" id="HAF68FDB8FB3841A9979344359729ADC3" style="OLC"> 
+<paragraph id="HDE2F1F0D040E445F8715F870452FFEFF"><enum>(4)</enum><header>Inflation adjustment</header> 
+<subparagraph id="HDC2D2B52C4704C548CDFE90AE8C72682"><enum>(A)</enum><header>In general</header><text>In the case of any calendar year beginning after 2014, the dollar amount in paragraph (1)(G) shall be increased by an amount equal to—</text> <clause id="H66F25D2F8B72457E8C400652632164DD"><enum>(i)</enum><text>such dollar amount, multiplied by</text></clause> 
+<clause id="H3F5E8DD03B4D430099752A1DBF51A2F7"><enum>(ii)</enum><text>the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting <quote>calendar year 2000</quote> for <quote>calendar year 1992</quote> in subparagraph (B) thereof.</text></clause></subparagraph> <subparagraph display-inline="no-display-inline" id="H4F8BB4363F59432287A3006AA7DEEC49"><enum>(B)</enum><header>Rounding rule</header><text>Any increase under subparagraph (A) which is not a multiple of $1,000,000 shall be rounded to the nearest multiple of $1,000,000.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="H77DEE0B7E88842A490503B5EF5649E28"><enum>(c)</enum><header>Alternative minimum tax relief</header><text display-inline="yes-display-inline">Subparagraph (B) of <external-xref legal-doc="usc" parsable-cite="usc/26/38">section 38(c)(4)</external-xref> of the Internal Revenue Code of 1986 is amended—</text> <paragraph id="HC608F3CD3AF449478EB7428B7D5B279E"><enum>(1)</enum><text display-inline="yes-display-inline">by redesignating clauses (v) through (ix) as clauses (vi) through (x), respectively, and</text></paragraph> 
+<paragraph id="H20505A68614B4EF8BF0233BC2B79C3CA"><enum>(2)</enum><text display-inline="yes-display-inline">by inserting after clause (iv) the following new clause:</text> <quoted-block id="H428E866342144F89860728B1B379BA9C" style="OLC"> <clause id="HEF1F50F9302947F38BBDEBE2F26D20DB"><enum>(v)</enum><text>the credit determined under section 45D, but only with respect to credits determined with respect to qualified equity investments (as defined in section 45D(b)) initially made after December 31, 2014,</text></clause><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection commented="no" display-inline="no-display-inline" id="H455955E2325F427383FB22140952D79D"><enum>(d)</enum><header>Effective dates</header> 
+<paragraph id="H22A29D0BA954448BA55C48B95724FD36"><enum>(1)</enum><header>In general</header><text>Except as provided in paragraph (2), the amendments made by this section shall apply to taxable years beginning after December 31, 2014.</text></paragraph> <paragraph id="HE22508D25F674DDB99F3E1170F749A66"><enum>(2)</enum><header>Alternative minimum tax relief</header><text display-inline="yes-display-inline">The amendments made by subsection (c) shall apply to credits determined with respect to qualified equity investments (as defined in <external-xref legal-doc="usc" parsable-cite="usc/26/45D">section 45D(b)</external-xref> of the Internal Revenue Code of 1986) initially made after December 31, 2014.</text></paragraph></subsection></section> 
+</legis-body> 
+</bill> 
+

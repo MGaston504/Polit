@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD6D7A57DE61A454D9490ABB4DB2186B2" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1972 IH: Nuclear Power Licensing Reform Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1972</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150422">April 22, 2015</action-date>
+			<action-desc><sponsor name-id="L000480">Mrs. Lowey</sponsor> (for herself and <cosponsor name-id="E000179">Mr. Engel</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide certain requirements for the licensing of commercial nuclear facilities.</official-title>
+	</form>
+	<legis-body id="H7BB393D30F1B41E7A29DD2E9C8B4331D" style="OLC">
+ <section id="H54031953B40A41DA822580857B60E360" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Nuclear Power Licensing Reform Act of 2015</short-title></quote>.</text> </section><section id="HF93D6B8842BD4A4C8CC269DC47242D3A"><enum>2.</enum><header>Amendments</header><text display-inline="no-display-inline">Section 103 of the Atomic Energy Act of 1954 (<external-xref legal-doc="usc" parsable-cite="usc/42/2133">42 U.S.C. 2133</external-xref>) is amended—</text>
+ <paragraph id="HC70EEC84963840E29ED308B80A7A8675"><enum>(1)</enum><text>in subsection (b), by inserting <quote>, including that the facility does not pose an unreasonable threat to persons or the environment because of safety or security vulnerabilities (including vulnerability to terrorist attacks), and that there exist adequate evacuation plans for emergency events and that those plans have been approved by the relevant Federal agencies and States within 50 miles of the facility</quote> after <quote>by rule establish</quote>; and</text>
+ </paragraph><paragraph id="H0E7DD74A44D74169857E714611CDAF19"><enum>(2)</enum><text>in subsection (c), by adding at the end the following: <quote>Any such renewal shall be subject to the same criteria and requirements that would be applicable for an original application for initial construction, and the Commission shall ensure that any changes in the size or distribution of the surrounding population, or seismic or other scientific data not available at time of original licensing, have not resulted in the facility being located at a site at which a new facility would not be allowed to be built.</quote>.</text>
+			</paragraph></section></legis-body>
+</bill>
+
+

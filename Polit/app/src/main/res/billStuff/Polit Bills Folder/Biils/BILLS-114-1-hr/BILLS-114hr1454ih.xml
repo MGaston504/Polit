@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB6DEEB5AAD254C2B8CB79F8C58DD88D1" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1454 IH: Modernized Law Enforcement Officers Protection Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1454</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150318">March 18, 2015</action-date> 
+<action-desc><sponsor name-id="S001175">Ms. Speier</sponsor> (for herself, <cosponsor name-id="B001270">Ms. Bass</cosponsor>, <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>, <cosponsor name-id="B000911">Ms. Brown of Florida</cosponsor>, <cosponsor name-id="C001090">Mr. Cartwright</cosponsor>, <cosponsor name-id="C001084">Mr. Cicilline</cosponsor>, <cosponsor name-id="C001067">Ms. Clarke of New York</cosponsor>, <cosponsor name-id="F000030">Mr. Farr</cosponsor>, <cosponsor name-id="F000462">Ms. Frankel of Florida</cosponsor>, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, <cosponsor name-id="H001034">Mr. Honda</cosponsor>, <cosponsor name-id="I000057">Mr. Israel</cosponsor>, <cosponsor name-id="M000087">Mrs. Carolyn B. Maloney of New York</cosponsor>, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, <cosponsor name-id="R000053">Mr. Rangel</cosponsor>, <cosponsor name-id="T000472">Mr. Takano</cosponsor>, and <cosponsor name-id="C001066">Ms. Castor of Florida</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To modify the definition of armor piercing ammunition to better capture its capabilities.</official-title> 
+</form> 
+<legis-body id="H37046B63D8214E98BCA495D76C64B8CA" style="OLC">
+<section id="HA62E1E5A62AA467A8E041D5C93434D3F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Modernized Law Enforcement Officers Protection Act of 2015</short-title></quote>.</text></section> <section id="HA7EA57B684004F08A054A036D12BBA8A"><enum>2.</enum><header>Armor piercing ammunition</header> <subsection id="H26B4F7DFA1EA41E9B6C4DE10CA87D366"><enum>(a)</enum><header>Expansion of definition</header><text display-inline="yes-display-inline">Section 921(a)(17)(B) of title 18, United States Code, is amended—</text> 
+<paragraph id="HA32E903475A84D0980DB4DE4C1002301"><enum>(1)</enum><text>in clause (I), by striking <quote>or</quote> at the end;</text></paragraph> <paragraph id="H6CFBD01CCD57474DAAC57C26B8D36C63"><enum>(2)</enum><text>in clause (ii), by striking the period and inserting <quote>; and</quote>; and</text></paragraph> 
+<paragraph id="HE33F196FC2764742ABC3CE0C2573D35E"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H423FCB8948534C2BB801A40B104789CF" style="OLC"> <clause id="HAEF98DA92FC44761A1E552BC9492CF70"><enum>(iii)</enum><text display-inline="yes-display-inline">a projectile that—</text> 
+<subclause id="H5C0E253BD97547CEBC4DB9079C85F9D1"><enum>(I)</enum><text>may be used in a handgun; and</text></subclause> <subclause id="HF9DAB562C43048629391AC21AC91B8FD"><enum>(II)</enum><text>the Attorney General determines, under section 926(d), to be capable of penetrating body armor.</text></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="H377694F789F7494C80150193D1846283"><enum>(b)</enum><header>Determination of capability of projectiles To penetrate body armor</header> 
+<paragraph id="H8E0E2FA4D0E24053908DD6F719A189B6"><enum>(1)</enum><header>In general</header><text>Section 926 of such title is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="HCD565BA2E9F74266B1291281AE0EFD43" style="OLC"> <subsection id="HEDEDB5D90B4349DBBA43D47169837DB9"><enum>(d)</enum> <paragraph commented="no" display-inline="yes-display-inline" id="HD011B083A07F46D4B9147B72B8BAEF03"><enum>(1)</enum><text display-inline="yes-display-inline">The Attorney General, in consultation with Director of Operational Test and Evaluation of the Department of Defense, shall promulgate standards for the uniform testing of projectiles against the Body Armor Exemplar.</text></paragraph> 
+<paragraph id="HC66427DA6B76429FB303431F2663B9C2" indent="up1"><enum>(2)</enum><text>The standards promulgated under paragraph (1) shall take into account, among other factors, variations in performance that are related to the type of handgun used, the length of the barrel of the handgun, the amount and kind of powder used to propel the projectile, and the design of the projectile.</text></paragraph> <paragraph id="HB637F19C02694F01B5C11208B104F635" indent="up1"><enum>(3)</enum><text>In paragraph (1), the term <term>Body Armor Exemplar</term> means body armor that the Attorney General determines meets minimum standards for the protection of law enforcement officers.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph> 
+<paragraph id="H7D100EF878BC4527B3AA5F333B54D3FC"><enum>(2)</enum><header>Timing of promulgation of standards</header><text>The Attorney General shall promulgate the standards required by section 926(d) of title 18, United States Code, within 1 year after the date of the enactment of this section.</text></paragraph> <paragraph id="H9FFD970C0DE742AB87358B84701A8ACB"><enum>(3)</enum><header>Assessment and modification of standards</header><text>The Attorney General shall assess the standards every 3 years, or more frequently if the Attorney General finds that technological advances warrant doing so, and shall modify the standards as appropriate.</text></paragraph></subsection></section> 
+</legis-body> 
+</bill> 
+

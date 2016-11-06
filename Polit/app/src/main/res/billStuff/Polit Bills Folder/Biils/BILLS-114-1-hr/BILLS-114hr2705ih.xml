@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H66618AB5BB7F4E27A3701747E60AE682" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2705 IH: Federal Regulatory Certainty for Water Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2705</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150609">June 9, 2015</action-date>
+			<action-desc><sponsor name-id="T000238">Mr. Thornberry</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To clarify the definition of navigable waters, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HDBEF944F0EF4477F80BFA5B9AB01173E" style="OLC">
+ <section id="H370D5007D7AD44FAAA964A01758888D3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Federal Regulatory Certainty for Water Act</short-title></quote>.</text> </section><section id="H0969DCC2FD254C2C9369429C55C7D3F8"><enum>2.</enum><header>Repeal of agency regulations</header><text display-inline="no-display-inline">The final rule issued by the Administrator of the Environmental Protection Agency and the Secretary of the Army entitled <quote>Clean Water Rule: Definition of <quote>Waters of the United States</quote></quote>, signed by the Administrator and the Assistant Secretary on May 27, 2015, shall have no force or effect.</text>
+ </section><section id="HAB1EC9E5FB46472982C71C9052D617FB"><enum>3.</enum><header>Definition of navigable waters</header><text display-inline="no-display-inline">Section 502 of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1362">33 U.S.C. 1362</external-xref>) is amended by striking paragraph (7) and inserting the following:</text>
+			<quoted-block id="H3825F1D5DD5F41B894D6924277851489" style="OLC">
+				<paragraph id="HC087F94450614303A05460ADDE98985E"><enum>(7)</enum><header>Navigable waters</header>
+ <subparagraph id="H1E8B1CC64F8249D085988F34826B3CA3"><enum>(A)</enum><header>In general</header><text>The term <term>navigable waters</term> means the waters of the United States, including the territorial seas, that are—</text> <clause id="H2A6814EB466F49E3857B3EDD6EC90F32"><enum>(i)</enum><text>navigable-in-fact; or</text>
+ </clause><clause id="HC835805F37C64AA8A8CBB932216302B4"><enum>(ii)</enum><text>permanent or continuously flowing bodies of water that form geographical features commonly known as streams, oceans, rivers, and lakes that are connected to waters that are navigable-in-fact.</text>
+ </clause></subparagraph><subparagraph id="H5FBC911D996E4F248257C263ED8A6307"><enum>(B)</enum><header>Exclusions</header><text>The term <term>navigable waters</term> does not include—</text> <clause id="HD4C86E91D19A4C8ABDA3F539D2586EDD"><enum>(i)</enum><text>waters that do not physically abut waters described in subparagraph (A) through an actual and continuous surface water connection;</text>
+ </clause><clause id="H5BFAB810772C43F19539C8BFE8C9F2D5"><enum>(ii)</enum><text>man-made or natural structures or channels through which water flows intermittently or ephemerally, including for the periodic drainage of rainfall; or</text>
+ </clause><clause id="H5ED718952E6647E69DFF4E01D3C993FD"><enum>(iii)</enum><text>wetlands, including playa lakes, prairie potholes, wet meadows, wet prairies, and vernal pools, that lack a continuous surface water connection to bodies of water that are waters described in subparagraph (A).</text>
+ </clause></subparagraph><subparagraph id="HFADA0E90EC3C4F94BB69B88D90ADCE1B"><enum>(C)</enum><header>No aggregation</header><text>The aggregation of wetlands or waters shall not be used to determine whether the wetlands or waters are navigable waters.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="H0E08D044B361499590619D829DC412A6"><enum>4.</enum><header>Coast Guard</header><text display-inline="no-display-inline">Nothing in this Act or the amendments made by this Act shall be construed to impair, diminish, or otherwise affect the authority, function, jurisdiction, or power of the Coast Guard, or any member thereof, with respect to the navigable waters of the United States, or to affect or alter the status of such waters as navigable waters of the United States for such purposes.</text>
+		</section></legis-body>
+</bill>
+
+

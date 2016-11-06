@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD882029320B94430AF6C92603297D71A" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1750 IH: Autofill Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1750</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150413">April 13, 2015</action-date>
+			<action-desc><sponsor name-id="F000454">Mr. Foster</sponsor> (for himself, <cosponsor name-id="Q000023">Mr. Quigley</cosponsor>, and <cosponsor name-id="D000399">Mr. Doggett</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to establish a program to populate downloadable tax
+			 forms with taxpayer return information.</official-title>
+	</form>
+	<legis-body id="HC34CC59ECDEF4E469A7F4954DA47A190" style="OLC">
+ <section id="HB377E7651F904EDAA41681D96771F5E4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Autofill Act of 2015</short-title></quote>.</text> </section><section id="HBF8CDACA7FE946A295FD24E41CD32278"><enum>2.</enum><header>Automated partially pre-populated tax returns</header> <subsection id="HBA6064F640A545AC81BC8773CEFF9E62"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/77">Chapter 77</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+				<quoted-block id="H8A3BA9DC0A9B491F938FF15165948E88" style="OLC">
+					<section id="H56BB5DFA5EE44AF58950879CD77144EE"><enum>7529.</enum><header>Automated partially pre-populated tax returns</header>
+ <subsection id="H55C9105D6971401E981C8D6B7D20B9CD"><enum>(a)</enum><header>Establishment of program</header><text>The Secretary shall establish a program under which taxpayers may download forms relating to the individual income tax returns that are populated with return information reported to the Secretary under chapter 61 and reported to the Secretary pursuant to section 232 of the Social Security Act.</text>
+						</subsection><subsection id="H09B0ABFAD3884F9E98271F77EC3923AD"><enum>(b)</enum><header>Requirements relating to information</header>
+ <paragraph id="HBEF12FBB005946DC93F80C1F8884CD04"><enum>(1)</enum><header>Deadline for making information available</header><text>The Secretary shall make such return information available under the program established under subsection (a) not later than 15 days after the Secretary receives such information.</text>
+ </paragraph><paragraph id="H058C1374C140470FA3D6DF56FA2D6CA8"><enum>(2)</enum><header>Format of information made available</header><text>Return information shall be made available under the program established under subsection (a) in both a printable document file suitable for manual completion and filing and in a computer-readable form suitable for use by automated tax preparation software.</text>
+							</paragraph></subsection><subsection id="H96684DBDBC5F4C1FA7AEAB901F3F6CA3"><enum>(c)</enum><header>Autofill service deadlines</header>
+ <paragraph id="H3FFEEBDD45E042ADB2CC9B818DDDAABD"><enum>(1)</enum><header>Standards</header><text>Not later than October 31, 2015, the Secretary shall—</text> <subparagraph id="H0E339B58FCDA487799BA6C86CA78394C"><enum>(A)</enum><text>establish standards for data download to tax preparation software, and</text>
+ </subparagraph><subparagraph id="HA31007EDF36D490987ABBEC479424A10"><enum>(B)</enum><text>provide a demonstration server for downloading the partially populated printable document file.</text> </subparagraph></paragraph><paragraph id="HA06C4518F56546E3B06464769B80F05B"><enum>(2)</enum><header>Tax forms</header><text>Not later than February 15, 2016, and annually thereafter, the Secretary shall provide on the Secretary’s Web site a secure function that allows a taxpayer to download, as both a printable document file and in a form suitable for input to automatic tax preparation software, the 1040, 1040A, and 1040EZ forms that are populated with information with respect to the taxpayer that is reported under chapter 61 or any other provision of this title under which reporting of information is required.</text>
+ </paragraph></subsection><subsection id="H5637058A12804E3AA2A80ACD777763D2"><enum>(d)</enum><header>Taxpayer responsibility</header><text>Nothing in this section shall be construed to absolve the taxpayer from full responsibility for the accuracy or completeness of his return of tax.</text>
+ </subsection><subsection id="H076F34AC0889436EBC715702465F0293"><enum>(e)</enum><header>Disclaimer</header><text>Before any form can be downloaded under the program established under subsection (a), taxpayer must acknowledge that—</text>
+ <paragraph id="H3C6228EFE9EE4D56A6BECF4C4E25A5E8"><enum>(1)</enum><text>the taxpayer is responsible for the accuracy of his return, and</text> </paragraph><paragraph id="H92DF8C9D192443E6A548B8939486864D"><enum>(2)</enum><text>all information provided in the downloadable form under such program needs to be verified.</text>
+ </paragraph></subsection><subsection id="H20B59133CC414124B44795E552D46247"><enum>(f)</enum><header>Information Provided for Wage and Self-Employment income</header><text>For purposes of subsection (a)—</text> <paragraph id="HB8F36DFE8DC54ADBBA474F28B59B406D"><enum>(1)</enum><header>Information related to calendar year 2015</header><text>In the case of information relating to wages paid, and amounts of self-employment income, for calendar year 2015 required to be provided to the Commissioner of Social Security under section 205(c)(2)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/405">42 U.S.C. 405(c)(2)(A)</external-xref>), the Commissioner shall, using best efforts, make such information available to the Secretary not later than January 31, 2016.</text>
+ </paragraph><paragraph id="H7C86E78A8675419B8977B3B8B8038035"><enum>(2)</enum><header>Information related to calendar year 2016 and thereafter</header><text>In the case of information relating to wages paid, and amounts of self-employment income, for any calendar year after 2015 required to be provided to the Commissioner of Social Security under section 205(c)(2)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/405">42 U.S.C. 405(c)(2)(A)</external-xref>), the Commissioner shall make such information available to the Secretary not later than the January 31 of the calendar year following the calendar year to which such wages and self-employment income relate.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HA6FC9AD307184996B33DEF3F9C4E3B49"><enum>(b)</enum><header>Filing deadline for information returns</header><text>Section 6071(b) of such Code is amended to read as follows:</text> <quoted-block id="H45499E56D47D4BE290D1C72E8B3B9124" style="OLC"> <subsection id="H3297EF1B0E9F44008B3CB4957D540BF2"><enum>(b)</enum><header>Information returns</header><text>Returns made under part III of this subchapter shall be filed on or before January 31 of the year following the calendar year to which such returns relate. Section 6081 shall not apply to returns under such part III.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HEE6A4B5DEF5C47D0A099BBCFAF865858"><enum>(c)</enum><header>Conforming amendment to Social Security Act</header><text>Section 205(c)(2)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/405">42 U.S.C. 405(c)(2)(A)</external-xref>) is amended by adding at the end the following new sentence: <quote>For purposes of the preceding sentence, the Commissioner shall require that information relating to wages paid, and amounts of self-employment income, be provided to the Commissioner not later than January 31 of the year following the calendar year to which such wages and self-employment income relate.</quote>.</text>
+ </subsection><subsection id="H82AF5CFCA39A42E89D5EC1618A93F44B"><enum>(d)</enum><header>Clerical amendment</header><text>The table of sections for chapter 77 of such Code is amended by adding at the end the following new item:</text>
+				<quoted-block id="H1999C747214C48D28A74D244F26FAD71" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">Sec. 7529. Automated partially pre-populated tax returns.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HCBB645FE437C442E983E1F54198DEC3D"><enum>(e)</enum><header>Effective date</header><text>The amendments made by this section shall apply to returns for taxable years beginning after December 31, 2014.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

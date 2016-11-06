@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H28575A7840A0405A85225F5F6FB88513" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 311 IH: Adoption Promotion Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 311</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150113">January 13, 2015</action-date>
+			<action-desc><sponsor name-id="L000576">Mr. Long</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title X of the Public Health Service Act with respect to adoption and other pregnancy
+			 options counseling.</official-title>
+	</form>
+	<legis-body id="HEB1CC78B12C34F02B706794841975807" style="OLC">
+ <section id="H01D53256E14C4072A0138A3F72FF573E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Adoption Promotion Act of 2015</short-title></quote>.</text> </section><section id="H81E15AB6CFE744A0B67B73170ECCBBD8"><enum>2.</enum><header>Adoption and other pregnancy options counseling</header><text display-inline="no-display-inline">Title X of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300a-1">42 U.S.C. 300a–1</external-xref>) is amended by adding at the end the following new section:</text>
+			<quoted-block display-inline="no-display-inline" id="H622EBA52FFE64E9C80AC214421B49531" style="OLC">
+				<section id="H05AC1CC98DAB47079869C6AEADE0F584"><enum>1009.</enum><header>Adoption and other pregnancy options counseling</header>
+ <subsection id="H72AE82438ED0413FAD5DC0C13CF3D9CC"><enum>(a)</enum><header>Inclusion of adoption counseling</header><text display-inline="yes-display-inline">The Secretary shall ensure that any pregnancy options counseling funded under this title includes adoption counseling.</text>
+ </subsection><subsection id="HC20F72A4FBBE45C2867E9C8F3E645C96"><enum>(b)</enum><header>Qualified counselors</header><text>The Secretary shall ensure that any pregnancy options counseling funded under this title is provided by individuals who—</text>
+ <paragraph id="HAC32BF23257D4A2DA403699C9D0D30B0"><enum>(1)</enum><text>are licensed social workers or counselors in the States in which they practice; and</text> </paragraph><paragraph id="HD09ABCCE33FC4D00B092F8FC45FDE1C8"><enum>(2)</enum><text display-inline="yes-display-inline">have knowledge and experience in adoption practice.</text>
+ </paragraph></subsection><subsection id="HCDAA65643C484AB492D3331154253E78"><enum>(c)</enum><header>Training</header><text display-inline="yes-display-inline">Any training provided to an individual under section 1003 shall include training on the adoption process.</text>
+					</subsection><subsection id="H38A18E9DB962454289D9385DFDCEBC5A"><enum>(d)</enum><header>Research</header>
+ <paragraph id="HB61DF321357C4A55B41F153CCD753C70"><enum>(1)</enum><header>In general</header><text>Research funded under section 1004 shall include—</text> <subparagraph id="H16C3276055EC4159BBEB5147D337F62D"><enum>(A)</enum><text display-inline="yes-display-inline">the collection of data on the number of pregnancy tests administered to individuals served by programs under this title and the results of those tests; and</text>
+ </subparagraph><subparagraph id="H3567DE3DFF29449499415A32E7BB5865"><enum>(B)</enum><text>the evaluation of the quality, consistency, and outcomes of pregnancy options counseling funded under this title.</text>
+ </subparagraph></paragraph><paragraph id="H9794C1C72B3E4181A7C372F281FBD519"><enum>(2)</enum><header>Rule of construction</header><text>Nothing in this subsection shall be construed to authorize the collection of personally identifiable information.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

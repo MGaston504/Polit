@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H41895AB52575426582A1BC9EAC19D50F"
+    public-private="public" bill-type="olc">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2797 IH: Student Disciplinary Fairness Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code display="yes">I</distribution-code>
+        <congress>114th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>H. R. 2797</legis-num>
+        <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+        <action>
+            <action-date date="20150616">June 16, 2015</action-date>
+            <action-desc><sponsor name-id="R000588">Mr. Richmond</sponsor> introduced the following
+                bill; which was referred to the <committee-name committee-id="HED00">Committee on
+                    Education and the Workforce</committee-name>, and in addition to the Committee
+                on the <committee-name committee-id="HJU00">Judiciary</committee-name>, for a period
+                to be subsequently determined by the Speaker, in each case for consideration of such
+                provisions as fall within the jurisdiction of the committee concerned</action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Juvenile Justice and Delinquency Prevention Act of 1974 to
+            establish the Office of School Discipline Policy, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body id="H41073989BECB4670A58A7D8E261FF751" style="OLC">
+        <section id="H615515BD7DEC4D5194F0D9C0434F88C7" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Student Disciplinary Fairness Act of 2015</short-title></quote>.</text>
+        </section>
+        <section id="HB5478A43A3DB421592DA0E46962AD3BE">
+            <enum>2.</enum>
+            <header>Findings</header>
+ <text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="HBBA370F814244ABCA8E81A1841D377B2"> <enum>(1)</enum> <text display-inline="yes-display-inline">Too many juveniles are introduced to the formal criminal justice system for minor behavioral infractions at school.</text>
+            </paragraph>
+            <paragraph id="HCEF694C4693B4D0F9ECEE42A8C0BAD51">
+                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">Common behavioral infractions at school often result in suspension, expulsion, or incarceration of the juvenile students involved.</text>
+            </paragraph>
+            <paragraph id="H6266BE179EA04524BCEF49101C88B451">
+                <enum>(3)</enum>
+ <text>Zero-tolerance school discipline policies increase the number of incarcerated juveniles.</text>
+            </paragraph>
+            <paragraph id="H860C70ED2B6B4D1E990C70292DBC6944">
+                <enum>(4)</enum>
+ <text display-inline="yes-display-inline">Research shows that juveniles who are incarcerated are significantly less likely to complete secondary school, experience less human capital development and diminished earnings potential, and are more likely to recidivate and be incarcerated as adults.</text>
+            </paragraph>
+        </section>
+        <section id="HF12650AD2CD34D3185385329CA815C55">
+            <enum>3.</enum>
+            <header>School Discipline Policy</header>
+ <text display-inline="no-display-inline">The Juvenile Justice and Delinquency Prevention Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/42/5601">42 U.S.C. 5601 et seq.</external-xref>) is amended by inserting after title V the following new title:</text>
+            <quoted-block display-inline="no-display-inline" id="HAB02F7420AA24FC7AC9FF7372FFD1F20"
+                style="OLC">
+                <title id="HBC159A0BC6CC4369A5351DDE0137695C">
+                    <enum>VI</enum>
+                    <header>School Discipline Policy</header>
+                    <section id="H7A0DB29A77264BDA981AD82007A69020">
+                        <enum>601.</enum>
+                        <header>Establishment of office</header>
+                        <subsection id="H0FDD7195518B4B288D1B95AAC2B51B9B">
+                            <enum>(a)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">There is hereby established within the Office of Juvenile Justice and Delinquency Prevention an Office of School and Discipline Policy (referred to in this title as the <term>Office</term>), headed by a Director appointed by the Administrator of the Office of Juvenile Justice and Delinquency Prevention.</text>
+                        </subsection>
+                        <subsection id="HDF6B604B5403454E8D55966C7A0391F2">
+                            <enum>(b)</enum>
+                            <header>Purpose</header>
+ <text>The purpose of the Office shall be to reduce the number of juveniles who are incarcerated and develop a criminal record based on activity that occurs while the juvenile is at school.</text>
+                        </subsection>
+                    </section>
+                    <section id="H7F67D5CDF3E6420EA81E2D631AB5D035">
+                        <enum>602.</enum>
+                        <header>Duties</header>
+ <text display-inline="no-display-inline">The Office shall—</text> <paragraph id="H84A88D9F5C4D4405AAF452B961BB3698"> <enum>(1)</enum> <text display-inline="yes-display-inline">collect and publish data, in collaboration with the Office for Civil Rights of the Department of Education, relating to the arrest and incarceration of juvenile students for violations of school rules or policies;</text>
+                        </paragraph>
+                        <paragraph id="HE7661739519B4D47B2FDAB53AC381042">
+                            <enum>(2)</enum>
+ <text>work with States, units of local government, local educational agencies, and non-governmental organizations in order to expand the use of alternatives to detention and incarceration programming in schools in order to reduce the number of juvenile students who are arrested and incarcerated for violating school rules or policies; and</text>
+                        </paragraph>
+                        <paragraph id="HCD90800B82534EE6AC8936D978624883">
+                            <enum>(3)</enum>
+ <text>collect and publish data, in collaboration with the Office of Justice Programs, relating to the relationship between the presence of a school resource officer at a school and the rate of juvenile students who are arrested and incarcerated for violations of school rules or policies.</text>
+                        </paragraph>
+                    </section>
+                    <section id="HBA846C88C7E24DF9BE7AF2B1B726593A">
+                        <enum>603.</enum>
+                        <header>School Discipline Policy Grant Program</header>
+                        <subsection id="HA5DFDAC7ACD948448220E3DD4DC7F33D">
+                            <enum>(a)</enum>
+                            <header>Grants authorized</header>
+ <text display-inline="yes-display-inline">The Director may make grants to States, units of local government, and local educational agencies in order to further the purpose described in section 601(b).</text>
+                        </subsection>
+                        <subsection id="HD5A674BFF5B942D28DAC640D07B7C337">
+                            <enum>(b)</enum>
+                            <header>Application</header>
+ <text>A State, unit of local government, or local educational agency seeking a grant under this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may reasonably require.</text>
+                        </subsection>
+                        <subsection id="HA49A937221BE405F9CD065BEAAEF9506">
+                            <enum>(c)</enum>
+                            <header>Preference</header>
+ <text>The Director shall give preference in awarding grants to an applicant that demonstrates that it has, at the time of submitting an application, begun to take steps to further the purpose described in section 601(b).</text>
+                        </subsection>
+                        <subsection id="H3C833A9C8BF2415EBA611EC03C308856">
+                            <enum>(d)</enum>
+                            <header>Uses of funds</header>
+ <text>A State, unit of local government or local educational agency that receives a grant under this section shall use such funds for programs that reduce the rate of juvenile students who are arrested and incarcerated for violations of school rules or policies, and any other activity that the Director determines will further the purpose described in section 601(b).</text>
+                        </subsection>
+                    </section>
+                    <section id="HF94CF738E3E4432BB9827E82EB88DA05">
+                        <enum>604.</enum>
+                        <header>Definitions</header>
+ <text display-inline="no-display-inline">In this title:</text> <paragraph id="H6E6111FFAF9344368066890AE359B87E"> <enum>(1)</enum> <text>The term <term>school</term> means an elementary school or a secondary school as such terms are defined in section 9101 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>).</text>
+                        </paragraph>
+                        <paragraph id="H5FC311351E884286B2DCD4CCDFD3D586">
+                            <enum>(2)</enum>
+ <text>The term <term>school resource officer</term> has the meaning given such term in section 1709 of the Omnibus Crime Control and Safe Streets Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/42/3796dd-8">42 U.S.C. 3796dd–8</external-xref>).</text>
+                        </paragraph>
+                        <paragraph id="HCA2ADFEC94BC434FBD574D7DBB8BE821">
+                            <enum>(3)</enum>
+ <text>The term <term>local educational agency</term> has the meaning given such term in section 9101 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>).</text>
+                        </paragraph>
+                        <paragraph id="H6068A03D5D01461495C8A93AC365CF38">
+                            <enum>(4)</enum>
+ <text>The term <term>juvenile student</term> means a juvenile who is enrolled in school.</text>
+                        </paragraph>
+                    </section>
+                    <section id="H71026320D2DB4976ACDC3168FE2B8AC2">
+                        <enum>605.</enum>
+                        <header>Authorization of Appropriations</header>
+ <text display-inline="no-display-inline">There is authorized to be appropriated such sums as may be necessary for fiscal years 2014 and 2015 to carry out this title.</text>
+                    </section>
+                </title>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+        <section id="H2D37F63ED1C44BF586979F0DE2454FDE">
+            <enum>4.</enum>
+            <header>Conditions for States to receive <quote>COPS on the beat</quote> grants</header>
+ <text display-inline="no-display-inline">Section 1702(c) of the Omnibus Crime Control and Safe Streets Act of 1968 is amended—</text>
+            <paragraph id="H8C3BF9CCC84D4EFFA097C96358782F7E">
+                <enum>(1)</enum>
+ <text>in paragraph (10), by striking <quote>and</quote> at the end;</text> </paragraph> <paragraph id="HBBDA72D3BAA2431ABA4A53C96B0B5AC9"> <enum>(2)</enum> <text>in paragraph (11), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+            </paragraph>
+            <paragraph id="H6A3D24E19BA44191B690E7D8F4CCCEE6">
+                <enum>(3)</enum>
+ <text>by inserting after paragraph (11), the following new paragraph:</text> <quoted-block display-inline="no-display-inline" id="H622B49C05872446CB0FAB52D1783102E" style="OLC"> <paragraph id="HFACC296D48F147999809C24B1B2BDDDA"> <enum>(12)</enum> <text display-inline="yes-display-inline">in the case of an applicant that is a State or unit of local government, provide assurances that—</text>
+                        <subparagraph id="H8109E136CF6043978653A85C11B58564">
+                            <enum>(A)</enum>
+ <text>the administration of juvenile justice in the applicant’s jurisdiction is consistent with any requirements of the United States Constitution and the 4th, 5th, and 14th amendments to the Constitution, including assurances that—</text>
+                            <clause id="H5F33D636AA064B1F80BCC32CBF69C0E0">
+                                <enum>(i)</enum>
+ <text>before a juvenile is arrested, the arresting law enforcement officer must have probable cause specific to that juvenile; and</text>
+                            </clause>
+                            <clause id="HCE1F273BFFD34AFBA0A89A9C6F7B56C6">
+                                <enum>(ii)</enum>
+ <text>juveniles who are arrested must receive adequate procedural due process, including—</text>
+                                <subclause id="HB775D157D2E2483D9EDACE3C8D24E5E6">
+                                    <enum>(I)</enum>
+ <text>adequate and timely notice to the juvenile and the juvenile’s guardian regarding any court proceedings related to the incident for which the juvenile was arrested;</text>
+                                </subclause>
+                                <subclause id="H09EFEA4B81834ACE9A58FBB9893C188E">
+                                    <enum>(II)</enum>
+ <text>representation by an attorney in any court proceeding as a result of which the juvenile could face incarceration;</text>
+                                </subclause>
+                                <subclause id="HFE29F9B0AC8F4005916CCBD34CB797F0">
+                                    <enum>(III)</enum>
+ <text>protections against self-incrimination; and</text> </subclause> <subclause id="H0F63C7D49AED48B1B55D2DAD3F7C6021"> <enum>(IV)</enum> <text>an opportunity to cross-examine any witness testifying against the juvenile; and</text>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="H3EBCD67D1CF54ABA833A64D066EB60E4">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">any contract governing the terms of probation for a juvenile shall not contain any clauses that—</text>
+                            <clause id="H9826C179FA7D4BB3B4C3BCB57600BF1B">
+                                <enum>(i)</enum>
+ <text>the juvenile cannot understand; and</text> </clause> <clause id="H5F80C609D1974B06A00089A167CBB791"> <enum>(ii)</enum> <text display-inline="yes-display-inline">in the case of a juvenile student (as such term is defined in section 604 of the Juvenile Justice and Delinquency Prevention Act of 1974), could result in incarceration for violations of school rules or policies.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+        <section id="H00701C405B654C0DB7CFB2094C6353E7">
+            <enum>5.</enum>
+            <header>Authority for the Attorney General to access certain records relating to
+                juvenile justice</header>
+ <text display-inline="no-display-inline">Section 210401 of the Violent Crime Control and Law Enforcement Act of 1994 (<external-xref legal-doc="usc" parsable-cite="usc/42/14141">42 U.S.C. 14141</external-xref>) is amended by adding at the end the following:</text>
+            <quoted-block display-inline="no-display-inline" id="H895B12FB13424C5A8BE4E8649E8C3CBE"
+                style="OLC">
+                <subsection id="HB8337C11B8774F2EADF26DDA6A974FC4">
+                    <enum>(c)</enum>
+                    <header>Access to certain records relating to juvenile justice</header>
+ <text display-inline="yes-display-inline">The Attorney General may issue subpoenas requiring the production of any documents relating to any matter which the Attorney General is authorized to investigate under subsection (a).</text>
+                </subsection>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+        <section id="H604B57BCB74047B09D65612522363FCE" section-type="subsequent-section">
+            <enum>6.</enum>
+            <header>Department of Education grant program</header>
+            <subsection id="HFBE4668FC06E4EAAB7319F41C4F4A09B">
+                <enum>(a)</enum>
+                <header>Program authorized</header>
+ <text display-inline="yes-display-inline">From the amounts appropriated to carry out this section, the Secretary of Education (acting through the Office of Civil Rights of the Department of Education) shall make grants to eligible entities to fund training for school personnel in elementary schools and secondary schools on de-escalation techniques to teach the personnel procedures and tactics to mitigate delinquent student behavior which may avoid a referral to law enforcement officials.</text>
+            </subsection>
+            <subsection id="HF147FE2E2C524C8B88FBE31ACE96ECCE">
+                <enum>(b)</enum>
+                <header>Application</header>
+ <text display-inline="yes-display-inline">To receive a grant under this section, an eligible entity shall submit an application to the Secretary of Education at such time, in such manner, and containing such information as the Secretary may require, including information that demonstrates that the eligible entity—</text>
+                <paragraph id="HB432681E887E40DF9C7B797A7CE40EB9">
+                    <enum>(1)</enum>
+ <text>is fully compliant with all applicable Federal school discipline data reporting requirements, including, if applicable, the reporting requirements of section 618 of the Individuals with Disabilities Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1418">20 U.S.C. 1418(a)</external-xref>); and</text>
+                </paragraph>
+                <paragraph id="H6CD233B084284084A754DCD4584DC5B1">
+                    <enum>(2)</enum>
+ <text>has provided complete information to all applicable data surveys of Department of Education, including the Office for Civil Rights.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H67CB54EDECAE499D8948BDFE83377418">
+                <enum>(c)</enum>
+                <header>Limitation</header>
+ <text>An elementary school or secondary school may only receive assistance under this section during a grant period from 1 eligible entity receiving a grant under this section during the grant period.</text>
+            </subsection>
+            <subsection id="HD6C41449EE0540539FE96B51F3CEE5B0">
+                <enum>(d)</enum>
+                <header>Definitions</header>
+ <text>For purposes of this section:</text> <paragraph id="H484165D2D4C24041A32D1F64C9CC654A"> <enum>(1)</enum> <header>Eligible entity</header> <text display-inline="yes-display-inline">The term <term>eligible entity</term> means a State, unit of general local government, or juvenile justice agency.</text>
+                </paragraph>
+                <paragraph id="H2B6EAAC8C20847798E3C8CCED8B68510">
+                    <enum>(2)</enum>
+                    <header>General ESEA terms</header>
+ <text>The terms <term>elementary schools</term>, <term>secondary schools</term>, and <term>State</term> have the meanings given the terms in section 9101 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>).</text>
+                </paragraph>
+                <paragraph id="H6510952A90F74F778EC4E5C0F0B2D7FA">
+                    <enum>(3)</enum>
+                    <header>School personnel</header>
+ <text display-inline="yes-display-inline">The term <term>school personnel</term> has the meaning given the term in section 4151 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7161">20 U.S.C. 7161</external-xref>).</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H3CA4EF8938E94BDC9C2A07AE0DECF2E8">
+                <enum>(e)</enum>
+                <header>Authorization of appropriations</header>
+ <text>There are authorized to be appropriated such sums as may be necessary for fiscal years 2014 and 2015 to carry out this section.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
+

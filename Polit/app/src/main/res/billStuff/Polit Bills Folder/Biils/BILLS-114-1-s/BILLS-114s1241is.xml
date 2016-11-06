@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1241 IS: Enhanced Grid Security Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1241</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150507">May 7, 2015</action-date>
+			<action-desc><sponsor name-id="S275">Ms. Cantwell</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for the modernization, security, and resiliency of the electric grid, to require the
+			 Secretary of Energy to carry out programs for research, development,
+			 demonstration,
+			 and information-sharing for cybersecurity for the energy sector, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Enhanced Grid Security Act of 2015</short-title></quote>.</text>
+ </section><section id="id80C190045FFF484DBB3DFE5FBE45F812"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> <paragraph id="idB9E4B278AC6B41EB87E8BB82B12C984B"><enum>(1)</enum><header>Department</header><text>The term <term>Department</term> means the Department of Energy.</text>
+ </paragraph><paragraph id="id01FA9347B2B741FB98D89B13DA336F50"><enum>(2)</enum><header>Electric utility</header><text>The term <term>electric utility</term> has the meaning given the term in section 3 of the Federal Power Act (<external-xref legal-doc="usc" parsable-cite="usc/16/796">16 U.S.C. 796</external-xref>).</text> </paragraph><paragraph id="idC08B70AC7974416FBD30D4E536F7440F"><enum>(3)</enum><header>ES-ISAC</header><text>The term <term>ES-ISAC</term> means the Electricity Sector Information Sharing and Analysis Center.</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID98E6438C5D8942F49E3F464A7FD4D82C"><enum>(4)</enum><header display-inline="yes-display-inline">National
+ Laboratory</header><text display-inline="yes-display-inline">The term <term>National Laboratory</term> has the meaning given the term in section 2 of the Energy Policy Act of 2005 (<external-xref legal-doc="usc" parsable-cite="usc/42/15801">42 U.S.C. 15801</external-xref>).</text>
+ </paragraph><paragraph id="idBA2E86E7F78748D28191E8EFA550CDF1"><enum>(5)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of Energy.</text> </paragraph><paragraph id="id7D4E38E39A59498786288C171503FC3A"><enum>(6)</enum><header>Sector-Specific Agency</header><text>The term <term>Sector-Specific Agency</term> has the meaning given the term in the Presidential policy directive entitled <quote>Critical Infrastructure Security and Resilience</quote>, numbered 21, and dated February 12, 2013.</text>
+			</paragraph></section><section id="idA4CADF77D5AA43B997AEDC5849308215"><enum>3.</enum><header>Designation of Department of Energy as Sector-Specific Agency for cybersecurity for the energy
+ sector</header><text display-inline="no-display-inline">In accordance with the Presidential policy directive entitled <quote>Critical Infrastructure Security and Resilience</quote>, numbered 21, and dated February 12, 2013, and this Act, the Department shall be the lead Sector-Specific Agency for cybersecurity for the energy sector.</text>
+ </section><section id="id424BC76F403A466EA9EAD5B85A8D7F81"><enum>4.</enum><header>Cybersecurity for the energy sector research, development, and demonstration program</header><text display-inline="no-display-inline">The Secretary, in consultation with appropriate Federal agencies, the energy sector, the States, and other stakeholders, shall carry out a program—</text>
+ <paragraph id="idd7b93c99372f470d9d8b749d47d98c7c"><enum>(1)</enum><text>to develop advanced cybersecurity applications and technologies for the energy sector—</text> <subparagraph id="id19F0CB7245744C509DB970E18052F1F7"><enum>(A)</enum><text>to identify and mitigate vulnerabilities, including—</text>
+ <clause id="id04D76F83D17B4BBCB5AFCADAD5E7856A"><enum>(i)</enum><text>dependencies on other critical infrastructure; and</text> </clause><clause id="id0EB72CD228AB418DBF6B980E72208832"><enum>(ii)</enum><text>impacts from weather, climate change, and fuel supply; and</text>
+ </clause></subparagraph><subparagraph id="id480DAF6E4B6046BA8A1AFAEC96DE0F9A"><enum>(B)</enum><text>to advance the security of field devices and third-party control systems, including—</text> <clause id="id0F57840DA6434F4080CC44254FAF6B01"><enum>(i)</enum><text>systems for generation, transmission, distribution, end use, and market functions;</text>
+ </clause><clause id="iddf67dc13d92d4645b728d18c6fc8141c"><enum>(ii)</enum><text>specific electric grid elements including advanced metering, demand response, distributed generation, and electricity storage;</text>
+ </clause><clause id="id40562E796B9A4C2DAD8ACCE57867F2F8"><enum>(iii)</enum><text>forensic analysis of infected systems; and</text> </clause><clause id="id9A8C3F519FC54FA491E6554B8E44D5B8"><enum>(iv)</enum><text>secure communications;</text>
+ </clause></subparagraph></paragraph><paragraph id="idd61ae0e03a034034a24c623e5e9f4f84"><enum>(2)</enum><text>to leverage electric grid architecture as a means to assess risks to the energy sector, including by implementing an all-hazards approach to communications infrastructure, control systems architecture, and power systems architecture;</text>
+ </paragraph><paragraph id="id5f3c11eab8bc4874a2353d55263d2eab"><enum>(3)</enum><text>to perform pilot demonstration projects with the energy sector to gain experience with new technologies; and</text>
+ </paragraph><paragraph id="ida400a4af97c14ec0aa72da1bef55bcaa"><enum>(4)</enum><text>to develop workforce development curricula for energy sector-related cybersecurity.</text> </paragraph></section><section id="idB92A4BA025154D45BFE39ED17B3A7303"><enum>5.</enum><header>Energy sector component testing for cyberresilience program</header><text display-inline="no-display-inline">The Secretary shall carry out a program—</text>
+ <paragraph id="id44aad3a8a1404acf8054205606dfdb37"><enum>(1)</enum><text>to establish a cybertesting and mitigation program to identify vulnerabilities of energy sector supply chain products to known threats;</text>
+ </paragraph><paragraph id="id02ED41A0444C4DA3A94EDD267B1500A4"><enum>(2)</enum><text>to oversee third-party cybertesting; and</text> </paragraph><paragraph id="ida44c16a024854177825879fe8baf55d1"><enum>(3)</enum><text>to develop procurement guidelines for energy sector supply chain components.</text>
+ </paragraph></section><section id="id79B3AD5095EA4D53BA7D077FD4C0A77D"><enum>6.</enum><header>Energy sector operational support for cyberresilience program</header><text display-inline="no-display-inline">The Secretary shall carry out a program—</text> <paragraph id="id0ed7fa8acebc44f58c48ce646982294d"><enum>(1)</enum><text>to enhance and periodically test—</text>
+ <subparagraph id="idC78AF32446494975B5BC54CB557B1737"><enum>(A)</enum><text>the emergency response capabilities of the Department; and</text> </subparagraph><subparagraph id="id8FAD701384C048F9AD1E7BEBC3EE430B"><enum>(B)</enum><text>the coordination of the Department with other agencies, the National Laboratories, and private industry;</text>
+ </subparagraph></paragraph><paragraph id="id4e553a86985c48d7b6e545f11d29d1e2"><enum>(2)</enum><text>to expand cooperation of the Department with the intelligence communities for energy sector-related threat collection and analysis;</text>
+ </paragraph><paragraph id="id42009f8fdd024e7491a0efddf04cd64c"><enum>(3)</enum><text>to enhance the tools of the Department and ES-ISAC for monitoring the status of the energy sector;</text> </paragraph><paragraph id="id65FCD648CEB549368D1221352298AE6B"><enum>(4)</enum><text>to expand industry participation in ES-ISAC; and</text>
+ </paragraph><paragraph id="id4b97286d91154a79bba7a8769b51879d"><enum>(5)</enum><text>to provide technical assistance to small electric utilities for purposes of assessing cybermaturity posture.</text>
+			</paragraph></section><section id="idf88b73553bc2438ab92913ed43e32621"><enum>7.</enum><header>Modeling and assessing energy infrastructure risk</header>
+ <subsection id="id70ac1602a1c14a4fb3a27f9dca3ba1e6"><enum>(a)</enum><header>In general</header><text>The Secretary shall develop an advanced energy security program to secure energy networks, including electric, natural gas, and oil exploration, transmission, and delivery.</text>
+ </subsection><subsection id="ida307d595d3b047c4bc21a491fe1c9610"><enum>(b)</enum><header>Security and resiliency objective</header><text>The objective of the program developed under subsection (a) is to increase the functional preservation of the electric grid operations or natural gas and oil operations in the face of natural and human-made threats and hazards, including electric magnetic pulse and geomagnetic disturbances.</text>
+ </subsection><subsection id="id0f351f0591c943ffbe6618564f4ce087"><enum>(c)</enum><header>Eligible activities</header><text>In carrying out the program developed under subsection (a), the Secretary may—</text> <paragraph id="idbee71fa27d5046c9a4d364b41025a7f6"><enum>(1)</enum><text>develop capabilities to identify vulnerabilities and critical components that pose major risks to grid security if destroyed or impaired;</text>
+ </paragraph><paragraph id="id1c587a6e8ae54b3282668a920af6053a"><enum>(2)</enum><text>provide modeling at the national level to predict impacts from natural or human-made events;</text> </paragraph><paragraph id="id74a0a92e85aa4c56a851b7a3a3724828"><enum>(3)</enum><text>develop a maturity model for physical security and cybersecurity;</text>
+ </paragraph><paragraph id="id7a8316d6800d4cb08ae5f84e75f64bcc"><enum>(4)</enum><text>conduct exercises and assessments to identify and mitigate vulnerabilities to the electric grid, including providing mitigation recommendations;</text>
+ </paragraph><paragraph id="ida9efda6cce25426fb450170079ce1cef"><enum>(5)</enum><text>conduct research hardening solutions for critical components of the electric grid;</text> </paragraph><paragraph id="id072038e7bf344b6685807ddfc26bd578"><enum>(6)</enum><text>conduct research mitigation and recovery solutions for critical components of the electric grid; and</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id9BDE4D3282684E02B5B9B9AEEDF229D2"><enum>(7)</enum><text>provide technical assistance to States and other entities for standards and risk analysis.</text> </paragraph></subsection></section><section id="id44802A96EBF44F0F92DAC3CBF2457739"><enum>8.</enum><header>Leveraging existing programs</header><text display-inline="no-display-inline">The programs established under this Act shall be carried out consistent with—</text>
+ <paragraph id="idA3F2F8EF511A42BE8B77D448BF5BA645"><enum>(1)</enum><text display-inline="yes-display-inline">the report of the Department entitled <quote>Roadmap to Achieve Energy Delivery Systems Cybersecurity</quote> and dated 2011;</text> </paragraph><paragraph id="idB237E441E4D34CA7923DD815C691B93B"><enum>(2)</enum><text display-inline="yes-display-inline">existing programs of the Department; and</text>
+ </paragraph><paragraph id="idBA2DBC1E75224BDEB559B24D9C196179"><enum>(3)</enum><text display-inline="yes-display-inline">any associated strategic framework that links together academic and National Laboratory researchers, electric utilities, manufacturers, and any other relevant private industry organizations.</text>
+			</paragraph></section><section id="id342AB6BFB84D4A30B19A640A2FC09766"><enum>9.</enum><header>Study</header>
+ <subsection id="idB764DBA093274C5894C6236C6EF6E9D9"><enum>(a)</enum><header>In general</header><text>Not later than 180 days after the date of enactment of this Act, the Secretary, in consultation with the Federal Energy Regulatory Commission and the North American Electric Reliability Corporation, shall conduct a study to explore alternative management structures and funding mechanisms to expand industry membership and participation in ES-ISAC.</text>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="id7E29C828F53E4C87A758E80F623C09AC"><enum>(b)</enum><header>Report</header><text>The Secretary shall submit to the appropriate committees of Congress a report describing the results of the study conducted under subsection (a).</text>
+ </subsection></section><section commented="no" display-inline="no-display-inline" id="idA7E04B9D35704CF5952F41C4170C7011" section-type="subsequent-section"><enum>10.</enum><header display-inline="yes-display-inline">Authorization of appropriations</header><text display-inline="no-display-inline">There is authorized to be appropriated to carry out this Act $100,000,000 for each of fiscal years 2017 through 2022.</text></section></legis-body>
+</bill>
+
+

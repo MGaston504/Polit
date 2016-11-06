@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2125 IS: Small Business Lending and Economic Inequality Reduction Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-10-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2125</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151001">October 1, 2015</action-date>
+			<action-desc><sponsor name-id="S221">Mrs. Feinstein</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSSB00">Committee on Small Business and Entrepreneurship</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To make the Community Advantage Pilot Program of the Small Business Administration permanent, and
+			 for other
+			 purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Business Lending and Economic Inequality Reduction Act of 2015</short-title></quote>.</text>
+		</section><section id="id6FFC90692C734D3082BBA5E6EFB9B40C"><enum>2.</enum><header>Community advantage program</header>
+ <subsection id="id449501F3E4AE4BF19E923207B6BD2470"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 7(a) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id0729864DE4984C0A8A8A6E967E653DA3" style="OLC">
+					<paragraph id="id95626A814DB04FC88CBB1C48E172FE2B"><enum>(35)</enum><header>Community advantage program</header>
+ <subparagraph id="id1C75D8D34FCB40B9BF54F7606C015538"><enum>(A)</enum><header>Definitions</header><text>In this paragraph—</text> <clause id="idBA68DC1D690A4335939D3AA92484E373"><enum>(i)</enum><text>the term <term>covered institution</term> means—</text>
+ <subclause id="idDA8614C7921B4D6FAD41DDFB7F3DC3FA"><enum>(I)</enum><text>a development company (as defined in section 103 of the Small Business Investment Act of 1958 (<external-xref legal-doc="usc" parsable-cite="usc/15/662">15 U.S.C. 662</external-xref>)) that is eligible to participate in the program established under title V of such Act (<external-xref legal-doc="usc" parsable-cite="usc/15/695">15 U.S.C. 695 et seq.</external-xref>);</text>
+ </subclause><subclause id="id7c679b86345e4dcf8397c644d9ddec17"><enum>(II)</enum><text>a nonprofit intermediary (as defined in subsection (m)(11));</text> </subclause><subclause id="id9E376A6B8905401C8CA90C42E39E9C64"><enum>(III)</enum><text>a non-Federally regulated entity certified as a community development financial institution by the Community Development Financial Institutions Fund established under section 104(a) of the Riegle Community Development and Regulatory Improvement Act of 1994 (<external-xref legal-doc="usc" parsable-cite="usc/12/4703">12 U.S.C. 4703(a)</external-xref>); or</text>
+ </subclause><subclause id="id59861D144EAF4F90BCDF48101D868F5A"><enum>(IV)</enum><text>any other nonprofit organization approved by the Small Business Administration;</text> </subclause></clause><clause commented="no" display-inline="no-display-inline" id="id65E8D9A3D39741778D656524D123F191"><enum>(ii)</enum><text display-inline="yes-display-inline">the term <term>program</term> means the Community Advantage Program established under subparagraph (B);</text>
+ </clause><clause id="id12B56356F07E498ABE1E1BDC09B9FAFE"><enum>(iii)</enum><text>the term <term>Reservist</term> means a member of a reserve component of the Armed Forces named in section 10101 of title 10, United States Code;</text>
+ </clause><clause id="id80F82D4C7EF04D12B0A067315907E2E4"><enum>(iv)</enum><text>the term <term>service-connected</term> has the meaning given that term in section 101(16) of title 38, United States Code; and</text> </clause><clause id="id8B80505D50D44F389B241D0701A41BEF"><enum>(v)</enum><text>the term <term>small business concern in an underserved market</term> means a small business concern—</text>
+ <subclause commented="no" id="idE369E53450F3470F80F40B7C062D341E"><enum>(I)</enum><text>that is located in—</text> <item commented="no" id="idAB9E1008DAE94F0EAA23B8AAC444048F"><enum>(aa)</enum><text>a low- or moderate-income community;</text>
+ </item><item id="id2F78032415AF41AABF2BC026261483E3"><enum>(bb)</enum><text>a HUBZone; or</text> </item><item id="id041685B95E1D4AC6848ABC19C8941535"><enum>(cc)</enum><text>a community that has been designated as an empowerment zone or an enterprise community under <external-xref legal-doc="usc" parsable-cite="usc/26/1391">section 1391</external-xref> of the Internal Revenue Code of 1986;</text>
+ </item></subclause><subclause commented="no" id="id7673DD9DC4CB48CDB678651A8597C0C8"><enum>(II)</enum><text>that has more than 50 percent of employees residing in a low- or moderate-income community;</text> </subclause><subclause id="id20F3BAF1ECE645F0B201FD0CA967252D"><enum>(III)</enum><text>that has been in existence for not more than 2 years on the date on which a loan is made to the small business concern under the Community Advantage Program established under subparagraph (B);</text>
+ </subclause><subclause id="id1095CE8C5D3444B59D6B6CDDBBDB140C"><enum>(IV)</enum><text>owned and controlled by veterans;</text> </subclause><subclause id="id750B433E17F649759951F8E54ED00AEC"><enum>(V)</enum><text>owned and controlled by service-disabled veterans; or</text>
+ </subclause><subclause id="id9A87AB4C38C146DB83DB1021CD077972"><enum>(VI)</enum><text>not less than 51 percent of which is owned and controlled by 1 or more—</text> <item id="idB89D523C44874EBB9BF89365629F6574"><enum>(aa)</enum><text>members of the Armed Forces participating in the Transition Assistance Program of the Department of Defense;</text>
+ </item><item id="id2B7A4A49AAC04E66AE23DACFD6CFB72C"><enum>(bb)</enum><text>Reservists;</text> </item><item id="id6827519D9E234DC8AC8FDA320BA11543"><enum>(cc)</enum><text>spouses of veterans, members of the Armed Forces, or Reservists; or</text>
+ </item><item id="idA2C038B2D1C94469BCAA9137E519A489"><enum>(dd)</enum><text>surviving spouses of veterans who died on active duty or as a result of a service-connected disability.</text>
+ </item></subclause></clause></subparagraph><subparagraph id="idD59ECC47C95E45CEB156A8CC907E1E61"><enum>(B)</enum><header>Establishment</header><text>There is established a Community Advantage Program, under which the Administration may guarantee loans made by covered institutions under this subsection, including loans made to small business concerns in underserved markets.</text>
+ </subparagraph><subparagraph id="idA1A92FB9B4FF43A2A80E7C1EF213CD9C"><enum>(C)</enum><header>Requirements</header><text>Not less than 60 percent of loans made by a covered institution under the program shall consist of loans made to small business concerns in underserved markets under the program.</text>
+ </subparagraph><subparagraph id="id18AEC1CF8EEC477EB259BB54122B8004"><enum>(D)</enum><header>Maximum loan amount</header><text>The maximum loan amount under the program is $350,000.</text> </subparagraph><subparagraph id="id19D9C78DEC0F4715AE7E79544A28880C"><enum>(E)</enum><header>Regulations</header> <clause id="id73F41FDF71474B8BA33460C21EC64CCE"><enum>(i)</enum><header>In general</header><text>Not later than 1 year after the date of enactment of this paragraph, the Administrator shall promulgate regulations to carry out the program, which shall be substantially similar to the Community Advantage Pilot Program of the Administration, as in effect on the day before the date of enactment of this paragraph.</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="id0CEF02CF1E7D43A9B7192B9658C64B5E"><enum>(ii)</enum><header>Pilot program</header><text>Beginning on the date on which the regulations promulgated by the Administrator under clause (i) take effect, the Administrator may not carry out the Community Advantage Pilot Program of the Administration.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id83C963313B904A0F84D5CDF78D021D19"><enum>(b)</enum><header>Technical and conforming amendment</header><text>Section 3(r) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/632">15 U.S.C. 632(r)</external-xref>) is amended—</text> <paragraph id="id6B38DE57BF4342A2BEC98ABBE02BB84F"><enum>(1)</enum><text>in paragraph (1), by inserting before the period at the end the following: <quote>, but does not include a covered institution, as defined in section 7(a)(35)(A)</quote>; and</text>
+ </paragraph><paragraph id="idBCED9F15918A444197879F16D2E36AE8"><enum>(2)</enum><text>in paragraph (2)—</text> <subparagraph id="idFBBF5907DF6D48BB8000C0D690AABDC4"><enum>(A)</enum><text>in the matter preceding subparagraph (A), by striking <quote>means a business concern</quote> and inserting the following: <quote>—</quote></text>
+						<quoted-block display-inline="no-display-inline" id="idBC48691813944172AA70B448813A8EE5" style="OLC">
+ <subparagraph id="id0AD451A080E34245A76CB7370BCED4DD"><enum>(A)</enum><text>means a business concern if—</text></subparagraph><after-quoted-block>;</after-quoted-block></quoted-block> </subparagraph><subparagraph id="id64E26EFBBE4045B799FCAAF01EABA116"><enum>(B)</enum><text>by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively, and adjusting the margins accordingly;</text>
+ </subparagraph><subparagraph id="id99EAC707BCA54B098AD908301312488A"><enum>(C)</enum><text>in subparagraph (A)(iii), as so redesignated, by striking the period at the end and inserting <quote>; and</quote>; and</text> </subparagraph><subparagraph id="idC187A506C9E54E58ADF6E4E41D13DED7"><enum>(D)</enum><text>by adding at the end the following:</text>
+						<quoted-block display-inline="no-display-inline" id="id2334858A807C46DFB7F32BD15D87843F" style="OLC">
+ <subparagraph id="id1825564A8DF4476A83DF82E9A2B231BE"><enum>(B)</enum><text>does not include a covered institution, as defined in section 7(a)(35)(A).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </subparagraph></paragraph></subsection></section><section id="idBC1CDA768CEE4FC5A6588CF8093E1EC9"><enum>3.</enum><header>Expanding the purposes of advances and collateral available to community development financial institutions</header><text display-inline="no-display-inline">Section 10(a) of the Federal Home Loan Bank Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1430">12 U.S.C. 1430(a)</external-xref>) is amended—</text>
+ <paragraph id="id32194adff2be4d3dbd470c92c0518932"><enum>(1)</enum><text>in paragraph (2)(B), by inserting <quote>or community development financial institution (as defined in section 103 of the Riegle Community Development and Regulatory Improvement Act of 1994 (<external-xref legal-doc="usc" parsable-cite="usc/12/4702">12 U.S.C. 4702</external-xref>))</quote> after <quote>community financial institution</quote>; and</text>
+ </paragraph><paragraph id="id472f9a88b628412189ff93bf4cdeb2ff"><enum>(2)</enum><text>in paragraph (3)(E), by inserting <quote>or community development financial institution (as defined in section 103 of the Riegle Community Development and Regulatory Improvement Act of 1994 (<external-xref legal-doc="usc" parsable-cite="usc/12/4702">12 U.S.C. 4702</external-xref>))</quote> after <quote>community financial institution</quote>.</text>
+			</paragraph></section></legis-body>
+</bill>
+
+

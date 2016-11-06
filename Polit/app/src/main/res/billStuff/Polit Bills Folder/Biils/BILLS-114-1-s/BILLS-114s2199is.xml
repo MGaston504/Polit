@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2199 IS: Regulatory Authority Clarification Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-10-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2199</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151022">October 22, 2015</action-date>
+			<action-desc><sponsor name-id="S254">Mr. Enzi</sponsor> (for himself, <cosponsor name-id="S340">Ms. Ayotte</cosponsor>, <cosponsor name-id="S266">Mr. Crapo</cosponsor>, and <cosponsor name-id="S375">Mr. Daines</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require agencies to conform to concurrent resolutions when promulgating rules.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Regulatory Authority Clarification Act of 2015</short-title></quote>.</text>
+ </section><section id="id80D7DE50FCAA411589B357AC7A1C35A3"><enum>2.</enum><header>Concurrent resolutions and rulemaking</header><text display-inline="no-display-inline">Section 553 of title 5, United States Code, is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="idCB2508A9D1D54D3CB3E34DFD1D365A4A" style="OLC"> <subsection id="idA9173119EF374673BAB64173B41AD130"><enum>(f)</enum><text>If Congress adopts a concurrent resolution that clarifies the meaning of a provision of law, including a clarification as to whether a provision of law delegates certain authority to an agency, an agency—</text>
+ <paragraph id="idCD25FB6C3A09449DB21F74792742B9C9"><enum>(1)</enum><text>may not promulgate a rule under this section that conflicts with or otherwise does not carry out the meaning of the provision, as provided in the concurrent resolution; and</text>
+ </paragraph><paragraph id="id58933AA01AFA49B39EFCDF67CD45EAF6"><enum>(2)</enum><text>shall promulgate new rules that carry out the meaning of the provision, as provided in the concurrent resolution, if the agency has a rule in effect that conflicts with or otherwise does not carry out such meaning.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

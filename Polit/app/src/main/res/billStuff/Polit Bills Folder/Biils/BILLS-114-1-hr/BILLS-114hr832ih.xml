@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD2A28B391B78409D9C2B7A347D2526E6" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 832 IH: Veterans Employment and Training Service Longitudinal Study Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 832</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150210">February 10, 2015</action-date>
+			<action-desc><sponsor name-id="C001094">Mr. Cook</sponsor> (for himself and <cosponsor name-id="T000468">Ms. Titus</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to direct the Secretary of Labor to enter into a contract
+			 for the conduct of a longitudinal study of the job counseling, training,
+			 and placement services for veterans provided by the Secretary, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body id="HB43A4619D50C4E0CB9E3A8A6AABB2D7B" style="OLC">
+ <section id="H4D146FB7A267424095C07129D64BBB72" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans Employment and Training Service Longitudinal Study Act of 2015</short-title></quote>.</text> </section><section id="H64B6F57ED10C4EAD866E811C04EF166A"><enum>2.</enum><header>Longitudinal study of job counseling, training, and placement service for veterans</header> <subsection id="H16AD808AE5444AF1B8E6D724DB326993"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/41">Chapter 41</external-xref> of title 38, United States Code, is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="H22DE0A96493448DFB8133869879CD5EA" style="USC">
+					<section id="HB1CF579FE1974E82965BE2050781503B"><enum>4115.</enum><header>Longitudinal study of job counseling, training, and placement service for veterans</header>
+						<subsection id="HE807DD29E8E44ACE93DCB9350159E64A"><enum>(a)</enum><header>Study required</header>
+ <paragraph commented="no" display-inline="yes-display-inline" id="HE56138723908462DB2494C7FD9E33900"><enum>(1)</enum><text display-inline="yes-display-inline">The Secretary shall enter into a contract with a non-government entity to conduct a longitudinal study of a statistically valid sample of each of the groups of individuals described in paragraph (2). The contract shall provide for the study of each such group over a period of at least five years.</text>
+ </paragraph><paragraph id="HED5E6AF716934FA294A16A53D43CCCE2" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">The groups of individuals described in this paragraph are the following:</text> <subparagraph id="HA2FB21EE2A2E46A292DCDB6ED05AA314"><enum>(A)</enum><text>Veterans who have received intensive services.</text>
+ </subparagraph><subparagraph id="HDA2A478F30214F8786BE00DD9F92DB88"><enum>(B)</enum><text display-inline="yes-display-inline">Veterans who did not receive intensive services but who otherwise received services under this chapter.</text>
+ </subparagraph><subparagraph id="HCE1A9F5C03F7451CB80598D925BF53D2"><enum>(C)</enum><text>Veterans who did not seek or receive services under this chapter.</text> </subparagraph></paragraph><paragraph id="H9FE39C2EF9F2498B86E8EC95861D1F03" indent="up1"><enum>(3)</enum><text>The study required by this subsection shall include the collection of the following information for each individual who participates in the study:</text>
+ <subparagraph id="H4896511A44724D16AD3C569BDA1702C3"><enum>(A)</enum><text>The average number of months such individual served on active duty.</text> </subparagraph><subparagraph id="HB6576563D8A6498CA49F05EF26C60865"><enum>(B)</enum><text>The distribution of disability ratings of such individual.</text>
+ </subparagraph><subparagraph id="H723E65B56D144019A80ABFCF58479A15"><enum>(C)</enum><text>Any unemployment benefits received by such individual.</text> </subparagraph><subparagraph id="H4CD63DEE9E8B4FFE906856F1A2AC5BE4"><enum>(D)</enum><text>The average number of months such individual was employed during the year covered by the report.</text>
+ </subparagraph><subparagraph id="HFED80E2D51324886B873AD2D09AF52C7"><enum>(E)</enum><text>The average annual starting and ending salaries of any such individual who was employed during the year covered by the report.</text>
+ </subparagraph><subparagraph id="H35D148C9D7D540F7BDFA0CE09AAB5AC5"><enum>(F)</enum><text>The average annual income of such individual.</text> </subparagraph><subparagraph id="HA3FC3F960DF9464A933AEEF6CD94508F"><enum>(G)</enum><text>The average total household income of such individual for the year covered by the report.</text>
+ </subparagraph><subparagraph id="HD70BB768671844618B111B4BC9BE3720"><enum>(H)</enum><text>The percentage of such individuals who own their principal residences.</text> </subparagraph><subparagraph id="H68A386BB046443D0A17D122A5D3DCF0D"><enum>(I)</enum><text>The employment status of such individual.</text>
+ </subparagraph><subparagraph id="H24394D4BCBA64319BF8B12CA709BEBED"><enum>(J)</enum><text>In the case of such an individual who received services under this chapter, whether the individual believes that any service provided by a disabled veterans’ outreach specialist or local veterans’ employment representative helped the individual to become employed.</text>
+ </subparagraph><subparagraph id="H865FB37E314B4C7DB5DA58EEE5454B20"><enum>(K)</enum><text>In the case of such an individual who believes such a service helped the individual to become employed, whether—</text>
+ <clause id="H5E8822269A29488DA3999473D8B95F8A"><enum>(i)</enum><text>the individual retained the position of employment for a period of one year or longer; and</text> </clause><clause id="H0F0F2FAA9DF044D78563B166CE7EE4DD"><enum>(ii)</enum><text>the individual believes such a service helped the individual to secure a higher wage or salary.</text>
+ </clause></subparagraph><subparagraph id="HDE5920254EFB4BBFBB034705EC4C896C"><enum>(L)</enum><text>The conditions under which such individual was discharged or released from the Armed Forces.</text> </subparagraph><subparagraph id="HD3756F25B17B4D92B7F5B41E8E9EF21B"><enum>(M)</enum><text>Whether such individual has used any educational assistance to which the individual is entitled under this title.</text>
+ </subparagraph><subparagraph id="H750B8B3C5180434DAFFF77297954CA2D"><enum>(N)</enum><text>Whether such individual has participated in a rehabilitation program under chapter 31 of this title.</text>
+ </subparagraph><subparagraph id="H5C4C82791A514D90867D441399EDDBE0"><enum>(O)</enum><text>Demographic information about such individual.</text> </subparagraph><subparagraph id="H74C151FE04A14894ACCA90DAC48D5C73"><enum>(P)</enum><text>Such other information as the Secretary determines appropriate.</text>
+								</subparagraph></paragraph></subsection><subsection id="H20519AF225DF4213A44A08AD46915130"><enum>(b)</enum><header>Annual Reports</header>
+ <paragraph commented="no" display-inline="yes-display-inline" id="H61233ED8BD604D9BA3FC2F78C577134B"><enum>(1)</enum><text>By not later than July 1 of each year covered by the study required under subsection (a), the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the outcomes of the study during the preceding year.</text>
+ </paragraph><paragraph id="H06BBE10D98624C3A9C61B047C0B36858" indent="up1"><enum>(2)</enum><text>The Secretary shall include in each annual report submitted under paragraph (1) any information the Secretary determines is necessary to determine the long-term outcomes of the individuals in the groups described in subsection (a)(2).</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H1102DF67182D473B9F89D90787D32B31"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of such chapter is amended by adding at the end the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H89CC44913736441185B4B4D0B8DB9943" style="USC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">4115. Longitudinal study of job counseling, training, and placement service for veterans.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

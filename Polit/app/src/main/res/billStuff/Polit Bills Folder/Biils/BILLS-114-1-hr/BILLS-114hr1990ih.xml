@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA57CFEF502C94ACFA5435F77DBE7AC03" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1990 IH: Protecting Our Great Lakes Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1990</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150423">April 23, 2015</action-date>
+			<action-desc><sponsor name-id="L000566">Mr. Latta</sponsor> (for himself and <cosponsor name-id="K000009">Ms. Kaptur</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Water Pollution Control Act to prohibit certain discharges of dredged material
+			 into the Great Lakes System, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H2F46D2D94DCB47029853EE89598BFA88" style="OLC">
+ <section id="H3E75E314BB50423D934636F31530BB81" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Our Great Lakes Act</short-title></quote>.</text> </section><section id="HF1193B4D2D7A48CEA91544A7AE10F126"><enum>2.</enum><header>Prohibition on discharges of dredged material into Great Lakes System</header> <subsection id="HB0DD7DFB069246F2B9F302BE4407DF8B"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 404 of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1344">33 U.S.C. 1344</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H63A5BBF3BC62411BAD0422148BC526DB" style="OLC">
+					<subsection id="H1E2695B0994544FC8E29C1726DC181E6"><enum>(u)</enum><header>Prohibition on discharges of dredged material into Great Lakes System</header>
+ <paragraph id="HA5C6E6FE127D4A2984E8379BEBB58670"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Except as otherwise specifically provided by this subsection, beginning on the date that is 5 years after the date of enactment of this subsection, a discharge of dredged material into the Great Lakes System is prohibited.</text>
+ </paragraph><paragraph id="H969F6226DD10411FB0C65F63E3DDAE76"><enum>(2)</enum><header>Exceptions</header><text>Paragraph (1) shall not apply to any of the following:</text> <subparagraph id="HC73209EC856A4BBFB0E9925D94B54CA0"><enum>(A)</enum><text>A discharge of dredged material into a confined disposal facility, including a confined disposal island.</text>
+ </subparagraph><subparagraph id="HE9260765A67742C9BA30BB2821156049"><enum>(B)</enum><text>A discharge of dredged material in connection with—</text> <clause id="H3BE937D1165841B28ADF3F402E518965"><enum>(i)</enum><text>beneficial use; or</text>
+ </clause><clause id="H88C0B43076F947D29FB8D8668A56D9E7"><enum>(ii)</enum><text display-inline="yes-display-inline">habitat establishment, improvement, or restoration (or any combination thereof).</text> </clause></subparagraph></paragraph><paragraph id="H1028C2ADF34F41D0A8A31F0E59A24B57"><enum>(3)</enum><header>Temporary waivers</header><text display-inline="yes-display-inline">The Secretary (or a State with an approved permit program under this section) may waive application of the prohibition established by paragraph (1) during the 2-year period beginning on the effective date of the prohibition specified in paragraph (1) with respect to a discharge if—</text>
+ <subparagraph id="H6EF704DE2A224F61A91821575F9988ED"><enum>(A)</enum><text>the Administrator or State, as appropriate, determines that the waiver is necessary and appropriate; and</text>
+ </subparagraph><subparagraph id="H0FAF88E2178F4C9F87B8B64BD96A0A4C"><enum>(B)</enum><text>in the case of a waiver issued by the Secretary, each concerned State, as identified by the Secretary, reviews and approves the waiver.</text>
+ </subparagraph></paragraph><paragraph id="H9E46A9831B1742CE945DCC4321DD9A33"><enum>(4)</enum><header>Consultation with States</header><text>The Secretary shall consult with concerned States in the implementation of this subsection.</text> </paragraph><paragraph id="HF8360C5E0E0F4A6B8FD7FCB0F8D4C894"><enum>(5)</enum><header>Great Lakes System defined</header><text display-inline="yes-display-inline">In this subsection, the term <quote>Great Lakes System</quote> has the meaning given that term in section 118(a)(3) of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1268">33 U.S.C. 1268(a)(3)</external-xref>).</text>
+						</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HD38FA8A80F654F698230453B2BC8B021"><enum>(b)</enum><header>Cost analysis for operations and maintenance activities in Great Lakes System</header><text display-inline="yes-display-inline">In determining, pursuant to section 335.4 of title 33, Code of Federal Regulations (or any successor regulation), the least costly manner, and the least costly and most practicable location, for discharges of dredged material resulting from operations and maintenance activities of the Corps of Engineers in the Great Lakes System, the Secretary of the Army shall exclude from consideration the use of open-water placement of dredged material.</text>
+ </subsection><subsection id="H7D4C1FAEBA034FF980B45AC8C18C1625"><enum>(c)</enum><header>Limitation on statutory construction</header><text display-inline="yes-display-inline">Nothing in this section, including the amendment made by section (a), may be construed to limit or otherwise affect the existing responsibilities of the Corps of Engineers—</text>
+ <paragraph id="H761F627804FC4BA9A5825C69F668BF73"><enum>(1)</enum><text>to dredge United States harbors and navigation channels and dispose of dredged material; and</text> </paragraph><paragraph id="H118CC0968B9C4EA883D912F08E88C95F"><enum>(2)</enum><text>to provide, within its budget, for the full cost of the disposal of dredged material, including costs to comply with the requirements of this section, including the amendment made by subsection (a).</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5208B5F077604D28B28B57AE6AD9B8DC" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2132 IH: To require the Secretary of Energy to establish an energy efficiency retrofit pilot program.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2132</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150430">April 30, 2015</action-date> 
+<action-desc><sponsor name-id="C001090">Mr. Cartwright</sponsor> (for himself, <cosponsor name-id="D000613">Mr. Dold</cosponsor>, <cosponsor name-id="W000800">Mr. Welch</cosponsor>, <cosponsor name-id="K000382">Ms. Kuster</cosponsor>, <cosponsor name-id="L000579">Mr. Lowenthal</cosponsor>, <cosponsor name-id="V000128">Mr. Van Hollen</cosponsor>, <cosponsor name-id="L000559">Mr. Langevin</cosponsor>, and <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To require the Secretary of Energy to establish an energy efficiency retrofit pilot program.</official-title> 
+</form> 
+<legis-body id="H5A0449A6739542C990F1456CBFE9D3E0" style="OLC"> 
+<section id="HA50E21F3C9E8435E9675988F5B7315F4" section-type="section-one"><enum>1.</enum><header>Energy efficiency retrofit pilot program</header> 
+<subsection id="H1E9F075AE3824208B26939BEE69EDE6A"><enum>(a)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HA519ECA3F4614FE882B6E910EAD51557"><enum>(1)</enum><header>Applicant</header><text>The term <term>applicant</term> means a nonprofit organization that applies for a grant under this section.</text></paragraph> 
+<paragraph id="H6F9B1B791AC54274B1576F208B721587"><enum>(2)</enum><header>Energy-efficiency improvement</header> 
+<subparagraph id="HF10C2E424B894CAC8C7321B53D10BF3B"><enum>(A)</enum><header>In general</header><text>The term <term>energy-efficiency improvement</term> means an installed measure (including a product, equipment, system, service, or practice) that results in a reduction in use by a nonprofit organization for energy or fuel supplied from outside the nonprofit building.</text></subparagraph> <subparagraph id="HBC407AD5563542618673F43D9B163E28"><enum>(B)</enum><header>Inclusions</header><text>The term <term>energy-efficiency improvement</term> includes an installed measure described in subparagraph (A) involving—</text> 
+<clause id="H9F2FEF5DE2A14DDB9527CACEBAAEFD05"><enum>(i)</enum><text>repairing, replacing, or installing—</text> <subclause id="HDE2B923526F8471B9A54ADE73E8889BD"><enum>(I)</enum><text>a roof or lighting system, or component of a roof or lighting system;</text></subclause> 
+<subclause id="HAA120C8452454034A06D6316E0AF0472"><enum>(II)</enum><text>a window;</text></subclause> <subclause id="H4E4398D0629840F5842E62AD66918AE1"><enum>(III)</enum><text>a door, including a security door; or</text></subclause> 
+<subclause id="H16FE3E2864474D23ACBC61DE852E0473"><enum>(IV)</enum><text>a heating, ventilation, or air conditioning system or component of the system (including insulation and wiring and plumbing improvements needed to serve a more efficient system);</text></subclause></clause> <clause id="H1957F462916E4D94A575045137848A9A"><enum>(ii)</enum><text>a renewable energy generation or heating system, including a solar, photovoltaic, wind, geothermal, or biomass (including wood pellet) system or component of the system; and</text></clause> 
+<clause id="HA5A9082CC2624541824294FE0C996337"><enum>(iii)</enum><text>any other measure taken to modernize, renovate, or repair a nonprofit building to make the nonprofit building more energy efficient.</text></clause></subparagraph></paragraph> <paragraph id="HC2CECD6F9FA44BCE98B2074798D7B04A"><enum>(3)</enum><header>Nonprofit building</header> <subparagraph id="H0914563F8C924B97A2C40E25C4B9ECBC"><enum>(A)</enum><header>In general</header><text>The term <term>nonprofit building</term> means a building operated and owned by a nonprofit organization.</text></subparagraph> 
+<subparagraph id="HF88D3FB55EC24434B767D78CA8B44564"><enum>(B)</enum><header>Inclusions</header><text>The term <term>nonprofit building</term> includes a building described in subparagraph (A) that is—</text> <clause id="H0C11DDC4C3594881BD6ACF3775D7A225"><enum>(i)</enum><text>a hospital;</text></clause> 
+<clause id="H196BA65061FB436BA149C60F8FC989DD"><enum>(ii)</enum><text>a youth center;</text></clause> <clause id="H162BCBCAA55B491FA7C5D8053A6066BF"><enum>(iii)</enum><text>a school;</text></clause> 
+<clause id="H6CA0BA3E11764A3195E40096D361F3CF"><enum>(iv)</enum><text>a social-welfare program facility;</text></clause> <clause id="HBDDCE4DAF5A44E7591F3D7D706E1AB49"><enum>(v)</enum><text>a faith-based organization; and</text></clause> 
+<clause id="H3DCD766081BC454B85F079AA3141B211"><enum>(vi)</enum><text>any other nonresidential and noncommercial structure.</text></clause></subparagraph></paragraph> <paragraph id="H6259610F94A945409F1A9268A8BF9F4C"><enum>(4)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of Energy.</text></paragraph></subsection> 
+<subsection id="HF1CF057B9CC94FDE8489D1696C1A4D98"><enum>(b)</enum><header>Establishment</header><text>Not later than 1 year after the date of enactment of this Act, the Secretary shall establish a pilot program to award grants for the purpose of retrofitting nonprofit buildings with energy-efficiency improvements.</text></subsection> <subsection id="H865F2F7DC2D24D52A8EE69B027AED2B7"><enum>(c)</enum><header>Grants</header> <paragraph id="H651AA022CE184F54BB9E7D0A960413F7"><enum>(1)</enum><header>In general</header><text>The Secretary may award grants under the program established under subsection (b).</text></paragraph> 
+<paragraph id="HACB5462A573D406295F1CF00B4712D09"><enum>(2)</enum><header>Application</header><text>The Secretary may award a grant under this section if an applicant submits to the Secretary an application at such time, in such form, and containing such information as the Secretary may prescribe.</text></paragraph> <paragraph id="HA2151CC5A2454E05A14AF04C8E72B918"><enum>(3)</enum><header>Criteria for grant</header><text>In determining whether to award a grant under this section, the Secretary shall apply performance-based criteria, which shall give priority to applications based on—</text> 
+<subparagraph id="HE7CF0722C5BC4903B197905B2400F33B"><enum>(A)</enum><text>the energy savings achieved;</text></subparagraph> <subparagraph id="HEDACB01D122C4A28838FEDD1A59519C4"><enum>(B)</enum><text>the cost-effectiveness of the energy-efficiency improvement;</text></subparagraph> 
+<subparagraph id="HAE35F9663C5E425EB416C82BD1B7FA3C"><enum>(C)</enum><text>an effective plan for evaluation, measurement, and verification of energy savings;</text></subparagraph> <subparagraph id="H52DCE56219EB479FA34DDC3EB8C3A5E3"><enum>(D)</enum><text>the financial need of the applicant; and</text></subparagraph> 
+<subparagraph id="H5DEAE25B36C14D11AEE359E0AE719318"><enum>(E)</enum><text>the percentage of the matching contribution by the applicant.</text></subparagraph></paragraph> <paragraph id="HDDB858F6D14744A59FD13F303AD6D240"><enum>(4)</enum><header>Limitation on individual grant amount</header><text>Each grant awarded under this section shall not exceed—</text> 
+<subparagraph id="H622E3B5255674E338FBA9A323611DC3C"><enum>(A)</enum><text>an amount equal to 50 percent of the energy-efficiency improvement; and</text></subparagraph> <subparagraph id="H2AB3EDD3FF234D5289462657C0A4A8AE"><enum>(B)</enum><text>$200,000.</text></subparagraph></paragraph> 
+<paragraph id="H1FFFA7D17DAA47F7ACC305205FFEB5A8"><enum>(5)</enum><header>Cost sharing</header> 
+<subparagraph id="H8829930933DA4F20ACC8B9B998E27E03"><enum>(A)</enum><header>In general</header><text>A grant awarded under this section shall be subject to a minimum non-Federal cost-sharing requirement of 50 percent.</text></subparagraph> <subparagraph id="H0A0C87BCC4664BF4802D2A6A76400F7F"><enum>(B)</enum><header>In-kind contributions</header><text>The non-Federal share may be provided in the form of in-kind contributions of materials or services.</text></subparagraph></paragraph></subsection> 
+<subsection id="H039804D01D594163826F3BF90E77F9C6"><enum>(d)</enum><header>Authorization of appropriations</header><text>There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2016 through 2020, to remain available until expended.</text></subsection> <subsection id="H1084918FED8049A9961ACFED55AFA49E"><enum>(e)</enum><header>Offset</header><text display-inline="yes-display-inline">Section 422(f) of the Energy Independence and Security Act of 2007 (<external-xref legal-doc="usc" parsable-cite="usc/42/17082">42 U.S.C. 17082(f)</external-xref>) is amended—</text> 
+<paragraph id="HC2B9F11F1DFE4EB28134F50E8B5EF7FE"><enum>(1)</enum><text>in paragraph (3), by striking <quote>and</quote> at the end;</text></paragraph> <paragraph id="H462E3B16E7AA4A2EB8AE7B59B27CF28B"><enum>(2)</enum><text>in paragraph (4), by striking <quote>2018.</quote> and inserting <quote>2015;</quote>; and</text></paragraph> 
+<paragraph id="H3513A6ACD58644AE8E5D5C23BBDF57A8"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H3889245C5975460391B763E57331C1D6" style="OLC"> <paragraph id="H8F08BE25E3984E6AA0A7D03B944910F3"><enum>(5)</enum><text>$150,000,000 for fiscal year 2016; and</text></paragraph> 
+<paragraph id="H0DDB931271A4438CA637C22F480A21C8"><enum>(6)</enum><text>$200,000,000 for each of fiscal years 2017 and 2018.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section> </legis-body> </bill> 
+

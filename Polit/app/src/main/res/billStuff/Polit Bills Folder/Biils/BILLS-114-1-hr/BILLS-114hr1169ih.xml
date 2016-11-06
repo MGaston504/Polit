@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HABD3C94112484A19AFCF044B7342226D" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1169 IH: Health Savings Account Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1169</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150227">February 27, 2015</action-date>
+			<action-desc><sponsor name-id="F000449">Mr. Fortenberry</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to increase the maximum contribution limit for health
+			 savings accounts.</official-title>
+	</form>
+	<legis-body id="H7387B3A707994B5A8C1603F25CCCAE07" style="OLC">
+ <section id="HB0AF9CA856234881B40AA2E1307C28D7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Health Savings Account Act</short-title></quote>.</text> </section><section id="H5D5AECD2E4B644AEBBEAC88BD6E39F42"><enum>2.</enum><header>Maximum contribution limit to HSA increased to amount of deductible and out-of-pocket limitation</header> <subsection id="H8471C269014B459C9D47653AC922B113"><enum>(a)</enum><header>Self-Only coverage</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/223">Section 223(b)(2)(A)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>$2,250</quote> and inserting <quote>the amount in effect under subsection (c)(2)(A)(ii)(I)</quote>.</text>
+ </subsection><subsection id="HB8229D82009E4F7FBFB3CFA7E6000757"><enum>(b)</enum><header>Family coverage</header><text>Section 223(b)(2)(B) of such Code is amended by striking <quote>$4,500</quote> and inserting <quote>the amount in effect under subsection (c)(2)(A)(ii)(II)</quote>.</text> </subsection><subsection id="H17AA839515F84A57A3CE5D58BAA4B5E7"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

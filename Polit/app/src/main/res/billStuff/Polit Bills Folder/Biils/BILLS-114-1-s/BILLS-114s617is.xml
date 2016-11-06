@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S617 IS: Repairing Every Car to Avoid Lost Lives Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-03-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 617</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150302">March 2, 2015</action-date>
+			<action-desc><sponsor name-id="S369">Mr. Markey</sponsor> (for himself and <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To ensure that owners of all motor vehicles in use on United States roadways are made aware of, and
+			 obtain repairs for, manufacturer-issued safety recalls in a timely manner. </official-title>
+	</form>
+	<legis-body>
+ <section id="idF4C8527718C34A80AF016D11B3D3D436" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Repairing Every Car to Avoid Lost Lives Act</short-title></quote> or the <quote><short-title>RECALL Act</short-title></quote>.</text> </section><section id="id39D147E486BC45EC96593AA42AE9DD10"><enum>2.</enum><header>Compliance with safety recalls</header> <subsection id="id5417FA85D6964D6A90F013230957EEE1"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/301">chapter 301</external-xref> of title 49, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id78B8DEFD43864E6BA3FE7349371680C3" style="USC">
+					<section id="id0A9D10846FEB446D9328416A8BB329E4" section-type="subsequent-section"><enum>30129.</enum><header>Compliance with safety recalls</header>
+ <subsection id="idb6625e556dc64d4bb0922802d07ef791"><enum>(a)</enum><header>Prompt notification of automobile safety recalls</header><text>A State is in compliance with this subsection if the agency responsible for motor vehicle registration in such State ensures, by searching the recall database maintained by the National Highway Traffic Safety Administration, using the motor vehicle identification number, that each registered owner of a motor vehicle registered in such State is notified of all safety recalls issued by the manufacturer of the vehicle—</text>
+ <paragraph id="id284b79243e1d43fa8ab9b8c4f57a4409"><enum>(1)</enum><text>in any case other than a case described in paragraph (2), not later than the date on which the agency responsible for motor vehicle registration in such State notifies such registered owner of the need to renew the registered owner's motor vehicle registration; or</text>
+ </paragraph><paragraph id="id69e9da0c2b4b432bac73f62ce958af58"><enum>(2)</enum><text>in a case in which the motor vehicle owner is applying, for the first time, to register a vehicle in the State or in a case in which a safety recall occurs after the date on which the registration renewal notice is sent to the owner and before the State grants the renewal, not later than the date on which the motor vehicle registration is completed.</text>
+							</paragraph></subsection><subsection id="id2d3016fde10347f4aa8b40c2df0b1b9a"><enum>(b)</enum><header>Safety recall remedies To be completed before motor vehicle registration renewals</header>
+ <paragraph id="id6d698c922085475597be17c17ad818b2"><enum>(1)</enum><header>In general</header><text>Except as provided in paragraph (2), a State is in compliance with this subsection if the State requires, as a prerequisite for motor vehicle registration renewal, that all motor vehicle owners complete all applicable safety recalls.</text>
+ </paragraph><paragraph id="id9a3c8a10b6ac4bbdabb73196c2911e8c"><enum>(2)</enum><header>Exception</header><text>A State shall be in compliance with this subsection if the State exempts a motor vehicle owner from the requirement described in paragraph (1) in the following cases:</text>
+ <subparagraph id="id016052dd6e5e4038aa1bac82a6c574f7"><enum>(A)</enum><text>The motor vehicle owner had not been notified of the safety recall on or before the date on which the owner was notified of the need to renew the motor vehicle registration.</text>
+ </subparagraph><subparagraph id="id081032d72df44b0aace050af6b1343cc"><enum>(B)</enum><text>The manufacturer, through a local dealership, has not provided the motor vehicle owner with a reasonable opportunity to complete any applicable safety recall remedy due to a shortage of a necessary part or qualified labor.</text>
+ </subparagraph><subparagraph commented="no" id="idb34d3f09620f44049661fb749259dec0"><enum>(C)</enum><text>The motor vehicle owner demonstrates to the State that the owner has had no reasonable opportunity to complete all applicable safety recall remedies, in which case the State may grant a temporary registration, of up to 60 days, during which time the motor vehicle owner shall complete all applicable safety recall remedies.</text>
+ </subparagraph></paragraph></subsection><subsection id="idb31f6a55533b4c03a01025d54957d2b0"><enum>(c)</enum><header>Withholding of funds for noncompliance</header><text>On the first day of each fiscal year beginning at least 1 year after the date of the enactment of this section, the Secretary of Transportation shall withhold, from each State that is not in compliance with subsections (a) and (b), 5 percent of the amount otherwise required to be apportioned to such State under paragraphs (1) and (2) of section 104(b) of title 23 for the purposes specified in such paragraphs.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="idBB9E9D4458664104A3DE274B34214FBC"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/301">chapter 301</external-xref> of title 49, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/49/30128">section 30128</external-xref> the following:</text>
+				<quoted-block id="id03a478b8-47f9-4e29-9e05-b769d116f67f" style="USC"><toc><toc-entry idref="id0A9D10846FEB446D9328416A8BB329E4" level="section">30129. Compliance with safety recalls.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

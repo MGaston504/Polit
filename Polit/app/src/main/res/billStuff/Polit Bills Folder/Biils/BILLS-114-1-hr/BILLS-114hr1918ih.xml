@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H09A85423C40140EE82A51DC9093DD217" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1918 IH: Aaron's Law Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1918</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150421">April 21, 2015</action-date>
+			<action-desc><sponsor name-id="L000397">Ms. Lofgren</sponsor> (for herself, <cosponsor name-id="S000244">Mr. Sensenbrenner</cosponsor>, <cosponsor name-id="P000598">Mr. Polis</cosponsor>, <cosponsor name-id="L000563">Mr. Lipinski</cosponsor>, <cosponsor name-id="D000482">Mr. Michael F. Doyle of Pennsylvania</cosponsor>, and <cosponsor name-id="O000170">Mr. O’Rourke</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 18, United States Code, to provide for clarification as to the meaning of access
+			 without authorization, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HF2F01ABD52CF48839A6CA40D40F19C1E" style="OLC">
+ <section id="HB041DBDE4FCD4E73A0D0783E0AD93F7D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Aaron's Law Act of 2015</short-title></quote>.</text> </section><section id="H5BFDA6E0CFF240E1B7536CC186CFF4D1"><enum>2.</enum><header>Clarifying that <quote>access without authorization</quote> under section 1030 of title 18, United States Code, means circumvention of technological barriers in order to gain unauthorized access</header> <subsection id="H03E8BB6210334EFEA967D02705F9DB10"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1030(e)(6) of title 18, United States Code, is amended by—</text>
+ <paragraph id="H87FDC07958B8440A98BF33979CB30C8B"><enum>(1)</enum><text display-inline="yes-display-inline">striking <quote>exceeds authorized access</quote> and all that follows; and</text> </paragraph><paragraph id="H103287252D394E2CBFB9ED5A0BB5BC57"><enum>(2)</enum><text display-inline="yes-display-inline">inserting the following: “‘access without authorization’ means—</text>
+					<quoted-block display-inline="no-display-inline" id="H30C05A1E34864331B394D285F862DDC2" style="OLC">
+ <subparagraph id="H32A964697CD744B983F99D9931961347"><enum>(A)</enum><text display-inline="yes-display-inline">to obtain information on a protected computer;</text> </subparagraph><subparagraph id="H439D895BE34648C7B3679FC398A5ACF9"><enum>(B)</enum><text display-inline="yes-display-inline">that the accesser lacks authorization to obtain; and</text>
+ </subparagraph><subparagraph id="HCE0E901D9B40434FBF99D6E917CD5D70"><enum>(C)</enum><text display-inline="yes-display-inline">by knowingly circumventing one or more technological or physical measures that are designed to exclude or prevent unauthorized individuals from obtaining that information;</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H0074CAA4614B4564BAB71E165F052909"><enum>(b)</enum><header>Conforming amendment</header><text display-inline="yes-display-inline">Section 1030 of title 18, United States Code, is amended—</text> <paragraph id="HBD9AD0CB9D454A02B1BED7E7B1F71973"><enum>(1)</enum><text display-inline="yes-display-inline">in subsection (d)(10), by striking <quote>unauthorized access, or exceeding authorized access, to a</quote> and inserting <quote>access without authorization of a protected</quote>; and</text>
+ </paragraph><paragraph id="HD31C78AA5C054353993328EADCDAE65C"><enum>(2)</enum><text display-inline="yes-display-inline">by striking <quote>exceeds authorized access</quote> each place it appears.</text> </paragraph></subsection></section><section id="HBBBF15C2A7514C9DACB2694CC0E9EFDF"><enum>3.</enum><header>Eliminating redundancy</header> <subsection id="H83B2F7612E7046489F7CBE14B7170817"><enum>(a)</enum><header>Repeal</header><text display-inline="yes-display-inline">Section 1030(a) of title 18, United States Code, is amended—</text>
+ <paragraph id="H2D32D866C1EB4512BEAAF62591395D8F"><enum>(1)</enum><text display-inline="yes-display-inline">by striking paragraph (4); and</text> </paragraph><paragraph id="HEE386A108A244336942DC19D27E74731"><enum>(2)</enum><text>by redesignating paragraphs (5), (6), and (7) as paragraphs (4), (5), and (6), respectively.</text>
+ </paragraph></subsection><subsection id="H565BA17CDFE74256AFD50625335DF5B3"><enum>(b)</enum><header>Conforming amendments</header><text>Section 1030 of title 18, United States Code, is amended—</text> <paragraph id="H97D16270FC0143168B8E38DE5A8DB709"><enum>(1)</enum><text>in subsection (c)—</text>
+ <subparagraph id="H91F772945CC94256A308A3C91C9CAC22"><enum>(A)</enum><text>in paragraph (2), by striking <quote>(a)(6)</quote> each place it appears and inserting <quote>(a)(5)</quote>; and</text> </subparagraph><subparagraph id="H15282E5EF3DB4BABA3786901B32AA92C"><enum>(B)</enum><text>in paragraph (3)—</text>
+ <clause id="H760BD0364B634C45964F67BF157BF3F7"><enum>(i)</enum><text>in subparagraph (A), by striking <quote>subsection (a)(4) or (a)(7)</quote> and inserting <quote>subsection (a)(6)</quote>; and</text> </clause><clause id="H013B4BB9C2934E3CBC3673177E2F89AC"><enum>(ii)</enum><text>in subparagraph (B), by striking <quote>subsection (a)(4), or (a)(7)</quote> and inserting <quote>subsection (a)(6)</quote>; and</text>
+ </clause></subparagraph><subparagraph id="H666C057F49604717B510B273A6F2B2DE"><enum>(C)</enum><text>in paragraph (4)—</text> <clause id="HEE23ADFB0A04453B91D7E93AE7050472"><enum>(i)</enum><text>in subparagraph (A)(i), in the matter preceding clause (i), by striking <quote>subsection (a)(5)(B)</quote> and inserting <quote>subsection (a)(4)(B)</quote>;</text>
+ </clause><clause id="H68843E5FDC0B4F759B6A307FED02D0CE"><enum>(ii)</enum><text>in subparagraph (B)(i), by striking <quote>subsection (a)(5)(A)</quote> and inserting <quote>subsection (a)(4)(A)</quote>;</text> </clause><clause id="H00E106BA06474CCEB7F53A550086374B"><enum>(iii)</enum><text>in subparagraph (C)(i), by striking <quote>subsection (a)(5)</quote> and inserting <quote>subsection (a)(4)</quote>;</text>
+ </clause><clause id="H0E4AE2138483465EB1F7DEE78063A97D"><enum>(iv)</enum><text>in subparagraph (D)(i), by striking <quote>subsection (a)(5)(C)</quote> and inserting <quote>subsection (a)(4)(C)</quote>;</text> </clause><clause id="H7E0FF51DD0024451A4B9AD2861911094"><enum>(v)</enum><text>in subparagraph (E), by striking <quote>subsection (a)(5)(A)</quote> and inserting <quote>subsection (a)(4)(A)</quote>;</text>
+ </clause><clause id="H8553F79283FF4CA89D2C869C6DB33A8B"><enum>(vi)</enum><text>in subparagraph (F), by striking <quote>subsection (a)(5)(A)</quote> and inserting <quote>subsection (a)(4)(A)</quote>; and</text> </clause><clause id="HF22F03D5E050438994AAF372FB9F1E17"><enum>(vii)</enum><text>in subparagraph (G)(i), by striking <quote>subsection (a)(5)</quote> and inserting <quote>subsection (a)(4)</quote>; and</text>
+ </clause></subparagraph></paragraph><paragraph id="H061BAF27FDC144A6B9213548A3E4473A"><enum>(2)</enum><text>in subsection (h), by striking <quote>subsection (a)(5)</quote> and inserting <quote>subsection (a)(4)</quote>.</text> </paragraph></subsection></section><section id="H1E0CF9B5AC1643A08E8B9F5D0D036E6B"><enum>4.</enum><header>Making penalties proportional to crimes</header> <subsection id="H60C507F066254435832360AFE5174070"><enum>(a)</enum><text display-inline="yes-display-inline">Section 1030(c)(2) of title 18, United States Code, is amended—</text>
+ <paragraph id="H8BE063132D3A42E686246420D72480E8"><enum>(1)</enum><text display-inline="yes-display-inline">in subparagraph (A)—</text> <subparagraph id="H7B6F0FDFE1E447FEB4EB77D3DAE0E133"><enum>(A)</enum><text display-inline="yes-display-inline">by striking <quote>conviction for another</quote> and inserting <quote>subsequent</quote>; and</text>
+ </subparagraph><subparagraph id="HFB10236A068648EA92497F1ABBF3C290"><enum>(B)</enum><text display-inline="yes-display-inline">by inserting <quote>such</quote> after <quote>attempt to commit</quote>;</text> </subparagraph></paragraph><paragraph id="H69FA6477A6284C7F88205F5852F2176D"><enum>(2)</enum><text display-inline="yes-display-inline">in subparagraph (B)(i), by inserting after <quote>financial gain</quote> the following: <quote>and the fair market value of the information obtained exceeds $5,000</quote>;</text>
+ </paragraph><paragraph id="HA32970C7EC3A4BCBB8772E7AD4C26AAF"><enum>(3)</enum><text display-inline="yes-display-inline">in subparagraph (B)(ii), by striking <quote>the offense was committed</quote> and all that follows through the semicolon, and inserting the following: <quote>the offense was committed in furtherance of any criminal act in violation of the Constitution or laws of the United States or of any State punishable by a term of imprisonment greater than one year, unless such criminal acts are prohibited by this section or such State violation would be based solely on accessing information without authorization;</quote>;</text>
+ </paragraph><paragraph id="HABB1E93A07E447D2AA565EBDCDE32CAD"><enum>(4)</enum><text display-inline="yes-display-inline">in subparagraph (B)(iii), by inserting <quote>fair market</quote> before <quote>value</quote>; and</text> </paragraph><paragraph id="H30E388085AF746E292BB5C4AF5615F12"><enum>(5)</enum><text display-inline="yes-display-inline">in subparagraph (C)—</text>
+ <subparagraph id="HD3A927C25D2343F7B563DAC4D8AB4719"><enum>(A)</enum><text display-inline="yes-display-inline">by striking <quote>conviction for another</quote> and inserting <quote>subsequent</quote>; and</text> </subparagraph><subparagraph id="H560638DB297444E282668DBAF939C17F"><enum>(B)</enum><text display-inline="yes-display-inline">by inserting <quote>such</quote> after <quote>attempt to commit</quote>.</text>
+					</subparagraph></paragraph></subsection></section></legis-body>
+</bill>
+
+

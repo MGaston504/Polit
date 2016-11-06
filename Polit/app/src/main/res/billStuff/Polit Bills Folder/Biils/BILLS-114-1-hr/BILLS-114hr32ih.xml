@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC38C617115664528984AB09E9A5703EE" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 32 IH: Defense of Legal Workers Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 32</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="B001269">Mr. Barletta</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Immigration and Nationality Act to expand the definition of an unauthorized alien to
+			 include aliens who have not been admitted to and are not lawfully present
+			 in the United States, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H19BCD4AEE26A4E15977049BDC40E37E9" style="OLC">
+		<section id="HD4B63D8135DB4B6F937EB204AE914115" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Defense of Legal Workers Act of 2015</short-title></quote>.</text>
+		</section><section id="H8F0F3830DFBE4793A2F174C51106FD43"><enum>2.</enum><header>Admission and lawful presence required for employment authorization</header><text display-inline="no-display-inline">Section 274A(h)(3) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1324a">8 U.S.C. 1324a(h)(3)</external-xref>) is amended—</text>
+			<paragraph id="HCFA2AF43BCF9453B9E68482F8318174D"><enum>(1)</enum><text>by inserting before <quote>authorized to be so employed by this Act</quote> the following: <quote>an alien otherwise admitted to and lawfully present in the United States, and</quote>; and</text>
+			</paragraph><paragraph id="HDEF8E58606124DE2A3491B5000D8DB67"><enum>(2)</enum><text display-inline="yes-display-inline">by inserting at the end the following: <quote>An alien without lawful status shall be considered to be an unauthorized alien for purposes of this
+			 Act.</quote>.</text>
+			</paragraph></section></legis-body>
+</bill>
+
+

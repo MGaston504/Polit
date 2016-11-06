@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H266AAA420D34486FBC6DF12B55DB0935" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3962 IH: Protecting Individuals From Mass Aerial Surveillance Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3962</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151105">November 5, 2015</action-date>
+			<action-desc><sponsor name-id="D000617">Ms. DelBene</sponsor> (for herself, <cosponsor name-id="P000592">Mr. Poe of Texas</cosponsor>, <cosponsor name-id="L000397">Ms. Lofgren</cosponsor>, <cosponsor name-id="B001292">Mr. Beyer</cosponsor>, and <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To describe the authority under which Federal entities may use mobile aerial-view devices to
+			 surveil, protect individual and collective privacy against warrantless
+			 governmental intrusion through the use of mobile aerial-view devices, and
+			 for other purposes.</official-title>
+	</form>
+	<legis-body id="HC0604B884A14443EBB46FCB0421941B0" style="OLC">
+ <section id="H35241CB6A32A472B8FA9DBDE2B781B9C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Individuals From Mass Aerial Surveillance Act of 2015</short-title></quote>.</text> </section><section id="H7D8889B86EB7424CADE55A8B0DB3157F"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act, the following definitions apply:</text>
+ <paragraph id="H02FDE482432645C6BBE5CADF06035B49"><enum>(1)</enum><header>Mobile aerial-view device, or MAVD</header><text>The terms <term>mobile aerial-view device</term> and <term>MAVD</term> mean any device that through flight or aerial lift obtains an aerial view of property, persons or their effects, including an unmanned aircraft (as defined in section 331 of the FAA Modernization and Reform Act of 2012 (<external-xref legal-doc="usc" parsable-cite="usc/49/40101">49 U.S.C. 40101</external-xref> note)).</text>
+ </paragraph><paragraph id="H32601816A9AC4154A2A870F2B3D2589D"><enum>(2)</enum><header>Law enforcement official or agency</header><text>The term <term>law enforcement official or agency</term> means a person or entity authorized by law, or funded by the Government of the United States, to investigate or prosecute offenses against the United States.</text>
+ </paragraph><paragraph id="H959B86440F534B84BE11929F5C625715"><enum>(3)</enum><header>Federal entity</header><text>The term <term>Federal entity</term> means any person or entity acting under the authority of, or funded in whole or in part by, the Government, including a Federal law enforcement official or agency, but excluding State, tribal, or local government agencies or departments.</text>
+ </paragraph><paragraph id="HFF24A8334FF84CA4A40881CC3A40A664"><enum>(4)</enum><header>National borders</header><text>The term <quote>national border</quote> means an area that shares not more than 5 miles of an external land boundary of the United States.</text> </paragraph><paragraph id="H73F4C22BE4EC4E9F9954C21543457CEB"><enum>(5)</enum><header>Non-Federal entity</header><text>The term <term>non-Federal entity</term> means any person or entity that is not a Federal entity.</text>
+ </paragraph><paragraph id="HC0AD22C3916D463E8AE0C014CA356B41"><enum>(6)</enum><header>Surveil</header><text>The term <term>surveil</term> means to photograph, record, or observe using a sensing device, regardless of whether the photographs, observations, or recordings are stored, and excludes using a sensing device for the purposes of testing or training operations of MAVDs.</text>
+			</paragraph><paragraph id="HAE5EF206D3484C738E9352F5D68BE8F1"><enum>(7)</enum><header>Sensing device</header>
+ <subparagraph id="H9FCE944797B947A88C392F3737241491" indent="down1"><enum>(A)</enum><header>Meaning</header><text>The term <term>sensing device</term> means a device capable of remotely acquiring personal information from its surroundings using any frequency of the electromagnetic spectrum, or a sound detecting system, or a system that detects chemicals in the atmosphere.</text>
+ </subparagraph><subparagraph id="H044BE9F7230846EBBF665CF7B47D8765" indent="down1"><enum>(B)</enum><header>Specific equipment not included</header><text>The term <term>sensing device</term> does not include equipment for which the sole function is to provide information directly necessary for safe air navigation or operation of a MAVD.</text>
+ </subparagraph></paragraph><paragraph id="H41BD1DFD79934A65A5B94EF2BBC9AAFD"><enum>(8)</enum><header>Public lands</header><text>The term <term>public lands</term> means lands owned by the Government of the United States.</text> </paragraph></section><section id="H1F8A0BDAE48B4542A35FCD82E19BD5BE"><enum>3.</enum><header>Prohibited use of MAVDS</header><text display-inline="no-display-inline">A Federal entity shall not use a MAVD to surveil property, persons or their effects, or gather evidence or other information pertaining to known or suspected criminal conduct, or conduct that is in violation of a law or regulation.</text>
+		</section><section id="HD40B8520D44F43CFA573F30FE758054C"><enum>4.</enum><header>Exceptions</header>
+ <text display-inline="no-display-inline">This Act shall not prohibit any of the following:</text> <paragraph id="H4ADC2A1754AC49D084C8A5FB40AA1F8E"><enum>(1)</enum><header>Patrol of borders and national waters</header><text>The use of a MAVD by a Federal entity to surveil national borders or national waters of the United States to prevent or deter illegal entry of any person or illegal substance at the borders or in national waters of the United States.</text>
+			</paragraph><paragraph id="H24FA74FCCA42436CA30516A4008DD718"><enum>(2)</enum><header>Exigent circumstances</header>
+ <subparagraph id="H47487B2E36484710B943EB4955D2EC9D"><enum>(A)</enum><header>Action necessary</header><text>The use of a MAVD by a Federal entity when exigent circumstances exist. For the purposes of this paragraph, exigent circumstances exist when the Federal entity possesses reasonable suspicion that under particular circumstances, swift action is necessary—</text>
+ <clause id="H29A57BC2039E4171BD340911E593FBE8"><enum>(i)</enum><text>to prevent imminent danger of death or serious bodily harm to a specific individual;</text> </clause><clause id="H6E0FC6F8A6CF4ED594A5F6B21B9508C9"><enum>(ii)</enum><text>to counter an imminent risk of a terrorist attack by a specific individual or organization;</text>
+ </clause><clause id="H0EE415BD49D04D18AEB632E696585145"><enum>(iii)</enum><text>to prevent imminent destruction of evidence; or</text> </clause><clause id="H47D5B61026004B4A91948402250E2946"><enum>(iv)</enum><text>to counter an imminent or actual escape of a criminal or terrorist suspect.</text>
+ </clause></subparagraph><subparagraph id="HCD8F301B2CDC46EFBABBEFD6AE318001"><enum>(B)</enum><header>Records</header><text>A Federal entity using a MAVD pursuant to subparagraph (A)(i) shall maintain a retrievable record of the facts giving rise to the reasonable suspicion that an exigent circumstance existed.</text>
+ </subparagraph></paragraph><paragraph id="H93B9C752673A4472898EE89BA5EC4C2E"><enum>(3)</enum><header>Public safety and research</header><text>The use of a MAVD by a Federal entity—</text> <subparagraph id="HFCCCAF8A67754FFE832DDC540CF6B33E"><enum>(A)</enum><text>to discover, locate, observe, gather evidence in connection to, or prevent forest fires;</text>
+ </subparagraph><subparagraph id="H436E36E5FA484AF8B07CD00CC4215F09"><enum>(B)</enum><text>to monitor environmental, geologic, or weather-related catastrophe or damage from such an event;</text> </subparagraph><subparagraph id="H867B13E888A443FD9EECCBAC1114920D"><enum>(C)</enum><text>to research or survey for wildlife management, habitat preservation, or geologic, atmospheric, or environmental damage or conditions;</text>
+ </subparagraph><subparagraph id="HB9F9D33BCA3C4B2D994B5D44FABCD64D"><enum>(D)</enum><text>to survey for the assessment and evaluation of environmental, geologic or weather-related damage, erosion, flood, or contamination; and</text>
+ </subparagraph><subparagraph id="H92065D1DF6A44FEA96B1C82E6F2DDEC5"><enum>(E)</enum><text>to survey public lands for illegal vegetation.</text> </subparagraph></paragraph><paragraph id="H986D8CAFB85D4800AD4C0B57C832145B"><enum>(4)</enum><header>Consent</header><text>The use of a MAVD by a Federal entity for the purpose of acquiring information about an individual, or about an individual's property or effects, if such individual has given written consent to the use of a MAVD for such purposes.</text>
+ </paragraph><paragraph commented="no" id="HCA20AB79E7A54EEFA6874C2A898A7757"><enum>(5)</enum><header>Warrant</header><text>Law enforcement using a MAVD, pursuant to, and in accordance with, a Rule 41 warrant, to surveil specific property, persons, or their effects.</text>
+			</paragraph></section><section id="H9B5C2FFF4EC64503BF672082047CA486"><enum>5.</enum><header>Ban on identifying individuals</header>
+ <subsection id="HAAA39F3AF4CF408A86CD50B5B4F43B92"><enum>(a)</enum><header>Confidential information</header><text display-inline="yes-display-inline">No Federal entity actor may make any intentional effort to identify an individual from, or associate an individual with, the information collected by operations authorized by paragraphs (1) through (3) of section 4, nor shall the collected information be disclosed to any entity except another Federal entity or State, tribal, or local government agency or department, or political subdivision thereof, that agrees to be bound by the restrictions in this Act.</text>
+ </subsection><subsection id="H4AAC5C163AD14D9F8EF978860B5954AB"><enum>(b)</enum><header>Probable cause</header><text>The restrictions described in subsection (a) shall not apply if there is probable cause that the information collected is evidence of specific criminal activity and a warrant is obtained.</text>
+ </subsection></section><section id="HD87CC97977CF4465AAFFB850A7ADC21A"><enum>6.</enum><header>Prohibition on use of evidence<editorial></editorial><editorial></editorial></header><text display-inline="no-display-inline">No evidence obtained or collected in violation of this Act may be admissible as evidence against an individual in any trial, hearing, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision thereof.</text>
+		</section><section id="H5738B6E416B54F638F89E337736DF13E"><enum>7.</enum><header>Prohibition on solicitation and purchase</header>
+ <subsection id="H0FBC3B93E95B4A87ADC5CC857A952EAB"><enum>(a)</enum><header>Existing authority</header><text display-inline="yes-display-inline">A Federal entity shall not solicit to or award contracts to any entity for such entity to surveil by MAVD for the Federal entity, unless the Federal entity has existing authority to surveil the particular property, persons or their effects, or interest.</text>
+ </subsection><subsection id="HA3549B36B3B4420D8D2699EF8D5EBC48"><enum>(b)</enum><header>Permission granted</header><text display-inline="yes-display-inline">A Federal entity shall not purchase any information obtained from MAVD surveillance by a non-Federal entity if such information contains personal information, except pursuant to the express consent of all persons whose personal information is to be sold.</text>
+ </subsection></section><section id="H734AF81CB9914594AACD083CA0A74C35"><enum>8.</enum><header>Rule of construction</header><text display-inline="no-display-inline">Nothing in this Act shall be construed to preempt any State law regarding the use of MAVDs exclusively within the borders of that State.</text>
+		</section></legis-body>
+</bill>
+
+

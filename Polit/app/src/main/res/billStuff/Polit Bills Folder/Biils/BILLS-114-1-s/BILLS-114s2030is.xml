@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2030 IS: Advancing Targeted Therapies for Rare Diseases Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-09-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2030</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150915">September 15, 2015</action-date>
+			<action-desc><sponsor name-id="S330">Mr. Bennet</sponsor> (for himself, <cosponsor name-id="S300">Mr. Burr</cosponsor>, <cosponsor name-id="S366">Ms. Warren</cosponsor>, and <cosponsor name-id="S118">Mr. Hatch</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To allow the sponsor of an application for the approval of a targeted drug to rely upon data and
+			 information with respect to such sponsor's previously approved targeted
+			 drugs. </official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Advancing Targeted Therapies for Rare Diseases Act of 2015</short-title></quote>.</text>
+ </section><section id="id50a9a8e783734f27b65f353f099e9430"><enum>2.</enum><header>Targeted drugs for rare diseases</header><text display-inline="no-display-inline">Title V of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/351">21 U.S.C. 351 et seq.</external-xref>) is amended by inserting after section 506F the following:</text>
+			<quoted-block display-inline="no-display-inline" id="iddc4ffb8dce204f88a157fccf9ce51378" style="OLC">
+				<section id="id11a3f0c6ef884f9cab3967501d538f24"><enum>506G.</enum><header>Targeted drugs for rare diseases</header>
+ <subsection id="idFF118C011E6744B5AF851C3AB91FD228"><enum>(a)</enum><header>Purpose</header><text display-inline="yes-display-inline">The purpose of this section, through the approach provided for in subsection (b), is to—</text> <paragraph id="idEA3642084FBB4F5FB6C810485785EFC8"><enum>(1)</enum><text display-inline="yes-display-inline">facilitate the development, review, and approval of genetically targeted drugs to address an unmet medical need in one or more patient subgroups (or gene variant subpopulations) with respect to rare diseases or conditions that are serious or life-threatening; and</text>
+ </paragraph><paragraph id="id0742190B50EC4829BA5D83C28F01B5DF"><enum>(2)</enum><text display-inline="yes-display-inline">maximize the use of scientific tools or methods, including surrogate endpoints and other biomarkers for such purposes.</text>
+ </paragraph></subsection><subsection id="idFB41C221E1CA4E59B9868F9F55BDFA44"><enum>(b)</enum><header>Leveraging of data from previously approved drug application or applications</header><text display-inline="yes-display-inline">The Secretary may, consistent with applicable standards for approval under this Act or section 351 of the Public Health Service Act, allow the sponsor of a genetically targeted drug to rely upon data and information—</text>
+ <paragraph id="id49F6D7301919477FA603D11219AB570E"><enum>(1)</enum><text display-inline="yes-display-inline">previously developed by the same sponsor (or another sponsor that has provided the sponsor with a contractual right of reference to such data and information); and</text>
+ </paragraph><paragraph id="idA188C35B8B67430F821BC60FFC5557C4"><enum>(2)</enum><text display-inline="yes-display-inline">submitted by a sponsor described in paragraph (1) in support of one or more applications previously approved under this Act or section 351 of the Public Health Service Act,</text>
+						</paragraph><continuation-text continuation-text-level="subsection">for a drug that incorporates or utilizes the same or similar genetically
+			 targeted technology, or the same variant protein targeted technology, as
+			 the
+			 drug or drugs that are the subject of an application or applications
+ described in paragraph (2).</continuation-text></subsection><subsection id="id75535E23D731460CA82E0549322B4B07"><enum>(c)</enum><header>Definitions</header><text display-inline="yes-display-inline">For purposes of this section—</text> <paragraph id="id8E5BF4199A5A4BFCB7CFE3F2AC6FE0CD"><enum>(1)</enum><text display-inline="yes-display-inline">the term <term>genetically targeted drug</term> means a drug which—</text>
+ <subparagraph id="idAE0DE32FC5E94A85BEF537875B90F3B1"><enum>(A)</enum><text display-inline="yes-display-inline">is the subject of an application under section 505(b)(1) of this Act or section 351(a) of the Public Health Service Act for the treatment of a rare disease or condition (as such term is defined in section 526) that is serious or life-threatening;</text>
+ </subparagraph><subparagraph id="idb4cb39f75c244165888f0e8375bb9255"><enum>(B)</enum><text>incorporates or utilizes a genetically targeted technology or a variant protein targeted technology; and</text>
+ </subparagraph><subparagraph id="id5739171e1ef64712a8033a6c21959f30"><enum>(C)</enum><text>may result in the modulation (including suppression, up-regulation, or activation) of the function of a gene or its associated gene product;</text>
+ </subparagraph></paragraph><paragraph id="id37a61ccb59e64dbd9b70c1bbba2a2b61"><enum>(2)</enum><text>the term <term>genetically targeted technology</term> means a technology comprising non-replicating nucleic acid or analogous compounds with a common or similar chemistry that is intended to treat one or more subsets of patients with the same disease, including due to other variants in the same gene; and</text>
+ </paragraph><paragraph id="id8ED74FF2FB3A4B4C9E55B175CEE667E1"><enum>(3)</enum><text>the term <term>variant protein targeted technology</term> means a technology or compound that modulates the function of a variant protein, due to a gene variant, intended to treat one or more subsets of patients with the same disease, due to other variants in the same gene.</text>
+ </paragraph></subsection><subsection id="id60c615db85624898888faf712137765a"><enum>(d)</enum><header>Rule of construction</header><text>Nothing in this section shall be construed to—</text> <paragraph id="ideeeb090c2b5f4f51907aabef1137e2a4"><enum>(1)</enum><text>alter the authority of the Secretary to approve drugs pursuant to this Act or section 351 of the Public Health Service Act (as authorized prior to the date of enactment of the <short-title>Advancing Targeted Therapies for Rare Diseases Act of 2015</short-title>), including the standards of evidence, and applicable conditions, for approval under such Act; or</text>
+ </paragraph><paragraph id="id9dbdb601816c4d6a87824ab85b320015"><enum>(2)</enum><text>confer any new rights, beyond those authorized under this section, with respect to the permissibility of referencing information contained in another application submitted under section 505(b)(1) of this Act or section 351(a) of the Public Health Service Act.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HCB9B322313BF43E99C4F120382B02135" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3124 IH: Clean Slate for Marijuana Offenses Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3124</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150721">July 21, 2015</action-date>
+			<action-desc><sponsor name-id="B000574">Mr. Blumenauer</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To permit the expungement of records of certain marijuana-related offenses.</official-title>
+	</form>
+	<legis-body id="H3B463A717F1C43818F60C23E248E8B26" style="OLC">
+ <section display-inline="no-display-inline" id="HE3B48E951A57436987BAB634DB25FD2F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Clean Slate for Marijuana Offenses Act of 2015</short-title></quote>.</text> </section><section id="H7E816C5A512D486A9FF9DCC5A5AC4DEF"><enum>2.</enum><header>Expungement of criminal records for certain marijuana-related offenses</header> <subsection id="H69CF33F66AD04AC1A3E3AE4C911FBA2F"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/229">Chapter 229</external-xref> of title 18, United States Code, is amended by inserting after subchapter C the following new subchapter:</text>
+				<quoted-block display-inline="no-display-inline" id="HE03418EAFF4E42818637B5C4C6B36F8D" style="USC">
+					<subchapter id="H060F79C2B82346B58A0AD8ACAC46060A"><enum>D</enum><header>Expungement</header>
+						<toc container-level="subchapter-container" idref="H060F79C2B82346B58A0AD8ACAC46060A" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+							<toc-entry idref="HCCFDE5E612A948ECB53A02D085C8F5C4" level="section">Sec.</toc-entry>
+							<toc-entry level="section">3631. Expungement of certain criminal records in limited circumstances.</toc-entry>
+							<toc-entry idref="H6303201FEC884EB9832CCC2AD0ECFA88" level="section">3632. Requirements for expungement.</toc-entry>
+							<toc-entry idref="H8F9097B2EB8B4FA4B56FB911BAF6B2CA" level="section">3633. Procedure for expungement.</toc-entry>
+							<toc-entry idref="HB0C3EA2DA7D2474CB7502E771295375B" level="section">3634. Effect of expungement.</toc-entry>
+							<toc-entry idref="H8FCC86EDB330439D89D88FB153929AA0" level="section">3635. Disclosure of expunged records.</toc-entry>
+						</toc>
+						<section id="HCCFDE5E612A948ECB53A02D085C8F5C4"><enum>3631.</enum><header>Expungement of certain criminal records in limited circumstances</header>
+ <subsection id="HFFE36B4431C546158AAB0E53DBE0BA0B"><enum>(a)</enum><header>In general</header><text>Any individual convicted of a qualifying marijuana-related offense who fulfills the requirements of section 3632 may, upon petition for expungement made in accordance with this subchapter, obtain an order granting expungement under this subchapter.</text>
+ </subsection><subsection id="H590CB1E890144EC2970716E807FAFB5D"><enum>(b)</enum><header>Definition of qualifying marijuana-Related offense</header><text>In this subchapter, the term <quote>qualifying marijuana-related offense</quote> means an offense against the United States in which the conduct constituting the offense—</text> <paragraph id="HB9701F2198D04902A7CFA7A543D40AB1"><enum>(1)</enum><text>was legal under the State law at the time of the offense; or</text>
+ </paragraph><paragraph id="HEF9C1E394449473B904677F7C1D7D6C3"><enum>(2)</enum><text>was the possession of marijuana in a quantity is not greater than one ounce.</text> </paragraph></subsection><subsection id="H2935955F5F7A48C1B4A8580EF9D6B208"><enum>(c)</enum><header>Definition of State</header><text>In this subchapter, the term <quote>State</quote> includes the District of Columbia, Puerto Rico, and any other territory or possession of the United States.</text>
+ </subsection></section><section id="H6303201FEC884EB9832CCC2AD0ECFA88"><enum>3632.</enum><header>Requirements for expungement</header><text display-inline="no-display-inline">No individual shall be eligible for an order of expungement under this subchapter unless, before filing a petition under this subchapter, such individual fulfills all requirements of the sentence for the conviction for which expungement is sought, including completion of any term of imprisonment or period of probation, meeting all conditions of a supervised release, and paying all fines.</text>
+						</section><section id="H8F9097B2EB8B4FA4B56FB911BAF6B2CA"><enum>3633.</enum><header>Procedure for expungement</header>
+ <subsection id="HA0AFEF5662814C7EAC1DE81B30A26180"><enum>(a)</enum><header>Petition</header><text>An individual may file a petition for expungement of a conviction in the court in which the conviction was obtained. A copy of the petition shall be served by the court upon the United States Attorney for the judicial district of that court.</text>
+ </subsection><subsection id="H92A42492D3F944B39643EF91A85D55FB"><enum>(b)</enum><header>Opportunity for Government To contest petition</header><text>Not later than 60 days after the date a copy of a petition is served on the Government under subsection (a), the Government may, if the Government determines the facts do not support the petition, inform the court and the petitioner that the Government opposes granting expungement. If the Government does so inform the court and the petitioner, the court shall allow the Government and the petitioner an opportunity to present evidence and argument relating to the petition.</text>
+ </subsection><subsection id="H9BA4880C65894C459849808E62D6C2B0"><enum>(c)</enum><header>Court-Ordered expungement</header><text>If, after the passage of the 60-day period described in subsection (a) or earlier, if the Government informs the court it will not oppose granting expungement or if proceedings related to that opposition have been completed, the court determines the preponderance of the evidence before the court supports the granting of expungement under this subchapter, the court shall issue an order granting that expungement. If the court determines the petition is not supported by the preponderance of the evidence before the court, the court shall deny the petition.</text>
+							</subsection></section><section id="HB0C3EA2DA7D2474CB7502E771295375B"><enum>3634.</enum><header>Effect of expungement</header>
+ <subsection id="H07FEFDF492144D22BEB3C49EABF74FC8"><enum>(a)</enum><header>In general</header><text>An order granting expungement under this subchapter restores the individual concerned, in the contemplation of the law, to the status that individual occupied before the arrest or the institution of criminal proceedings for the offense for which ex­punge­ment is granted.</text>
+ </subsection><subsection id="H66066B0149F1401DBE784824C5446EA3"><enum>(b)</enum><header>No disqualification; statements</header><text>After an order under this subchapter granting expungement of an individual’s criminal records, that individual is not required to divulge information pertaining to the expunged conviction. The fact that such individual has been convicted of the criminal offense concerned shall not operate as a disqualification of that individual to pursue or engage in any lawful activity, occupation, or profession. Such individual is not guilty of any perjury, false answering, or making a false statement by reason of that individual’s failure to recite or acknowledge such arrest or institution of criminal proceedings, or results thereof, in response to an inquiry made of that individual for any purpose.</text>
+ </subsection><subsection id="H62FEBB3C4CE1477F8F678E16695F88DF"><enum>(c)</enum><header>Records To be destroyed</header><text>Except as provided in section 3635, upon order of expungement, all official law enforcement and court records, including all references to such person’s arrest for the offense, the institution of criminal proceedings against the individual, and the results thereof, except publicly available court opinions or briefs on appeal, shall be permanently destroyed.</text>
+							</subsection></section><section id="H8FCC86EDB330439D89D88FB153929AA0"><enum>3635.</enum><header>Disclosure of expunged records</header>
+ <subsection id="HAF33F061A1F94B698086761FBBB2FBE9"><enum>(a)</enum><header>Index To assist authorized disclosure</header><text>The Department of Justice shall maintain a nonpublic manual or computerized record of expungements under this subchapter containing only the name of, and alphanumeric identifiers selected by the Department of Justice that relate to, the persons who obtained expungement under this subchapter, and the order of expungement.</text>
+ </subsection><subsection id="H11EA1E449AC34250980740181837D26C"><enum>(b)</enum><header>Authorized disclosure to individual</header><text>Information in the index shall be made available only to the individual to whose expungement it pertains or to such individual’s designated agent.</text>
+ </subsection><subsection id="H3626BDD0B6C44BD99FB7C2D62D03F7CB"><enum>(c)</enum><header>Punishment for improper disclosure</header><text>Whoever knowingly discloses information relating to an expunged conviction other than as authorized in this subchapter shall be fined under this title or imprisoned not more than one year, or both.</text>
+							</subsection></section></subchapter><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H4846EE8ED7484468A4EF8D04929E2C35"><enum>(b)</enum><header>Clerical amendment</header><text>The table of subchapters at the beginning of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/229">chapter 229</external-xref> of title 18, United States Code, is amended by adding at the end the following item:</text>
+				<quoted-block display-inline="no-display-inline" id="H6FD05148A5CD4265B8B580399BB0FAAB" style="OLC">
+					<toc>
+						<multi-column-toc-entry bold="on" level="subchapter"><toc-enum>D.</toc-enum><level-header level="subchapter">  Expungement</level-header><target>3631</target></multi-column-toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HD55DB9A3B1C54DD1B5AB9BE2DA6B0A9C"><enum>(c)</enum><header>Effective Date</header><text>The amendments made by this Act apply to individuals convicted of an offense before, on, or after the date of enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

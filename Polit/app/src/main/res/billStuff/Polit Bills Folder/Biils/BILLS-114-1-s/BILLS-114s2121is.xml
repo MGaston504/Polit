@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2121 IS: Preserving American Access to Information Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-10-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2121</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151001">October 1, 2015</action-date>
+			<action-desc><sponsor name-id="S324">Mrs. Shaheen</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To facilitate and enhance the declassification of information, including in the Legislative Branch,
+			 and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Preserving American Access to Information Act</short-title></quote>.</text>
+ </section><section id="id8041f444a0454898884a360eca375a47"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress makes the following findings:</text> <paragraph id="ide1b0b2b36b3c468e9075f9049e11079d"><enum>(1)</enum><text>The 1994 Joint Security Commission, convened at the request of the Secretary of Defense and the Director of the Central Intelligence Agency stated that <quote>[t]he classification system, largely unchanged since the Eisenhower administration has grown out of control. More information is being classified and for extended periods of time. Security rules proliferate, becoming more complex yet remaining unrelated to the threat. . . . Indeed, the classification system is not trusted on the inside any more than it is on the outside. Insiders do not trust it to protect information that needs protection. Outsiders do not trust it to release information that does not need protection</quote>.</text>
+ </paragraph><paragraph id="id7a4321924f48491ea836ce362395ea04"><enum>(2)</enum><text>The Public Interest Declassification Board, notes in its 2012 report that <quote>[a]gencies are currently creating petabytes of classified information annually, which quickly outpaces the amount of information the Government has declassified in total in the previous seventeen years since Executive Order 12958 established the policy of automatic declassification for 25 year old records. Without dramatic improvement in the declassification process, the rate at which classified records are being created will drive an exponential growth in the archival backlog of classified records awaiting declassification, and public access to the nation's history will deteriorate further</quote>.</text>
+			</paragraph></section><section id="id7e99eb7bd97141cf8f00f0813fc8af21"><enum>3.</enum><header>Enhancement of the National Declassification Center</header>
+ <subsection id="idc76b02cac6eb44028f6c5431f772a2b6"><enum>(a)</enum><header>In general</header><text>The President shall take appropriate actions to enhance the authority and capacity of the National Declassification Center under Executive Order No. 13526, or any successor Executive order, in order to facilitate, enhance, and advance a government-wide strategy for the declassification of information.</text>
+ </subsection><subsection id="id35af58f12f404d4689ff1d01aa8b0175"><enum>(b)</enum><header>Required actions</header><text>The actions taken under subsection (a) shall include the following:</text> <paragraph id="id922a481524aa42458e37422027b6c1b6"><enum>(1)</enum><text>A requirement that Federal agencies complete the review of Presidential and Federal records proposed for declassification, in accordance with priorities established by the National Declassification Center, within eighteen months of the start of the declassification process, except that agencies may complete such review within two years of the start of the declassification process upon the written approval of the Director of the National Declassification Center.</text>
+ </paragraph><paragraph id="idc236e8614c2d4a2a9e6aca0faa59f005"><enum>(2)</enum><text>A requirement that Federal agencies with authority to classify information share their declassification guidance with other such Federal agencies and with the National Declassification Center.</text>
+				</paragraph></subsection></section><section id="id78c9827874954024b958b3216a8073a7"><enum>4.</enum><header>Public consultation with advisory panel to the National Declassification Center</header>
+ <subsection id="id94312f9fe43740269deab10a36a4cd9c"><enum>(a)</enum><header>In general</header><text>The Director of the National Declassification Center shall provide for consultation between the advisory panel to the National Declassification Center and the public.</text>
+ </subsection><subsection id="id3c0d6faf7d634191a2243e41efc74533"><enum>(b)</enum><header>Frequency</header><text>Consultations under subsection (a) shall occur not less frequently than the frequency of the regular meetings of the advisory panel to the National Declassification Center and, to the extent practicable, shall occur concurrently with the meetings of the advisory panel.</text>
+ </subsection></section><section id="id46207a9fb8244e80b1b8edab4c24b3bd"><enum>5.</enum><header>Preservation and access to historically valuable records</header><text display-inline="no-display-inline">Federal agencies shall make every effort to identify and designate historically valuable records during the initial classification process in order to ensure preservation and timely access to such documents and records following eventual declassification.</text>
+		</section><section id="id0524c7b3af964e639bf88db00792245d"><enum>6.</enum><header>Reports on pilot programs on improvements to the declassification processes</header>
+ <subsection id="id41a0ff94c9bc4c90a4468eee666bed1f"><enum>(a)</enum><header>Reports</header><text>The Public Interest Declassification Board shall, in consultation with the heads of Federal agencies that classify and review classified information as well as the Director of the National Declassification Center, submit to Congress reports setting forth options for various pilot programs to assess the feasibility and advisability of mechanisms to improve the current declassification capabilities of such agencies, including updates of software and procedures relating to declassification of information.</text>
+ </subsection><subsection id="id9641013ecdc2439ab628378dbc27ace8"><enum>(b)</enum><header>Mechanisms</header><text>In selecting mechanisms to be assessed pursuant to the pilot programs for purposes of subsection (a), an emphasis shall be afforded to the selection of current technologies and practices that could improve current declassification capabilities, including commercial, off the shelf-technologies and current best practices of Federal agencies and the private sector.</text>
+ </subsection></section><section id="id0a2d96cbebf24fa5ae4dffe369642eb1"><enum>7.</enum><header>Review of declassification procedures regarding information controlled by Congress</header><text display-inline="no-display-inline">The Public Interest Declassification Board shall review the rules of the Senate and of the House of Representative regarding the declassification of classified Committee records, including hearings, meetings, and reports, and make recommendations to improve the consistency and timeliness of declassification efforts.</text>
+ </section><section id="ida1160bb8d9fc499b9846ddc06f0df157"><enum>8.</enum><header>Reports</header><text display-inline="no-display-inline">Not later than 1 year after the date of the enactment of this Act, the head of each Federal agency that classifies information shall submit to Congress a report that sets forth the following:</text>
+ <paragraph id="idd1d38b2b920b45e0a33e5ba8651f00d4"><enum>(1)</enum><text>An assessment of feasibility and advisability of replacing the current classification system of such agency with a two-tiered system, including an analysis and assessment of restructuring necessary to align the level of protection with the level of harm anticipated in the event of unauthorized release of sensitive information.</text>
+ </paragraph><paragraph id="id361988b0bc5c436b9cc57d49f10429a4"><enum>(2)</enum><text>If such agency possesses records with classified Formerly Restricted Data (FRD), an assessment of the feasibility and advisability of declassifying such records.</text>
+			</paragraph></section></legis-body>
+</bill>
+
+

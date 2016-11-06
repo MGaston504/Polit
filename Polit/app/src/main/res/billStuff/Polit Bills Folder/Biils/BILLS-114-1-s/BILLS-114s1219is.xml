@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1219 IS: To amend the Public Utility Regulatory Policies Act of 1978 to provide for the safe and reliable interconnection of distributed resources and to provide for the examination of the effects of net metering.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1219</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150506">May 6, 2015</action-date>
+			<action-desc><sponsor name-id="S288">Ms. Murkowski</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Public Utility Regulatory Policies Act of 1978 to provide for the safe and reliable
+			 interconnection of distributed resources  and to
+			 provide for the examination of the effects of net metering.</official-title>
+	</form>
+	<legis-body>
+ <section id="id7DE1C6EEC1FC4695B1C26D84E8516EBF" section-type="section-one"><enum>1.</enum><header>Reliability and distributed resources</header><text display-inline="no-display-inline">Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2621">16 U.S.C. 2621(d)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id2A1E3926C6CC4C7AA511B8E33D30BC88" style="OLC">
+				<paragraph id="id263fc7e245d04ead83b58b2fdd2fba61"><enum>(20)</enum><header>Consideration of safe and reliable interconnection of distributed resources</header>
+ <subparagraph id="id14465255F7F1452B91BF72F8BF454A56"><enum>(A)</enum><header>Definitions</header><text>In this paragraph:</text> <clause id="id0EE5BD523B064566A71AE1870078351E"><enum>(i)</enum><header>Ancillary service</header><text>The term <quote>ancillary service</quote> includes—</text>
+ <subclause id="id5E466C129E46438EA81A2B7C8569A5BB"><enum>(I)</enum><text>reactive supply;</text> </subclause><subclause id="id5824466558504E5B92AB098390F25205"><enum>(II)</enum><text>regulation and frequency response;</text>
+ </subclause><subclause id="idD78C10C317D6450495BA5F10786240CD"><enum>(III)</enum><text>energy imbalance;</text> </subclause><subclause id="id2D41DFEE6B804362A633048E568E53C1"><enum>(IV)</enum><text>operating reserves;</text>
+ </subclause><subclause id="id551A8E4CC38D449E84F305A82942DBB7"><enum>(V)</enum><text>generation imbalance; and</text> </subclause><subclause id="id51AC843346AC4E9EBB3580FFC7453C9A"><enum>(VI)</enum><text>flexibility and ramping services.</text>
+ </subclause></clause><clause id="id654EC231D68C4E9091984E8AC4F98487"><enum>(ii)</enum><header>Distributed resource</header><text>The term <quote>distributed resource</quote> means an electric power source connected directly to the distribution network or on the customer side of the meter.</text>
+ </clause></subparagraph><subparagraph id="id9D30CA2C04354D4BBDF070C4A2A9C25F"><enum>(B)</enum><header>Requirement for proceedings related to distributed resources</header><text>Each State regulatory authority shall—</text> <clause id="idF888635AA9F147FFBCE4E464FDDF5134"><enum>(i)</enum><text>establish proceedings to examine the degree to which distributed resources contribute ancillary services; and</text>
+ </clause><clause id="id20EAD41CB21B437C8615A9CBE45E6B4C"><enum>(ii)</enum><text>prescribe appropriate measures to ensure adequate ancillary services so that grid interconnection for distributed resources is safe, reliable, and efficient.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="id050F2383A479473F806DE814AAC203A4"><enum>2.</enum><header>Net metering effects</header><text display-inline="no-display-inline">Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2621">16 U.S.C. 2621(d)</external-xref>) (as amended by section 1) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id5D02C02177FC46ADAF9B90BB44E4C79E" style="OLC">
+ <paragraph id="id3B72BBD2BD9E415EB591E56DD87C238A"><enum>(21)</enum><header>Net metering effects</header><text>Each State regulatory authority shall—</text> <subparagraph id="id019644E22A214612BD6A1A5056E12E18"><enum>(A)</enum><text>establish proceedings to examine the effects of net metering and customer-owned distributed generation on resource planning of each electric utility, including—</text>
+ <clause id="idDB8A8863667C47699EB614071D42461C"><enum>(i)</enum><text>the effects on resource utilization, fuel diversity, grid security, and shifting of grid costs to customers who do not use net metering or customer-owned distributed generation; and</text>
+ </clause><clause id="id6c8f6790832c40ffaac6dac7276d8337"><enum>(ii)</enum><text>the impact on—</text> <subclause id="id23F80365AAA5430BABDB0116BBE12129"><enum>(I)</enum><text>the financial health of the entity providing distribution services; and</text>
+ </subclause><subclause id="id5450527928464BF58CDF5F9D8E3745BA"><enum>(II)</enum><text>the ability of the entity to attract investment in light of net metering and customer-owned distributed generation within the State; and</text>
+ </subclause></clause></subparagraph><subparagraph id="id433E7CF12320493E8C4CBC4805A966AF"><enum>(B)</enum><text>establish proceedings to determine whether electricity rates established for net metering service are just and reasonable and not unduly preferential or discriminatory, in accordance with State law.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="idBC041BEBF73D4522A82085BDCAF993C9"><enum>3.</enum><header>Compliance</header>
+ <subsection id="idf86d857e4e2d4055a807a22ae95b275e"><enum>(a)</enum><header>Time limitations</header><text>Section 112(b) of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2622">16 U.S.C. 2622(b)</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id399ceac6f2554c92b601d5e638d7c360" style="OLC">
+ <paragraph id="id12fa6c4683f14f2081e74aff279e353b"><enum>(7)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="id66ADEDCF12A74248BA57DF7BE6B67BCA"><enum>(A)</enum><text>Not later than 1 year after the date of enactment of this paragraph, each State regulatory authority (with respect to each electric utility for which the authority has ratemaking authority) and each nonregulated electric utility shall, with respect to the standard established by paragraphs (20) and (21) of section 111(d)—</text>
+ <clause id="idB562694B63674E61B75487D5AC1C59F9" indent="up1"><enum>(i)</enum><text>commence the consideration required under those paragraphs; or</text> </clause><clause id="idB7E9C14B84F9422F9C0BB85397FBC0CE" indent="up1"><enum>(ii)</enum><text>set a hearing date for such consideration, with respect to the standard established by paragraphs (20) and (21) of section 111(d).</text>
+ </clause></subparagraph><subparagraph id="idC3C6FD07C9CE45C5851F23C744C34CEB" indent="up1"><enum>(B)</enum><text>Not later than 2 years after the date of enactment of this paragraph, each State regulatory authority (with respect to each electric utility for which the authority has ratemaking authority) and each nonregulated electric utility shall, with respect to the standards established by paragraphs (20) and (21) of section 111(d)—</text>
+ <clause id="id1CBC2EDD55F44571B6E25BB758B41562"><enum>(i)</enum><text>complete the consideration required under those paragraphs; and</text> </clause><clause id="id73EB1B1C6DB7433DB95A31088BB6C977"><enum>(ii)</enum><text>make the determination referred to in section 111 with respect to the standards established by those paragraphs.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id1fb251da448f45c497ca177315c1b060"><enum>(b)</enum><header>Failure To comply</header><text>Section 112(c) of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2622">16 U.S.C. 2622(c)</external-xref>) is amended by adding at the end the following: <quote>In the case of the standard established by paragraphs (20) and (21) of section 111(d), the reference contained in this subsection to the date of enactment of this Act shall be deemed to be a reference to the date of enactment of those paragraphs.</quote>.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

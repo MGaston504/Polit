@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H03295C102A064CAE95942E27F2F212D7" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3265 IH: Student Financial Aid Simplification Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3265</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150728">July 28, 2015</action-date>
+			<action-desc><sponsor name-id="W000800">Mr. Welch</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To simplify the process for determining the need and eligibility of students for financial
+			 assistance under the Higher Education Act of 1965, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H2CA6CFC06E2942539B1297D947CA6C3C" style="OLC">
+ <section id="HF46A56D131A64D6B989FA2DD4014910B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Student Financial Aid Simplification Act</short-title></quote>.</text> </section><section id="HB7C94A8DCA004948AA2DF810AFF4B746"><enum>2.</enum><header>FAFSA Simplification</header><text display-inline="no-display-inline">Section 483 of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1090">20 U.S.C. 1090</external-xref>) is amended—</text>
+ <paragraph id="H6045E5E1A43F4089B781FF7EA7518FD4"><enum>(1)</enum><text display-inline="yes-display-inline">in subsection (a)—</text> <subparagraph id="H75C0DC1FAABB41239D6B921A5836DF70"><enum>(A)</enum><text>in paragraph (1), by striking <quote>The Secretary</quote> and inserting <quote>Subject to subsection (i), the Secretary</quote>; and</text>
+ </subparagraph><subparagraph id="HE00A32AC950041F286A6C589C91E3082"><enum>(B)</enum><text>in paragraph (6), by striking <quote>The need</quote> and inserting <quote>Subject to subsection (i), the need</quote>; and</text> </subparagraph></paragraph><paragraph id="H65C6DD08DEFF48B488C38EB58E93BF48"><enum>(2)</enum><text>by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="H81E5AFC1883540F59F34F9F86EBC7F49" style="OLC">
+					<subsection id="H42CA1CE523504BA19A818A7B1DC8C02C"><enum>(i)</enum><header>FAFSA Simplification</header>
+ <paragraph id="HE86E8E752806469E93E7A6C611C5EBA0"><enum>(1)</enum><header>In general</header><text>Beginning academic year 2017–2018 and notwithstanding subsection (a)(6) or any other provision of this section, with respect to a student who is a taxpayer or a dependent of a taxpayer and who does not meet the requirements of subsection (b) or (c) of section 479, the need and eligibility of such student for financial assistance under parts A through E (other than subpart 4 of part A) may be determined only by—</text>
+ <subparagraph id="H0D05DFA35C2946E8BC8D1FA388690469"><enum>(A)</enum><text display-inline="yes-display-inline">authorizing the Secretary to obtain from the Internal Revenue Service income data, and other taxpayer data needed to compute an expected family contribution for the student, from two years prior to the student’s planned enrollment date; and</text>
+ </subparagraph><subparagraph id="H3F93B607B43D49829EE72B59ABD0FBF5"><enum>(B)</enum><text>submitting to the Secretary the supplemental information described in paragraph (3).</text> </subparagraph></paragraph><paragraph id="H9A24BC70C48C4F8CAA0E6B03CB4CA522"><enum>(2)</enum><header>Authorization under the IRC and distribution of data</header><text display-inline="yes-display-inline">Returns and return information (as defined in <external-xref legal-doc="usc" parsable-cite="usc/26/6103">section 6103</external-xref> of the Internal Revenue Code of 1986) may be obtained under paragraph (1)(A) only to the extent authorized by section 6103(l)(23) of such Code, except that institutions of higher education and States shall receive, without charge, such information from the Secretary for the purposes of processing loan applications and determining need and eligibility for institutional and State financial aid awards.</text>
+ </paragraph><paragraph id="H0843188C7E714CEFA8DB65A5B760B6F5"><enum>(3)</enum><header>Supplemental information</header><text display-inline="yes-display-inline">Each student described in paragraph (1) who is applying for financial assistance under parts A through E (other than under subpart 4 of part A) shall submit to the Secretary at such time and in such manner as required by the Secretary, any information that is needed to determine the student’s need and eligibility for such financial assistance or to administer the programs under this title, but that is not available from the Internal Revenue Service to the extent authorized by <external-xref legal-doc="usc" parsable-cite="usc/26/6103">section 6103(l)(23)</external-xref> of the Internal Revenue Code of 1986, including information with respect to the student’s—</text>
+ <subparagraph id="H8A26E68D29324D6A9DC5E2DF9CEC0CD9"><enum>(A)</enum><text>citizenship or permanent residency status;</text> </subparagraph><subparagraph id="H6EE8592080B64472BE6F1D3BFF0BF6C9"><enum>(B)</enum><text>dependency status;</text>
+ </subparagraph><subparagraph id="HA0F2318AA1EC433487BB4C167783529D"><enum>(C)</enum><text>registration for selective service;</text> </subparagraph><subparagraph id="H2939C1BCC4464F369A036698C2CCC415"><enum>(D)</enum><text>State and length of legal residence;</text>
+ </subparagraph><subparagraph id="HDBC9DBECD53D4EA68761F7AF531DB72D"><enum>(E)</enum><text>family members, including the total number and the number in postsecondary education;</text> </subparagraph><subparagraph id="H66521E50EEE442E38F93F8AAE81EE7AC"><enum>(F)</enum><text>secondary school completion status;</text>
+ </subparagraph><subparagraph id="H90ABE5AE3F9947E8AD797CF01C26D30A"><enum>(G)</enum><text>completion of a first bachelor’s degree;</text> </subparagraph><subparagraph id="HA4DC6DCEFC8C420E914E72148E3F9FD5"><enum>(H)</enum><text>email address; and</text>
+ </subparagraph><subparagraph id="H6C423D7F5D5143B998E9C7D349FB54AD"><enum>(I)</enum><text>institution or institutions of higher education in which the student is enrolled or to which the student is applying for admission.</text>
+							</subparagraph></paragraph><paragraph id="H0908415E5E654AAF9AB9CDDA895B84E7"><enum>(4)</enum><header>Regulations</header>
+ <subparagraph id="HD75830164A2B460CA3F5A460FF00B38B"><enum>(A)</enum><header>In general</header><text>The Secretary shall prescribe such regulations as may be necessary to carry out this subsection.</text> </subparagraph><subparagraph id="HB0E7AFEB36694E629AB0C010A8441725"><enum>(B)</enum><header>Inapplicability of rulemaking requirements</header><text>Sections 482(c) and 492 shall not apply to the regulations required by this paragraph.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></section><section id="H9F83576F54BA44BEBC357A45F95CC4C2"><enum>3.</enum><header>Amendments to Internal Revenue Code of 1986</header><text display-inline="no-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/6103">Section 6103(l)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+			<quoted-block display-inline="no-display-inline" id="H37570AAF1A83475E8C3FCAB272E27FF2" style="OLC">
+				<paragraph commented="no" id="H3280F43EF3C3414B9EBF8B4BC1D0AE52"><enum>(23)</enum><header>Disclosure of return information to determine need and eligibility of student for Federal student
+			 financial aid</header>
+ <subparagraph commented="no" id="HA492A291F39F4375BBB7E72AA68AD734"><enum>(A)</enum><header>In general</header><text>The Secretary may, upon written request from the Secretary of Education, disclose to officers and employees of the Department of Education return information with respect to a taxpayer or a dependent of a taxpayer who may be eligible for Federal student financial aid and whose need and eligibility for such aid is based in whole or in part on the taxpayer’s income or the income of the parents of the dependent. Such return information shall be limited to—</text>
+ <clause commented="no" id="HC5BFA1479C5744AAAC676C7E69FC7B99"><enum>(i)</enum><text>taxpayer identity information with respect to such taxpayer;</text> </clause><clause commented="no" id="HA54C04DCC05E4069B62E2FF1631EA073"><enum>(ii)</enum><text>the filing status of such taxpayer;</text>
+ </clause><clause commented="no" id="H4035C25E23E84B9C806D3E4F3D3B2E22"><enum>(iii)</enum><text>the adjusted gross income of such taxpayer; and</text> </clause><clause commented="no" id="H9FEABBA1C3C14FB3805DA2371AC26874"><enum>(iv)</enum><text>any other data of such taxpayer necessary to determine the expected family contribution (within the meaning of part F of title IV of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1087kk">20 U.S.C. 1087kk et seq.</external-xref>)) of such taxpayer or the dependent of such taxpayer, as applicable.</text>
+ </clause></subparagraph><subparagraph commented="no" id="H4C2D9D027ED24EC09261C4D2F937C486"><enum>(B)</enum><header>Restriction on use of disclosed information</header><text display-inline="yes-display-inline">Return information disclosed under <internal-xref idref="HA492A291F39F4375BBB7E72AA68AD734" legis-path="(23)(A)">subparagraph (A)</internal-xref> may be used by officers and employees of the Department of Education only for the purposes of, and to the extent necessary in, processing the student loan application, and establishing need and eligibility for Federal student financial aid, of a taxpayer or a dependent of a taxpayer.</text>
+ </subparagraph><subparagraph commented="no" id="H8888863C0A1C455E9C47F68795887EF7"><enum>(C)</enum><header>Federal student loans and grants</header><text display-inline="yes-display-inline">For purposes of this paragraph, the term <term>Federal student financial aid</term> means financial assistance under parts A through E (other than under subpart 4 of part A) of title IV of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1070">20 U.S.C. 1070 et seq.</external-xref>).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

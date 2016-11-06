@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H83BF82EF069E47A39D5A59CCD998E6EE" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3748 IH: Carbon Pollution Transparency Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3748</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151009">October 9, 2015</action-date>
+			<action-desc><sponsor name-id="H001068">Mr. Huffman</sponsor> (for himself, <cosponsor name-id="P000607">Mr. Pocan</cosponsor>, <cosponsor name-id="M001163">Ms. Matsui</cosponsor>, and <cosponsor name-id="L000579">Mr. Lowenthal</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HRU00">Committee on Rules</committee-name>, and in addition to the <committee-name committee-id="HBU00">Committee on the Budget</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require the Director of the Congressional Budget Office to calculate a carbon score for each
+			 bill or resolution.</official-title>
+	</form>
+	<legis-body id="H4CB2F80D1A594A1998C0B503B68A1BFE" style="OLC">
+ <section id="H31C5CE64C96347988226C9D126BFE546" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Carbon Pollution Transparency Act of 2015</short-title></quote>.</text> </section><section id="H8502E2CC610C44BDA2922809FA737BB7"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text>
+ <paragraph id="HECACE7C493DC4B2B919243F7E713B7D9"><enum>(1)</enum><header>Carbon score</header><text>The term <term>carbon score</term> means the projected net greenhouse gas emissions that would result—</text> <subparagraph id="HF742E0F5B0414E988F1E0D066689B9A4"><enum>(A)</enum><text>from the enactment and implementation of a bill or resolution; and</text>
+ </subparagraph><subparagraph id="HB6740AAA885544F3BE858AC9F23B5A67"><enum>(B)</enum><text>if the amounts authorized to be appropriated, or otherwise made available, in the bill or resolution were fully appropriated.</text>
+ </subparagraph></paragraph><paragraph id="H00CF2A7603F6448F85CD385D18DB2F9D"><enum>(2)</enum><header>Director</header><text>The term <term>Director</term> means the Director of the Congressional Budget Office.</text> </paragraph><paragraph id="HF6F7D972D2D04E49A36647ADB8323024"><enum>(3)</enum><header>Greenhouse gas</header><text>The term <term>greenhouse gas</term> has the meaning given the term in section 211(o)(1) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7545">42 U.S.C. 7545(o)(1)</external-xref>).</text>
+ </paragraph><paragraph id="HAFEF1E752E5E4C8B8B17A8502BA88FFE"><enum>(4)</enum><header>Net greenhouse gas emissions</header><text>The term <term>net greenhouse gas emissions</term> means the net quantity of all greenhouse gases emitted into the atmosphere, including emissions by sources and removals by sinks, where the total quantity of emissions for each gas is expressed as a carbon dioxide equivalent.</text>
+			</paragraph></section><section id="HA406C6804BC84F17889E3DC4FA74662B"><enum>3.</enum><header>Carbon score</header>
+ <subsection id="HD5B80489CA9C49F9A590BDBBDB118257"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">In carrying out section 402 of the Congressional Budget Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/2/653">2 U.S.C. 653</external-xref>), the Director shall include in the analysis submitted to the appropriate committee of Congress the carbon score of each public bill or resolution.</text>
+ </subsection><subsection id="HE586ED97C77E42E19EA209CE981C1B05"><enum>(b)</enum><header>Net greenhouse gas emissions baseline</header><text>In calculating the carbon score under subsection (a), the Director shall base any calculation of the increase or decrease of the level of greenhouse gas emissions on a comparison with the level of greenhouse gas emissions occurring under current law.</text>
+ </subsection><subsection id="H5423B6E4AFD64F0F93F27D9504823C90"><enum>(c)</enum><header>Scope of calculated emissions</header><text>In calculating the carbon score under subsection (a), the Director shall consider all likely changes in net greenhouse gas emissions, including—</text>
+ <paragraph id="HB0DD7EB0F2E6466EAFC3EC6891BFDFA7"><enum>(1)</enum><text>any changes to net greenhouse gas emissions that would directly result from activities required to carry out the bill or resolution; and</text>
+ </paragraph><paragraph id="HD69EBC973B5645E68A2CB1C4AB442D8D"><enum>(2)</enum><text>any changes to net greenhouse gas emissions that would—</text> <subparagraph id="H48FDF318FECC408894F773D94968B793"><enum>(A)</enum><text>indirectly result from activities required to carry out the bill or resolution; and</text>
+ </subparagraph><subparagraph id="HA2B39E2ADCF443C5AC31E1A0BFFA7D2A"><enum>(B)</enum><text>not otherwise have occurred.</text> </subparagraph></paragraph></subsection><subsection id="H9CA109FD8A05407190C8D6842C543DFD"><enum>(d)</enum><header>Established best practices</header><text>In calculating the carbon score under subsection (a), the Director shall, to the maximum extent practicable, use established best practices for estimating emissions, such as—</text>
+ <paragraph id="H26319F5B6CD049B0B38626230CA327EF"><enum>(1)</enum><text>lifecycle analysis; and</text> </paragraph><paragraph id="HC51F351515FE4953A379061F9C53413A"><enum>(2)</enum><text>internationally recognized methodologies (such as guidelines from the International Panel on Climate Change).</text>
+ </paragraph></subsection><subsection id="HA20D7DAE62C54FE19BA855283602B7D4"><enum>(e)</enum><header>Timeline</header><text>The Director shall calculate the carbon score under subsection (a) on the same timeline as the Director carries out the analysis under section 402 of the Congressional Budget Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/2/653">2 U.S.C. 653</external-xref>).</text>
+ </subsection></section><section id="HA1EDED2F05B94F99A6C1EF5973C2DD1D"><enum>4.</enum><header>Authorization of appropriations</header><text display-inline="no-display-inline">There are authorized to be appropriated to the Director such sums as are necessary to develop the expertise and capacity required to carry out the analyses required under section 3.</text>
+		</section></legis-body>
+</bill>
+
+

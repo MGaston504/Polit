@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HBB832A363F1D4DF4B07DCCE3105E8154" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4057 IH: Interstate Swatting Hoax Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 4057</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20151118">November 18, 2015</action-date> 
+<action-desc><sponsor name-id="C001101">Ms. Clark of Massachusetts</sponsor> (for herself and <cosponsor name-id="M001181">Mr. Meehan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend title 18, United States Code, to establish a criminal violation for using false communications with the intent to create an emergency response, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H1C68D48EE3124044A023ABEE428C180B" style="OLC"> 
+<section id="HAD50D3AE0DDD491CA1F8EC716A2E6750" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Interstate Swatting Hoax Act</short-title></quote>. </text></section> <section id="HDC653ABD39D9461EAD78B3F7BFEA044F"><enum>2.</enum><header>False communications with the intent to cause an emergency response</header> <subsection id="HB5E765FAB8CC445786ECE719934E62F1"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/47">Chapter 47</external-xref> of title 18, United States Code, is amended by adding at the end the following new section:</text> 
+<quoted-block style="USC" id="HFA2775B36768422FBC3B620C4AFEBC91" display-inline="no-display-inline"> 
+<section id="H03E6688057D94EE6B16DC29D8F4C276B"><enum>1041.</enum><header>False communications with the intent to cause an emergency response.</header> 
+<subsection id="H302B032DE6404EFC96A309AF0C5091A8"><enum>(a)</enum><header>Criminal violation</header><text display-inline="yes-display-inline">Whoever, with the intent to cause an emergency response by any law enforcement agency, in the absence of circumstances requiring such a response, uses a telecommunications system, the mails, or any other facility of interstate or foreign commerce to knowingly transmit false or misleading information indicating that conduct has taken, is taking, or will take place that may reasonably be believed to constitute a violation of any State or Federal criminal law, or endanger public health or safety, shall— </text> <paragraph id="H46E4E4B594EE4267A02BF2AD42943483"><enum>(1)</enum><text>if an emergency response results, be fined under this title or imprisoned not more than 5 years, or both;</text></paragraph> 
+<paragraph id="HD22B7DA3E03D4FA780EFFA715251ABA6"><enum>(2)</enum><text>if serious bodily injury (as defined in section 1365) results, be fined under this title or imprisoned not more than 20 years, or both; </text></paragraph> <paragraph id="H710EDF3329ED451CAAC8078FE1723241"><enum>(3)</enum><text>if death results, be fined under this title or imprisoned for any number of years or for life, or both; and</text></paragraph> 
+<paragraph id="H3D5A27BE29B54CBAA56CB15FD56F3AF9" commented="no"><enum>(4)</enum><text>in any other case, be fined under this title or imprisoned not more than 1 year, or both. </text></paragraph></subsection> <subsection id="H2AFFAA79CB394133B6A09F92A0EAC5B2"><enum>(b)</enum><header>Civil action</header><text display-inline="yes-display-inline">Whoever, with the intent to cause an emergency response by any law enforcement agency, in the absence of circumstances requiring such a response, uses a telecommunications system, the mails, or any other facility of interstate or foreign commerce to knowingly transmit false or misleading information indicating that conduct has taken, is taking, or will take place that may reasonably be believed to constitute a violation of any State or Federal criminal law, or endanger public health or safety, is liable in a civil action to any party incurring expenses incident to any emergency response to that conduct, for those expenses.</text></subsection> 
+<subsection id="HADBF6736AC5B483082C8D9E4A825208A"><enum>(c)</enum><header>Reimbursement</header><text display-inline="yes-display-inline"></text> <paragraph id="H586D998A1C2A4BD380FF82C7B71FDAE1"><enum>(1)</enum><header>In general</header><text>The court, in imposing a sentence on a defendant convicted of an offense under subsection (a), shall order the defendant to reimburse any party for expenses for an emergency response necessitated by such offense.</text></paragraph> 
+<paragraph id="H4AB4969129F3433B903833D205BFF16A"><enum>(2)</enum><header>Liability</header><text>A person ordered to make reimbursement under this subsection shall be jointly and severally liable for such expenses with each other person, if any, who is ordered to make reimbursement under this subsection for the same expenses. </text></paragraph> <paragraph id="H30CC6471965C4FBE91B0544508F04BAA"><enum>(3)</enum><header>Civil judgment</header><text>An order of reimbursement under this subsection shall, for the purposes of enforcement, be treated as a civil judgment.</text></paragraph></subsection> 
+<subsection id="H8026ADBF4C0F4820B5317A7E5E22CFFF"><enum>(d)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="H108FA537EAB44BF4862C712631FE942A"><enum>(1)</enum><header>Emergency response</header><text display-inline="yes-display-inline">The term <quote>emergency response</quote> means any action taken by law enforcement personnel to immediately respond to an event that threatens or may reasonably be believed to threaten public health or safety.</text></paragraph> 
+<paragraph id="HF9239D925968408E958C5A89A32EAF8E"><enum>(2)</enum><header>Law enforcement agency</header><text display-inline="yes-display-inline">The term <quote>law enforcement agency</quote> means any public agency of the United States, a State, or a political subdivision of a State charged with policing functions.</text></paragraph> <paragraph id="HA731035A41B54B62BB4DC7F0AA3E7C36"><enum>(3)</enum><header>State</header><text>The term <quote>State</quote> means each of the several States, the District of Columbia, each commonwealth, territory, or possession of the United States, and each federally recognized Indian tribe.</text></paragraph> 
+<paragraph id="HDBD027814DB242CCA444336CEAC66197"><enum>(4)</enum><header>Telecommunications system</header><text display-inline="yes-display-inline">The term <quote>telecommunications system</quote> means any interactive computer service or electronic communication service or electronic communication system of interstate commerce. </text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HB9EEB5B91E6A4EC3AD430F50130C7B1B"><enum>(b)</enum><header>Technical amendment</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/47">chapter 47</external-xref> of title 18, United States Code, is amended by adding at the end the following new item:</text> 
+<quoted-block style="USC" id="HF4A6DC45F66C4F32A77ED8CD697F2DE7" display-inline="no-display-inline"> 
+<toc regeneration="no-regeneration"> 
+<toc-entry level="section">1041. False communications with the intent to cause an emergency response.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection> </section> 
+</legis-body> 
+</bill> 
+
+

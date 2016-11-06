@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S490 IS: Federal Land Freedom Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-02-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 490</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150212">February 12, 2015</action-date><action-desc><sponsor name-id="S236">Mr. Inhofe</sponsor> (for himself, <cosponsor name-id="S372">Mrs. Capito</cosponsor>, <cosponsor name-id="S266">Mr. Crapo</cosponsor>, <cosponsor name-id="S355">Mr. Cruz</cosponsor>, <cosponsor name-id="S378">Mr. Lankford</cosponsor>, <cosponsor name-id="S346">Mr. Lee</cosponsor>, <cosponsor name-id="S261">Mr. Sessions</cosponsor>, <cosponsor name-id="S299">Mr. Vitter</cosponsor>, and <cosponsor name-id="S374">Mr. Cotton</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To achieve domestic energy independence by empowering States to control the development and
+			 production of all forms of energy on all available Federal land.</official-title></form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+ title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Federal Land Freedom Act of 2015</short-title></quote>.</text>
+ </section><section id="id4F72C00FD83040E2BF849CE3DEB09036"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds that—</text> <paragraph id="idB0F4E2D3B2D342F38095728D00623AA5"><enum>(1)</enum><text display-inline="yes-display-inline">as of the date of enactment of this Act—</text>
+ <subparagraph id="idE29E190186E94E5585FF2E1CC9B7957A"><enum>(A)</enum><text display-inline="yes-display-inline">113,000,000 acres of onshore Federal land are open and accessible for oil and natural gas development; and</text>
+ </subparagraph><subparagraph id="id1991FF21ABB54A7DA18735A6B3D111E1"><enum>(B)</enum><text>approximately 166,000,000 acres of onshore Federal land are off-limits or inaccessible for oil and natural gas development;</text>
+ </subparagraph></paragraph><paragraph id="idB35FDE69A2B148CDBF85EEB4E346422A"><enum>(2)</enum><text>despite the recent oil and natural gas boom in the United States, the number of acres of Federal land leased for oil and natural gas exploration has decreased by 24 percent since 2008;</text>
+ </paragraph><paragraph id="id29A2A5F78CD34AEEBA949AFE33E9D9A1"><enum>(3)</enum><text>in 2013, the Federal Government leased only 36,000,000 acres of Federal land, in contrast to the 131,000,000 acres that were leased in 1984;</text>
+ </paragraph><paragraph id="idD3C4202D16674A3BA5A9615EF45224CD"><enum>(4)</enum><text>the reduction in leasing of Federal land harms economic growth and Federal revenues;</text> </paragraph><paragraph id="id041DAB094175459B84203303A28782CE"><enum>(5)</enum><text>in 2013, it took 197 days to process applications for permits to drill on Federal land; and</text>
+ </paragraph><paragraph id="id091F56C5AFF0453CAB98E436F51759C7"><enum>(6)</enum><text>the States have extensive and sufficient regulatory frameworks for permitting oil and natural gas development.</text>
+ </paragraph></section><section id="id33D7386B527D4AB5BB1481DE73FC2653"><enum>3.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text>
+			<paragraph id="id868cde7f5af84974af7fc7f5b7fafa9b"><enum>(1)</enum><header>Available
+ federal land</header><text>The term <term>available Federal land</term> means any Federal land that, as of May 31, 2013—</text>
+ <subparagraph id="idbdb54fbc9f774dad9df12f2d67bed775"><enum>(A)</enum><text>is located within the boundaries of a State;</text>
+ </subparagraph><subparagraph id="id6cfae590499d47d9b5ca31835dfdfe47"><enum>(B)</enum><text>is not held by the United States in trust for the benefit of a federally recognized Indian tribe;</text>
+ </subparagraph><subparagraph id="id4be1381884ff42a190d8ccb34d6632f5"><enum>(C)</enum><text>is not a unit of the National Park System;</text>
+ </subparagraph><subparagraph id="idD7E41B7BF2614CBFA697E30DD073E411"><enum>(D)</enum><text>is not a unit of the National Wildlife Refuge System; and</text>
+ </subparagraph><subparagraph id="id8cf14311206f4176ad885d907474d567"><enum>(E)</enum><text>is not a congressionally designated wilderness area.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="id2e6e59dc79bd487e8e784a85c7211bc2"><enum>(2)</enum><header>State</header><text>The term <term>State</term> means—</text>
+ <subparagraph commented="no" id="id3e7777215c0349e1b16bf2584392d414"><enum>(A)</enum><text>a State; and</text>
+ </subparagraph><subparagraph commented="no" id="iddf5fe0e896f14c048b782e557ac140a7"><enum>(B)</enum><text>the District of Columbia.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="id19C2335866CA4AD683F5767F2F5C2EB8"><enum>(3)</enum><header>State leasing, permitting, and regulatory program</header><text>The term <term>State leasing, permitting, and regulatory program</term> means a program established pursuant to State law that regulates the exploration and development of oil, natural gas, and other forms of energy on land located in the State.</text>
+			</paragraph></section><section id="id0c7c95b3edd24454b22bca382bfb81af"><enum>4.</enum><header>State control of
+			 energy development and production on all available federal land</header>
+			<subsection id="id79e05346efc146a096be84a78e79c000"><enum>(a)</enum><header>State leasing, permitting, and regulatory
+ programs</header><text>Any State that has established a State leasing, permitting, and regulatory program may—</text> <paragraph id="id797B6E7AB7EB447FAC15B1429BAA6F3A"><enum>(1)</enum><text>submit to the Secretaries of the Interior, Agriculture, and Energy a declaration that a State leasing, permitting, and regulatory program has been established or amended; and</text>
+ </paragraph><paragraph id="ide22a8b86fe3e411ba2edc3fba28df712"><enum>(2)</enum><text>seek to transfer responsibility for leasing, permitting, and regulating oil, natural gas, and other forms of energy development from the Federal Government to the State.</text>
+ </paragraph></subsection><subsection id="idC52E91E7C20E4D4C8D8D098D0E654309"><enum>(b)</enum><header>State action authorized</header><text>Notwithstanding any other provision of law, on submission of a declaration under subsection (a)(1), the State submitting the declaration may lease, permit, and regulate the exploration and development of oil, natural gas, and other forms of energy on Federal land located in the State in lieu of the Federal Government.</text>
+ </subsection><subsection id="id03E2931A60D9430F91CD188C77A766A4"><enum>(c)</enum><header>Effect of State action</header><text>Any action by a State to lease, permit, or regulate the exploration and development of oil, natural gas, and other forms of energy pursuant to subsection (b) shall not be subject to, or considered a Federal action, Federal permit, or Federal license under—</text>
+ <paragraph id="idF9315149612541F5943BFB69D2BFEFEE"><enum>(1)</enum><text>subchapter II of chapter 5, and chapter 7, of title 5, United States Code (commonly known as the ‘‘Administrative Procedure Act’’);</text>
+ </paragraph><paragraph id="idD418E0A2B12A4FC4954039FDC6E4E3EA"><enum>(2)</enum><text>the National Historic Preservation Act (<external-xref legal-doc="usc" parsable-cite="usc/16/470">16 U.S.C. 470 et seq.</external-xref>);</text>
+ </paragraph><paragraph id="id2A23ABA18C744E80A431AF4DAEB2DE9D"><enum>(3)</enum><text>the Endangered Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1531">16 U.S.C. 1531 et seq.</external-xref>); or</text>
+ </paragraph><paragraph id="id534951EABDF54FCD9D1A33E409677A6F"><enum>(4)</enum><text>the National Environmental Policy Act of 1969 (<external-xref legal-doc="usc" parsable-cite="usc/42/4321">42 U.S.C. 4321 et seq.</external-xref>).</text>
+				</paragraph></subsection></section><section id="idCF1059501F5D44349BA3CAD290255E49"><enum>5.</enum><header>No effect on Federal revenues</header>
+ <subsection id="idE1809284AF5946FCBD4F2D3BA9222CCE"><enum>(a)</enum><header>In general</header><text>Any lease or permit issued by a State pursuant to section 4 shall include provisions for the collection of royalties or other revenues in an amount equal to the amount of royalties or revenues that would have been collected if the lease or permit had been issued by the Federal Government.</text>
+ </subsection><subsection id="id961795768d52478fb32c5f1cb5d7b099"><enum>(b)</enum><header>Disposition of revenues</header><text>Any revenues collected by a State from leasing or permitting on Federal land pursuant to section 4 shall be deposited in the same Federal account in which the revenues would have been deposited if the lease or permit had been issued by the Federal Government.</text>
+ </subsection><subsection id="id3e634970a6864dce8cf7251f9c04d311"><enum>(c)</enum><header>Effect on State processing fees</header><text>Nothing in this Act prohibits a State from collecting and retaining a fee from an applicant to cover the administrative costs of processing an application for a lease or permit.</text></subsection></section></legis-body></bill>
+
+

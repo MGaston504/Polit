@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Referred-in-Senate" bill-type="olc" dms-id="H9B391B85FD814F9A8A53B09843FE9E9E" public-private="public" stage-count="1">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 623 : Social Media Working Group Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IIB</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 623</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action><action-date date="20150203">February 3, 2015</action-date><action-desc>Received; read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc></action><legis-type>AN ACT</legis-type>
+		<official-title display="yes">To amend the Homeland Security Act of 2002 to authorize the Department of Homeland Security to
+			 establish a social media working group, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HB9EB0DD0B684402190A8AE03FBE7884B" style="OLC">
+ <section id="H950866E85CC2470BBF3E3B8DD3587DD1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Social Media Working Group Act of 2015</short-title></quote>.</text> </section><section id="HEE6F863E8E43421484E26D98535499A9"><enum>2.</enum><header>Social media working group</header> <subsection id="H7B30823D60C94769B0591043A93BBC57"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Title III of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/181">6 U.S.C. 181 et seq.</external-xref>) is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HDCE94CF7841D4171A738EE1B26C1E35A" style="OLC">
+					<section id="HB06E04A104A141CFB65B13648CE5AA8D"><enum>318.</enum><header>Social media working group</header>
+ <subsection id="HEFB5B3B58B65414C8F7FE6BE1B40E02D"><enum>(a)</enum><header>Establishment</header><text display-inline="yes-display-inline">The Secretary shall establish within the Department a social media working group (in this section referred to as the <quote>Group</quote>).</text>
+ </subsection><subsection id="H847840F2B4054E3289E7DBC9856770F7"><enum>(b)</enum><header>Purpose</header><text display-inline="yes-display-inline">In order to enhance information sharing between the Department and appropriate stakeholders, the Group shall provide guidance and best practices to the emergency preparedness and response community on the use of social media technologies before, during, and after a terrorist attack or other emergency.</text>
+						</subsection><subsection id="HE2C523B54D2F4E9CB7EDDCF53A37792D"><enum>(c)</enum><header>Membership</header>
+ <paragraph id="H9FE0A3539CB940E4BF446B17FED211FC"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Under Secretary for Science and Technology shall serve as the permanent chairperson of the Group, and shall designate, on a rotating basis, a representative from a State or local government who is a member of the Group to serve as co-chairperson. The Under Secretary shall establish term limits for individuals appointed to the Group pursuant to paragraph (2). Membership of the Group shall be composed of a cross section of subject matter experts from Federal, State, local, tribal, and nongovernmental organization practitioners, including representatives from the following entities:</text>
+ <subparagraph id="H90641065DCC348A5815656DD527C2867"><enum>(A)</enum><text display-inline="yes-display-inline">The Office of Public Affairs of the Department.</text> </subparagraph><subparagraph id="H72036FC1A00D4574951CB586E19DEEB3"><enum>(B)</enum><text>The Office of the Chief Information Officer of the Department.</text>
+ </subparagraph><subparagraph id="HF0C8DA1A26454655A532C298DDAD94AA"><enum>(C)</enum><text>The Privacy Office of the Department.</text> </subparagraph><subparagraph id="H360EFC0FB7554495A527203B26E618B7"><enum>(D)</enum><text>The Federal Emergency Management Agency.</text>
+ </subparagraph><subparagraph id="H71E658CB9DFA483091C02264F70660AC"><enum>(E)</enum><text>The Office of Disability Integration and Coordination of the Federal Emergency Management Agency.</text> </subparagraph><subparagraph id="HF7907D6F661D4D7C9DE2EE6C95EF1446"><enum>(F)</enum><text>The American Red Cross.</text>
+ </subparagraph><subparagraph id="HDB3F9793432440A6B846EAFF03F7039A"><enum>(G)</enum><text>The Forest Service.</text> </subparagraph><subparagraph id="H081C9FBA8F204A978A4F008EE0F81647"><enum>(H)</enum><text>The Centers for Disease Control and Prevention.</text>
+ </subparagraph><subparagraph id="H6708A67CD5EF4F8998462AE1E1095BA1"><enum>(I)</enum><text>The United States Geological Survey.</text> </subparagraph><subparagraph id="HD5ABFFBC2C5C49599877AF21D0BB72D1"><enum>(J)</enum><text>The National Oceanic and Atmospheric Administration.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="HEDFD3E661DE64D8C88FEAF9093BFC29F"><enum>(2)</enum><header>Additional members</header><text display-inline="yes-display-inline">The Under Secretary for Science and Technology shall appoint, on a rotating basis, qualified individuals to the Group. The total number of such additional members shall—</text>
+ <subparagraph id="H4E82199AC7A24EB8B89C10D410D966BB"><enum>(A)</enum><text>be equal to or greater than the total number of regular members under paragraph (1); and</text> </subparagraph><subparagraph id="HB3D72F67F44D45D0B50BC824BC26A681"><enum>(B)</enum><text>include—</text>
+ <clause id="H3053D20B32AF451E98F4316C89E7DF31"><enum>(i)</enum><text>not fewer than three representatives from the private sector; and</text> </clause><clause id="H127DF87D1A744457A399C70D685BC4D3"><enum>(ii)</enum><text>representatives from—</text>
+ <subclause commented="no" id="HAB4A22B2ADC24475B1F9FB4DA5FE96CF"><enum>(I)</enum><text>State, local, and tribal entities, including from—</text> <item id="H43CF97A6E8744434B79FD368CE87CC7A"><enum>(aa)</enum><text>law enforcement;</text>
+ </item><item id="H51D5A3FF8EE7496BBED8D860C67B89D0"><enum>(bb)</enum><text>fire services;</text> </item><item id="H75F9563D54404F08863ABE416B990F3A"><enum>(cc)</enum><text>emergency management; and</text>
+ </item><item id="H48F761F7CCFA4EF9A8E9E7B5916FCD10"><enum>(dd)</enum><text>public health entities;</text> </item></subclause><subclause commented="no" id="HCB9C5950CA40408380206EF81D2B63D1"><enum>(II)</enum><text>universities and academia; and</text>
+ </subclause><subclause commented="no" id="H3B998334F6784776A5DD32036A171249"><enum>(III)</enum><text>nonprofit disaster relief organizations.</text> </subclause></clause></subparagraph></paragraph></subsection><subsection id="H77113CBAD6A94439846E409D91119146"><enum>(d)</enum><header>Consultation with non-Members</header><text display-inline="yes-display-inline">To the extent practicable, the Group shall work with existing bodies in the public and private sectors to carry out subsection (b).</text>
+						</subsection><subsection id="HD440FF3AC00E43C68C602DE4CCCF8DAF"><enum>(e)</enum><header>Meetings</header>
+ <paragraph id="H91B302AEE10447E7A02EF699FB364D3A"><enum>(1)</enum><header>Initial meeting</header><text display-inline="yes-display-inline">Not later than 90 days after the date of the enactment of this section, the Group shall hold its initial meeting. Such initial meeting may be held virtually.</text>
+ </paragraph><paragraph id="HC97AB5E6C39E49CAB7F80C9E9F6B6DF3"><enum>(2)</enum><header>Subsequent meetings</header><text>After the initial meeting under paragraph (1), the Group shall meet at least twice each year, or at the call of the Chairperson. Such subsequent meetings may be held virtually.</text>
+ </paragraph></subsection><subsection id="H0DFACE9816B8472187FDF437D9A823AE"><enum>(f)</enum><header>Nonapplicability of FACA</header><text>The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Group.</text> </subsection><subsection id="HB4CAC8694DFA4B229CDA8EC7850C049E"><enum>(g)</enum><header>Reports</header><text>Not later than March 30 of each year, the Group shall submit to the appropriate congressional committees a report that includes the following:</text>
+ <paragraph id="HE587AF4B7374458589A4039B432AFA24"><enum>(1)</enum><text>A review of current and emerging social media technologies being used to support preparedness and response activities related to terrorist attacks and other emergencies.</text>
+ </paragraph><paragraph id="H8812F938FFAA4D52AE5F2D230016A962"><enum>(2)</enum><text>A review of best practices and lessons learned on the use of social media during the response to terrorist attacks and other emergencies that occurred during the period covered by the report at issue.</text>
+ </paragraph><paragraph id="HC2A7699FC1EC4097ADA43AA32EDC52F9"><enum>(3)</enum><text>Recommendations to improve the Department’s use of social media for emergency management purposes.</text> </paragraph><paragraph id="H717CAF29BA694EBFA847E2948C8531D9"><enum>(4)</enum><text display-inline="yes-display-inline">Recommendations to improve public awareness of the type of information disseminated through social media, and how to access such information, during a terrorist attack or other emergency.</text>
+ </paragraph><paragraph id="H47752CD2AE0E4C08806DB7648AACD66C"><enum>(5)</enum><text>Recommendations to improve information sharing among the Department and its components.</text> </paragraph><paragraph id="H0DB5A683EEC348158C64F5C289A34944"><enum>(6)</enum><text>Recommendations to improve information sharing among State and local governments.</text>
+ </paragraph><paragraph id="HD94BC4350B13447E95A9C4558868783F"><enum>(7)</enum><text>A review of available training for Federal, State, local, and tribal officials on the use of social media in response to a terrorist attack or other emergency.</text>
+ </paragraph><paragraph id="HD4298638A56F4231A9BE89DC39C88525"><enum>(8)</enum><text>A summary of coordination efforts with the private sector to discuss and resolve legal, operational, technical, privacy, and security concerns.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H7350E6AB8910443FB30635901A034D19"><enum>(b)</enum><header>Clerical amendment</header><text>The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 317 the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H877F84929F774908BC43D40F2DD51098" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">Sec. 318. Social media working group.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+	<attestation><attestation-group><attestation-date chamber="House" date="20150202">Passed the House of Representatives February 2, 2015.</attestation-date><attestor display="yes">Karen L. Haas,</attestor><role>Clerk</role></attestation-group></attestation>
+</bill>
+
+

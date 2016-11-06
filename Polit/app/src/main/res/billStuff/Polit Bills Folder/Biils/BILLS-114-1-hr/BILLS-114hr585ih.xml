@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HBD3A96BEF4024488B0A67DDDC50D8797" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 585 IH: To amend the Endangered Species Act of 1973 to establish a procedure for approval of certain settlements.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 585</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150128">January 28, 2015</action-date>
+			<action-desc><sponsor name-id="F000461">Mr. Flores</sponsor> (for himself, <cosponsor name-id="C001051">Mr. Carter of Texas</cosponsor>, <cosponsor name-id="C001062">Mr. Conaway</cosponsor>, <cosponsor name-id="G000565">Mr. Gosar</cosponsor>, <cosponsor name-id="O000168">Mr. Olson</cosponsor>, <cosponsor name-id="P000588">Mr. Pearce</cosponsor>, and <cosponsor name-id="T000238">Mr. Thornberry</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name>, and in addition to the Committee on the <committee-name committee-id="HJU00">Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Endangered Species Act of 1973 to establish a procedure for approval of certain
+			 settlements.</official-title>
+	</form>
+	<legis-body id="H687AAAF2AE7C42CEA7D71377B4645CA5" style="OLC">
+ <section id="HFA86073D9EC343FD8078C8A825341964" section-type="section-one"><enum>1.</enum><header>Definitions</header><text display-inline="no-display-inline">Section 3 of the Endangered Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1532">16 U.S.C. 1532</external-xref>) is amended—</text> <paragraph id="HDBE7CAC98678486BBDC7CBEA49B4242A"><enum>(1)</enum><text>by redesignating—</text>
+ <subparagraph id="HAACA90BAFFF64C68A929B1D7EBD4268C"><enum>(A)</enum><text>paragraphs (1) through (4) as paragraphs (2) through (5), respectively;</text> </subparagraph><subparagraph id="H8F8C66C0B4444A82A3C428AF4BB19986"><enum>(B)</enum><text>paragraphs (5) through (10) as paragraphs (7) through (12), respectively; and</text>
+ </subparagraph><subparagraph id="H632E3D4011394C7C93F1F23F02DAF855"><enum>(C)</enum><text>paragraphs (12) through (21) as paragraphs (13) through (22), respectively;</text> </subparagraph></paragraph><paragraph id="HF9ADC87005A0461DA3A410CE1DE18994"><enum>(2)</enum><text>by adding before paragraph (2) (as so redesignated) the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H3F5F6E6B98094B999D5BCE113A41FB7E" style="OLC">
+ <paragraph id="HFAEFB467BAC1402A96E1A4C2DCF5B47E"><enum>(1)</enum><header>Affected parties</header><text>The term <term>affected party</term> means any person, including a business entity, or any State, tribal government, or local subdivision the rights of which may be affected by a determination made under section 4(a) in a suit brought under section 11(g)(1)(C).</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="HA84F2320A18C469CB07663B93D7B312A"><enum>(3)</enum><text>by adding after paragraph (5) (as so redesignated) the following:</text> <quoted-block display-inline="no-display-inline" id="HFB11AEF750D748D094D92E9D5C4C850C" style="OLC"> <paragraph id="HF0F8AFC7FC3F49EF94998FA8287D2E75"><enum>(6)</enum><header>Covered settlement</header><text>The term <term>covered settlement</term> means a consent decree or a settlement agreement in an action brought under section 11(g)(1)(C).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></section><section id="HEB2A6CD933264F329D2785B1EB4CA21D"><enum>2.</enum><header>Intervention; approval of covered settlement</header><text display-inline="no-display-inline">Section 11(g) of the Endangered Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1540">16 U.S.C. 1540</external-xref>) is amended—</text> <paragraph id="H0D4BE61309AC406D8625849015F0AC73"><enum>(1)</enum><text display-inline="yes-display-inline">in paragraph (3), by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HBEDDA151EE58430499BB2F164C8F9C44" style="OLC">
+					<subparagraph id="H155AD07548F2409C81E4737BB21658C8"><enum>(C)</enum><header>Publishing complaint; intervention</header>
+						<clause id="H348EE36E3F3C446E8CCA6DDDF49BF2E2"><enum>(i)</enum><header>Publishing complaint</header>
+ <subclause id="H9CC90A7158794B7393A0A94785E89922"><enum>(I)</enum><header>In general</header><text>Not later than 30 days after the date on which the plaintiff serves the defendant with the complaint in an action brought under paragraph (1)(C) in accordance with Rule 4 of the Federal Rules of Civil Procedure, the Secretary of the Interior shall publish the complaint in a readily accessible manner, including electronically.</text>
+ </subclause><subclause id="H7AB77FC321504CF6B15D01D9F4975825"><enum>(II)</enum><header>Failure to meet deadline</header><text>The failure of the Secretary to meet the 30-day deadline described in subclause (I) shall not be the basis for an action under paragraph (1)(C).</text>
+							</subclause></clause><clause id="HA9760D941AAA4389A8F99471999F3A2E"><enum>(ii)</enum><header>Motion to intervene</header>
+ <subclause id="HFAFE6365611F4918A0FB4C4DA12C54E2"><enum>(I)</enum><header>In general</header><text>After the end of the 30-day period described in clause (i), each affected party shall be given a reasonable opportunity to move to intervene in the action described in clause (i), until the end of which a party may not file a motion for a consent decree or to dismiss the case pursuant to a settlement agreement.</text>
+ </subclause><subclause id="H8EC8B075CDAC4533B9D568C9B38CE433"><enum>(II)</enum><header>Rebuttable presumption</header><text>In considering a motion to intervene by any affected party, the court shall presume, subject to rebuttal, that the interests of that party would not be represented adequately by the parties to the action described in clause (i).</text>
+ </subclause></clause><clause id="HF9672F0A21924A72BA07E663C9FFF02F"><enum>(iii)</enum><header>Referral to alternative dispute resolution</header><text>If the court grants a motion to intervene in the action, the court shall refer the action to facilitate settlement discussions to—</text>
+ <subclause id="H31AC47D3D1AA4E7C90774C18C92D86EA"><enum>(I)</enum><text>the mediation program of the court; or</text> </subclause><subclause id="H5E9964DC7D0F439B8E557C378F7C4A36"><enum>(II)</enum><text>a magistrate judge.</text>
+ </subclause></clause><clause id="H43FB24713ACF48D997B0DAEA77FFCD5F"><enum>(iv)</enum><header>Parties included in settlement discussions</header><text>The settlement discussions described in clause (i) shall include each plaintiff, defendant agency, and intervenor.</text></clause></subparagraph><after-quoted-block>;</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H5A3B68583EBE431CA09CBAD42D665D61"><enum>(2)</enum><text>by striking paragraph (4) and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="H280DB87B0DAD4076802276193A241F95" style="OLC"> <paragraph id="H1D5EFEF6F9654EC79E6066BFC8D7E13D"><enum>(4)</enum><header>Litigation costs</header> <subparagraph id="H52C0E3A791D1441FA4D9C46C1E5FC3B6"><enum>(A)</enum><header>In general</header><text>Except as provided in subparagraph (B), the court, in issuing any final order in any suit brought under paragraph (1), may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such award is appropriate.</text>
+						</subparagraph><subparagraph id="H2D7CBF3FE8A94BA08889291ECAA665FE"><enum>(B)</enum><header>Covered settlement</header>
+ <clause id="HA2B124211FF24CBE92BE76C4666C412C"><enum>(i)</enum><header>Consent decrees</header><text>The court shall not award costs of litigation in any proposed covered settlement that is a consent decree.</text>
+							</clause><clause id="HD533B59776494567B02E423DD229A81E"><enum>(ii)</enum><header>Other covered settlements</header>
+ <subclause id="H5E8FE9BA1A514A0AB9C545FB43242868"><enum>(I)</enum><header>In general</header><text>For a proposed covered settlement other than a consent decree, the court shall ensure that the covered settlement does not include payment to any plaintiff for the costs of litigation.</text>
+ </subclause><subclause id="H6A3AEED2D1E34C24915BA3D6D70BE283"><enum>(II)</enum><header>Motions</header><text>The court shall not grant any motion, including a motion to dismiss, based on the proposed covered settlement described in subclause (I) if the covered settlement includes payment to any plaintiff for the costs of litigation.</text></subclause></clause></subparagraph></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="HDBC316B23B604CC7810F54A5FE86CFA6"><enum>(3)</enum><text display-inline="yes-display-inline">by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="HB189DBF91C9042BD90A0025EAD9A3F53" style="OLC"> <paragraph id="H945DFEAD93894A2E92282FFCB24C8AE4"><enum>(6)</enum><header>Approval of covered settlement</header> <subparagraph id="HE26AF2391FBE4B81836ED6E3BF5EC5D6"><enum>(A)</enum><header>Definition of species</header><text>In this paragraph, the term <term>species</term> means a species that is the subject of an action brought under paragraph (1)(C).</text>
+						</subparagraph><subparagraph id="H3A7C52D9569D4CE5B0C42771DD15A4BA"><enum>(B)</enum><header>In general</header>
+ <clause id="H1525C1E4A9EF496090A79D10C856BE09"><enum>(i)</enum><header>Consent decrees</header><text>The court shall not approve a proposed covered settlement that is a consent decree unless each State and county in which the Secretary of the Interior believes a species occurs approves the covered settlement.</text>
+							</clause><clause id="HF1D9F127DE144AB48B86231F76B4CA42"><enum>(ii)</enum><header>Other covered settlements</header>
+ <subclause id="H7626DC3B1B564414A20252A927B04F48"><enum>(I)</enum><header>In general</header><text>For a proposed covered settlement other than a consent decree, the court shall ensure that the covered settlement is approved by each State and county in which the Secretary of the Interior believes a species occurs.</text>
+ </subclause><subclause id="HDAF770FE38244397902F6B4B9116E417"><enum>(II)</enum><header>Motions</header><text>The court shall not grant any motion, including a motion to dismiss, based on the proposed covered settlement described in subclause (I) unless the covered settlement is approved by each State and county in which the Secretary of the Interior believes a species occurs.</text>
+								</subclause></clause></subparagraph><subparagraph id="HA9AB8D00BAC0413A8005EF2E97C5187A"><enum>(C)</enum><header>Notice</header>
+ <clause id="H708588F9901E478B85F3FEE79E532739"><enum>(i)</enum><header>In general</header><text>The Secretary of the Interior shall provide each State and county in which the Secretary of the Interior believes a species occurs notice of a proposed covered settlement.</text>
+ </clause><clause id="H52BF788C72CA44FFBF09925AF81031F1"><enum>(ii)</enum><header>Determination of relevant States and counties</header><text>The defendant in a covered settlement shall consult with each State described in clause (i) to determine each county in which the Secretary of the Interior believes a species occurs.</text>
+ </clause></subparagraph><subparagraph id="H6CE2D0C684034D839DFDFBBA38C1FC45"><enum>(D)</enum><header>Failure to respond</header><text>The court may approve a covered settlement or grant a motion described in subparagraph (B)(ii)(II) if, not later than 45 days after the date on which a State or county is notified under subparagraph (C)—</text>
+							<clause id="H1EC772AD91AB45FEA3B8C96075AD5904"><enum>(i)</enum>
+ <subclause commented="no" display-inline="yes-display-inline" id="H59EDE56216014A1C91EE43B98E13C252"><enum>(I)</enum><text>a State or county fails to respond; and</text> </subclause><subclause id="H262B5BEBB6414C939AD571263E0D7040" indent="up1"><enum>(II)</enum><text>of the States or counties that respond, each State or county approves the covered settlement; or</text>
+ </subclause></clause><clause id="HC8F3D0D668184074B174E8BB0C0F7E95"><enum>(ii)</enum><text>all of the States and counties fail to respond.</text> </clause></subparagraph><subparagraph id="H70B0E502FB404BD4BB2CABD8633FFAD6"><enum>(E)</enum><header>Proof of approval</header><text>The defendant in a covered settlement shall prove any State or county approval described in this paragraph in a form—</text>
+ <clause id="H9982ED883ECE4E0CB7CBDDCA2DB3BE20"><enum>(i)</enum><text>acceptable to the State or county, as applicable; and</text> </clause><clause id="HB1335AF7EF7343EC93B5EA9984A8E639"><enum>(ii)</enum><text>signed by the State or county official authorized to approve the covered settlement.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

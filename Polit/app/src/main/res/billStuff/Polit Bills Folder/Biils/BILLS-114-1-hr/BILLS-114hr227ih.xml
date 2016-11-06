@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H554EB4BC10BE430C9EDA031ADC25C9E4" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 227 IH: To prohibit the use of funds for certain immigration-related policies, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 227</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150108">January 8, 2015</action-date>
+			<action-desc><sponsor name-id="K000362">Mr. King of Iowa</sponsor> (for himself, <cosponsor name-id="B001289">Mr. Byrne</cosponsor>, <cosponsor name-id="D000615">Mr. Duncan of South Carolina</cosponsor>, <cosponsor name-id="M001177">Mr. McClintock</cosponsor>, <cosponsor name-id="G000565">Mr. Gosar</cosponsor>, <cosponsor name-id="P000601">Mr. Palazzo</cosponsor>, <cosponsor name-id="B001274">Mr. Brooks of Alabama</cosponsor>, <cosponsor name-id="R000575">Mr. Rogers of Alabama</cosponsor>, <cosponsor name-id="S000583">Mr. Smith of Texas</cosponsor>, <cosponsor name-id="B001269">Mr. Barletta</cosponsor>, and <cosponsor name-id="D000533">Mr. Duncan of Tennessee</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prohibit the use of funds for certain immigration-related policies, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H2EDE5C566ADD4A64B1A3444C9CA66BED" style="OLC">
+		<section id="H9F858260036246DA83BE183578DBD164" section-type="section-one"><enum>1.</enum><header>Prohibition on use of funds for certain immigration initiatives</header>
+ <subsection id="H24DA4106C3DB4EC78574882F1B5C5AEE"><enum>(a)</enum><header>Specified memoranda</header><text display-inline="yes-display-inline">In fiscal year 2015 and each fiscal year thereafter, none of the funds made available to, or funds or fees collected by, any Executive agency (as that term is defined in section 105 of title 5, United States Code) in any fiscal year may be used to implement, enforce, or otherwise carry out—</text>
+ <paragraph id="HED2CE1A8454F4E49BC91851510280E3D"><enum>(1)</enum><text>the immigration policy as authorized by Executive memorandum dated June 15, 2012, and effective on August 15, 2012 (or by any other succeeding memorandum or policy of the Executive branch authorizing a similar program);</text>
+ </paragraph><paragraph id="H65B747BC744742A1A289E14D42B23211"><enum>(2)</enum><text>the Memorandum of November 17, 2011, from the Principal Legal Advisor of United States Immigration and Customs Enforcement pertaining to <quote>Case-by-Case Review of Incoming and Certain Pending Cases</quote>;</text>
+ </paragraph><paragraph id="H2A732B5D21DE40BCA781C73018D0350C"><enum>(3)</enum><text>the Memorandum of December 21, 2012, from the Director of United States Immigration and Customs Enforcement pertaining to <quote>Civil Immigration Enforcement: Guidance on the Use of Detainers in the Federal, State, Local, and Tribal Criminal Justice Systems</quote>;</text>
+ </paragraph><paragraph id="H46DD0CCA2C9641ADA91A7F66BB2DE8EE"><enum>(4)</enum><text>Policy Number 10072.1, published on March 2, 2011;</text> </paragraph><paragraph id="H3494851BDA6849999CA66FF4EE1D7EBB"><enum>(5)</enum><text>Policy Number 10075.1, published on June 17, 2011;</text>
+ </paragraph><paragraph id="HE5E5C75D4D5D472B906B65ED9F2A17D9"><enum>(6)</enum><text>Policy Number 10076.1, published on June 17, 2011; or</text> </paragraph><paragraph id="H5CA8ADD157924D988DBE76454EFF6556"><enum>(7)</enum><text display-inline="yes-display-inline">the policies described in the following memoranda issued on November 20, 2014, by the Secretary:</text>
+ <subparagraph id="H1DB65EF651174B5E984DD155386D1783"><enum>(A)</enum><text display-inline="yes-display-inline">Policies for the Apprehension, Detention and Removal of Undocumented Immigrants.</text> </subparagraph><subparagraph id="HEF7B9C06F4394B6688F8136B9C5EB5A9"><enum>(B)</enum><text display-inline="yes-display-inline">Secure Communities.</text>
+ </subparagraph><subparagraph id="HA85D1881C6C34658BF2C248786C3550D"><enum>(C)</enum><text display-inline="yes-display-inline">Exercising Prosecutorial Discretion with Respect to Individuals Who Came to the United States as Children and with Respect to Certain Individuals Who Are the Parents of U.S. Citizens or Permanent Residents.</text>
+ </subparagraph><subparagraph id="H42382E59EEF94AAF8F6CBE003EB8016D"><enum>(D)</enum><text display-inline="yes-display-inline">Expansion of the Provisional Waiver Program.</text> </subparagraph><subparagraph id="H60D1944FE6F64F07AD23DC4E2A026A64"><enum>(E)</enum><text display-inline="yes-display-inline">Policies Supporting U.S. High-Skilled Businesses and Workers.</text>
+ </subparagraph><subparagraph id="H0EDB7C5D94314BDFAFDF48E86251B034"><enum>(F)</enum><text display-inline="yes-display-inline">Families of U.S. Armed Forces Members and Enlistees.</text> </subparagraph><subparagraph id="H676A8D070416451E8358047804FC9366"><enum>(G)</enum><text display-inline="yes-display-inline">Directive to Provide Consistency Regarding Advance Parole.</text>
+					</subparagraph></paragraph></subsection><subsection id="HB6BF51AE954F4CE295AC360F298235A1"><enum>(b)</enum><header>Generally</header>
+ <paragraph id="H59C5B5AFE39D42858D564192F4B0F3D6"><enum>(1)</enum><header>Prohibition on use of funds</header><text display-inline="yes-display-inline">In fiscal year 2015 and each fiscal year thereafter, none of the funds made available to, or funds or fees collected by, any Executive agency (as that term is defined in section 105 of title 5, United States Code) may be used to implement, administer, carry out, or enforce any Executive orders or rules, regulations, actions, directives, memoranda, or any other policy of the Executive branch that has the effect of providing for parole, employment authorization, deferred action, or any other immigration benefit or form of relief for individuals who are unlawfully present in the United States (as such term is used in the immigration laws), and any benefit or relief so provided shall be deemed not to have effect.</text>
+ </paragraph><paragraph id="H5C3E350AAA64414898100E896929DE6C"><enum>(2)</enum><header>Applicability</header><text display-inline="yes-display-inline">Paragraph (1) shall apply in the case of any Executive order, action, directive, memorandum, or other executive policy issued on March 1, 2011, or any date thereafter, except in the case of an alien who receives status under the immigration laws including asylum, temporary protected status, or cancellation of removal by an immigration judge.</text>
+ </paragraph><paragraph id="H8FA31FD72C904C1A8C1F265CB1923D5C"><enum>(3)</enum><header>Definition</header><text display-inline="yes-display-inline">The term <quote>immigration laws</quote> has the meaning given such term in section 101 of the Immigration and Nationality Act.</text> </paragraph></subsection><subsection id="H38289D863EE042ADB7949E085A673127"><enum>(c)</enum><header>Admission and lawful presence required for employment authorization</header><text display-inline="yes-display-inline">Section 274A(h)(3) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1324a">8 U.S.C. 1324a(h)(3)</external-xref>) is amended—</text>
+ <paragraph id="HAE5E79552C8D43CBA875884FDC917AC8"><enum>(1)</enum><text>by inserting before <quote>authorized to be so employed by this Act</quote> the following: <quote>an alien otherwise admitted to and lawfully present in the United States, and</quote>'; and</text> </paragraph><paragraph id="HADFD30CD529447AFBF4F11D5BB23A5A8"><enum>(2)</enum><text>by inserting at the end the following: <quote>An alien without lawful status shall be considered to be an unauthorized alien for purposes of this Act.</quote>'.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

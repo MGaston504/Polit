@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S927 IS: CLEAR Plus Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-04-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 927</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150414">April 14, 2015</action-date>
+			<action-desc><sponsor name-id="S347">Mr. Moran</sponsor> (for himself and <cosponsor name-id="S314">Mr. Tester</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide regulatory relief for certain financial institutions, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>CLEAR Plus Act of 2015</short-title></quote>.</text>
+		</section><section id="id1246DF2DCEAB4F6AB9198B1F254DB52C"><enum>2.</enum><header>Shareholder threshold treatment of savings and loan holding companies</header>
+ <subsection id="HD0A503DBA5DD492B92BBC72BDC06FAC6"><enum>(a)</enum><header>Amendments to section 12 of the Securities Exchange Act of 1934</header><text display-inline="yes-display-inline">Section 12(g) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78l">15 U.S.C. 78l(g)</external-xref>) is amended—</text> <paragraph id="HA9B50FCBFF794F26B2B2AA010E55930A"><enum>(1)</enum><text>in paragraph (1)(B), by striking <quote>or a bank holding company, as such term is defined in section 2 of the Bank Holding Company Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/12/1841">12 U.S.C. 1841</external-xref>)</quote> and inserting <quote>, a bank holding company, or a savings and loan holding company</quote>; and</text>
+ </paragraph><paragraph id="HCFAA482E5CEC4E4C92CC02078F70C17B"><enum>(2)</enum><text display-inline="yes-display-inline">in paragraph (4), by striking <quote>or a bank holding company, as such term is defined in section 2 of the Bank Holding Company Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/12/1841">12 U.S.C. 1841</external-xref>)</quote> and inserting <quote>, a bank holding company, or a savings and loan holding company</quote>.</text>
+ </paragraph></subsection><subsection id="HAB80CDE6C3164E0B8661D072EE6E5A9A"><enum>(b)</enum><header>Amendments to section 15 of the Securities Exchange Act of 1934</header><text>Section 15(d) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78o">15 U.S.C. 78o(d)</external-xref>) is amended, in the third sentence, by striking <quote>or a bank holding company, as such term is defined in section 2 of the Bank Holding Company Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/12/1841">12 U.S.C. 1841</external-xref>), 1,200 persons persons</quote> and inserting <quote>, a bank holding company, or a savings and loan holding company of less than 1,200 persons</quote>.</text>
+ </subsection><subsection id="H94A1E3D109BD4AEF9DFDE0E6EB10EC8F"><enum>(c)</enum><header>Definitions</header><text display-inline="yes-display-inline">Section 3(a) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c(a)</external-xref>) is amended—</text> <paragraph id="HAAABE3E2AD3E483C8AA5164500B12F53"><enum>(1)</enum><text>by redesignating the second paragraph (80) (relating to funding portals) as paragraph (81); and</text>
+ </paragraph><paragraph id="H969F653988D64846942CB3A2CFB23CF0"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H211F2FD702184149B7A13C7CB2A3D716" style="OLC"> <paragraph id="H0BD7333070C446849DE27740243D2D46"><enum>(82)</enum><header>Bank holding company</header><text display-inline="yes-display-inline">The term <quote>bank holding company</quote> has the meaning given such term under section 2 of the Bank Holding Company Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/12/1841">12 U.S.C. 1841</external-xref>).</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="H6310C46C6D124C5FB40EAB7675047682"><enum>(83)</enum><header>Savings and loan holding company</header><text display-inline="yes-display-inline">The term <quote>savings and loan holding company</quote> has the meaning given such term under section 10(a) of the Home Owners’ Loan Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1467a">12 U.S.C. 1467a(a)</external-xref>).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection></section><section id="id4DCB0E98AE664379BFF980E1D2195C13"><enum>3.</enum><header>Short form call reporting</header><text display-inline="no-display-inline">Section 7(a) of the Federal Deposit Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1817">12 U.S.C. 1817(a)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H73EF9277058A482B83711CF6F2127C30" style="OLC">
+				<paragraph id="H5FFF2DA045F9490BB9D88D9E75841D37"><enum>(12)</enum><header>Short form reporting</header>
+ <subparagraph id="HB909BDBABA23490C8E5F33FB32D5E880"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">The appropriate Federal banking agencies shall issue regulations allowing for a reduced reporting requirement for covered depository institutions when making the first and third report of condition for a year, as required pursuant to paragraph (3).</text>
+ </subparagraph><subparagraph id="H3490665B68264B09BAC82DAD90469C96"><enum>(B)</enum><header>Covered depository institution defined</header><text>For purposes of this paragraph, the term <quote>covered depository institution</quote> means an insured depository institution that—</text> <clause id="HE1D4323D902941D49294F5DE4D3B78FB"><enum>(i)</enum><text display-inline="yes-display-inline">has a CAMELS composite rating of 1 or 2 under the Uniform Financial Institutions Rating System (or an equivalent rating under a comparable rating system) as of the most recent examination of such institution; and</text>
+ </clause><clause id="H2B8AF86E000F4D79BA3480001F7C07BC"><enum>(ii)</enum><text>satisfies such other criteria as the appropriate Federal banking agencies determine appropriate.</text> </clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </section></legis-body> </bill> 
+

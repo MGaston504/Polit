@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2C8352918A0843F48F62601A5C9DAE6B" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4177 IH: Stop Foreign Donations Affecting Our Elections Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 4177</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20151203">December 3, 2015</action-date> 
+<action-desc><sponsor name-id="G000565">Mr. Gosar</sponsor> (for himself, <cosponsor name-id="B001290">Mr. Brat</cosponsor>, <cosponsor name-id="B001297">Mr. Buck</cosponsor>, <cosponsor name-id="D000615">Mr. Duncan of South Carolina</cosponsor>, <cosponsor name-id="D000533">Mr. Duncan of Tennessee</cosponsor>, <cosponsor name-id="F000448">Mr. Franks of Arizona</cosponsor>, <cosponsor name-id="G000552">Mr. Gohmert</cosponsor>, <cosponsor name-id="J000255">Mr. Jones</cosponsor>, <cosponsor name-id="K000368">Mrs. Kirkpatrick</cosponsor>, <cosponsor name-id="L000578">Mr. LaMalfa</cosponsor>, <cosponsor name-id="M001189">Mr. Messer</cosponsor>, <cosponsor name-id="P000588">Mr. Pearce</cosponsor>, <cosponsor name-id="P000599">Mr. Posey</cosponsor>, <cosponsor name-id="R000603">Mr. Rouzer</cosponsor>, <cosponsor name-id="S000018">Mr. Salmon</cosponsor>, <cosponsor name-id="S000250">Mr. Sessions</cosponsor>, <cosponsor name-id="S001188">Mr. Stutzman</cosponsor>, <cosponsor name-id="A000369">Mr. Amodei</cosponsor>, <cosponsor name-id="D000616">Mr. DesJarlais</cosponsor>, <cosponsor name-id="W000795">Mr. Wilson of South Carolina</cosponsor>, <cosponsor name-id="F000451">Mr. Fitzpatrick</cosponsor>, <cosponsor name-id="R000589">Mr. Rigell</cosponsor>, and <cosponsor name-id="B001291">Mr. Babin</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Federal Election Campaign Act of 1971 to prohibit the acceptance by political committees of online contributions from certain unverified sources, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HF8ABC9FD198C4C9BACA29A74AFC72942" style="OLC"> 
+<section id="H98C7E29F0BEE401EAC3410FC06990B77" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Foreign Donations Affecting Our Elections Act</short-title></quote>. </text> </section> <section id="HA7E5702760E14939B1A4125FE450E7F6" section-type="subsequent-section"><enum>2.</enum><header>Requiring disclosure of credit verification value as condition of acceptance of online contributions to Federal election</header> <subsection id="HDF42AE9CC25B44739A58C709D6D8346C"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 302 of the Federal Election Campaign Act of 1971 (<external-xref legal-doc="usc" parsable-cite="usc/52/30102">52 U.S.C. 30102</external-xref>) is amended by adding at the end the following: </text> 
+<quoted-block style="OLC" id="H47AACE9A599E4F84912A9CAE23577FC7" display-inline="no-display-inline"> 
+<subsection id="HECC4BDFE7FDE4FFFB696DA22C57CA20D"><enum>(j)</enum> 
+<paragraph id="H21E56ECB27F54D70BD1395693BEB2177" display-inline="yes-display-inline"><enum>(1)</enum><text>No political committee shall accept any Internet credit card contribution unless—</text> <subparagraph id="H49760873FD044756992718A840ACDFAF"><enum>(A)</enum><text>the individual or entity making such contribution is required, at the time such individual makes such contribution, to disclose the credit verification value of such credit card<italic></italic>; and</text></subparagraph> 
+<subparagraph id="HD3A1A95EECD8499A838339254BB228C7"><enum>(B)</enum> 
+<clause id="HB2C20AD4DFB8444DBC658FF72A41E8D9" display-inline="yes-display-inline"><enum>(i)</enum><text>the billing address associated with such credit card is located in the United States; or</text></clause> <clause id="H11D23071BA1F46308F4B76CE0CC6FB86" indent="up1"><enum>(ii)</enum><text>in the case of a contribution made by an individual who is a United States citizen living outside of the United States, the individual provides the committee with the United States mailing address the individual uses for voter registration purposes.</text> </clause></subparagraph></paragraph> 
+<paragraph id="H2878050B92A14584BE63363BC5310FBF" indent="up1"><enum>(2)</enum><text>Notwithstanding subsection (b) or (c), in the case of an Internet credit card contribution— </text> <subparagraph id="H6BCF3AC18DD345048F837A4054DFCDFC"><enum>(A)</enum><text display-inline="yes-display-inline"><italic></italic>no later than 10 days after receiving the contribution, the person who receives the contribution shall forward to the treasurer such contribution, the name and address of the person making the contribution, and the date of receipt; and</text></subparagraph> 
+<subparagraph id="H430E22881FF743A6BB1C7F0B58092F96"><enum>(B)</enum><text display-inline="yes-display-inline">the treasurer of a political committee shall keep an account of the name and address of any person making any such contribution, together with the date and amount of such contribution by any person.</text></subparagraph></paragraph> <paragraph id="H73E6112579584E6798C6F977024AC8DD" indent="up1"><enum>(3)</enum><text display-inline="yes-display-inline">In this subsection, the term <term>Internet credit card contribution</term> means a contribution that—</text> 
+<subparagraph id="HD4E51E14E33C430BBA947BCEFB40097A"><enum>(A)</enum><text>is made using a credit card; and</text></subparagraph> <subparagraph id="H58D3670742D04966BAACAEB0F254B81F"><enum>(B)</enum><text>is received through an Internet website.</text></subparagraph></paragraph> </subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="H5B4AAB865D5B46BB904D08FCE6B06661"><enum>(b)</enum><header>Effective Date</header><text>The amendment made by subsection (a) shall apply with respect to contributions made after the expiration of the 180-day period which begins on the date of the enactment of this Act.</text></subsection></section> </legis-body> </bill> 
+

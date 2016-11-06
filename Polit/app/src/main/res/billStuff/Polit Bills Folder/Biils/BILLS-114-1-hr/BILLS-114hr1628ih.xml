@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEFAF9570DF1F408DABCD912269988322" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1628 IH: Veterans Pain Management Improvement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1628</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150325">March 25, 2015</action-date>
+			<action-desc><sponsor name-id="K000188">Mr. Kind</sponsor> (for himself, <cosponsor name-id="Z000017">Mr. Zeldin</cosponsor>, and <cosponsor name-id="R000587">Mr. Ribble</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to establish in each Veterans Integrated Service Network a
+			 pain management board.</official-title>
+	</form>
+	<legis-body id="H2EDB9C29A7734697AF59EA6A3EFEADC7" style="OLC">
+ <section id="HABDAA4C0BCD24A51972FC3F766534996" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans Pain Management Improvement Act</short-title></quote>.</text> </section><section id="HD276606BC0E6440DB693B3535C717164" section-type="subsequent-section"><enum>2.</enum><header>Establishment of pain management boards of Department of Veterans Affairs</header> <subsection id="H63472896DB4C4D988AC636B680753A1B"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subchapter I of title 38, United States Code, is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HA906B4299DE047BF888F26486C182E59" style="USC">
+					<section id="H8AB48CCD92124256934C67533168C9D3"><enum>7309A.</enum><header>Pain management boards</header>
+ <subsection id="HDB62594A237A4FA69855A2ADB3054318"><enum>(a)</enum><header>Establishment</header><text display-inline="yes-display-inline">The Secretary shall establish in each Veterans Integrated Service Network a Pain Management Board (in this section referred to as a <quote>Board</quote>).</text>
+						</subsection><subsection id="H59200F4478F046A2A4A397B917E9F9EC"><enum>(b)</enum><header>Duties</header>
+							<paragraph commented="no" display-inline="yes-display-inline" id="HD865605BE2D94C47B2415235A1AA905E"><enum>(1)</enum>
+ <subparagraph commented="no" display-inline="yes-display-inline" id="H18FC4CCB86C446268280B8355C720551"><enum>(A)</enum><text>Each Board shall provide treatment recommendations for patients described in subparagraph (B) with complex clinical pain who are being treated at a medical facility of the Department located in the Veterans Integrated Service Network covered by the Board, regardless of whether such treatment is on an in-patient or out-patient basis.</text>
+ </subparagraph><subparagraph id="HFED6087594D74FAEA8D592602288DDE0" indent="up2"><enum>(B)</enum><text>A patient described in this subparagraph is a patient for whom a request for treatment recommendations under subparagraph (A) has been made by—</text>
+ <clause id="HC21F87FF1D1C419DB3EA4900E0E315BA"><enum>(i)</enum><text>the patient;</text> </clause><clause id="H4728F219D67A4EEBBE5309F7C66A2320"><enum>(ii)</enum><text display-inline="yes-display-inline">the spouse of the patient;</text>
+ </clause><clause id="H485E95769D6D40CD81905119ECF785FC"><enum>(iii)</enum><text>a family member of the patient or an individual if such family member or individual has been designated by the patient to make health care decisions for the patient or to receive health care information of the patient;</text>
+ </clause><clause id="H93EA1A37068B4E35993CAB2AD8FD152D"><enum>(iv)</enum><text>a physician of the patient; or</text> </clause><clause id="H216670EE3025483DB3E8B461AD24E170"><enum>(v)</enum><text>an employee of the medical facility of the Department described in such subparagraph.</text>
+ </clause></subparagraph></paragraph><paragraph display-inline="no-display-inline" id="H9F46DB714B39413686015FA1637C5306" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">Based on treatment recommendations developed by the Board under paragraph (1)(A), each Board shall provide to health care professionals of the Department located in the Veterans Integrated Service Network covered by the Board recommendations on the best practices regarding pain management in complex clinical pain cases.</text>
+							</paragraph><paragraph id="H7CC6B8E1306E40238A0413D19B67EDEC" indent="up1"><enum>(3)</enum>
+ <subparagraph commented="no" display-inline="yes-display-inline" id="H178EEFBB02A247D0B9D1D2A7D08594A4"><enum>(A)</enum><text display-inline="yes-display-inline">Each Board shall annually submit to the Secretary and the Under Secretary for Health a report on pain management practices carried out in the Veterans Integrated Service Network covered by the Board. Such report shall include, for the year covered by the report, the following:</text>
+ <clause id="H5C083B8C6C244B1087D3054483CEA69B" indent="up1"><enum>(i)</enum><text>The treatment recommendations provided under paragraph (1)(A), including—</text> <subclause display-inline="no-display-inline" id="HAC837FBF937F42F194592E3DD0DC2BAB"><enum>(I)</enum><text>a summary of such recommendations; and</text>
+ </subclause><subclause display-inline="no-display-inline" id="H8DDD054297AD4065A4419B8EF53C7D16"><enum>(II)</enum><text>an explanation of the merits of each such recommendation.</text> </subclause></clause><clause id="H67294906F1FA441D89EEBE210B66BBBB" indent="up1"><enum>(ii)</enum><text>The recommendations for best practices provided under paragraph (2), including—</text>
+ <subclause display-inline="no-display-inline" id="H1D432ADFAC2847D7973D48A7FFBAFAD0"><enum>(I)</enum><text>a summary of such recommendations; and</text> </subclause><subclause display-inline="no-display-inline" id="HCCEFC1AE4C554920AB69DB83E12CE11E"><enum>(II)</enum><text>an explanation of the merits of each such recommendation.</text>
+ </subclause></clause><clause display-inline="no-display-inline" id="H3BF2A5AD6B4C49FABD739F2654DE5170" indent="up1"><enum>(iii)</enum><text>Any other information the Board determines appropriate.</text> </clause></subparagraph><subparagraph id="H921F5CE4AEE64987B7E7A2E90DB51B24" indent="up1"><enum>(B)</enum><text>Not later than January 31 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report that contains each report submitted to the Secretary under subparagraph (A) during the previous year.</text>
+ </subparagraph></paragraph><paragraph id="HCACC78D3A7DD47B59ED1686F7713A410" indent="up1"><enum>(4)</enum><text display-inline="yes-display-inline">No Board shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).</text> </paragraph></subsection><subsection id="H345022F0FBA74FD0BBA991C2A3D6A0AA"><enum>(c)</enum><header>Membership</header> <paragraph commented="no" display-inline="yes-display-inline" id="HC6C6C0FB7F4B4AA883BFDB5AD39356F6"><enum>(1)</enum><text>Each Board shall consist of a number of members determined appropriate by the Secretary who are appointed by the Secretary from among individuals who have experience as—</text>
+ <subparagraph id="H67F3A278B9FB45CF91019C48D5196063" indent="up1"><enum>(A)</enum><text display-inline="yes-display-inline">a professional in a field relating to pain management, including as—</text> <clause id="H1B85F67B1261419EAFFD9AEC02281A81"><enum>(i)</enum><text>a board certified pain medicine specialist;</text>
+ </clause><clause id="H3C5E7A1008624A15B46059175392DB87"><enum>(ii)</enum><text>a trained and qualified primary care pain champion;</text> </clause><clause id="H2C9975589F38497380AC1969603C8361"><enum>(iii)</enum><text>a pain psychologist;</text>
+ </clause><clause id="H9D3B7AB853C447F2BC02D3FBC4C4640B"><enum>(iv)</enum><text>a pain social worker;</text> </clause><clause id="HF3EA116BE3E64186A9D9792ADF6EB20A"><enum>(v)</enum><text display-inline="yes-display-inline">a pain point of contact for a Veterans Integrated Service Network;</text>
+ </clause><clause id="HC56AAEC2AE1142E5BABB30CE2CB0EF92"><enum>(vi)</enum><text>a psychiatrist with addiction and psychopharmacology expertise and experience; or</text> </clause><clause id="H715C1196F1284063B9AE4719BBF1F484"><enum>(vii)</enum><text>a health care professional or a mental health care professional;</text>
+ </clause></subparagraph><subparagraph id="HC4CC6B79AF3F4DA99DD083A23FDDCE93" indent="up1"><enum>(B)</enum><text>clinical patients; or</text> </subparagraph><subparagraph id="HEA027905DA7D474A8B0F24E85F3544A3" indent="up1"><enum>(C)</enum><text>family members of clinical patients.</text>
+ </subparagraph></paragraph><paragraph id="H35A09619EFAF434B91ED0D6258F5919F" indent="up1"><enum>(2)</enum><text>The Secretary shall determine the terms of service of the members.</text> </paragraph><paragraph id="H2AA0578C216E48DB83F588A525169063" indent="up1"><enum>(3)</enum><text display-inline="yes-display-inline">Members shall serve without pay and, except as provided by this paragraph, members who are full-time officers or employees of the United States may not receive additional pay, allowances, or benefits by reason of their service on the Board. Members may receive travel expenses, including per diem in lieu of subsistence for travel in connection with their duties as members of the Board. Any member who has clinical duties as an officer or employee of the United States shall be relieved of such duties during periods in which such relief is necessary for the member to carry out the duties of the Board.</text>
+							</paragraph></subsection><subsection id="H26B7BB2400024041BC0473279B99C366"><enum>(d)</enum><header>Powers</header>
+ <paragraph commented="no" display-inline="yes-display-inline" id="H96D62757679F48349444C3D4FDA85435"><enum>(1)</enum><text display-inline="yes-display-inline">Each Board may hold hearings, sit and act at times and places, take testimony, and receive evidence as the Board determines appropriate.</text>
+ </paragraph><paragraph id="H5A44B9C82C4846EAAB307A201AB6609B" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">Each Board may secure directly from any department or agency of the Federal Government information necessary to enable it to carry out this section.</text>
+ </paragraph><paragraph id="HA7D338C2E992426D86970664925E01AD" indent="up1"><enum>(3)</enum><text>Each Board may conduct site visits of medical facilities of the Department to collect information necessary to enable it to carry out this section.</text>
+ </paragraph><paragraph id="H5FD737DE26D547D7AD0504EBA666F618" indent="up1"><enum>(4)</enum><text>The Secretary shall provide to each Board administrative support services necessary for the Board to carry out this section.</text>
+							</paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HFA4EE7EFCB9841D98D16EC501E3E96D2"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 7309 the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="HD1928014A23E474781164C09BB5FE7BB" style="USC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">7309A. Pain management boards.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H6A59A16DB0174ACFB793CE1D7A704712"><enum>(c)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than December 1, 2015, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate the approved clinical guideline, handbook, directive, policy, or other guidance established to govern the stepdown methodologies employed by clinicians in medical facilities of the Department to manage the use of opioid therapies and associated prescribing practices.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

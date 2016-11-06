@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC938015C5CAB4EE3856E39D198841F90" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3385 IH: American Pipeline Jobs and Safety Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3385</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150729">July 29, 2015</action-date>
+			<action-desc><sponsor name-id="N000127">Mr. Nolan</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require pipelines regulated by the Secretary of Transportation to be made of steel that is
+			 produced in the United States and originates from iron ore and taconite
+			 mined and processed in the United States, for safety, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="HC2CB59949B0847AC9162F278FB760AA2" style="OLC">
+ <section id="HFC72BF2DE378457FABC5F509706F23C2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>American Pipeline Jobs and Safety Act of 2015</short-title></quote>.</text> </section><section id="H9ACCCF3D4C2A416885015443A50F30EA"><enum>2.</enum><header>American steel</header><text display-inline="no-display-inline">Section 60102 of title 49, United States Code, is amended by adding at the end the following new subsection:</text>
+			<quoted-block display-inline="no-display-inline" id="H2156D5A698DF4EB8BFCCEF207199C1FB" style="OLC">
+				<subsection id="H21547340A6BB43DE8D16BA3B4ACB7979"><enum>(q)</enum><header>American steel</header>
+ <paragraph id="H8AE80204DA844CC6A59F143009AD41BE"><enum>(1)</enum><header>In general</header><text>Not later than 1 year after the date of enactment of this subsection, the Secretary shall prescribe minimum safety standards requiring that any pipeline subject to this chapter that is constructed or replaced after such date of enactment be made of steel that—</text>
+ <subparagraph id="H34675FA629F5422EA97BBAA18EC4C794"><enum>(A)</enum><text>is produced in the United States; and</text> </subparagraph><subparagraph id="HB765AF94A1D34AB58F6F3A245D54649A"><enum>(B)</enum><text>originates from iron ore and taconite mined and processed in the United States.</text>
+ </subparagraph></paragraph><paragraph id="H8B78F0F4CB634DF89B641F5CEA42EC1A"><enum>(2)</enum><header>Use of recycled materials</header><text>For purposes of this subsection, steel that is recycled in the United States shall be considered to be steel described in subparagraphs (A) and (B) of paragraph (1) if the recycled materials are combined with iron ore and taconite mined and processed in the United States.</text>
+					</paragraph><paragraph id="H018F60AD28A34AE5850A741BDA38B51A"><enum>(3)</enum><header>Waivers</header>
+ <subparagraph id="H8DE527C2D0E745F0A1605F0416E3A6D5"><enum>(A)</enum><header>In general</header><text>In prescribing safety standards under this subsection, the Secretary shall permit a waiver of the requirements of paragraph (1) to the extent that the Secretary determines such a waiver is necessary based on the estimate prepared under subparagraph (B).</text>
+ </subparagraph><subparagraph id="H4B775F179CC0489F989AF5720A4DBFE0"><enum>(B)</enum><header>Annual demand and supply estimate</header><text>The Secretary shall prepare annually an estimate of—</text> <clause id="H6F3FE81D5BFF4C51B877E1727265358F"><enum>(i)</enum><text>the amount of steel likely to be needed to be produced to meet the requirements of paragraph (1); and</text>
+ </clause><clause id="H3DE7421EDB814ABF9F227FC64B5E3076"><enum>(ii)</enum><text display-inline="yes-display-inline">the production capacity of United States producers of steel described in subparagraphs (A) and (B) of such paragraph.</text>
+ </clause></subparagraph><subparagraph id="HD5F65165FF1843B8B1D065F292321A86"><enum>(C)</enum><header>Approval of sources</header><text display-inline="yes-display-inline">The Secretary shall ensure that steel permitted to be used in pipelines pursuant to a waiver under this paragraph meets the same standards as steel described in subparagraphs (A) and (B) of paragraph (1), and shall publish a list of approved sources of steel so permitted.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="HC4C0EE8F18CA4CA0B7CB64316CF84A6B"><enum>3.</enum><header>Inspection and testing</header>
+ <subsection id="HA2B27B45431B4CE99E13CF15FB558EC4"><enum>(a)</enum><header>Testing</header><text display-inline="yes-display-inline">Section 60108(b) of title 49, United States Code, is amended by adding at the end the following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="HFA01B1E885D544A1804778D5CC9AAE4E" style="OLC">
+ <paragraph id="H9D9B8054F3DF498285E4D6437C143894" indent="up1"><enum>(4)</enum><text display-inline="yes-display-inline">Testing under this subsection shall include direct, pre-installation testing by the Secretary of pipelines for quality verification.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H3C2B011E74144E79B0876A6DDDF5C562"><enum>(b)</enum><header>Authorization of appropriations</header><text display-inline="yes-display-inline">Section 60125 of title 49, United States Code, is amended by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="H001E33892EA14FEAA3AB42D81EFF4E39" style="OLC">
+ <subsection id="H892C8221BFA8474B9DC2D85445E4BD25"><enum>(d)</enum><header>Inspection and testing</header><text display-inline="yes-display-inline">There is authorized to be appropriated $10,000,000 for each fiscal year to carry out direct, pre-installation inspection and testing of pipelines under this chapter, including testing of pipelines under section 60108(b)(4) and testing and inspection of steel pursuant to section 60102(q).</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

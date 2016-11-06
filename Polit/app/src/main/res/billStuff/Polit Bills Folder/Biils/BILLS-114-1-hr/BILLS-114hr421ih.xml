@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HBFE2C13EE6DE495EB7F55D9C149BCAF6" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 421 IH: Classified Veterans Access to Care Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 421</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150120">January 20, 2015</action-date> 
+<action-desc><sponsor name-id="S001191">Ms. Sinema</sponsor> (for herself, <cosponsor name-id="M001151">Mr. Murphy of Pennsylvania</cosponsor>, <cosponsor name-id="P000608">Mr. Peters</cosponsor>, <cosponsor name-id="Y000065">Mr. Yoho</cosponsor>, <cosponsor name-id="K000368">Mrs. Kirkpatrick</cosponsor>, <cosponsor name-id="H001048">Mr. Hunter</cosponsor>, <cosponsor name-id="K000382">Ms. Kuster</cosponsor>, <cosponsor name-id="B001271">Mr. Benishek</cosponsor>, and <cosponsor name-id="G000571">Ms. Gabbard</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend title 38, United States Code, to improve the mental health treatment provided by the Secretary of Veterans Affairs to veterans who served in classified missions.</official-title> 
+</form> 
+<legis-body id="H65F353924C584DEBB617FD1FB5D32F4A" style="OLC"> 
+<section id="H8E27E437A8FC47B9B2DBA63CF5A1A73D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Classified Veterans Access to Care Act</short-title></quote>.</text></section> <section id="H5C8A9278CFC44E3CA800489DEC4A593C" section-type="subsequent-section"><enum>2.</enum><header>Mental health treatment for veterans who served in classified missions</header> <subsection id="H8B8982B147714D9B9B59CB6814739F14"><enum>(a)</enum><header>Sense of Congress</header><text display-inline="yes-display-inline">It is the sense of Congress that veterans who experience combat-related mental health wounds should have immediate, appropriate, and consistent access to comprehensive mental health care.</text></subsection> 
+<subsection id="H83883D4B26154543B85AA0726C65C391"><enum>(b)</enum><header>In general</header><text display-inline="yes-display-inline">Subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/17">chapter 17</external-xref> of title 38, United States Code, is amended by adding at the end the following section:</text> <quoted-block style="USC" id="HEBFB33FED1CC40BCB6EF3C79579EDF9F" display-inline="no-display-inline"> <section id="HBC7AC588FC914CB79951DB76678DF3C1"><enum>1720H.</enum><header>Mental health treatment for veterans who served in classified missions</header> <subsection id="H62CAC54660484FD2A5DAF0B4648DD22A"><enum>(a)</enum><header>Establishment of standards</header> <paragraph id="H6688A01E84734D759448AEC58D02FC4D" display-inline="yes-display-inline"><enum>(1)</enum><text>The Secretary shall establish standards and procedures to ensure that each covered veteran may access mental health care provided by the Secretary in a manner that fully accommodates the obligation of the veteran to not improperly disclose classified information.</text></paragraph> 
+<paragraph id="H2CD3C4090E674430A50D9115682BAFD7" indent="up1"><enum>(2)</enum><text>The Secretary shall disseminate guidance to employees of the Veterans Health Administration, including mental health professionals, on the standards and procedures established under paragraph (1) and how to best engage covered veterans during the course of mental health treatment with respect to classified information.</text></paragraph></subsection> <subsection id="H8D6FBB83697044519034B739AA3E058E"><enum>(b)</enum><header>Identification</header><text display-inline="yes-display-inline">In carrying out this section, the Secretary shall ensure that a veteran may elect to identify as a covered veteran on an appropriate form.</text></subsection> 
+<subsection id="HB7B78F44838743F2898930A655864B11"><enum>(c)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="H822777C9FDE3419BAA3A51503D050FA8"><enum>(1)</enum><text display-inline="yes-display-inline">The term <term>classified information</term> means any information or material that has been determined by an official of the United States pursuant to law, an Executive order, or regulation to require protection against unauthorized disclosure for reasons of national security.</text></paragraph> 
+<paragraph id="HADD7113263BA4E0E99A797F9407AEE34"><enum>(2)</enum><text>The term <term>covered veteran</term> means a veteran who—</text> <subparagraph id="HDD2CB1CEBEC741ECBB5960D255E26121"><enum>(A)</enum><text display-inline="yes-display-inline">is enrolled in the health care system established under section 1705(a) of this title;</text></subparagraph> 
+<subparagraph id="H41F62CCF352D4C0CAB24806415865D73"><enum>(B)</enum><text>is seeking mental health treatment; and</text></subparagraph> <subparagraph id="HFE1CB27D8D3845D795910B11F20F4960"><enum>(C)</enum><text>in the course of serving in the Armed Forces, participated in a sensitive mission or served in a sensitive unit.</text></subparagraph></paragraph> 
+<paragraph id="H8E015BDE7FFA4D2295D0A3C07B58D0D9"><enum>(3)</enum><text>The term <term>sensitive mission</term> means a mission of the Armed Forces that, at the time at which a covered veteran seeks treatment, is classified.</text></paragraph> <paragraph id="H0AC804FC7883461BA4B7686E280F5A2B"><enum>(4)</enum><text>The term <term>sensitive unit</term> has the meaning given that term in section 130b(c)(4) of title 10. </text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="HF620C19453DF439CA842CCFA9B0557B2"><enum>(c)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of such chapter is amended by adding after the item relating to section 1720G the following new item:</text> <quoted-block style="USC" id="HBF1D12DC46DE4DE8BD626616659AEC36" display-inline="no-display-inline"> <toc regeneration="no-regeneration"> <toc-entry level="section">1720H. Mental health treatment for veterans who served in classified missions.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> </legis-body> </bill> 
+

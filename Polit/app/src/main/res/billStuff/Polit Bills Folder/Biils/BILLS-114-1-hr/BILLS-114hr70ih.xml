@@ -1,0 +1,461 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB4B483B4C17A437A910842CC6EE55B3D" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 70 IH: Deficit Reduction, Job Creation, and Energy Security Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 70</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="J000032">Ms. Jackson Lee</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name>, and in addition to the Committees on <committee-name committee-id="HSY00">Science, Space, and Technology</committee-name> and <committee-name committee-id="HPW00">Transportation and Infrastructure</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To direct the Secretary of the Interior and the Secretary of Commerce, acting through the National
+			 Oceanic and Atmospheric Administration, to initiate immediate action to
+			 create jobs in America, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H9E190105487247EF8CDB9CE5CC4DB60E" style="OLC">
+		<section id="HBC4AA9D3D54F4C66A2E4F4B9283E4DF4" section-type="section-one"><enum>1.</enum><header>Short title; table of contents</header>
+			<subsection id="H2AFCD379FD1E46AB80B15C134CA1BF8E"><enum>(a)</enum><header>Short title</header><text>This Act may be cited as the <quote><short-title>Deficit Reduction, Job Creation, and Energy Security Act</short-title></quote>.</text>
+			</subsection><subsection id="HE7A8FF0078B74B68B0CB881DCC988094"><enum>(b)</enum><header>Table of contents</header><text>The table of contents for this Act is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="HBC4AA9D3D54F4C66A2E4F4B9283E4DF4" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="HAD05AD62122E45EC9987AAE8273551E4" level="section">Sec. 2. Findings.</toc-entry>
+					<toc-entry idref="H54D284585F854DDE86EF694FDBB331A3" level="section">Sec. 3. Purposes.</toc-entry>
+					<toc-entry idref="H01C847F710014777A2B88115EC0315C2" level="section">Sec. 4. Definitions.</toc-entry>
+					<toc-entry idref="HBBDD2DB7CC8D4475AEFB574D58641207" level="title">Title I—Deficit Reduction Energy Security</toc-entry>
+					<toc-entry idref="H45485B049A1C45A4A54EC32B83180351" level="section">Sec. 101. Deficit Reduction Acreage.</toc-entry>
+					<toc-entry idref="H03439141ED5B440BAF988C9BD84F9BDA" level="section">Sec. 102. Deficit Reduction Energy Security Fund and Coastal and Ocean Sustainability and Health
+			 Fund.</toc-entry>
+					<toc-entry idref="H8CB1121B880B4F7B95D93D4D326112E4" level="section">Sec. 103. Coastal and Ocean Disaster Grant Program.</toc-entry>
+					<toc-entry idref="HA2DE596D5BC54584ADF2C297DF2CF35B" level="section">Sec. 104. National Grant Program for Coastal and Ocean Sustainability and Health.</toc-entry>
+					<toc-entry idref="H19F24ECCA70F42E2B0390E11D6ADDBEB" level="section">Sec. 105. Eligible uses of grants.</toc-entry>
+					<toc-entry idref="HD03F892E509741AFB2B8D75DBCF2ACDE" level="section">Sec. 106. Grant application.</toc-entry>
+					<toc-entry idref="HC31EA490F99149D0A836D3D52C484CE1" level="title">Title II—Timely issuance of offshore oil and gas leases</toc-entry>
+					<toc-entry idref="H1044B60C28BE4B14A02244A8784ECBAF" level="section">Sec. 201. Reinstatement of offshore oil and gas leases.</toc-entry>
+					<toc-entry idref="HC99C7FF47F6140C99DA1393B06669EC4" level="section">Sec. 202. Effective and efficient environmental review.</toc-entry>
+					<toc-entry idref="H341E47825CEC4075B40F87840D630EAA" level="title">Title III—Office of Energy Employment and Training and Office of Minority and Women Inclusion</toc-entry>
+					<toc-entry idref="H4DCA0C10C66644A190DB49E12BFB7CB9" level="section">Sec. 301. Establishment of Office of Energy Employment and Training.</toc-entry>
+					<toc-entry idref="HEC9AD55DEB8D4595851707B288A1F7E7" level="section">Sec. 302. Office of Minority and Women Inclusion.</toc-entry>
+					<toc-entry idref="HAF44C92A978B4748B47F8091941D8590" level="title">Title IV—Miscellaneous provisions</toc-entry>
+					<toc-entry idref="H619E9A40739E426FBD666D1A9FED142D" level="section">Sec. 401. Reporting.</toc-entry></toc>
+			</subsection></section><section id="HAD05AD62122E45EC9987AAE8273551E4"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">The Congress finds and declares the following:</text>
+			<paragraph id="H1B5E53C2DC3C4FC49E23FFFD66EE6D02"><enum>(1)</enum><text>The Nation is currently experiencing a national employment emergency, and urgent action is needed
+			 to put Americans back to work in well-paid, long-term jobs.</text>
+			</paragraph><paragraph id="H2B3BD2E60CFF4D98BF43BF4F84E2AD1A"><enum>(2)</enum><text>The Federal Government distributed over $10,000,000,000 to Federal, State, and Indian accounts from
+			 energy production during fiscal year 2009, primarily from oil and natural
+			 gas production.</text>
+			</paragraph><paragraph id="HE53A70D67C7C4790A56C34D0D404B47B"><enum>(3)</enum><text>The domestic oil and natural gas industry is responsible for approximately 9.2 million jobs.</text>
+			</paragraph><paragraph id="H82CD3C493F4A4A5F8FB501ADB7D4AA07"><enum>(4)</enum><text>The approximately 43 million leased Outer Continental Shelf acres currently account for about 15
+			 percent of America’s domestic natural gas production and about 27 percent
+			 of America’s domestic oil production.</text>
+			</paragraph><paragraph id="H6B19241942B54520A01F1C147A0B9B72"><enum>(5)</enum><text>The leasing of these domestic offshore areas for oil and natural gas development provides
+			 significant economic benefits to the Federal Government, as well as to
+			 States and localities, through the creation and sustenance of jobs and
+			 domestic product.</text>
+			</paragraph><paragraph id="H3435F700CC1B49CD9D260F8260C5D34F"><enum>(6)</enum><text>The Department of the Interior’s Bureau of Ocean Energy Management currently has authorities under
+			 the Outer Continental Shelf Lands Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1331">43 U.S.C. 1331 et seq.</external-xref>) and related
+			 laws that can be effectively utilized to create jobs and revitalize the
+			 Nation’s economy.</text>
+			</paragraph><paragraph id="H85A7E8AD8C1D4880B8D3FE63C38D5462"><enum>(7)</enum><text>Effective and expedited development of Gulf of Mexico oil and natural gas resources could generate
+			 thousands of new jobs, many of which could be created almost immediately.</text>
+			</paragraph><paragraph id="HB918D81C79F94A159F2BE05ACFC8838D"><enum>(8)</enum><text>The coastal regions of the United States have high productivity and contribute approximately 50
+			 percent of the gross domestic product of the United States.</text>
+			</paragraph><paragraph id="HC644FD56142D4C8997E728DDF2871DBC"><enum>(9)</enum><text>The economies and social structure of many communities are dependent on resources from ocean,
+			 coastal, and Great Lakes ecosystems.</text>
+			</paragraph><paragraph id="HE4D72EB0F12640E4ABEEFB2F67F04CFA"><enum>(10)</enum><text>Supporting science, research, monitoring, modeling, forecasting, exploration, and assessment will
+			 continue to improve our understanding of the ocean, coastal, and Great
+			 Lakes ecosystems as well as their long-term economic sustainability.</text>
+			</paragraph><paragraph id="H8983218161194C439EAC07BFA55A3DC3"><enum>(11)</enum><text>Safeguarding these ecosystems is crucial to protecting the environment and waters of the United
+			 States.</text>
+			</paragraph><paragraph id="HD0FF2BDC46724462942C2FD4E5E0F14E"><enum>(12)</enum><text>The growth of our energy domestic resources is vital to America’s national security.</text>
+			</paragraph></section><section id="H54D284585F854DDE86EF694FDBB331A3"><enum>3.</enum><header>Purposes</header><text display-inline="no-display-inline">The purposes of this Act are the following:</text>
+			<paragraph id="HC76C5B0CF21542C997012D703C3BEE7B"><enum>(1)</enum><text display-inline="yes-display-inline">Require the Secretary of the Interior to utilize its authorities regarding the leasing and
+			 development of offshore oil and gas resources to accelerate job creation
+			 and economic revitalization to the fullest extent practicable, taking into
+			 account the Department of the Interior’s responsibilities regarding
+			 conservation, safety, and protection of the environment.</text>
+			</paragraph><paragraph id="H0E3A3114A366452E8D4CE08382C1E276"><enum>(2)</enum><text>Promote expansion of domestic employment opportunities.</text>
+			</paragraph><paragraph id="H28ED2112F75E4CDF8EBF1B3F5B6A0EA7"><enum>(3)</enum><text>Respond to the Nation’s increased need for domestic oil and natural gas resources.</text>
+			</paragraph><paragraph id="H7DC76B5C6B6A415786BA99BCF4523A77"><enum>(4)</enum><text>Support the utilization of the Outer Continental Shelf for oil and gas production and transmission.</text>
+			</paragraph><paragraph id="H82D4338A73C74C67B910818A9BFD4953"><enum>(5)</enum><text display-inline="yes-display-inline">Protect, conserve, restore, and understand the oceans, coasts, and Great Lakes of the United
+			 States, ensuring present and future generations will benefit from the full
+			 range of ecological, economic, educational, social, cultural, nutritional,
+			 and recreational opportunities and services those resources are capable of
+			 providing.</text>
+			</paragraph><paragraph id="H98E03E3D32CA477FB3FC2B94A2C8273D"><enum>(6)</enum><text>Confirm and ensure the validity of appropriate oil and gas leases issued under the Final Outer
+			 Continental Shelf Oil and Gas Leasing Program, 2007–2012.</text>
+			</paragraph><paragraph id="HF4C6090D1C814F87B43047B209D175F4"><enum>(7)</enum><text>Ensure the continued leasing of Outer Continental Shelf areas pursuant to the Final Outer
+			 Continental Shelf Oil and Gas Leasing Program, 2007–2012.</text>
+			</paragraph></section><section id="H01C847F710014777A2B88115EC0315C2"><enum>4.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text>
+			<paragraph id="H3838F011C8164F96AC07F0AE552D69B6"><enum>(1)</enum><text>The term <term>Act</term> means the Outer Continental Shelf Lands Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1331">43 U.S.C. 1331 et seq.</external-xref>).</text>
+			</paragraph><paragraph id="HBCDAAC5946EB414884E2F507B0701FE6"><enum>(2)</enum><text display-inline="yes-display-inline">The term <term>coastal State</term> has the same meaning that the term <quote>coastal state</quote> has in the Coastal Zone Management Act of 1972 (<external-xref legal-doc="usc" parsable-cite="usc/16/1451">16 U.S.C. 1451 et seq.</external-xref>).</text>
+			</paragraph><paragraph id="H88180BF198F6438EBB79F2CE465E9FEE"><enum>(3)</enum><text>The term <term>DRES Fund</term> means the Deficit Reduction Energy Security Fund.</text>
+			</paragraph><paragraph id="HB99DC88CB870492D90F71CC207625E7A"><enum>(4)</enum><text>The term <term>COSH Fund</term> means the Coastal and Ocean Sustainability and Health Fund established by section 102.</text>
+			</paragraph><paragraph id="H72BEAC2ABF224DF1900B3F3D7B932625"><enum>(5)</enum><text>The term <term>program</term> means a Final Outer Continental Shelf Oil and Gas Leasing Program issued under section 18 of the
+			 Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1344">43 U.S.C. 1344</external-xref>).</text>
+			</paragraph><paragraph id="H4B8DE9482715459786F8512536086081"><enum>(6)</enum><text display-inline="yes-display-inline">The term <term>Secretary</term> means the Secretary of Commerce, acting through the National Oceanic and Atmospheric
+			 Administration.</text>
+			</paragraph><paragraph id="H5EDBDA252B1A4AFD94246BB2B7C423A3"><enum>(7)</enum><text>Other terms shall have the same meaning such terms have under the Act.</text>
+			</paragraph></section><title id="HBBDD2DB7CC8D4475AEFB574D58641207"><enum>I</enum><header>Deficit Reduction Energy Security</header>
+			<section id="H45485B049A1C45A4A54EC32B83180351"><enum>101.</enum><header>Deficit Reduction Acreage</header>
+				<subsection id="HF3E30D6598204875958500A6B8954FD9"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of the Interior shall, during the period covered by the Proposed Outer Continental
+			 Shelf Oil and Gas Leasing Program for 2012–2017 issued by the Department
+			 of the Interior, and in addition to the acreage proposed to be leased
+			 under such program, conduct oil and gas lease sales under the Outer
+			 Continental Shelf Lands Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1331">43 U.S.C. 1331 et seq.</external-xref>) for additional
+			 acreage of the outer Continental Shelf (as that term is used in that Act)
+			 that total 10 percent of the acreage proposed to be leased under such
+			 program. The acreage for which lease sales are required under this section
+			 shall be known as the Deficit Reduction Acreage.</text>
+				</subsection><subsection id="H411BFD412FFD465FB17C39510ABA7BBE"><enum>(b)</enum><header>Annual requirement</header><text display-inline="yes-display-inline">In each year in such period, the Secretary shall lease 20 percent of the Deficit Reduction Acreage.</text>
+				</subsection></section><section id="H03439141ED5B440BAF988C9BD84F9BDA"><enum>102.</enum><header>Deficit Reduction Energy Security Fund and Coastal and Ocean Sustainability and Health Fund</header>
+				<subsection id="H156D04C164C94B61869AE881F61C6815"><enum>(a)</enum><header>Deficit Reduction Energy Security Fund</header>
+					<paragraph id="H518B64410B0C4CA3B2CE8DF08262C723"><enum>(1)</enum><header>In general</header><text>There is hereby established in the Treasury a separate account to be known as the Deficit Reduction
+			 Energy Security Fund, consisting of such amounts as may be appropriated or
+			 credited to it.</text>
+					</paragraph><paragraph id="H6F75432219C54637A226B7CD9819B5C5"><enum>(2)</enum><header>Deposit of Deficit Reduction Acreage lease revenues</header>
+						<subparagraph id="HF4735A5CAA8645D7B88D3D405636A001"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Except as provided in subparagraph (C), all rentals, royalties, bonus bids, and other sums due and
+			 payable to the United States under Deficit Reduction Acreage lease sales
+			 during the 15-fiscal-year period beginning with the first fiscal year in
+			 which such sums are received by the United States shall be deposited in
+			 the DRES fund.</text>
+						</subparagraph><subparagraph id="HC8E92A9459324B67A84AFD73222816FC"><enum>(B)</enum><header>Holding of oil and gas revenues</header><text>Any amount deposited into the DRES Fund under subparagraph (A)—</text>
+							<clause id="HB697169FADD44F79A4EB63AAF02053A5"><enum>(i)</enum><text display-inline="yes-display-inline">shall remain in DRES Fund and be invested in accordance with paragraph (2) until the end of the
+			 second full fiscal year after the amount is deposited into the DRES Fund;
+			 and</text>
+							</clause><clause id="H171B1DFAE4FB4BCFB1C70DFD49CDCC17"><enum>(ii)</enum><text>upon the end of such fiscal year, shall be transferred to the general fund and applied solely to
+			 reduce the annual Federal budget deficit.</text>
+							</clause></subparagraph><subparagraph id="HD644F2B126314DD3861830B51D08AE78"><enum>(C)</enum><header>Payments to States not affected</header><text>This Act shall not affect any requirement under other law to pay to States amounts received by the
+			 United States as such royalties, bonus bids, and other sums due and
+			 payable to the United States.</text>
+						</subparagraph></paragraph><paragraph id="HEC2D29AA7690475C9780044734DDDEFA"><enum>(3)</enum><header>Investment</header>
+						<subparagraph id="HC659DEDDD11F4744A3757C3B1BEA729C"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Amounts in the DRES Fund shall be invested by the Secretary of the Treasury in accordance with
+			 <external-xref legal-doc="usc" parsable-cite="usc/26/9602">section 9602</external-xref> of the Internal Revenue Code of 1986.</text>
+						</subparagraph><subparagraph id="HE23874934F0045D49DB84FFF04FE9831"><enum>(B)</enum><header>Inclusion of interest in DRES Fund</header><text display-inline="yes-display-inline">All interest earned on, and the proceeds from the sale or redemption of, any obligations held in
+			 the DRES Fund—</text>
+							<clause id="HEEEFE0E3DF154920B1E3ED278D276A0D"><enum>(i)</enum><text display-inline="yes-display-inline">shall be credited to and form part of the DRES Fund; and</text>
+							</clause><clause id="HD250528C7EE04A02A3CB53C2E9CBA859"><enum>(ii)</enum><text display-inline="yes-display-inline">shall remain in the DRES Fund until transferred under paragraph (5), without regard to paragraph
+			 (2)(B)(ii).</text>
+							</clause></subparagraph></paragraph><paragraph id="HE16DFC03E9C645B19DC6F608B0D8A64E"><enum>(4)</enum><header>Availability of proceeds of deposits</header><text>Amounts credited to the DRES Fund under paragraph (3)(B) in excess of the amounts deposited into
+			 the DRES Fund under paragraph (2) shall—</text>
+						<subparagraph id="H838D23B056EA4192B0AA185D52DDA351"><enum>(A)</enum><text>be available for expenditure, without further appropriation, solely for the purpose of and
+			 activities eligible under this Act; and</text>
+						</subparagraph><subparagraph id="H039A8F2E791D400EA3E44845BF4176C2"><enum>(B)</enum><text>remain available until expended, without fiscal year limitation.</text>
+						</subparagraph></paragraph><paragraph id="H166C0D2387FA4ABFAF41CF0D13557CBA"><enum>(5)</enum><header>Transfer of interest to Coastal and Ocean Sustainability and Health Fund</header><text display-inline="yes-display-inline">Upon the transfer of an amount under paragraph (2)(B)(ii), the interest earned on such amount shall
+			 be transferred to the Coastal and Ocean Sustainability and Health Fund
+			 established under subsection (b).</text>
+					</paragraph></subsection><subsection id="HE9BD034E07254758BB1F84C9F0F1D085"><enum>(b)</enum><header>Coastal and Ocean Sustainability and Health Fund</header>
+					<paragraph id="HEB179CCC55734791997BD8AEB343DEF9"><enum>(1)</enum><header>In general</header><text>There is hereby established in the Treasury a separate account to be known as the Coastal and Ocean
+			 Sustainability and Health Fund, consisting of such amounts of interest as
+			 are transferred to it under subsection (a)(5).</text>
+					</paragraph><paragraph id="H950D4FF5B70F40B590199F3F48BC9B37"><enum>(2)</enum><header>Availability</header><text>Of the amounts transferred to the COSH Fund under subsection (a)(5) each fiscal year—</text>
+						<subparagraph id="HE1A6482B0BCD42ABBF74A3D242918A3C"><enum>(A)</enum><text>not more than 5 percent shall be available to the Secretary of Commerce to administer this title;
+			 and</text>
+						</subparagraph><subparagraph id="HE3349BBA16754BFFA34F21926ACA6631"><enum>(B)</enum><text>the remainder shall be available to the Secretary of Commerce until expended and without fiscal
+			 year limitation, for use for—</text>
+							<clause id="H94E33C47527C44FE98A753A691168AFC"><enum>(i)</enum><text>the Coastal and Ocean Disaster Grant Program under section 102; and</text>
+							</clause><clause id="HC89EB36CB15E4B6B95DD0D583064D9AA"><enum>(ii)</enum><text>the National Grant Program under section 103.</text>
+							</clause></subparagraph></paragraph><paragraph id="HDE96052B83A64D158F57E9CEB115A3C1"><enum>(3)</enum><header>Allocation of funding for grant programs</header><text display-inline="yes-display-inline">Of amounts available under paragraph (2)(B), the Secretary of Commerce shall allocate—</text>
+						<subparagraph id="H539E1A392F21445FBB6CEB2D41110313"><enum>(A)</enum><text>40 percent for the Coastal and Ocean Disaster Grant Program under section 103, of which—</text>
+							<clause id="H4FC5BB36525C41EDAE8542C9D9989F8C"><enum>(i)</enum><text>50 percent shall be allocated equally among impacted coastal States;</text>
+							</clause><clause id="HD35B82D72B8D4B949F5D56762B80CDA0"><enum>(ii)</enum><text>20 percent shall be allocated based on intensity of impact of disasters on impacted coastal States;</text>
+							</clause><clause id="H9A62C22D904E4939A9CC9B5E00109E29"><enum>(iii)</enum><text>15 percent shall be allocated based on tidal shorelines of impacted coastal States; and</text>
+							</clause><clause id="H84AB1925040544B59C50C525BB249169"><enum>(iv)</enum><text>15 percent of the funds shall be allocated based on the coastal population of impacted coastal
+			 States.</text>
+							</clause></subparagraph><subparagraph id="H1E0CB1842845431D9BF28F6FF04D1729"><enum>(B)</enum><text>Sixty percent for the National Grant Program for Coastal and Ocean Sustainability and Health under
+			 section 104, of which—</text>
+							<clause id="H2B09F0BF7B2E435F886D55FB06A8763C"><enum>(i)</enum><text>50 percent shall be allocated to coastal States;</text>
+							</clause><clause id="H50AD0D3A618945ED92CB698B62A27D26"><enum>(ii)</enum><text>50 percent shall be allocated to any State, local, territory, and tribal governments, institutions
+			 of higher learning, and non-profit and for-profit organizations that may
+			 receive and expend Federal funds as legal entities; and</text>
+							</clause><clause id="HC8F7ACB9E0184E57835C8875639927ED"><enum>(iii)</enum><text>no more than 10 percent of the total amount of funds available shall be allocated to a single State
+			 or entity in a fiscal year.</text>
+							</clause></subparagraph></paragraph></subsection><subsection id="H8DC28AD563EC4135B9C0E794CDBE6F0C"><enum>(c)</enum><header>General administrative charges prohibited</header><text>Grants issued under this Act shall not be subject to a general administrative charge.</text>
+				</subsection><subsection id="HEEBEE999769C48CAA51E4810974B7042"><enum>(d)</enum><header>Redeposit of unused funds</header><text display-inline="yes-display-inline">Any funds provided as a grant under this title that are not used by the grantee by the end of the
+			 fiscal year following the first fiscal year for which they were allocated
+			 shall be redeposited into the COSH Fund and be reallocated in accordance
+			 with this section.</text>
+				</subsection></section><section id="H8CB1121B880B4F7B95D93D4D326112E4"><enum>103.</enum><header>Coastal and Ocean Disaster Grant Program</header>
+				<subsection id="HF24184BD05504642BD6629171205D550"><enum>(a)</enum><header>In general</header><text>The Secretary of Commerce shall use amounts allocated under section 102(b)(2)(B)(i) to make grants
+			 to coastal States and Indian tribes impacted by coastal or ocean disasters
+			 for the purposes of restoring, mitigating, monitoring, or otherwise
+			 managing coastal and ocean natural resources impacted by such disasters.</text>
+				</subsection><subsection id="H2C04B05061A940E1AB9EBF3AEA6FFC00"><enum>(b)</enum><header>Eligibility</header>
+					<paragraph id="H9569FD7D90DC4064A1F9AE3F16D33D65"><enum>(1)</enum><header>First 5 years</header><text>During the 5-fiscal year period beginning with the first fiscal year for which amounts are
+			 available for grants under this section, a coastal State or Indian tribe
+			 shall be eligible for a grant under this section only if—</text>
+						<subparagraph id="HDCB1877B07E4438094284CC56B5ADB10"><enum>(A)</enum><text>it is one of the States of Texas, Louisiana, Mississippi, Alabama, and Florida, or an Indian tribe
+			 in such State; or</text>
+						</subparagraph><subparagraph id="HECECACCE105F413AA63A4E87A0758B18"><enum>(B)</enum><text>it is determined by the Secretary, in that period, to be a coastal State that has been impacted by
+			 a coastal or ocean disaster.</text>
+						</subparagraph></paragraph><paragraph id="H0AB62E69354C40728FFFA7870E05D9DA"><enum>(2)</enum><header>After first 5 years</header><text>After the end of such 5-fiscal-year period, if the Secretary determines for a fiscal year that
+			 there is no coastal State that has been so impacted, the amount allocated
+			 for that fiscal year for grants under this section shall be added to the
+			 amounts allocated for that fiscal year under section 102(b)(2)(B)(ii) for
+			 the National Grant Program for Coastal and Ocean Sustainability and
+			 Health.</text>
+					</paragraph><paragraph id="HB0AEB09493EE401289A12AAA62A3F89C"><enum>(3)</enum><header>Limitation</header><text>A coastal State or Indian tribe shall not be eligible for a grant under this section if it is
+			 receiving assistance under another Federal law for an activity described
+			 in section 105(b) conducted for a purpose referred to in subsection (a).</text>
+					</paragraph></subsection></section><section id="HA2DE596D5BC54584ADF2C297DF2CF35B"><enum>104.</enum><header>National Grant Program for Coastal and Ocean Sustainability and Health</header>
+				<subsection id="H001C3C502D204FAABC347CF24ACB17E7"><enum>(a)</enum><header>In general</header><text>The Secretary of Commerce shall use amounts allocated under section 102(b)(2)(B)(ii) (including
+			 amounts added under section 103(b)(2)) to make grants to coastal States
+			 that are eligible under subsection (b).</text>
+				</subsection><subsection id="HBC8DECCB2EE3489595197CAE55C48E64"><enum>(b)</enum><header>Eligibility</header><text display-inline="yes-display-inline">To be eligible for a grant under this section, a person—</text>
+					<paragraph id="HE74B7BCC65B741AAA8A68843E9E7EF79"><enum>(1)</enum><text>must be—</text>
+						<subparagraph id="H867B11A3106348CD9BBA5254C8E1EEC1"><enum>(A)</enum><text>a coastal State that has a management program approved by the Secretary under section 306 of the
+			 Coastal Zone Management Act of 1972 (<external-xref legal-doc="usc" parsable-cite="usc/16/1455">16 U.S.C. 1455</external-xref>); or</text>
+						</subparagraph><subparagraph id="HB67BD500CE9243B88B254A0BE1CB8DB9"><enum>(B)</enum><text display-inline="yes-display-inline">a State, local, territory, or tribal government, institution of higher learning, or nonprofit or
+			 and for-profit organization that may receive and expend Federal funds as a
+			 legal entity; and</text>
+						</subparagraph></paragraph><paragraph id="H4897492ABEB447FBB95041A00EB6A0C0"><enum>(2)</enum><text>must submit to the Secretary a multiyear plan for use of the grant that—</text>
+						<subparagraph id="HDA0B6A7F12D64CFDB51D91B5A8C3E66A"><enum>(A)</enum><text>specifies how the grant funds will be allocated;</text>
+						</subparagraph><subparagraph id="H5AC25B805CD84992B952F42DC18AD9DA"><enum>(B)</enum><text>is sufficiently flexible to allow the coastal State to respond to emerging needs; and</text>
+						</subparagraph><subparagraph id="H6D33A7283D594058BE605AF5564D0950"><enum>(C)</enum><text>is approved by the Secretary.</text>
+						</subparagraph></paragraph></subsection></section><section id="H19F24ECCA70F42E2B0390E11D6ADDBEB"><enum>105.</enum><header>Eligible uses of grants</header>
+				<subsection id="HB1537055C7B34E78886A62FAD5A5D14C"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Amounts provided as a grant under this title shall be used for activities described in subsection
+			 (b) that are intended to restore, protect, maintain, manage, or understand
+			 marine resources and their habitats and resources in coastal and ocean
+			 waters, including baseline scientific research and other activities
+			 carried out in coordination with Federal and State departments or
+			 agencies, that are consistent with Federal environmental laws, and that
+			 avoid environmental degradation.</text>
+				</subsection><subsection id="H347C1F2D2FD54FAFBA807DA2D9FAD43D"><enum>(b)</enum><header>Included activities</header><text>Activities referred to in subsection (a) include—</text>
+					<paragraph id="HF97101A5C0C94BDEB09EDC068F306F85"><enum>(1)</enum><text>coastal management planning and implementation under the Coastal Zone Management Act of 1972;</text>
+					</paragraph><paragraph id="HD841C005FAD241A789365D9712A6F58B"><enum>(2)</enum><text>coastal and estuarine land protection, including the protection of the environmental integrity of
+			 important coastal and estuarine areas, such as wetlands and forests, that
+			 have significant conservation, recreation, ecological, historical, or
+			 aesthetic values, or that are threatened by conversion to other uses;</text>
+					</paragraph><paragraph id="HDDB3AFE045E34D57B4D20C2D20C7D79C"><enum>(3)</enum><text>efforts to protect and manage living marine resources, including fisheries, coral reefs, research,
+			 management, and enhancement;</text>
+					</paragraph><paragraph id="H10DE262BB7604471829E684EF4A2B204"><enum>(4)</enum><text>programs, activities, and new technology designed to improve or complement the management and
+			 mission of national marine sanctuaries, marine monuments, national
+			 estuarine research reserves, and marine protected areas;</text>
+					</paragraph><paragraph id="HB30EB7CDE84D448FB91A2691F049AC90"><enum>(5)</enum><text>mitigation, restoration, protection, and relocation of coastal communities threatened by the
+			 impacts of climate change;</text>
+					</paragraph><paragraph id="H06172C5D207B490BBB882898DD21265F"><enum>(6)</enum><text>mitigation of the effects of offshore activities, including environmental restoration;</text>
+					</paragraph><paragraph id="H17BD15E87EDD4C5A8448F691C04A6654"><enum>(7)</enum><text>efforts to acquire, protect and restore coastal lands and wetlands, and to restore or prevent
+			 damage to wetlands in the coastal zone, coastal estuaries, and lands,
+			 life, and property in the coastal zone;</text>
+					</paragraph><paragraph id="H1FBD7971D40F4F6DB18948B011FE8E79"><enum>(8)</enum><text>management of non-point sources of coastal and marine pollution;</text>
+					</paragraph><paragraph id="H5201D6FE9D954BCEB5D0F3F1698E02FB"><enum>(9)</enum><text>long-term coastal and ocean research and education, monitoring, and natural resource management;</text>
+					</paragraph><paragraph id="H4B50DC5F98264A609D824B7713359E4C"><enum>(10)</enum><text>regional multi-State management efforts designed to manage, protect, or restore the coastal zone
+			 and ocean resources; or</text>
+					</paragraph><paragraph id="H32A67473C0534BE5ACBC821531D32982"><enum>(11)</enum><text>management and administration of authorized activities.</text>
+					</paragraph></subsection></section><section id="HD03F892E509741AFB2B8D75DBCF2ACDE"><enum>106.</enum><header>Grant application</header><text display-inline="no-display-inline">A person seeking a grant under this section shall submit to the Secretary an application at such
+			 time, in such manner, and containing such information as the Secretary
+			 determines to be appropriate.</text>
+			</section></title><title id="HC31EA490F99149D0A836D3D52C484CE1"><enum>II</enum><header>Timely issuance of offshore oil and gas leases</header>
+			<section id="H1044B60C28BE4B14A02244A8784ECBAF"><enum>201.</enum><header>Reinstatement of offshore oil and gas leases</header><text display-inline="no-display-inline">Section 18 of the Outer Continental Shelf Lands Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1344">43 U.S.C. 1344</external-xref>) is amended by adding at the
+			 end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H8EEC5EAF0F224204B7F178958483F219" style="OLC">
+					<subsection id="H4BC3F3BE0EA74BD9AB907E5C8FE432B6"><enum>(i)</enum><text display-inline="yes-display-inline">The Secretary is authorized, upon petition of a prior leaseholder, to reinstate any Expired
+			 Producible Lease in the offshore Gulf of Mexico if such reinstatement
+			 furthers the purposes and objectives of this Act. The Secretary shall act
+			 on such petitions as soon as possible after receipt thereof, and in any
+			 event, within 90 days of receipt of such petition or prior to the next
+			 scheduled lease sale in which such lease would be included, whichever is
+			 earlier. Any lease application pending for more than 90 days shall be
+			 reported to Congress, the Secretary of the Interior, and the Assistant
+			 Secretary for Land Management every 15 days until the application is acted
+			 upon.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</section><section id="HC99C7FF47F6140C99DA1393B06669EC4"><enum>202.</enum><header>Effective and efficient environmental review</header>
+				<subsection id="HF973732796A6441E98A17A9DF5EFA0DE"><enum>(a)</enum><header>Completion of analyses for lease sales</header><text>The Secretary shall, to the maximum extent practicable, complete all analyses, processes, and
+			 procedures required by section 18 of the Outer Continental Shelf Lands Act
+			 (<external-xref legal-doc="usc" parsable-cite="usc/43/1344">43 U.S.C. 1344</external-xref>) or under the National Environmental Policy Act of 1969
+			 (<external-xref legal-doc="usc" parsable-cite="usc/42/4321">42 U.S.C. 4321 et seq.</external-xref>; referred to in this section as <term>NEPA</term>), in connection with exploration and development under any lease to be offered for sale under this
+			 Act, prior to the annual lease sale in which such lease is first offered.</text>
+				</subsection><subsection id="HC112DDFC518D4D99878210C168D9129C"><enum>(b)</enum><header>Treatment of Secretary’s actions</header><text>Notwithstanding the provisions of any other law, the Secretary’s actions, after any initial lease
+			 sale, in approving and enforcing safety requirements and spill prevention
+			 and response requirements in individual plans or permits shall be deemed
+			 to be actions for the purpose of conserving and protecting the environment
+			 that are not subject to NEPA review requirements.</text>
+				</subsection></section></title><title id="H341E47825CEC4075B40F87840D630EAA"><enum>III</enum><header>Office of Energy Employment and Training and Office of Minority and Women Inclusion</header>
+			<section display-inline="no-display-inline" id="H4DCA0C10C66644A190DB49E12BFB7CB9"><enum>301.</enum><header>Establishment of Office of Energy Employment and Training</header>
+				<subsection id="H54D6FF29036041759F70E0948ABD47C3"><enum>(a)</enum><header>Establishment</header><text>The Secretary of the Interior shall establish an Office of Energy Employment and Training, which
+			 shall oversee the efforts of the Department of the Interior’s energy
+			 planning, permitting, and regulatory activities to carry out the purposes,
+			 objectives, and requirements of this Act.</text>
+				</subsection><subsection id="H53E637225437483B90B520BE930CD546"><enum>(b)</enum><header>Director</header>
+					<paragraph id="HDA2244938A3E46BEBD4FCF86BA639DFC"><enum>(1)</enum><header>In general</header><text>The Office shall be directed by an Assistant Secretary for Energy Employment and Training, who
+			 shall report directly to the Secretary and shall be fully employed to
+			 carry out the functions of the Office.</text>
+					</paragraph><paragraph id="HF67815175A874E89A66DBDDD0AC32E77"><enum>(2)</enum><header>Duties</header><text>The Assistant Secretary for Energy Employment and Training shall perform the following functions:</text>
+						<subparagraph id="H593AC83B89C04178B1DD80F608270FCC"><enum>(A)</enum><text>Develop and implement systems to track the Department’s compliance with the purposes, objectives,
+			 and requirements of the Act.</text>
+						</subparagraph><subparagraph id="HA0C863AB5412422A913FA68737867146"><enum>(B)</enum><text>Report at least quarterly to the Secretary regarding the Department’s compliance with the purposes,
+			 objectives, and requirements of this Act, including but not limited to
+			 specific data regarding the numbers and types of jobs created through the
+			 Department’s efforts and a report on all job training programs planned or
+			 in progress by the Department.</text>
+						</subparagraph><subparagraph id="H952A5A33B60448478BB866B5F4AC2B15"><enum>(C)</enum><text>Design and recommend to the Secretary programs and policies aimed at ensuring the Department’s
+			 compliance with the purposes, objectives, and requirements of this Act,
+			 and oversee implementation of such programs approved by the Secretary.</text>
+						</subparagraph><subparagraph id="H2DD63BC420BA42508DE9A3F863E48D83"><enum>(D)</enum><text>Develop procedures for enforcement of the Department’s requirements and responsibilities under this
+			 Act.</text>
+						</subparagraph><subparagraph id="H7840D708EE0640CEA800DBDA60EF9D04"><enum>(E)</enum><text>Support the activities of the Office of Minority and Women Inclusion and any other offices or
+			 branches established by the Secretary within the Office of Energy
+			 Employment and Training.</text>
+						</subparagraph><subparagraph id="H0FB63F5A2D114680B3741A00C5951AB0"><enum>(F)</enum><text>Assist the Secretary in complying with the reporting requirements of title V of this Act.</text>
+						</subparagraph></paragraph></subsection></section><section id="HEC9AD55DEB8D4595851707B288A1F7E7"><enum>302.</enum><header>Office of Minority and Women Inclusion</header>
+				<subsection id="H198B199638A24BFE91E9650CAEE2F730"><enum>(a)</enum><header>Office of Minority and Women Inclusion</header>
+					<paragraph id="HD0BA62D5B65D4E73856F35455CF12FCB"><enum>(1)</enum><header>Establishment</header><text display-inline="yes-display-inline">The Secretary of the Interior shall establish an Office of Minority and Women Inclusion not later
+			 than 6 months after the effective date of this Act, that shall be
+			 responsible for all matters of the Department of the Interior relating to
+			 diversity in management, employment, and business activities.</text>
+					</paragraph><paragraph id="HD63CD57976604145AB7D0362913E7988"><enum>(2)</enum><header>Transfer of responsibilities</header><text>The Secretary of the Interior shall ensure that the responsibilities described in paragraph (1) (or
+			 comparable responsibilities) that are assigned to any other office,
+			 agency, or bureau of the Department on the day before the date of
+			 enactment of this Act are transferred to the Office of Minority and Women
+			 Inclusion.</text>
+					</paragraph><paragraph id="HF78F52600328472E8026604B6326E0AA"><enum>(3)</enum><header>Duties with respect to civil rights laws</header><text>The responsibilities described in paragraph (1) do not include enforcement of statutes,
+			 regulations, or Executive orders pertaining to civil rights, except each
+			 Director shall coordinate with the Secretary, or the designee of the
+			 Secretary, regarding the design and implementation of any remedies
+			 resulting from violations of such statutes, regulations, or Executive
+			 orders.</text>
+					</paragraph></subsection><subsection id="HF733D9A81EF5407A937D952A40E38625"><enum>(b)</enum><header>Director</header>
+					<paragraph id="H1D3D3EA3A7594AD4B8498AB59E3FFEFB"><enum>(1)</enum><header>In general</header><text>The Office shall have a Director who shall be appointed by, and shall report to, the Secretary of
+			 the Interior. The position of Director shall be a career reserved position
+			 in the Senior Executive Service, as that position is defined in section
+			 3132 of title 5, United States Code, or an equivalent designation.</text>
+					</paragraph><paragraph id="H9C5314F434AA4541B2F3C60B53E63135"><enum>(2)</enum><header>Duties</header><text>The Director shall develop standards for—</text>
+						<subparagraph id="H628D771F57714D7CA4E437B33C507C8F"><enum>(A)</enum><text>equal employment opportunity and the racial, ethnic, and gender diversity of the workforce and
+			 senior management of the Department;</text>
+						</subparagraph><subparagraph id="H1B4B5234C6E04806A0CC98B052D14E8C"><enum>(B)</enum><text>increased participation of minority-owned and women-owned businesses in the programs and contracts
+			 of the Department, including standards for coordinating technical
+			 assistance to such businesses; and</text>
+						</subparagraph><subparagraph id="HD8A09DECDD0947A1AE533C9B7ABABF29"><enum>(C)</enum><text>assessing the diversity policies and practices of entities regulated by the Department.</text>
+						</subparagraph></paragraph><paragraph id="HBC8B8807C1464F8ABFDFB54C0EE206D0"><enum>(3)</enum><header>Other duties</header><text>The Director shall advise the Secretary of the Interior on the impact of the policies and
+			 regulations of the Department on minority-owned and women-owned
+			 businesses.</text>
+					</paragraph><paragraph id="H7A2D47AD455A494FB8EA6A3255CD7FA3"><enum>(4)</enum><header>Rule of construction</header><text>Nothing in paragraph (2)(C) may be construed to mandate any requirement on or otherwise affect the
+			 lending policies and practices of any regulated entity, or to require any
+			 specific action based on the findings of the assessment.</text>
+					</paragraph></subsection><subsection id="HAE85D6AAB63B4DF29317AB4C161EC71A"><enum>(c)</enum><header>Inclusion in all levels of business activities</header>
+					<paragraph id="H564FEC5E57C64AA2AF621EE24DDF74BD"><enum>(1)</enum><header>In general</header><text>The Director shall develop and implement standards and procedures to ensure, to the maximum extent
+			 possible, the fair inclusion and utilization of minorities, women, and
+			 minority-owned and women-owned businesses in all business and activities
+			 of the Department at all levels, including in procurement, insurance, and
+			 all types of contracts.</text>
+					</paragraph><paragraph id="HFDD11DF604E741878D033860BD0D65C8"><enum>(2)</enum><header>Contracts</header><text>The procedures established by the Department for review and evaluation of contract proposals and
+			 for hiring service providers shall include, to the extent consistent with
+			 applicable law, a component that gives consideration to the diversity of
+			 the applicant. Such procedure shall include a written statement, in a form
+			 and with such content as the Director shall prescribe, that a contractor
+			 shall ensure, to the maximum extent possible, the fair inclusion of women
+			 and minorities in the workforce of the contractor and, as applicable,
+			 subcontractors.</text>
+					</paragraph><paragraph id="H4D63C84206D74135BFD0B012D0BC1DFA"><enum>(3)</enum><header>Termination</header>
+						<subparagraph id="H6FA3E2B91FE84491955FAD95761E1E31"><enum>(A)</enum><header>Determination</header><text>The standards and procedures developed and implemented under this subsection shall include a
+			 procedure for the Director to make a determination whether a Department
+			 contractor, and, as applicable, a subcontractor has failed to make a good
+			 faith effort to include minorities and women in their workforce.</text>
+						</subparagraph><subparagraph id="H9AC25C99F1DB42DC941AA2802D84D88B"><enum>(B)</enum><header>Effect of determination</header>
+							<clause id="H8D233111FE12499E82B5C8A2301CDFD5"><enum>(i)</enum><header>Recommendation to Secretary</header><text>Upon a determination described in subparagraph (A), the Director shall make a recommendation to the
+			 Secretary that the contract be terminated.</text>
+							</clause><clause id="H2AACA315FA364188999732DDC0D7D37A"><enum>(ii)</enum><header>Action by Secretary</header><text>Upon receipt of a recommendation under clause (i), the Secretary may—</text>
+								<subclause id="H6E67A86E8F8C4A75AEEAD8F4BC7443B2"><enum>(I)</enum><text>terminate the contract;</text>
+								</subclause><subclause id="H6ADC88124A4846BAACBE934C94BB109F"><enum>(II)</enum><text>make a referral to the Office of Federal Contract Compliance Programs of the Department of Labor;
+			 or</text>
+								</subclause><subclause id="HB98C2F63A4314DA6B501C709CCE0B5C3"><enum>(III)</enum><text>take other appropriate action.</text>
+								</subclause></clause></subparagraph></paragraph></subsection><subsection id="H38A68938171D417C94262C02C2931E3B"><enum>(d)</enum><header>Reports</header><text>The Secretary shall submit to Congress an annual report regarding the actions taken by the
+			 Department of the Interior agency and the Office pursuant to this section,
+			 which shall include—</text>
+					<paragraph id="HC939AC886EAC4BE8AF01E2C60C57DB03"><enum>(1)</enum><text>a statement of the total amounts paid by the Department to contractors since the previous report;</text>
+					</paragraph><paragraph id="H5783C5FE891E40D8AEBE602DBFC2E830"><enum>(2)</enum><text>the percentage of the amounts described in paragraph (1) that were paid to contractors described in
+			 subsection (c)(1);</text>
+					</paragraph><paragraph id="HDC3B50C8D39D4D8CA9EB2654FAB80DB8"><enum>(3)</enum><text>the successes achieved and challenges faced by the Department in operating minority and women
+			 outreach programs;</text>
+					</paragraph><paragraph id="HDAF2CFB6D01241028402F767FA36832B"><enum>(4)</enum><text>the challenges the Department may face in hiring minority and women employees and contracting with
+			 minority-owned and women-owned businesses; and</text>
+					</paragraph><paragraph id="H369615FC4BC84F3088126CBF9FAC8492"><enum>(5)</enum><text>any other information, findings, conclusions, and recommendations for legislative or Department
+			 action, as the Director determines appropriate.</text>
+					</paragraph></subsection><subsection id="HD6BFBB0544054C5FB7E8DF686521B161"><enum>(e)</enum><header>Diversity in Department workforce</header><text>The Secretary shall take affirmative steps to seek diversity in the workforce of the Department at
+			 all levels of the Department in a manner consistent with applicable law.
+			 Such steps shall include—</text>
+					<paragraph id="H694C062D60CE4757827678882818565E"><enum>(1)</enum><text>recruiting at historically black colleges and universities, Hispanic-serving institutions, women’s
+			 colleges, and colleges that typically serve majority minority populations;</text>
+					</paragraph><paragraph id="H3EFD7921073D43FA8EE9A665F2586553"><enum>(2)</enum><text>sponsoring and recruiting at job fairs in urban communities;</text>
+					</paragraph><paragraph id="HBEE63DF90A4A4E32847CA4C15C2F897C"><enum>(3)</enum><text>placing employment advertisements in newspapers and magazines oriented toward minorities and women;</text>
+					</paragraph><paragraph id="H20328C38AEDE41FDA2568AC38554A11E"><enum>(4)</enum><text>partnering with organizations that are focused on developing opportunities for minorities and women
+			 to be placed in energy industry internships, summer employment, and
+			 full-time positions;</text>
+					</paragraph><paragraph id="H62E004D121DE4A2887320C628571C429"><enum>(5)</enum><text>where feasible, partnering with inner-city high schools, girls’ high schools, and high schools with
+			 majority minority populations to establish or enhance financial literacy
+			 programs and provide mentoring; and</text>
+					</paragraph><paragraph id="HF49624BBA85B45D7B75B6F548671358E"><enum>(6)</enum><text>any other mass media communications that the Office determines necessary.</text>
+					</paragraph></subsection><subsection id="H8887BE412A534DD281A5768589CCD9FC"><enum>(f)</enum><header>Definitions</header><text>For purposes of this section, the following definitions shall apply:</text>
+					<paragraph id="H3376C6FAA83941A8A593372F773A4C71"><enum>(1)</enum><header>Minority</header><text>The term <term>minority</term> means United States citizens who are Asian Indian American, Asian Pacific American, Black
+			 American, Hispanic American, or Native American.</text>
+					</paragraph><paragraph id="H65AB0AA2F15F45C5AD34965A61BD1941"><enum>(2)</enum><header>Minority-owned business</header><text>The term <term>minority-owned business</term> means a for-profit enterprise, regardless of size, physically located in the United States or its
+			 trust territories, which is owned, operated, and controlled by minority
+			 group members. <quote>Minority group members</quote> are United States citizens who are Asian Indian American, Asian Pacific American, Black American,
+			 Hispanic American, or Native American (terminology in NMSDC categories).
+			 Ownership by minority individuals means the business is at least 51
+			 percent owned by such individuals or, in the case of a publicly owned
+			 business, at least 51 percent of the stock is owned by one or more such
+			 individuals. Further, the management and daily operations are controlled
+			 by those minority group members. For purposes of NMSDC’s program, a
+			 minority group member is an individual who is a United States citizen with
+			 at least <fraction>1/4</fraction> or 25 percent minimum (documentation to support claim of 25 percent required from applicant) of
+			 one or more of the following:</text>
+						<subparagraph id="H2EB438B819AC49C5835C247AAA4E35EC"><enum>(A)</enum><text>Asian Indian American, which is a United States citizen whose origins are from India, Pakistan, or
+			 Bangladesh.</text>
+						</subparagraph><subparagraph id="HCC51962128504233B55591D7C69D9CAE"><enum>(B)</enum><text>Asian Pacific American, which is a United States citizen whose origins are from Japan, China,
+			 Indonesia, Malaysia, Taiwan, Korea, Vietnam, Laos, Cambodia, the
+			 Philippines, Thailand, Samoa, Guam, the United States Trust Territories of
+			 the Pacific, or the Northern Marianas.</text>
+						</subparagraph><subparagraph id="H8A5719F9D4F14B358EA3D4A3E00993CF"><enum>(C)</enum><text>Black American, which is a United States citizen having origins in any of the Black racial groups
+			 of Africa.</text>
+						</subparagraph><subparagraph id="HA88F4E8AEDB04CFE95660FE3077EEB5A"><enum>(D)</enum><text>Hispanic American, which is a United States citizen of true-born Hispanic heritage, from any of the
+			 Spanish-speaking areas of the following regions: Mexico, Central America,
+			 South America, and the Caribbean Basin only.</text>
+						</subparagraph><subparagraph id="H4D64BBB1B0974DC484E4DA095462663F"><enum>(E)</enum><text>Native American, which is a person who is an American Indian, Eskimo, Aleut or Native Hawaiian, and
+			 regarded as such by the community of which the person claims to be a part.
+			 Native Americans must be documented members of a North American tribe,
+			 band, or otherwise organized group of native people who are indigenous to
+			 the continental United States and proof can be provided through a Native.</text>
+						</subparagraph></paragraph><paragraph id="H543D5640D2ED43048631148C5531BA2F"><enum>(3)</enum><header>NMSDC</header><text>The term <term>NMSDC</term> means the National Minority Supplier Development Council.</text>
+					</paragraph><paragraph id="H6292B9BA329C453CA83BE6391A36B024"><enum>(4)</enum><header>Office</header><text>The term <term>Office</term> means the Office of Minority and Women Inclusion established under subsection (a).</text>
+					</paragraph><paragraph id="H9F5CBA7FA3984116A966D9E53CCD96D6"><enum>(5)</enum><header>Women-owned business</header><text>The term <term>women-owned business</term> means a business that can verify through evidence documentation that 51 percent or more is
+			 women-owned, managed, and controlled. The business must be open for at
+			 least 6 months. The business owner must be a United States citizen or
+			 legal resident alien. Evidence must indicate that—</text>
+						<subparagraph id="HD7D355BF19414CD08FC2C703BB48FA39"><enum>(A)</enum><text>the contribution of capital or expertise by the woman business owner is real and substantial and in
+			 proportion to the interest owned;</text>
+						</subparagraph><subparagraph id="H34539BFC120E49EFA57D144847E78AF0"><enum>(B)</enum><text>the woman business owner directs or causes the direction of management, policy, fiscal, and
+			 operational matters; and</text>
+						</subparagraph><subparagraph id="H62E8FB4C4D704AD28FC812B005FE5F3F"><enum>(C)</enum><text>the woman business owner has the ability to perform in the area of specialty or expertise without
+			 reliance on either the finances or resources of a firm that is not owned
+			 by a woman.</text>
+						</subparagraph></paragraph></subsection></section></title><title id="HAF44C92A978B4748B47F8091941D8590"><enum>IV</enum><header>Miscellaneous provisions</header>
+			<section id="H619E9A40739E426FBD666D1A9FED142D"><enum>401.</enum><header>Reporting</header><text display-inline="no-display-inline">Within 12 months of the effective date of this Act and annually thereafter, the Secretary of the
+			 Interior, in consultation with the Assistant Secretary for Energy
+			 Employment and Training, shall submit a report to Congress on the
+			 Department’s compliance with the requirements of titles III and IV,
+			 including but not limited to specific information regarding the numbers
+			 and types of jobs created through the Department of the Interior’s
+			 efforts, the results of the Department’s efforts to enhance the quality
+			 and efficiency of planning and permitting processes, and of any actions
+			 taken to increase total production and to encourage production early in
+			 lease terms.</text>
+			</section></title></legis-body>
+</bill>
+
+

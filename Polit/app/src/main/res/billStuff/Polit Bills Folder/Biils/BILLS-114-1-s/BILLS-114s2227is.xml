@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2227 IS: Private Spectrum Relocation Funding Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-11-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2227</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151103">November 3, 2015</action-date>
+			<action-desc><sponsor name-id="S338">Mr. Manchin</sponsor> (for himself and <cosponsor name-id="S318">Mr. Wicker</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the National Telecommunications and Information Administration Organization Act to permit
+			 the National Telecommunications and Information Administration to
+			 authorize Federal agencies to accept certain payments related to spectrum
+			 efficiency and reallocation, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Private Spectrum Relocation Funding Act of 2015</short-title></quote>.</text>
+ </section><section display-inline="no-display-inline" id="idC7D42AF843D8482E8A409E50B849F009"><enum>2.</enum><header>Funds related to spectrum transitions</header><text display-inline="no-display-inline">Section 113 of the National Telecommunications and Information Administration Organization Act (<external-xref legal-doc="usc" parsable-cite="usc/47/923">47 U.S.C. 923</external-xref>) is amended—</text>
+ <paragraph id="idFB4D431C78B941E88298AE2B6D96EF9C"><enum>(1)</enum><text>by redesignating subsection (l) as subsection (m); and</text> </paragraph><paragraph id="id729BFEFEE5024B048A99B965B5F1A777"><enum>(2)</enum><text>by inserting after subsection (k) the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id7E07CECC31944A11A3259EDC7DD20286" style="OLC">
+					<subsection id="id150E355F2887441AA4136191C54AD799"><enum>(l)</enum><header>Certain payments related to spectrum transitions</header>
+ <paragraph id="id7C6516ECF07641298923C99AF8433678"><enum>(1)</enum><header>Definitions</header><text>In this subsection—</text> <subparagraph id="id5C0D52988012407D89FC98E0E7B7065D"><enum>(A)</enum><text>the term <term>covered transition plan</term> means a transition plan that has been—</text>
+ <clause id="id7EE05ECF0E814593B4F146442EA72492"><enum>(i)</enum><text>submitted to the NTIA and the Technical Panel under subsection (h);</text>
+ </clause><clause id="idA28837C34F4F4D17987772AF936532EC"><enum>(ii)</enum><text>reviewed and deemed sufficient by the Technical Panel under that subsection; and</text> </clause><clause id="id48A3CEDB8AD647E8B0763E6F96D97F2E"><enum>(iii)</enum><text>published as provided under that subsection; and</text>
+ </clause></subparagraph><subparagraph id="id2DC50D0D6B2F43FA9950585FA09E2F87"><enum>(B)</enum><text>the term <term>Technical Panel</term> means the Technical Panel established under subsection (h)(3).</text> </subparagraph></paragraph><paragraph id="id0761CB11C3534EBC88E8AED397A5CA25"><enum>(2)</enum><header>Certain payments permitted</header><text>Notwithstanding section 1341, subchapter II of chapter 15, and section 3302 of title 31, United States Code, a Federal entity may collect or receive any money or other thing of value from a private entity as payment or reimbursement to accelerate—</text>
+ <subparagraph id="id0E20476D46604F08A4634A4B5C427BA6"><enum>(A)</enum><text>the implementation of a covered transition plan; or</text>
+ </subparagraph><subparagraph id="idDBE3359FC764442F850238615E609163"><enum>(B)</enum><text>commercial or other non-Federal use of spectrum subject to a covered transition plan.</text>
+ </subparagraph></paragraph><paragraph id="idB3A6121379F1403D9248A747DB7B20A0"><enum>(3)</enum><header>Conditions on use of funds</header><text>A Federal entity may not collect or receive any money or other thing of value under paragraph (2) unless—</text>
+ <subparagraph id="idFA808BA6D4144CBD9A2F3E71ED601138"><enum>(A)</enum><text>the entity submits a proposal to the NTIA describing—</text>
+ <clause id="id33D8216756B64E5B95B01B911566B736"><enum>(i)</enum><text>the activities for which the entity is to be paid or reimbursed; and</text>
+ </clause><clause id="id7b56c03862a0478cba6e1d700ecccac8"><enum>(ii)</enum><text>the extent to which the activities described in clause (i) are expected to accelerate—</text> <subclause id="idE1FCD02B66074BBAAC430C415001E344"><enum>(I)</enum><text>the implementation of a covered transition plan; or</text>
+ </subclause><subclause id="id13B0FB2048AC4637BA13844B59E0D26F"><enum>(II)</enum><text>commercial or other non-Federal use of spectrum subject to a covered transition plan; and</text>
+ </subclause></clause></subparagraph><subparagraph id="id85F0601DCF3D4B469B59467922211889"><enum>(B)</enum><text>the Technical Panel approves the proposal submitted under subparagraph (A)—</text>
+ <clause id="idDDB3EA9DF0DA49D7B63EA15E7317C9F7"><enum>(i)</enum><text>based on written findings of the Technical Panel, made publicly available on the website of the NTIA, that—</text>
+ <subclause id="id88C61D92A5034FCAAE4562237A715CAF"><enum>(I)</enum><text>the funded activities are reasonably likely to materially accelerate the implementation of a covered transition plan or commercial or other non-Federal use of spectrum subject to a covered transition plan, as described in the proposal; and</text>
+ </subclause><subclause id="id3D554C449F2E44E28588D044E617EC09"><enum>(II)</enum><text>the Federal entity would be unable to achieve the outcomes described in subparagraph (A)(ii) without the money or other thing of value that the Federal entity proposes to collect or receive; and</text>
+ </subclause></clause><clause id="idE45A9025735E48D5B2481DC9E192932C"><enum>(ii)</enum><text>which, when approved, shall be considered an update to the covered transition plan of the Federal entity.</text></clause></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section></legis-body></bill>
+
+

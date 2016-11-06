@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2214 IS: Cody Miller Patient Medication Information Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-10-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2214</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151028">October 28, 2015</action-date>
+			<action-desc><sponsor name-id="S331">Mrs. Gillibrand</sponsor> (for herself, <cosponsor name-id="S366">Ms. Warren</cosponsor>, <cosponsor name-id="S284">Ms. Stabenow</cosponsor>, <cosponsor name-id="S307">Mr. Brown</cosponsor>, and <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Food, Drug, and Cosmetic Act to require patient medication information to be
+			 provided with certain prescription drugs.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Cody Miller Patient Medication Information Act</short-title></quote>.</text>
+ </section><section id="id05659749cfbe4e8b97dd239837d18fba"><enum>2.</enum><header>Patient medication information for prescription drugs</header><text display-inline="no-display-inline">Chapter V of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/351">21 U.S.C. 351 et seq.</external-xref>) is amended by inserting after section 505E the following:</text>
+			<quoted-block display-inline="no-display-inline" id="idB745BA5F9ED74B83980C45D268404B38" style="OLC">
+				<section id="id6652599e9f864fef8e883d5b0bff9692"><enum>505F.</enum><header>Patient medication information for prescription drugs</header>
+ <subsection id="id108adcd916004072a5e8d0da643fbd2d"><enum>(a)</enum><header>In general</header><text>Not later than 2 years after the date of enactment of this section, the Secretary shall issue final regulations regarding the authorship, content, format, and dissemination requirements for patient medication information for drugs subject to section 503(b)(1).</text>
+ </subsection><subsection id="id73dffca543344b1f96d63bba69e5a40b"><enum>(b)</enum><header>Content</header><text>The regulations promulgated under subsection (a) shall require that the patient medication information with respect to a drug—</text>
+ <paragraph id="id25d3e545c1464f62a4a76b514739f4e7"><enum>(1)</enum><text>be scientifically accurate, include relevant patient safety information, and be based on the professional labeling approved by the Secretary; and</text>
+ </paragraph><paragraph id="ide86e060206b8425da096042d8b0d8a2d"><enum>(2)</enum><text>include standard, nontechnical, understandable, plain language that is not promotional in tone or content, and contain at least—</text>
+ <subparagraph id="id4ab1f0664f0b483aa8fe4beef88a34f6"><enum>(A)</enum><text>the established name of the drug or the proper name of the biological product, as applicable;</text> </subparagraph><subparagraph id="id6babe8cb3815490880a8869d2bf8845f"><enum>(B)</enum><text>drug uses;</text>
+ </subparagraph><subparagraph id="id144a2f25e0e644b19a9c2df8cbacd309"><enum>(C)</enum><text>general directions for proper use;</text> </subparagraph><subparagraph id="id3d321cbf93df45269a31cc0e79d0cdd8"><enum>(D)</enum><text>contraindications, the most frequently occurring adverse reactions, and adverse reactions that are important for other reasons (such as because they are serious), especially with respect to certain groups such as children, pregnant women, and the elderly;</text>
+ </subparagraph><subparagraph id="id1782a18df7d94f14b4cfd9c4c65c082c"><enum>(E)</enum><text>measures patients may be able to take, if any, to reduce the side effects and risks of the drug;</text> </subparagraph><subparagraph id="idbe3e0efc94a844ed9256a110163807be"><enum>(F)</enum><text>when a patient should contact his or her health care professional;</text>
+ </subparagraph><subparagraph id="id50662a878e9a4749aa88b4e175b7e0b5"><enum>(G)</enum><text>instructions not to share medications, and, if any exist, key storage requirements, and recommendations relating to proper disposal of any unused portion of the drug;</text>
+ </subparagraph><subparagraph id="idd90fed912d214fd6a876115709b45a71"><enum>(H)</enum><text>known clinically important interactions with other drugs and substances; and</text> </subparagraph><subparagraph id="id0dec1f6ce71242c1b768294a94346039"><enum>(I)</enum><text>a statement of whether sufficient data are available concerning the use of the drug in specified subpopulations, such as women, pregnant women, lactating women, women and men of reproductive age, pediatric, geriatric, racial and ethnic minority groups, and other subpopulations.</text>
+ </subparagraph></paragraph></subsection><subsection id="id0d432c152f144af4b391c36764acc437"><enum>(c)</enum><header>Timeliness, consistency, and accuracy</header><text>The regulations promulgated under subsection (a) shall include standards relating to how the Secretary—</text>
+ <paragraph id="id178afb9f683843ada2b1c873a9a4d727"><enum>(1)</enum><text>shall perform timely reviews and updates of patient medication information as new drugs and new information become available;</text>
+ </paragraph><paragraph id="id0827e385586c45aab6b2fef6aad6be55"><enum>(2)</enum><text>may perform, when appropriate, updates to help communicate information that is shared by similar drug products or drugs within classes of medications in order to avoid patient confusion and harm; and</text>
+ </paragraph><paragraph id="id4d02b4ffd32d4966991cc287409dd69b"><enum>(3)</enum><text>shall develop a process, including consumer testing, to assess the quality and effectiveness of patient medication information in ensuring that patient medication information developed in accordance with this section promotes patient understanding and safe and effective medication use.</text>
+ </paragraph></subsection><subsection id="idb724aa5530974b2999ae096f19042ffd"><enum>(d)</enum><header>Electronic repository</header><text>The regulations promulgated under subsection (a) shall provide for the development of a publicly accessible electronic repository for all patient medication information documents and content to facilitate the availability of patient medication information.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section commented="no" id="id7a6f75c873da424f88186596dd44e9f0"><enum>3.</enum><header>Enforcement and dissemination</header>
+ <subsection commented="no" id="id273DBE5E788243EF981872BE034B506E"><enum>(a)</enum><header>Enforcement</header><text>Section 502 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/352">21 U.S.C. 352</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idE0F9DF0266E143B7B3A54281071D13EF" style="OLC">
+ <subsection id="id0DA352655D19428A8AF5896B221396D8"><enum>(dd)</enum><text>If it is a drug subject to section 503(b)(1) and patient medical information described in section 505F is not provided, as required under section 503(b)(1).</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection commented="no" id="id913C6972AA454406A53BAFB9AEA1FBA7"><enum>(b)</enum><header>Dissemination</header><text>Section 503(b) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/353">21 U.S.C. 353</external-xref>) is amended by inserting <quote>Under the circumstances determined by the Secretary through regulation or guidance, a drug dispensed in accordance with this paragraph shall be accompanied by the patient medication information for such drug developed in accordance with section 505F</quote> after <quote>by the pharmacist.</quote>.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

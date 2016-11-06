@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="HBD4211794AAF44FDAAF505A631073AE2" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1563 RH: Federal Employee Tax Accountability Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IB</distribution-code>
+		<calendar display="yes">Union Calendar No. 53</calendar>
+		<congress display="yes">114th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>H. R. 1563</legis-num>
+		<associated-doc display="yes" role="report">[Report No. 114–73, Part I]</associated-doc>
+		<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150324">March 24, 2015</action-date>
+			<action-desc><sponsor name-id="C001076">Mr. Chaffetz</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name>, and in addition to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<action>
+			<action-date date="20150414">April 14, 2015</action-date>
+			<action-desc>Additional sponsor: <cosponsor name-id="C001051">Mr. Carter of Texas</cosponsor></action-desc>
+		</action>
+		<action>
+			<action-date date="20150414">April 14, 2015</action-date>
+			<action-desc>Reported from the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc>
+		</action>
+		<action>
+			<action-date date="20150414">April 14, 2015</action-date>
+			<action-desc>The <committee-name committee-id="HHA00">Committee on House Administration</committee-name> discharged; committed to the Committee of the Whole House on the State of the Union and ordered to
+			 be printed<pagebreak></pagebreak></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend title 5, United States Code, to provide that individuals having seriously delinquent tax
+			 debts shall be ineligible for Federal employment, and for other purposes.<pagebreak></pagebreak></official-title>
+	</form>
+	<legis-body id="HCC5428CBDFC94B90A55AC1F28C307790" style="OLC">
+ <section id="H6015906BCE094BFAA7DCD923D9169DAD" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Federal Employee Tax Accountability Act of 2015</short-title></quote>.</text> </section><section id="H92F843FF7ADC4DBDA7220CD9251F00CF"><enum>2.</enum><header>Ineligibility of noncompliant taxpayers for Federal employment</header> <subsection id="HC44482C6DB2A45A4A20289CFE642605C"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/73">Chapter 73</external-xref> of title 5, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H248D2DA315CB406C93D9BE97F6D7B68D" style="USC">
+					<subchapter id="H408ABE62211442C6A4024C3BD0574B58"><enum>VIII</enum><header>Ineligibility of Noncompliant Taxpayers for Federal Employment</header>
+ <section id="H635394A72BA74CF28692768E4B3B0770"><enum>7381.</enum><header>Definitions</header><text display-inline="no-display-inline">For purposes of this subchapter—</text> <paragraph id="HD98B92A850434D24A29FDBD6C59ECBB3"><enum>(1)</enum><text>The term <term>seriously delinquent tax debt</term> means a Federal tax liability that has been assessed by the Secretary of the Treasury under the Internal Revenue Code of 1986 and may be collected by the Secretary by levy or by a proceeding in court, except that such term does not include—</text>
+ <subparagraph id="HDEAF800A7D4B4E7C912B53D798E21F4E"><enum>(A)</enum><text>a debt that is being paid in a timely manner pursuant to an agreement under section 6159 or section 7122 of such Code;</text>
+ </subparagraph><subparagraph id="HF6F00F5536174EA58CA143DF782388DA"><enum>(B)</enum><text>a debt with respect to which a collection due process hearing under section 6330 of such Code, or relief under subsection (a), (b), or (f) of section 6015 of such Code, is requested or pending;</text>
+ </subparagraph><subparagraph id="H435044DAF7AE47FFB5F4DC83E9B7E66B"><enum>(C)</enum><text display-inline="yes-display-inline">a debt with respect to which a continuous levy has been issued under section 6331 of such Code (or, in the case of an applicant for employment, a debt with respect to which the applicant agrees to be subject to such a levy); and</text>
+ </subparagraph><subparagraph commented="no" id="H0D59B74F94044F8E80777491037BF706"><enum>(D)</enum><text>a debt with respect to which such a levy is released under section 6343(a)(1)(D) of such Code;</text> </subparagraph></paragraph><paragraph id="H92D0AE385EAD4CA092DC7A2A947687D0"><enum>(2)</enum><text>the term <term>employee</term> means an employee in or under an agency, including an individual described in sections 2104(b) and 2105(e); and</text>
+ </paragraph><paragraph id="H2A96F975DB8F44C3AC2947DA95B623CF"><enum>(3)</enum><text>the term <term>agency</term> means—</text> <subparagraph id="HC03717A902AA4705AE7EF2A544297720"><enum>(A)</enum><text>an Executive agency;</text>
+ </subparagraph><subparagraph id="HB4A41172EEFD4C2696D6DDE2CD7E12E8"><enum>(B)</enum><text>the United States Postal Service;</text> </subparagraph><subparagraph id="HD35B4EF90FD34728904B82E9EBCFDEED"><enum>(C)</enum><text>the Postal Regulatory Commission; and</text>
+ </subparagraph><subparagraph id="HCF51D9079E2E4E97AF3B97CCF08C825E"><enum>(D)</enum><text>an employing authority in the legislative branch.</text> </subparagraph></paragraph></section><section id="HE9FA95938FB44C4EA1B7F87181F644A5"><enum>7382.</enum><header>Ineligibility for employment</header> <subsection id="H7F338C1E5471438780F9B5644A5C202E"><enum>(a)</enum><header>In general</header><text>Subject to subsection (c), any individual who has a seriously delinquent tax debt shall be ineligible to be appointed or to continue serving as an employee.</text>
+ </subsection><subsection id="H501D2E013ABF461C8902D55A942367A9"><enum>(b)</enum><header>Disclosure requirement</header><text>The head of each agency shall take appropriate measures to ensure that each individual applying for employment with such agency shall be required to submit (as part of the application for employment) certification that such individual does not have any seriously delinquent tax debt.</text>
+ </subsection><subsection id="H77F1AFF360E64343935540AB8C8DBFAB"><enum>(c)</enum><header>Regulations</header><text>The Office of Personnel Management, in consultation with the Internal Revenue Service, shall, for purposes of carrying out this section with respect to the executive branch, promulgate any regulations which the Office considers necessary, except that such regulations shall provide for the following:</text>
+ <paragraph id="HCA314533547A480FB52DE153FBDF1B03"><enum>(1)</enum><text>All applicable due process rights, afforded by chapter 75 and any other provision of law, shall apply with respect to a determination under this section that an applicant is ineligible to be appointed or that an employee is ineligible to continue serving.</text>
+ </paragraph><paragraph id="HA6476A01959349A9A4512E99204E419F"><enum>(2)</enum><text>Before any such determination is given effect with respect to an individual, the individual shall be afforded 180 days to demonstrate that such individual’s debt is one described in subparagraph (A), (B), (C), or (D) of section 7381(a)(1).</text>
+ </paragraph><paragraph id="H595631719BCB43A99962FE1CDA0DBC34"><enum>(3)</enum><text display-inline="yes-display-inline">An employee may continue to serve, in a situation involving financial hardship, if the continued service of such employee is in the best interests of the United States, as determined on a case-by-case basis.</text>
+ </paragraph></subsection><subsection display-inline="no-display-inline" id="HD3EDE31E9E0649C0B6BBF28DAAEC4458"><enum>(d)</enum><header>Reports to Congress</header><text display-inline="yes-display-inline">The Director of the Office of Personnel Management shall report annually to Congress on the number of exemptions requested and the number of exemptions granted under subsection (c)(3).</text>
+							</subsection></section><section id="HC2949348341D4BECB806205BFE4EF8FC"><enum>7383.</enum><header>Review of public records</header>
+ <subsection id="HB78D1A9845AA40A5B7D74B7B449DAC8D"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Each agency shall provide for such reviews of public records as the head of such agency considers appropriate to determine if a notice of lien has been filed pursuant to <external-xref legal-doc="usc" parsable-cite="usc/26/6323">section 6323</external-xref> of the Internal Revenue Code of 1986 with respect to an employee of or an applicant for employment with such agency.</text>
+ </subsection><subsection id="HA5CEBC0A9E044AF6AC49A673EA48D429"><enum>(b)</enum><header>Additional requests</header><text>If a notice of lien is discovered under subsection (a) with respect to an employee or applicant for employment, the agency may—</text>
+ <paragraph id="H789A09F21DBF4460BD13523663819126"><enum>(1)</enum><text display-inline="yes-display-inline">request that the employee or applicant execute and submit a form authorizing the Secretary of the Treasury to disclose to the head of the agency information limited to describing whether—</text>
+ <subparagraph id="HE98B11F94AB74C638C1A6148DBC917C3"><enum>(A)</enum><text>the employee or applicant has a seriously delinquent tax debt; or</text> </subparagraph><subparagraph id="HB1022CC66C6241E5B429F9D5BDB0A922"><enum>(B)</enum><text>there is a final administrative or judicial determination that such employee or applicant committed any act described under section 7385(b); and</text>
+ </subparagraph></paragraph><paragraph id="HCCE1171A6AEF4EB3AF0C0F67F9F28057"><enum>(2)</enum><text>request that the Secretary of the Treasury disclose any information so authorized to be disclosed.</text> </paragraph></subsection><subsection id="HA7AA81E6C99D49C7A84EA4A3F5A83205"><enum>(c)</enum><header>Authorization form</header><text>The Secretary of the Treasury shall make available to all agencies a standard form for the authorization described in subsection (b)(1).</text>
+ </subsection><subsection id="H04D2D22DDAA94270AAD113A8D5012E06"><enum>(d)</enum><header>Negative consideration</header><text>The head of an agency, in considering an individual’s application for employment or in making an employee appraisal or evaluation, shall give negative consideration to a refusal or failure to comply with a request under subsection (b)(1).</text>
+ </subsection></section><section id="HD3E4F0B5DC124F8B9E2FA736DD190DA6"><enum>7384.</enum><header>Confidentiality</header><text display-inline="no-display-inline">Neither the head nor any other employee of an agency may—</text> <paragraph id="HE5DAE5EA3556475B902B0F712A99F126"><enum>(1)</enum><text>use any information furnished under the provisions of this subchapter for any purpose other than the administration of this subchapter;</text>
+ </paragraph><paragraph id="HE1AF7493B6464714AE9C178A4E3E1027"><enum>(2)</enum><text>make any publication whereby the information furnished by or with respect to any particular individual under this subchapter can be identified; or</text>
+ </paragraph><paragraph id="H74F4994BD6CB4D95A2AD88077EADDAA3"><enum>(3)</enum><text>permit anyone who is not an employee of such agency to examine or otherwise have access to any such information.</text>
+							</paragraph></section><section id="H09C32CF8ACAD48DA97DF83F761BF85C4"><enum>7385.</enum><header>Adverse actions for employees who understate taxes or fail to file</header>
+							<subsection id="H6410B402D130446288DFEDDA1C8AEBAF"><enum>(a)</enum><header>In general</header>
+ <paragraph id="H328E09D530824619837849A39F044E4F"><enum>(1)</enum><header>In general</header><text>Subject to subsection (c) and paragraph (2) of this subsection, the head of an agency may take any personnel action against an employee of such agency if there is a final administrative or judicial determination that such employee committed any act described under subsection (b).</text>
+ </paragraph><paragraph id="HB19CD8DF9D13484D85CDA456915F25E9"><enum>(2)</enum><header>Personnel actions</header><text>In paragraph (1), the term <quote>personnel action</quote> includes separation but does not include administrative leave or any other type of paid leave without duty or charge to leave.</text>
+ </paragraph></subsection><subsection id="HA534AE03CB284E8B83EAEF7867CAC1E9"><enum>(b)</enum><header>Acts</header><text display-inline="yes-display-inline">The acts referred to under subsection (a)(1) are—</text> <paragraph id="H60C7A19E47C34A0BA4756C70AFE63132"><enum>(1)</enum><text display-inline="yes-display-inline">willful failure to file any return of tax required under the Internal Revenue Code of 1986, unless such failure is due to reasonable cause and not to willful neglect; or</text>
+ </paragraph><paragraph id="HA0C0E4D367BE4200AC75350E1570681C"><enum>(2)</enum><text display-inline="yes-display-inline">willful understatement of Federal tax liability, unless such understatement is due to reasonable cause and not to willful neglect.</text>
+ </paragraph></subsection><subsection id="H1A734CC64AF84DE3A17EBC486E590013"><enum>(c)</enum><header>Procedure</header><text display-inline="yes-display-inline">Under regulations prescribed by the Office of Personnel Management, an employee subject to a personnel action under this section shall be entitled to the procedures provided under sections 7513 or 7543, as applicable.</text>
+							</subsection></section></subchapter><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H967B1EA5B73E47B896DC96B395D84282"><enum>(b)</enum><header>Clerical amendment</header><text>The analysis for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/73">chapter 73</external-xref> of title 5, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H38038C91DC5C486996EE6739EFFBA418" style="traditional">
+					<toc container-level="quoted-block-container" idref="H248D2DA315CB406C93D9BE97F6D7B68D" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+						<toc-entry idref="H408ABE62211442C6A4024C3BD0574B58" level="subchapter">SUBCHAPTER VIII—INELIGIBILITY OF NONCOMPLIANT TAXPAYERS FOR FEDERAL EMPLOYMENT</toc-entry>
+						<toc-entry idref="H635394A72BA74CF28692768E4B3B0770" level="section">7381. Definitions.</toc-entry>
+						<toc-entry idref="HE9FA95938FB44C4EA1B7F87181F644A5" level="section">7382. Ineligibility for employment.</toc-entry>
+						<toc-entry idref="HC2949348341D4BECB806205BFE4EF8FC" level="section">7383. Review of public records.</toc-entry>
+						<toc-entry idref="HD3E4F0B5DC124F8B9E2FA736DD190DA6" level="section">7384. Confidentiality.</toc-entry>
+						<toc-entry level="section">7385. Adverse actions for employees who fail to file or underreport taxes.</toc-entry></toc><after-quoted-block>. </after-quoted-block></quoted-block>
+ </subsection></section><section id="H4ABD6041041B4D9B868A0F3E4E53F31F"><enum>3.</enum><header>Effective date</header><text display-inline="no-display-inline">This Act and the amendments made by this Act shall take effect 9 months after the date of enactment of this Act.</text>
+		</section></legis-body>
+	<endorsement display="yes">
+		<action-date date="20150414">April 14, 2015</action-date>
+		<action-desc>Reported from the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc>
+		<action-date date="20150414">April 14, 2015</action-date>
+		<action-desc>The <committee-name committee-id="HHA00">Committee on House Administration</committee-name> discharged; committed to the Committee of the Whole House on the State of the Union and ordered to
+			 be printed</action-desc></endorsement>
+</bill>
+
+

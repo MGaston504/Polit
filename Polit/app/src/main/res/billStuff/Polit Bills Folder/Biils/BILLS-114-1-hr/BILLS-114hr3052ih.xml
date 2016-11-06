@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H0CEC0EA957034A65AB30DE56FCBA1EAB" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3052 IH: To amend title 28, United States Code, to prevent the misuse of foreign law in Federal courts, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3052</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150714">July 14, 2015</action-date>
+			<action-desc><sponsor name-id="B001273">Mrs. Black</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 28, United States Code, to prevent the misuse of foreign law in Federal courts, and
+			 for other purposes.</official-title>
+	</form>
+	<legis-body id="HFE4368810BA542EF9B5A4F3655A28F83" style="OLC">
+ <section id="H290F16025CBD4D5EA035CAD014FBE78C" section-type="section-one"><enum>1.</enum><header>Use of foreign law in Federal courts</header><text display-inline="no-display-inline">Part VI of title 28, United States Code, is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H449E3AACA16445B3B270162C5DEC2114" style="USC"> <chapter id="HDBD41082E97F407DA8A707393BF3E486"><enum>183</enum><header>Use of foreign law in Federal courts</header> <toc container-level="chapter-container" idref="HDBD41082E97F407DA8A707393BF3E486" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration"> <toc-entry idref="HAB913011664F45AB9205D7CD7053912D" level="section">Sec.</toc-entry> <toc-entry level="section">4201. Limitation on use of foreign law in Federal courts.</toc-entry> </toc> <section id="HAB913011664F45AB9205D7CD7053912D"><enum>4201.</enum><header>Limitation on use of foreign law in Federal courts</header><text display-inline="no-display-inline">In any court created by or under article III of the Constitution of the United States, no justice, judge, or other judicial official shall decide any issue in a case before that court in whole or in part on the authority of foreign law, except to the extent the Constitution or an Act of Congress requires the consideration of that foreign law.</text></section></chapter><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="H5522230773B643A0AFAEAC1C4759B1DB"><enum>2.</enum><header>Clerical amendment</header><text display-inline="no-display-inline">The table of chapters for part VI of title 28, United States Code, is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HB0C2824FDFC34E47A43159C8CF35F9CB" style="USC">
+				<toc regeneration="no-regeneration">
+					<multi-column-toc-entry bold="on" level="section"><toc-enum>183.</toc-enum><level-header bold="on" level="section">Use of foreign law in Federal courts</level-header><target>4201</target></multi-column-toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9941B7927B9E452C8503384E7A24D5BC" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 212 IH: Drinking Water Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 212</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150108">January 8, 2015</action-date> 
+<action-desc><sponsor name-id="L000566">Mr. Latta</sponsor> (for himself, <cosponsor name-id="M001150">Mrs. Miller of Michigan</cosponsor>, <cosponsor name-id="Q000023">Mr. Quigley</cosponsor>, and <cosponsor name-id="K000009">Ms. Kaptur</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Safe Drinking Water Act to provide for the assessment and management of the risk of cyanotoxins in drinking water, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H781D79D6C81D42EBBF3D72808F45DB20" style="OLC"> 
+<section id="HCCCB9C7561BB4888B235CE53547680E8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Drinking Water Protection Act</short-title></quote>. </text></section>
+<section id="H620A45B4BCBE494AAC7D0A6472134B97"><enum>2.</enum><header>Amendment to the Safe Drinking Water Act</header>
+<subsection id="H6300B5411C5944DCBDE8E6F339B6A011"><enum>(a)</enum><header>Amendment</header><text display-inline="yes-display-inline">At the end of part E of the Safe Drinking Water Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300j">42 U.S.C. 300j et seq.</external-xref>) add the following new section: </text>
+<quoted-block style="OLC" id="HAA21A9C55A49445D85D1D4FE048EF370" display-inline="no-display-inline">
+<section id="H9887EE45736A4B44A964644494C69062"><enum>1459.</enum><header>Cyanotoxin risk assessment and management<editorial></editorial></header>
+<subsection id="H9FEAA7C9E50B4F38BB479ECAFF7357D4"><enum>(a)</enum><header>Strategic plan</header>
+<paragraph id="HC31F0BB37DB843FC97BBAC974CC09E04"><enum>(1)</enum><header>Development</header><text>Not later than 90 days after the date of enactment of this section, the Administrator shall develop and submit to Congress a strategic plan for assessing and managing risks associated with cyanotoxins in drinking water provided by public water systems. The strategic plan shall include steps and timelines to—</text>
+<subparagraph id="H804DB39A66F8425F97BE8EAFE9FD76CF"><enum>(A)</enum><text>evaluate the risk to human health from drinking water provided by public water systems contaminated with cyanotoxins;</text></subparagraph>
+<subparagraph id="H92C93EFF1FD3413D89F01D736BB0F380"><enum>(B)</enum><text>establish, publish, and update a comprehensive list of cyanotoxins determined by the Administrator to be harmful to human health when present in drinking water provided by public water systems;</text></subparagraph>
+<subparagraph id="HF9E1A4FFEE354E4996A5D446FCFD46F9"><enum>(C)</enum><text>summarize—</text>
+<clause id="H929881A3B80942478E0E4473FFD74102"><enum>(i)</enum><text>the known adverse human health effects of cyanotoxins included on the list published under subparagraph (B) when present in drinking water provided by public water systems; and</text></clause>
+<clause id="HE463B9CB459A4DECA88EF5D6BD5E6998"><enum>(ii)</enum><text display-inline="yes-display-inline">factors that cause cyanobacteria to proliferate and express toxins;</text></clause></subparagraph>
+<subparagraph id="H052F2F6530394F8E9CC6F9A4D4A7C3A8"><enum>(D)</enum><text display-inline="yes-display-inline">with respect to cyanotoxins included on the list published under subparagraph (B), determine whether to—</text>
+<clause id="H0EC985A6634B4803B3562FE45CEA2E72" commented="no"><enum>(i)</enum><text display-inline="yes-display-inline">publish health advisories pursuant to section 1412(b)(1)(F) for such cyanotoxins in drinking water provided by public water systems;</text></clause>
+<clause id="H1B18955429CB48FE8538F897997F74AB"><enum>(ii)</enum><text>establish guidance regarding feasible analytical methods to quantify the presence of cyanotoxins; and</text></clause>
+<clause id="HD64BABDB07464E3F908C49392CA67E65"><enum>(iii)</enum><text display-inline="yes-display-inline">establish guidance regarding the frequency of monitoring necessary to determine if such cyanotoxins are present in drinking water provided by public water systems; </text></clause></subparagraph>
+<subparagraph id="H9C7BAB15019549F399F72A24BECBCDB2" commented="no"><enum>(E)</enum><text display-inline="yes-display-inline">recommend feasible treatment options, including procedures and equipment, to mitigate any adverse public health effects of cyanotoxins included on the list published under subparagraph (B); and</text></subparagraph>
+<subparagraph id="HFCCFD2A07E59434E852CD45897D74D8E" commented="no"><enum>(F)</enum><text display-inline="yes-display-inline">enter into cooperative agreements with, and provide technical assistance to, affected States and public water systems, as identified by the Administrator, for the purpose of managing risks associated with cyanotoxins included on the list published under subparagraph (B).</text></subparagraph></paragraph>
+<paragraph id="H83CDDAB618CC4C6782CD7AAF143DCF07"><enum>(2)</enum><header>Updates</header><text display-inline="yes-display-inline">The Administrator shall, as appropriate, update and submit to Congress the strategic plan developed under paragraph (1).</text></paragraph></subsection>
+<subsection id="HE8BDA4C8FDF74FC785A3C7ACEB397A05"><enum>(b)</enum><header>Information coordination</header><text display-inline="yes-display-inline">In carrying out this section the Administrator shall—</text>
+<paragraph id="HFB598C40195844D5903F5431EF35EA25"><enum>(1)</enum><text>identify gaps in the Agency’s understanding of cyanobacteria, including—</text>
+<subparagraph id="H706B5FC273B74727BE0833A479328C7D"><enum>(A)</enum><text display-inline="yes-display-inline">the human health effects of cyanotoxins included on the list published under subsection (a)(1)(B); and</text></subparagraph>
+<subparagraph id="H60D6C1BB3DC94954BA833ECF1B6C73FF"><enum>(B)</enum><text>methods and means of testing and monitoring for the presence of harmful cyanotoxins in source water of, or drinking water provided by, public water systems;</text></subparagraph></paragraph>
+<paragraph id="HBE91AD59718F423BAD017B6393796F76"><enum>(2)</enum><text>as appropriate, consult with—</text>
+<subparagraph id="H1F424C3AE0AD473CB565947821F06C06"><enum>(A)</enum><text display-inline="yes-display-inline">other Federal agencies that—</text>
+<clause id="HB336969C35CF4E8B895658AC95B08182"><enum>(i)</enum><text>examine or analyze cyanobacteria; or </text></clause>
+<clause id="HFD49279CC94C446B94C3939E0E04D648"><enum>(ii)</enum><text>address public health concerns related to harmful algal blooms;</text></clause></subparagraph>
+<subparagraph id="H2925284B2DA549B18ADE89669B46CBCC"><enum>(B)</enum><text>States; </text></subparagraph>
+<subparagraph id="H049C76D0EF3749399C03810274EA2A9F"><enum>(C)</enum><text>operators of public water systems;</text></subparagraph>
+<subparagraph id="H1EC15CDE7A8842C6A426933FD531EA53"><enum>(D)</enum><text>multinational agencies;</text></subparagraph>
+<subparagraph id="H0A1FFD4A4D0B46A0A8B80CFC40F21697"><enum>(E)</enum><text>foreign governments; and</text></subparagraph>
+<subparagraph id="H69226BE432E74A6AA68B75A5D690BEAA"><enum>(F)</enum><text>research and academic institutions; and</text></subparagraph></paragraph>
+<paragraph id="H7761C302CF1C4F5D9A777857D2613541"><enum>(3)</enum><text>assemble and publish information from each Federal agency that has—</text>
+<subparagraph id="HADBDF45DF1B942B6870B375145D29970"><enum>(A)</enum><text>examined or analyzed cyanobacteria; or</text></subparagraph>
+<subparagraph id="HA043215086B24211BE5F8CEDB618AA60"><enum>(B)</enum><text>addressed public health concerns related to harmful algal blooms.</text></subparagraph></paragraph></subsection>
+<subsection id="HDFFF093B27F54F079D36D95B2C083566"><enum>(c)</enum><header>Use of science</header><text display-inline="yes-display-inline">The Administrator shall carry out this section in accordance with the requirements described in section 1412(b)(3)(A), as applicable.</text></subsection>
+<subsection id="H97639A5EAA84489CBBC25EFB8E3C9709"><enum>(d)</enum><header>Feasible</header><text>For purposes of this section, the term <term>feasible</term> has the meaning given such term in section 1412(b)(4)(D).</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="HE650BA425EBB462A8C35A332DDFFB47C"><enum>(b)</enum><header>Report to Congress</header><text>Not later than 90 days after the date of enactment of this Act, the Comptroller General of the United States shall prepare and submit to Congress a report that includes—</text>
+<paragraph id="HB60CA9ECFD9941008CD653809B2638BA"><enum>(1)</enum><text>an inventory of funds—</text>
+<subparagraph id="H9304770C15974FA7A0EF902108119A2C"><enum>(A)</enum><text>expended by the United States, for each of fiscal years 2010 through 2014, to examine or analyze cyanobacteria or address public health concerns related to harmful algal blooms; and</text></subparagraph>
+<subparagraph id="HBA1F12F65A4F4C13A14C46E428BE1273"><enum>(B)</enum><text>that includes the specific purpose for which the funds were made available, the law under which the funds were authorized, and the Federal agency that received or spent the funds; and</text></subparagraph></paragraph>
+<paragraph id="H78F355FCF2784B88B4ACF64BE9A2B91F" display-inline="no-display-inline"><enum>(2)</enum><text>recommended steps to reduce any duplication, and improve interagency coordination, of such expenditures.</text></paragraph></subsection></section> 
+</legis-body> 
+</bill> 
+
+

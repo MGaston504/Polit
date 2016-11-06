@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H1776705182C64B538087CF3A81E7C4D0" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2695 IH: Sunlight for Unaccountable Non-profits Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2695</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150609">June 9, 2015</action-date>
+			<action-desc><sponsor name-id="C001084">Mr. Cicilline</sponsor> (for himself, <cosponsor name-id="D000610">Mr. Deutch</cosponsor>, <cosponsor name-id="C001080">Ms. Judy Chu of California</cosponsor>, <cosponsor name-id="W000800">Mr. Welch</cosponsor>, <cosponsor name-id="V000130">Mr. Vargas</cosponsor>, and <cosponsor name-id="G000559">Mr. Garamendi</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to require that return information from tax-exempt
+			 organizations be made available in a searchable format and to provide the
+			 disclosure of the identity of contributors to certain tax-exempt
+			 organizations, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H2CBFDECDE8214AA4B125EFB85AB4AB61" style="OLC">
+ <section id="H5799CD440DBF45C48F4AD7B4ED6862C6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Sunlight for Unaccountable Non-profits Act</short-title></quote> or the <quote><short-title>SUN Act</short-title></quote>.</text> </section><section id="HF6D31163C5394DCDBDF1FE44074E832D" section-type="subsequent-section"><enum>2.</enum><header>Return information of certain tax-exempt organizations available in a searchable format</header> <subsection id="H252F7E7A8E0A4435A6C2CEEF2F8B6C64"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/6104">Section 6104(b)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>made available to the public at such time and in such places as the Secretary may prescribe.</quote> and inserting <quote>made available to the public at no charge and in an open, structured data format that is processable by computers with the information easy to find, access, reuse, and download in bulk.</quote>.</text>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="HD85AE7E2DDF84D8EA56A96273F39EF42"><enum>(b)</enum><header display-inline="yes-display-inline">Effective date</header><text display-inline="yes-display-inline">The amendment made by this section shall apply to returns required to be filed after the date of the enactment of this Act.</text>
+			</subsection></section><section id="H9AC15519A68B4C1CA4D8AF4B823F5C82"><enum>3.</enum><header>Authority to disclose contributors to certain tax-exempt organizations</header>
+ <subsection id="HCE554DDD09224364B2ECBA331EF35933"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/6104">Section 6104(b)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>Nothing in this subsection shall authorize the Secretary to disclose the name and address of any contributor to any organization</quote> and inserting <quote>In the case of any applicable organization or trust, such information shall include the name and address of any qualified contributor to such organization which is required to be included on the return and the total contributions of such qualified contributor, but nothing in this subsection shall authorize the Secretary to disclose the name or address of any other contributor to such organization or any contributor to any other organization</quote>.</text>
+ </subsection><subsection id="H3282D7154BB54A3BB11D23FB01BBEDC8"><enum>(b)</enum><header>Definitions</header><text>Section 6104(b) of such Code is amended—</text> <paragraph id="H4B48584A38FE4D828A7D50F32241062A"><enum>(1)</enum><text>by striking <quote>The information</quote> and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="HDE42058AA3F04690BF45E9AD3FA87983" style="OLC">
+ <paragraph id="HDF7C3B3C53B54D2C9EA288FE2491E89B"><enum>(1)</enum><header>In general</header><text>The information</text></paragraph><after-quoted-block>, and</after-quoted-block></quoted-block> </paragraph><paragraph id="H1E678B93247946FAA920194E6908890F"><enum>(2)</enum><text>by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="HA0D915F648AA4F9091620ECF0268A630" style="OLC">
+ <paragraph id="H71B35180DA0A408E84239245ABA86906"><enum>(2)</enum><header>Definitions</header><text>For purposes of paragraph (1)—</text> <subparagraph id="H2529AC07884440D38FDCF97EF0BDCE6C"><enum>(A)</enum><header>Applicable organization or trust</header><text>The term <term>applicable organization or trust</term> means any organization or trust which—</text>
+ <clause id="H1F21BF142622492B8B0E3E8E5EB35920"><enum>(i)</enum><text>indicates on an application (or amendment to an application) for recognition of exemption from tax under section 501(a) that such organization has or plans to spend money attempting to influence the selection, nomination, election, or appointment of any person to a public office,</text>
+ </clause><clause id="H92F8457A7F1D4061832B9D3D6176275D"><enum>(ii)</enum><text>asserts on a return that such organization participated in, or intervened in (including through the publishing or distributing of statements), a political campaign on behalf of, or in opposition to, any candidate for public office,</text>
+ </clause><clause id="H384554A05B924EC8B2114ED1331AFC3E"><enum>(iii)</enum><text>has filed, or was required to file, a statement or report under subsection (c) or (g) of section 304 of the Federal Election Campaign Act of 1974 with respect to independent expenditures made during the taxable year, or</text>
+ </clause><clause id="H1661E91CF6134C65B55FBB9F310EB15C"><enum>(iv)</enum><text>has filed, or was required to file, a statement under section 304(f) of such Act with respect to disbursements for electioneering communications made during the taxable year.</text>
+ </clause></subparagraph><subparagraph id="HE4659D8BC93A42559FB1CBB26E37F9F9"><enum>(B)</enum><header>Qualified contributor</header><text>The term <term>qualified contributor</term> means, with respect to any applicable organization or trust, any person who made aggregate contributions (in money or other property) to such applicable organization or trust during the taxable year in an amount valued at $5,000 or more.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="HFDE031635B404B318EEAF19E9477698C"><enum>(c)</enum><header>Conforming amendment</header><text>Section 6104(d)(3)(A) of such Code is amended by striking the first sentence and inserting the following: <quote>In the case of any applicable organization or trust (as defined in subsection (b)(2)(A)), any copies of annual returns provided under paragraph (1) shall include information relating to the name and address of any qualified contributor (as defined in subsection (b)(2)(B)) to such organization and the total contributions of such qualified contributor, but nothing in such paragraph shall require the disclosure of the name or address of any other contributor to such organization or any contributor to any other organization (other than a private foundation (within the meaning of section 509(a)) or political organization exempt from taxation under section 527).</quote>.</text>
+ </subsection><subsection id="HBFDB7494BB9444809EAFE976590B7FE4"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this section shall apply to returns required to be filed after the date of the enactment of this Act.</text>
+			</subsection></section><section id="H2A34DBCDD3754E8D9D9E3E81F81FF47D" section-type="subsequent-section"><enum>4.</enum><header>Authority to withhold social security account numbers on form 990 from public disclosure</header>
+ <subsection id="H025D18AF125447ED9E3D4BA6528AC29E"><enum>(a)</enum><header>Inspection of annual returns</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/6104">Section 6104(b)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following: <quote>The Secretary may withhold from public inspection any social security account number included in information required to be made available under this subsection.</quote>.</text>
+			</subsection><subsection id="HC28B3916357144D9BCD1B157EFB2BD3F"><enum>(b)</enum><header>Public inspection of certain annual returns, reports, applications for exemption, and notices of
+ status</header><text>Section 6104(d)(3)(B) of such Code is amended by adding at the end the following: <quote>or disclosure of any social security account number included in information required to be made available under this subsection.</quote>.</text>
+ </subsection><subsection id="HD2A814AFA05A4A1F82C634E7141213D5"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply with respect to disclosures made after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

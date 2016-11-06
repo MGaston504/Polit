@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S463 IS: To amend the Federal Crop Insurance Act to prohibit the paying of premium subsidies on policies based on the actual market price of an agricultural commodity at the time of harvest.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-02-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 463</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150211">February 11, 2015</action-date>
+			<action-desc><sponsor name-id="S358">Mr. Flake</sponsor> (for himself and <cosponsor name-id="S324">Mrs. Shaheen</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and Forestry</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Crop Insurance Act to prohibit the paying of premium subsidies on policies
+			 based on the actual market price of an agricultural commodity at the time
+			 of harvest.</official-title>
+	</form>
+	<legis-body>
+ <section id="id8B9AAD57D98145778351312300B5BB48" section-type="section-one"><enum>1.</enum><header>Prohibition on premium subsidy for harvest price policies</header><text display-inline="no-display-inline">Section 508(e) of the Federal Crop Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1508">7 U.S.C. 1508(e)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id25cd5459abd44b34b6e040b11b4478c1" style="OLC">
+ <paragraph id="ide1ccf11c82a54c128c780f5357c31c0e"><enum>(9)</enum><header>Prohibition on premium subsidy for harvest price policies</header><text>Notwithstanding any other provision of law and beginning with the 2016 reinsurance year, the Corporation may not pay any amount of premium subsidy in the case of a policy or plan of insurance that is based on the actual market price of an agricultural commodity at the time of harvest.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

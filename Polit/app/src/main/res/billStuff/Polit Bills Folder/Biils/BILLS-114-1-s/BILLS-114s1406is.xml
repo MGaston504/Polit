@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1406 IS: Saving Access to Compounded Medications for Special Needs Patients Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1406</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150520">May 20, 2015</action-date>
+			<action-desc><sponsor name-id="S299">Mr. Vitter</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Food, Drug, and Cosmetic Act with respect to pharmacy compounding.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Saving Access to Compounded Medications for Special Needs Patients Act</short-title></quote>.</text>
+ </section><section id="id7CEEB887D52B4ADB974211BEF6023A0D"><enum>2.</enum><header>Pharmacy compounding</header><text display-inline="no-display-inline">Section 503A of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/353a">21 U.S.C. 353a</external-xref>) is amended—</text> <paragraph id="id25324BD09FD141638F848E088BA5F97B"><enum>(1)</enum><text display-inline="yes-display-inline">by redesignating subsections (b) through (e) as subsections (c) through (f), respectively;</text>
+ </paragraph><paragraph id="id8290AC92B30F483C8E4B43169FA508E9"><enum>(2)</enum><text>by inserting after subsection (a) the following:</text> <quoted-block display-inline="no-display-inline" id="id864DC04F06AB4DCD962DB1968D2E46E7" style="OLC"> <subsection id="idFD1E5878001545ACBE72EE7BD3A91A25"><enum>(b)</enum><header>Drug products for distribution to practitioners</header><text>Sections 501(a)(2)(B), 502(f)(1), and 505 shall not apply to a drug product if the drug product is compounded and distributed to a practitioner where, as permitted under State law, the drug product is used in the treatment of or administered to a patient of the practitioner, and if the compounding is by—</text>
+ <paragraph id="idAA868EED0F7E447EB4B2402BD9AB5E32"><enum>(1)</enum><text>a licensed pharmacist in a State licensed pharmacy or a Federal facility; or</text> </paragraph><paragraph id="id411E32304C48490F8C0481E45BD22AA9"><enum>(2)</enum><text>a licensed physician.</text>
+						</paragraph></subsection><after-quoted-block>;</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="id51DDE22B1E644E9A857A1DD95E4A054C"><enum>(3)</enum><text>in subsection (c), as so redesignated—</text> <subparagraph id="idC563338F56034A6999D5508DDB22F869"><enum>(A)</enum><text>in paragraph (1)—</text>
+ <clause id="id930AE9D9DC6747A48748A3024A9568E9"><enum>(i)</enum><text>in the matter preceding subparagraph (A), by striking <quote>subsection (a)</quote> and inserting <quote>subsection (a) or (b)</quote>;</text> </clause><clause id="idE1147B13A639420B95174009B69D7924"><enum>(ii)</enum><text>in subparagraph (A)(i)(III), by striking <quote>subsection (c)</quote> and inserting <quote>subsection (d)</quote>;</text>
+ </clause><clause id="idEA814E22F8ED498A9EA664A04BFDD25D"><enum>(iii)</enum><text>in subparagraph (C), by striking <quote>; and</quote> and inserting <quote>;</quote>;</text> </clause><clause id="id2FDF567ACBB64A2B88B77DAD87A90128"><enum>(iv)</enum><text>in subparagraph (D), by striking the period and inserting <quote>; and</quote>; and</text>
+ </clause><clause id="idF93B598204CC43AF89E6259C7AE9989A"><enum>(v)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="id5B5C7C23E8AC4A49B151DBC43E767AC1" style="OLC"> <subparagraph id="idFAF2CEF5064C4FE68B9223633370CA78"><enum>(E)</enum><text>complies with standards contained within the United States Pharmacopeial Convention General Chapters pertaining to the compounding of drug products.</text></subparagraph><after-quoted-block>;</after-quoted-block></quoted-block>
+ </clause></subparagraph><subparagraph id="id8B86809D6D674DB0A3960C4D1DC8C14C"><enum>(B)</enum><text>in paragraph (2), by striking <quote>identified individual patient, which produces for that patient</quote> and inserting <quote>identified individual patient for whom the drug product is compounded under subsection (a) or patients of a practitioner to whom the drug product is compounded and dispensed under subsection (b), which produces for that patient or patients</quote>;</text>
+ </subparagraph><subparagraph id="id289E6E45D3E0493EB8C7D9193351234D"><enum>(C)</enum><text>in paragraph (3)—</text> <clause id="idD8A20D59DCC540F09DFC06C271727489"><enum>(i)</enum><text>in the matter preceding subparagraph (A), by striking <quote>subsection (a)</quote> and inserting <quote>subsection (a) or (b)</quote>;</text>
+ </clause><clause id="id45B74100F6664D6D9AF9F4D6A5F6D1BA"><enum>(ii)</enum><text>in subparagraph (B)—</text> <subclause id="id327800325E7C4032A344204725F108BF"><enum>(I)</enum><text>by amending clause (i) to read as follows:</text>
+							<quoted-block display-inline="no-display-inline" id="id4FD39DF557EB44DEA39B9815481CAE66" style="OLC">
+ <clause id="idEE839E02DCA74A6B9C02338A858BE5C3"><enum>(i)</enum><text>that has entered into a memorandum of understanding with the Secretary that provides for appropriate investigation by a State agency of complaints relating to compounded drug products distributed outside such State; or</text></clause><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </subclause><subclause id="idBC126E78353040AE8858A7FD0880DC16"><enum>(II)</enum><text>by amending clause (ii) to read as follows:</text> <quoted-block display-inline="no-display-inline" id="id15DD8BAB648F4E6BBB21D2AAAC46E8BD" style="OLC"> <clause id="id4C197B1160D745ABA834AC383B330163"><enum>(ii)</enum><text>that has not entered into a memorandum of understanding described in clause (i) and the licensed pharmacist, licensed pharmacy, or licensed physician distributes (or causes to be distributed) compounded drug products out of the State in which such products are compounded in quantities that do not exceed 5 percent of the total prescription orders dispensed or distributed by such pharmacy or physician.</text></clause><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </subclause></clause><clause id="idE3095C23518B4F12A18E0D81BB7AE29F"><enum>(iii)</enum><text>in the flush text, by striking <quote>National Association of Boards of Pharmacy</quote> and inserting <quote>States</quote>; and</text> </clause></subparagraph><subparagraph id="idE8706C8A3A7B488ABE1E8CA44B60E0DF"><enum>(D)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="idA950F34591B44D0A9A55C28C8ADD8AD2" style="OLC">
+ <paragraph id="idBB4E644E6FE24DCF813DD21D1F451B38"><enum>(4)</enum><header>Limitation on memorandum of understanding</header><text>A memorandum of understanding entered into under paragraph (3)(B)(i) shall not create an unfunded mandate on a State.</text></paragraph><after-quoted-block>; </after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="idF935D08EB35F4491942E074D1A46222C"><enum>(4)</enum><text>in subsection (d), as so redesignated—</text> <subparagraph id="idCDAF114CA3C345E39FABDC05B72A92D3"><enum>(A)</enum><text>in paragraph (1), by striking <quote>subsections (b)(1)(A)(i)(III), (b)(1)(C), or (b)(3)(A)</quote> and inserting <quote>subsections (c)(1)(A)(i)(III), (c)(1)(C), or (c)(3)(A)</quote>; and</text>
+ </subparagraph><subparagraph id="id1A6DE4EEAC654AD6BC7809BBAF237A7C"><enum>(B)</enum><text>in paragraph (2), by striking <quote>subsection (b)(1)(A)(i)(III)</quote> and inserting <quote>subsection (c)(1)(A)(i)(III)</quote>; and</text> </subparagraph></paragraph><paragraph id="id017DEAA286F84C3985F6368C426DDE84"><enum>(5)</enum><text>by amending subsection (f), as so redesignated to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="idB5E76E553D1B4FE4A7ED6502256FF051" style="OLC">
+					<subsection id="idEC43887657B44837B0304E1C2AEA8BF2"><enum>(f)</enum><header>Definitions</header>
+ <paragraph id="id32D5801D249E49868B779E2F67AE6724"><enum>(1)</enum><header>Compounding</header><text>As used in this section, the term <term>compounding</term> does not include mixing, reconstituting, or other such acts that are performed in accordance with directions contained in approved labeling provided by the product's manufacturer and other manufacturer directions consistent with that labeling.</text>
+ </paragraph><paragraph id="idB241565026794FB994CFC964C52BAF8F"><enum>(2)</enum><header>Distribute</header><text>For purposes of this section, the term <term>distribute</term> does not include the dispensing of a compounded drug product for an identified individual patient.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></section></legis-body> </bill> 
+

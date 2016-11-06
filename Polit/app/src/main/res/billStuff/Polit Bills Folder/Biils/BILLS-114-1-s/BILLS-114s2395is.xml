@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2395 IS: To reauthorize the State Criminal Alien Assistance Program, and for other purposes.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-12-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2395</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151210">December 10, 2015</action-date>
+			<action-desc><sponsor name-id="S197">Mr. McCain</sponsor> (for himself, <cosponsor name-id="S221">Mrs. Feinstein</cosponsor>, <cosponsor name-id="S358">Mr. Flake</cosponsor>, and <cosponsor name-id="S270">Mr. Schumer</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To reauthorize the State Criminal Alien Assistance Program, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="id8EBE984C7C9147D6BC2ED3153B23A046" section-type="section-one"><enum>1.</enum><header>State criminal alien assistance program</header>
+ <subsection id="id1742a54a8e0d45c4aedf6de9d2177434"><enum>(a)</enum><header>SCAAP reauthorization</header><text>Section 241(i)(5)(C) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1231">8 U.S.C. 1231(i)(5)(C)</external-xref>) is amended by striking <quote>2011.</quote> and inserting <quote>2020.</quote>.</text>
+			</subsection><subsection id="id27c2a69b8daa4fc5ab27215ded0b7837"><enum>(b)</enum><header>SCAAP assistance for States</header>
+ <paragraph id="ide47ba6be15d448e38a91bbc76f5433ee"><enum>(1)</enum><header>Assistance for states incarcerating undocumented aliens charged with certain crimes</header><text>Section 241(i)(3)(A) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1231">8 U.S.C. 1231(i)(3)(A)</external-xref>) is amended by inserting <quote>charged with or</quote> before <quote>convicted</quote>.</text>
+ </paragraph><paragraph id="idd0b0738e39514202aed34ad3e2d47776"><enum>(2)</enum><header>Assistance for states incarcerating unverified aliens</header><text>Section 241(i) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1231">8 U.S.C. 1231(i)</external-xref>), as amended by paragraph (1) and subsection (a), is further amended—</text>
+ <subparagraph id="id01d31ed2519240709f5e6c262afb9192"><enum>(A)</enum><text>by redesignating paragraphs (4), (5), and (6), as paragraphs (5), (6), and (7), respectively;</text> </subparagraph><subparagraph id="id3c5d5da03c294cd5ad5d4d1529b9a015"><enum>(B)</enum><text>in paragraph (7), as redesignated, by striking <quote>(5)</quote> and inserting <quote>(6)</quote>; and</text>
+ </subparagraph><subparagraph id="idd61ebf2537f74cbba91f729100150668"><enum>(C)</enum><text>by inserting after paragraph (3) the following:</text> <quoted-block display-inline="no-display-inline" id="id815c36e714e042bfa72580ff21a46e21" style="OLC"> <paragraph id="idf1ddd14c739c441fb1dcfe21a147ca8e"><enum>(4)</enum><text>In the case of an alien whose immigration status is unable to be verified by the Secretary of Homeland Security, and who would otherwise be an undocumented criminal alien if the alien is unlawfully present in the United States, the Attorney General shall compensate the State or political subdivision of the State for the incarceration of the alien in accordance with paragraph (2).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph></paragraph></subsection></section></legis-body>
+</bill>
+
+

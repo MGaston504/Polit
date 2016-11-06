@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2330 IS: SAFE Check Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-11-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2330</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151119">November 19, 2015</action-date>
+			<action-desc><sponsor name-id="S370">Mr. Booker</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To allow the Attorney General additional time to process background checks for alien firearm
+			 purchases, and for other purposes. </official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Strict Alien Firearm Enforcement Check Act</short-title></quote> or the <quote>SAFE Check Act</quote>.</text>
+ </section><section id="id4BB2AD5540654559A59F9BB237D415BB"><enum>2.</enum><header>Additional time for processing certain background checks</header><text display-inline="no-display-inline">Section 922(t) of title 18, United States Code, is amended—</text> <paragraph id="idCE49C18B6E624405B752AF75930EA43B"><enum>(1)</enum><text display-inline="yes-display-inline">in paragraph (1), by striking subparagraph (B) and inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idEEF0212A18624402929275887FBCE763" style="OLC">
+ <subparagraph id="id07118AA87ADE4948913CCBCF9A59761A" indent="up1"><enum>(B)</enum><clause commented="no" display-inline="yes-display-inline" id="idF4A5DA0F7026427FA1395F307E9D59CE"><enum>(i)</enum><text>in the case of a transferee not described in clause (ii)—</text> <subclause id="idBAAF45C147DE48C99577B669BD603789" indent="up1"><enum>(I)</enum><text>the system provides the licensee with a unique identification number; or</text>
+ </subclause><subclause id="idB0E42DCD6D5342B19FFDCAC9A0EA87A6" indent="up1"><enum>(II)</enum><text>3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that the receipt of a firearm by such other person would violate subsection (g) or (n) of this section; and</text>
+ </subclause></clause><clause id="id9575C5F2C041480BA623D087FB1058A2" indent="up1"><enum>(ii)</enum><text>in the case of a transferee who is an alien who entered the United States pursuant to the program established under section 217(a) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(a)</external-xref>), the system provides the licensee with a unique identification number after conducting a background investigation described in paragraph (7); and</text></clause></subparagraph><after-quoted-block>; and </after-quoted-block></quoted-block>
+ </paragraph><paragraph id="id63E2F631DE07479F8734EEAB306963CC"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="id4AA548B6B2174E86BEE7D03205B94EF8" style="OLC"> <paragraph id="id2669a6c1ae1b4d9894cd4f22a9653c37" indent="up1"><enum>(7)</enum><text>For purposes of paragraph (1)(B)(ii), a background investigation described in this paragraph is an investigation that includes a check of records maintained by the International Criminal Police Organization (INTERPOL) and the country that issued the alien's passport in order to determine whether the receipt of a firearm by the alien would violate subsection (g) or (n), and a foreign conviction shall be considered a conviction under subsection (g)(1).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1323 IS: Social Security Identity Defense Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 1323</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150513">May 13, 2015</action-date><action-desc><sponsor name-id="S345">Mr. Johnson</sponsor> (for himself, <cosponsor name-id="S327">Mr. Warner</cosponsor>, and <cosponsor name-id="S340">Ms. Ayotte</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Internal Revenue Code of 1986 to permit the Secretary of the Treasury and the
+			 Commissioner of the Social Security Administration to disclose certain
+			 return information related to identity theft, and for other purposes.</official-title></form>
+	<legis-body id="H6139148EB9874187B42377C895296FE3" style="OLC">
+ <section id="H23FECEDDD34F44E991737EA058F14D44" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Social Security Identity Defense Act of 2015</short-title></quote>.</text>
+		</section><section id="H0A82B1BAB21C4169A4C38A5F828C6805"><enum>2.</enum><header>Disclosure of
+			 certain return information with respect to identity theft</header>
+			<subsection id="HD679E15B3F9D47A2B64A1FD42A0157D3"><enum>(a)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Subsection (l) of <external-xref legal-doc="usc" parsable-cite="usc/26/6103">section 6103</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="HD84BE62948884F76A218C8D036802C05" style="OLC">
+					<paragraph id="H5DC60DACCB2B47598F70653FBC1AEDD4"><enum>(23)</enum><header>Disclosure of
+				return information in certain cases of identity theft</header>
+						<subparagraph id="HEDB3FCEC533641BAAE7B0189D7F964A6"><enum>(A)</enum><header>In
+ general</header><text display-inline="yes-display-inline">If the Secretary has reason to believe that there has been a fraudulent use of a social security account number on a statement described in section 6051—</text>
+ <clause id="H0AAC938AF61F426C8328E2CDBBF8665E"><enum>(i)</enum><text>the Secretary shall disclose to the individual who was validly assigned such social security account number—</text>
+ <subclause id="HE3F08A0DF65D47D1AB310C9E1730937B"><enum>(I)</enum><text>that the Secretary has reason to believe that the social security account number assigned to such individual has been fraudulently used in the employment context,</text>
+ </subclause><subclause id="H981461EEF5074C4CBC17118594D2C7AA"><enum>(II)</enum><text>that the Secretary has made the disclosure described in clause (ii) to the Director of the Federal Bureau of Investigation and the Attorney General with respect to such fraudulent use, and</text>
+ </subclause><subclause id="id29473944725E485A8AE4C490E543FA3E"><enum>(III)</enum><text>such other information (other than return information) as the Secretary determines, in consultation with Federal Trade Commission, would be helpful and appropriate to provide to a victim of identity theft, and</text>
+ </subclause></clause><clause id="H9193E01A8E87429B9B05AEED8BC34099"><enum>(ii)</enum><text>the Secretary shall disclose to the Director of the Federal Bureau of Investigation and the Attorney General—</text>
+ <subclause id="HCA43DA89CD724B03969B36E1CBC7FFAC"><enum>(I)</enum><text>such social security account number,</text>
+ </subclause><subclause id="H34C02954862E47C794BACBBB87390287"><enum>(II)</enum><text>that the Secretary has reason to believe that such social security account number has been fraudulently used in the employment context, and</text>
+ </subclause><subclause id="H284DB523F2DB4B6FB63851CBBE76E3C9"><enum>(III)</enum><text>the taxpayer identity information of the individual who was assigned such social security account number, the individual believed to have fraudulently used such social security account number, and the employer who made the statement described in section 6051 which included such social security account number.</text>
+								</subclause></clause></subparagraph><subparagraph id="HC8BE6B19DA904B9380C98880D885F918"><enum>(B)</enum><header>Restriction on
+				disclosure to law enforcement</header>
+							<clause id="H96CA0865DA7F49E78284587A515C2D73"><enum>(i)</enum><header>Disclosure to
+ other law enforcement officials</header><text>The Director of the Federal Bureau of Investigation and the Attorney General may disclose information received under subparagraph (A)(ii) to appropriate Federal, State, and local law enforcement officials.</text>
+							</clause><clause id="H50FC7163C22148DB903BE2BF4727F031"><enum>(ii)</enum><header>Restriction on
+ use of disclosed information</header><text>Return information disclosed under subparagraph (A)(ii) may be used by Federal, State, and local law enforcement officials only for purposes of carrying out criminal investigations or prosecutions.</text>
+ </clause><clause id="id4B3C09F35D3B41E2A31CAE29E32CE891"><enum>(iii)</enum><header>Memorandum of understanding</header><text>For purposes of this paragraph, any return information disclosed under subparagraph (A)(ii) may not be provided to any State or local law enforcement official until such official has entered into a memorandum of understanding with the Secretary that includes the following terms and conditions:</text>
+ <subclause id="id23DF3BDBCFD7423884A6A795EC2B7BD8"><enum>(I)</enum><text>Confidentiality of returns and return information and prohibitions on disclosure described in subsection (a)(3).</text>
+ </subclause><subclause id="idDAFB4F3E5DA84A4ABD9230276F9716F6"><enum>(II)</enum><text>Safeguards, restrictions on access, and recordkeeping requirements described in subsection (p)(4).</text> </subclause><subclause id="id96AEDD93E04E41AA8294E7238D6CF29C"><enum>(III)</enum><text>Application of penalties for unauthorized disclosure of returns and return information under section 7213(a)(2).</text>
+ </subclause><subclause id="idDB278C9C31A740CE840FF0DB29C7D814"><enum>(IV)</enum><text>Any additional terms and conditions deemed appropriate by the Secretary.</text></subclause></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="H5877D3D4286F4F4B8FDB4DF819EBC381"><enum>(b)</enum><header>Prevention of identity theft</header><text>In the case of an employee for whom the Commissioner of the Social Security Administration has reason to believe that the social security number included on any statement described in <external-xref legal-doc="usc" parsable-cite="usc/26/6051">section 6051(a)</external-xref> of the Internal Revenue Code of 1986 with respect to such employee is not the correct social security number for such employee, the Commissioner shall provide notification to the employer for such employee which includes—</text>
+ <paragraph id="idE79E689553194A7CB712FD2101ABE730"><enum>(1)</enum><text>the name of the employee and the social security number included on such statements; and</text> </paragraph><paragraph id="id30880E79B9794F5483EDAECB5AF9B69E"><enum>(2)</enum><text>relevant information regarding the availability of the Social Security Number Verification Service for verification of social security numbers.</text>
+				</paragraph></subsection><subsection id="HA6E9F5FB9BC2467F8EDBFE444462185E"><enum>(c)</enum><header>Conforming
+			 amendments related to disclosure</header>
+ <paragraph id="H6ACF466BDC3C4A85B6B8622E3CF29B06"><enum>(1)</enum><header>Confidentiality</header><text>Paragraph (3) of section 6103(a) of such Code is amended by striking <quote>or (21)</quote> and inserting <quote>(21), or (23)</quote>.</text>
+				</paragraph><paragraph id="H18508E43B42648159560781F05CFC305"><enum>(2)</enum><header>Procedures and
+ recordkeeping related to disclosures</header><text>Paragraph (4) of section 6103(p) of such Code is amended by striking <quote>or (20)</quote> each place it appears and inserting <quote>(20), or (23)</quote>.</text>
+				</paragraph><paragraph id="HDC13E267083D40F782F41017A38BBC56"><enum>(3)</enum><header>Unauthorized
+ disclosure or inspection</header><text>Paragraph (2) of section 7213(a) of such Code is amended by striking <quote>or (21)</quote> and inserting <quote>(21), or (23)</quote>.</text>
+				</paragraph></subsection></section><section commented="no" display-inline="no-display-inline" id="id1AC92B6111CF46918F3D878D4DC5F682"><enum>3.</enum><header>Penalties for tax-related identity theft</header>
+ <subsection commented="no" display-inline="no-display-inline" id="id365E5BFE0D7249DBAE8347712DD3FA4A"><enum>(a)</enum><header>In general</header><text>Section 1028A(c) of title 18, United States Code, is amended—</text> <paragraph commented="no" display-inline="no-display-inline" id="id18692DE5686E4FA7AECA036C17BA1C40"><enum>(1)</enum><text>by redesignating paragraphs (8) through (11) as paragraphs (10) through (13), respectively; and</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id4725ED6905924C4CBA1AEA20888C2B7F"><enum>(2)</enum><text>by inserting after paragraph (7) the following new paragraphs:</text> <quoted-block display-inline="no-display-inline" id="id346D8A996C704712A03FEA5915037299" style="OLC"> <paragraph commented="no" display-inline="no-display-inline" id="id83C4240E03FF457D8DA83FBAB9614F13"><enum>(8)</enum><text>section 286 (relating to conspiracy to defraud the government with respect to claims), section 287 (relating to false, fictitious, or fraudulent claims), section 371 (relating to conspiracy to commit an offense or to defraud the United States), section 1001 (relating to statements or entries), section 1341 (relating to frauds and swindles), section 1342 (relating to a fictitious name or address), section 1343 (relating to fraud by wire, radio, or television), or section 1344 (relating to bank fraud), if the felony violation is a tax-related offense punishable under such section;</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id17E8D8338302413F826876E257FCF60D"><enum>(9)</enum><text><external-xref legal-doc="usc" parsable-cite="usc/26/7206">section 7206</external-xref> of the Internal Revenue Code of 1986 (relating to fraud and false statements);</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="H4851C2C41AC54DDB952E5305F865A432"><enum>(b)</enum><header>Penalty
+			 for misappropriation of tax identification numbers</header>
+				<paragraph id="idB490474C1E514783A84B9C71B686C13A"><enum>(1)</enum><header>In
+ general</header><text>Part I of subchapter B of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/68">chapter 68</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+					<quoted-block display-inline="no-display-inline" id="idD2E58C65E9144DB4824D96BDC5214B8D" style="OLC">
+ <section id="id141D30E45F234120872B7004B65C8CEE"><enum>6720D.</enum><header>Misappropriation of tax identification number</header><text display-inline="no-display-inline">In addition to any penalty provided by law, any person who knowingly or willfully misappropriates another person's tax identification number in connection with any list, return, account, statement, or other document submitted to the Secretary shall pay a penalty of $5,000.</text></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H2472B5D1029B414DA51631236604FF0F"><enum>(2)</enum><header>Conforming amendment</header><text>The table of sections for part I of subchapter B of chapter 68 of such Code is amended by adding at the end the following new item:</text><toc><toc-entry bold="off" level="section"><quote>Sec. 6720D. Misappropriation of tax identification number.</quote>.</toc-entry></toc>
+				</paragraph><paragraph id="idEAFFF059621747E2AA28C5C91C8D86C4"><enum>(3)</enum><header>Effective
+ date</header><text>The amendments made by this subsection shall apply to returns and information submitted after the date of the enactment of this Act.</text>
+				</paragraph></subsection></section></legis-body></bill>
+
+

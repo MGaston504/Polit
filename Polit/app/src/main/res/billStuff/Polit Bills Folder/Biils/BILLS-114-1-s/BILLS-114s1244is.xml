@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1244 IS: Community Access Preservation Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 1244</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150507">May 7, 2015</action-date><action-desc><sponsor name-id="S354">Ms. Baldwin</sponsor> (for herself and <cosponsor name-id="S369">Mr. Markey</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Communications Act of 1934 to establish signal quality and content requirements for
+			 the carriage of public, educational, and governmental channels, to
+			 preserve support of such channels, and for other purposes.</official-title></form>
+	<legis-body>
+ <section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Community Access Preservation Act</short-title></quote>.</text> </section><section id="id7523A5F261A646AF967DAB00E6A6AA93" section-type="subsequent-section"><enum>2.</enum><header>Peg signal quality and content; preservation of support of peg use</header> <subsection id="id0FDF5DC07D534F3991CFFA4203A3C632"><enum>(a)</enum><header>In general</header><text>Section 611 of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/531">47 U.S.C. 531</external-xref>) is amended—</text>
+ <paragraph id="id3695927c7a66472d93a36a31a1b843d4"><enum>(1)</enum><text>by redesignating subsection (f) as subsection (h); and</text>
+ </paragraph><paragraph id="id01B3D10484B94019AA629E7E230DA4AB"><enum>(2)</enum><text>by inserting after subsection (e) the following:</text>
+					<quoted-block display-inline="no-display-inline" id="idb8888f5658534a3caa6506b775eb7011" style="OLC">
+						<subsection id="ide7ce9a237dba46d5b5486f5a9683333c"><enum>(f)</enum><header>Signal quality
+				and content</header>
+							<paragraph id="idFAA39F5B14664F5A9C72452A44E492C7"><enum>(1)</enum><header>In
+ general</header><text>A cable operator that operates a cable system with channel capacity designated under subsection (b) or that is required to provide channel capacity under subsection (g)(6) shall, with respect to such channel capacity—</text>
+ <subparagraph id="id09D99A14D73D481D8E1D67227DB774C0"><enum>(A)</enum><text>carry signals for public, educational, or governmental use from the point of origin of such signals to subscribers without material degradation and without altering or removing content or data provided as part of the public, educational, or governmental use;</text>
+ </subparagraph><subparagraph id="id775B4AD5FD7F467AB0290BF96B73C985"><enum>(B)</enum><text>provide such signals to, and make such signals viewable by, every subscriber of the cable system without additional service or equipment charges;</text>
+ </subparagraph><subparagraph id="idDD80FE1C00854D8780E53328A7E49775"><enum>(C)</enum><text>provide to the appropriate local government subdivision, free of charge, any transmission services and the use of any transmission facilities that are necessary to meet the requirements of subparagraph (A);</text>
+ </subparagraph><subparagraph commented="no" id="id7b22d1256b214f1288dbfee3481ca4a9"><enum>(D)</enum><text>upon request by the appropriate local government subdivision, provide, not later than 180 days after the date of the request, for the transmission of such signals in—</text>
+ <clause commented="no" id="id5FA274D3CE0F44B9ABB8E055974A31DF"><enum>(i)</enum><text>high definition format; or</text>
+ </clause><clause commented="no" id="idAE0158206162409383896268A914870A"><enum>(ii)</enum><text>the highest quality format that is provided by a majority of local television broadcast stations in the applicable designated market area, if the quality of that format is better than high definition; and</text>
+ </clause></subparagraph><subparagraph commented="no" id="ida9493e1ceba8442db35fcf62001bb854"><enum>(E)</enum><text>upon request by the appropriate local government subdivision, provide, not later than 180 days after the date of the request, the ability for the programming schedules of such signals to be present and updated on the electronic program guide of the cable operator in the same manner and with the same functionality as television broadcast stations in the applicable designated market area—</text>
+ <clause commented="no" id="id56D03251543D40E5AA737BB894EACE87"><enum>(i)</enum><text>through the cable operator directly; or</text> </clause><clause commented="no" id="idC6AF505109614AAA98ACC0B416A27AC4"><enum>(ii)</enum><text>by the cable operator facilitating the inclusion of the programming schedules through a third party vendor, at a rate not to exceed the actual incremental cost of the inclusion.</text>
+ </clause></subparagraph></paragraph><paragraph id="id8754eaa1e9184dafb0ab8068e0566e9f"><enum>(2)</enum><header>Rule of construction</header><text>Nothing in paragraph (1)(D) shall be construed to—</text> <subparagraph id="idFC2E71E5E112475CAD039E9482248240"><enum>(A)</enum><text>remove other obligations of a cable operator that are not specified under this Act;</text>
+ </subparagraph><subparagraph id="id9FD461B220F846179891F5597BB2151B"><enum>(B)</enum><text>require a cable operator to upgrade the quality of a signal to comply with paragraph (1)(D) if the appropriate local government subdivision determines that it is not capable of producing and transmitting programming in the required format; or</text>
+ </subparagraph><subparagraph id="idCF4552AD4C244655999C64682553A03B"><enum>(C)</enum><text>prohibit a cable operator from voluntarily upgrading the quality of a signal to comply with paragraph (1)(D).</text>
+ </subparagraph></paragraph><paragraph id="idEDD417A74A9A4FED89A8916B9DBC8873"><enum>(3)</enum><header>Enforcement</header><text>The requirements of this subsection may be enforced by—</text>
+ <subparagraph id="id4CB557456C8C43598CD81E9BFA7AC0A1"><enum>(A)</enum><text>a local government subdivision; or</text>
+ </subparagraph><subparagraph id="idA46B357C9E4D4DCDADBBDDC0473DA646"><enum>(B)</enum><text>a State.</text> </subparagraph></paragraph></subsection><subsection id="iddb157785ccf548d9a2434446b192559d"><enum>(g)</enum><header>Preservation of support of public, educational, and governmental use</header> <paragraph id="idB97B42C8D3384C32B726FC9D63E0D5D3"><enum>(1)</enum><header>Level of support required</header><text>In a State that adopts legislation affecting cable system franchising requirements relating to support for public, educational, or governmental use of a cable system that becomes effective after May 31, 2005, notwithstanding such legislation, a cable operator owes to any local government subdivision in which the operator provides cable service during a year beginning after the date of enactment of this subsection an amount for such year to be determined by the local government subdivision, but not to exceed the greatest of the following:</text>
+ <subparagraph id="id2DB6A5EBFE414A13BE26449AEC13D36E"><enum>(A)</enum><text>The amount of support provided in the last calendar year ending before the effective date of such State legislation.</text>
+ </subparagraph><subparagraph id="id290FB866BC7D4A008E5B7352FD80EB61"><enum>(B)</enum><text>The average annual amount of support provided over the term of the franchise under which the cable operator was operating on the day before the effective date of such State legislation.</text>
+ </subparagraph><subparagraph id="id0A65D8E0F5594804BD6EEB1B587F7ADA"><enum>(C)</enum><text>The amount of support that the cable operator is required to provide to such local government subdivision under such State legislation during the year involved.</text>
+ </subparagraph><subparagraph id="id89BE3E2D59EC485EB8419A4B12CD5B59"><enum>(D)</enum><text>An amount of support equal to 2 percent of the gross revenues of the cable operator from the operation of the cable system to provide cable services in such local government subdivision during the year involved.</text>
+								</subparagraph></paragraph><paragraph id="idB074FE858C1445C9B7B5A0EDC5E64906"><enum>(2)</enum><header>Forms of
+ support</header><text>For purposes of paragraph (1), support for public, educational, or governmental use of a cable system means all cash payments, in-kind support, and free services that the operator of the cable system, or its predecessor, provides to the local government subdivision for such use of the cable system.</text>
+							</paragraph><paragraph id="id7620b752b7964cf88521b193900cea49"><enum>(3)</enum><header>Adjustment for
+ inflation</header><text>For a year beginning on or after the effective date described in subparagraphs (A) and (B) of paragraph (1), on the date that the Gross National Product Price Index is first published by the Bureau of Economic Analysis after the end of June of such year, the amounts specified in such subparagraphs shall be increased by the percentage increase, if any, in the Index published on such date from the Index first published after the end of June of the preceding year.</text>
+							</paragraph><paragraph id="id76FB17353B6D418FA8E8B2F01EE9D3B8"><enum>(4)</enum><header>Cash
+ payments</header><text>A cable operator that owes amounts under paragraph (1) shall, beginning not later than 30 days after the date of enactment of this subsection, pay such amounts in cash—</text>
+ <subparagraph id="idDE5643353B5541C2984709E878DBFF75"><enum>(A)</enum><text>in accordance with the schedule for payment of franchise fees, communications taxes, or other similar assessments under any applicable franchise; or</text>
+ </subparagraph><subparagraph id="idE837FE0F795948EDBD1FC984FFC529BB"><enum>(B)</enum><text>if there is no payment schedule for such assessments under an applicable franchise, in accordance with the most frequent payment schedule for such assessments under applicable State or local law.</text>
+								</subparagraph></paragraph><paragraph id="idED41D5829C2A454DBC420FEC80EB0056"><enum>(5)</enum><header>Uses;
+				disputes</header>
+ <subparagraph id="idD8DA766BC68D41DBB3BFC4B2B3F7873E"><enum>(A)</enum><header>Uses</header><text>Support provided to any local government subdivision under this subsection shall be dedicated to public, educational, or governmental use of channel capacity.</text>
+								</subparagraph><subparagraph id="idAC41D09F20EC4B02BBB2F6C28C95E5B0"><enum>(B)</enum><header>Disputes</header>
+ <clause id="id8988FBD1A8AD4C558B6041CB3EAB4380"><enum>(i)</enum><header>Mediation</header><text>If there is a dispute as to amounts owed under this subsection, undisputed amounts shall be paid to the local government subdivision, disputed amounts shall be paid into an escrow account, and the parties shall submit to nonbinding mediation.</text>
+									</clause><clause id="id7CF6B5934CA74268AD961CD48B73C789"><enum>(ii)</enum><header>Court
+ proceedings</header><text>If the dispute cannot be settled using mediation, either party may seek relief from a court of competent jurisdiction.</text>
+ </clause></subparagraph></paragraph><paragraph id="id7a8ff64a534944bd8ea0a14c9652e22f"><enum>(6)</enum><header>Channels</header><text>In a State that adopts legislation affecting cable system franchising requirements relating to the number of channels for public, educational, or governmental use of a cable system that becomes effective after May 31, 2005, a cable operator shall, notwithstanding such legislation, provide in a local government subdivision at least the greater of the following number of channels for such use:</text>
+ <subparagraph id="id09B7A84F1D2F47018EFC66ED5F3123E2"><enum>(A)</enum><text>The number of channels for such use that the operator was providing in the local government subdivision on the day before the effective date of such State legislation.</text>
+ </subparagraph><subparagraph id="idBEF1AF80DF5D451396BB30D8F4E9E390"><enum>(B)</enum><text>If the operator provided fewer than 3 channels for such use in the local government subdivision on the day before the effective date of such State legislation, a number specified by the local government subdivision, but not to exceed 3.</text>
+ </subparagraph></paragraph><paragraph id="idad9dca1e3edf404abdf1bc181dd60f2c"><enum>(7)</enum><header>Enforcement</header><text>The requirements of this subsection may be enforced by—</text>
+ <subparagraph id="id47BD2D877F37498EAE590B777F1E358B"><enum>(A)</enum><text>a local government subdivision; or</text>
+ </subparagraph><subparagraph id="idFABED54685F84219826CA449D701DBF0"><enum>(B)</enum><text>a State.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="ide6526d44045f4fe790ca236e67e1457c"><enum>(b)</enum><header>Definitions</header>
+				<paragraph id="id7455F3BC401C4B458B10D79BFC75AD45"><enum>(1)</enum><header>Cable
+ service</header><text>Section 602(6) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/522">47 U.S.C. 522(6)</external-xref>) is amended by striking <quote>means</quote> and inserting <quote>means, regardless of the technology or transmission protocol used in the provision of service</quote>.</text>
+				</paragraph><paragraph id="id24b9568225134174a487aa4e7568eeea"><enum>(2)</enum><header>Local
+ government subdivision</header><text>Section 602 of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/522">47 U.S.C. 522</external-xref>) is amended—</text>
+ <subparagraph id="idD896D3B943D34709AA7819A3554BA4F1"><enum>(A)</enum><text>by redesignating paragraphs (13) through (20) as paragraphs (14) through (21), respectively; and</text>
+ </subparagraph><subparagraph id="id8F86BBBF42584DEF893FF9E05447F854"><enum>(B)</enum><text>by inserting after paragraph (12) the following:</text>
+						<quoted-block display-inline="no-display-inline" id="idC277D3D890FA4EBE8EA1344019D0A527" style="OLC">
+ <paragraph id="idD3872638BA964E96B3919A157686939A"><enum>(13)</enum><text>the term <term>local government subdivision</term> means—</text>
+ <subparagraph id="id8DBD3E533AF743959171DB0DBB69D275"><enum>(A)</enum><text>except as provided in subparagraph (B), a franchising authority that derives its power to grant a franchise from State or local law; and</text>
+ </subparagraph><subparagraph id="id4F62AB0919A04A649244BCB6EA934DEA"><enum>(B)</enum><text>in a State that adopts legislation affecting cable system franchising requirements relating to support for public, educational, or governmental use of a cable system that becomes effective after May 31, 2005, an entity that was considered a franchising authority deriving its power to grant a franchise from State or local law as of the day before the effective date of such State legislation;</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph></paragraph><paragraph id="idd368c6237ca54fdb88c32043c58353ba"><enum>(3)</enum><header>Franchise
+ fee</header><text>Section 622(g)(2) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/542">47 U.S.C. 542(g)(2)</external-xref>) is amended—</text>
+ <subparagraph id="id37A86A815E8B44E2B966158E0E2F1A93"><enum>(A)</enum><text>in subparagraph (B), by striking <quote>in the case of any franchise in effect on the date of enactment of this title,</quote>;</text>
+ </subparagraph><subparagraph id="idCEC5431B831F4753998908008492CF6E"><enum>(B)</enum><text>by striking subparagraph (C); and</text>
+ </subparagraph><subparagraph id="id7E4AAC5ABB444939822330912BDB430B"><enum>(C)</enum><text>by redesignating subparagraphs (D) and (E) as subparagraphs (C) and (D), respectively.</text></subparagraph></paragraph></subsection></section></legis-body></bill>
+
+

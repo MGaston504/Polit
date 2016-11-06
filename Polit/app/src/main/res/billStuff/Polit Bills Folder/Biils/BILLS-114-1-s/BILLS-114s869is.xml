@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S869 IS: All-of-the-Above Federal Building Energy Conservation Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-03-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 869</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150326">March 26, 2015</action-date>
+			<action-desc><sponsor name-id="S344">Mr. Hoeven</sponsor> (for himself, <cosponsor name-id="S338">Mr. Manchin</cosponsor>, and <cosponsor name-id="S356">Mr. Donnelly</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To improve energy performance in Federal buildings, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>All-of-the-Above Federal Building Energy Conservation Act of 2015</short-title></quote>.</text>
+		</section><section id="id95083A0966DE4CBE8D5799FDE9EC1199">
+			<enum>2.</enum>
+			<header>Energy
+		performance requirement for Federal buildings</header>
+ <text display-inline="no-display-inline">Section 543 of the National Energy Conservation Policy Act (<external-xref legal-doc="usc" parsable-cite="usc/42/8253">42 U.S.C. 8253</external-xref>) is amended—</text>
+			<paragraph id="id3ADC187B4BE94CF4BCF1AC5D38C57711">
+				<enum>(1)</enum>
+ <text>by striking subsection (a) and inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id11BC674675AC4F0C97211338B5A914BC" style="OLC">
+					<subsection id="idc328feee1713431b9e7ac1ca63718c4f">
+						<enum>(a)</enum>
+						<header>Energy
+		  performance requirement for Federal buildings</header>
+						<paragraph id="idef237a003f5247689cefb35b3dfcc628">
+							<enum>(1)</enum>
+							<header>Requirement</header>
+ <text>Subject to paragraph (2), each agency shall apply energy conservation measures to, and shall improve the design for the construction of, the Federal buildings of the agency (including each industrial or laboratory facility) so that the energy consumption per gross square foot of the Federal buildings of the agency in fiscal years 2006 through 2017 is reduced, as compared with the energy consumption per gross square foot of the Federal buildings of the agency in fiscal year 2003, by the percentage specified in the following table:</text>
+							<table align-to-level="section" blank-lines-before="1" colsep="0" frame="none" line-rules="no-gen" rowsep="0" rule-weights="0.0.0.0.0.0" table-template-name="Tax (No Calculation)" table-type="Leaderwork">
+								<tgroup cols="2" rowsep="0">
+									<colspec coldef="txt" colname="column1" colwidth="260pts" min-data-value="55"></colspec>
+									<colspec align="justify" coldef="fig" colname="column2" colsep="0" colwidth="64pts" min-data-value="9"></colspec>
+									<thead>
+										<row>
+											<entry align="left" colname="column1" morerows="0" namest="column1" rowsep="0"></entry>
+											<entry align="right" colname="column2" morerows="0" namest="column2" rowsep="0">
+												<bold>Percentage</bold>
+											</entry>
+										</row>
+										<row>
+											<entry align="left" colname="column1" morerows="0" namest="column1">
+												<bold>Fiscal Year</bold>
+											</entry>
+											<entry align="right" colname="column2" morerows="0" namest="column2">
+												<bold>Reduction</bold>
+											</entry>
+										</row>
+									</thead>
+									<tbody>
+										<row>
+											<entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">2006</entry>
+											<entry align="right" colname="column2" rowsep="0">2</entry>
+										</row>
+										<row>
+											<entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">2007</entry>
+											<entry align="right" colname="column2" rowsep="0">4</entry>
+										</row>
+										<row>
+											<entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">2008</entry>
+											<entry align="right" colname="column2" rowsep="0">9</entry>
+										</row>
+										<row>
+											<entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">2009</entry>
+											<entry align="right" colname="column2" rowsep="0">12</entry>
+										</row>
+										<row>
+											<entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">2010</entry>
+											<entry align="right" colname="column2" rowsep="0">15</entry>
+										</row>
+										<row>
+											<entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">2011</entry>
+											<entry align="right" colname="column2" rowsep="0">18</entry>
+										</row>
+										<row>
+											<entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">2012</entry>
+											<entry align="right" colname="column2" rowsep="0">21</entry>
+										</row>
+										<row>
+											<entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">2013</entry>
+											<entry align="right" colname="column2" rowsep="0">24</entry>
+										</row>
+										<row>
+											<entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">2014</entry>
+											<entry align="right" colname="column2" rowsep="0">27</entry>
+										</row>
+										<row>
+											<entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">2015</entry>
+											<entry align="right" colname="column2" rowsep="0">30</entry>
+										</row>
+										<row>
+											<entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">2016</entry>
+											<entry align="right" colname="column2" rowsep="0">33</entry>
+										</row>
+										<row>
+											<entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr">2017</entry>
+											<entry align="right" colname="column2" rowsep="0">36.</entry>
+										</row>
+									</tbody>
+								</tgroup>
+							</table>
+						</paragraph><paragraph id="ideceb3ef03bb84c26a0fb78b1b0893c9e">
+							<enum>(2)</enum>
+							<header>Exclusion for
+		  buildings with energy intensive activities</header>
+							<subparagraph id="id226337D3D9A34974949E06AF9087CCE4">
+								<enum>(A)</enum>
+								<header>In
+		  general</header>
+ <text>An agency may exclude from the requirements of paragraph (1) any building (including the associated energy consumption and gross square footage) in which energy intensive activities are carried out.</text>
+							</subparagraph><subparagraph id="id9C5CADFE1A5C40BFB3B7BD56801AAF89">
+								<enum>(B)</enum>
+								<header>Reports</header>
+ <text>Each agency shall identify and list in each report made under section 548(a) the buildings designated by the agency for exclusion under subparagraph (A).</text>
+							</subparagraph></paragraph><paragraph id="id7551123e84c4492ab4d67c4632573e71">
+							<enum>(3)</enum>
+							<header>Review</header>
+ <text>Not later than December 31, 2017, the Secretary shall—</text>
+							<subparagraph id="idF7931F44E2E9471283F3E24A0D173A84">
+								<enum>(A)</enum>
+ <text>review the results of the implementation of the energy performance requirements established under paragraph (1); and</text>
+							</subparagraph><subparagraph id="idB87762114F164A06B4AC063DF416A675">
+								<enum>(B)</enum>
+ <text>based on the review conducted under subparagraph (A), submit to Congress a report that addresses the feasibility of requiring each agency to apply energy conservation measures to, and improve the design for the construction of, the Federal buildings of the agency (including each industrial or laboratory facility) so that the energy consumption per gross square foot of the Federal buildings of the agency in each of fiscal years 2018 through 2030 is reduced, as compared with the energy consumption per gross square foot of the Federal buildings of the agency in the prior fiscal year, by 3 percent.</text>
+							</subparagraph></paragraph></subsection><after-quoted-block>;
+		  and</after-quoted-block></quoted-block>
+			</paragraph><paragraph id="id2D5DB929E90F40F3B79AF933089B0C74">
+				<enum>(2)</enum>
+ <text>in subsection (f)—</text>
+				<subparagraph id="idBB371CEDE80D41E49EA392A8BF0FA8BE">
+					<enum>(A)</enum>
+ <text>in paragraph (1)—</text>
+					<clause id="id8FFD4EA9F7714289B6651B1CEB01AEC5">
+						<enum>(i)</enum>
+ <text>by redesignating subparagraphs (E), (F), and (G) as subparagraphs (F), (G), and (H), respectively; and</text>
+					</clause><clause id="id5F515FEBB52C426CA673C9CB01104138">
+						<enum>(ii)</enum>
+ <text>by inserting after subparagraph (D) the following:</text>
+						<quoted-block display-inline="no-display-inline" id="idC2E04B5CBF8C486AA518351B7DE5768A" style="OLC">
+							<subparagraph id="ide3438898275f46ea97f0e26a9c185922">
+								<enum>(E)</enum>
+								<header>Ongoing
+		  commissioning</header>
+ <text>The term <term>ongoing commissioning</term> means an ongoing process of commissioning using monitored data, the primary goal of which is to ensure continuous optimum performance of a facility, in accordance with design or operating needs, over the useful life of the facility, while meeting facility occupancy requirements.</text>
+							</subparagraph><after-quoted-block>;</after-quoted-block></quoted-block>
+					</clause></subparagraph><subparagraph id="id013770BF29EE4735B036C5646933B22B">
+					<enum>(B)</enum>
+ <text>in paragraph (2), by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="idA44E56FEBF2744E7AE1F1D7C6177AA9F" style="OLC">
+						<subparagraph id="iddb093d8ae4234552b635c0aaa560a3f2">
+							<enum>(C)</enum>
+							<header>Energy
+		  management system</header>
+ <text>An energy manager designated under subparagraph (A) shall consider use of a system to manage energy use at the facility and certification of the facility in accordance with the International Organization for Standardization standard numbered 50001 and entitled <quote>Energy Management Systems</quote>.</text>
+						</subparagraph><after-quoted-block>;</after-quoted-block></quoted-block>
+				</subparagraph><subparagraph id="idEBEA2086EBDA4297924FF315643507C6">
+					<enum>(C)</enum>
+ <text>by striking paragraphs (3) and (4) and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="idCD04FD1B9328420892C740D296BDDFAC" style="OLC">
+						<paragraph id="id9b8c2ba8e3044d4f90d52e38b22be130">
+							<enum>(3)</enum>
+							<header>Energy and
+		  water evaluations and commissioning</header>
+							<subparagraph id="id5849117a6fc54bbbbb91ea7dbe2a4a21">
+								<enum>(A)</enum>
+								<header>Evaluations</header>
+ <text>Except as provided in subparagraph (B), effective beginning on the date that is 180 days after the date of enactment of the <short-title>All-of-the-Above Federal Building Energy Conservation Act of 2015</short-title>, and annually thereafter, each energy manager shall complete, for each calendar year, a comprehensive energy and water evaluation and recommissioning or retrocommissioning for approximately 25 percent of the facilities of each agency that meet the criteria under paragraph (2)(B) in a manner that ensures that an evaluation of each facility is completed at least once every 4 years.</text>
+							</subparagraph><subparagraph id="id0e11a77d6f8b41f4973f02a1e36ed43f">
+								<enum>(B)</enum>
+								<header>Exceptions</header>
+ <text>An evaluation and recommissioning shall not be required under subparagraph (A) with respect to a facility that—</text>
+								<clause id="id9046d4f24c8e4e258794aeb34c70f50b">
+									<enum>(i)</enum>
+ <text>has had a comprehensive energy and water evaluation during the 8-year period preceding the date of the evaluation;</text>
+								</clause><clause id="id9f85ac7e46ab436183b21b8b049bf5b4">
+									<enum>(ii)</enum>
+									<subclause commented="no" display-inline="yes-display-inline" id="id9B0862D558394B74BF598445D38A44AC"><enum>(I)</enum>
+ <text>has been commissioned, recommissioned, or retrocommissioned during the 10-year period preceding the date of the evaluation; or</text>
+									</subclause><subclause id="id2ABFF800885441638AD6D814C20B741C" indent="up1">
+										<enum>(II)</enum>
+ <text>is under ongoing commissioning;</text> </subclause></clause><clause id="idae0eb911a86443129289ebee3d935810"> <enum>(iii)</enum> <text>has not had a major change in function or use since the previous evaluation and commissioning;</text>
+								</clause><clause id="id0431d0644e96429fa14640979643e3b5">
+									<enum>(iv)</enum>
+ <text>has been benchmarked with public disclosure under paragraph (8) within the year preceding the evaluation; and</text>
+								</clause><clause id="id2ccb02a814644c85a2f9a6fe2c2d5692">
+									<enum>(v)</enum>
+									<subclause commented="no" display-inline="yes-display-inline" id="idD0221B3C88714299B72C21F4546E4DAE"><enum>(I)</enum>
+ <text>based on the benchmarking, has achieved at a facility level the most recent cumulative energy savings target under subsection (a) compared to the earlier of—</text>
+										<item id="id5877B8D8B5BA445CBFA402588C7E3614" indent="up1">
+											<enum>(aa)</enum>
+ <text>the date of the most recent evaluation; or</text>
+										</item><item id="idBC24EF1563DF415EAF250DC6D4234A4F" indent="up1">
+											<enum>(bb)</enum>
+ <text>the date—</text> <subitem id="id09DA14933CE14CF3BCFF82B90725F915"> <enum>(AA)</enum> <text>of the most recent commissioning, recommissioning, or retrocommissioning; or</text>
+											</subitem><subitem id="id1F20BF9123A44943B8AA883424974551">
+												<enum>(BB)</enum>
+ <text>on which ongoing commissioning began; or</text>
+											</subitem></item></subclause><subclause id="idFBA852C61DB147E88CDAEED8144435CC" indent="up1">
+										<enum>(II)</enum>
+ <text>has a long-term contract in place guaranteeing energy savings at least as great as the energy savings target under subclause (I).</text>
+									</subclause></clause></subparagraph></paragraph><paragraph id="id97a4804537c84e3f8b63dc5991669dbd">
+							<enum>(4)</enum>
+							<header>Implementation
+		  of identified energy and water efficiency measures</header>
+							<subparagraph id="idcb911dc4c1234578b83f126605781ec1">
+								<enum>(A)</enum>
+								<header>In
+		  general</header>
+ <text>Not later than 2 years after the date of completion of each evaluation under paragraph (3), each energy manager may—</text>
+								<clause id="idf2349b925bcb4fce8ce0420c9ebc25c0">
+									<enum>(i)</enum>
+ <text>implement any energy- or water-saving measure that the Federal agency identified in the evaluation conducted under paragraph (3) that is life-cycle cost effective; and</text>
+								</clause><clause id="id0d3e4a4c23f247b5b46aff913160cbad">
+									<enum>(ii)</enum>
+ <text>bundle individual measures of varying paybacks together into combined projects.</text>
+								</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idd4a43451ef8e495990209cd57a613a75">
+								<enum>(B)</enum>
+								<header>Measures not
+		  implemented</header>
+ <text>The energy manager shall, as part of the certification system under paragraph (7), explain the reasons why any life-cycle cost effective measures were not implemented under subparagraph (A) using guidelines developed by the Secretary.</text>
+							</subparagraph></paragraph><after-quoted-block>;
+		  and</after-quoted-block></quoted-block>
+				</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id35D3718FEE8D4CD395993EA6C53CF4B6">
+					<enum>(D)</enum>
+ <text>in paragraph (7)(C), by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id2D49F6B8646B4C2C9F2D6A68554409A8" style="OLC">
+						<clause id="id861f875c5472427fb5e5257466117c78">
+							<enum>(iii)</enum>
+							<header>Summary
+		  report</header>
+ <text>The Secretary shall make available a report that summarizes the information tracked under subparagraph (B)(i) by each agency and, as applicable, by each type of measure.</text>
+						</clause><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subparagraph></paragraph></section><section id="id501E64E203C544A386474D4882EC2775">
+			<enum>3.</enum>
+			<header>Federal
+		building energy efficiency performance standards; certification system and
+		level for green buildings</header>
+			<subsection id="id64CA5865754441C68ADC5682B5438E0A">
+				<enum>(a)</enum>
+				<header>Definitions</header>
+ <text>Section 303 of the Energy Conservation and Production Act (<external-xref legal-doc="usc" parsable-cite="usc/42/6832">42 U.S.C. 6832</external-xref>) is amended—</text>
+				<paragraph id="id1A701DA5A6874DC29FE54B3CD0380B88">
+					<enum>(1)</enum>
+ <text>in paragraph (6), by striking <quote>to be constructed</quote> and inserting <quote>constructed or altered</quote>; and</text>
+				</paragraph><paragraph id="idA0D25299DFE448349D137EEC0988AC70">
+					<enum>(2)</enum>
+ <text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="idAEC54FF7E41540BCB8A44D7AE9D178E1" style="OLC">
+						<paragraph id="id3e1fdd275dc649148b685665e7493172">
+							<enum>(17)</enum>
+							<header>Major
+		  renovation</header>
+ <text>The term <term>major renovation</term> means a modification of building energy systems sufficiently extensive that the whole building can meet energy standards for new buildings, based on criteria to be established by the Secretary through notice and comment rulemaking.</text>
+						</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="id87DED2DEB7E04534914C69FCCEA7FE9A">
+				<enum>(b)</enum>
+				<header>Federal
+		Building Efficiency Standards</header>
+ <text>Section 305 of the Energy Conservation and Production Act (<external-xref legal-doc="usc" parsable-cite="usc/42/6834">42 U.S.C. 6834</external-xref>) is amended—</text>
+				<paragraph id="id5098DCB983A049E9BC3B36CCD294B8B4">
+					<enum>(1)</enum>
+ <text>in subsection (a)(3)—</text>
+					<subparagraph id="id82204F912970491F877F8E3E95DD8FBC">
+						<enum>(A)</enum>
+ <text>by striking <quote>(3)(A) Not later than</quote> and all that follows through subparagraph (B) and inserting the following:</text>
+						<quoted-block display-inline="no-display-inline" id="idF4093F7F97514C6ABBCAC59A82408D36" style="OLC">
+							<paragraph id="id6ac1fc97956f429485caab1eb948dc6b">
+								<enum>(3)</enum>
+								<header>Revised Federal
+		  building energy efficiency performance standards; certification for green
+		  buildings</header>
+								<subparagraph id="idED5BD5B44A0346CCBCE941CF50273515">
+									<enum>(A)</enum>
+									<header>Revised federal
+		  building energy efficiency performance standards</header>
+									<clause id="id27D471AB5FE5463E90003361666019C4">
+										<enum>(i)</enum>
+										<header>In
+		  general</header>
+ <text>Not later than 1 year after the date of enactment of the <short-title>All-of-the-Above Federal Building Energy Conservation Act of 2015</short-title>, the Secretary shall establish, by rule, revised Federal building energy efficiency performance standards that require that—</text>
+										<subclause id="idE78A962BAB634944A812982C947C4EB5">
+											<enum>(I)</enum>
+ <text>new Federal buildings and alterations and additions to existing Federal buildings—</text>
+											<item id="id550215BC87644FFEAF5E63651714BF26">
+												<enum>(aa)</enum>
+ <text>meet or exceed the most recent revision of the International Energy Conservation Code (in the case of residential buildings) or ASHRAE Standard 90.1 (in the case of commercial buildings) as of the date of enactment of the <short-title>All-of-the-Above Federal Building Energy Conservation Act of 2015</short-title>; and</text>
+											</item><item id="id4EEB92C813114D0BA06607448327F009">
+												<enum>(bb)</enum>
+ <text>meet or exceed the energy provisions of State and local building codes applicable to the building, if the codes are more stringent than the International Energy Conservation Code or ASHRAE Standard 90.1, as applicable;</text>
+											</item></subclause><subclause id="idFE0670E7863941DCBE22FB725E884072">
+											<enum>(II)</enum>
+ <text>unless demonstrated not to be life-cycle cost effective for new Federal buildings and Federal buildings with major renovations—</text>
+											<item id="id26AE56C039434F4BB07736B51AFD9EFA">
+												<enum>(aa)</enum>
+ <text>the buildings be designed to achieve energy consumption levels that are at least 30 percent below the levels established in the version of the ASHRAE Standard or the International Energy Conservation Code, as appropriate, that is applied under subclause (I)(aa), including updates under subparagraph (B); and</text>
+											</item><item id="id609154E570594820A6EFBC42165A9F57">
+												<enum>(bb)</enum>
+ <text>sustainable design principles are applied to the location, siting, design, and construction of all new Federal buildings and replacement Federal buildings;</text>
+											</item></subclause><subclause id="idB8C8EFD87BD146E1B06B6708AB01324B">
+											<enum>(III)</enum>
+ <text>if water is used to achieve energy efficiency, water conservation technologies shall be applied to the extent that the technologies are life-cycle cost effective; and</text>
+										</subclause><subclause id="idCF013520FB484B35AE2484893B1C489E">
+											<enum>(IV)</enum>
+ <text>if life-cycle cost effective, as compared to other reasonably available technologies, not less than 30 percent of the hot water demand for each new Federal building or Federal building undergoing a major renovation be met through the installation and use of solar hot water heaters.</text>
+										</subclause></clause><clause id="id1EE3AF361CBE4332ADD920B18FC7D98B">
+										<enum>(ii)</enum>
+										<header>Limitation</header>
+ <text>Clause (i)(I) shall not apply to unaltered portions of existing Federal buildings and systems that have been added to or altered.</text>
+									</clause></subparagraph><subparagraph id="id0D6820E1607A4F2FB91077CEFDE872A1">
+									<enum>(B)</enum>
+									<header>Updates</header>
+ <text>Not later than 1 year after the date of approval of each subsequent revision of the ASHRAE Standard or the International Energy Conservation Code, as appropriate, the Secretary shall determine whether the revised standards established under subparagraph (A) should be updated to reflect the revisions, based on the energy savings and life-cycle cost-effectiveness of the revisions.</text>
+								</subparagraph></paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+					</subparagraph><subparagraph id="idE8B102ED512A4397A00773FBA09F1CE8">
+						<enum>(B)</enum>
+ <text>in subparagraph (C), by striking <quote>(C) In the budget request</quote> and inserting the following:</text>
+						<quoted-block display-inline="no-display-inline" id="idCC47926A7FF04F8D835F3F8F728B8AED" style="OLC">
+							<subparagraph id="id7FD10D4DDB8B482187EBF4C1F349D535">
+								<enum>(C)</enum>
+								<header>Budget
+		  request</header>
+ <text>In the budget request</text>
+							</subparagraph><after-quoted-block>;
+		  and</after-quoted-block></quoted-block>
+					</subparagraph><subparagraph id="id814AC948F3F14441B823BCF5B4B70267">
+						<enum>(C)</enum>
+ <text>by striking subparagraph (D) and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="idF0B0CD7CD1DE4F808EBBC088B14319FB" style="OLC"> <subparagraph id="id69E9F9A4CB314682A1CC22C9A19372F9"> <enum>(D)</enum> <header>Certification for green buildings</header> <clause id="id7CB8CB57557549E2A4C49DB69DA022E2"> <enum>(i)</enum> <header>Sustainable design principles</header> <text>Sustainable design principles shall be applied to the siting, design, and construction of buildings covered by this subparagraph.</text>
+								</clause><clause id="id8EF8FBCA6BBB40E1B81E43A6B164C5F4">
+									<enum>(ii)</enum>
+									<header>Selection of
+		  certification systems</header>
+ <text>The Secretary, after reviewing the findings of the Federal Director under section 436(h) of the Energy Independence and Security Act of 2007 (<external-xref legal-doc="usc" parsable-cite="usc/42/17092">42 U.S.C. 17092(h)</external-xref>), in consultation with the Administrator of General Services, and in consultation with the Secretary of Defense relating to those facilities under the custody and control of the Department of Defense, shall determine those certification systems for green commercial and residential buildings that the Secretary determines to be the most likely to encourage a comprehensive and environmentally sound approach to certification of green buildings.</text>
+								</clause><clause id="idB5F1E6A21ECE4C9780055274E7807E75">
+									<enum>(iii)</enum>
+									<header>Basis for
+		  selection</header>
+ <text>The determination of the certification systems under clause (ii) shall be based on ongoing review of the findings of the Federal Director under section 436(h) of the Energy Independence and Security Act of 2007 (<external-xref legal-doc="usc" parsable-cite="usc/42/17092">42 U.S.C. 17092(h)</external-xref>) and the criteria described in clause (v).</text>
+								</clause><clause id="idDB5874FA76E24778B19840AA22004D90">
+									<enum>(iv)</enum>
+									<header>Administration</header>
+ <text>In determining certification systems under this subparagraph, the Secretary shall—</text>
+									<subclause id="id94C67E5D94D44F0D924392DCA4F64AC8">
+										<enum>(I)</enum>
+ <text>make a separate determination for all or part of each system;</text>
+									</subclause><subclause id="id9663fd24be4944acaced49cd78bc4269">
+										<enum>(II)</enum>
+ <text>confirm that the criteria used to support the selection of building products, materials, brands, and technologies—</text>
+ <item id="id829CEEAD4E2A43B58CDE09C145BC6129"><enum>(aa)</enum><text>are fair and neutral (meaning that the criteria are based on an objective assessment of relevant technical data);</text>
+ </item><item id="id2E87D88D5FC842A38617563478DED6C7"><enum>(bb)</enum><text>do not prohibit, disfavor, or discriminate against selection based on technically inadequate information to inform human or environmental risk; and</text>
+ </item><item id="id1232731802A644BE8612D218A6239939"><enum>(cc)</enum><text>are expressed to prefer performance measures whenever performance measures may reasonably be used in lieu of prescriptive measures; and</text>
+										</item></subclause><subclause id="idcef68813cfd748e0a6a8afd5e7f8c02f">
+										<enum>(III)</enum>
+ <text>use environmental and health criteria that are based on risk assessment methodology that is generally accepted by the applicable scientific disciplines.</text>
+									</subclause></clause><clause id="id0A1835A458AA46F3B848FF4635FAAED0">
+									<enum>(v)</enum>
+									<header>Considerations</header>
+ <text>In determining the green building certification systems under this subparagraph, the Secretary shall take into consideration—</text>
+									<subclause id="id72C2A88408364F0BA7E25E6CC82830BA">
+										<enum>(I)</enum>
+ <text>the ability and availability of assessors and auditors to independently verify the criteria and measurement of metrics at the scale necessary to implement this subparagraph;</text>
+									</subclause><subclause id="id5FC5F6EB6E2446AEA741488829A06B80">
+										<enum>(II)</enum>
+ <text>the ability of the applicable certification organization to collect and reflect public comment;</text> </subclause><subclause id="idCA78F5E40EC04F539CC02607757BA3BC"> <enum>(III)</enum> <text>the ability of the standard to be developed and revised through a consensus-based process;</text>
+									</subclause><subclause id="idF9F3490F08814A1489BFB32B6956A04C">
+										<enum>(IV)</enum>
+ <text>an evaluation of the robustness of the criteria for a high-performance green building, which shall give credit for promoting—</text>
+										<item id="idAE1EA772262B43C1A5AEE69AEEE6F7AE">
+											<enum>(aa)</enum>
+ <text>efficient and sustainable use of water, energy, and other natural resources;</text> </item><item id="id48EA3430D9DA403B81577757054637FF"> <enum>(bb)</enum> <text>use of renewable energy sources;</text>
+										</item><item id="id06A0D1A6C18F4A54BDC1164AAAB7DE61">
+											<enum>(cc)</enum>
+ <text>improved indoor environmental quality through enhanced indoor air quality, thermal comfort, acoustics, day lighting, pollutant source control, and use of low-emission materials and building system controls; and</text>
+										</item><item id="id14500D2EC4924E4481B2C8B76BB0D136">
+											<enum>(dd)</enum>
+ <text>such other criteria as the Secretary determines to be appropriate; and</text> </item></subclause><subclause id="id2103B7804F61490089F1C08B68533EC6"> <enum>(V)</enum> <text>national recognition within the building industry.</text>
+									</subclause></clause><clause id="idBD366031A42D46A1841AEA25160C4EA6">
+									<enum>(vi)</enum>
+									<header>Review</header>
+ <text>The Secretary, in consultation with the Administrator of General Services and the Secretary of Defense, shall conduct an ongoing review to evaluate and compare private sector green building certification systems, taking into account—</text>
+									<subclause id="id720A8758E1E747A8AE317FFC45064F4C">
+										<enum>(I)</enum>
+ <text>the criteria described in clause (v); and</text> </subclause><subclause id="id8C3F265B6B7242B384F77E6C458BECB9"> <enum>(II)</enum> <text>the identification made by the Federal Director under section 436(h) of the Energy Independence and Security Act of 2007 (<external-xref legal-doc="usc" parsable-cite="usc/42/17092">42 U.S.C. 17092(h)</external-xref>).</text>
+									</subclause></clause><clause id="id65A56091E9A6419C9B0B052679A1CA13">
+									<enum>(vii)</enum>
+									<header>Exclusions</header>
+									<subclause id="id4F562E03342D442FB8AF331551C93D52">
+										<enum>(I)</enum>
+										<header>In general</header>
+ <text>Subject to subclause (II), if a certification system fails to meet the review requirements of clause (v), the Secretary shall—</text>
+										<item id="id16C19B745F014F86889407505D24025D">
+											<enum>(aa)</enum>
+ <text>identify the portions of the system, whether prerequisites, credits, points, or otherwise, that meet the review criteria of clause (v);</text>
+										</item><item id="id050D362B603C49368ED7425E66A6FAF2">
+											<enum>(bb)</enum>
+ <text>determine the portions of the system that are suitable for use; and</text> </item><item id="id29A120AED3A2468FBB8B47B4CE1FA8ED"> <enum>(cc)</enum> <text>exclude all other portions of the system from identification and use.</text>
+										</item></subclause><subclause id="id864CD53716B54546958A57070EC90163">
+										<enum>(II)</enum>
+										<header>Entire systems</header>
+ <text>The Secretary shall exclude an entire system from use if an exclusion under subclause (I)—</text> <item id="idDDCD6B3F5E80444C80EDB98BE7ED4545"> <enum>(aa)</enum> <text>impedes the integrated use of the system;</text>
+										</item><item id="idCEDF3574BD1B4022A95DE2A2AF56334E">
+											<enum>(bb)</enum>
+ <text>creates disparate review criteria or unequal point access for competing materials; or</text> </item><item id="id803253705B204EACAEEBB51F7F4C73C6"> <enum>(cc)</enum> <text>increases agency costs of the use.</text>
+										</item></subclause></clause><clause id="id0A6E421E1186468B82F7AB003C919101">
+									<enum>(viii)</enum>
+									<header>Internal certification processes</header>
+ <text>The Secretary may by rule allow Federal agencies to develop internal certification processes, using certified professionals, in lieu of certification by certification entities identified under clause (ii).</text>
+								</clause><clause id="id779FFA45DAC542C887DBE7942FECC27A">
+									<enum>(ix)</enum>
+									<header>Privatized military housing</header>
+ <text>With respect to privatized military housing, the Secretary of Defense, after consultation with the Secretary may, through rulemaking, develop alternative certification systems and levels than the systems and levels identified under clause (ii) that achieve an equivalent result in terms of energy savings, sustainable design, and green building performance.</text>
+								</clause><clause id="id2FB833738D0F4B4185E6F00EBA185630">
+									<enum>(x)</enum>
+									<header>Water conservation technologies</header>
+ <text>In addition to any use of water conservation technologies otherwise required by this section, water conservation technologies shall be applied to the extent that the technologies are life-cycle cost-effective.</text>
+								</clause><clause id="id0239CD1B59AF4E3CBCCD567340ADF5E6">
+									<enum>(xi)</enum>
+									<header>Effective date</header>
+									<subclause id="id6478F2EBDA7E46D3848D28F133BB78C3">
+										<enum>(I)</enum>
+										<header>Determinations made after December 31, 2015</header>
+ <text>This subparagraph shall apply to any determination made by a Federal agency after December 31, 2015.</text>
+									</subclause><subclause id="id6B3040F671134E14A26F5FC7609D9038">
+										<enum>(II)</enum>
+										<header>Determinations made on or before December 31, 2015</header>
+ <text>This subparagraph (as in effect on the day before the date of enactment of the <short-title>All-of-the-Above Federal Building Energy Conservation Act of 2015</short-title>) shall apply to any use of a certification system for green commercial and residential buildings by a Federal agency on or before December 31, 2015.</text>
+									</subclause></clause></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+					</subparagraph></paragraph><paragraph id="id41F566BC5CCF4A84A578C3C15CD3136B">
+					<enum>(2)</enum>
+ <text>by striking subsections (c) and (d) and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id6368384EA8A949C8A6C1AF75C15B7E41" style="OLC">
+						<subsection id="id1F615C09AAB841B3B99436EA3ADC713E">
+							<enum>(c)</enum>
+							<header>Periodic
+		  review</header>
+ <text>The Secretary shall—</text> <paragraph id="id826605F18DFF4ECBA71D6484387A5216"> <enum>(1)</enum> <text>once every 5 years, review the Federal building energy standards established under this section; and</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id008B8DA129674555BFE2E70AAA2A0556"><enum>(2)</enum><text>on completion of a review under paragraph (1), if the Secretary determines that significant energy savings would result, upgrade the standards to include all new energy efficiency and renewable energy measures that are technologically feasible and economically justified.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

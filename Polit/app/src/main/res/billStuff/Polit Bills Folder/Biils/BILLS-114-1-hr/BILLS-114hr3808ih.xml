@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H542A1A514DF2495387579F1D56FB4394" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3808 IH: To require the withdrawal and study of the Federal Housing Finance Agency’s proposed rule on Federal Home Loan Bank membership, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3808</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151022">October 22, 2015</action-date>
+			<action-desc><sponsor name-id="L000569">Mr. Luetkemeyer</sponsor> (for himself, <cosponsor name-id="M001156">Mr. McHenry</cosponsor>, <cosponsor name-id="H001064">Mr. Heck of Washington</cosponsor>, and <cosponsor name-id="C001083">Mr. Carney</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require the withdrawal and study of the Federal Housing Finance Agency’s proposed rule on
+			 Federal Home Loan Bank membership, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HF7A20BC836424E889E3B8F49D33AE39C" style="OLC">
+		<section id="HF3CDC7854AE9456F94F5E243C816EB38" section-type="section-one"><enum>1.</enum><header>FHLB membership proposed rule</header>
+ <subsection id="H843184B4D18A4415A994DDC6E1E5ACE6"><enum>(a)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HD481BABBA752410183FC0BFB19C82C28"><enum>(1)</enum><header>Community development financial institution</header><text>The term <term>community development financial institution</term> has the meaning given that term in section 103 of the Community Development Banking and Financial Institutions Act of 1994 (<external-xref legal-doc="usc" parsable-cite="usc/12/4702">12 U.S.C. 4702</external-xref>).</text>
+ </paragraph><paragraph id="HB5CB76CE261D4DC993777D5966A11BBE"><enum>(2)</enum><header>Covered proposed rule</header><text>The term <term>covered proposed rule</term> means the proposed rule of the Federal Housing Finance Agency entitled <quote>Members of Federal Home Loan Banks</quote> (79 Fed. Reg. 54848 (September 12, 2014)).</text> </paragraph><paragraph id="HCEFF77A2E1174C44A67ED007629967D7"><enum>(3)</enum><header>Other terms from the Federal Home Loan Bank Act</header><text>The terms <term>community financial institution</term>, <term>Federal Home Loan Bank</term>, and <term>Federal Home Loan Bank System</term> have the meanings given those terms in section 2 of the Federal Home Loan Bank Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1422">12 U.S.C. 1422</external-xref>).</text>
+ </paragraph></subsection><subsection id="HE6197DA81167485095ED8A15EF000D56"><enum>(b)</enum><header>Withdrawal of proposed rule</header><text>Not later than 30 days after the date of enactment of this Act, the Federal Housing Finance Agency shall withdraw the covered proposed rule.</text>
+			</subsection><subsection id="HF3AF932DF8DE4ED8BA27DE9D497859FE"><enum>(c)</enum><header>GAO study and report on proposed rule</header>
+				<paragraph id="HF75285F12120450E9FF50383F8A112AB"><enum>(1)</enum><header>Study</header>
+ <subparagraph id="H38CEDCACB89344C386508B8DCCC9AF39"><enum>(A)</enum><header>In general</header><text>The Comptroller General of the United States shall conduct a study on the impact that the covered proposed rule would have, if adopted as proposed, on—</text>
+ <clause id="HEBCD9C6B78AC430F9FF1492D4B2B9B37"><enum>(i)</enum><text>the ability of the Federal Home Loan Banks to fulfill the mandate to provide liquidity to support housing finance and economic and community development;</text>
+ </clause><clause id="HE24A583DCE2348C78AD9B6EC01903AAF"><enum>(ii)</enum><text>the safety and soundness of the Federal Home Loan Bank System;</text> </clause><clause id="HBC8F6D969B844FDCB5BC9D7487E7FD37"><enum>(iii)</enum><text>the liquidity needs of financial intermediaries;</text>
+ </clause><clause id="H5F7D17867CD24BD581729DE5F386DEB4"><enum>(iv)</enum><text>the stability of the Federal Home Loan Bank System;</text> </clause><clause id="H6DB772CB6A6343B08BAFC537EE10C49E"><enum>(v)</enum><text>the benefits of a diverse membership base for Federal Home Loan Banks; and</text>
+ </clause><clause id="H2688656CD0CA48F6AC59B0AD37B554A8"><enum>(vi)</enum><text>the ability of member institutions to rely on access to Federal Home Loan Bank advances.</text> </clause></subparagraph><subparagraph id="H4A2A0ED3D6604CB69A5038384181C3D5"><enum>(B)</enum><header>Considerations</header><text>In conducting the study under subparagraph (A), the Comptroller General of the United States shall consider—</text>
+ <clause id="HA2BD53054A114B328432AAC4C0F0430E"><enum>(i)</enum><text>the comment letters submitted in response to the notice of proposed rulemaking for the covered proposed rule;</text>
+ </clause><clause id="H24F3DBBCF61F454289349B048E594F12"><enum>(ii)</enum><text>the legislative and administrative history of the Federal Home Loan Bank membership rules;</text> </clause><clause id="H2D01AF43D08143DF8C4151A89D16EBFC"><enum>(iii)</enum><text>the burden placed on community financial institutions and community development financial institutions; and</text>
+ </clause><clause id="H60659100A7CB438283E718DE964B5239"><enum>(iv)</enum><text>the legal authority of the Federal Housing Finance Agency to exclude from membership any class or category of insurance companies.</text>
+ </clause></subparagraph></paragraph><paragraph id="HA6453E39C4ED4E15B2C38280B9ACA24C"><enum>(2)</enum><header>Report</header><text>Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the findings of the study conducted under paragraph (1)(A).</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

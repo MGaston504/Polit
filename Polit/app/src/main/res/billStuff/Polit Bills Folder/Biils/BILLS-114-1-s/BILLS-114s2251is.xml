@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2251 IS: Seniors And Veterans Emergency Benefits Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-11-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2251</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151105">November 5, 2015</action-date>
+			<action-desc><sponsor name-id="S366">Ms. Warren</sponsor> (for herself, <cosponsor name-id="S182">Ms. Mikulski</cosponsor>, <cosponsor name-id="S229">Mrs. Murray</cosponsor>, <cosponsor name-id="S270">Mr. Schumer</cosponsor>, <cosponsor name-id="S282">Mr. Nelson</cosponsor>, <cosponsor name-id="S284">Ms. Stabenow</cosponsor>, <cosponsor name-id="S275">Ms. Cantwell</cosponsor>, <cosponsor name-id="S313">Mr. Sanders</cosponsor>, <cosponsor name-id="S307">Mr. Brown</cosponsor>, <cosponsor name-id="S309">Mr. Casey</cosponsor>, <cosponsor name-id="S316">Mr. Whitehouse</cosponsor>, <cosponsor name-id="S322">Mr. Merkley</cosponsor>, <cosponsor name-id="S331">Mrs. Gillibrand</cosponsor>, <cosponsor name-id="S332">Mr. Franken</cosponsor>, <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>, <cosponsor name-id="S364">Mr. Murphy</cosponsor>, <cosponsor name-id="S361">Ms. Hirono</cosponsor>, <cosponsor name-id="S354">Ms. Baldwin</cosponsor>, and <cosponsor name-id="S369">Mr. Markey</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for a supplementary payment to Social Security beneficiaries, supplemental security
+			 income beneficiaries, and recipients of veterans benefits, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Seniors And Veterans Emergency Benefits Act</short-title></quote> or the <quote><short-title>SAVE Benefits Act</short-title></quote>.</text>
+		</section><section id="idF4BAC5466EE241AD8D6F63EBEF4DDE06"><enum>2.</enum><header>One-time supplementary payment to Social Security beneficiaries and Veterans</header>
+			<subsection id="ID66010825D9CB44DAA6C644771B283EF1">
+				<enum>(a)</enum>
+				<header>Authority To make payments</header>
+				<paragraph id="IDDB82447AD77440138171A5DDD44B6457">
+					<enum>(1)</enum>
+					<header>Eligibility</header>
+					<subparagraph id="ID331D5F6B42E04466BFB7E70496DCA8C6">
+						<enum>(A)</enum>
+						<header>In general</header>
+ <text>Subject to paragraph (4)(C), the Secretary of the Treasury shall disburse a payment equal to the amount described in subsection (e) to each individual who, for any month during the 3-month period ending with the month which ends prior to the month that includes the date of the enactment of this Act, is entitled to a benefit payment described in clause (i), (ii), or (iii) of subparagraph (B), or is eligible for a SSI cash benefit described in subparagraph (C).</text>
+					</subparagraph><subparagraph id="ID823A074DDC694FA18468FD6FE85FBC73">
+						<enum>(B)</enum>
+						<header>Benefit payment described</header>
+ <text>For purposes of subparagraph (A):</text> <clause id="ID68B001A76513484EA7864198509D4063"> <enum>(i)</enum> <header>Title ii benefit</header> <text>A benefit payment described in this clause is a monthly insurance benefit payable (without regard to sections 202(j)(1) and 223(b) of the <act-name parsable-cite="SSA">Social Security Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/402">42 U.S.C. 402(j)(1)</external-xref>, 423(b))) under—</text>
+							<subclause id="IDB91612389A504B7ABF8DEC5A5C4B619A">
+								<enum>(I)</enum>
+ <text>section 202(a) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/402">42 U.S.C. 402(a)</external-xref>);</text> </subclause><subclause id="ID30F591A1A0DB4C0DB762115F37C52F79"> <enum>(II)</enum> <text>section 202(b) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/402">42 U.S.C. 402(b)</external-xref>);</text>
+							</subclause><subclause id="IDCA9C82904E894F41B5664EE066012C21">
+								<enum>(III)</enum>
+ <text>section 202(c) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/402">42 U.S.C. 402(c)</external-xref>);</text> </subclause><subclause id="ID233DB35BE86B48B0A4D98C4231883138"> <enum>(IV)</enum> <text>section 202(d)(1)(B)(ii) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/402">42 U.S.C. 402(d)(1)(B)(ii)</external-xref>);</text>
+							</subclause><subclause id="IDFF25786652C045608053364CE1BA3ACA">
+								<enum>(V)</enum>
+ <text>section 202(e) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/402">42 U.S.C. 402(e)</external-xref>);</text> </subclause><subclause id="ID75CA717B35784F73817D606EAE3AE41E"> <enum>(VI)</enum> <text>section 202(f) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/402">42 U.S.C. 402(f)</external-xref>);</text>
+							</subclause><subclause id="ID47EAA547547E4775B7F5332F8768C0D6">
+								<enum>(VII)</enum>
+ <text>section 202(g) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/402">42 U.S.C. 402(g)</external-xref>);</text> </subclause><subclause id="IDA4A67576F013417E920F77F562654AF4"> <enum>(VIII)</enum> <text>section 202(h) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/402">42 U.S.C. 402(h)</external-xref>);</text>
+							</subclause><subclause id="IDF20A6361E833420DBCB21261DF9981D2">
+								<enum>(IX)</enum>
+ <text>section 223(a) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/423">42 U.S.C. 423(a)</external-xref>);</text> </subclause><subclause id="ID13FD98F150274488AE33AAE0584BC538"> <enum>(X)</enum> <text>section 227 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/427">42 U.S.C. 427</external-xref>); or</text>
+							</subclause><subclause id="ID4C7F519106644271B1ABEFAB2F0BDFF9">
+								<enum>(XI)</enum>
+ <text>section 228 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/428">42 U.S.C. 428</external-xref>).</text> </subclause></clause><clause id="ID4D9688BEF40842F8BCBD38E533E8396F"> <enum>(ii)</enum> <header>Railroad retirement benefit</header> <text>A benefit payment described in this clause is a monthly annuity or pension payment payable (without regard to section 5(a)(ii) of the Railroad Retirement Act of 1974 (45 U.S.C. 231d(a)(ii))) under—</text>
+							<subclause id="IDF81B4D987797414AA4D6535A23CFEAAE">
+								<enum>(I)</enum>
+ <text>section 2(a)(1) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/45/231a">45 U.S.C. 231a(a)(1)</external-xref>);</text> </subclause><subclause id="ID40295FA60C454506ACA8758D552B960F"> <enum>(II)</enum> <text>section 2(c) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/45/231a">45 U.S.C. 231a(c)</external-xref>);</text>
+							</subclause><subclause id="ID41419F32F9F6485A8BECE90B449B7BBD">
+								<enum>(III)</enum>
+ <text>section 2(d)(1)(i) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/45/231a">45 U.S.C. 231a(d)(1)(i)</external-xref>);</text> </subclause><subclause id="ID17CADE6FE8634880A197D5CC37FA8C4A"> <enum>(IV)</enum> <text>section 2(d)(1)(ii) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/45/231a">45 U.S.C. 231a(d)(1)(ii)</external-xref>);</text>
+							</subclause><subclause id="ID6C969BCA4F1C4E2D90DCEDF3E3CE0D88">
+								<enum>(V)</enum>
+ <text>section 2(d)(1)(iii)(C) of such Act to an adult disabled child (<external-xref legal-doc="usc" parsable-cite="usc/45/231a">45 U.S.C. 231a(d)(1)(iii)(C)</external-xref>);</text> </subclause><subclause id="IDDB3CA6361E1A464EA3066A603B39A8FB"> <enum>(VI)</enum> <text>section 2(d)(1)(iv) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/45/231a">45 U.S.C. 231a(d)(1)(iv)</external-xref>);</text>
+							</subclause><subclause id="ID5827E5F96B1346FAB9F6459C59D19D90">
+								<enum>(VII)</enum>
+ <text>section 2(d)(1)(v) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/45/231a">45 U.S.C. 231a(d)(1)(v)</external-xref>); or</text> </subclause><subclause id="ID4FFA1C79C1B245B39C06C5A8E4346298"> <enum>(VIII)</enum> <text>section 7(b)(2) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/45/231f">45 U.S.C. 231f(b)(2)</external-xref>) with respect to any of the benefit payments described in clause (i) of this subparagraph.</text>
+ </subclause></clause><clause id="idA63E9F17A19644AA88008522FFE80F3A"><enum>(iii)</enum><header>Veterans benefit</header><text>A benefit payment described in this clause is a compensation or pension payment payable under—</text> <subclause id="idc3c8f006938148eaab6f0e8bc9263f7d"><enum>(I)</enum><text>section 1110, 1117, 1121, 1131, 1141, or 1151 of title 38, United States Code;</text>
+ </subclause><subclause id="id24587b69679c4e57ac738023de50be3e"><enum>(II)</enum><text>section 1310, 1312, 1313, 1315, 1316, or 1318 of title 38, United States Code;</text> </subclause><subclause id="id2d95d624f7f84ca68385b4d854130d23"><enum>(III)</enum><text>section 1513, 1521, 1533, 1536, 1537, 1541, 1542, or 1562 of title 38, United States Code; or</text>
+ </subclause><subclause id="id12eba913c6474251b8a2a0918f524f69"><enum>(IV)</enum><text>section 1805, 1815, or 1821 of title 38, United States Code,</text> </subclause><continuation-text continuation-text-level="clause">to a veteran, surviving spouse, child, or parent as described in paragraph (2), (3), (4)(A)(ii), or (5) of section 101, title 38, United States Code, who received that benefit during any month within the 3-month period ending with the month which ends prior to the month that includes the date of the enactment of this Act.</continuation-text></clause></subparagraph><subparagraph id="id14E85973FA724CF491C11F5AC7F9C2BE"><enum>(C)</enum><header>SSI cash benefit described</header><text>A SSI cash benefit described in this subparagraph is a cash benefit payable under section 1611 (other than under subsection (e)(1)(B) of such section) or 1619(a) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1382">42 U.S.C. 1382</external-xref>, 1382h).</text>
+					</subparagraph></paragraph><paragraph id="IDC33C0FBEA4AB48EA8EFF429CB263C368">
+					<enum>(2)</enum>
+					<header>No double payments</header>
+ <text>An individual shall be paid only 1 payment under this section, regardless of whether the individual is entitled to, or eligible for, more than 1 benefit payment described in paragraph (1).</text>
+				</paragraph><paragraph id="ID83BB13B8811C41F7AB7D8A2053D088C3">
+					<enum>(3)</enum>
+					<header>Limitation</header>
+ <text>A payment under this section shall not be made—</text> <subparagraph id="IDA987882EFDDA4C2782463167DA0544BB"> <enum>(A)</enum> <text>in the case of an individual entitled to a benefit specified in paragraph (1)(B)(i) or paragraph (1)(B)(ii)(VIII) if, for the most recent month of such individual's entitlement in the 3-month period described in paragraph (1), such individual's benefit under such paragraph was not payable by reason of subsection (x) or (y) of section 202 the <act-name parsable-cite="SSA">Social Security Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/402">42 U.S.C. 402</external-xref>) or section 1129A of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320a-8a">42 U.S.C. 1320a–8a</external-xref>);</text>
+ </subparagraph><subparagraph id="idE7424AED5A224C4C91D062D4C22CF2FA"><enum>(B)</enum><text>in the case of an individual entitled to a benefit specified in paragraph (1)(B)(iii) if, for the most recent month of such individual's entitlement in the 3-month period described in paragraph (1), such individual's benefit under such paragraph was not payable, or was reduced, by reason of section 1505, 5313, or 5313B of title 38, United States Code;</text>
+ </subparagraph><subparagraph id="id523FFA829A7742E8982DD2AB41B69499"><enum>(C)</enum><text>in the case of an individual entitled to a benefit specified in paragraph (1)(C) if, for such most recent month, such individual's benefit under such paragraph was not payable by reason of subsection (e)(1)(A) or (e)(4) of section 1611 (<external-xref legal-doc="usc" parsable-cite="usc/42/1382">42 U.S.C. 1382</external-xref>) or section 1129A of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320a-8">42 U.S.C. 1320a–8</external-xref>);</text>
+ </subparagraph><subparagraph id="idDA12C12D97E34C0C86E08322D2A0FCF0"><enum>(D)</enum><text>in the case of an individual who has been penalized under section 1129(a) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320-8">42 U.S.C. 1320–8(a)</external-xref>); or</text>
+					</subparagraph><subparagraph id="ID32B7477D8BAC47C5B5E5816BEB6D64C2">
+						<enum>(E)</enum>
+ <text>in the case of any individual whose date of death occurs before the date on which the individual is certified under subsection (b) to receive a payment under this section.</text>
+					</subparagraph></paragraph><paragraph id="ID7149E7DB02724694ACC4E147B538FE7B">
+					<enum>(4)</enum>
+					<header>Timing and manner of payments</header>
+					<subparagraph id="IDADD0BAE9A521438AA3A4F4258FEDF13F">
+						<enum>(A)</enum>
+						<header>In general</header>
+ <text>The Secretary of the Treasury shall commence disbursing payments under this section at the earliest practicable date but in no event later than 120 days after the date of enactment of this Act. The Secretary of the Treasury may disburse any payment electronically to an individual in such manner as if such payment was a benefit payment to such individual under the applicable program described in subparagraph (B) or (C) of paragraph (1).</text>
+					</subparagraph><subparagraph id="ID2E5A73230ED448E492E6CC039D408B3F">
+						<enum>(B)</enum>
+						<header>Notice</header>
+ <clause id="idE4C969C20B224839B400CA283787C83E"><enum>(i)</enum><header>In general</header><text>The Secretary of the Treasury shall provide written notice, sent by mail to each individual receiving a payment under this section, explaining that the payment represents a one-time benefit increase to the benefit payment described in paragraph (1) to which the individual is entitled.</text>
+ </clause><clause id="id9699261B547942B0A07A2A8F63052272"><enum>(ii)</enum><header>Public notice</header><text>The Secretary of the Treasury, in consultation with the Commissioner of Social Security and the Secretary of Veterans Affairs, shall publish on a public website information about the payments authorized under this subsection, including—</text>
+ <subclause id="idAFD5B5ACFDC446C08019C11D5E7B844D"><enum>(I)</enum><text>information on eligibility for such payments;</text> </subclause><subclause id="id6699C44B0C6D479BBB8780EEA4E23DA9"><enum>(II)</enum><text>information on the timeframe in which such payments will be distributed; and</text>
+ </subclause><subclause id="idF2CAB65ED0C54E52859D2C0057AAD807"><enum>(III)</enum><text>other relevant information.</text> </subclause></clause></subparagraph><subparagraph id="idA2E05D15CC694383BE9AA0B9EE1A7737"><enum>(C)</enum><header>Deadline</header> <text>No payments shall be disbursed under this section after December 31, 2016, regardless of any determinations of entitlement to, or eligibility for, such payments made after such date.</text>
+					</subparagraph></paragraph></subsection><subsection id="IDCFE3D892D3A44B33A928F8FBE6A9FB76">
+				<enum>(b)</enum>
+				<header>Identification of recipients</header>
+ <text>The Commissioner of Social Security, the Railroad Retirement Board, and the Secretary of Veterans Affairs shall certify the individuals entitled to receive payments under this section and provide the Secretary of the Treasury with the information needed to disburse such payments. A certification of an individual shall be unaffected by any subsequent determination or redetermination of the individual's entitlement to, or eligibility for, a benefit specified in subparagraph (B) or (C) of subsection (a)(1).</text>
+			</subsection><subsection id="IDD420341A8BCB45BA923B47043E34D96C">
+				<enum>(c)</enum>
+				<header>Treatment of payments</header>
+				<paragraph id="IDCE14C8813D4D4F1896F7E4FFED5CC8B3">
+					<enum>(1)</enum>
+					<header>Payment to be disregarded for purposes of all federal and federally assisted programs</header>
+ <text>A payment under subsection (a) shall not be regarded as income and shall not be regarded as a resource for the month of receipt and the following 9 months, for purposes of determining the eligibility of the recipient (or the recipient's spouse or family) for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.</text>
+				</paragraph><paragraph id="ID243AEC4BCC0E4291BE6D90E775A8E1CF">
+					<enum>(2)</enum>
+					<header>Payment not considered income for purposes of taxation</header>
+ <text>A payment under subsection (a) shall not be considered as gross income for purposes of the Internal Revenue Code of 1986.</text>
+				</paragraph><paragraph id="ID6024E93B17EE4E4286C16CCDC0351F98">
+					<enum>(3)</enum>
+					<header>Payments protected from assignment</header>
+ <text>The provisions of section 207 of the <act-name parsable-cite="SSA">Social Security Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/407">42 U.S.C. 407</external-xref>) and section 14(a) of the Railroad Retirement Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/45/231m">45 U.S.C. 231m(a)</external-xref>) shall apply to any payment made under subsection (a) as if such payment was a benefit payment to such individual under the applicable program described in subsection (a)(1)(B).</text>
+				</paragraph><paragraph id="id99D02B4E5DA348229C515C55939F718F"><enum>(4)</enum><header>Treatment under Social Security Act</header>
+ <subparagraph id="id102C575615D54246A42C4BA09108DFD2"><enum>(A)</enum><header>No effect on family maximum</header><text>For purposes of section 203(a) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/403">42 U.S.C. 403(a)</external-xref>), a payment under subsection (a) shall be disregarded in determining reductions in benefits under such section.</text>
+ </subparagraph><subparagraph id="id3AA6E2F393B6498BA1DA5D33B8C6D338"><enum>(B)</enum><header>Payment not a general benefit increase</header><text>For purposes of section 215(i) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/415">42 U.S.C. 415(i)</external-xref>), a payment under subsection (a) shall not be regarded as a general benefit increase.</text>
+ </subparagraph></paragraph><paragraph id="id1A2ED464AF224A48A00C3F975D4019C7"><enum>(5)</enum><header>Payments subject to reclamation</header><text>Any payment made under this section shall, in the case of a payment by direct deposit which is made after the date of the enactment of this Act, be subject to the reclamation provisions under subpart B of part 210 of title 31, Code of Federal Regulations (relating to reclamation of benefit payments).</text>
+				</paragraph></subsection><subsection id="ID236D096151AF47CA834E270CAA9D9645">
+				<enum>(d)</enum>
+				<header>Payment to representative payees and fiduciaries</header>
+				<paragraph id="ID1DBE7AD1363E481EBA9A3FEF09D45E21">
+					<enum>(1)</enum>
+					<header>In general</header>
+ <text>In any case in which an individual who is entitled to a payment under subsection (a) and whose benefit payment or cash benefit described in paragraph (1) of that subsection is paid to a representative payee or fiduciary, the payment under subsection (a) shall be made to the individual's representative payee or fiduciary and the entire payment shall be used only for the benefit of the individual who is entitled to the payment.</text>
+				</paragraph><paragraph id="IDD2D2C52A69694039A502ECACEFAEE21C">
+					<enum>(2)</enum>
+					<header>Applicability</header>
+					<subparagraph id="ID49A8A8FCAE0F467493F76231699751B8">
+						<enum>(A)</enum>
+						<header>Payment on the basis of a title ii benefit or SSI benefit</header>
+ <text>Section 1129(a)(3) of the <act-name parsable-cite="SSA">Social Security Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/1320a-8">42 U.S.C. 1320a–8(a)(3)</external-xref>) shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(i) or (1)(C) of subsection (a) in the same manner as such section applies to a payment under title II or XVI of such Act.</text>
+					</subparagraph><subparagraph id="IDB6D5EE815DCA435082ED366F9A8B17F2">
+						<enum>(B)</enum>
+						<header>Payment on the basis of a railroad retirement benefit</header>
+ <text>Section 13 of the Railroad Retirement Act (<external-xref legal-doc="usc" parsable-cite="usc/45/231l">45 U.S.C. 231l</external-xref>) shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(ii) of subsection (a) in the same manner as such section applies to a payment under such Act.</text>
+ </subparagraph><subparagraph id="id94CECE1F7119432684ED92A5EC3BF051"><enum>(C)</enum><header>Payment on the basis of a veterans benefit</header><text>Sections 5502, 6106, and 6108 of title 38, United States Code, shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(iii) of subsection (a) in the same manner as those sections apply to a payment under that title.</text>
+					</subparagraph></paragraph></subsection><subsection id="IDE2D35FA164554DB2A2A892266E891458">
+				<enum>(e)</enum>
+ <header>Payment amount</header><text>The amount described in this subsection is the amount that is equal to 3.9 percent of the average amount of annual benefits received by an individual entitled to benefits under title II of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/401">42 U.S.C. 401 et seq.</external-xref>) in calendar year 2015, as determined by the Commissioner of Social Security, rounded to the next lowest multiple of $1.</text>
+			</subsection><subsection id="idA505F3388EDA4575B5D1F0E3F13BDD2B"><enum>(f)</enum><header>Appropriation</header>
+ <text>Out of any sums in the Treasury of the United States not otherwise appropriated, the following sums are appropriated for the period of fiscal years 2016 through 2017, to remain available until expended, to carry out this section:</text>
+				<paragraph commented="no" id="ID4B4947D99FBB4FB3B653F5C625315BC1">
+					<enum>(1)</enum>
+ <text>For the Secretary of the Treasury, such sums as may be necessary for administrative costs incurred in carrying out this section.</text>
+ </paragraph><paragraph id="id435B39AE722340EFBDC44A2758E92E2B"><enum>(2)</enum><text>For the Commissioner of Social Security—</text> <subparagraph id="IDDAD14E87A8FB4DF4A42313E6D2DB805F"> <enum>(A)</enum> <text>such sums as may be necessary for payments to individuals certified by the Commissioner of Social Security as entitled to receive a payment under this section; and</text>
+					</subparagraph><subparagraph id="IDFD9B7F7C598A47609957CEF0E7FC3F39">
+						<enum>(B)</enum>
+ <text>such sums as may be necessary to the Social Security Administration's Limitation on Administrative Expenses for costs incurred in carrying out this section.</text>
+					</subparagraph></paragraph><paragraph id="ID0A639D42C8D54633815D89A734D8EB48">
+					<enum>(3)</enum>
+ <text>For the Railroad Retirement Board—</text> <subparagraph commented="no" display-inline="no-display-inline" id="IDFC49B4E9AB5248D0A156D287E373BECD"><enum>(A)</enum><text>such sums as may be necessary for payments to individuals certified by the Railroad Retirement Board as entitled to receive a payment under this section; and</text>
+ </subparagraph><subparagraph commented="no" id="ID9E92C51DC22F4C0DB4B067F6C3338F3F"><enum>(B)</enum><text>such sums as may be necessary to the Railroad Retirement Board's Limitation on Administration for administrative costs incurred in carrying out this section.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="idA6708617C33E400EAC488D0332438445"><enum>(4)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="id3D148ED561134CD396D223735D6EA018"><enum>(A)</enum><text>For the Secretary of Veterans Affairs—</text> <clause commented="no" id="idA36D11C773BB4697B951F9B062C566A2" indent="up1"><enum>(i)</enum><text>such sums as may be necessary for the Compensation and Pensions account, for payments to individuals certified by the Secretary of Veterans Affairs as entitled to receive a payment under this section; and</text>
+ </clause><clause commented="no" id="id6B0C7D31A4AA44BEBAED83697CA458F8" indent="up1"><enum>(ii)</enum><text>such sums as may be necessary for the Information Systems Technology account and the General Operating Expenses account for administrative costs incurred in carrying out this section.</text>
+ </clause></subparagraph><subparagraph commented="no" id="idFCA6947532274A4C96EE39AE78371BDF" indent="up1"><enum>(B)</enum><text>The Department of Veterans Affairs Compensation and Pensions account shall hereinafter be available for payments authorized under subsection (a)(1)(A) to individuals entitled to a benefit payment described in subsection (a)(1)(B)(iii).</text>
+					</subparagraph></paragraph></subsection></section><section id="IDDF8125E2F3024F13A89B88E0B79597C9">
+			<enum>3.</enum>
+			<header>Special credit for certain government retirees</header>
+			<subsection id="ID17BFC09168504175AEB63AF0AF9234A5">
+				<enum>(a)</enum>
+				<header>In general</header>
+ <text>In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by subtitle A of the Internal Revenue Code of 1986 for the first taxable year beginning in 2015 an amount equal to $581 ($1,162 in the case of a joint return where both spouses are eligible individuals).</text>
+			</subsection><subsection id="IDF04ACA3A6B004639A6C1A1C44961DE1D">
+				<enum>(b)</enum>
+				<header>Eligible individual</header>
+				<paragraph id="ID7281078F4427489FB1399F8D0668C4B0">
+					<enum>(1)</enum>
+					<header>In general</header>
+ <text>For purposes of this section, the term <term>eligible individual</term> means any individual—</text> <subparagraph id="ID77C826AE1C2C4785AEF245509F030CB1"> <enum>(A)</enum> <text>who receives during the first taxable year beginning in 2015 any amount as a pension or annuity for service performed in the employ of the United States or any State, or any instrumentality thereof, which is not considered employment for purposes of sections 3101(a) and 3111(a) of the Internal Revenue Code of 1986, and</text>
+					</subparagraph><subparagraph id="ID0B787E0B2D9B4B64B33F3D908DD12F84">
+						<enum>(B)</enum>
+ <text>who does not receive a payment under section 2 during such taxable year.</text> </subparagraph></paragraph><paragraph id="IDB01B63CBFBD64CCF85D5DC25674FC870"> <enum>(2)</enum> <header>Identification number requirement</header> <subparagraph id="id5FF85BF191BF4FEBA69AAF0DFCBCE355"><enum>(A)</enum><header>In general</header><text>The term <term>eligible individual</term> shall not include any individual who does not include on the return of tax for the taxable year—</text>
+						<clause id="ID116F72E003154C87B9BA0A1631CB95B2">
+							<enum>(i)</enum>
+ <text>such individual's social security account number, and</text> </clause><clause id="ID6063C7A3C9024B73983FD0719FBCE83B"> <enum>(ii)</enum> <text>in the case of a joint return, the social security account number of one of the taxpayers on such return.</text>
+ </clause></subparagraph><subparagraph id="idB73A3DDBC79E46098436E4F0298DDF96"><enum>(B)</enum><header>Exclusion of TIN</header><text>For purposes of subparagraph (A), the social security account number shall not include a TIN (as defined in <external-xref legal-doc="usc" parsable-cite="usc/26/7701">section 7701(a)(41)</external-xref> of the Internal Revenue Code of 1986) issued by the Internal Revenue Service. Any omission of a correct social security account number required under this paragraph shall be treated as a mathematical or clerical error for purposes of applying section 6213(g)(2) of such Code to such omission.</text>
+					</subparagraph></paragraph></subsection><subsection id="id9F177AC4CDB44B7F8CADFC96F2A671FC"><enum>(c)</enum><header>Treatment of credit</header>
+				<paragraph id="ID6BA98994D10C45ED8F83345769DF5E43">
+					<enum>(1)</enum>
+					<header>Refundable credit</header>
+					<subparagraph id="ID2CCB1344A59E4A618206AD0173E78BCF">
+						<enum>(A)</enum>
+						<header>In general</header>
+ <text>The credit allowed by subsection (a) shall be treated as allowed by subpart C of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986.</text>
+					</subparagraph><subparagraph id="ID0AA7BA9AB5214037B3C587ED83748636">
+						<enum>(B)</enum>
+						<header>Appropriations</header>
+ <text>For purposes of section 1324(b)(2) of title 31, United States Code, the credit allowed by subsection (a) shall be treated in the same manner as a refund from the credit allowed under <external-xref legal-doc="usc" parsable-cite="usc/26/36A">section 36A</external-xref> of the Internal Revenue Code of 1986.</text>
+					</subparagraph></paragraph><paragraph id="ID1F57145D6CB44AEB8C03BDCC02173FEA">
+					<enum>(2)</enum>
+					<header>Deficiency rules</header>
+ <text>For purposes of applying <external-xref legal-doc="usc" parsable-cite="usc/26/6211">section 6211(b)(4)(A)</external-xref> of the Internal Revenue Code of 1986, the credit allowable by subsection (a) shall be treated in the same manner as the credits listed in subparagraph (A) of section 6211(b)(4).</text>
+				</paragraph></subsection><subsection id="IDE54E2B25D98D4482B1FEC9254C37E197">
+				<enum>(d)</enum>
+				<header>Refunds disregarded in the administration of federal programs and federally assisted programs</header>
+ <text>Any credit or refund allowed or made to any individual by reason of this section shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following 2 months, for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.</text>
+			</subsection></section><section id="idD6FB2F23EC64482EBB9EAF3148A4396E" section-type="subsequent-section"><enum>4.</enum><header>Modification of limitation on excessive remuneration</header>
+			<subsection id="id859504FCF2FC4243AAB5DD3C1CB13887"><enum>(a)</enum><header>Repeal of performance-Based compensation and commission exceptions for limitation on excessive
+			 remuneration</header>
+				<paragraph id="id7A33ADC3BEE6410BB3F1F26756F85DAD"><enum>(1)</enum><header>In
+ general</header><text>Paragraph (4) of <external-xref legal-doc="usc" parsable-cite="usc/26/162">section 162(m)</external-xref> of the Internal Revenue Code of 1986 is amended by striking subparagraphs (B) and (C) and by redesignating subparagraphs (D) through (G) as subparagraphs (B) through (E), respectively.</text>
+				</paragraph><paragraph id="id7D1B318602D64B66912D3387D75D455D"><enum>(2)</enum><header>Conforming
+			 amendments</header>
+ <subparagraph id="idBB3D7616517E4062918CF39E2CD8F2A1"><enum>(A)</enum><text>Section 162(m)(5) of such Code is amended—</text>
+ <clause id="idA1DC5B7F061847A482C67CFE718F3ADA"><enum>(i)</enum><text>by striking <quote>subparagraphs (B), (C), and (D) thereof</quote> in subparagraph (E) and inserting <quote>subparagraph (B) thereof</quote>, and</text>
+ </clause><clause id="id14A31DD2C1714C93B50208BE0977EF0A"><enum>(ii)</enum><text>by striking <quote>subparagraphs (F) and (G)</quote> in subparagraph (G) and inserting <quote>subparagraphs (D) and (E)</quote>.</text>
+ </clause></subparagraph><subparagraph id="id9E9108DD6F1D45D3ACD9CD2F34AA17BB"><enum>(B)</enum><text>Section 162(m)(6) of such Code is amended—</text>
+ <clause id="idF7117EBE0E5C42F4920A72D595F57C92"><enum>(i)</enum><text>by striking <quote>subparagraphs (B), (C), and (D) thereof</quote> in subparagraph (D) and inserting <quote>subparagraph (B) thereof</quote>, and</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="idB047717F75614CD5AA8B3C168E74DAED"><enum>(ii)</enum><text>by striking <quote>subparagraphs (F) and (G)</quote> in subparagraph (G) and inserting <quote>subparagraphs (D) and (E)</quote>.</text>
+						</clause></subparagraph></paragraph></subsection><subsection id="id7DC84B8C0BCE42E8AFC8D6324A645E02"><enum>(b)</enum><header>Expansion of
+ applicable employer</header><text>Paragraph (2) of <external-xref legal-doc="usc" parsable-cite="usc/26/162">section 162(m)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="idCCD92E69C80445F58A57DBB6497A5D8C" style="OLC">
+					<paragraph id="idD46716E13B6246848CCB6C65A3B41114"><enum>(2)</enum><header>Publicly held
+ corporation</header><text>For purposes of this subsection, the term <term>publicly held corporation</term> means any corporation which is an issuer (as defined in section 3 of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c</external-xref>))—</text>
+ <subparagraph id="id87462C2C6D244746AF8173B98258AF58"><enum>(A)</enum><text>the securities of which are registered under section 12 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/15/78l">15 U.S.C. 78l</external-xref>), or</text>
+ </subparagraph><subparagraph id="id1B71029F0A594829AACF8C1162E32DF3"><enum>(B)</enum><text>that is required to file reports under section 15(d) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/15/78o">15 U.S.C. 78o(d)</external-xref>).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="id0CDDA8B5047E452BB4D7E5958BE10F63"><enum>(c)</enum><header>Application to
+			 all current and former officers, directors, and employees</header>
+				<paragraph id="id82E24271906243FBA6C98A545092B404"><enum>(1)</enum><header>In
+ general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/162">Section 162(m)</external-xref> of the Internal Revenue Code of 1986, as amended by subsection (a), is amended—</text>
+ <subparagraph id="idCB83B28043034C35B6D1AFD481AA7358"><enum>(A)</enum><text>by striking <quote>covered employee</quote> each place it appears in paragraphs (1) and (4) and inserting <quote>covered individual</quote>, and</text>
+ </subparagraph><subparagraph id="id75CBD4161EB94F97868CD01F53743985"><enum>(B)</enum><text>by striking <quote>such employee</quote> each place it appears in subparagraphs (A) and (E) of paragraph (4) and inserting <quote>such individual</quote>.</text>
+					</subparagraph></paragraph><paragraph id="id0B14C8C414734EE98563196F0078BB03"><enum>(2)</enum><header>Covered
+ individual</header><text>Paragraph (3) of section 162(m) of such Code is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id4EB3723916A845449195EF9FB133B971" style="OLC">
+						<paragraph id="id0EEC79A0C82E4783A8434C90BBAB6AD1"><enum>(3)</enum><header>Covered
+ individual</header><text>For purposes of this subsection, the term <term>covered individual</term> means any individual who is an officer, director, or employee of the taxpayer or a former officer, director, or employee of the taxpayer.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="id09DD818D63CA4458AE13774E545CF3DC"><enum>(3)</enum><header>Conforming
+			 amendments</header>
+ <subparagraph id="idFE49983FF1E7433C9DA72FB869D5694E"><enum>(A)</enum><text>Section 48D(b)(3)(A) of such Code is amended by inserting <quote>(as in effect for taxable years beginning before January 1, 2015)</quote> after <quote>section 162(m)(3)</quote>.</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id9529A540083A4BA7BD9FE2A79A7E8A32"><enum>(B)</enum><text>Section 409A(b)(3)(D)(ii) of such Code is amended by inserting <quote>(as in effect for taxable years beginning before January 1, 2015)</quote> after <quote>section 162(m)(3)</quote>.</text>
+ </subparagraph></paragraph></subsection><subsection id="id2874b004f47a4be8b1d8e3c04ab15700"><enum>(d)</enum><header>Special rule for remuneration paid to beneficiaries, etc</header><text>Paragraph (4) of section 162(m), as amended by subsection (a), is amended by adding at the end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="id328e07f40a224e4b9addd494bf4137b4" style="OLC">
+ <subparagraph id="id5e8d3113e5da462b9775e14a6f0245ec"><enum>(F)</enum><header>Special rule for remuneration paid to beneficiaries, etc</header><text>Remuneration shall not fail to be applicable employee remuneration merely because it is includible in the income of, or paid to, a person other than the covered individual, including after the death of the covered individual.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="id190B1122C8EA4B388F559C3DB1D59B58"><enum>(e)</enum><header>Regulatory
+			 authority</header>
+				<paragraph id="idF326FA8A62144771B3257535A6DF4CF0"><enum>(1)</enum><header>In
+ general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/162">Section 162(m)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="id877FCB2E855C4A939AAA5685F0EEDB80" style="OLC">
+ <paragraph id="id9B564D7926324438AC5348FAB9675485"><enum>(7)</enum><header>Regulations</header><text>The Secretary may prescribe such guidance, rules, or regulations, including with respect to reporting, as are necessary to carry out the purposes of this subsection.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="id34C3B2FFC8B74B62BA4789CC00B3D2ED"><enum>(2)</enum><header>Conforming
+ amendment</header><text>Paragraph (6) of section 162(m) of such Code is amended by striking subparagraph (H).</text>
+ </paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="idE0EBE200DCA74D94A048BC6ED7DB4996"><enum>(f)</enum><header display-inline="yes-display-inline">Transfer to Social Security Trust Funds</header><text display-inline="yes-display-inline">For purposes of the amount of any increase in revenue to the Treasury by reason of the amendments made by this section, any such amount that is in excess of the total amount appropriated under section 2(f) of this Act shall be, at such times and in such manner as determined appropriate by the Secretary of the Treasury (or the Secretary's delegate), deposited in the Trust Funds (as defined in subsection (c) of section 201 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/401">42 U.S.C. 401</external-xref>)), with—</text>
+ <paragraph commented="no" display-inline="no-display-inline" id="id039C8D805C65419BB66A0D0156BCD5B0"><enum>(1)</enum><text display-inline="yes-display-inline">50 percent of such amount to be deposited in the Federal Old-Age and Survivors Insurance Trust Fund (as defined in subsection (a) of such section); and</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id406A24D0A7D248C092CE4001847A4116"><enum>(2)</enum><text display-inline="yes-display-inline">50 percent of such amount to be deposited in the Federal Disability Insurance Trust Fund (as defined in subsection (b) of such section).</text>
+				</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id50904558A96244C3ADA1588BBA52B213"><enum>(g)</enum><header>Effective
+ date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2015.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

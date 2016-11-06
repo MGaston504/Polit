@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H610246B505BC45D78CBBD4B5C7A4247E" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1573 IH: Higher Education and Employment Transparency Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1573</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150324">March 24, 2015</action-date>
+			<action-desc><sponsor name-id="C001072">Mr. Carson of Indiana</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require institutions of higher education to provide students with information from the
+			 Occupational Employment Statistics program and the Occupational Outlook
+			 Handbook of the Bureau of Labor Statistics, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H669DE937CDEC49E392DCB4E1CEB54CFF" style="OLC">
+ <section id="H1B404F6B73EC4FD3A5D3515F73078E20" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Higher Education and Employment Transparency Act</short-title></quote>.</text> </section><section id="H82FC283579AA44338687096408C09889"><enum>2.</enum><header>Occupational Employment Statistics</header> <subsection id="H62D8A5697F9F4A8ABE78D55C205379BA"><enum>(a)</enum><header>Requirements for the Secretary of Education</header><text display-inline="yes-display-inline">Section 132(i)(1) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1015a">20 U.S.C. 1015a(i)(1)</external-xref>) is amended—</text>
+ <paragraph id="HF1C5299EA73541BEA15C719AAC867732"><enum>(1)</enum><text>in subparagraph (V), by adding at the end the following new clause:</text> <quoted-block display-inline="no-display-inline" id="H463BD647B3F54DA28DFE7B060D7D8CC5" style="OLC"> <clause commented="no" id="HC6955FAF86F44B1499C059DB962AA7DD"><enum>(v)</enum><text display-inline="yes-display-inline">Employment information with respect to graduates of the institution’s degree or certificate programs that is required to be provided by the institution under section 485(a)(R).</text></clause><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="HA49EECE5389F413FB6E3AD912507ADAF"><enum>(2)</enum><text>in subparagraph (W), by inserting before the period at the end the following: <quote>and a link to the appropriate section of such website that provides information from the Occupational Employment Statistics program and the Occupational Outlook Handbook of the Bureau of Labor Statistics</quote>.</text>
+				</paragraph></subsection><subsection id="HBD881CE346BC43FA9B2BD6C9CFF018A5"><enum>(b)</enum><header>Requirements for institutions of higher education</header>
+ <paragraph id="H2596FE5016DB4BEEA388AE563D61A4A4"><enum>(1)</enum><header>Institutional and financial assistance information for students</header><text display-inline="yes-display-inline">Section 485(a)(R) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/20/1092">20 U.S.C. 1092(a)(R)</external-xref>) is amended by inserting after <quote>certificate programs,</quote> the following: <quote>including whether such employment is paid or unpaid and whether such employment requires any postsecondary education,</quote>.</text>
+ </paragraph><paragraph id="H10F2D1FE2EC9443A9798265F93E80D21"><enum>(2)</enum><header>Program participation agreements</header><text>Section 487(a) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/20/1094">20 U.S.C. 1094(a)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H842D3809452E4229B2B3C8255D867BDF" style="OLC">
+ <paragraph id="H541829A83EF14B8DAC7B02047415F2B5"><enum>(30)</enum><text display-inline="yes-display-inline">The institution will provide a link on the institution’s website, prominently and near any institutional statistics (such as job placement rates), to the appropriate section of the Bureau of Labor Statistics website that provides information from the Occupational Employment Statistics program and the Occupational Outlook Handbook of the Bureau of Labor Statistics.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection commented="no" id="H0FD5B64EF9C14C1B8185EA869863B1C3"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this Act shall be effective for academic year 2015–2016 and succeeding academic years.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H518B3E4BE2F345DFA6809A0F31DF701A" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 999 IH: ROV In-Depth Examination Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 999</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150213">February 13, 2015</action-date>
+			<action-desc><sponsor name-id="P000602">Mr. Pompeo</sponsor> (for himself, <cosponsor name-id="P000258">Mr. Peterson</cosponsor>, <cosponsor name-id="P000594">Mr. Paulsen</cosponsor>, <cosponsor name-id="H001045">Mr. Harper</cosponsor>, <cosponsor name-id="D000614">Mr. Duffy</cosponsor>, <cosponsor name-id="S001192">Mr. Stewart</cosponsor>, <cosponsor name-id="K000362">Mr. King of Iowa</cosponsor>, <cosponsor name-id="S001148">Mr. Simpson</cosponsor>, <cosponsor name-id="B001271">Mr. Benishek</cosponsor>, <cosponsor name-id="K000363">Mr. Kline</cosponsor>, <cosponsor name-id="Z000018">Mr. Zinke</cosponsor>, <cosponsor name-id="O000168">Mr. Olson</cosponsor>, <cosponsor name-id="N000184">Mrs. Noem</cosponsor>, <cosponsor name-id="A000369">Mr. Amodei</cosponsor>, and <cosponsor name-id="S001187">Mr. Stivers</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To direct the Consumer Product Safety Commission and the National Academy of Sciences to study the
+			 vehicle handling requirements proposed by the Commission for recreational
+			 off-highway vehicles and to prohibit the adoption of any such requirements
+			 until the completion of the study.</official-title>
+	</form>
+	<legis-body id="HD287ACC15A9E4340BB50F48D10C53D20" style="OLC">
+ <section id="H004B5DCA553647FD9A1811285C31CE00" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>ROV In-Depth Examination Act</short-title></quote>.</text> </section><section id="H7E148FCA8E224984A5B84CDF2B59978C"><enum>2.</enum><header>Recreational off-highway vehicle standards study</header> <subsection id="HA69C5D8BA6E74A84AA8E3FC13029C76B"><enum>(a)</enum><header>No mandatory standards regarding performance or configuration of ROVs</header> <paragraph id="HF7980C94E27D49AD90DED0E15307009B"><enum>(1)</enum><header>In general</header><text>The Consumer Product Safety Commission shall have no authority to establish any standards concerning the performance or configuration of recreational off-highway vehicles until after the completion of the study required by subsection (b). This prohibition includes a prohibition on the exercise of any authority pursuant to section 27(e) of the Consumer Product Safety Act (<external-xref legal-doc="usc" parsable-cite="usc/15/2076">15 U.S.C. 2076(e)</external-xref>) to require ROV manufacturers to provide performance and technical data to prospective purchasers and to the first purchaser of an ROV for purposes other than resale.</text>
+ </paragraph><paragraph id="HCEF19FD4EA704210B184D03863435ADF"><enum>(2)</enum><header>Voluntary standards</header><text>Nothing in this section shall be construed as suggesting that ROVs shall not be manufactured in compliance with applicable voluntary standards.</text>
+				</paragraph></subsection><subsection id="HC90B4C54AB4F4E0E8B15232DE04B7F2C"><enum>(b)</enum><header>Study</header>
+ <paragraph id="H1A867B2F627B4C4AAB859F87A8CFDE00"><enum>(1)</enum><header>In general</header><text>The Commission shall contract with the National Academy of Sciences to determine—</text> <subparagraph id="H7EF4A1153F7246F3B4A3F2314D96A6F7"><enum>(A)</enum><text>the technical validity of the lateral stability and vehicle handling requirements proposed by the Commission in a notice of proposed rulemaking published in the Federal Register November 19, 2014 (79 Fed. Reg. 68964), for purposes of reducing the risk of ROV rollovers in the off-road environment, including the repeatability and reproducibility of testing for compliance with such requirements;</text>
+ </subparagraph><subparagraph id="H8735E769CB1E4723BB03FE3CBE5AB7AF"><enum>(B)</enum><text>the number of ROV rollovers that would be prevented if the proposed requirements were adopted;</text> </subparagraph><subparagraph id="H5C1223422B7446B1AB8F048D7A47000A"><enum>(C)</enum><text>whether there is a technical basis for the proposal to provide information on a point-of-sale hangtag about a vehicle’s rollover resistance on a progressive scale; and</text>
+ </subparagraph><subparagraph id="HC47D8A504B244468B3E518A4D4D576F6"><enum>(D)</enum><text>the effect on the utility of ROVs used by the Armed Forces if the proposed requirements were adopted.</text>
+ </subparagraph></paragraph><paragraph id="H64F514D65DDB4793982129430C3FA832"><enum>(2)</enum><header>Consultation and deadline for report</header><text>The National Academy of Sciences shall consult with the National Highway Traffic Safety Administration and the Department of Defense in carrying out the study required by this subsection. The National Academy of Sciences shall complete and transmit to the Commission a report containing the findings of the study not later than two years after the date of enactment of this Act.</text>
+ </paragraph><paragraph commented="no" id="HF6C4AEBED2D14F8393832E9630A539E3"><enum>(3)</enum><header>Report to Congress</header><text display-inline="yes-display-inline">Within five days of receiving the report described in paragraph (2) from the National Academy of Sciences, the Commission shall transmit the report, along with any comments of the Commission, to the Committee on Energy and Commerce of the House of Representatives and to the Committee on Commerce, Science and Transportation of the Senate.</text>
+ </paragraph><paragraph id="H3D665D9F05F34B7DB007451751081071"><enum>(4)</enum><header>Consideration</header><text>The Commission shall consider the results of the study in any subsequent rulemaking regarding the performance or configuration of ROVs, or the provision of point-of-sale information regarding ROV performance.</text>
+ </paragraph></subsection><subsection id="H56D5EED59D20479EAF951225B61163B7"><enum>(c)</enum><header>Definitions</header><text display-inline="yes-display-inline">As used in this section:</text> <paragraph id="H5CB2336ADE044614B9C1AEF2E28D1780"><enum>(1)</enum><header>Commission</header><text display-inline="yes-display-inline">The term <term>Commission</term> means the Consumer Product Safety Commission.</text>
+ </paragraph><paragraph id="H13D088933DF542A4A5F0F48BCA59285F"><enum>(2)</enum><header>Recreational off-highway vehicle</header><text>The term <term>recreational off-highway vehicle</term> or <term>ROV</term> means a motorized off-highway vehicle designed to travel on four or more tires, intended by the manufacturer for recreational use by one or more persons and having the following characteristics:</text>
+ <subparagraph id="H675EE9BF5A9445838DDC7EF7600CA15E"><enum>(A)</enum><text>A steering wheel for steering control.</text> </subparagraph><subparagraph id="H772E5A39814F420E884148D42F0B971B"><enum>(B)</enum><text>Foot controls for throttle and service brake.</text>
+ </subparagraph><subparagraph id="H514A615F549943CAA6847A2293E9ED8F"><enum>(C)</enum><text>Non-straddle seating.</text> </subparagraph><subparagraph id="H177D226F78404AAA9675D9AF99C3BA0B"><enum>(D)</enum><text>Maximum speed capability greater than 30 miles per hour.</text>
+ </subparagraph><subparagraph id="HFF880019999748B2B9802D59219FE84E"><enum>(E)</enum><text>Gross vehicle weight rating no greater than 3,750 pounds.</text> </subparagraph><subparagraph id="H31D0575EC4C74D4593493034C584C45A"><enum>(F)</enum><text>Less than 80 inches in overall width, exclusive of accessories.</text>
+ </subparagraph><subparagraph id="HF75AE5F41CB84A24989C9696A66465C5"><enum>(G)</enum><text>Engine displacement equal to or less than 61 cubic inches for gasoline fueled engines.</text> </subparagraph><subparagraph id="HC755765AA091489089467ACAFE708344"><enum>(H)</enum><text>Identification by means of a 17-character personal or vehicle information number.</text>
+ </subparagraph></paragraph><paragraph id="H2936AF6D5F8240BAA9C72B2C2A90F690"><enum>(3)</enum><header>Exclusion</header><text>Such term does not include a prototype of a motorized, off-highway, all-terrain vehicle or other motorized, off-highway, all-terrain vehicle that is intended exclusively for research and development purposes unless the vehicle is offered for sale.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1288 IS: Welfare Abuse Prevention Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code> 
+<congress>114th CONGRESS</congress><session>1st Session</session> 
+<legis-num>S. 1288</legis-num> 
+<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber> 
+<action> 
+<action-date date="20150512">May 12, 2015</action-date> 
+<action-desc><sponsor name-id="S299">Mr. Vitter</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To require States to implement a cash withdrawal daily limit for recipients of cash assistance under the temporary assistance for needy families program.</official-title> 
+</form> 
+<legis-body id="H240A8EFF36DB45FA91B337AEB9D09BE9"> 
+<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header> <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Welfare Abuse Prevention Act</short-title></quote>.</text> </section> <section id="id8D1901F75D18454F938999B9E2A02F04"><enum>2.</enum><header>Cash withdrawal daily limit for assistance under State TANF programs</header> <subsection id="idC207C321C41547D98A110A2668213A4D"><enum>(a)</enum><header>State requirement</header><text>Section 408(a)(12) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/608">42 U.S.C. 608(a)(12)</external-xref>) is amended—</text> 
+<paragraph id="id1F31172DFC564D4698CEB9A1B3F63FB6"><enum>(1)</enum><text>by redesignating subparagraph (B) as subparagraph (C); and</text> </paragraph> <paragraph id="id28B012E559F24C41BE0E0FFB8A09340F"><enum>(2)</enum><text>by inserting after subparagraph (A) the following new subparagraph:</text> 
+<quoted-block display-inline="no-display-inline" id="id02ECFE17A95441C5AC3A846B7055A881" style="OLC"> 
+<subparagraph id="id4BBB143A858243518B8F881F6C5FA7CD"><enum>(B)</enum><header>Cash withdrawal daily limit</header><text>A State to which a grant is made under section 403 shall maintain policies and practices as necessary to ensure that cash assistance disbursed through an electronic benefit transfer card or an electronic payment card shall not be used to withdraw more than $25 per day from an automated teller machine or through a cash-back procedure at a point-of-sale terminal that is located in a place that is not prohibited from being used under subparagraph (A).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></subsection> <subsection id="id2407EA16DA09454193347A419A8D8C16"><enum>(b)</enum><header>Penalty</header><text>Section 409(a)(16) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/609">42 U.S.C. 609(a)(16)</external-xref>) is amended—</text> 
+<paragraph id="idA1C9BD8BC66B403AB56729B3BDFC9A1A"><enum>(1)</enum><text>in subparagraph (A)—</text> <subparagraph id="idB6A95F8921284C9B8D803644D3724E54"><enum>(A)</enum><text>by redesignating clauses (i) and (ii) as subclauses (I) and (II), respectively, and realigning the left margins accordingly;</text> </subparagraph>
+<subparagraph id="id0F28D8C92F7542E2BB064F4A187C8BE8"><enum>(B)</enum><text>by striking <quote>section 408(a)(12)</quote> and inserting <quote>section 408(a)(12)(A)</quote>;</text> </subparagraph> <subparagraph id="idC699E98B39E1421BBE7784CF63828E64"><enum>(C)</enum><text>by striking <quote>If, within</quote> and inserting the following:</text> 
+<quoted-block display-inline="no-display-inline" id="id8DF4169784184F4DB3E3353D416FA964" style="OLC"> 
+<clause id="id4029B0B5F76C44FAA28AA6605BF6DEDF"><enum>(i)</enum><header>Prohibited places for spending of benefits</header><text>If, within</text></clause><after-quoted-block>; and</after-quoted-block></quoted-block> </subparagraph> <subparagraph id="idB50BF357B6C7446992D33D81E3B9005A"><enum>(D)</enum><text>by adding at the end the following new clause:</text> 
+<quoted-block display-inline="no-display-inline" id="id839B62C1CE794B178A7552B4F7256458" style="OLC"> 
+<clause id="id13729A5DBA094B92992052B01946EBD1"><enum>(ii)</enum><header>Cash withdrawal daily limit</header><text>If, within 2 years after the date of the <short-title>Welfare Abuse Prevention Act</short-title>, any State has not reported to the Secretary on such State's implementation of the policies and practices required by section 408(a)(12)(B), or the Secretary determines, based on the information provided in State reports, that any State has not implemented and maintained such policies and practices, the Secretary shall reduce to $0 the State family assistance grant payable to the State under section 403(a)(1) for—</text> <subclause id="idD4893FD55827420EBA0D8A4C9D309C12"><enum>(I)</enum><text>the fiscal year immediately succeeding the year in which such 2-year period ends; and</text> </subclause>
+<subclause commented="no" display-inline="no-display-inline" id="id86C4723D070D42C78AFCDD007C8B11FC"><enum>(II)</enum><text>each succeeding fiscal year in which the State does not demonstrate that such State has implemented and maintained such policies and practices.</text></subclause></clause><after-quoted-block>;</after-quoted-block></quoted-block> </subparagraph></paragraph> <paragraph id="id86431B2298C14559A569B37A0CD9F6F8"><enum>(2)</enum><text>in subparagraph (B), by inserting <quote>clause (i) or (ii) of </quote> before <quote>subparagraph (A)</quote>; and</text> </paragraph>
+<paragraph id="id26BE9C3EE7E74AC5823C6A60DB68E13E"><enum>(3)</enum><text>in subparagraph (C), by inserting <quote>clause (i) or (ii) of </quote> before <quote>subparagraph (A)</quote>.</text> </paragraph></subsection> <subsection id="idAB4E213AF7E1429C9B3D65058FD68781"><enum>(c)</enum><header>Additional State plan requirement</header><text>Section 402(a)(1)(A) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/602">42 U.S.C. 602(a)(1)(A)</external-xref>) is amended—</text> 
+<paragraph id="id649EEDE02A514151BAF8C529C69FD48E"><enum>(1)</enum><text>in clause (vii), by striking <quote>section 408(a)(12)</quote> and inserting <quote>section 408(a)(12)(A), and to comply with the cash withdrawal daily limit required under section 408(a)(12)(B)</quote>; and</text> </paragraph> <paragraph id="idB1F0D33B0327412BB6D02B9D861F5AD3"><enum>(2)</enum><text>in clause (viii), by inserting <quote>the cash withdrawal daily limit and</quote> after <quote>information on</quote>.</text> </paragraph></subsection></section>
+</legis-body> 
+</bill> 
+
+

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H58014165C486474AB30F93257B377778" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3947 IH: Student Loan Payment Optimization Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3947</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151105">November 5, 2015</action-date>
+			<action-desc><sponsor name-id="D000610">Mr. Deutch</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name>, and in addition to the Committee on <committee-name committee-id="HBA00">Financial Services</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Higher Education Act of 1965 and the Truth in Lending Act to clarify the application
+			 of prepayment and underpayment amounts on student loans, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="HD52A82985509408C941CD3C921D7FF20" style="OLC">
+ <section id="HA771A885B3BB4DC6BB3954FC7896652D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Student Loan Payment Optimization Act</short-title></quote>.</text> </section><section id="H21B97486B42144229BB71526F7A4E7BD"><enum>2.</enum><header>Application of prepayment and underpayment amounts for FFEL and Direct Loans</header> <subsection id="H8E5AA1074BA7480496F4C24A3ADE887E"><enum>(a)</enum><header>In General</header><text display-inline="yes-display-inline">Section 455(d) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1087e">20 U.S.C. 1087e(d)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H2CFB6D4DAA1543778D187EA174806BE1" style="OLC">
+					<paragraph id="H98F3358ABCC847EEBF5D3E47057A09B3"><enum>(6)</enum><header>Application of prepayment and underpayment amounts</header>
+ <subparagraph id="HC06B3A6BFD1F488B9A7D930258966AFE"><enum>(A)</enum><header>Prepayment amounts</header><text display-inline="yes-display-inline">Notwithstanding any other provision of this subsection or any other provision of law, with respect to loans made to an eligible borrower under this part or part B which are held by the same holder and which have different applicable rates of interest, the holder of such loans shall apply the borrower’s prepayment amount (within the meaning of section 682.209(b) of title 34, Code of Federal Regulations, or a successor regulation) for one or more of such loans—</text>
+ <clause id="H388936EF419E4027ABCF989E919044C8"><enum>(i)</enum><text>first toward any outstanding balance of fees, including collection costs and authorized late charges, due on such loans; and</text>
+ </clause><clause id="H07A3924FF2FC41868B71537461E6BBF3"><enum>(ii)</enum><text>then, except as otherwise requested by the borrower in writing, toward the outstanding balance of principal due on the loan with the highest applicable rate of interest among such loans.</text>
+ </clause></subparagraph><subparagraph id="HBE00047DAF244380AD8C36EF6FA118D0"><enum>(B)</enum><header>Underpayment amounts</header><text display-inline="yes-display-inline">Notwithstanding any other provision of this subsection or any other provision of law, with respect to loans made to an eligible borrower under this part or part B which are held by the same holder and which have different applicable rates of interest, the holder of such loans shall apply any payment made by the borrower which is less than the amount due at the time of the payment for one or more of such loans—</text>
+ <clause id="HDD6BF7C79E9B46AFA8A4AF9EC0CA5DB2"><enum>(i)</enum><text>first toward any outstanding balance of fees, including collection costs and authorized late charges, due on such loans; and</text>
+ </clause><clause id="H5D1FC2E742CE46B58328F760E5DC944B"><enum>(ii)</enum><text>then, except as otherwise requested by the borrower in writing, toward the balance of the loan with the smallest balance of principal and interest among such loans.</text>
+ </clause></subparagraph><subparagraph commented="no" id="H72B9B68CB22042A9B0909A6924E7D31E"><enum>(C)</enum><header>Special rule for borrowers under income-based repayment plan</header><text display-inline="yes-display-inline">In the case of a loan for which the borrower has elected to participate in an income-based repayment plan under section 493C, subparagraphs (A) and (B) shall not apply unless there is no interest due on the loan.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HE5445EB53E2B4D2598110F75C3EB488B"><enum>(b)</enum><header>Requirements for Contracts With Servicers of Loans</header><text>Section 456(a)(2) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/20/1087f">20 U.S.C. 1087f(a)(2)</external-xref>) is amended by striking the period at the end of the first sentence and inserting the following: <quote>, including the requirements with respect to the application of prepayment and underpayment amounts under section 455(d)(6).</quote>.</text>
+			</subsection></section><section id="HE61245F83B6A4383AE12B76ED20BFFC1"><enum>3.</enum><header>Application of prepayment and underpayment amounts for Perkins Loans</header>
+ <subsection id="H3A7CE7D56849446C993ED4487E620E15"><enum>(a)</enum><header>In General</header><text display-inline="yes-display-inline">Section 464(c)(1)(C) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1087dd">20 U.S.C. 1087dd(c)(1)(C)</external-xref>) is amended—</text> <paragraph id="H2A507754B79F4025B966F1843D8DB320"><enum>(1)</enum><text>by striking <quote>and</quote> at the end of clause (i); and</text>
+ </paragraph><paragraph id="H88BA10281F4843068DD91D46113C9FF9"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H7FDAA7D6EE054F4691DB45C17F604347" style="traditional"> <clause id="H729154691BD6404BB289466357E92625" indent="up2"><enum>(iii)</enum><text display-inline="yes-display-inline">shall provide that the institution shall, in the case of a borrower who provides the institution with a prepayment amount (within the meaning of section 682.209(b) of title 34, Code of Federal Regulations, or a successor regulation) for one or more of the loans held by the institution, apply such prepayment amount—</text>
+ <subclause id="HC639FE9590674364A53F0381F9F9603D"><enum>(I)</enum><text display-inline="yes-display-inline">first toward any outstanding balance of fees, including collection costs and authorized late charges, due on such loans; and</text>
+ </subclause><subclause id="H5422E637B7C248EFAB76ACA011FF81FA"><enum>(II)</enum><text>then, except as otherwise requested by the borrower in writing, toward the outstanding balance of principal due on the loan with the highest applicable rate of interest among such loans; and</text>
+ </subclause></clause><clause id="H01239F35A7C143C9A03F5A8026C5C293" indent="up2"><enum>(iv)</enum><text display-inline="yes-display-inline">shall provide that the institution shall apply any payment made by the borrower which is less than the amount due for a repayment period for one or more of the loans held by the institution—</text>
+ <subclause id="HE44198465EE14A9C8C60AF5CE0261456"><enum>(I)</enum><text display-inline="yes-display-inline">first toward any outstanding balance of fees, including collection costs and authorized late charges, due on such loans; and</text>
+ </subclause><subclause id="H7CC2102E77DA4B4EBAC62F287889F59E"><enum>(II)</enum><text display-inline="yes-display-inline">then, except as otherwise requested by the borrower in writing, toward the balance of the loan with the smallest balance of principal and interest among such loans;</text>
+							</subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H61CA6C7A61E042B694D02B6F823D1DCE"><enum>(b)</enum><header>Agreements With Institutions</header><text display-inline="yes-display-inline">Section 463(a) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/20/1087cc">20 U.S.C. 1087cc(a)</external-xref>) is amended—</text> <paragraph id="H4A27A4CB0C414DA7933E1C31D468EFCA"><enum>(1)</enum><text>by striking <quote>and</quote> at the end of paragraph (8);</text>
+ </paragraph><paragraph id="H5503550ED9A24317A1C0FD931BE38D11"><enum>(2)</enum><text>by redesignating paragraph (9) as paragraph (10); and</text> </paragraph><paragraph id="HFB213411116246F0B3A62EA148CD3DEE"><enum>(3)</enum><text>by inserting after paragraph (8) the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H8163BD3219F7460386E27BC7BAA181F8" style="traditional">
+ <paragraph id="HFDB161CFAB014D67BCEDB24CD9368991"><enum>(9)</enum><text>provide assurances that the institution will meet the requirements with respect to the application of prepayment and underpayment amounts under section 464(c)(1)(C); and</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection></section><section id="H151B3E5DCF534E338E67843D345B4950"><enum>4.</enum><header>Application of prepayment and underpayment amounts for private education loans</header><text display-inline="no-display-inline">Section 128(e) of the Truth in Lending Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1638">15 U.S.C. 1638(e)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H49111A76E696400FB009D0B619756A3D" style="OLC">
+				<paragraph id="H6D86CF57BED543EE870DD6B0E31B8427"><enum>(12)</enum><header>Application of prepayment and underpayment amounts</header>
+ <subparagraph id="H712F45451BF248D9B7D689ADC2F11C21"><enum>(A)</enum><header>Prepayment amounts</header><text>Notwithstanding any other provision of law, with respect to a borrower with one or more private education loans which are held by the same holder and which have different applicable rates of interest, the holder of such loans shall apply the borrower’s prepayment amount (within the meaning of section 682.209(b) of title 34, Code of Federal Regulations, or a successor regulation) for one or more of such loans—</text>
+ <clause id="H0D2DE41EA3464FAD8A48D078F660D36C"><enum>(i)</enum><text display-inline="yes-display-inline">first toward any outstanding balance of fees, including collection costs and authorized late charges, due on any private education loan held by such holder; and</text>
+ </clause><clause id="H87D0257B6E484C44BE48395B19DFAAD1"><enum>(ii)</enum><text>then, except as otherwise requested by the borrower in writing, toward the outstanding balance of principal due on the loan with the highest applicable rate of interest among such loans.</text>
+ </clause></subparagraph><subparagraph id="H9C47057334DF45C6AD19F8E505C1C8FA"><enum>(B)</enum><header>Underpayment amounts</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, with respect to a borrower with one or more private education loans which are held by the same holder and which have different applicable rates of interest, the holder of such loans shall apply any payment made by the borrower which is less than the amount due at the time of the payment for one or more of such loans—</text>
+ <clause id="HBD089876C04142159487ABE62255267D"><enum>(i)</enum><text>first toward any outstanding balance of fees, including collection costs and authorized late charges, due on any private education loans held by such holder; and</text>
+ </clause><clause id="HEC4E6C2844E249F59F16906783346F72"><enum>(ii)</enum><text>then, except as otherwise requested by the borrower in writing, toward the balance of the loan with the smallest balance of principal and interest among such loans.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

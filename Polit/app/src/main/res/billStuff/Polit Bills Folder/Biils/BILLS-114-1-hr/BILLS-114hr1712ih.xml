@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H41FC2CD34F4A4F849AF70D4396712A78" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1712 IH: Freedom from Internet Tax Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1712</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150326">March 26, 2015</action-date> 
+<action-desc><sponsor name-id="M001195">Mr. Mooney of West Virginia</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Communications Act of 1934 to exempt providers of broadband Internet access service from Federal universal service contributions.</official-title> 
+</form> 
+<legis-body id="H0D37693A6C9E47AC9BE4C4E719844C7A" style="OLC"> 
+<section id="HBCB269DD66E34C9CB6346F475C5E7C05" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Freedom from Internet Tax Act</short-title></quote>.</text></section> <section id="HCCC69917EF364FFDBEB30C9F10A55D97"><enum>2.</enum><header>Exemption of broadband providers from Federal universal service contributions</header><text display-inline="no-display-inline">Section 254(d) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/254">47 U.S.C. 254(d)</external-xref>) is amended—</text> 
+<paragraph id="H7B4991A61F3A480B8A51EE9546728178"><enum>(1)</enum><text>by striking <quote>Every</quote> and inserting the following:</text> <quoted-block style="OLC" id="HA230BC2DF5F1402A9FEE0FBB416CFA11" display-inline="no-display-inline"> <paragraph id="HAA06F982C12A425EBB0658F123009285"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Every</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block></paragraph> 
+<paragraph id="H372BE163B83E4AF383234E730C4CD1FF"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block style="OLC" id="H2E7CE10D36E24BED99668F8B4177E95F" display-inline="no-display-inline"> <paragraph id="HA430FF41FE8C4C3F978FA71F23F55C9F"><enum>(2)</enum><header>Exemption for providers of broadband Internet access service</header><text display-inline="yes-display-inline">This subsection does not apply to a person engaged in the provision of broadband Internet access service (as defined in the rules adopted in the Report and Order on Remand, Declaratory Ruling, and Order that was adopted by the Commission on February 26, 2015 (FCC 15–24)), insofar as such person is so engaged.</text> </paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body> 
+</bill> 
+

@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1420 IS: Energy Markets Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1420</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150521">May 21, 2015</action-date>
+			<action-desc><sponsor name-id="S275">Ms. Cantwell</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Department of Energy Organization Act to provide for the collection of information on
+			 critical energy supplies, to establish a Working Group on Energy Markets,
+			 and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Energy Markets Act of 2015</short-title></quote>.</text>
+		</section><section id="ID129bc3f6fa334056975c86588ce6fa5f"><enum>2.</enum><header>Enhanced
+			 information on critical energy supplies</header>
+			<subsection id="ID0293fb4667664006947405456e1627ed"><enum>(a)</enum><header>In
+ general</header><text>Section 205 of the Department of Energy Organization Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7135">42 U.S.C. 7135</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idAA4DB38C7F484AD19606ED4094A538D9" style="OLC">
+					<subsection id="IDdaf6eb76a06f43dbb2db1ee9fccebc13"><enum>(n)</enum><header>Collection of
+				information on critical energy supplies</header>
+						<paragraph id="ID82772dcd9fed4aad9d49c0e281ff0848"><enum>(1)</enum><header>In
+ general</header><text>To ensure transparency of information relating to energy infrastructure and product ownership in the United States and improve the ability to evaluate the energy security of the United States, the Administrator, in consultation with other Federal agencies (as necessary), shall—</text>
+ <subparagraph id="id3B5DD709CEF3447FAF6441AFCC82214A"><enum>(A)</enum><text>not later than 120 days after the date of enactment of this subsection, develop and provide notice of a plan to collect, in cooperation with the Commodity Futures Trade Commission, information identifying all oil inventories, and other physical oil assets (including all petroleum-based products and the storage of such products in off-shore tankers), that are owned by the 50 largest traders of oil contracts (including derivative contracts), as determined by the Commodity Futures Trade Commission; and</text>
+ </subparagraph><subparagraph id="id0F2755B9250447BD8E5ABCCF39C14AED"><enum>(B)</enum><text>not later than 90 days after the date on which notice is provided under subparagraph (A), implement the plan described in that subparagraph.</text>
+ </subparagraph></paragraph><paragraph id="IDbd7c17b01cbe49cfa8e5e5eafd873056"><enum>(2)</enum><header>Information</header><text>The plan required under paragraph (1) shall include a description of the plan of the Administrator for collecting company-specific data, including—</text>
+ <subparagraph id="ID8eae67a74ce34b09a577e75cda49f748"><enum>(A)</enum><text>volumes of product under ownership; and</text>
+ </subparagraph><subparagraph id="ID93bb0dc4c2b44fb5b6b9cf8b2e2ef807"><enum>(B)</enum><text>storage and transportation capacity (including owned and leased capacity).</text>
+							</subparagraph></paragraph><paragraph id="ID960bfbd29c0346a1a49e2b7e68086aa1"><enum>(3)</enum><header>Protection of
+ proprietary information</header><text>Section 12(f) of the Federal Energy Administration Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/15/771">15 U.S.C. 771(f)</external-xref>) shall apply to information collected under this subsection.</text>
+						</paragraph></subsection><subsection id="IDb19f664083df474e8c8203ab7d7883fb"><enum>(o)</enum><header>Collection of
+				information on storage capacity for oil and natural gas</header>
+						<paragraph id="IDa57185c1c2ee43eba23af5b5457aa418"><enum>(1)</enum><header>In
+ general</header><text>Not later than 90 days after the date of enactment of this subsection, the Administrator of the Energy Information Administration shall collect information quantifying the commercial storage capacity for oil and natural gas in the United States.</text>
+ </paragraph><paragraph id="id51E8D2564A82414DB4B1920FB0E1794A"><enum>(2)</enum><header>Updates</header><text>The Administrator shall update annually the information required under paragraph (1).</text>
+						</paragraph><paragraph id="id10604C50C9F843478D62172FEB49B08E"><enum>(3)</enum><header>Protection of
+ proprietary information</header><text>Section 12(f) of the Federal Energy Administration Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/15/771">15 U.S.C. 771(f)</external-xref>) shall apply to information collected under this subsection.</text>
+						</paragraph></subsection><subsection id="ID8c23df52cddc4eb38f197e49a7e970cf"><enum>(p)</enum><header>Financial
+				market analysis office</header>
+ <paragraph id="ID6ac8335a237144749d9191abb4afc21d"><enum>(1)</enum><header>Establishment</header><text>There shall be within the Energy Information Administration a Financial Market Analysis Office, headed by a director, who shall report directly to the Administrator of the Energy Information Administration.</text>
+ </paragraph><paragraph id="ID49388833707844b784a8bb6e3b8f342c"><enum>(2)</enum><header>Duties</header><text>The Office shall—</text>
+ <subparagraph id="id2F61634C6E0941B18F5F2C9C193102D6"><enum>(A)</enum><text>be responsible for analysis of the financial aspects of energy markets;</text>
+ </subparagraph><subparagraph id="IDf6dbd1ea7b7742c68c0a90e4a9dec734"><enum>(B)</enum><text>review the reports required by section 4(c) of the <short-title>Energy Markets Act of 2015</short-title> in advance of the submission of the reports to Congress; and</text>
+ </subparagraph><subparagraph id="IDa0f4949564d44d929d6e582b6a91acb0"><enum>(C)</enum><text>not later than 1 year after the date of enactment of this subsection—</text>
+ <clause id="id9F0AAB7910B64CC3B6AED04C7D9C74AF"><enum>(i)</enum><text>make recommendations to the Administrator of the Energy Information Administration that identify and quantify any additional resources that are required to improve the ability of the Energy Information Administration to more fully integrate financial market information into the analyses and forecasts of the Energy Information Administration, including the role of energy futures contracts, energy commodity swaps, and derivatives in price formation for oil;</text>
+ </clause><clause id="idAF1A6D95D6CD44F798FC2AB0FB5EEE1C"><enum>(ii)</enum><text>conduct a review of implications of policy changes (including changes in export or import policies) and changes in how crude oil and refined petroleum products are transported with respect to price formation of crude oil and refined petroleum products; and</text>
+ </clause><clause id="idA221736414C545489296A822033B25D2"><enum>(iii)</enum><text>notify the Committee on Energy and Natural Resources, and the Committee on Appropriations, of the Senate and the Committee on Energy and Commerce, and the Committee on Appropriations, of the House of Representatives of the recommendations described in clause (i).</text>
+ </clause></subparagraph></paragraph><paragraph id="ID81a4fd8f7bce40da9ef9366a1d2ac5ca"><enum>(3)</enum><header>Analyses</header><text>The Administrator of the Energy Information Administration shall take analyses by the Office into account in conducting analyses and forecasting of energy prices.</text>
+						</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="ID56a05fe113e5449e9f83652966599856"><enum>(b)</enum><header>Conforming
+ amendment</header><text>Section 645 of the Department of Energy Organization Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7255">42 U.S.C. 7255</external-xref>) is amended by inserting <quote>(<external-xref legal-doc="usc" parsable-cite="usc/15/3301">15 U.S.C. 3301 et seq.</external-xref>) and the Natural Gas Act (<external-xref legal-doc="usc" parsable-cite="usc/15/717">15 U.S.C. 717 et seq.</external-xref>)</quote> after <quote>Natural Gas Policy Act of 1978</quote>.</text>
+			</subsection></section><section id="ID025fe24d6c8749809a972a972a655a7b"><enum>3.</enum><header>Working Group
+			 on Energy Markets</header>
+ <subsection id="ID01a887cfcd0d46258f9bac6358dc0be9"><enum>(a)</enum><header>Establishment</header><text>There is established a Working Group on Energy Markets (referred to in this Act as the <quote>Working Group</quote>).</text>
+ </subsection><subsection id="IDec29249c45d04665834e32f19036728b"><enum>(b)</enum><header>Composition</header><text>The Working Group shall be composed of—</text>
+ <paragraph id="ID2def252195394c3dba428b307930b3ad"><enum>(1)</enum><text>the Secretary of Energy (referred to in this Act as the <quote>Secretary</quote>);</text>
+ </paragraph><paragraph id="ID1b5c9b3f699f4f5a99d997d63ff54333"><enum>(2)</enum><text>the Secretary of the Treasury;</text>
+ </paragraph><paragraph id="ID1ae535ed82f94c42aff0b842e7a01316"><enum>(3)</enum><text>the Chairman of the Federal Energy Regulatory Commission;</text>
+ </paragraph><paragraph id="ID0362a40fc28f4981a7b3233c40964e0e"><enum>(4)</enum><text>the Chairman of Federal Trade Commission;</text>
+ </paragraph><paragraph id="IDf6926ba3cf39426b9ea53c903b3af2a1"><enum>(5)</enum><text>the Chairman of the Securities and Exchange Commission;</text>
+ </paragraph><paragraph id="ID90e546e460b44406b609a1c0a2c2ccfa"><enum>(6)</enum><text>the Chairman of the Commodity Futures Trading Commission; and</text>
+ </paragraph><paragraph id="ID687ec6f94209401ba73f34c64211e125"><enum>(7)</enum><text>the Administrator of the Energy Information Administration.</text>
+ </paragraph></subsection><subsection id="ID872029f413594622a488b3608d114da3"><enum>(c)</enum><header>Chairperson</header><text>The Secretary shall serve as the Chairperson of the Working Group.</text>
+ </subsection><subsection id="IDef5d57fa4ccb4224858f1882ab5d3280"><enum>(d)</enum><header>Compensation</header><text>A member of the Working Group shall serve without additional compensation for the work of the member of the Working Group.</text>
+			</subsection><subsection id="ID547558ebe93d4137924982d0cf063dac"><enum>(e)</enum><header>Purpose and
+ function</header><text>The Working Group shall—</text> <paragraph id="IDb8c54a5ab0864418ae4f4f17fa6de1c4"><enum>(1)</enum><text>investigate the effect of increased financial investment in energy commodities on energy prices and the energy security of the United States;</text>
+ </paragraph><paragraph id="ID57102f49a81f42568fc9156279e88131"><enum>(2)</enum><text>recommend to the President and Congress laws (including regulations) that may be needed to prevent excessive speculation in energy commodity markets in order to prevent or minimize the adverse impact of excessive speculation on energy prices on consumers and the economy of the United States; and</text>
+ </paragraph><paragraph id="IDa6c1cbae9b8643ea95876462727a59bc"><enum>(3)</enum><text>review energy security implications of developments in international energy markets.</text>
+ </paragraph></subsection><subsection id="ID30f0419d4aa640f78a190fab5c88a8dd"><enum>(f)</enum><header>Administration</header><text>The Secretary shall provide the Working Group with such administrative and support services as may be necessary for the performance of the functions of the Working Group.</text>
+			</subsection><subsection id="IDd1cc6d201d334775a5ed83379fc98f28"><enum>(g)</enum><header>Cooperation of
+ other agencies</header><text>The heads of Executive departments, agencies, and independent instrumentalities shall, to the extent permitted by law, provide the Working Group with such information as the Working Group requires to carry out this section.</text>
+ </subsection><subsection id="IDc1095d4c1c0345479125102018ed4194"><enum>(h)</enum><header>Consultation</header><text>The Working Group shall consult, as appropriate, with representatives of the various exchanges, clearinghouses, self-regulatory bodies, other major market participants, consumers, and the general public.</text>
+			</subsection></section><section id="ID8f97afb8a5a24cacb78ff1b185f35c5f"><enum>4.</enum><header>Study of
+			 regulatory framework for energy markets</header>
+ <subsection id="IDccb8ef9755074fee82a14572e50b14a1"><enum>(a)</enum><header>Study</header><text>The Working Group shall conduct a study—</text>
+ <paragraph id="IDe03a60de82bd4af5afc0d668f42cae5c"><enum>(1)</enum><text>to identify the factors that affect the pricing of crude oil and refined petroleum products, including an examination of the effects of market speculation on prices; and</text>
+ </paragraph><paragraph id="IDb5687dfaeccc4b6ab99f15dce4d393d7"><enum>(2)</enum><text>to review and assess—</text>
+ <subparagraph id="id328D6F7D89DE491A99688DEC7FAA4899"><enum>(A)</enum><text>existing statutory authorities relating to the oversight and regulation of markets critical to the energy security of the United States; and</text>
+ </subparagraph><subparagraph id="id7572BC89E9804734B7683D1864D13EE7"><enum>(B)</enum><text>the need for additional statutory authority for the Federal Government to effectively oversee and regulate markets critical to the energy security of the United States.</text>
+					</subparagraph></paragraph></subsection><subsection id="ID630585360a00488db9a60397dc1dda40"><enum>(b)</enum><header>Elements of
+ study</header><text>The study shall include—</text> <paragraph id="IDfd075dc53d3c495aa3225feb4c837614"><enum>(1)</enum><text>an examination of price formation of crude oil and refined petroleum products;</text>
+ </paragraph><paragraph id="IDdad1c8cc2a2a415d9d4ad12df13f9c71"><enum>(2)</enum><text>an examination of relevant international regulatory regimes; and</text>
+ </paragraph><paragraph id="IDe551c30483a741e3bd789fe8206416ba"><enum>(3)</enum><text>an examination of the degree to which changes in energy market transparency, liquidity, and structure have influenced or driven abuse, manipulation, excessive speculation, or inefficient price formation.</text>
+				</paragraph></subsection><subsection id="ID1c0795a527134621bd0b57b407734657"><enum>(c)</enum><header>Report and
+ recommendations</header><text>The Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives quarterly progress reports during the conduct of the study under this section, and a final report not later than 1 year after the date of enactment of this Act, that—</text>
+ <paragraph id="ID4bfe8978126e471091cdae5d90313983"><enum>(1)</enum><text>describes the results of the study; and</text>
+ </paragraph><paragraph id="ID1fe3503d67174de7a7b122cc27d951d9"><enum>(2)</enum><text>provides options and the recommendations of the Working Group for appropriate Federal coordination of oversight and regulatory actions to ensure transparency of crude oil and refined petroleum product pricing and the elimination of excessive speculation, including recommendations on data collection and analysis to be carried out by the Financial Market Analysis Office established by section 205(p) of the Department of Energy Organization Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7135">42 U.S.C. 7135(p)</external-xref>).</text>
+				</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID5468b33461b64d77a5e64883f00a54d0"><enum>(d)</enum><header>Authorization
+ of appropriations</header><text>There are authorized to be appropriated such sums as are necessary to carry out this section.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCB0B008EF5274BF786B08051534E251C" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1317 IH: To amend the Commodity Exchange Act and the Securities Exchange Act of 1934 to specify how clearing requirements apply to certain affiliate transactions, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1317</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150304">March 4, 2015</action-date> 
+<action-desc><sponsor name-id="M001160">Ms. Moore</sponsor> (for herself, <cosponsor name-id="F000455">Ms. Fudge</cosponsor>, <cosponsor name-id="G000564">Mr. Gibson</cosponsor>, and <cosponsor name-id="S001187">Mr. Stivers</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name>, and in addition to the Committee on <committee-name committee-id="HAG00">Agriculture</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Commodity Exchange Act and the Securities Exchange Act of 1934 to specify how clearing requirements apply to certain affiliate transactions, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H993EE86B78D14FAD8C41117BEE3F293F" style="OLC"> 
+<section id="H5C6AE182232A47CEA9B0F74DC5D1CF96" section-type="section-one"><enum>1.</enum><header>Treatment of affiliate transactions</header> 
+<subsection id="H20196F0CD5B84DAFA67CA8A1903F03AD"><enum>(a)</enum><header>In general</header> 
+<paragraph id="H77F52B70AE054251AEC2227B312ED597"><enum>(1)</enum><header>Commodity Exchange Act amendment</header><text>Section 2(h)(7)(D)(i) of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/2">7 U.S.C. 2(h)(7)(D)(i)</external-xref>) is amended to read as follows:</text> <quoted-block id="HEF1D3D038ADB425CB6CC937179D0B6AD" style="OLC"> <clause id="H9552552F8456453AA9526B60907EB4B4"><enum>(i)</enum><header>In general</header><text>An affiliate of a person that qualifies for an exception under subparagraph (A) (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate enters into the swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, provided that if the hedge or mitigation of such commercial risk is addressed by entering into a swap with a swap dealer or major swap participant, an appropriate credit support measure or other mechanism must be utilized.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block></paragraph> 
+<paragraph id="H2C607B60BA324BDD946AC959E3320113"><enum>(2)</enum><header>Securities Exchange Act of 1934 amendment</header><text>Section 3C(g)(4)(A) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c-3">15 U.S.C. 78c–3(g)(4)(A)</external-xref>) is amended to read as follows:</text> <quoted-block id="HFF09AFFD6C03457FA3086A9374491CF9" style="OLC"> <subparagraph id="H2DFC8F0AF4554020A51129BA66DAA62A"><enum>(A)</enum><header>In general</header><text>An affiliate of a person that qualifies for an exception under paragraph (1) (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate enters into the security-based swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, provided that if the hedge or mitigation of such commercial risk is addressed by entering into a security-based swap with a security-based swap dealer or major security-based swap participant, an appropriate credit support measure or other mechanism must be utilized.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="HA7B1FFBDD4B948A0B7649D938E2C5EF4"><enum>(b)</enum><header>Applicability of credit support measure requirement</header><text>The requirements in section 2(h)(7)(D)(i) of the Commodity Exchange Act and section 3C(g)(4)(A) of the Securities Exchange Act of 1934, as amended by subsection (a), requiring that a credit support measure or other mechanism be utilized if the transfer of commercial risk referred to in such sections is addressed by entering into a swap with a swap dealer or major swap participant or a security-based swap with a security-based swap dealer or major security-based swap participant, as appropriate, shall not apply with respect to swaps or security-based swaps, as appropriate, entered into before the date of the enactment of this Act.</text></subsection></section> </legis-body> </bill> 
+

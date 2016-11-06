@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H010B920C20604C7FAD3D6D33C1DD4483" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 617 IH: Clinical Trial Cancer Mission 2020 Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 617</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150128">January 28, 2015</action-date> 
+<action-desc><sponsor name-id="R000585">Mr. Reed</sponsor> (for himself and <cosponsor name-id="S000480">Ms. Slaughter</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Public Health Service Act to enhance the clinical trial registry data bank reporting requirements and enforcement measures.</official-title> 
+</form> 
+<legis-body id="H96FC31100F794B558E6424D30A1ED5A5" style="OLC"> 
+<section id="H6DF27147A9404A909067C1DEA95724C5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Clinical Trial Cancer Mission 2020 Act</short-title></quote>. </text></section> <section id="HC36F4D38EFE94E36B0AAE9CB39625D1A"><enum>2.</enum><header>Enhancing clinical trial registry data bank reporting requirements and enforcement measures</header> <subsection id="H39626627094D4E3587149D163FB9EEB2"><enum>(a)</enum><header>Clarification that clinical trial registry data bank requirements apply regardless of trial outcomes</header><text display-inline="yes-display-inline">Section 402(j)(1)(A)(i) of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/282">42 U.S.C. 282(j)(1)(A)(i)</external-xref>) is amended by inserting before the period at the end the following <quote>, whether or not such a clinical trial results in a positive or negative outcome</quote>.</text></subsection>
+<subsection id="HF4BCC3CF0D584D84A5B0323834AAABBE"><enum>(b)</enum><header>Application to grants from Department of Defense</header><text>Section 402(j)(5)(A)(i) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/282">42 U.S.C. 282(j)(5)(A)(i)</external-xref>) is amended by inserting <quote>the Department of Defense or</quote> after <quote>agency of</quote>.</text></subsection> <subsection id="HD9573CE3C7DE4E6F8332C05BC9B9C483"><enum>(c)</enum><header>Enhanced enforcement</header><text display-inline="yes-display-inline">Section 402(j)(5)(A) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/282">42 U.S.C. 282(j)(5)(A)</external-xref>) is amended by adding at the end the following new clause:</text>
+<quoted-block display-inline="no-display-inline" id="HE31C24129C1F4611B23143FE6EED93B2" style="OLC">
+<clause id="H3C831F533F2048829D6D28E41AF327E2"><enum>(v)</enum><header>Enhanced enforcement</header><text display-inline="yes-display-inline">After the 30-day period described in clause (iii), if the head of an agency referred to in clause (i), as applicable, verifies that a grantee has not submitted clinical trial information as described in clause (ii), with respect to an applicable clinical trial that is funded in whole or in part by a grant from the agency, such grantee—</text> <subclause id="H43B5381866E742829121E5F0C04D9A4E"><enum>(I)</enum><text>shall not be eligible to receive any remaining funding for the grant or funding for a future Federal grant until such time as the grantee comes into compliance with all applicable reporting requirements under this subsection; and</text></subclause>
+<subclause id="HAC61AA86C4A94F1A96244BCBFABC9603"><enum>(II)</enum><text>shall be liable to the United States for repayment of any amount provided under the grant for the clinical trial for which the grantee failed to comply with such reporting requirements.</text></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> </legis-body> </bill> 
+

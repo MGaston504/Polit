@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2120 IS: Veterans Justice Outreach Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-10-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2120</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151001">October 1, 2015</action-date>
+			<action-desc><sponsor name-id="S324">Mrs. Shaheen</sponsor> (for herself, <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>, <cosponsor name-id="S253">Mr. Durbin</cosponsor>, <cosponsor name-id="S332">Mr. Franken</cosponsor>, <cosponsor name-id="S270">Mr. Schumer</cosponsor>, <cosponsor name-id="S313">Mr. Sanders</cosponsor>, <cosponsor name-id="S311">Ms. Klobuchar</cosponsor>, <cosponsor name-id="S316">Mr. Whitehouse</cosponsor>, <cosponsor name-id="S330">Mr. Bennet</cosponsor>, <cosponsor name-id="S354">Ms. Baldwin</cosponsor>, and <cosponsor name-id="S369">Mr. Markey</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSVA00">Committee on Veterans' Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to require the Secretary of Veterans Affairs to carry out a
+			 program to support veterans in contact with the criminal justice system by
+			 discouraging unnecessary criminalization of mental illness and other
+			 nonviolent crimes, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+ <section id="idB3A6E8B0C64340EFB67C90A9EC9583DC" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans Justice Outreach Act of 2015</short-title></quote>.</text> </section><section id="idEB927EF6D3E444BD9BFE6127CBB44377" section-type="subsequent-section"><enum>2.</enum><header>Department of Veterans Affairs program of coordinated outreach for justice-involved veterans at risk of homelessness</header> <subsection id="id8F529992F40443BBA57B15D5FF9CE6E8"><enum>(a)</enum><header>Program required</header> <paragraph id="id34E851D44458452985082A03936F371D"><enum>(1)</enum><header>In general</header><text>Subchapter III of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/20">chapter 20</external-xref> of title 38, United States Code, is amended—</text>
+ <subparagraph id="idAFCADF16AAB34ECDAFCDE7D0B5471AA7"><enum>(A)</enum><text>by redesignating sections 2022 and 2023 as sections 2023 and 2024, respectively; and</text> </subparagraph><subparagraph id="id9FAB7505DF85454AAA060699795B6237"><enum>(B)</enum><text>by inserting after section 2021A the following new section 2022:</text>
+						<quoted-block display-inline="no-display-inline" id="idCCFEDDC7D07F4A4A8AB6562DA3396239" style="USC">
+							<section id="id861A6510FB17401088C6C1200EE8256C" section-type="subsequent-section"><enum>2022.</enum><header>Coordination of outreach for justice-involved veterans at risk of homelessness</header>
+ <subsection id="idac741e8c384f497d862f794cb456831f"><enum>(a)</enum><header>Program required</header><text>The Secretary shall carry out a program to support veterans in contact with the criminal justice system by discouraging unnecessary criminalization of mental illness and other nonviolent crimes.</text>
+ </subsection><subsection id="id49389D7567894EB9A2E8C66A3CC4603F"><enum>(b)</enum><header>Partnership</header><text>The Secretary shall carry out the program required by subsection (a) in partnership with local law enforcement, judicial, and community-based treatment and legal assistance organizations.</text>
+ </subsection><subsection id="id397d3f95e01542afba594e89f4860a93"><enum>(c)</enum><header>Authorized activities</header><text>In carrying out the program required by subsection (a), the Secretary may conduct the following:</text> <paragraph id="idc3c8d55a59614f83af96fbb709a51468"><enum>(1)</enum><text>Training for police, prosecutors, courts, public defenders, and other community-based support organizations on matters relating to psychological trauma associated with military service and mental health and substance abuse services available from the Department.</text>
+ </paragraph><paragraph id="idf6d3540d81a945d4b4aea5779e5782a1"><enum>(2)</enum><text>Support for courts and their officers, including physical presence in the courtroom setting, by facilitating mental health assessments, treatment planning, referrals to Department services, or such other services as may be requested by the courts.</text>
+ </paragraph><paragraph id="idc7beabfd4e6e4026b41d3fbc6b30d471"><enum>(3)</enum><text>Such other outreach and assistance as the Secretary considers appropriate for the provision of support described in subsection (a).</text>
+ </paragraph></subsection><subsection id="idb921626542b544b1b8630d3d7cd046a9"><enum>(d)</enum><header>Justice outreach coordinators</header><paragraph commented="no" display-inline="yes-display-inline" id="id58B6DF47BBF4494E8942437E13A57291"><enum>(1)</enum><text>In order to effectively assist veterans in contact with the criminal justice system, the Secretary shall establish coordinators to provide outreach under the program required by subsection (a).</text>
+ </paragraph><paragraph id="id4DF0F2608C9C4168A6C4453E2FDF430F" indent="up1"><enum>(2)</enum><text>The Secretary shall ensure that each coordinator established under paragraph (1) is knowledgeable about psychological and psychiatric evaluation in relation to justice-based forensic matters, such as—</text>
+ <subparagraph id="id302b137de4ec44aa9f5aea898a431518"><enum>(A)</enum><text>psychiatric diagnosis;</text> </subparagraph><subparagraph id="ida3e1a7c4cd8e402faa94f12bf7b18d30"><enum>(B)</enum><text>developmental disabilities;</text>
+ </subparagraph><subparagraph id="iddb063a3733f34974a1563aa57ccbb377"><enum>(C)</enum><text>medical issues, such as traumatic brain injury;</text> </subparagraph><subparagraph id="idc9ddc564c3124037b1e01c43990bc9d5"><enum>(D)</enum><text>competency and sanity;</text>
+ </subparagraph><subparagraph id="id58c683d840c7427b986b44fd6c60f9f7"><enum>(E)</enum><text>neglect and abuse;</text> </subparagraph><subparagraph id="id8c6309fec2aa48ee8d05360ad0e82890"><enum>(F)</enum><text>parental rights; and</text>
+ </subparagraph><subparagraph id="idfa3815f1e31c4ace8e8ea6f3bfa6c9ef"><enum>(G)</enum><text>life threatening issues, such as suicidality and homicidally.</text> </subparagraph></paragraph></subsection><subsection id="id95a7277c8fed4eca82c9f69969a1c296"><enum>(e)</enum><header>Veteran in contact with the criminal justice system defined</header><text>In this section, the term <term>veteran in contact with the criminal justice system</term> includes the following:</text>
+ <paragraph id="id06e0a5eb2b724948acf58fe1c7ca5ed5"><enum>(1)</enum><text>A veteran in contact with local law enforcement who can be appropriately diverted from arrest to mental health treatment.</text>
+ </paragraph><paragraph id="id458ec5060e134a3ea619d970422b9de5"><enum>(2)</enum><text>A veteran in local jail either pretrial or serving a sentence.</text> </paragraph><paragraph id="id84c0d13463644229850912ebd658bfe7"><enum>(3)</enum><text>A veteran in adjudication or monitoring by a court.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="id7B914FD5A2184F77B0E22ECD294A2071"><enum>(2)</enum><header>Conforming amendment</header><text>Section 2023(f) of such title, as redesignated by paragraph (1)(A), is amended in paragraphs (2)(C) and (3)(C) by striking <quote>section 2023</quote> both places it appears and inserting <quote>section 2024</quote>.</text>
+ </paragraph><paragraph id="id932B0DBB995F4D56853A92551C10C54E"><enum>(3)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of chapter 20 of such title is amended by striking the items relating to sections 2022 and 2023 and inserting the following new items:</text>
+					<quoted-block display-inline="no-display-inline" id="idC5CD8635A33B4FF09455431B29BEC578" style="OLC"><toc><toc-entry bold="off" level="section">2022. Coordination of outreach for justice-involved veterans at risk of homelessness.</toc-entry><toc-entry bold="off" level="section">2023. Coordination of outreach services for veterans at risk of homelessness.</toc-entry><toc-entry bold="off" level="section">2024. Referral and counseling services: veterans at risk of homelessness who are transitioning from
+			 certain institutions.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="id92F5BDA64ECC4545AA53198E51817A3F"><enum>(b)</enum><header>Report</header>
+ <paragraph id="id451CDD6F06A54F4F843D2678A4319171"><enum>(1)</enum><header>In general</header><text>Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to Congress a report on the program carried out under section 2022(a) of such title, as added by subsection (a)(1).</text>
+ </paragraph><paragraph id="id8FE9D825D9334332AC22D62F461495FF"><enum>(2)</enum><header>Contents</header><text>The report submitted under paragraph (1) shall include an assessment of the following:</text> <subparagraph id="idD7D8B2435C9A4333917FB8570F9CEFE5"><enum>(A)</enum><text>The number of coordinators established under section 2022(d)(1) of such title, as added by subsection (a)(1).</text>
+ </subparagraph><subparagraph id="idAA0E5662723449DFADC0D23660645567"><enum>(B)</enum><text>The training of such coordinators.</text> </subparagraph><subparagraph id="id25BF0230A5C34F0C9D1BF49A8855B345"><enum>(C)</enum><text>The capabilities of such coordinators.</text>
+ </subparagraph><subparagraph id="id783F1062426B4852AC146B570FF99E8C"><enum>(D)</enum><text>The capacity of the program carried out under section 2022(a) of such title, as so added, to meet the demand of veterans and courts for services under the program.</text>
+					</subparagraph></paragraph></subsection></section></legis-body>
+</bill>
+
+

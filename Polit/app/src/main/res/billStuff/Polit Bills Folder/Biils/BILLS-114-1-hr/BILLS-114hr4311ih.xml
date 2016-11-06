@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC62D0BCC32DD4E3EA033C59ECE33B52D" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4311 IH: Protecting Charitable Contributions Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4311</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151218">December 18, 2015</action-date>
+			<action-desc><sponsor name-id="S000018">Mr. Salmon</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prohibit the Internal Revenue Service from modifying or amending the standards and regulations
+			 governing the substantiation of charitable contributions.</official-title>
+	</form>
+	<legis-body id="HFEA32052DD094289A91998882939619C" style="OLC">
+ <section id="H6F7904052D3042C48D04943FD94368B8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Charitable Contributions Act of 2015</short-title></quote>.</text> </section><section id="H707004E1C7AF4ACE99A651BC931DD0A4"><enum>2.</enum><header>Prohibition of IRS modification of standards and regulations for substantiation of charitable contributions</header> <subsection id="H054B91D66FEE4743A3D2DB8286635D80"><enum>(a)</enum><header>In general</header><text>The definitions and regulations in effect on January 1, 2015, under <external-xref legal-doc="usc" parsable-cite="usc/26/170">section 170(f)(8)</external-xref> of the Internal Revenue Code of 1986 (relating to the substantiation of charitable contributions in excess of $250) shall apply on and after the date of the enactment of this Act.</text>
+ </subsection><subsection id="H609EA324E1EE47B9B225651AB05DACE7"><enum>(b)</enum><header>Prohibition of any modification</header><text>The Secretary of the Treasury shall not issue, revise, or finalize any regulation (including the proposed regulations published in the Federal Register on September 17, 2015 (80 Fed. Reg. 55802)), revenue ruling, or other guidance not limited to a particular taxpayer relating to the definitions and regulations specified in subsection (a).</text>
+			</subsection></section></legis-body>
+</bill>
+
+

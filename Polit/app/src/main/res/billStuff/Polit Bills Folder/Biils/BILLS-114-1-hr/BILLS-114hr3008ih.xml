@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2665A6053A994B209D9E7E716619BE37" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3008 IH: Sandra Day O’Connor Civic Learning Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3008</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150709">July 9, 2015</action-date>
+			<action-desc><sponsor name-id="H001034">Mr. Honda</sponsor> (for himself and <cosponsor name-id="C001053">Mr. Cole</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To authorize the Secretary of Education to award grants to promote civic learning and engagement,
+			 and for other purposes.</official-title>
+	</form>
+	<legis-body id="HA607A4AAA3094ED3A187B35239FE0714" style="OLC">
+ <section id="HF712689D769A448BAF3C093DB02DFD86" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Sandra Day O’Connor Civic Learning Act of 2015</short-title></quote>.</text> </section><section id="H80F19100FD314182AEDA910A718ACB12"><enum>2.</enum><header>Civic learning grants</header> <subsection id="HC0033B117F284524B05812EF865E762A"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subpart 3 of part C of title II of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/6711">20 U.S.C. 6711 et seq.</external-xref>) is amended—</text>
+ <paragraph id="H72311AB9308F4CCF92A52D326FDB8CB6"><enum>(1)</enum><text>by repealing sections 2341 through 2344 and inserting the following:</text> <quoted-block id="HAAB2AA53DE634EC5931380F4CF4CE942"> <section id="HD0E1EE5089DF4839A7B71C2FEB3A5F04"><enum>2341.</enum><header>Civic learning grants</header> <subsection id="H1275E004B2C1410BA7A15BD9CF6B4974"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary may award competitive grants to eligible entities for the development and implementation of programs to promote civic learning and engagement, American history, geography, and economics.</text>
+ </subsection><subsection id="H39FF710CDF454FF8A0843D925247FCE8"><enum>(b)</enum><header>Use of funds</header><text display-inline="yes-display-inline">An eligible entity shall use a grant received under this section to develop and implement a program to promote civic learning and engagement, American history, geography, or economics through instruction, professional development, and evaluation activities that promote any of the following:</text>
+ <paragraph id="H8E76C251ED004624998EA2DC5C83542D"><enum>(1)</enum><text>Equity through access to funding and program benefits, including—</text> <subparagraph id="H0E20F2FA712A41EC84A2D0835A754058"><enum>(A)</enum><text>programs that meet the needs of students with divergent learning styles, students of varying ethnic, racial, and socio-economic backgrounds, and students who are English language learners; and</text>
+ </subparagraph><subparagraph id="HAA986AEB52144AA3830EACEA6B4DDD46"><enum>(B)</enum><text display-inline="yes-display-inline">resources that serve student populations that have not traditionally received opportunities for high quality, engaging instruction in civics, history, geography or economics, with a special emphasis on inner-city and rural underserved students.</text>
+ </subparagraph></paragraph><paragraph id="HBD223A1E64484B43844B12E059BF036E"><enum>(2)</enum><text>Innovation through design, settings, and delivery, including service learning, interactive on-line programming, and other approaches to engaging students in active learning and civic participation.</text>
+ </paragraph><paragraph id="H372F2D291AA04F3B86FC6BB4ED45DF0D"><enum>(3)</enum><text>Scalability through broad, cost-effective implementation and institutionalization, including—</text> <subparagraph id="HC66D7CF65BEE4E78801CDE2672D343BB"><enum>(A)</enum><text>use of the latest technological developments;</text>
+ </subparagraph><subparagraph id="H61728A2557F44278A6FCE270F3346DD6"><enum>(B)</enum><text>an emphasis on programs designed to address relevant State and National educational standards; and</text> </subparagraph><subparagraph id="H19624EE97B9142FC9ADC037336A8E0CF"><enum>(C)</enum><text>utilization of low per-participant cost models of expanding the number of active students and teachers.</text>
+ </subparagraph></paragraph><paragraph id="H5A71DC79BA304AA085C085EE3A008CF2"><enum>(4)</enum><text>Accountability through assessment and identification of best practice models, including—</text> <subparagraph id="HA1032D62201045D68D2529D66CD4D354"><enum>(A)</enum><text>independent research and evaluation to help assess the effects of civic education programs on students’ knowledge, skills, and traits of character essential for the preservation and improvement of constitutional democracy;</text>
+ </subparagraph><subparagraph id="H8D415898196D49948CA2287BA606772F"><enum>(B)</enum><text>identifying techniques that succeed with traditionally underserved student populations; and</text> </subparagraph><subparagraph id="H0FA9E9510C6A4DE89CEE259EBBA9DC57"><enum>(C)</enum><text>evaluation of teachers’ knowledge and the adequacy of the teaching facility.</text>
+ </subparagraph></paragraph></subsection><subsection id="HBFD7B64CB228479EB9301B0F386F1B7E"><enum>(c)</enum><header>Definition of eligible entity</header><text>In this section, the term <term>eligible entity</term> means a nonprofit educational organization.</text></subsection></section><after-quoted-block>; and</after-quoted-block></quoted-block> </paragraph><paragraph id="HFD0C1055B89E49CA820CFB1D0163CE57"><enum>(2)</enum><text>by redesignating sections 2345 and 2346 as sections 2342 and 2343, respectively.</text>
+				</paragraph></subsection><subsection id="HB17B95C1EA59459BA77F2465842750C6"><enum>(b)</enum><header>Conforming changes</header>
+ <paragraph id="H93264E561BA248FE9D110A0184C57489"><enum>(1)</enum><text>Section 2342 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/20/6715">20 U.S.C. 6715</external-xref>), as redesignated by subsection (a)(2), is amended—</text> <subparagraph display-inline="no-display-inline" id="H61E556D6BC754039A6F4C52F00E92981"><enum>(A)</enum><text>in subsection (a)—</text>
+ <clause id="HF5C555B4F5F74328933F9E3EBC58EC5F"><enum>(i)</enum><text>by striking <quote>organizations described in section 2343(a)(3)</quote> each place it appears and inserting <quote>organizations experienced in the development of curricula and programs in civics and government education and economic education for students in elementary schools and secondary schools in countries other than the United States</quote>; and</text>
+ </clause><clause id="H17BEE077D5C24F8989DA0024E45EF010"><enum>(ii)</enum><text display-inline="yes-display-inline">by striking <quote>use funds made available under grants or contracts under section 2343 to</quote>;</text> </clause></subparagraph><subparagraph id="H609F46FCC44A43348886CED8A34B67FE"><enum>(B)</enum><text>in subsection (b), by striking <quote>the Center for Civic Education, the National Council on Economic Education, and organizations described in section 2343(a)(3)</quote> and inserting <quote>an entity specified in subsection (a)</quote>;</text>
+ </subparagraph><subparagraph id="H6FC71332A2E643B48026DFF9EDC04759"><enum>(C)</enum><text>in subsection (e), by striking <quote>described in section 2343</quote> and inserting <quote>specified in subsection (a)</quote>; and</text> </subparagraph><subparagraph id="HC5BD267A12834A76912FE9820D38E822"><enum>(D)</enum><text>in subsection (f)(2), by striking <quote>the Center for Civic Education, the National Council on Economic Education, or organizations described in section 2343(a)(3)</quote> and inserting <quote>an entity specified in subsection (a)</quote>.</text>
+ </subparagraph></paragraph><paragraph id="HC334A5C6CA54441D84F550DCCB292943"><enum>(2)</enum><text>The table of contents of such Act (<external-xref legal-doc="usc" parsable-cite="usc/20/6301">20 U.S.C. 6301 et seq.</external-xref>) is amended by striking the items relating to sections 2341 through 2346 and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H63385BB37D6E44DF9CFF1F2D575DC848" style="OLC">
+						<toc regeneration="no-regeneration">
+							<toc-entry level="section">2341. Civic learning grants.</toc-entry>
+							<toc-entry level="section">2342. Cooperative civic education and economic education exchange programs.</toc-entry>
+							<toc-entry level="section">2343. Authorization of appropriations.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="HB8078B35B0EE4D378600571C917B9196"><enum>(c)</enum><header>Authorization of appropriations</header><text display-inline="yes-display-inline">Section 2343 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/20/6716">20 U.S.C. 6716</external-xref>), as redesignated by subsection (a)(2), is amended to read as follows:</text>
+				<quoted-block id="H66EC80D4AAC0450A86A313B5B3284C41">
+ <section id="H4A9FD675446A4C9EA6C3366D4A228493"><enum>2343.</enum><header>Authorization of appropriations</header><text display-inline="no-display-inline">There are authorized to be appropriated for each of fiscal years 2016 through 2021—</text> <paragraph id="H7260B66515BE4930AD33487A29BDD4C4"><enum>(1)</enum><text>$28,500,000 for grants under section 2341; and</text>
+ </paragraph><paragraph id="H4D30617E82BA4E17BAD05F488CD0D096"><enum>(2)</enum><text>$1,500,000 for programs under section 2342.</text></paragraph></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection></section></legis-body> </bill> 
+

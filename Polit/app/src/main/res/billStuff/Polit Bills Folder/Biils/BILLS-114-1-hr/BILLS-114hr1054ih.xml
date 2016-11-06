@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H04012ED41F024004AA81D16FF7273AE6" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1054 IH: Trust Returned to the United States Taxpayer Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1054</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150224">February 24, 2015</action-date>
+			<action-desc><sponsor name-id="Y000065">Mr. Yoho</sponsor> (for himself, <cosponsor name-id="M001184">Mr. Massie</cosponsor>, <cosponsor name-id="C001090">Mr. Cartwright</cosponsor>, <cosponsor name-id="G000564">Mr. Gibson</cosponsor>, <cosponsor name-id="F000448">Mr. Franks of Arizona</cosponsor>, <cosponsor name-id="S001188">Mr. Stutzman</cosponsor>, <cosponsor name-id="B001286">Mrs. Bustos</cosponsor>, <cosponsor name-id="M001182">Mr. Mulvaney</cosponsor>, <cosponsor name-id="S001191">Ms. Sinema</cosponsor>, <cosponsor name-id="B001291">Mr. Babin</cosponsor>, <cosponsor name-id="C001102">Mr. Clawson of Florida</cosponsor>, <cosponsor name-id="G000575">Ms. Graham</cosponsor>, <cosponsor name-id="R000587">Mr. Ribble</cosponsor>, and <cosponsor name-id="J000255">Mr. Jones</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name>, and in addition to the Committee on <committee-name committee-id="HGO00">Oversight and Government Reform</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 5, United States Code, to extend the basis for the denial of retirement credit, for
+			 service as a Member of Congress, to include conviction of any felony under
+			 Federal or State law, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H9F6BEB71B8B04AB9B3A9910D66DC022C" style="OLC">
+ <section id="H3211B0ACD9614BFF8CC2461AEC8BA48B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Trust Returned to the United States Taxpayer Act</short-title></quote> or the <quote><short-title>TRUST Act</short-title></quote>.</text> </section><section id="H91A5CCE381514A92BB4B74B63D15514D"><enum>2.</enum><header>Amendments</header> <subsection id="H7510FB05761548E7B06195F01E463615"><enum>(a)</enum><header>Relating to CSRS</header><text display-inline="yes-display-inline">Section 8332(o)(2) of title 5, United States Code, is amended—</text>
+ <paragraph id="HD33180BC5A894C97A92D54C618425B64"><enum>(1)</enum><text>in subparagraph (A)—</text> <subparagraph id="H041F6A5CD4084E7B86501E2A7786FD2C"><enum>(A)</enum><text>by repealing clause (ii); and</text>
+ </subparagraph><subparagraph id="H8B2E0C7A0C22476E9DCE88322BC58231"><enum>(B)</enum><text>in clause (iii)—</text> <clause id="H83E00114CA7B434C8BB720160192DFCE"><enum>(i)</enum><text>by striking <quote>or</quote> at the end of subclause (I)(bb);</text>
+ </clause><clause id="HF5D598A93D67444AB13550EEAE0B1296"><enum>(ii)</enum><text>by striking the period at the end of subclause (II)(bb) and inserting <quote>; or</quote>; and</text> </clause><clause id="HC2D96D072BB847B9AF7CFE0956E71BC3"><enum>(iii)</enum><text>by adding after subclause (II) the following:</text>
+							<quoted-block display-inline="no-display-inline" id="HDF0DE44A86254AEB801E2EA4670927F8" style="USC">
+ <subclause id="H6BCA418091D642009FF26837F573094D"><enum>(III)</enum><text display-inline="yes-display-inline">is committed after the date of enactment of the <short-title>Trust Returned to the United States Taxpayer Act</short-title> and is described under subparagraph (B)(xxxii).</text></subclause><after-quoted-block>; and</after-quoted-block></quoted-block> </clause></subparagraph></paragraph><paragraph id="H6680666055D043438C7E195D856F0103"><enum>(2)</enum><text>in subparagraph (B), by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="HFD39957A460A44AF94514BD2CD9142D6" style="USC">
+						<clause id="H078B8DCEED4C458EA17C55CF5625234B"><enum>(xxxii)</enum>
+ <subclause commented="no" display-inline="yes-display-inline" id="H500DC31E954C4707883B81E3240A54A0"><enum>(I)</enum><text>An offense, not otherwise described under this subparagraph, which is a felony under the laws of a State or the United States.</text>
+ </subclause><subclause id="HBB1529E668504C1688486691CF1C5DE7" indent="up1"><enum>(II)</enum><text>For purposes of this clause, the term <term>State</term> includes the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands.</text></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H24E13B433A62487089427D2BE45E6F03"><enum>(b)</enum><header>Relating to FERS</header><text display-inline="yes-display-inline">Section 8411(l)(2) of title 5, United States Code, is amended—</text> <paragraph id="H4F861CB21F24406CB2CE7674645806FE"><enum>(1)</enum><text>by repealing subparagraph (B); and</text>
+ </paragraph><paragraph id="H66169BD60A6D4A12AAD3814D1A03110B"><enum>(2)</enum><text>in subparagraph (C), by striking <quote>subsection.</quote> and inserting <quote>subsection, or, in the case of an offense described in section 8332(o)(2)(B)(xxxii), after the date of enactment of the <short-title>Trust Returned to the United States Taxpayer Act</short-title>.</quote>.</text>
+ </paragraph></subsection><subsection id="HFC1D373F752D4794B0CAEF3ECE9CD3B9"><enum>(c)</enum><header>Application</header><text>For purposes of applying section 8332(o) of title 5, United States Code, the amendments made by this section shall apply to any act or omission occurring after the date of enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HD57C930CA0934FC193A33CDC2DE7A8F2" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1377 IH: Roth Accounts for Youth Savings Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1377</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150316">March 16, 2015</action-date> 
+<action-desc><sponsor name-id="H000636">Mr. Hinojosa</sponsor> (for himself and <cosponsor name-id="S001187">Mr. Stivers</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Internal Revenue Code of 1986 to provide for tax preferred savings accounts for dependent youth, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H0377283E199C42A5BDD5658BCF00176E" style="OLC"> 
+<section id="H9580C4EDEB994F018C85EA6DEFD7D86C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Roth Accounts for Youth Savings Act of 2015</short-title></quote> or the <quote><short-title>RAYS Act</short-title></quote>.</text></section> <section id="H63157B1D2CF5490C92A24E0CCD921363"><enum>2.</enum><header>Roth Account for Youth</header> <subsection id="H0D4F05CF143549F18B09B2E76D586E50"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/408A">Section 408A</external-xref> of the Internal Revenue Code of 1986 (relating to Roth IRAs) is amended by adding at the end the following:</text> 
+<quoted-block display-inline="no-display-inline" id="H561F305566704A229829BED389370B61" style="OLC"> 
+<subsection id="H3E31FC85493F406E90580E75660F5131"><enum>(g)</enum><header>Roth Account for Youth</header> 
+<paragraph id="H2184EF08AD104C11A71F0AA3A16FDAA1"><enum>(1)</enum><header>In general</header><text>In the case of a dependent of a taxpayer to whom this paragraph applies for the taxable year and with respect to whom an election for the taxable year is in effect under paragraph (3)(B), the limitation of subsection (c)(2) shall be equal to the sum of—</text> <subparagraph display-inline="no-display-inline" id="H9AA8E2241DDF412F9BB1CF5C90454151"><enum>(A)</enum><text display-inline="yes-display-inline">the contribution limit determined under this section (before the application of this subsection) with respect to the dependent, plus</text></subparagraph> 
+<subparagraph id="HFD13D8F1F1C34548B76EAEEABB3A07F5"><enum>(B)</enum> 
+<clause commented="no" display-inline="yes-display-inline" id="HECB31BC172D040C18590B6000B9B3189"><enum>(i)</enum><text>the dollar amount determined (before the application of this subsection) under subsection (c)(2) for the taxable year with respect to such taxpayer, without regard to section 219(b)(5)(B), reduced by</text></clause> <clause id="H950FC8933D314BE989BADDC3F2521BD7" indent="up1"><enum>(ii)</enum><text>the sum of—</text> 
+<subclause id="H3F740F8873584BE9A30E2AD1F53FB763"><enum>(I)</enum><text display-inline="yes-display-inline">all prior contributions to all other Roth IRAs maintained on behalf of all other dependents of such taxpayer for the taxable year, determined by taking into account the order elected by the taxpayer under paragraph (3)(B), plus</text></subclause> <subclause id="H0779F3D84623421ABE54251FD4BDF24E"><enum>(II)</enum><text display-inline="yes-display-inline">the aggregate amount of contributions to all individual retirement plans and Roth IRAs maintained on behalf of the taxpayer for the taxable year.</text></subclause></clause></subparagraph></paragraph> 
+<paragraph id="HC5B708DC9A784AAF9845BE9708CCEB7D"><enum>(2)</enum><header>Maximum contribution</header><text display-inline="yes-display-inline">In no case shall the aggregate amount of contributions to all individual retirement plans and Roth IRAs maintained on behalf of a dependent in a taxable year exceed the deductible amount determined under section 219(b)(5)(A).</text></paragraph> <paragraph id="H8F886922628340749C44572638BAC5FD"><enum>(3)</enum><header>Ordering rules</header> <subparagraph id="HDDD9429BC2EF40DCA8B504868A087C49"><enum>(A)</enum><header>Taxpayer’s own IRAs</header><text>Subsection (c)(2) shall apply with respect to all individual retirement plans maintained for the benefit of the taxpayer before paragraph (1) applies with respect to a dependent of the taxpayer.</text></subparagraph> 
+<subparagraph id="H8120F8A1E374493DA9B1458CBB6E42E2"><enum>(B)</enum><header>Election of order in the case of more than 1 dependent</header><text display-inline="yes-display-inline">For purposes of determining the contribution limit under paragraph (1) for more than 1 dependent, paragraph (1)(B)(ii) shall apply with respect to dependents of the taxpayer in the order elected by the taxpayer.</text></subparagraph></paragraph> <paragraph id="H19D22DE8A6194997BDACA9F05653EFB1"><enum>(4)</enum><header>Dependent to whom paragraph (1) applies</header><text>Paragraph (1) shall apply to any dependent of a taxpayer if—</text> 
+<subparagraph id="HA50FA382F13148068C9F0F8273C012B9"><enum>(A)</enum><text>the taxpayer is allowed a deduction under section 151 for the dependent for the taxable year,</text></subparagraph> <subparagraph id="H8E56D5F627DC413BAB76E08142FA41A8"><enum>(B)</enum><text>in the case of a taxpayer who is married, the taxpayer files a joint return for the taxable year, and</text></subparagraph> 
+<subparagraph id="HA9D3DAE9E04D4349B4F9A8898DCDB06A"><enum>(C)</enum><text>the amount of compensation (if any) includible in the dependent’s gross income for the taxable year is less than the compensation includible in the gross income of the taxpayer for the taxable year.</text></subparagraph></paragraph> <paragraph commented="no" id="H526320FBD96148E39881237D291C8CE3"><enum>(5)</enum><header>Special rule for divorced parents, etc</header><text>For purposes of paragraph (3), rules similar to the rules of section 152(e) shall apply.</text></paragraph> 
+<paragraph id="HEC6D49BBB96E41A9BFB96DA90C945148"><enum>(6)</enum><header>Compensation</header><text display-inline="yes-display-inline">For purposes of this subsection, the term <term>compensation</term> has the meaning given such term by section 219(f)(1).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H92D87AFA7AA64B678A887BFAE6932DD3"><enum>(b)</enum><header>Conforming amendment</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/408A">Section 408A(d)(2)(B)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>Roth IRA)</quote> and by inserting <quote>Roth IRA or a contribution is made to a dependent’s Roth IRA under subsection (g))</quote> after <quote>such individual’s spouse</quote>.</text></subsection> 
+<subsection id="H8176F0BA597348FEA00C6AEC4180C829"><enum>(c)</enum><header>Income Disregard Under Federal Means-Tested Benefit Programs</header><text display-inline="yes-display-inline">The amount in a Roth Account for Youth established pursuant to <external-xref legal-doc="usc" parsable-cite="usc/26/408A">section 408A(g)</external-xref> of the Internal Revenue Code of 1986 shall be disregarded as income or resources for purposes of determining eligibility for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal benefit program that is means-tested.</text></subsection> <subsection id="HC27C40D0162343DE9C425D8E9F746697"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2015.</text></subsection></section> 
+</legis-body> 
+</bill> 
+

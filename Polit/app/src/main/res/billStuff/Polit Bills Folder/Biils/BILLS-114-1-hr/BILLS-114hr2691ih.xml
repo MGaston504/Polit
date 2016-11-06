@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H513B5D994A0A42E290C2DEC3E62D8944" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2691 IH: Veterans' Survivors Claims Processing Automation Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2691</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150609">June 9, 2015</action-date>
+			<action-desc><sponsor name-id="R000599">Mr. Ruiz</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to adjudicate
+			 and pay survivor’s benefits without requiring the filing of a formal
+			 claim, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H8254F0D759664BD1AACA28DB65D5C1CF" style="OLC">
+ <section id="H4179B7E53B714A9995AD12475FC8527D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans' Survivors Claims Processing Automation Act of 2015</short-title></quote>.</text> </section><section id="HF64C7BA8E7E84423BF4C182C55B880DE" section-type="subsequent-section"><enum>2.</enum><header>Expedited payment of survivor's benefits</header> <subsection id="HDB9A267478EE4102ADE279C6FBA8C768"><enum>(a)</enum><header>In general</header><text>Section 5101(a)(1) of title 38, United States Code, is amended—</text>
+ <paragraph id="H4F34670AC99346A6BB78C9C5B04C6316"><enum>(1)</enum><text>by striking <quote>A specific</quote> and inserting <quote>(A) Except as provided in subparagraph (B), a specific</quote>; and</text> </paragraph><paragraph id="H1330DC5DA88E4851A82DE1E36C0F62BB"><enum>(2)</enum><text>by adding at the end the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H7231934DB22B4D4FB4D4155CBF8F859E" style="OLC">
+						<subparagraph id="H54655D063A2A49D99FD909977EC82B0A" indent="up2"><enum>(B)</enum>
+ <clause commented="no" display-inline="yes-display-inline" id="H5B96D521C42144CCB3E481A903EA9B26"><enum>(i)</enum><text>The Secretary may pay benefits under chapters 13 and 15 and sections 2302, 2307, and 5121 of this title to a survivor of a veteran who has not filed a formal claim if the Secretary determines that the record contains sufficient evidence to establish the entitlement of the survivor to such benefits.</text>
+ </clause><clause id="H9BF6816803844E3DBB2A3544CCFA10B3" indent="up1"><enum>(ii)</enum><text>For purposes of this subparagraph and section 5110 of this title, the date on which a survivor of a veteran notifies the Secretary of the death of the veteran shall be treated as the date of the receipt of the survivor's application for benefits described in clause (i).</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H53D1C7165BDF48D0B990388E357DD999"><enum>(b)</enum><header>Effective date</header><text>The amendments made by subsection (a) shall apply with respect to claims for benefits based on a death occurring on or after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

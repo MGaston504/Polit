@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H84DA67C33FEA49488FC4DB5AE1F3D4D2" key="H" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3759 IH: Drunk Driving Repeat Offender Prevention Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3759</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151016">October 16, 2015</action-date>
+			<action-desc><sponsor name-id="E000179">Mr. Engel</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 23, United States Code, to withhold highway funds from States that do not have in
+			 effect laws requiring the use of ignition interlock devices to prevent
+			 repeat intoxicated driving, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HCD8E344623974346995865D99FCE895B" style="OLC">
+ <section id="HB039829A2024487691F6820610BF266D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Drunk Driving Repeat Offender Prevention Act of 2015</short-title></quote>.</text> </section><section display-inline="no-display-inline" id="H39AA8A85A38841F1AE3BBD975DB5D42C"><enum>2.</enum><header>Use of ignition interlock devices to prevent repeat intoxicated driving</header> <subsection display-inline="no-display-inline" id="H61CC071C5143486C9B5DC5EC64D3479B"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/23/1">Chapter 1</external-xref> of title 23, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/23/159">section 159</external-xref> the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H9196301A14584961ABA51F462AE3F351" style="USC">
+					<section id="H702AE85D06D345B8A8EC7AD921688B4E"><enum>160.</enum><header>Use of ignition interlock devices to prevent repeat intoxicated driving</header>
+ <subsection id="H0A82D822901442959653249BB53160A1"><enum>(a)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section:</text> <paragraph id="HE9FC19E64B5C4606B82089AEF9367039"><enum>(1)</enum><header>Alcohol concentration</header><text>The term <term>alcohol concentration</term> means grams of alcohol per 100 milliliters of blood or grams of alcohol per 210 liters of breath.</text>
+ </paragraph><paragraph id="H01C81AE5875E443580B5A43DD66EE2AF"><enum>(2)</enum><header>Driving while intoxicated; driving under the influence</header><text>The terms <term>driving while intoxicated</term> and <term>driving under the influence</term> mean driving or being in actual physical control of a motor vehicle in a State while having a blood alcohol concentration of 0.08 percent or greater.</text>
+ </paragraph><paragraph id="H2D0CCBC1CCA9408087341856A3D1D0FB"><enum>(3)</enum><header>Ignition interlock device</header><text>The term <term>ignition interlock device</term> means an in-vehicle device that requires a driver to provide a breath sample prior to the motor vehicle starting, and that prevents a motor vehicle from starting if the alcohol concentration of the driver is above the legal limit.</text>
+							</paragraph><paragraph id="HBFA9CF6B5322448E9BE301A22CF0A4C1"><enum>(4)</enum><header>Motor vehicle</header>
+ <subparagraph id="H37849059E7FD400DB8628964A04E0040"><enum>(A)</enum><header>In general</header><text>The term <term>motor vehicle</term> means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public highways.</text>
+ </subparagraph><subparagraph id="H0BE860C12CDC4352B6A684645484BEAF"><enum>(B)</enum><header>Exclusions</header><text>The term <term>motor vehicle</term> does not include—</text> <clause id="H90D5D2CAC3F042DE95FBB31674026923"><enum>(i)</enum><text>a vehicle operated solely on a rail line; or</text>
+ </clause><clause id="H33347DE67ADB46C09531B14402980AF2"><enum>(ii)</enum><text>a commercial vehicle.</text> </clause></subparagraph></paragraph></subsection><subsection id="H08E52CBC85184F20A51ED1BAF44FF99C"><enum>(b)</enum><header>Laws requiring ignition interlock devices</header> <paragraph id="H393DFB02CEA84571A722F27621C4C4C7"><enum>(1)</enum><header>In general</header><text>Subject to paragraph (2), a State meets the requirements of this subsection if the State has enacted and is enforcing a law that requires throughout the State the installation of an ignition interlock device for a minimum of 180 days on each motor vehicle operated by an individual who is convicted of driving while intoxicated or driving under the influence.</text>
+ </paragraph><paragraph id="H7DCAE84A8C8A462994CD578C703C1A98"><enum>(2)</enum><header>Exception</header><text>The 180-day period referred to in paragraph (1) for the installation of an ignition interlock device may be reduced to a period of not fewer than 90 days, if—</text>
+ <subparagraph id="H1FDA3AFB36AB4166B9B6D5F6612C130E"><enum>(A)</enum><text>the driver’s licence of the individual is suspended for a minimum of 180 days as a result of the conviction; and</text>
+ </subparagraph><subparagraph id="H6011D3261C9248CAAC0ECA0D5715AB14"><enum>(B)</enum><text>the period for the installation of an ignition interlock device begins after the last day of the suspension.</text>
+								</subparagraph></paragraph></subsection><subsection id="H8550C655676446A39A8740AE3AB640CB"><enum>(c)</enum><header>Withholding of funds for noncompliance</header>
+ <paragraph id="HFD17F19ED0114912A2728A0511ACE0DF"><enum>(1)</enum><header>Fiscal year 2018</header><text display-inline="yes-display-inline">On October 1, 2017, the Secretary shall withhold 1 percent of the amount required to be apportioned to a State under each of paragraphs (1) and (2) of section 104(b) if the State does not meet the requirements of subsection (b).</text>
+ </paragraph><paragraph id="HBA8BC56F7C7D4DFD92657D213EC450F3"><enum>(2)</enum><header>Fiscal year 2019</header><text>On October 1, 2018, the Secretary shall withhold 3 percent of the amount required to be apportioned to a State under each of paragraphs (1) and (2) of section 104(b) if the State does not meet the requirements of subsection (b).</text>
+ </paragraph><paragraph id="HCFBEA209D35643EDB1BBF5E2D109176C"><enum>(3)</enum><header>Fiscal year 2020 and thereafter</header><text>On October 1, 2019, and on October 1 of each fiscal year thereafter, the Secretary shall withhold 5 percent of the amount required to be apportioned to a State under each of paragraphs (1) and (2) of section 104(b) if the State does not meet the requirements of subsection (b).</text>
+							</paragraph></subsection><subsection display-inline="no-display-inline" id="HD759B141E9DB4DA9B3BC06D2770AD785"><enum>(d)</enum><header>Period of availability of withheld funds; effect of compliance and noncompliance</header>
+ <paragraph id="H9E5FE8155E504C209F0A42293FC49E17"><enum>(1)</enum><header>Period of availability of withheld funds</header><text>Any funds withheld under subsection (c) from apportionment to a State shall remain available for apportionment to the State until the end of the third fiscal year following the fiscal year for which the funds are authorized to be appropriated.</text>
+ </paragraph><paragraph id="H0D1C4B725CB84D2791428D87CFA276AF"><enum>(2)</enum><header>Apportionment of withheld funds after compliance</header><text>If, before the last day of the period for which funds withheld under subsection (c) from apportionment are to remain available for apportionment to a State under paragraph (1), the State meets the requirements of subsection (b), the Secretary shall, on the first day on which the State meets the requirements of subsection (b), apportion to the State the funds withheld under subsection (c) that remain available for apportionment to the State.</text>
+ </paragraph><paragraph id="HDB7D08E476F04FD5A5BFFE498F12F676"><enum>(3)</enum><header>Period of availability of subsequently apportioned funds</header><text display-inline="yes-display-inline">Any funds apportioned pursuant to paragraph (2)—</text> <subparagraph id="H7B6176A2995F42719D4057AC7A839CA1"><enum>(A)</enum><text display-inline="yes-display-inline">shall remain available for expenditure until the end of the third fiscal year following the fiscal year in which the funds are so apportioned; and</text>
+ </subparagraph><subparagraph id="H5F8B184F24704174B45260BEC93EAEB6"><enum>(B)</enum><text display-inline="yes-display-inline">if not apportioned at the end of that period, shall lapse.</text> </subparagraph></paragraph><paragraph id="HFF59356EA98247A4AC8D118E3B291B79"><enum>(4)</enum><header>Effect of noncompliance</header><text display-inline="yes-display-inline">If, at the end of the period for which funds withheld under subsection (c) from apportionment are available for apportionment to a State under paragraph (1), the State does not meet the requirements of subsection (b), the funds shall lapse.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H504B1B7457834F14B92F2D51CCD18C3A"><enum>(b)</enum><header>Conforming amendment</header><text>The analysis for such chapter is amended by inserting after the item relating to section 159 the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H99A52DB9C5F74FD59BEA86FD4A5020C6" style="OLC">
+					<toc container-level="quoted-block-container" idref="H9196301A14584961ABA51F462AE3F351" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+						<toc-entry idref="H702AE85D06D345B8A8EC7AD921688B4E" level="section">160. Use of ignition interlock devices to prevent repeat intoxicated driving.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

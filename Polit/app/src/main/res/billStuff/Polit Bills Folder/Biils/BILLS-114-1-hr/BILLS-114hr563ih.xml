@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB36B95169356425882810D5E109C9B29" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 563 IH: Honoring Our WWII Merchant Mariners Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 563</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150127">January 27, 2015</action-date>
+			<action-desc><sponsor name-id="H001063">Ms. Hahn</sponsor> (for herself and <cosponsor name-id="D000533">Mr. Duncan of Tennessee</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to establish the
+			 Merchant Mariner Equity Compensation Fund to provide benefits to certain
+			 individuals who served in the United States merchant marine (including the
+			 Army Transport Service and the Naval Transport Service) during World War
+			 II.</official-title>
+	</form>
+	<legis-body id="H19E339789EE049B4A1A082B69B98977B" style="OLC">
+ <section id="HD3DBB8E1157D4506A88A1AF94620E128" section-type="section-one"><enum>1.</enum><header>Short Title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Honoring Our WWII Merchant Mariners Act of 2015</short-title></quote>.</text> </section><section id="H326C47C1C8B148D88AF71B6832FA45A3"><enum>2.</enum><header>Payments to individuals who served during World War II in the United States Merchant Marine</header> <subsection id="H2BE73E1AD219474E9DFC0D93CA5481FA"><enum>(a)</enum><header>Establishment of Compensation Fund</header><text display-inline="yes-display-inline">Subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/5">chapter 5</external-xref> of title 38, United States Code, is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HE9C23DCAD4CB4F7DAC75191CEB3A3AD8" style="USC">
+					<section id="H51C00B9A0D784595A3D1FA1DDF5DB61C"><enum>533.</enum><header>Merchant Mariner Equity Compensation Fund</header>
+						<subsection id="HBC5F410DD9904509BF9FEEC1772351D6"><enum>(a)</enum><header>Compensation Fund</header>
+ <paragraph commented="no" display-inline="yes-display-inline" id="HA4D3158139834A43B96EEE658874FF31"><enum>(1)</enum><text display-inline="yes-display-inline">There is in the general fund of the Treasury a fund to be known as the <term>Merchant Mariner Equity Compensation Fund</term> (in this section referred to as the <term>compensation fund</term>).</text> </paragraph><paragraph id="H15A2333A765E45A0A4F17B28AE69D584" indent="up1"><enum>(2)</enum><text>Subject to the availability of appropriations for such purpose, amounts in the compensation fund shall be available to the Secretary without fiscal year limitation to make payments to eligible individuals in accordance with this section.</text>
+							</paragraph></subsection><subsection id="H52747F65A3CA44389E73C75C73E7FBF3"><enum>(b)</enum><header>Eligible Individuals</header>
+ <paragraph commented="no" display-inline="yes-display-inline" id="H8EDA75C9855C4277969E566F5F8B327D"><enum>(1)</enum><text>An eligible individual is an individual who—</text> <subparagraph id="H8CB56806296E4474837136E1C28B9680" indent="up1"><enum>(A)</enum><text>during the one-year period beginning on the date of the enactment of this section, submits to the Secretary an application containing such information and assurances as the Secretary may require;</text>
+ </subparagraph><subparagraph id="HAA594576246548458A1304A3A655C8B6" indent="up1"><enum>(B)</enum><text>has not received benefits under the Servicemen's Readjustment Act of 1944 (<external-xref legal-doc="public-law" parsable-cite="pl/78/346">Public Law 78–346</external-xref>); and</text> </subparagraph><subparagraph id="H6208EE1CF2C64D2EBFC3B9498394ACCE" indent="up1"><enum>(C)</enum><text>has engaged in qualified service.</text>
+ </subparagraph></paragraph><paragraph id="HBFE4B2AEC5624B5EB3957D0F7D63F45B" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">For purposes of paragraph (1), a person has engaged in qualified service if, between December 7, 1941, and December 31, 1946, the person—</text>
+ <subparagraph id="HBA11747380F84B23A71728619F8662D8"><enum>(A)</enum><text>was a member of the United States merchant marine (including the Army Transport Service and the Naval Transport Service) serving as a crewmember of a vessel that was—</text>
+ <clause id="HD20A2538DAF841CCB2160536585E828F"><enum>(i)</enum><text>operated by the War Shipping Administration or the Office of Defense Transportation (or an agent of the Administration or Office);</text>
+ </clause><clause id="H0EE4783FBD41400AB4822616ABC91F83"><enum>(ii)</enum><text>operated in waters other than inland waters, the Great Lakes, and other lakes, bays, and harbors of the United States;</text>
+ </clause><clause id="H0604640704DA4E4B8A7F7E98F32848CA"><enum>(iii)</enum><text>under contract or charter to, or property of, the Government of the United States; and</text> </clause><clause id="H15F0963F2B094CFCACBE40DB092509DD"><enum>(iv)</enum><text>serving the Armed Forces; and</text>
+ </clause></subparagraph><subparagraph id="H34585BFDB3384B4D97B9A27AB9B58FF0"><enum>(B)</enum><text>while so serving, was licensed or otherwise documented for service as a crewmember of such a vessel by an officer or employee of the United States authorized to license or document the person for such service.</text>
+ </subparagraph></paragraph><paragraph id="HC043CB163F7C4DEF8DEE3D0A176A2FB0" indent="up1"><enum>(3)</enum><text>In determining the information and assurances required in the application pursuant to paragraph (1)(A), the Secretary shall accept a DD–214 form as proof of qualified service.</text>
+ </paragraph></subsection><subsection id="H939A07866CD043D3B8672C0A71D3A36C"><enum>(c)</enum><header>Amount of Payment</header><text>The Secretary shall make one payment out of the compensation fund in the amount of $25,000 to an eligible individual. The Secretary shall make such a payment to eligible individuals in the order in which the Secretary receives the applications of the eligible individuals.</text>
+ </subsection><subsection id="H7419826641244CD6B2AA1F302AC948F2"><enum>(d)</enum><header>Authorization of Appropriations</header><text display-inline="yes-display-inline">There is authorized to be appropriated for fiscal year 2016 $125,000,000 for the compensation fund. Such amount shall remain available until expended.</text>
+ </subsection><subsection id="H01D5CA687294415498C989E57818A4D6"><enum>(e)</enum><header>Reports</header><text>The Secretary shall include, in documents submitted to Congress by the Secretary in support of the President's budget for each fiscal year, detailed information on the operation of the compensation fund, including the number of applicants, the number of eligible individuals receiving benefits, the amounts paid out of the compensation fund, the administration of the compensation fund, and an estimate of the amounts necessary to fully fund the compensation fund for that fiscal year and each of the three subsequent fiscal years.</text>
+ </subsection><subsection id="HE959F8907CD2493EB487530D895BC7EF"><enum>(f)</enum><header>Regulations</header><text>The Secretary shall prescribe regulations to carry out this section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="H3E42B8767D7845E6A922348FA62AA0E5"><enum>(b)</enum><header>Regulations</header><text>Not later than 180 days after the date of the enactment of this Act, the Secretary shall prescribe the regulations required under section 532(f) of title 38, United States Code, as added by subsection (a).</text>
+ </subsection><subsection id="H3727B4B9779D4258AFCDE6D70DAB1B10"><enum>(c)</enum><header>Clerical Amendment</header><text>The table of sections at the beginning of such chapter is amended by inserting after the item related to section 532 the following new item:</text>
+				<toc regeneration="no-regeneration">
+					<toc-entry level="section"><quote>533. Merchant Mariner Equity Compensation Fund.</quote>. </toc-entry></toc>
+			</subsection></section></legis-body>
+</bill>
+
+

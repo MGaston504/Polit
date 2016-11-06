@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7EF49CFF784E47A8980495972C7AD357" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4116 IH: To amend the Federal Deposit Insurance Act to ensure that the reciprocal deposits of an insured depository institution are not considered to be funds obtained by or through a deposit broker, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 4116</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20151119">November 19, 2015</action-date> 
+<action-desc><sponsor name-id="M001160">Ms. Moore</sponsor> (for herself and <cosponsor name-id="E000294">Mr. Emmer of Minnesota</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Federal Deposit Insurance Act to ensure that the reciprocal deposits of an insured depository institution are not considered to be funds obtained by or through a deposit broker, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H14B32F3610894391929FC00087CFBF67" style="OLC"> 
+<section id="HF402031A52A64289A4EC020A9951EDCB" section-type="section-one"><enum>1.</enum><header>Limited exception for reciprocal deposits</header> 
+<subsection id="H2AA23AD1063C431895454B175B2F3BEB"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 29 of the Federal Deposit Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1831f">12 U.S.C. 1831f</external-xref>) is amended by adding at the end the following new subsection:</text> <quoted-block style="OLC" id="HB5370F9DB6D041599487DB8A5498AF93" display-inline="no-display-inline"> <subsection id="H2973202F243C4A27AC6D1B30F14AA330"><enum>(i)</enum><header>Limited exception for reciprocal deposits</header> <paragraph id="H95025FACB73A44F5BC143E0CB7F06F2F"><enum>(1)</enum><header>In general</header><text>Reciprocal deposits of an insured depository institution shall not be considered to be funds obtained, directly or indirectly, by or through a deposit broker if—</text> 
+<subparagraph id="H1D35D0D3A227413D86F5D8A55DE02C2B"><enum>(A)</enum><text display-inline="yes-display-inline">when the institution was most recently examined, its composite condition was found to be outstanding or good; or</text></subparagraph> <subparagraph id="H1FFE4A05975F4EC18AAA3174C38F3C77"><enum>(B)</enum><text>the total amount of such reciprocal deposits does not exceed the lesser of—</text> 
+<clause id="HA68F3F9E314C4BF188E437002C76849B"><enum>(i)</enum><text>$10,000,000,000; or</text></clause> <clause id="H857B3C9499CD45CABF0363493C99C350"><enum>(ii)</enum><text>an amount equal to 20 percent of the total liabilities of the insured depository institution.</text></clause></subparagraph></paragraph> 
+<paragraph id="H61A39F7BF0D14EC69B86CA07327D8D89"><enum>(2)</enum><header>Rule of construction</header><text display-inline="yes-display-inline">Nothing in this subsection shall be construed to limit the authority of the Corporation to require, on a case-by-case basis, that an agent institution that is less than adequately capitalized (as defined in section 38(b)(1)(B)) not accept particular types of deposits upon finding that the acceptance of such deposits constitutes an unsafe or unsound practice with respect to such institution.</text> </paragraph> <paragraph id="H9C963A4189954D25A1AEE694866CEAD4"><enum>(3)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this subsection:</text> 
+<subparagraph id="H3DE791F069BB48DEB163B1654715C700"><enum>(A)</enum><header>Agent institution</header><text display-inline="yes-display-inline">The term <term>agent institution</term> means an insured depository institution that places a covered deposit through a deposit placement network at other insured depository institutions in amounts that are less than or equal to the standard maximum deposit insurance amount, specifying the interest rate to be paid for such amounts, where the agent institution—</text> <clause id="HB2D49985F1DB43D9B5C50EC9D76A037F"><enum>(i)</enum><text display-inline="yes-display-inline">is well capitalized (as defined in section 38(b)(1)(A)) or has obtained a waiver pursuant to subsection (c) of this section; or</text></clause> 
+<clause id="H1B5F270AE9B8461BA07F677970319367"><enum>(ii)</enum><text display-inline="yes-display-inline">does not receive an amount of reciprocal deposits that causes the total amount of reciprocal deposits held by the agent institution to be greater than the average of the total amount of reciprocal deposits held by the agent institution on the last day of each of the 4 calendar quarters preceding the calendar quarter in which the agent institution was determined to be not well capitalized.</text></clause></subparagraph> <subparagraph id="H50B326E993F5478D91002C2253E4881F"><enum>(B)</enum><header>Covered deposit</header><text display-inline="yes-display-inline">The term <term>covered deposit</term> means a deposit that—</text> 
+<clause id="H3078709D41464D4BBDCF1891BDCF1784"><enum>(i)</enum><text display-inline="yes-display-inline">is submitted for placement through a deposit placement network by an agent institution; and</text></clause> <clause id="H0F1FE222E9C04A2280A8794EA49CF83C"><enum>(ii)</enum><text display-inline="yes-display-inline">does not consist of funds that were obtained for the agent institution, directly or indirectly, by or through a deposit broker before submission for placement through a deposit placement network.</text></clause></subparagraph> 
+<subparagraph id="HD21315A2953C4A959C6A4B96CC43E53A"><enum>(C)</enum><header>Deposit placement network</header><text display-inline="yes-display-inline">The term <term>deposit placement network</term> means a network in which an insured depository institution participates, together with other insured depository institutions, for the processing and receipt of reciprocal deposits.</text></subparagraph> <subparagraph id="H9BA6E5393E484FBA912DC164625EADCA"><enum>(D)</enum><header>Network member bank</header><text display-inline="yes-display-inline">The term <term>network member bank</term> means an insured depository institution that is a member of a deposit placement network.</text> </subparagraph> 
+<subparagraph id="H6332DDBAA55543EF941B72B758A0E4EF"><enum>(E)</enum><header>Reciprocal deposits</header><text display-inline="yes-display-inline">The term <term>reciprocal deposits</term> means deposits received by an agent institution through a deposit placement network with the same maturity (if any) and in the same aggregate amount as covered deposits placed by the agent institution in other network member banks.</text></subparagraph></paragraph> </subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H6649306D0508430EAA94F1B1A33AD748"><enum>(b)</enum><header>Applicability</header><text display-inline="yes-display-inline">Nothing in this Act shall be construed to limit the application of any provision of the Federal Deposit Insurance Act, other than section 29 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1831f">12 U.S.C. 1831f</external-xref>), to an insured depository institution (as defined in section 3(c) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1813">12 U.S.C. 1813(c)</external-xref>)).</text></subsection></section> 
+</legis-body> 
+</bill> 
+
+

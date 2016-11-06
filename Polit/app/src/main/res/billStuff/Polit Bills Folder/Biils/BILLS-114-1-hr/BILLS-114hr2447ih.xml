@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCD6A2261CC5648D0AE024655B93217B8" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2447 IH: To amend the Public Health Service Act to provide for an NIH research strategic plan.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2447</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150519">May 19, 2015</action-date> 
+<action-desc><sponsor name-id="H001052">Mr. Harris</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Public Health Service Act to provide for an NIH research strategic plan.</official-title> 
+</form> 
+<legis-body id="H9B7991C8D26C4EADBDA410EAFF723DD1" style="OLC"> 
+<section id="H3BBFB942935143898D66728DA3E1C17C" section-type="section-one"><enum>1.</enum><header>NIH research strategic plan</header><text display-inline="no-display-inline">Section 402 of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/282">42 U.S.C. 282</external-xref>) is amended—</text> <paragraph id="HFCCBFE927A0F424EA40F095913BC6C6C"><enum>(1)</enum><text>in subsection (b), by amending paragraph (5) to read as follows:</text> 
+<quoted-block style="OLC" id="H512F111060174D50840BBE70750E35DB" display-inline="no-display-inline"> 
+<paragraph id="H1324DFE761564402A55FA60C5A72E992"><enum>(5)</enum><text display-inline="yes-display-inline">shall ensure that scientifically based strategic planning is implemented in support of research priorities as determined by the agencies of the National Institutes of Health, including through development, use, and updating of the research strategic plan under subsection (m);</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block></paragraph> <paragraph id="H331406293EF9472C8371ACF5D222B1E8"><enum>(2)</enum><text>by adding at the end the following:</text> 
+<quoted-block style="OLC" id="HB1C664C8F3ED4C9B9BEEC38D62E15053" display-inline="no-display-inline"> 
+<subsection id="H64D0F9B4EDEC4A4C88A60314ED704843"><enum>(m)</enum><header>Research strategic plan</header> 
+<paragraph id="H057AF759C3E041D2A21408CC254FC1CB"><enum>(1)</enum><header>Five-year plans for biomedical research strategy</header> 
+<subparagraph id="HE92307E66C60434C922F229143ED6C89"><enum>(A)</enum><header>In general</header><text>For each successive five-year period beginning with the period of fiscal years 2016 through 2020, the Director of NIH, in consultation with the entities described in subparagraph (B), shall develop and maintain a biomedical research strategic plan.</text></subparagraph> <subparagraph id="HE5E78BECD32D49DFBBBD503AA85175B3"><enum>(B)</enum><header>Entities described</header><text>The entities described in this subparagraph are the directors of the national research institutes and national centers, researchers, patient advocacy groups, and industry leaders.</text></subparagraph></paragraph> 
+<paragraph id="H2E152F966C2845EEB2AE247BFF23F2BF"><enum>(2)</enum><header>Use of plan</header><text>The Director of NIH and the directors of the national research institutes and national centers shall use the strategic plan—</text> <subparagraph id="HF13371BCC5D444A191DFB41A1D1739B8"><enum>(A)</enum><text display-inline="yes-display-inline">to identify research opportunities; and</text></subparagraph> 
+<subparagraph id="H543C6968C11D4848A0AE4941CE5B6C8F"><enum>(B)</enum><text display-inline="yes-display-inline">to develop individual strategic plans for the research activities of each of the national research institutes and national centers that—</text> <clause id="HD6D0C7AEDA97448B85B344A55519BD91"><enum>(i)</enum><text>have a common template; and</text></clause> 
+<clause id="H69F02EC88912439BAB1B4DED4E06174F"><enum>(ii)</enum><text display-inline="yes-display-inline">identify strategic focus areas in which the resources of the national research institutes and national centers can best contribute to the goal of expanding knowledge on human health in the United States through biomedical research. </text></clause></subparagraph></paragraph> <paragraph id="H9236267D24424E4C829426D7AA73DC66" display-inline="no-display-inline"><enum>(3)</enum><header>Contents of plans</header> <subparagraph id="H9E253A1686904ED0A806BFC7951128EA"><enum>(A)</enum><header>Strategic focus areas</header><text display-inline="yes-display-inline">The strategic focus areas identified pursuant to paragraph (2)(B) shall—</text> 
+<clause id="H4ECDC5EC81F64FE89D29E98E180BC2AC"><enum>(i)</enum><text>be identified in a manner that—</text> <subclause id="HF34BB8116D954F01B41A36514B1C34C8"><enum>(I)</enum><text>considers the return on investment to the United States public through the investments of the National Institutes of Health in biomedical research; and</text></subclause> 
+<subclause id="HC3ED32849E2146D3B66143AEDB585AEA"><enum>(II)</enum><text>contributes to expanding knowledge to improve the United States public’s health through biomedical research; and</text></subclause></clause> <clause id="HDF8B7155815342ABB2B1D94AB8E623DF"><enum>(ii)</enum><text>include overarching and trans-National Institutes of Health strategic focus areas, to be known as Mission Priority Focus Areas, which best serve the goals of preventing or eliminating the burden of a disease or condition and scientifically merit enhanced and focused research over the next 5 years.</text></clause></subparagraph> 
+<subparagraph id="H9EFBEB5C6D0A42458BA4E2A169B2C5DC"><enum>(B)</enum><header>Rare and pediatric diseases and conditions</header><text>In developing and maintaining a strategic plan under this subsection, the Director of NIH shall ensure that rare and pediatric diseases and conditions remain a priority.</text></subparagraph></paragraph> <paragraph id="H7C58C625E7FF46B090B7303F5F3692A5"><enum>(4)</enum><header>Initial plan</header><text display-inline="yes-display-inline">Not later than 270 days after the date of enactment of this subsection, the Director of NIH and the directors of the national research institutes and national centers shall—</text> 
+<subparagraph id="H35A8D21DF0CC491FBC891AD3B4D2B89F"><enum>(A)</enum><text>complete the initial strategic plan required by paragraphs (1) and (2); and</text></subparagraph> <subparagraph id="H1FA5410AC96C48588D8A6C30C846BB41"><enum>(B)</enum><text>make such initial strategic plan publicly available on the website of the National Institutes of Health.</text></subparagraph></paragraph> 
+<paragraph id="HC2DCA1E3D33944FCB35F2658F2149941"><enum>(5)</enum><header>Review; updates</header> 
+<subparagraph id="HD7FD9C90F31A44788E182456FBF409EE"><enum>(A)</enum><header>Progress reviews</header><text display-inline="yes-display-inline">Not less than annually, the Director of NIH, in consultation with the directors of the national research institutes and national centers, shall conduct progress reviews for each strategic focus area identified under paragraph (2)(B).</text></subparagraph> <subparagraph id="HB6D10D60A23241CE87B0C6BDB9C7BE00"><enum>(B)</enum><header>Updates</header><text display-inline="yes-display-inline">Not later than the end of the 5-year period covered by the initial strategic plan under this subsection, and every 5 years thereafter, the Director of NIH, in consultation with the directors of the national research institutes and national centers, stakeholders in the scientific field, advocates, and the public at large, shall—</text> 
+<clause id="HE87F3867D5A948D2A74F2BEBEAD83E7C"><enum>(i)</enum><text>conduct a review of the plan, including each strategic focus area identified under paragraph (2)(B); and</text></clause> <clause id="H5E1505115C5A4F759E023CDD63C1CB31"><enum>(ii)</enum><text>update such plan in accordance with this section.</text></clause></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body> 
+</bill> 
+

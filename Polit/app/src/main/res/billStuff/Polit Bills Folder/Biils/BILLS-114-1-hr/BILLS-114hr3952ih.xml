@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H7F98CCD9393044A28A72DC92E8A1EA71" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3952 IH: Congenital Heart Futures Reauthorization Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3952</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151105">November 5, 2015</action-date>
+			<action-desc><sponsor name-id="B001257">Mr. Bilirakis</sponsor> (for himself, <cosponsor name-id="S001150">Mr. Schiff</cosponsor>, and <cosponsor name-id="N000147">Ms. Norton</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Public Health Service Act to coordinate Federal congenital heart disease research
+			 efforts and to improve public education and awareness of congenital heart
+			 disease, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H34913623FE394EADA04626ED59875CC8" style="OLC">
+ <section id="HDBAE328E90E7455D913FDE588CD93D09" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Congenital Heart Futures Reauthorization Act of 2015</short-title></quote>.</text> </section><section id="HCD8CCC57B29946F38DC5864FF2A94E3C"><enum>2.</enum><header>National congenital heart disease surveillance system</header><text display-inline="no-display-inline">Section 399V–2 of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/280g-13">42 U.S.C. 280g–13</external-xref>) is amended to read as follows:</text>
+			<quoted-block display-inline="no-display-inline" id="H1B46DB00C96D466EA096817B2FBF5BF9" style="OLC">
+				<section id="H783CCEA467894D21B0815A817E17BFAB"><enum>399V–2.</enum><header>National congenital heart disease research, surveillance, and awareness</header>
+ <subsection id="HC69E25370986461EAB22AB057196819C"><enum>(a)</enum><header>In general</header><text>The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall—</text>
+ <paragraph id="H9B8D0F86F7154BA1A6B1BB62408B5010"><enum>(1)</enum><text>enhance and expand research and surveillance infrastructure to study and track the epidemiology of congenital heart disease (in this section referred to as <quote>CHD</quote>);</text>
+ </paragraph><paragraph id="HEE7AC91C1C044B85B1C85450ABC148D6"><enum>(2)</enum><text>plan and implement a public outreach and education campaign regarding CHD across the lifespan; and</text> </paragraph><paragraph id="H95A98839EE7642F596F5BD3B5CB79727"><enum>(3)</enum><text>award grants to eligible entities to undertake the activities described in subsections (b) and (c).</text>
+						</paragraph></subsection><subsection id="H2B431270A7824577A3EB74C282EA103C"><enum>(b)</enum><header>National congenital heart disease cohort study</header>
+ <paragraph id="H7B592E25461645D9A4CAADD35A869D73"><enum>(1)</enum><header>In general</header><text>The Director of the Centers for Disease Control and Prevention shall plan, develop, implement, and submit one or more reports to the Congress on a cohort study to improve understanding of the epidemiology of CHD across the lifespan, from birth to adulthood, with particular interest in the following:</text>
+ <subparagraph id="HA72936B880E7494B8D2D4A2481DE80C6"><enum>(A)</enum><text>Health care utilization and natural history of those affected by CHD.</text> </subparagraph><subparagraph id="HA99EA6B1B5544C8A85FBAF840395302B"><enum>(B)</enum><text>Demographic factors associated with CHD, such as age, race, ethnicity, gender, and family history of individuals who are diagnosed with the disease.</text>
+ </subparagraph><subparagraph id="H61FB10E47E824F28BCCB76BB934D0512"><enum>(C)</enum><text>Outcome measures, such that analysis of the outcome measures will allow derivation of evidence-based best practices and guidelines for CHD patients.</text>
+ </subparagraph></paragraph><paragraph id="HF220C677160545C5B9EF5731DE9ABF11"><enum>(2)</enum><header>Permissible considerations</header><text>The study under this subsection may—</text> <subparagraph id="H51114714F4614B3894669117F119405E"><enum>(A)</enum><text>gather data on the health outcomes of a diverse population of those affected by CHD;</text>
+ </subparagraph><subparagraph id="HDC76A99E31D94DC9B2139ABE87F5291B"><enum>(B)</enum><text>consider health disparities among those affected by CHD which may include the consideration of prenatal exposures; and</text>
+ </subparagraph><subparagraph id="H92E2723742CB4BB8AB868B258F02BE75"><enum>(C)</enum><text>incorporate behavioral, emotional, and educational outcomes of those affected by CHD.</text> </subparagraph></paragraph><paragraph id="H2E09369BC43546719B1AF071C326EEB1"><enum>(3)</enum><header>Public access</header><text>Subject to paragraph (4), the data generated from the study under this subsection shall be made available to the public, including CHD researchers.</text>
+ </paragraph><paragraph id="H5FEDF26F59E847109233A84AF701A770"><enum>(4)</enum><header>Patient privacy</header><text>The Secretary shall ensure that the study under this subsection is carried out in a manner that complies with the requirements applicable to a covered entity under the regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996.</text>
+						</paragraph></subsection><subsection id="HF77916F011CB4343A69A1901ECA1C49B"><enum>(c)</enum><header>Congenital heart disease awareness campaign</header>
+ <paragraph id="H32A5F3F8B94F4015A8CF87CF5178CC01"><enum>(1)</enum><header>In general</header><text>The Director of the Centers for Disease Control and Prevention shall establish and implement an awareness, outreach, and education campaign regarding CHD across the lifespan. The information expressed through such campaign shall—</text>
+ <subparagraph id="H559082EB6A1742C2BE9AB2DBEC49A1FB"><enum>(A)</enum><text>emphasize that CHD is the most prevalent birth defect;</text> </subparagraph><subparagraph id="HA62D0A1B02A94438985384CB0C86C19B"><enum>(B)</enum><text>identify CHD as a condition that affects those diagnosed throughout their lives; and</text>
+ </subparagraph><subparagraph id="H42ED2D9EDCA64A63A8E8DCD20AD3AD9A"><enum>(C)</enum><text>promote the need for pediatric, adolescent, and adult individuals with CHD to seek and maintain lifelong, specialized care.</text>
+ </subparagraph></paragraph><paragraph id="H50C3613909C54E6DBC8F31DB38D6562B"><enum>(2)</enum><header>Permissible activities</header><text>The campaign under this subsection may—</text> <subparagraph id="HA1D7A3FEF29144FEA3E7D1FF72826695"><enum>(A)</enum><text>utilize collaborations or partnerships with other agencies, health care professionals, and patient advocacy organizations that specialize in the needs of individuals with CHD; and</text>
+ </subparagraph><subparagraph id="HCBDCBA669984499796C8D909EE05A9A2"><enum>(B)</enum><text>include the use of print, film, and electronic materials distributed via television, radio, Internet, and other commercial marketing venues.</text>
+ </subparagraph></paragraph></subsection><subsection id="H70E6A33AF0B44568AE7541ADD553E33A"><enum>(d)</enum><header>Eligibility for grants</header><text>To be eligible to receive a grant under subsection (a)(3), an entity shall—</text> <paragraph id="H6F9E42CA097A472B8A1B82B8577FE0B4"><enum>(1)</enum><text>be a public or private nonprofit entity with specialized experience in CHD; and</text>
+ </paragraph><paragraph id="HFEF11167DA36419B833C6C14EA5BE56D"><enum>(2)</enum><text>submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.</text>
+ </paragraph></subsection><subsection id="H52BE666FF45141BBB3175D3809CB94C7"><enum>(e)</enum><header>Authorization of appropriations</header><text>To carry out this section, there is authorized to be appropriated $4,000,000 for each of fiscal years 2016 through 2020.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="H96BF9F8A764E4DC8AB6DF7A08EDA1EA8"><enum>3.</enum><header>Congenital heart disease research</header><text display-inline="no-display-inline">Section 425 of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/285b-8">42 U.S.C. 285b–8</external-xref>) is amended to read as follows:</text> <quoted-block display-inline="no-display-inline" id="H1CAE5A6A3F6A4499A0417B66A7637D31" style="OLC"> <section id="H1F8AEAF0672F403A9AFA63F971F3C975"><enum>425.</enum><header>Congenital heart disease</header> <subsection id="H0214356D3DE54FFFB0CC4F8C2EA73236"><enum>(a)</enum><header>In general</header><text>The Director of the Institute may expand, intensify, and coordinate research and related activities of the Institute with respect to congenital heart disease, which may include congenital heart disease research with respect to—</text>
+ <paragraph id="H08C4BAD0D4904EDAB1B23CD2EAFD58D7"><enum>(1)</enum><text>causation of congenital heart disease, including genetic causes;</text> </paragraph><paragraph id="H02295F464C8441CBA2DB17F69195008E"><enum>(2)</enum><text>long-term outcomes in individuals with congenital heart disease, including infants, children, teenagers, adults, and elderly individuals;</text>
+ </paragraph><paragraph id="HCE530485B7E240D691A37817577B1629"><enum>(3)</enum><text>diagnosis, treatment, and prevention;</text> </paragraph><paragraph id="HE65974BB1F864FCE9032BFDFE51DEF3E"><enum>(4)</enum><text>studies using longitudinal data and retrospective analysis to identify effective treatments and outcomes for individuals with congenital heart disease; and</text>
+ </paragraph><paragraph id="HCBD20ED19D21402E92F25371067ED94D"><enum>(5)</enum><text>identifying barriers to lifelong care for individuals with congenital heart disease.</text> </paragraph></subsection><subsection id="H3F8222D2544745FF84A8CEB1D6A6375F"><enum>(b)</enum><header>Coordination of research activities</header><text>The Director of the Institute may coordinate research efforts related to congenital heart disease among multiple research institutions and may develop research networks.</text>
+ </subsection><subsection id="H8F91FEC4E4824F6884FA8C93375DAD43"><enum>(c)</enum><header>Minority and medically underserved communities</header><text>In carrying out the activities described in this section, the Director of the Institute shall consider the application of such research and other activities to minority and medically underserved communities.</text>
+ </subsection><subsection id="H62C17C0CE5524F42BAD7B1A5DEA0837F"><enum>(d)</enum><header>Report from NIH</header><text>Not later than 1 year after the date of enactment of the <short-title>Congenital Heart Futures Reauthorization Act of 2015</short-title>, the Director of NIH, acting through the Director of the Institute, shall provide a report to Congress—</text>
+ <paragraph id="H678741112324422FB380F22CD4F13628"><enum>(1)</enum><text>outlining the ongoing research efforts of the National Institutes of Health regarding congenital heart disease; and</text>
+ </paragraph><paragraph id="H5CBE285C083D4A5EAD9F8B722B74B43A"><enum>(2)</enum><text>identifying—</text> <subparagraph id="H2E41DEE636DD47AEACB261590FAC7A85"><enum>(A)</enum><text>future plans for research regarding congenital heart disease; and</text>
+ </subparagraph><subparagraph id="HBD5D44163B4349998C3EF750E1341F99"><enum>(B)</enum><text>the areas of greatest need for such research.</text> </subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </section></legis-body> </bill> 
+

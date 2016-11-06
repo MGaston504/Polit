@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA6452FE62B754F6386024E53C7C4018F" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 112 IH: To amend title 31, United States Code, to restore the 10 year statute of limitations applicable to collection of debt by administrative offset, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 112</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="F000449">Mr. Fortenberry</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 31, United States Code, to restore the 10 year statute of limitations applicable to
+			 collection of debt by administrative offset, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H7D5FE60CE6654A289225F3E2DF030AA4" style="OLC">
+		<section id="H08BC31954CD544B7A6F368B2EE92F190" section-type="section-one"><enum>1.</enum><header>Restoration of statute of limitations</header>
+			<subsection id="H69A146A2C8DA47CF820BB644CB3CBDEF"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/31/3716">Section 3716(e)</external-xref> of title 31, United States Code, is amended to read as follows:</text>
+				<quoted-block id="H009197A825874008B3C1344B618A2D9F" style="OLC">
+					<subsection id="H33FD4AE172BD41578D15BA2B62F1B31C"><enum>(e)</enum><text>This section does not apply—</text>
+						<paragraph id="H19310A2A703B4BD5AAE26A70F0B41C77"><enum>(1)</enum><text>to a claim under this subchapter that has been outstanding for more than 10 years; or</text>
+						</paragraph><paragraph id="H396231ABAFD74406A070299CC0C13681"><enum>(2)</enum><text display-inline="yes-display-inline">when a statute explicitly prohibits using administrative offset or setoff to collect the claim or
+			 type of claim involved.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HBC0FE19E8DCD42DC9FC998D7EEC0A08F"><enum>(b)</enum><header>Retroactivity</header><text>In the administration of <external-xref legal-doc="usc" parsable-cite="usc/31/3716">section 3716(e)</external-xref> of title 31, United States Code, as amended by subsection
+			 (a), the following provisions of law shall be treated as if they had never
+			 been enacted:</text>
+				<paragraph id="HA93DE461442C47DA8045FEE67EBEA686"><enum>(1)</enum><text>Section 14219 of the Food, Conservation, and Energy Act of 2008 (<external-xref legal-doc="public-law" parsable-cite="pl/110/234">Public Law 110–234</external-xref>; 122 Stat.
+			 1483), repealed as duplicative enactment by section 4 of Public Law
+			 110–246 (<external-xref legal-doc="usc" parsable-cite="usc/7/8701">7 U.S.C. 8701</external-xref> note).</text>
+				</paragraph><paragraph id="H344E5D10DB8840759A3D53BC0CA1059B"><enum>(2)</enum><text>Section 14219 of the Food, Conservation, and Energy Act of 2008 (<external-xref legal-doc="public-law" parsable-cite="pl/110/246">Public Law 110–246</external-xref>; 122 Stat.
+			 2245).</text>
+				</paragraph></subsection></section><section id="H38BC4226764748ADBDE480FD59363034"><enum>2.</enum><header>Limitation on use of Funds</header><text display-inline="no-display-inline">The Commissioner of Social Security shall not use any funds to seek an administrative offset
+			 pursuant to <external-xref legal-doc="usc" parsable-cite="usc/31/3716">section 3716</external-xref> of title 31, United States Code, for collection
+			 of a debt or claim arising out of a benefit payment under title II of the
+			 Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/401">42 U.S.C. 401 et seq.</external-xref>)—</text>
+			<paragraph id="HC44FD37A4C4A4B1DA59F07FA626D87EE"><enum>(1)</enum><text>from a child (as defined in section 216(e) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/416">42 U.S.C. 416(e)</external-xref>)) of the
+			 beneficiary, when such child is without fault;</text>
+			</paragraph><paragraph id="HD9A021EC67F6415CBB6AD6C448EC50C8"><enum>(2)</enum><text>from an individual who had not attained the age of 18 years on the date such debt or claim arose;
+			 or</text>
+			</paragraph><paragraph id="HD8242FAA279142CA81619039BF988E8F"><enum>(3)</enum><text>where such debt or claim has been outstanding for more than 10 years.</text>
+			</paragraph></section></legis-body>
+</bill>
+
+

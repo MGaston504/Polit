@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1574 IS: Older Americans Community Access Revitalization and Education Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-06-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1574</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150615">June 15, 2015</action-date>
+			<action-desc><sponsor name-id="S322">Mr. Merkley</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Older Americans Act of 1965 to establish a community care wrap-around
+			 support demonstration program, a pilot project on services for recipients
+			 of
+			 federally assisted housing, and a national campaign to raise awareness of
+			 the aging network and to promote advance integrated long-term care
+			 planning, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Older Americans Community Access Revitalization and Education Act</short-title></quote> or the <quote><short-title>CARE Act</short-title></quote>.</text>
+		</section><section id="idE9AAD878E02D4B1880488725779EF952"><enum>2.</enum>
+			<header>Community care
+ wrap-around support demonstration program</header><text display-inline="no-display-inline">Part A of title IV of the Older Americans Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/42/3032">42 U.S.C. 3032 et seq.</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id19F549CB5DFF453E8ECC14399872D23E" style="OLC">
+				<section id="id4B2DBFEA6ADC455A80E9E13817B3583A"><enum>423.</enum><header>Community care
+				wrap-around support demonstration program</header>
+					<subsection id="ide680ce149e5a4088bd3dc261de806ac9"><enum>(a)</enum><header>Definitions</header>
+						<paragraph id="id33b35821007944fda9bfcde01eb70d06"><enum>(1)</enum><header>Community care
+ wrap-around support partnership</header><text>The term <term>community care wrap-around support partnership</term> means a partnership that—</text>
+ <subparagraph id="idf6c230d190524364b21d95774fb32a66"><enum>(A)</enum><text>carries out a program that serves not fewer than 30 eligible older individuals;</text>
+ </subparagraph><subparagraph id="id091328a292e4477bbeb0f184996e2356"><enum>(B)</enum><text>includes—</text> <clause id="id103a12f8c44d41a6b2bee3606707fb22"><enum>(i)</enum><text>a designated care coordinator, who may be a nurse, registered dietitian, case manager, health coach, or social worker, from an eligible entity and who, in consultation with a primary care physician or another relevant specialist described in clause (ii), will be responsible for coordinating services and supports offered under title III for an older individual; and</text>
+ </clause><clause id="id8AAEED1E64794C0B858E48DEA758B17E"><enum>(ii)</enum><text>a consulting primary care physician, or other relevant specialist, receiving compensation for participation in the partnership in a manner determined by the Assistant Secretary; and</text>
+ </clause></subparagraph><subparagraph id="idbf668c0afdbc401482def014cc945ba2"><enum>(C)</enum><text>may include an individual—</text>
+ <clause id="idc81bdf16ffa9492ab429a73ec9685f8e"><enum>(i)</enum><text>who is listed in the plan for the community care wrap-around support partnership described in subsection (c)(2)(A);</text>
+ </clause><clause id="id08febd867032412fa9c6fb635ca8498e"><enum>(ii)</enum><text>for whom the eligible older individual gives consent to participate in the community care wrap-around support partnership, as that partnership relates to the eligible older individual; and</text>
+ </clause><clause id="id13e2a704dade4fe5b1ccf1db6aa3ac66"><enum>(iii)</enum><text>whose relationship to the older individual is that of—</text>
+ <subclause id="id87a532e4d8374ffd96bdaf3ed9d1b9c7"><enum>(I)</enum><text>a family member, close personal friend, or unpaid designated caregiver;</text>
+ </subclause><subclause id="id4e0d28593ecc4d0195d8656f80f05a57"><enum>(II)</enum><text>a legal or financial advisor;</text>
+ </subclause><subclause id="id90f42c69876a4fa4938378d21fce499b"><enum>(III)</enum><text>a home care provider;</text>
+ </subclause><subclause id="idcbe7eaab5bf3407d89a7b6e72f19dce6"><enum>(IV)</enum><text>a provider of transportation;</text>
+ </subclause><subclause id="id7dbaf9e9be0944b896595c4c8d3b5818"><enum>(V)</enum><text>a registered dietitian; or</text>
+ </subclause><subclause id="id089d40d28c05475fb04c906b7fe9fcb9"><enum>(VI)</enum><text>a rehabilitation professional.</text>
+									</subclause></clause></subparagraph></paragraph><paragraph id="idf1b16c0cd91745e88b5d8d57e49dfa0b"><enum>(2)</enum><header>Eligible
+ entity</header><text>The term <term>eligible entity</term> means—</text> <subparagraph id="id8c5f054a1132446b858cd8cb0a624b09"><enum>(A)</enum><text>an area agency on aging;</text>
+ </subparagraph><subparagraph id="id0DAF603DAFF4464D9D8E11CFBA97F902"><enum>(B)</enum><text>a home or community-based provider of the activities described in subsection (d) (such as a home care agency, or entity operating a senior center or adult day care facility); or</text>
+ </subparagraph><subparagraph id="ida79d8e070c2342b9a9ff140f581ee442"><enum>(C)</enum><text>another qualified entity the Assistant Secretary determines to be appropriate to carry out the activities described in subsection (d).</text>
+							</subparagraph></paragraph><paragraph id="id00f4c2be32ed4ac9937b3a80d6324d40"><enum>(3)</enum><header>Eligible older
+ individual</header><text>The term <term>eligible older individual</term> means an older individual—</text>
+ <subparagraph id="id297EFA820760488985ECDD394D64009B"><enum>(A)</enum><text>who is age 65 or older;</text>
+ </subparagraph><subparagraph id="id5996fddcc1564ccdb729ebda741e7ebe"><enum>(B)</enum><text>who is eligible to receive assistance under this Act;</text>
+ </subparagraph><subparagraph id="idd3da0ac1086240c694431d51e1c48aaf"><enum>(C)</enum><text>who elects to enroll in the demonstration program, as described in subsection (e); and</text>
+ </subparagraph><subparagraph id="id79700fcbb4f84fde9df8022163693d54"><enum>(D)</enum><text>who—</text> <clause id="idc33f8e5c54a34058b63c1c2d783a25c7"><enum>(i)</enum><text>has difficulty completing 2 or more activities of daily living;</text>
+ </clause><clause id="id78D5606B444C44F3B46DB323284B04F2"><enum>(ii)</enum><text>has had at least 1 nonelective hospital admission within the past 12 months;</text>
+ </clause><clause id="iddf8f441d4b5d40559d61d38dd64b237d"><enum>(iii)</enum><text>has received acute or subacute rehabilitation services within the past 12 months; or</text>
+ </clause><clause id="id90b44861239c478daf221da934f67ec8"><enum>(iv)</enum><text>meets such other criteria as the Assistant Secretary determines to be appropriate.</text>
+								</clause></subparagraph></paragraph></subsection><subsection id="idFB9880C2214C48969AEC257E2713197E"><enum>(b)</enum><header>Program
+				authorized</header>
+						<paragraph id="id933E54F0CF154BA2A06C09F88EB22D72"><enum>(1)</enum><header>In
+ General</header><text>The Assistant Secretary shall establish a demonstration program (referred to in this section as the <quote>demonstration program</quote> and to be commonly known as the <quote>community care initiative</quote>) through which the Assistant Secretary shall make grants to eligible entities in order to enable such eligible entities to—</text>
+ <subparagraph id="id40D059899C5B49B5A01D72EE6D68A9E7"><enum>(A)</enum><text>establish community care wrap-around support partnerships; and</text>
+ </subparagraph><subparagraph id="id73D9EBE1D9FD40D8B3216E0A0BB8F7B1"><enum>(B)</enum><text>support the partnerships, enabling the partnerships to carry out the activities described in subsection (d).</text>
+ </subparagraph></paragraph><paragraph id="idC22CB9D6610945F3A5B5527597BC56B5"><enum>(2)</enum><header>Duration</header><text>Each grant awarded under this section shall be for a period of 2 years.</text>
+						</paragraph></subsection><subsection id="id00CE81A6CE6A4AB7B86591471669F4AD"><enum>(c)</enum><header>Application</header>
+						<paragraph id="idBAD4CFD8D1CD48CDA63BC2731E4CD1FF"><enum>(1)</enum><header>In
+ General</header><text>Each eligible entity desiring a grant under this section shall submit an application to the Assistant Secretary at such time, in such manner, and accompanied by such information as the Assistant Secretary may reasonably require.</text>
+ </paragraph><paragraph id="id24998383193B4A23B2436A1948F00CA1"><enum>(2)</enum><header>Contents</header><text>The application described in this subsection shall include, at a minimum—</text>
+ <subparagraph commented="no" id="idBB83D4085553427C995CBCAFA2608D83"><enum>(A)</enum><text>a plan listing the individuals, as described in subsection (a)(1)(C), that will, upon consent of an eligible older individual, participate in the community care wrap-around support partnership as that partnership relates to the eligible older individual;</text>
+ </subparagraph><subparagraph commented="no" id="idB926A9B51114430FA6BC2965A6719696"><enum>(B)</enum><text>a clear description of—</text>
+ <clause commented="no" id="id221EB1789E914614ADFBEFECD1F60ACB"><enum>(i)</enum><text>the protocols the eligible entity will implement to identify the needs of older individuals receiving services and supports through the partnership;</text>
+ </clause><clause commented="no" id="idE88F65EC38BF4DEEB99067654B501E63"><enum>(ii)</enum><text>the range of intervention and supportive services and supports that the eligible entity will implement; and</text>
+ </clause><clause commented="no" id="id14732FDE5B524362B382E43A59D0F5E9"><enum>(iii)</enum><text>preliminary evidence of the efficacy or effectiveness of the approach the eligible entity proposes to use in providing services and supports through the partnership; and</text>
+ </clause></subparagraph><subparagraph id="idF7FAC38C1E6D4A90B570878A1FFE79DA"><enum>(C)</enum><text>an assurance that the partnership will collect the information determined by the Assistant Secretary under subsection (h)(1).</text>
+							</subparagraph></paragraph></subsection><subsection id="id7F993E9A4E064264AC5A0F52523D742A"><enum>(d)</enum><header>Use of
+ funds</header><text>An eligible entity that receives a grant under this section shall use the grant funds to establish a community care wrap-around support partnership and support the partnership, including requiring the partnership to—</text>
+ <paragraph id="id44682ff1746f4b85ad443babb51ec56d"><enum>(1)</enum><text>connect each participant with the community care wrap-around support partnership;</text>
+ </paragraph><paragraph id="id4B731085AD254640BD04DF2E0744F565"><enum>(2)</enum><text>assess each eligible older individual using a standardized assessment instrument, such as a comprehensive assessment reporting evaluation;</text>
+ </paragraph><paragraph id="id0062FAA1FE8B44EDA6085E29291B83FE"><enum>(3)</enum><text>establish longitudinal care plans for each eligible older individual; and</text> </paragraph><paragraph id="idf26628ed5456401b9b14c6450e7a989f"><enum>(4)</enum><text>provide comprehensive, coordinated, and continuous virtual or in-person access to the services and supports offered under this Act, tailored to the specific needs of the older individual involved, which may include 1 or more of the following:</text>
+ <subparagraph id="idE4BE830864F8498883080DBC12C09BC2"><enum>(A)</enum><text>Medication management.</text>
+ </subparagraph><subparagraph id="id0921BC7AA0734AFEAF52C038FA4D0DBC"><enum>(B)</enum><text>Medical nutrition therapy with a registered dietitian for individuals requiring dietary modification for chronic disease management.</text>
+ </subparagraph><subparagraph id="id6f4889a0c41040c2bf6cbb04e5a8140b"><enum>(C)</enum><text>Limited environmental modifications, such as safety equipment for showering, bathing, or toileting or installation of safety, health, and wellness monitoring technologies for an eligible older individual.</text>
+ </subparagraph><subparagraph id="id3a85e266ca3a43a1b85ee0655a2e06be"><enum>(D)</enum><text>Nutritional and dietary supports, which may include nutrition counseling, education, and the delivery of meals to the home or assistance with purchasing groceries in order to—</text>
+ <clause id="id78BDC64DB58942F19D12D9E88298F787"><enum>(i)</enum><text>assure an appropriate diet consistent with the medical needs, cultural background, and faith traditions of an eligible older individual; and</text>
+ </clause><clause id="idA588A77A6D734E60A95EC36A8CAA4DD4"><enum>(ii)</enum><text>identify opportunities for socialization within the home or the community of an eligible older individual in order to enhance the ability to participate in healthy nutritional habits.</text>
+ </clause></subparagraph><subparagraph id="id2cbc7c465581422ca538d5bfbd2712d2"><enum>(E)</enum><text>Transportation in order to meet the medical and social needs of an eligible older individual.</text>
+ </subparagraph><subparagraph id="id2504e616aa814383bc85defd03cde145"><enum>(F)</enum><text>Psychosocial supports to prevent isolation and the potential for depression and cognitive decline, which often accompany the lack of human interaction.</text>
+ </subparagraph><subparagraph id="idcc8b04c92afc4c5ba3578836c3b4f2c8"><enum>(G)</enum><text>Opportunities for exercise, as tolerable and appropriate, to prevent further physical decline that may lead to preventable disability.</text>
+ </subparagraph><subparagraph id="id9c43ba20b821402c83a6a921fc6c16ba"><enum>(H)</enum><text>Opportunities for enjoyment through activities or interactions, in person or virtually, that enhance an eligible older individual's life, relationships, well-being, or sense of productivity, including providing the opportunities through the use of technology products.</text>
+							</subparagraph></paragraph></subsection><subsection id="idBE49FD36FCC74413A1BB8AEA13FC60EE"><enum>(e)</enum><header>Election To
+ Participate</header><text>The Assistant Secretary shall determine and carry out an appropriate method of ensuring that eligible older individuals have agreed to enroll in a community care wrap-around support partnership program. Enrollment in the demonstration program shall be voluntary.</text>
+					</subsection><subsection id="idBAFCD04E0E634BA58F1E07D74FF721E8"><enum>(f)</enum><header>Compliance with
+				other laws</header>
+ <paragraph id="idE5A117E4529C42E9968D7FD6ED5295B6"><enum>(1)</enum><header>Regulations</header><text>Notwithstanding any provision of this section, each eligible entity receiving a grant under this section shall ensure that the activities carried out under the grant comply with the regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/42/1320d-2">42 U.S.C. 1320d–2</external-xref> note), the Health Information Technology for Economic and Clinical Health Act (title XIII of division A and title IV of division B of <external-xref legal-doc="public-law" parsable-cite="pl/111/5">Public Law 111–5</external-xref>), and the amendments made by such Act.</text>
+ </paragraph><paragraph id="id939AB15BC33E42DC8F5BA1B2091E77D1"><enum>(2)</enum><header>Guidance</header><text>The Assistant Secretary shall ensure that the activities carried out under this section are consistent with the guidance issued by the Secretary on June 6, 2014, for implementing standards for person-centered planning and self-direction in home and community-based services programs, under section 2402(a) of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396n">42 U.S.C. 1396n</external-xref> note).</text>
+						</paragraph></subsection><subsection id="ide124d062e8a342609e53dd292939d5e4"><enum>(g)</enum><header>Partnership
+				Information Collection</header>
+						<paragraph id="id33c09d7dd80d4873aeb89b777e33d851"><enum>(1)</enum><header>During the
+				first year of the demonstration program</header>
+ <subparagraph id="id5D31940CFB28481385E8CEB23FF751D1"><enum>(A)</enum><header>In general</header><text>During the first year of the demonstration program, the community care wrap-around support partnership, through the designated care coordinator described in subsection (a)(1)(B)(i), shall maintain a record for each eligible older individual who is served through the demonstration program. Such record shall include detailed information about the services and supports provided to the eligible older individual through the demonstration program and shall be incorporated into the electronic health record of the eligible older individual.</text>
+ </subparagraph><subparagraph id="id41484B7A78CD42C3A77A27BCA69552A4"><enum>(B)</enum><header>Contents</header><text>The Assistant Secretary shall determine the information to be collected in each record described in subparagraph (A), which may include information on the types of services and supports provided, referrals, members of the community care wrap-around support partnership, and an impact statement on the health of the eligible older individual served.</text>
+							</subparagraph></paragraph><paragraph id="id7bd4fbd4e7ae4c078871d8fda254ebbb"><enum>(2)</enum><header>During the
+ second year of the demonstration program</header><text>During the second year of the demonstration program, in addition to maintaining the record described in paragraph (1), the designated care coordinator described in subsection (a)(1)(B)(i) shall ensure that, through the record described in paragraph (1), the community care wrap-around support partnership is able to—</text>
+ <subparagraph id="id44f308d821ee43d4abad4f777b904070"><enum>(A)</enum><text>determine gaps in the provision of services that can assist in the provision of comprehensive health and wellness care for the eligible older individual;</text>
+ </subparagraph><subparagraph id="idf2e19743aaf841a7ba9330e24053f753"><enum>(B)</enum><text>connect the eligible older individual to services under this Act that will address any such gaps; and</text>
+ </subparagraph><subparagraph id="id6d2e0e6f9aa340f5a33b9bd20e8a43dd"><enum>(C)</enum><text>subject to the consent of the eligible older individual, make appointments for the eligible older individual to receive needed services and ensure that the primary care physician and caregiver of such eligible older individual receive notice of the needs of such individual.</text>
+							</subparagraph></paragraph></subsection><subsection id="idc96edff64fc34168a2907d6d199aeaf9"><enum>(h)</enum><header>Determination
+				of the Demonstration Program effect on patient outcomes</header>
+						<paragraph id="idddee853dc2184f23983b15f8ac37c197"><enum>(1)</enum><header>Transfer of
+ information</header><text>Each eligible entity shall collect, from each community care wrap-around partnership supported by the eligible entity, and report to the Assistant Secretary (in such form and manner, and at such frequency, as shall be specified by the Assistant Secretary) such data as the Assistant Secretary determines to be appropriate to monitor and analyze the demonstration program.</text>
+						</paragraph><paragraph id="id6D37A36B37814972BFCDC8815336E389"><enum>(2)</enum><header>Independent analysis of the
+ demonstration program</header><text>The Assistant Secretary shall enter into an agreement with an entity to conduct an independent analysis, in consultation with the Administrator for the Centers for Medicare &amp; Medicaid Services, and make a determination of whether the activities described in subsection (d) result in—</text>
+ <subparagraph id="idad90d8d7041a4a289619ccf23b95821d"><enum>(A)</enum><text>a reduced number of hospital days (other than days an eligible older individual elects to remain in the hospital);</text>
+ </subparagraph><subparagraph id="id768F4466847E4E039D50A3E8AF9D06FA"><enum>(B)</enum><text>reduced hospital readmissions for eligible older individuals;</text>
+ </subparagraph><subparagraph id="id4cf6e511fc2649ee9ed31b2a777ee7df"><enum>(C)</enum><text>reduced emergency room visits for eligible older individuals;</text>
+ </subparagraph><subparagraph id="id24e26bd8ff6c4a9dafc54f2a49416e0d"><enum>(D)</enum><text>improved health outcomes commensurate, in each individual case, with the eligible older individual's stage of chronic illness;</text>
+ </subparagraph><subparagraph id="id12a1cbacc8fb4612be1955e754d628bb"><enum>(E)</enum><text>improved efficiency of care, such as a reduction of duplicative diagnostic and laboratory tests, for eligible older individuals;</text>
+ </subparagraph><subparagraph id="idcef86347b29a40d4a1e380fc41632056"><enum>(F)</enum><text>a reduced cost of health care services;</text>
+ </subparagraph><subparagraph commented="no" id="id12bb8933e81d4ac093e5a97329fabe0c"><enum>(G)</enum><text>improved or maintained nutrition status, to manage chronic disease;</text>
+ </subparagraph><subparagraph commented="no" id="id0ee9a4cd009c4b9cbe736a203e4eb44e"><enum>(H)</enum><text>any delay of entry of eligible older individuals into institutional care; and</text>
+ </subparagraph><subparagraph commented="no" id="idE02DD72674AE463589D7BE3460C9E607"><enum>(I)</enum><text>any other outcomes measures the Assistant Secretary determines to be appropriate.</text>
+							</subparagraph></paragraph><paragraph commented="no" id="id5C3761685CFD41CEBCF90FB04F55786E"><enum>(3)</enum><header>Impact study</header>
+ <subparagraph commented="no" id="idD96E3279D1754EAE93668E2E8FE7BEE3"><enum>(A)</enum><header>Evaluation</header><text>The Assistant Secretary, in consultation with the Administrator for the Centers for Medicare &amp; Medicaid Services and using the information and data collected under this subsection and subsection (g), shall conduct an evaluation of the demonstration program, including comparing the well-being and costs of care of participants in a community care wrap-around support partnership program, to the well-being and such costs for patients who have not participated in such a program, to determine the impact of the additional services and supports provided through such a program and shall prepare findings from the evaluation.</text>
+							</subparagraph><subparagraph commented="no" id="idCA7E96F48BA441168F6D88E75AF3D395"><enum>(B)</enum><header>Determination
+ on expansion</header><text>Based on the evaluation conducted under subparagraph (A) and the independent analysis conducted under paragraph (2), the Assistant Secretary, in consultation with the Administrator for the Centers for Medicare &amp; Medicaid Services, shall determine whether expansion of the demonstration program is appropriate. If the determination is that such expansion is appropriate, the Assistant Secretary, in consultation with such Administrator, shall prepare a plan specifying—</text>
+ <clause commented="no" id="id9B96DE85157B485EAC7AD5B88BBBA6B1"><enum>(i)</enum><text>whether the expanded program should involve a greater number of grants to eligible entities, for community care wrap-around support partnership programs based on subsections (a) through (g);</text>
+ </clause><clause commented="no" id="idA1DC3A71B5C144ACB5546948D00DA29A"><enum>(ii)</enum><text>whether the expanded program should involve grants to regional, statewide, or multi-State combinations of eligible entities to engage corresponding community care wrap-around support partnerships in corresponding areas, for such programs based on subsections (a) through (g); and</text>
+ </clause><clause commented="no" id="id445A3B84D729485EA367C9CE94003805"><enum>(iii)</enum><text>whether the expanded program should be carried out through the Administration on Aging and the Center for Medicare and Medicaid Innovation.</text>
+ </clause></subparagraph></paragraph><paragraph commented="no" id="id32F5E1FF4D4C4EC5A544F46FA01E10C3"><enum>(4)</enum><header>Report to Congress</header><text>Not later than 1 year after the end of the demonstration program, the Assistant Secretary shall submit to Congress a report containing the findings, the results of the independent analysis, the determination, and any plan, prepared under paragraphs (1) through (3).</text>
+						</paragraph><paragraph commented="no" id="id4E77D016F2744B07AEEE2CE033C4AC51"><enum>(5)</enum><header>Expanded
+ program</header><text>Subject to the availability of appropriations, if the report contains a plan prepared under paragraph (3)(B), the Assistant Secretary may implement the expanded program, in accordance with the plan, not sooner than 6 months after submission of the report.</text>
+						</paragraph></subsection><subsection id="id56cd1b5a9db34109a782e55fe3bfca19"><enum>(i)</enum><header>Implementation
+ date</header><text>Not later than January 1, 2016, the Assistant Secretary shall issue a request for proposals to carry out this section.</text>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="id0C6D39DC4B944CE3B0087BF4C5705045"><enum>(j)</enum><header>Authorization of appropriations</header><text>There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2016 through 2018.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="idB5536AD0E21B491193CA7B6D50E360D5"><enum>3.</enum>
+ <header>Pilot project on services for recipients of federally assisted housing</header><text display-inline="no-display-inline">Part A of title IV of the Older Americans Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/42/3032">42 U.S.C. 3032 et seq.</external-xref>), as amended by section 2, is further amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id1844493632844F02B332D8E6BE60642A" style="OLC">
+				<section id="id3669223FE5BB49FD96A4E1FE7A2DCDC7"><enum>424.</enum><header>Pilot project
+				on services for recipients of federally assisted housing</header>
+ <subsection id="id99EF9F42F0864B53BA14D9C3CB0490BE"><enum>(a)</enum><header>Definition</header><text display-inline="yes-display-inline">In this section, the term <term>federally assisted housing</term> means—</text>
+ <paragraph id="id109C737D86914450B75100C192576C67"><enum>(1)</enum><text>multifamily housing financed, insured, or subsidized by the Rural Housing Service of the Department of Agriculture or by the Department of Housing and Urban Development; or</text>
+ </paragraph><paragraph id="idE1C9476B6A6E4306849CFDCA80791771"><enum>(2)</enum><text>any housing with respect to which a credit is allowed under the low-income housing tax credit under <external-xref legal-doc="usc" parsable-cite="usc/26/42">section 42</external-xref> of the Internal Revenue Code of 1986.</text>
+ </paragraph></subsection><subsection id="idAB2AB2DD259540E6A60034D0402FDCD0"><enum>(b)</enum><header>Funding</header><text>The Assistant Secretary may provide funding for a service provided under this Act (including title V) packaged and targeted for residents of federally assisted housing. The Assistant Secretary may provide such funding for a period of 2 years.</text>
+ </subsection><subsection id="id293A385D48E14564AE8E041EA9345377"><enum>(c)</enum><header>Recipients</header><text>The Assistant Secretary shall provide funding made available under subsection (b) through area agencies on aging, other entities approved by the Assistant Secretary, or designees of the agencies or entities, to not-for-profit owners or managers of the housing.</text>
+					</subsection><subsection id="id3CB376B847474C839D62E653467F586F"><enum>(d)</enum><header>Evaluations and
+				reports</header>
+ <paragraph id="id4ED24BDC260343AD8CA23737C798003A"><enum>(1)</enum><header>Evaluations</header><text>Each agency, entity, or designee that receives funding under this section shall evaluate the effectiveness of the services provided through the funding.</text>
+ </paragraph><paragraph id="id2BEA25CCE3E44E4C847A9E22C8997B8B"><enum>(2)</enum><header>Reports</header><text>The agency, entity, or designee shall, not later than 90 days after the end of the funding period, prepare and submit to the Assistant Secretary a report containing the results of the evaluation.</text>
+						</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="idDBE33ACCA9C7414E92219C9B27B51889"><enum>(e)</enum><header>Authorization
+ of appropriations</header><text display-inline="yes-display-inline">There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2016 through 2018. Such sums shall remain available through fiscal year 2019 for the purpose of carrying out the evaluations and reports under subsection (d).</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="id0cf21d5db29e42e9b6982a53cdd1a9da"><enum>4.</enum><header>National campaign to raise awareness of the aging network and to promote advance integrated
+			 long-term care planning</header>
+ <subsection id="idf1ae6b5ee72d4da49ce5558962e66891"><enum>(a)</enum><header>In General</header><text>Section 202(b)(6) of the Older Americans Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/42/3012">42 U.S.C. 3012(b)(6)</external-xref>) is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="idD0E9AF236B804C7BB866D7CD44458A93" style="OLC">
+ <paragraph id="id1de59aa113d44846838cc670406edc1d"><enum>(6)</enum><text>promote, through a coordinated public education and outreach campaign carried out by the National Eldercare Locator Service described in subsection (a)(21) and in coordination with other appropriate Federal agencies—</text>
+ <subparagraph id="ide01f6a8e724e4fce93984044dfdb00af"><enum>(A)</enum><text>enhanced awareness by the public of the importance of planning in advance for integrated long-term care; and</text>
+ </subparagraph><subparagraph id="id59203897a31b43acb12ec57169bdc92f"><enum>(B)</enum><text>the availability of national, State, and local information and resources to assist in such planning, as well as the existence of area agencies on aging and other aging service providers to provide direct assistance with such planning;</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id3f89fa6e09ac4c1f9f4c46d4de899d58"><enum>(b)</enum><header>Authorization of Appropriations</header><text>Section 216 of the Older Americans Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/42/3020f">42 U.S.C. 3020f</external-xref>) is amended—</text> <paragraph id="id70206b826ff543f5bae19278d451b392"><enum>(1)</enum><text>by redesignating subsection (c) as subsection (d); and</text>
+ </paragraph><paragraph id="idac8d85994fb9432f80bf3fa39172e4a4"><enum>(2)</enum><text>by inserting after subsection (b) the following:</text> <quoted-block display-inline="no-display-inline" id="id612EE3DE9BF145FE8F600BC1DB0ACF45" style="OLC"> <subsection id="id95ae3404335649da978de704494b8d4b"><enum>(c)</enum><header>National Campaign on Integrated Long-Term Care Planning</header><text>There are authorized to be appropriated to carry out section 202(b)(6) such sums as may be necessary for each of fiscal years 2016 through 2018.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

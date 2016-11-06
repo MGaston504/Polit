@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1222 IS: Continuity of Electric Capacity Resources Act </dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1222</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150506">May 6, 2015</action-date>
+			<action-desc><sponsor name-id="S288">Ms. Murkowski</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Power Act to provide for reports relating to electric capacity resources of
+			 transmission organizations and the amendment of certain tariffs to address
+			 the procurement of electric capacity resources, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Continuity of Electric Capacity Resources Act </short-title></quote>.</text>
+ </section><section id="idC712A066AE8F4ED3A5369F9F18BDE2EF"><enum>2.</enum><header>Diversity of Supply and Continuity of Electric Capacity Resources</header><text display-inline="no-display-inline">Title II of the Federal Power Act (<external-xref legal-doc="usc" parsable-cite="usc/16/824">16 U.S.C. 824 et seq.</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="idE34669A326544EF88918DEEBAF801FBE" style="OLC">
+				<section id="id1B4BB984D4B5441DA84580CC53277043"><enum>224.</enum><header>Diversity of supply and continuity of electric capacity resources</header>
+ <subsection id="id7A1861F49C6E4C3384BC9E6A32F1E4E5"><enum>(a)</enum><header>Definitions</header><text>In this subsection:</text> <paragraph id="id413E8B1B138A45719AB3F6AE073AA677"><enum>(1)</enum><header>Bulk-power system; transmission organization</header><text>The terms <term>bulk-power system</term> and <term>transmission organization</term> have the meaning given the terms in section 215.</text>
+ </paragraph><paragraph id="id9A46257B0D174A09B6A4AB3BBDAF4794"><enum>(2)</enum><header>Electric capacity resource</header><text>The term <quote>electric capacity resource</quote> means an electric generating resource, as measured by the maximum load-carrying ability of the resource, exclusive of station use and planned, unplanned, or other outage or derating.</text>
+ </paragraph><paragraph id="id5d04c4f1e7694a65a09eb4da7edf6f11"><enum>(3)</enum><header>Regional reliability coordinator</header><text>The term <term>regional reliability coordinator</term> has the meaning given the term <quote>reliability coordinator</quote> (as defined by the Electric Reliability Organization).</text> </paragraph></subsection><subsection id="id1f2204025bcd4891aa4bcc20bfaf0040"><enum>(b)</enum><header>Electric capacity resources report</header> <paragraph id="id17BA66DC5C8A4B9180C5DE611E2D135E"><enum>(1)</enum><header>Notice</header><text>Not later than 14 days after the date of enactment of this section, the Commission shall submit to each transmission organization with a tariff on file with the Commission that includes provisions addressing the procurement of electric capacity resources notice that the transmission organization is required to file with the Commission a report in accordance with paragraph (2).</text>
+ </paragraph><paragraph id="idCCACBC205C034A50B22D3C64834C053C"><enum>(2)</enum><header>Report</header><text>Not later than 180 days after the date on which a transmission organization receives a notice under paragraph (1), the transmission organization shall submit to the Commission a report that—</text>
+ <subparagraph id="idac5001ad9fac45f583723030d33237f1"><enum>(A)</enum><clause commented="no" display-inline="yes-display-inline" id="id010603BF4F6A487BA65E11C38C55C743"><enum>(i)</enum><text>identifies electric capacity resources that are available to the transmission organization as of the date of the report; and</text>
+ </clause><clause id="idB8DA569FE0FA4C0DAC63C158E738505F" indent="up1"><enum>(ii)</enum><text>describes the fuel sources and operational characteristics of each electric capacity resource identified under clause (i);</text>
+ </clause></subparagraph><subparagraph id="ide9c7a82f265b4943a9f86e04777f10a6"><enum>(B)</enum><text>evaluates, using generally accepted metrics, the financial health, viability, and projected remaining years of service of the available electric capacity resources identified under subparagraph (A)(i);</text>
+ </subparagraph><subparagraph id="id8a579a4ee6d44bd1b9c61524013f9449"><enum>(C)</enum><text>identifies—</text> <clause id="id31C06664E2754F00ADF9CF1903233150"><enum>(i)</enum><text>over the short- and long-term periods in the planning cycle of the transmission organization, announced and projected retirements of the available electric capacity resources;</text>
+ </clause><clause id="idD7434CE2BFBC474FB1BEC520DEAE0717"><enum>(ii)</enum><text>the projected future needs of the transmission organization for electric capacity resources; and</text> </clause><clause id="idF8C79FD45DDF4DBD89ECF45F0BC8C746"><enum>(iii)</enum><text>the availability of transmission facilities and transmission support services necessary to provide for the transmission organization reasonable assurances of essential reliability services, including adequate voltage support;</text>
+ </clause></subparagraph><subparagraph id="id2d946faa4ced446c89643b82ca7b616a"><enum>(D)</enum><text>assesses the current and projected status of the reliability of the elements of the bulk-power system under the control of the transmission organization, over the short- and long-term periods in the planning cycle of the transmission organization (including the current and projected status of electric capacity resources), as determined by the regional reliability coordinator that has been designated by the Electric Reliability Organization to have oversight over the bulk-power system elements under the control of the transmission organization; and</text>
+ </subparagraph><subparagraph id="idda03288f122c4d20b5d9547202bf0a9f"><enum>(E)</enum><text>prior to the submission of the report, has been made available to members of the transmission organization and to the public for comment.</text>
+							</subparagraph></paragraph></subsection><subsection id="id0f533707c9754230ad57cda077578096"><enum>(c)</enum><header>Tariff amendments</header>
+ <paragraph id="id73F419B73BC34BA49755CABA97950BB4"><enum>(1)</enum><header>In general</header><text>Not later than 180 days after the date on which the Commission receives a report submitted under subsection (b), the transmission organization that submitted the report shall file with the Commission—</text>
+ <subparagraph id="id980D1A4621304E77A8B1F41BB0D35E01"><enum>(A)</enum><text>1 or more tariff amendments that would achieve each of the objectives described in paragraph (2) with respect to the transmission organization; and</text>
+ </subparagraph><subparagraph id="id5AEECFE17305426D9BB96914FC5D2252"><enum>(B)</enum><text>supporting information that demonstrates the manner in which the amendments would achieve each of those objectives, taking into account the report submitted under subsection (b)(2).</text>
+ </subparagraph></paragraph><paragraph id="id9FA440CA89304FC593A49E1E8A1BC9AC"><enum>(2)</enum><header>Objectives</header><text>The objectives referred to in paragraph (1) are the following:</text> <subparagraph id="idE8BC10843AB447958455EEEFA87B9741"><enum>(A)</enum><text>A diverse generation portfolio and the availability of transmission facilities and transmission support services necessary to provide reasonable assurances of a continuous supply of electricity for customers of the transmission organization at the proper voltage and frequency.</text>
+ </subparagraph><subparagraph id="id099F6927C4974001A4ECE7102917F243"><enum>(B)</enum><text>An enhanced opportunity for self-supply of electric capacity resources by electric cooperatives, Federal power marketing agencies, and State utilities with a service obligation (as those terms are defined in section 217(a)), with the term <quote>self-supply</quote> to be defined in the supporting information filed under paragraph (1).</text>
+ </subparagraph><subparagraph id="id4C0773F96D4E4B4FAF03B8D5969EEC7E"><enum>(C)</enum><text>A reasonable assurance of short- and long-term reliability, with the terms <quote>short-term reliability</quote> and <quote>long-term reliability</quote> to be defined by the applicable regional reliability coordinator referred to in subsection (b)(2)(D).</text>
+ </subparagraph><subparagraph id="id2DF41D0B9D9E4FF5A98C76CF294B57FB"><enum>(D)</enum><text>A reasonable likelihood of prudent investment in, and adequate fuel supply for, existing and future electric capacity resources over the short- and long-term periods in the planning cycle identified in the applicable report submitted under subsection (b)(2).</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="id6C157412F5AA4AC6BA2E5F4A551BED4E"><enum>3.</enum><header>Activities carried out under an authorization during war or emergency</header><text display-inline="no-display-inline">Section 202(c) of the Federal Power Act (<external-xref legal-doc="usc" parsable-cite="usc/16/824a">16 U.S.C. 824a(c)</external-xref>) is amended—</text> <paragraph id="HD32B93C4A4014A6989FAA87812A6CE7B"><enum>(1)</enum><text>in the first sentence, by striking <quote>(c) During</quote> and inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id62465CD2D4D845EB87AF1F77768C826B" style="OLC">
+					<subsection id="id81FE136C9AF441CF9715A14FB343F930"><enum>(c)</enum><header>Authorization during war or emergency</header>
+ <paragraph id="idC71F0117E9BE47F58BF9E623B26AE666"><enum>(1)</enum><header>In general</header><text>During</text></paragraph></subsection><after-quoted-block>; and</after-quoted-block></quoted-block> </paragraph><paragraph commented="no" display-inline="no-display-inline" id="H504C241D6FDE4AF68C26ACEE80DAE9AA"><enum>(2)</enum><text>by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idCFC220D93F4B4BFA8FABBE043E85303B" style="OLC">
+ <paragraph commented="no" display-inline="no-display-inline" id="idF2C8B084A76C45588521955380977CAB"><enum>(2)</enum><header>No liability</header><text>Any person subject to an order issued under this subsection shall not be liable for actions carried out in compliance with the order.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

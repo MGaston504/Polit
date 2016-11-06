@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HADAF0F80F3874253AB987C6901AB12A3" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3292 IH: Medicare IME Pool Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3292</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150729">July 29, 2015</action-date>
+			<action-desc><sponsor name-id="B000755">Mr. Brady of Texas</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to revise Medicare payment for indirect medical
+			 education (IME) costs in teaching hospitals.</official-title>
+	</form>
+	<legis-body id="HEEF98092FEAF458D9F6D108ACD673483" style="OLC">
+ <section id="H68E421DB69D4461190007B0296DF7A65" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medicare IME Pool Act of 2015</short-title></quote>.</text> </section><section id="H494C09C7D7AE453995C66A7A35B9ACAA"><enum>2.</enum><header>Revision of Medicare payments for indirect medical education (IME) costs in teaching hospitals</header> <subsection id="H0B20BF6E3A0E43C29E18F1A192F78881"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1886 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww</external-xref>) is amended—</text>
+ <paragraph id="HE17518039A84465897B555A90C5B36B5"><enum>(1)</enum><text>in subsection (d)(5)(B)—</text> <subparagraph id="H7D1CADE049DC47D5811D91130B6B822B"><enum>(A)</enum><text>in the clause (x) added by section 5505(b) of the Patient Protection and Affordable Care Act—</text>
+ <clause id="HB639DDB306D34B258A94D777CE697554"><enum>(i)</enum><text>by moving the indentation of each provision in such clause 6 ems to the left; and</text> </clause><clause id="H91B6B0EA17C24AE5881B9D695B38E856"><enum>(ii)</enum><text>by redesignating such clause as clause (xi); and</text>
+ </clause></subparagraph><subparagraph id="H1AB02BCD6C534D1599CBFD5A0F4C3F18"><enum>(B)</enum><text>by adding at the end the following new clause:</text> <quoted-block display-inline="no-display-inline" id="H871FA13255914063868AA44D7F0E1685" style="traditional"> <clause id="H1BD8F1C87AA345EEB27C3EFCB2980B1D" indent="up3"><enum>(xii)</enum><text>With respect to discharges occurring in cost reporting periods ending during or after fiscal year 2019, instead of the additional payment that would have been paid under this subparagraph to a subsection (d) hospital or a subsection (d) Puerto Rico hospital with indirect costs of medical education and notwithstanding the previous provisions of this subparagraph, there shall be paid to the hospital the payment determined under subsection (t) for such hospital and cost reporting period.</text></clause><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="H132149AE2AD247C6B1147354DC533117"><enum>(2)</enum><text>by adding at the end the following new subsection:</text> <quoted-block display-inline="no-display-inline" id="H34E7D26A09674FFE9B7FEF0528017F7A" style="OLC"> <subsection id="H5199633F568C4C7D9DE2DC16AD970728"><enum>(t) </enum><header>Payment for indirect medical education</header> <paragraph id="HD333408479BA44CA99C9B572A23AE9A4"><enum>(1)</enum><header>In general</header> <subparagraph id="H54E12C7DB3F7491DA370E5E9D7572086"><enum>(A)</enum><header>Amount of payment</header><text>For purposes of subsection (d)(5)(B)(xii), the payment under this subsection for a subsection (d) hospital (or a subsection (d) Puerto Rico hospital) for a cost reporting period ending during or after fiscal year 2019 is the payment of an amount equal to the product of—</text>
+ <clause id="H5C4255250B614BD3967C4D6F709483F4"><enum>(i)</enum><text>the IME pool amount computed under paragraph (2) for the fiscal year; and</text> </clause><clause id="H566A7EC5346344818908934AEA54CEDF"><enum>(ii)</enum><text>the allotment factor under paragraph (3) for such cost reporting period and fiscal year.</text>
+ </clause></subparagraph><subparagraph id="H0AA20A8B4B9A4470A1406979ABFA8565"><enum>(B)</enum><header>Form of payment</header><text>Payments of amounts under this subsection shall be made from the Federal Hospital Insurance Trust Fund with respect to a cost reporting period in accordance with such timing as the Secretary determines is similar to the timing of additional payments that are made under subsection (h).</text>
+								</subparagraph></paragraph><paragraph id="H949D046C89A64F669297C2C87448B7EE"><enum>(2)</enum><header>IME pool amount</header>
+ <subparagraph id="H2277C996FDCC441E873E03B52957CE90"><enum>(A)</enum><header>In general</header><text>The IME pool amount under this paragraph—</text> <clause id="H1340CC11E9324728985A22903F48D88E"><enum>(i)</enum><text>for fiscal year 2019 is equal to the base amount computed under subparagraph (B); and</text>
+ </clause><clause id="HC6B6F9406C414032B27A95C023F08063"><enum>(ii)</enum><text display-inline="yes-display-inline">for a subsequent fiscal year is equal to the sum of—</text> <subclause id="H45570875C18B41EF9507CEA11FF0C156"><enum>(I)</enum><text>the IME pool amount under this paragraph for the previous fiscal year increased by the market basket percentage increase (as defined in subsection (b)(3)(B)(iii)) applicable to discharges occurring in such subsequent fiscal year; and</text>
+ </subclause><subclause id="H73CC86B07F2343B08715A5C85339F333"><enum>(II)</enum><text>the new teaching program amount computed under subparagraph (C) for the fiscal year.</text> </subclause></clause></subparagraph><subparagraph id="HDE6CDC00A72540B59727BEDFFBF07D2E"><enum>(B)</enum><header>Base amount</header><text>The base amount computed under this subparagraph is $9,500,000,000, increased by the sum, for each of fiscal years 2015 through 2019, of the product of—</text>
+ <clause id="HC9512BE96ABA420FBC31CD7CD5A0057C"><enum>(i)</enum><text>the weighted average number of full-time-equivalent resident positions in approved medical residency training programs (as determined under subsection (h)(4)) for which payment is first made under subsection (h) in the fiscal year; and</text>
+ </clause><clause id="H3BD73E17AD084013B8F36C7D2097C38F"><enum>(ii)</enum><text>the Secretary’s estimate of the national average expenditures per resident position that are attributable to additional payments under subsection (d)(5)(B) for discharges in such fiscal year.</text>
+ </clause></subparagraph><subparagraph id="HE2F42765A12C4ACBAB9DA69DDA986FC4"><enum>(C)</enum><header>Adjustment for new teaching programs</header><text display-inline="yes-display-inline">The new teaching program amount computed under this subparagraph for a fiscal year is equal to the product of—</text>
+ <clause id="HDC30E008AAF74D65B7B6575EB1F9905D"><enum>(i)</enum><text>the weighted average number of full-time-equivalent resident positions in approved medical residency training programs (as determined under subsection (h)(4)) for which payment is first made under subsection (h) in the fiscal year; and</text>
+ </clause><clause id="H7847B119AC824DDABEBD98B35F6856F8"><enum>(ii)</enum><text>the IME pool amount under this paragraph for the fiscal year (determined without regard to this subparagraph), divided by the average number of all full-time-equivalent resident positions in approved medical residency training programs (as determined under subsection (h)(4)) for which payment is made under subsection (h) in the fiscal year (as estimated by the Secretary).</text>
+ </clause></subparagraph></paragraph><paragraph id="HEFC2C4CAC0DC4C71A7E0CFEE7CF137CB"><enum>(3)</enum><header>Allotment based on FTE resident count</header><text display-inline="yes-display-inline">The allotment factor under this paragraph for a hospital eligible to receive payment under this subsection with respect to a cost reporting period ending in a fiscal year is equal to the ratio (as estimated by the Secretary) of—</text>
+ <subparagraph id="H38A2594678FE45E691605C50C6B14F30"><enum>(A)</enum><text>the weighted average number of full-time-equivalent residents for the hospital for the cost reporting period (as determined under subsection (h)(4)); to</text>
+ </subparagraph><subparagraph id="HE7B3FA66FE8D4E45BCAF5DE9C4C9C758"><enum>(B)</enum><text>the total of the weighted average numbers of full-time-equivalent residents, as determined under subparagraph (A), for all such hospitals for cost reporting periods ending in such fiscal year.</text>
+								</subparagraph><continuation-text continuation-text-level="paragraph">The Secretary shall make such adjustments in such allotment factor for subsequent cost reporting
+			 periods as the Secretary determines necessary to account for errors in the
+			 Secretary’s estimation of such allotment factor under this paragraph for
+			 previous cost reporting periods.</continuation-text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

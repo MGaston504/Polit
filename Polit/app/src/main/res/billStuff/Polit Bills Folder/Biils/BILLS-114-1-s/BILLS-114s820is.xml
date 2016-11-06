@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S820 IS: Child and Dependent Care Tax Credit Enhancement Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-03-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 820</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150319">March 19, 2015</action-date>
+			<action-desc><sponsor name-id="S309">Mr. Casey</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to enhance the Child and Dependent Care Tax Credit and
+			 make the credit fully refundable.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Child and Dependent Care Tax Credit Enhancement Act of 2015</short-title></quote>.</text>
+		</section><section id="id09F29F680F404C49A278AF9B7DCB9017"><enum>2.</enum><header>Enhancement of Child and Dependent Care Tax Credit</header>
+ <subsection id="id39659B72F2AC4A4FB95AE8AF444BBFC3"><enum>(a)</enum><header>In general</header><text>Paragraph (2) of <external-xref legal-doc="usc" parsable-cite="usc/26/21">section 21(a)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text> <quoted-block display-inline="no-display-inline" id="idE00053C33D774D21AB274C6932BFA500" style="OLC"> <paragraph id="id10D6AD9AABC14EE0AB7BC66332633AF2"><enum>(2)</enum><header>Applicable percentage</header><text>For purposes of paragraph (1), the term <term>applicable percentage</term> means—</text>
+ <subparagraph id="idA670F89EA30042B3AE3665444A6F9519"><enum>(A)</enum><text>in the case of employment-related expenses incurred for the care of a qualifying individual who has not attained 5 years of age before the close of the taxable year, 50-percent reduced (but not below 20 percent) by 1 percentage point for each $2,000 (or fraction thereof) by which the taxpayer's adjusted gross income for the taxable year exceeds $120,000, and</text>
+ </subparagraph><subparagraph id="idDD683F378B604471B692DEE2EDFD6CBE"><enum>(B)</enum><text>in the case of any employment-related expenses which are not described in subparagraph (A), 35-percent reduced (but not below 20 percent) by 1 percentage point for each $2,000 (or fraction thereof) by which the taxpayer's adjusted gross income for the taxable year exceeds $120,000.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id5F64F80E2EF04BBF858CF84E8D807271"><enum>(b)</enum><header>Increase in dollar limit on amount creditable</header><text>Paragraphs (1) and (2) of section 21(c) of such Code are amended to read as follows:</text> <quoted-block display-inline="no-display-inline" id="id918CEB895F174062B97671B74669E969" style="OLC"> <paragraph id="idD84948E5A7DE42B98C7E8B846A2D17AD"><enum>(1)</enum><text>in the case of 1 qualifying individual with respect to the taxpayer for such taxable year—</text>
+ <subparagraph id="id762B3265F70D45A793CA73BF89BA9729"><enum>(A)</enum><text>if such qualifying individual has attained 5 years of age before the close of the taxable year, $3,000, or</text>
+ </subparagraph><subparagraph id="id6E765C1F9CBB48609B64A785F7EA4E04"><enum>(B)</enum><text>if such qualifying individual has not attained 5 years of age before the close of the taxable year, $6,000, or</text>
+ </subparagraph></paragraph><paragraph id="idAD428583ABA1403F8545851878FBF392"><enum>(2)</enum><text>in the case of 2 or more qualifying individuals with respect to the taxpayer for such taxable year—</text> <subparagraph id="id2DC0DE8772C24653BDBC8DAF36C71E91"><enum>(A)</enum><text>if 1 of such qualifying individuals has not attained 5 years of age before the close of the taxable year, $9,000, or</text>
+ </subparagraph><subparagraph id="id81C24788DB0A45F69D6F08F779AD86D8"><enum>(B)</enum><text>if 2 or more of such qualifying individuals have not attained 5 years of age before the close of the taxable year, $12,000.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id03E345FF69D843DB80D8627602E5DDAA"><enum>(c)</enum><header>Adjustment for inflation</header><text>Section 21 of such Code is amended—</text> <paragraph id="id9804CA40B3C3414791B5ED42143BCF68"><enum>(1)</enum><text>by redesignating subsection (f) as subsection (g), and</text>
+ </paragraph><paragraph id="id5B828C161A6C4DB494C79B79D3CE55DF"><enum>(2)</enum><text>by inserting after subsection (e) the following new subsection:</text> <quoted-block display-inline="no-display-inline" id="id34002B19914D4CC09BD132D67A40A66B" style="OLC"> <subsection id="id6F88E99A33AB4E3BB9F8259331BA757A"><enum>(f)</enum><header>Inflation adjustment</header> <paragraph id="id6D4EC14DB4DC4108BAE44C3E9070003C"><enum>(1)</enum><header>In general</header><text>In the case of a calendar year beginning after 2016, the $120,000 dollar amounts in subparagraphs (A) and (B) of subsection (a)(2) and the dollar amounts in subsection (c) shall each be increased by an amount equal to—</text>
+ <subparagraph id="idE8048C9A7BDE4C2597AE898104B6D28D"><enum>(A)</enum><text>such dollar amount, multiplied by</text> </subparagraph><subparagraph id="idB3AF33FD8FA0447FBBF886EBBFA96F8D"><enum>(B)</enum><text>the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting <quote>calendar year 2015</quote> for <quote>calendar year 1992</quote> in subparagraph (B) thereof.</text>
+ </subparagraph></paragraph><paragraph id="id5447B8835CB7495B9BD663DEFB280E69"><enum>(2)</enum><header>Rounding</header><text>If any dollar amount, after being increased under paragraph (1), is not a multiple of $100, such dollar amount shall be rounded to the next lowest multiple of $100.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="H4D00A17821F14903BB9DDFFE87ACD7"><enum>(d)</enum><header>Credit To Be
+			 Refundable</header>
+				<paragraph id="H049EC5EEDA2A477F9514EFEF27599240"><enum>(1)</enum><header>In
+ general</header><text>The Internal Revenue Code of 1986 is amended—</text> <subparagraph id="idA54F3B79A539400FAA7EBC7E77557D09"><enum>(A)</enum><text>by redesignating section 21 as section 36C, and</text>
+ </subparagraph><subparagraph id="id9306D1E9BDBB488FA43C598986933997"><enum>(B)</enum><text>by moving section 36C, as so redesignated, from subpart A of part IV of subchapter A of chapter 1 to the location immediately before section 37 in subpart C of part IV of subchapter A of chapter 1.</text>
+					</subparagraph></paragraph><paragraph id="H64E026B40C2B45059102DF6CDEE0B603"><enum>(2)</enum><header>Technical
+			 amendments</header>
+ <subparagraph id="HDC1D50D314394EA792AF3977E85484B3"><enum>(A)</enum><text>Paragraph (1) of <external-xref legal-doc="usc" parsable-cite="usc/26/23">section 23(f)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>21(e)</quote> and inserting <quote>36C(e)</quote>.</text> </subparagraph><subparagraph id="H1C828062CC0C49E19400D75F62C0A530"><enum>(B)</enum><text display-inline="yes-display-inline">Paragraph (6) of section 35(g) of such Code is amended by striking <quote>21(e)</quote> and inserting <quote>36C(e)</quote>.</text>
+ </subparagraph><subparagraph id="H95C16A3CD5EF414AA1470149B9DD00F4"><enum>(C)</enum><text>Paragraph (1) of section 36C(a) of such Code (as redesignated by paragraph (1)) is amended by striking <quote>this chapter</quote> and inserting <quote>this subtitle</quote>.</text>
+ </subparagraph><subparagraph id="H7A6DDFAB94D447F5B264E7D4B44B25AF"><enum>(D)</enum><text>Subparagraph (C) of section 129(a)(2) of such Code is amended by striking <quote>section 21(e)</quote> and inserting <quote>section 36C(e)</quote>.</text>
+ </subparagraph><subparagraph id="H47475C1D9F404DCBBEBA32C024E28C8E"><enum>(E)</enum><text>Paragraph (2) of section 129(b) of such Code is amended by striking <quote>section 21(d)(2)</quote> and inserting <quote>section 36C(d)(2)</quote>.</text>
+ </subparagraph><subparagraph id="H4F3B06B5987B478687F9411C7553279D"><enum>(F)</enum><text>Paragraph (1) of section 129(e) of such Code is amended by striking <quote>section 21(b)(2)</quote> and inserting <quote>section 36C(b)(2)</quote>.</text>
+ </subparagraph><subparagraph id="HEFB38727BC4E4807BD236B3B2D2E4537"><enum>(G)</enum><text>Subsection (e) of section 213 of such Code is amended by striking <quote>section 21</quote> and inserting <quote>section 36C</quote>.</text>
+ </subparagraph><subparagraph id="H3B5ACD16D778488788223F215138D6FD"><enum>(H)</enum><text>Subparagraph (H) of section 6213(g)(2) of such Code is amended by striking <quote>section 21</quote> and inserting <quote>section 36C</quote>.</text>
+ </subparagraph><subparagraph id="H234BF26D3E47465EBE611DE816F698E3"><enum>(I)</enum><text>Subparagraph (L) of section 6213(g)(2) of such Code is amended by striking <quote>section 21, 24, or 32,</quote> and inserting <quote>section 24, 32, or 36C,</quote>.</text>
+ </subparagraph><subparagraph id="HE937CC62E6AC487088FF006884EDEAC4"><enum>(J)</enum><text>Paragraph (2) of section 1324(b) of title 31, United States Code, is amended by inserting <quote>36C,</quote> after <quote>36B,</quote>.</text>
+ </subparagraph><subparagraph id="HE2FBA615D3AC4624BAEFBBB8D14B6EB"><enum>(K)</enum><text>The table of sections for subpart C of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 36B the following:</text>
+						<quoted-block id="H90041C8C0E944AE58BC046EC1FCFDB97" style="OLC"><toc regeneration="no-regeneration"><toc-entry level="section">Sec. 36C. Expenses for household and
+				dependent care services necessary for gainful
+				employment.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subparagraph><subparagraph id="H0395F8FFAD6A4B51A31C451D5EE43718"><enum>(L)</enum><text>The table of sections for subpart A of such part IV is amended by striking the item relating to section 21.</text>
+ </subparagraph></paragraph></subsection><subsection id="idE9B47CD5A4444C09A104B48183010239"><enum>(e)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2015.</text> </subsection></section></legis-body> </bill> 
+

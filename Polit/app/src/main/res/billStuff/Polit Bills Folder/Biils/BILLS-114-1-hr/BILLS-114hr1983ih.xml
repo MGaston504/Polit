@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2F877587951C422E9B0CDB82788B59F6" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1983 IH: Social Security Protection and Truth in Budgeting Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1983</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150423">April 23, 2015</action-date>
+			<action-desc><sponsor name-id="D000191">Mr. DeFazio</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on the <committee-name committee-id="HBU00">Budget</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title II of the Social Security Act to ensure that the receipts and disbursements of the
+			 Social Security trust funds are not included in a unified Federal budget
+			 and to provide that Social Security contributions are used to protect
+			 Social Security solvency by mandating that Trust Fund monies cannot be
+			 diverted to create private accounts.</official-title>
+	</form>
+	<legis-body id="H01F12A2455394C8FB38C0721B82B91DB" style="OLC">
+ <section display-inline="no-display-inline" id="HE6C6CE9DB9D54A099F3294D335F9DC0C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Social Security Protection and Truth in Budgeting Act of 2015</short-title></quote>.</text> </section><section id="H96F4C5C1D3704DB2A992C828B9850D16"><enum>2.</enum><header>Exclusion of the Social Security trust funds from the unified Federal budget</header> <subsection display-inline="no-display-inline" id="HC1270907D3904562A63D2515937F57BF"><enum>(a)</enum><header>In general</header><text>Section 201 of the <act-name parsable-cite="SSA">Social Security Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/401">42 U.S.C. 401</external-xref>) is amended by adding at the end the following new subsection:</text>
+				<quoted-block act-name="Social Security Act" id="H57220E1CB3874427B1E57EFBE9BBB01C">
+					<subsection id="H933E78B473B6414481E16C98979C95D1"><enum>(o)</enum>
+ <paragraph commented="no" display-inline="yes-display-inline" id="H49355EB126E74501B5A113DBCB513613"><enum>(1)</enum><text>The receipts and disbursements of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund (including taxes upon which any such receipts are based)—</text>
+ <subparagraph id="HAC0864BFAD3F4C53A313D83F93A00EBB" indent="up1"><enum>(A)</enum><text>shall not be included in the Federal budget baseline for any fiscal year, and</text> </subparagraph><subparagraph id="H5F3F73F2BA374D9FB8424D17B116796A" indent="up1"><enum>(B)</enum><text>shall not be counted as new budget authority, outlays, receipts, or deficit or surplus for purposes of—</text>
+ <clause id="HF5AE20DE268C49658D70BC0E63F43744"><enum>(i)</enum><text>offsetting any tax decrease, or</text> </clause><clause id="H6731376ABA6C463E8B7EE0665FE122C9"><enum>(ii)</enum><text>offsetting any spending increase.</text>
+ </clause></subparagraph></paragraph><paragraph id="H0691C74C711A407C9C939DDE1BBC70DE" indent="up1"><enum>(2)</enum><text>Any official statement issued by the Office of Management and Budget or by the Congressional Budget Office of surplus or deficit totals of the budget of the United States Government as submitted by the President or of the surplus or deficit totals of the congressional budget, and any description of, or reference to, such totals in any official publication or material issued by either of such Offices, shall exclude the receipts and disbursements totals of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund (including taxes upon which any such receipts are based).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HA95AE257EEE64DEE8331CCE57973C402"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to fiscal years beginning on or after October 1, 2015.</text>
+ </subsection></section><section id="HCE3B6F9A258A4EA0A0477155EBCC9B66"><enum>3.</enum><header>Protection of social security solvency</header><text display-inline="no-display-inline">Those amounts, equal to taxes imposed under sections 1401 and 3101 of the Internal Revenue Code of 1986 and taxes imposed under chapter 1 of such Code to the extent attributable to section 86 of such Code, which are made available to the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund under the applicable provisions of law as in effect on the date of the enactment of this Act, shall be available solely for the purposes of the old-age, survivors, and disability insurance program under title II of the Social Security Act, as in effect on such date, and shall not be available for the establishment or funding of private accounts.</text>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC71D2F93A94B4B4FB5750EC41D7C6CEF" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3600 IH: To amend title 5, United States Code, to limit the instances in which official time may be granted to employees of the Internal Revenue Service, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3600</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150924">September 24, 2015</action-date>
+			<action-desc><sponsor name-id="H001065">Mr. Holding</sponsor> (for himself and <cosponsor name-id="R000580">Mr. Roskam</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 5, United States Code, to limit the instances in which official time may be granted
+			 to employees of the Internal Revenue Service, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H5523109BF1044CD48E177FDCF8E9B6A3" style="OLC">
+		<section id="H841649F81FC14F5A948CD0A614417E69" section-type="section-one"><enum>1.</enum><header>Limitation on official time for Internal Revenue Service employees</header>
+ <subsection id="H7E2D4623E4B743828D5BE8B9A46ED33E"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 7131 of title 5, United States Code, is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H31F80FA4AE1B4BC28C1F8E9F92CB5EE7" style="USC"> <subsection id="HA03520D5D6854A4A8B7D379F985ACC71"><enum>(e)</enum><text display-inline="yes-display-inline">The authority provided under subsection (d) shall not be available to the Internal Revenue Service.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H927C324D8A094327BA48B5464CDE047B"><enum>(b)</enum><header>Conforming amendment</header><text>Subsection (d) of section 7131 of title 5, United States Code, is amended by inserting <quote>and subsection (e)</quote> after <quote>preceding subsections</quote>.</text> </subsection><subsection id="H1DB0B4A0A08F49B5B453A876E71B1CF2"><enum>(c)</enum><header>Application</header><text>The amendments made by subsections (a) and (b) shall apply to any collective bargaining agreement entered into after the date of enactment of this section.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

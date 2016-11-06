@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H4BD7B1ECA5DF4016A1E4D1C2E4FDE08F"
+    public-private="public">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1953 IH: No Exemption for Washington from Obamacare Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code display="yes">I</distribution-code>
+        <congress>114th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>H. R. 1953</legis-num>
+        <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+        <action>
+            <action-date date="20150422">April 22, 2015</action-date>
+            <action-desc><sponsor name-id="D000621">Mr. DeSantis</sponsor> (for himself, <cosponsor
+                    name-id="B001294">Mr. Blum</cosponsor>, <cosponsor name-id="M001184">Mr.
+                    Massie</cosponsor>, <cosponsor name-id="R000598">Mr. Rothfus</cosponsor>,
+                    <cosponsor name-id="S000018">Mr. Salmon</cosponsor>, and <cosponsor
+                    name-id="M001182">Mr. Mulvaney</cosponsor>) introduced the following bill; which
+                was referred to the <committee-name committee-id="HGO00">Committee on Oversight and
+                    Government Reform</committee-name>, and in addition to the Committees on
+                    <committee-name committee-id="HHA00">House Administration</committee-name>,
+                    <committee-name committee-id="HWM00">Ways and Means</committee-name>, and
+                    <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a
+                period to be subsequently determined by the Speaker, in each case for consideration
+                of such provisions as fall within the jurisdiction of the committee
+                concerned</action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require members of Congress and congressional staff to abide by the
+            Patient Protection and Affordable Care Act with respect to health insurance coverage,
+            and for other purposes.</official-title>
+    </form>
+    <legis-body id="H0F5DFCF3FE5245D3AED67732D2376CCF" style="OLC">
+        <section id="H4173084D1C8B4974B1D09299FDCBCC28" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Exemption for Washington from Obamacare Act</short-title></quote>.</text>
+        </section>
+        <section id="H674B4E26C8C141DD82AE004E8F08C324">
+            <enum>2.</enum>
+            <header>Health insurance coverage for certain Congressional staff and members of the
+                executive branch</header>
+ <text display-inline="no-display-inline">Section 1312(d)(3)(D) of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18032">42 U.S.C. 18032(d)(3)(D)</external-xref>) is amended—</text>
+            <paragraph id="H738AB47B052E484088FAC1DF14AF47D0">
+                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">by striking the subparagraph heading and inserting the following:</text>
+                <quoted-block display-inline="no-display-inline"
+                    id="HFE565156565A45E2A9A7BF15B91CF3D8" style="OLC">
+                    <subparagraph id="H340DE021EE944E0680AD11AA3B75EDA5">
+                        <enum>(D)</enum>
+                        <header>Members of Congress, congressional staff, and political appointees
+                            in the exchange</header>
+                    </subparagraph>
+                    <after-quoted-block>;</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+            <paragraph id="H45F35813BC0D4A848569536D4E8B7493">
+                <enum>(2)</enum>
+ <text>in clause (I), in the matter preceding subclause (I)—</text> <subparagraph id="H64350BCC3200454FB6BA3D9C5D084312"> <enum>(A)</enum> <text>by striking <quote>and congressional staff with</quote> and inserting <quote>, congressional staff, the President, the Vice President, and political appointees with</quote>; and</text>
+                </subparagraph>
+                <subparagraph id="HA60D95EF192D456DA8AD1043F0B20BBF">
+                    <enum>(B)</enum>
+ <text>by striking <quote>or congressional staff shall</quote> and inserting <quote>, congressional staff, the President, the Vice President, or a political appointee shall</quote>;</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="H8662E3712FCD4E268DA0D5A87BB9FC22">
+                <enum>(3)</enum>
+ <text>in clause (ii)—</text> <subparagraph id="H119CCDFDBC834252A62FC409630793B0"> <enum>(A)</enum> <text>in subclause (II), by inserting after <quote>Congress,</quote> the following: <quote>of a committee of Congress, or of a leadership office of Congress,</quote>; and</text>
+                </subparagraph>
+                <subparagraph id="H509402A826A94DF8B581711E5ABBE035">
+                    <enum>(B)</enum>
+ <text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H426B22B9634B49CDB736DA84024E087A" style="OLC"> <subclause id="H4AA5D827C9074D8BB96872E42EFF0DE7"> <enum>(III)</enum> <header>Political appointee</header> <text>The term <term>political appointee</term> means any individual who—</text>
+                            <item id="H77A609301927432CB24C16EBBE044CF2">
+                                <enum>(aa)</enum>
+ <text>is employed in a position described under sections 5312 through 5316 of title 5, United States Code, (relating to the Executive Schedule);</text>
+                            </item>
+                            <item id="HAE32A1AB194841E1B55B64FBA1F1C0EF">
+                                <enum>(bb)</enum>
+ <text>is a limited term appointee, limited emergency appointee, or noncareer appointee in the Senior Executive Service, as defined under paragraphs (5), (6), and (7), respectively, of section 3132(a) of title 5, United States Code; or</text>
+                            </item>
+                            <item id="H8E8C9600391845FEA7067C66BD5F3EFC">
+                                <enum>(cc)</enum>
+ <text>is employed in a position in the executive branch of the Government of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5 of the Code of Federal Regulations.</text>
+                            </item>
+                        </subclause>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="H150D65034F394DE39CDF828344D094AC">
+                <enum>(4)</enum>
+ <text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H99CA38C1D367444A919A4C34CC207F98" style="OLC"> <clause id="H1A1D768C2C43413EB1DEE7A02E46C072"> <enum>(iii)</enum> <header>Government contribution</header> <text display-inline="yes-display-inline">No Government contribution under section 8906 of title 5, United States Code, shall be provided on behalf of an individual who is a Member of Congress, a congressional staff member, the President, the Vice President, or a political appointee for coverage under this paragraph.</text>
+                    </clause>
+                    <clause id="H7E8C6BDC532E4DA4880C8B6B8B62690A">
+                        <enum>(iv)</enum>
+                        <header>Limitation on amount of tax credit or cost-sharing</header>
+ <text display-inline="yes-display-inline">An individual enrolling in health insurance coverage pursuant to this paragraph shall not be eligible to receive a tax credit under <external-xref legal-doc="usc" parsable-cite="usc/26/36B">section 36B</external-xref> of the Internal Revenue Code of 1986 or reduced cost sharing under section 1402 of this Act in an amount that exceeds the total amount for which a similarly situated individual (who is not so enrolled) would be entitled to receive under such sections.</text>
+                    </clause>
+                    <clause id="H69C6EAFE5FE94D5999380ABEB83D31BF">
+                        <enum>(v)</enum>
+                        <header>Limitation on discretion for designation of staff</header>
+ <text>Notwithstanding any other provision of law, a Member of Congress shall not have discretion in determinations with respect to which employees employed by the office of such Member are eligible to enroll for coverage through an Exchange.</text>
+                    </clause>
+                    <clause id="H4B5FD5DA2D12421D9B404A42AC8A5ACB">
+                        <enum>(vi)</enum>
+                        <header>Clarification</header>
+ <text>The terms small employer (as defined under section 1304(b)(2)) and qualified employers (as defined under subsection (f)) do not include the Congress, with respect to enrollments in an Exchange and a SHOP Exchange.</text>
+                    </clause>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+
+

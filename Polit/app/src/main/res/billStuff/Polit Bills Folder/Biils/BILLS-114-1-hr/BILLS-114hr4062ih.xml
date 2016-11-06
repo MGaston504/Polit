@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H434837108B904D0BB6FAB199978FD2DA" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4062 IH: Protecting Seniors Access to Proper Care Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4062</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151118">November 18, 2015</action-date>
+			<action-desc><sponsor name-id="M001158">Mr. Marchant</sponsor> (for himself, <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>, <cosponsor name-id="B001273">Mrs. Black</cosponsor>, <cosponsor name-id="N000181">Mr. Nunes</cosponsor>, and <cosponsor name-id="T000460">Mr. Thompson of California</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to remove the enrollment restriction on certain
+			 physicians and practitioners prescribing covered outpatient drugs under
+			 the Medicare prescription drug program.</official-title>
+	</form>
+	<legis-body id="HD64818A00DEC4102AFB56F399E255D4D" style="OLC">
+ <section id="H34849AD581384EE0ACE11312CCBC50C6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Seniors Access to Proper Care Act of 2015</short-title></quote>.</text> </section><section id="H143385AFBC0C494B85E8A3E238B32327"><enum>2.</enum><header>Removing duplicative paperwork in permitting certain non-enrolled physicians or practitioners to prescribe covered outpatient drugs under Medicare part D</header><text display-inline="no-display-inline">Section 1860D–4 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-103">42 U.S.C. 1395w–103</external-xref>) is amended by adding at the end the following new subsection:</text>
+			<quoted-block display-inline="no-display-inline" id="HBC7C26F7672844B98EF2CD357850FCE3" style="OLC">
+ <subsection id="H868F8D49A53B4A088AD7D1336271286A"><enum>(m)</enum><header>Removal of enrollment restriction</header><text display-inline="yes-display-inline">Nothing in this title or section 6405(c) of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395f">42 U.S.C. 1395f</external-xref> note) shall be construed as requiring, as a condition of payment by a PDP sponsor for a covered part D drug prescribed by an individual who is a physician or who is a practitioner described in section 1842(b)(18)(C) and authorized under State law to prescribe such drug, that the individual be enrolled under section 1866(j) so long as—</text>
+ <paragraph id="HF92A00AD8EEF43E4953DBF774C30EF58"><enum>(1)</enum><text>the individual is not otherwise disqualified from being so enrolled; and</text> </paragraph><paragraph id="H58EC626378A442849F54A047C30BA6B6"><enum>(2)</enum> <subparagraph commented="no" display-inline="yes-display-inline" id="H041259C98C064E6F9A0247168DB6C7E9"><enum>(A)</enum><text>the individual is not a physician described in section 1861(r)(1); or</text>
+ </subparagraph><subparagraph id="HAF7F9EA5449F4B249DC59DE0C898A917" indent="up1"><enum>(B)</enum><text>the individual is such a physician and the individual’s practice prescribes a low-volume (as determined by the Secretary) of billings for such drugs under this part.</text>
+						</subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

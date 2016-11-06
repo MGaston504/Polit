@@ -1,0 +1,474 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA311D5ECBBFC4CEF83AFBBEB5FB1E835"
+    public-private="public" bill-type="olc">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1383 IH: Medicare Adult Day Services Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code display="yes">I</distribution-code>
+        <congress>114th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>H. R. 1383</legis-num>
+        <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+        <action>
+            <action-date date="20150316">March 16, 2015</action-date>
+            <action-desc><sponsor name-id="S001156">Ms. Linda T. Sánchez of California</sponsor>
+                (for herself, <cosponsor name-id="M001188">Ms. Meng</cosponsor>, <cosponsor
+                    name-id="C001090">Mr. Cartwright</cosponsor>, <cosponsor name-id="F000462">Ms.
+                    Frankel of Florida</cosponsor>, <cosponsor name-id="L000579">Mr.
+                    Lowenthal</cosponsor>, <cosponsor name-id="C001068">Mr. Cohen</cosponsor>,
+                    <cosponsor name-id="L000580">Ms. Michelle Lujan Grisham of New
+                    Mexico</cosponsor>, <cosponsor name-id="R000486">Ms. Roybal-Allard</cosponsor>,
+                    <cosponsor name-id="C001067">Ms. Clarke of New York</cosponsor>, <cosponsor
+                    name-id="S001145">Ms. Schakowsky</cosponsor>, <cosponsor name-id="N000147">Ms.
+                    Norton</cosponsor>, and <cosponsor name-id="C000714">Mr. Conyers</cosponsor>)
+                introduced the following bill; which was referred to the <committee-name
+                    committee-id="HWM00">Committee on Ways and Means</committee-name>, and in
+                addition to the Committee on <committee-name committee-id="HIF00">Energy and
+                    Commerce</committee-name>, for a period to be subsequently determined by the
+                Speaker, in each case for consideration of such provisions as fall within the
+                jurisdiction of the committee concerned</action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title XVIII of the Social Security Act to provide for coverage of
+            certified adult day services under the Medicare program, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body id="HF09249636EA84CE7891CC722C8135756" style="OLC">
+        <section id="H0374940D7FF84E3EAE2C4F0230D1C5C7" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medicare Adult Day Services Act of 2015</short-title></quote>.</text>
+        </section>
+        <section id="HC4E7056495F44546B3BFEDE37DCF7BF3">
+            <enum>2.</enum>
+            <header>Findings</header>
+ <text display-inline="no-display-inline">Congress makes the following findings:</text> <paragraph id="HCFF532FDDDCF4861B620D8C368902276"> <enum>(1)</enum> <text>Adult day care can offer services, including medical care, rehabilitation therapies, dignified assistance with activities of daily living, nutrition therapy, health monitoring, social interaction, stimulating activities, and transportation, to seniors and people with disabilities at no extra cost to the Medicare program.</text>
+            </paragraph>
+            <paragraph id="H3B0EC89E39B94B7296FFB122F9DB3269">
+                <enum>(2)</enum>
+ <text>The care given at adult day services centers under an interdisciplinary team provides seniors, people with disabilities, and their familial caregivers with more care hours and additional services that are critical to keeping patients healthier and in the homes of the patients instead of in a nursing home, and reduces the risk of hospital admission or readmission.</text>
+            </paragraph>
+        </section>
+        <section id="H6BB211E2623F4EB68BD57912CB0B7273">
+            <enum>3.</enum>
+            <header>Medicare coverage of certified adult day services</header>
+            <subsection id="H6E6C7BA289C64922BAECC75A5D99F210">
+                <enum>(a)</enum>
+                <header>Medicare certified adult day services benefit</header>
+                <paragraph commented="no" id="H18A4884FDE1A4266BD28F38854D00BD9">
+                    <enum>(1)</enum>
+                    <header>Definition</header>
+ <text>Section 1861 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x</external-xref>) is amended by adding at the end the following new subsection:</text>
+                    <quoted-block style="other" id="HC0CA5588720D48A1AC814431EBC81475"
+                        display-inline="no-display-inline" other-style="archaic">
+                        <subsection id="H465B287B6DEA4A0F9079150EEDE8EAE9">
+                            <enum>(iii)</enum>
+                            <header>Certified adult day services; adult day services provider;
+                                certified adult day services center; post-Institutional certified
+                                adult day services; certified adult day services spell of
+                                illness</header>
+                            <paragraph commented="no" display-inline="yes-display-inline"
+                                id="HD5EA3C99ACD5496F9DB9052DF8E32CF3">
+                                <enum>(1)</enum>
+                                <subparagraph commented="no" display-inline="yes-display-inline"
+                                    id="H97377676825544C5B67733DB648F7B76">
+                                    <enum>(A)</enum>
+ <text>The term <term>certified adult day services</term> means, subject to paragraph (4), the items and services described in subparagraph (B) that are furnished to an individual who is under the care of a physician—</text>
+                                    <clause commented="no" id="HB23670CBDD1A4FEEB7C3D59C97E3E1AF"
+                                        indent="up2">
+                                        <enum>(i)</enum>
+ <text>by an adult day services provider (as defined in paragraph (2)) or by another entity under an arrangement with such an adult day services provider to provide such services;</text>
+                                    </clause>
+                                    <clause commented="no" id="H09775C0394214951920C7C7117A2889C"
+                                        indent="up2">
+                                        <enum>(ii)</enum>
+ <text>in accordance with a plan (for furnishing such items and services to such individual) approved and periodically reviewed by such physician; and</text>
+                                    </clause>
+                                    <clause commented="no" id="H42F859948CE44188813817C84797805C"
+                                        indent="up2">
+                                        <enum>(iii)</enum>
+ <text>in a certified adult day services center (as defined in paragraph (3)).</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph commented="no" id="H5E2F28C1E95343EBA968ACE8E09F291E"
+                                    indent="up2">
+                                    <enum>(B)</enum>
+ <text>For purposes of subparagraph (A), the items and services described in this subparagraph are the following:</text>
+                                    <clause commented="no" id="H829C9EE7B49D4A70BE23E11954E4E510">
+                                        <enum>(i)</enum>
+ <text>Part-time or intermittent services (as defined in subparagraph (C)(i)) provided by or under the supervision of a registered professional nurse.</text>
+                                    </clause>
+                                    <clause commented="no" id="HBA34765E052B453E84A14267A850F376">
+                                        <enum>(ii)</enum>
+ <text>Physical or occupational therapy or speech-language pathology services, or any combination of such services.</text>
+                                    </clause>
+                                    <clause commented="no" id="H5F7A27B85DA7467EA0C3BD2C5C371105">
+                                        <enum>(iii)</enum>
+ <text>Medical social services under the direction of a physician.</text>
+                                    </clause>
+                                    <clause commented="no" id="HA3AFAD06057945D580CDAB8A3718E6FE">
+                                        <enum>(iv)</enum>
+ <text>Nutritional meals, including special diets, as ordered by a physician.</text>
+                                    </clause>
+                                    <clause commented="no" id="H64270409FFE74A2DBD812FBACBE0A76B">
+                                        <enum>(v)</enum>
+ <text>A program of supervised activities (that meets such criteria as the Secretary determines appropriate) designed to promote physical and mental health that are furnished in a group setting for a period of not fewer than 4 and not greater than 8 hours per day.</text>
+                                    </clause>
+                                    <clause commented="no" id="HF8C1E69CD8A24F8BABA3A19B48CE0DA0">
+                                        <enum>(vi)</enum>
+ <text>A medication management program (as defined in subparagraph (C)(ii)).</text>
+                                    </clause>
+                                    <clause commented="no" id="HF93FA17EFC3E406B9127A7DBDCF35C25">
+                                        <enum>(vii)</enum>
+ <text>Medical supplies (including catheters, catheter supplies, ostomy bags, and supplies related to ostomy care, and a covered osteoporosis drug (as defined in subsection (kk)), but excluding other drugs and biologicals) and durable medical equipment.</text>
+                                    </clause>
+                                    <clause commented="no" id="H9934AB76DF434B00B56A941B64EE7776">
+                                        <enum>(viii)</enum>
+ <text>Transportation of the individual described in subparagraph (A) to and from a certified adult day services center in connection with the provision of an item or service described in a previous provision of this subparagraph.</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph commented="no" id="H8CE9B080B0784F0A8B0B827ED8A14277"
+                                    indent="up2">
+                                    <enum>(C)</enum>
+                                    <clause commented="no" display-inline="yes-display-inline"
+                                        id="H24456A72E1BA4FE7BF57D6A4F521375C">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">For purposes of subparagraph (B)(i), the term <term>part-time or intermittent services</term> means certified adult day services furnished any number of days per week as long as such services are furnished fewer than 8 hours each day. For purposes of sections 1814(a)(2)(C) and 1835(a)(2)(A), insofar as such respective section relates to certified adult day services, <term>intermittent</term> means certified adult day services that are either provided or needed on fewer than 7 days each week, or less than 8 hours of each day for periods of 21 days or less (with extensions in exceptional circumstances when the need for additional care is finite and predictable).</text>
+                                    </clause>
+                                    <clause id="HE495550C08984E04B4C91F96DA8E2E72" indent="up1">
+                                        <enum>(ii)</enum>
+ <text>For purposes of subparagraph (B)(vi), the term <term>medication management program</term> means a program of education and services (that meets such criteria as the Secretary determines appropriate) to minimize—</text>
+                                        <subclause commented="no"
+                                            id="H0835B7713D6343F08C6465C7351923B9">
+                                            <enum>(I)</enum>
+ <text>unnecessary or inappropriate use of prescription drugs; and</text>
+                                        </subclause>
+                                        <subclause commented="no"
+                                            id="H6B8821ED735D45DCBE397797858BBC5D">
+                                            <enum>(II)</enum>
+ <text>adverse events due to unintended prescription drug-to-drug interactions.</text>
+                                        </subclause>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HD3402D65001D43E887D6E259D9824628" indent="up1">
+                                <enum>(2)</enum>
+ <text>The term <term>adult day services provider</term> means a provider of home and community-based services that is approved in the applicable State to provide long-term services and supports, which may include nursing care, physical therapy, occupational therapy, social work services, transportation, and personal care services.</text>
+                            </paragraph>
+                            <paragraph commented="no" id="H2F0E60B1EA304E79BE7650E69ADE78AD"
+                                indent="up1">
+                                <enum>(3)</enum>
+ <text>The term <term>certified adult day services center</term> means a facility—</text>
+                                <subparagraph id="H8E628BA32C20427F96435D568BDB1B2C">
+                                    <enum>(A)</enum>
+ <text>of a public agency or private organization, or a subdivision of such an agency or organization, that—</text>
+                                    <clause commented="no" id="H3F3B27A778F74C4DBB8619C5633F9CD3">
+                                        <enum>(i)</enum>
+ <text>is primarily engaged in providing an interdisciplinary approach that includes skilled nursing services and other therapeutic services directly;</text>
+                                    </clause>
+                                    <clause id="H65656D77888F4DCE8967D9BB51F78B43">
+                                        <enum>(ii)</enum>
+ <text>has policies, established by a group of professional personnel (associated with the agency or organization), including one or more physicians and one or more registered professional nurses, to govern the services (referred to in subparagraph (A)) which it provides, and provides for supervision of such services;</text>
+                                    </clause>
+                                    <clause id="HED24CFB6D1F94E67A20A47FFB8E26571">
+                                        <enum>(iii)</enum>
+ <text>maintains clinical records on all patients;</text> </clause> <clause id="H89CBE68BC1AB41D8911D17F0926D3162"> <enum>(iv)</enum> <text>in the case of an agency or organization in any State in which State or applicable local law provides for the licensing or certification of agencies or organizations of this nature, (i) is licensed or certified pursuant to such law, or (ii) is approved, by the agency of such State or locality responsible for licensing or certifying agencies or organizations of this nature, as meeting the standards established for such licensing or certification;</text>
+                                    </clause>
+                                    <clause commented="no" id="H2FFA036E345241579460A649ED3953E4">
+                                        <enum>(v)</enum>
+ <text>is licensed or certified by the State involved or accredited as meeting requirements, including under section 1865, through a nationally recognized accrediting agency that is recognized by the Secretary;</text>
+                                    </clause>
+                                    <clause id="HEDB63CAA75E94A73BDB93290A264F27C">
+                                        <enum>(vi)</enum>
+ <text>has in effect an overall plan and budget that meets the requirements of subsection (z);</text>
+                                    </clause>
+                                    <clause id="H4E8D82AB5CB24C159B5107FA7EFE2F4E">
+                                        <enum>(vii)</enum>
+ <text>meets applicable conditions of participation under section 1891(a) (or similar conditions specified by the Secretary as applicable to such an agency or organization) and such other conditions of participation as the Secretary may find necessary in the interest of the health and safety of individuals who are furnished services by such agency or organization; and</text>
+                                    </clause>
+                                    <clause id="H55CB2A1DFB4348DC94B2CC0A91530229">
+                                        <enum>(viii)</enum>
+ <text>meets such additional requirements (including conditions relating to bonding or establishing of escrow accounts as the Secretary finds necessary for the financial security of the program) as the Secretary finds necessary for the effective and efficient operation of the program;</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="H6E23B12625C146E8B3913FA2E49A6EF1">
+                                    <enum>(B)</enum>
+ <text>at which such agency or organization provides for items and services described in paragraph (1)(B); and</text>
+                                </subparagraph>
+                                <subparagraph id="HD3815D9CC4314970BBA56771DAAF6B2A">
+                                    <enum>(C)</enum>
+ <text>that complies with all applicable State and local building codes, fire codes, zoning laws, and State licensing building standards that apply to a State licensed or certified or nationally accredited adult day center, and in States where there are no State licensing building standards for adult day centers, building standards based on the standards adopted by a nationally recognized accrediting agency that is recognized by the Secretary and applies to such a center standards that are comparable to the requirements applied to a skilled nursing facility pursuant to section 1819(d)(2)(B).</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HDFCC2B42B1304E6EA817C0C7106F9B06" indent="up1">
+                                <enum>(4)</enum>
+ <text>For purposes of paragraph (1)(A), an item or service furnished to an individual, with respect to a period, shall not be considered an adult day service if—</text>
+                                <subparagraph id="HD2BC59D990B44CA095494F1483AC6357">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the individual is—</text>
+                                    <clause id="HB83E71B00DFF4F47A304331425A4A004">
+                                        <enum>(i)</enum>
+ <text>concurrently receiving similar skilled services under a State plan under section 1905(a) or under a home and community-based waiver authorized for a State under section 1115, under subsection (c) or (d) of section 1915, under a State plan amendment under subsection (i) of section 1915, or under section 1902(a)(10)(D); and</text>
+                                    </clause>
+                                    <clause id="H6970BB3CC2A447588583DF72C9FD2CEA">
+                                        <enum>(ii)</enum>
+ <text>receiving such item or service during such period under such State plan, waiver, amendment, or respective section; or</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="H1420D34D981745A284EF16C1D4B6FFDF">
+                                    <enum>(B)</enum>
+ <text>the individual is receiving such item or service during such period pursuant to a plan of care from a home health agency under section 1861(m).</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" id="H7EB8E0584161459585F4B72F4B6EFE6F"
+                                indent="up1">
+                                <enum>(5)</enum>
+ <text>Nothing in this subsection shall be construed as prohibiting a home health agency from—</text>
+                                <subparagraph commented="no" id="HB932E973D4A04FDA863906A9D1B04446">
+                                    <enum>(A)</enum>
+ <text>establishing a State licensed or certified or nationally accredited certified adult day services center and furnishing certified adult day services; or</text>
+                                </subparagraph>
+                                <subparagraph commented="no" id="H5A8826F4D91F4D5BAD21182C72B837C5">
+                                    <enum>(B)</enum>
+ <text>providing services under arrangements with such a center.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HF09A22882CFE42329BAA4C6FC865ED82" indent="up1">
+                                <enum>(6)</enum>
+ <text>The term <term>post-institutional certified adult day services</term> means certified adult day services furnished to an individual—</text>
+                                <subparagraph id="H7F20A93DF22D4A9181DB2D609123AD8B">
+                                    <enum>(A)</enum>
+ <text>after discharge from a hospital or critical access hospital in which the individual was an inpatient for not less than 3 consecutive days before such discharge if such certified adult day services were initiated within 14 days after the date of such discharge; or</text>
+                                </subparagraph>
+                                <subparagraph id="HC46AD40F4D2549A5B739737CE29962DE">
+                                    <enum>(B)</enum>
+ <text>after discharge from a skilled nursing facility in which the individual was provided post-hospital extended care services if such certified adult day services were initiated within 14 days after the date of such discharge.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HE9C04C161CFF4589B701031D0A29C853" indent="up1">
+                                <enum>(7)</enum>
+ <text>The term <term>certified adult day services spell of illness</term> with respect to any individual means a period of consecutive days—</text>
+                                <subparagraph id="H2C223D0830AC44BA90F6B493D8E2D59F">
+                                    <enum>(A)</enum>
+ <text>beginning with the first day (not included in a previous certified adult day services spell of illness)—</text>
+                                    <clause id="H5BF434E745E44F79867A11D0F5225A11">
+                                        <enum>(i)</enum>
+ <text>on which such individual is furnished post-institutional certified adult day services; and</text>
+                                    </clause>
+                                    <clause id="H597EF2DC08EE421985DF002C3AFF752E">
+                                        <enum>(ii)</enum>
+ <text>which occurs in a month for which the individual is entitled to benefits under part A; and</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="HF1A150479BE4472A831CD6441C03C70F">
+                                    <enum>(B)</enum>
+ <text>ending with the close of the first period of 60 consecutive days thereafter on each of which the individual is neither an inpatient of a hospital or critical access hospital nor an inpatient of a facility described in section 1819(a)(1) or subsection (y)(1) nor provided home health services or certified adult day services.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="H3DFA49127E3E486CB2544B638B05B04C">
+                    <enum>(2)</enum>
+                    <header>Inclusion under part B benefit</header>
+ <text>Section 1832(a)(2) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395k">42 U.S.C. 1395k(a)(2)</external-xref>) is amended—</text>
+                    <subparagraph id="H0427BB9950B24D6090C9B4FA3E55545D">
+                        <enum>(A)</enum>
+ <text>in subparagraph (I), by striking at the end <quote>and</quote>;</text> </subparagraph> <subparagraph id="H3362505483134877B54A0E28BA4A2ABE"> <enum>(B)</enum> <text>in subparagraph (J), by striking at the end the period and inserting <quote>; and</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="H63491B2E664549B48965A3C970765D18">
+                        <enum>(C)</enum>
+ <text>by adding at the end the following new subparagraph:</text> <quoted-block display-inline="no-display-inline" id="HA1F6637CF1094289B951AB9C6F47522F" style="OLC"> <subparagraph id="H685FC034841F4C12A1DA36A57C5ECE71"> <enum>(K)</enum> <text display-inline="yes-display-inline">certified adult day services (as defined in section 1861(iii)(1)(A)).</text>
+                            </subparagraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H3D776E1B14E4427D997FBBA16A13852D">
+                    <enum>(3)</enum>
+                    <header>Inclusion under part A benefit</header>
+ <text>Section 1812(a) of the Social Security Act is amended—</text> <subparagraph commented="no" id="HE2B320478758465BBBAE220EC9C3D709"> <enum>(A)</enum> <text>in paragraph (4), by striking at the end <quote>and</quote>;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" id="H227741B7CCB24EBE864DB3A23DAADD06">
+                        <enum>(B)</enum>
+ <text>in paragraph (5), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" id="H4ED7E94F226C4663A3FEBCD604E13AE1">
+                        <enum>(C)</enum>
+ <text>by adding at the end the following new paragraph:</text> <quoted-block display-inline="no-display-inline" id="H8760A235541D477F8D80E2F9117BC0DB" style="OLC"> <paragraph commented="no" id="H0614CBFBB68D4563BFD461D6CD5F39BB"> <enum>(6)</enum> <text display-inline="yes-display-inline">in the case of individuals not enrolled in part B, certified adult day services (as defined in paragraph (1)(A) of section 1861(iii)), and in the case of individuals so enrolled, post-institutional certified adult day services (as defined in paragraph (6) of such section) furnished during a certified adult day services spell of illness (as defined in paragraph (7) of such section) for up to 100 visits during such spell of illness.</text>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="H3C6F8E5D5E5E427C857E6083E9B661E8">
+                <enum>(b)</enum>
+                <header>Payment of claims requirements for home health services applied to certified
+                    adult day services</header>
+                <paragraph id="HE7B6266D6C7D47DAB448327EC8A4B335">
+                    <enum>(1)</enum>
+                    <header>Part A</header>
+ <text>Section 1814(a)(2)(C) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395f">42 U.S.C. 1395f(a)(2)(C)</external-xref>) is amended by inserting <quote>or certified adult day services</quote> after each occurrence of <quote>home health services</quote>.</text>
+                </paragraph>
+                <paragraph commented="no" id="H734EBCA54D91424D8FAEA008EA46D221">
+                    <enum>(2)</enum>
+                    <header>Part B</header>
+ <text>Section 1835(a)(2)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395n">42 U.S.C. 1395n(a)(2)(A)</external-xref>) is amended—</text>
+                    <subparagraph commented="no" id="HE7ABD06204404ABB95F710F715A88939">
+                        <enum>(A)</enum>
+ <text>in the matter preceding clause (i), by inserting <quote>or certified adult day services (as defined in section 1861(iii)(1)(A))</quote> after <quote>home health services</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" id="H873E208D893C41E58CFA88DA19CFFC48">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">in clause (i), by inserting <quote>or certified adult day services</quote> after <quote>home health services</quote>.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="H42CED1E6E8BF47919EA5E7AF89DFE7BF">
+                <enum>(c)</enum>
+                <header>Conforming amendments</header>
+                <paragraph id="H53480D14701949A4B5F68A6A55DFAEB4">
+                    <enum>(1)</enum>
+                    <header>Interaction with coverage of home health services</header>
+ <text>Section 1861(m) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x(m)</external-xref>) is amended by adding at the end the following new sentence: <quote>An individual described in this subsection, with respect to home health services furnished during a period, shall not include an individual who is receiving comparable certified adult day services (as defined in section 1861(iii)(1)) during such period</quote>.</text>
+                </paragraph>
+                <paragraph id="HFF3D145293874854ADFF0956726AD4DE">
+                    <enum>(2)</enum>
+                    <header>Intermittent services</header>
+ <text display-inline="yes-display-inline">Section 1861(m) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x(m)</external-xref>) is amended in the last sentence by inserting <quote>insofar as such respective section relates to home health services,</quote> after <quote>section 1835(a)(2)(A),</quote>.</text>
+                </paragraph>
+                <paragraph id="H8FB86DD875FA428BB3113B9A3E9FDA75">
+                    <enum>(3)</enum>
+                    <header>Institutional planning requirement</header>
+ <text>Section 1861(z) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x(z)</external-xref>) is amended in the matter preceding paragraph (1), by striking <quote>or home health agency</quote> and inserting <quote>home health agency, or certified adult day services center</quote>.</text>
+                </paragraph>
+                <paragraph id="H03B909399ED846D59E3B95C149E96318">
+                    <enum>(4)</enum>
+                    <header>Inclusion as provider of services</header>
+ <text display-inline="yes-display-inline">Section 1861(u) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x(u)</external-xref>) is amended by inserting <quote>certified adult day services center,</quote> after <quote>home health agency,</quote>.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="HEB125B54147A4A7F85754D37AAEBD0DF">
+                <enum>(d)</enum>
+                <header>Payment for certified adult day services under the home health prospective
+                    payment system</header>
+ <text>Section 1895 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395fff">42 U.S.C. 1395fff</external-xref>) is amended by adding at the end the following new subsection:</text>
+                <quoted-block id="HBC45AFB6589E40718141D1E4D673C5A4" style="OLC">
+                    <subsection id="HDF7BC37525BB4D11A0D9E7231721E624">
+                        <enum>(f)</enum>
+                        <header>Application of home health prospective payment system to certified
+                            adult day services</header>
+                        <paragraph id="H5084BA3AEC2E41F9A16FADA3450288BB">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">The Secretary shall, in accordance with this subsection, develop a methodology under which the fee schedule and provisions under this section shall apply to certified adult day services (as defined in section 1861(iii)(1)) in a similar manner to which such schedule and provisions apply to home health services.</text>
+                        </paragraph>
+                        <paragraph id="H772154BEF4AB4E01AAD4489FA1431111">
+                            <enum>(2)</enum>
+                            <header>Payment rate determination and limitations</header>
+ <text display-inline="yes-display-inline">Under such methodology, the following shall apply, with respect to certified adult day services furnished to an individual during a period specified by the Secretary under a plan of care established under section 1861(iii) for which payment may be made under this title:</text>
+                            <subparagraph id="H4327DCD344D84037A4C638C4611E980E">
+                                <enum>(A)</enum>
+                                <header>Determination of components</header>
+ <text>The Secretary shall determine each component (as defined by the Secretary) of such certified adult day services.</text>
+                            </subparagraph>
+                            <subparagraph id="H9BBECED4025247F69244D54A2DA6BCC4">
+                                <enum>(B)</enum>
+                                <header>Estimation of payment amount</header>
+ <text>The Secretary shall estimate the amount that would otherwise be payable under this section for the components of services determined under subparagraph (A) if such services were furnished by a home health agency (or, if such component or service would not otherwise be so payable under this section if so furnished, the amount that would be payable under this section for a comparable home health service furnished by a home health agency) during such period.</text>
+                            </subparagraph>
+                            <subparagraph id="H59B8046AA51345D9A1247055977C4D10">
+                                <enum>(C)</enum>
+                                <header>Amount of payment</header>
+ <text>The total amount payable under this section for such certified adult day services furnished to such individual during such period shall be 98 percent of the amount estimated to be payable for such services (or comparable services) under subparagraph (B) for such period.</text>
+                            </subparagraph>
+                            <subparagraph id="HF193FBB47EA543A1B27B2D79493752DE">
+                                <enum>(D)</enum>
+                                <header>Limitation</header>
+ <text>No payment may be made under this section for certified adult day services described in clauses (iv) through (vi) and (ix) of section 1861(iii)(1)(A).</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="H44B0F397213146609E20A15883BAB380">
+                            <enum>(3)</enum>
+                            <header>Limitation on balance billing</header>
+ <text>A certified adult day services center shall accept as payment in full for certified adult day services described in clauses (i) through (iii), (vii) through (viii), and (x) through (xii) of section 1861(iii)(1)(A) furnished by the center to an individual entitled to benefits under this title the amount of payment provided under this section for home health services consisting of items and services described in such respective clauses.</text>
+                        </paragraph>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H99A6A78985AE4695BEFFE9FE0291F23C">
+                <enum>(e)</enum>
+                <header>Consolidated billing</header>
+ <text>Section 1862(a) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395y">42 U.S.C. 1395y(a)</external-xref>) is amended—</text>
+                <paragraph id="H5CBC2FA6DC6F439F82350298D92E3277">
+                    <enum>(1)</enum>
+ <text>by striking <quote><short-title>or</short-title></quote> at the end of paragraph (24);</text>
+                </paragraph>
+                <paragraph id="HE7C1F677E08049AFAC0CD53943C80AC6">
+                    <enum>(2)</enum>
+ <text>by striking the period at the end of paragraph (25) and inserting, <quote>or</quote>; and</text>
+                </paragraph>
+                <paragraph id="H86A2A59A8E04452A8BE5F63BA314B809">
+                    <enum>(3)</enum>
+ <text>by inserting after paragraph (25) the following new paragraph:</text> <quoted-block display-inline="no-display-inline" id="HB9FEB84543124364A93CA42797142BFA" style="OLC"> <paragraph id="HF7EE2DF47E58423B95A6AC6EAF7DB10B"> <enum>(26)</enum> <text display-inline="yes-display-inline">which are certified adult day services for which payment may be made under section 1895(f) and which are furnished to an individual by a State licensed or certified or nationally accredited certified adult day services center pursuant to a plan of care established under section 1861(iii) with respect to such services, by an entity other than such facility, unless the services are furnished under arrangements (as defined in section 1861(w)(1)) with the entity made by such facility.</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="HEC040049472D412BA2165D275E684A93">
+                <enum>(f)</enum>
+                <header>Temporary increase for certified adult day services furnished in a rural
+                    area</header>
+                <paragraph id="H33485738033741FCA773A918E1D3146A">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>With respect to episodes and visits ending on or after January 1, 2016, and before January 1, 2018, in the case of certified adult day services (as defined in section 1861(iii)(1)(A) of the Social Security Act, as added by subsection (a)), furnished in a rural area (as defined in section 1886(d)(2)(D) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww(d)(2)(D)</external-xref>)), the Secretary of Health and Human Services shall increase the payment amount otherwise made under section 1895 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395fff">42 U.S.C. 1395fff</external-xref>) for such services by 3 percent.</text>
+                </paragraph>
+                <paragraph id="HA733C4054CDD4F5CB1C97CB8A388B94E">
+                    <enum>(2)</enum>
+                    <header>Waiving budget neutrality</header>
+ <text>The Secretary shall not reduce the standard prospective payment amount (or amounts) under section 1895 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395fff">42 U.S.C. 1395fff</external-xref>) applicable to such certified adult day services furnished during a period to offset the increase in payments resulting from the application of paragraph (1).</text>
+                </paragraph>
+                <paragraph id="H693B2B5E8ECB45089EBE4CAFB573DCD8">
+                    <enum>(3)</enum>
+                    <header>No effect on subsequent periods</header>
+ <text>The payment increase provided under paragraph (1) for a period under such paragraph—</text>
+                    <subparagraph id="H180B0B520C67414980EB9C4ED35E40E5">
+                        <enum>(A)</enum>
+ <text>shall not apply to episodes and visits ending after such period; and</text>
+                    </subparagraph>
+                    <subparagraph id="H2AD19521680F43C089DF23956F41D405">
+                        <enum>(B)</enum>
+ <text>shall not be taken into account in calculating the payment amounts applicable for episodes and visits occurring after such period.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="H1B3378E433D342669A24AFD82FC18D2C">
+                <enum>(g)</enum>
+                <header>Adult day services provider technical assistance</header>
+ <text>In order to facilitate the development of certified adult day services under title XVIII of the Social Security Act, the Secretary of Health and Human Services shall, as deemed necessary by the Secretary, provide adult day services providers (as defined in section 1861(iii)(2) of such Act) with technical assistance, consultation, tools, and other resources to assist them with the application process and implementation of certified adult day services (as defined in such section).</text>
+            </subsection>
+            <subsection id="HD9AB482E946E4D78A8DBC4827B7A61C1">
+                <enum>(h)</enum>
+                <header>Effective date</header>
+ <text>The amendments made by this section shall apply to items and services furnished on or after January 1, 2016.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
+

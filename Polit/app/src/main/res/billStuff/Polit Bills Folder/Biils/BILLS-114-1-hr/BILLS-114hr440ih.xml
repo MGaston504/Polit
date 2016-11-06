@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3BA0518A0A3C42DB8100E5918C21D2F7" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 440 IH: Helping Individuals Regain Employment Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 440</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150121">January 21, 2015</action-date> 
+<action-desc><sponsor name-id="B001255">Mr. Boustany</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To ensure that long-term unemployed individuals are not taken into account for purposes of the employer health care coverage mandate.</official-title> 
+</form> 
+<legis-body id="H05553F03E65C4EAFB353CD7AAFF7E237" style="OLC"> 
+<section id="H04C8155DE92B4AF2B929A1F3AF862E78" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Helping Individuals Regain Employment Act</short-title></quote>.</text></section> <section id="HA46362ADB684427780698A7801BE7B4C" section-type="subsequent-section"><enum>2.</enum><header>Long-term unemployed individuals not taken into account for employer health care coverage mandate</header> <subsection id="H9B7375A95BBB4C1A86EDE12FBF206C86"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Paragraph (4) of <external-xref legal-doc="usc" parsable-cite="usc/26/4980H">section 4980H(c)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:</text> 
+<quoted-block display-inline="no-display-inline" id="HE8AF5868487C43F680319E01781A1D45" style="OLC"> 
+<subparagraph id="H7C15ABEC20564E5A93089B80204A0509"><enum>(C)</enum><header>Exception for long-term unemployed individuals</header> 
+<clause id="H43F61B85E81547AFA533DDE4D8BB1BEA"><enum>(i)</enum><header>In general</header><text>The term <term>full-time employee</term> shall not include any individual who is a long-term unemployed individual with respect to such employer.</text></clause> <clause id="H11A427D2E2D242CB9B17FAB15992E878"><enum>(ii)</enum><header>Long-term unemployed individual</header><text>For purposes of this subparagraph, the term <term>long-term unemployed individual</term> means, with respect to any employer, an individual who—</text> 
+<subclause id="HCFD482D8C4F849BCA4C626459CC51DB8"><enum>(I)</enum><text>begins employment with such employer after the date of the enactment of this subparagraph, and</text></subclause> <subclause id="HF7D48758911F41539D2A5357ACB00BE2"><enum>(II)</enum><text>has been unemployed for 27 weeks or longer, as determined by the Secretary of Labor, immediately before the date such employment begins.</text></subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="HCB53D9C5D41141CCBB426F5314F6C453"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to months beginning after the date of enactment of this Act.</text></subsection></section> </legis-body> </bill> 
+

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC0A065509C5F4E048C9E45346C0657EF" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2370 IH: End Anonymous Patents Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2370</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150515">May 15, 2015</action-date> 
+<action-desc><sponsor name-id="D000610">Mr. Deutch</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend title 35, United States Code, to require disclosure of ownership and transfers of ownership of patents, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H40CA779E58B040AFBD6F9CC5EF10B0AC" style="OLC"> 
+<section id="H1D8982EB2B824BAB92AA36CA924A4BC2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>End Anonymous Patents Act</short-title></quote>.</text></section> <section id="HA7D57A4DD8B545A7A5D06BA54EFF6183"><enum>2.</enum><header>Disclosure of ownership of patents</header> <subsection id="H81BC8AF7333F4196B0C51CC3781B1D1B"><enum>(a)</enum><header>Disclosure of ownership of patents</header><text display-inline="yes-display-inline">Section 261 of title 35, United States Code, is amended—</text> 
+<paragraph id="H4F2AA34D333942F38EBEFF67F8F2CAD5"><enum>(1)</enum><text>in the first paragraph, by striking <quote>Subject</quote> and inserting <quote>(a) <header-in-text level="subsection" style="OLC">Personal property.—</header-in-text>Subject</quote>;</text></paragraph> <paragraph id="H4EF2AE3C40BF418681DB8A4A7F9DE3F2"><enum>(2)</enum><text>in the second paragraph, by striking <quote>Applications</quote> and inserting <quote>(b) <header-in-text level="subsection" style="OLC">Assignment.—</header-in-text>Applications</quote>;</text></paragraph> 
+<paragraph id="H4BF3B560483F4A9F877BDFE544F5925E"><enum>(3)</enum><text>in the third paragraph, by striking <quote>A certificate</quote> and inserting <quote>(c) <header-in-text level="subsection" style="OLC">Evidence of execution of transfer.—</header-in-text>A certificate</quote>;</text></paragraph> <paragraph id="H80AA74AE5D434EBE9880E45CA81A5A12"><enum>(4)</enum><text>In the fourth paragraph, by striking <quote>An assignment</quote> and inserting <quote>(d) <header-in-text level="subsection" style="OLC">Notice or recordation required.—</header-in-text>An assignment</quote>; and</text></paragraph> 
+<paragraph id="H6E64E31C6E274E199ACFA269BC06835A"><enum>(5)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H7CC496733DB441088C03E876E9599CD2" style="OLC"> <subsection id="H80D3A37B307744A1BFF0A042EC08E0EB"><enum>(e)</enum><header>Disclosures of ownership</header> <paragraph id="HE4CD576BDECE4BC48068F49B44925E50"><enum>(1)</enum><header>New patents</header><text display-inline="yes-display-inline">Upon the issuance of a patent under this title, the entity to which the patent is issued shall file with the Office a disclosure of the owner of the patent and any real party in interest in the patent.</text></paragraph> 
+<paragraph id="H6B38F2919BAD422BBD242115A07FC88C"><enum>(2)</enum><header>Payment of maintenance fees</header><text>Upon the payment of the maintenance fee required under section 41(b), the owner of the patent shall file with the Office a disclosure of the identity of the owner of the patent and any real party in interest in the patent.</text></paragraph> <paragraph id="H5BE40E902CF84A24A9C5DF08B87C379A"><enum>(3)</enum><header>Notice of transfer of ownership</header><text>Whenever any patent, any application for patent, or any interest therein, is sold, granted, or conveyed, the entity to which the patent, application, or interest is sold, granted, or conveyed shall, within 90 days after the date of the sale, grant, or conveyance, file with the Office a disclosure of the sale, grant, or conveyance, and any real party in interest in the patent, application, or interest.</text></paragraph> 
+<paragraph id="H44CA3356460E497DA1D0B0760FD58525"><enum>(4)</enum><header> Form and manner of disclosures</header><text display-inline="yes-display-inline">The Director shall prescribe by regulation the form and manner in which disclosures are to be made under paragraphs (1), (2), and (3). The Director shall include, among the real parties in interest, for purposes of such disclosures—</text> <subparagraph id="H79708D8F81234DE5A67962B6189E8316"><enum>(A)</enum><text display-inline="yes-display-inline">any entity that has the legal right to enforce the patent through an infringement action;</text></subparagraph> 
+<subparagraph id="H44ECF45A94B8439E8FC6ABE2A942EC30"><enum>(B)</enum><text>any ultimate parent entity of an entity described in subparagraph (A); and</text></subparagraph> <subparagraph id="H5971565521174DBBB2E9CD1F20C00794"><enum>(C)</enum><text>any entity that has a controlling interest in the enforcement of the patent, including any ultimate parent entity not included under subparagraph (A) or (B).</text></subparagraph></paragraph> 
+<paragraph commented="no" id="HEEE5956DDDCD416C95166CDCF1A8CF76"><enum>(5)</enum><header>Limitation on damages</header><text>Any entity that fails to comply with any of the requirements under this subsection with respect to a patent or application for patent may, in any action brought by the person or entity for infringement of the patent, only collect damages from the date on which such requirement is met. The Director shall by regulation specify what constitutes noncompliance for purposes of this paragraph.</text></paragraph> <paragraph id="HDD452320711444FBB17D9AB4DF7560AF"><enum>(6)</enum><header>Definition</header><text>In this subsection, the term <quote>ultimate parent entity</quote> means an entity that is not controlled by any other entity.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="H301014DE054B4F4D871E3641ED76C500"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall take effect upon the expiration of the 180-day period beginning on the date of the enactment of this Act.</text></subsection></section> </legis-body> </bill> 
+

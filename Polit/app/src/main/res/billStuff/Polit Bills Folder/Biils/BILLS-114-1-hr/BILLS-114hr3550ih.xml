@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HE4498EAFFC754FE78CD1E498E3298506" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3550 IH: Civil Justice Tax Fairness Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3550</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150917">September 17, 2015</action-date>
+			<action-desc><sponsor name-id="L000287">Mr. Lewis</sponsor> (for himself and <cosponsor name-id="S000244">Mr. Sensenbrenner</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to exclude from gross income amounts received on account
+			 of claims based on certain unlawful discrimination and to allow income
+			 averaging for backpay and frontpay awards received on account of such
+			 claims, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H26C4D2F8DB094DACB46428D6138D0904" style="OLC">
+ <section display-inline="no-display-inline" id="H55F75F4C8F984C4BB551D464899E0579" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Civil Justice Tax Fairness Act of 2015</short-title></quote>.</text> </section><section id="HB48DFAE5BAE3480786B8BC264B6E72DF"><enum>2.</enum><header>Exclusion from gross income for amounts received on account of certain unlawful discrimination</header> <subsection id="H4BC44B3151124A1D8BFCF56EAEB4D085"><enum>(a)</enum><header>In general</header><text>Part III of subchapter B of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 (relating to items specifically excluded from gross income) is amended by inserting before section 140 the following new section:</text>
+				<quoted-block id="HBD0209CCD60A4A64A3B8A4CCA11D71F8">
+					<section id="H43C7F072BDBA4ABF9EC4AD5DD24CBB38"><enum>139F.</enum><header>Amounts received on account of certain unlawful discrimination</header>
+ <subsection id="H95D6DE22145649FD99A6C2C348021FF6"><enum>(a)</enum><header>Exclusion</header><text>Gross income does not include amounts received by a claimant on account of a judgment or settlement (whether by suit or agreement and whether as lump sums or periodic payments) resulting from a claim of unlawful discrimination (as defined by section 62(e)).</text>
+ </subsection><subsection id="H569D9EE4027340918C9C7B7BC1671C0D"><enum>(b)</enum><header>Amounts covered</header><text>For purposes of subsection (a), the term <term>amounts</term> does not include—</text> <paragraph id="H9B21F75409FB401EA5481C5CE7BA0D4F"><enum>(1)</enum><text>backpay or frontpay, as defined in section 1302(b), or</text>
+ </paragraph><paragraph id="HD1FE38F4AB1043DD92F226A3ED0A4905"><enum>(2)</enum><text>punitive damages.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="H1C036CCE9D7D44B8B9248487418888FD"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections for part III of subchapter B of chapter 1 of such Code is amended by inserting before the item relating to section 140 the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="HCB8EBC5BE574439DAA0EAD2181E1F7B0" style="OLC">
+					<toc container-level="quoted-block-container" idref="HBD0209CCD60A4A64A3B8A4CCA11D71F8" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+						<toc-entry idref="H43C7F072BDBA4ABF9EC4AD5DD24CBB38" level="section">Sec. 139F. Amounts received on account of certain unlawful discrimination.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H4DE429721AF94B4DB54535C629D97FFD"><enum>(c)</enum><header>Effective date</header><text>The amendment made by this section shall apply to amounts received in taxable years beginning after December 31, 2014.</text>
+			</subsection></section><section id="HC2BCB99C6EC54D399DA81831D04F88C8"><enum>3.</enum><header>Limitation on tax based on income averaging for backpay and frontpay received on account of certain
+			 unlawful employment discrimination</header>
+ <subsection id="HB45B6EEE8FCE4A8383786D9AF7204603"><enum>(a)</enum><header>In general</header><text>Part I of subchapter Q of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 (relating to income averaging) is amended by adding at the end the following new section:</text>
+				<quoted-block id="HDF081E64DFE0463E94CA8B0EE391AEA9">
+					<section id="HC3608CA576F243A8B0AC99303D2F6989"><enum>1302.</enum><header>Income from backpay and frontpay received on account of certain unlawful employment discrimination</header>
+ <subsection id="HF03B3B41F640451480C2138AC7D92200"><enum>(a)</enum><header>General rule</header><text>If employment discrimination backpay or frontpay is received by a taxpayer during a taxable year, the tax imposed by this chapter for such taxable year shall not exceed the sum of—</text>
+ <paragraph id="HDE0E6A10EB1445B29A52FE8566520BB0"><enum>(1)</enum><text>the tax which would be so imposed if—</text> <subparagraph id="H1107FDE1BD034C1AB57A5DF4966730C3"><enum>(A)</enum><text>no amount of such backpay or frontpay were included in gross income for such year, and</text>
+ </subparagraph><subparagraph id="HA203841ECD63456B9BB31D03CDC15152"><enum>(B)</enum><text>no deduction were allowed for such year for expenses (otherwise allowable as a deduction to the taxpayer for such year) in connection with making or prosecuting any claim of unlawful employment discrimination by or on behalf of the taxpayer, plus</text>
+ </subparagraph></paragraph><paragraph id="HF88F6B94B2A444E7A6E3C047A7143495"><enum>(2)</enum><text>the product of—</text> <subparagraph id="HE9E4EDE63B564EA4B26A0B7F9F516A12"><enum>(A)</enum><text>the number of years in the backpay period and frontpay period, and</text>
+ </subparagraph><subparagraph id="HB85F11574B9C4F3CBFAF77B87BDFC127"><enum>(B)</enum><text>the amount by which the tax determined under paragraph (1) would increase if the amount on which such tax is determined were increased by the average annual net backpay and frontpay amount.</text>
+ </subparagraph></paragraph></subsection><subsection id="H025A1948B06A45C585F5517D6F40EBD6"><enum>(b)</enum><header>Definitions</header><text>For purposes of this section—</text> <paragraph id="HE6CA1E029F634E95BE591975A00CB7D8"><enum>(1)</enum><header>Employment discrimination backpay or frontpay</header><text>The term <term>employment discrimination backpay or frontpay</term> means backpay or frontpay receivable (whether as lump sums or periodic payments) on account of a claim of unlawful employment discrimination.</text>
+ </paragraph><paragraph id="H0651C4F8D26548A69CA22A1EEFE437D0"><enum>(2)</enum><header>Unlawful employment discrimination</header><text>The term <term>unlawful employment discrimination</term> has the meaning provided the term <term>unlawful discrimination</term> in section 62(e).</text> </paragraph><paragraph id="H07FE56B93BF94A3EA4729026BBB9821D"><enum>(3)</enum><header>Backpay and frontpay</header><text>The terms <term>backpay</term> and <term>frontpay</term> mean amounts includible in gross income in the taxable year—</text>
+ <subparagraph id="HAA999A9221FA4079B9F8216495CDCDB4"><enum>(A)</enum><text>as compensation which is attributable—</text> <clause id="H1A8A098EDA214B82917C2C783598C944"><enum>(i)</enum><text>in the case of backpay, to services performed, or that would have been performed but for a claimed violation of law, as an employee, former employee, or prospective employee before such taxable year for the taxpayer’s employer, former employer, or prospective employer, and</text>
+ </clause><clause id="H2A7AF1ACCED642D4B6B730768A8B4635"><enum>(ii)</enum><text>in the case of frontpay, to employment that would have been performed but for a claimed violation of law, in a taxable year or taxable years following the taxable year, and</text>
+ </clause></subparagraph><subparagraph id="HB94862ECC7504CE4BAB933A466B92B91"><enum>(B)</enum><text>which are received on account of a judgment or settlement resulting from a claim for a violation of law.</text>
+ </subparagraph></paragraph><paragraph id="H452A51796501465FBC8771EB61AC815B"><enum>(4)</enum><header>Backpay period</header><text>The term <term>backpay period</term> means the period during which services are performed (or would have been performed) to which backpay is attributable. If such period is not equal to a whole number of taxable years, such period shall be increased to the next highest number of whole taxable years.</text>
+ </paragraph><paragraph id="H51C0F81878714C2D87C076C8776F3511"><enum>(5)</enum><header>Frontpay period</header><text>The term <term>frontpay period</term> means the period of foregone employment to which frontpay is attributable. If such period is not equal to a whole number of taxable years, such period shall be increased to the next highest number of whole taxable years.</text>
+ </paragraph><paragraph id="H0BEAA26490C0476AB5EA5B608636D650"><enum>(6)</enum><header>Average annual net backpay and frontpay amount</header><text>The term <term>average annual net backpay and frontpay amount</term> means the amount equal to—</text> <subparagraph id="H6467C12170A042A08AD19CEB712655C9"><enum>(A)</enum><text>the excess of—</text>
+ <clause id="H7FDB0404E5504041B48E165E239C0E98"><enum>(i)</enum><text>employment discrimination backpay and frontpay, over</text> </clause><clause id="HD23201437E284A91A9F46ACBBEA7389F"><enum>(ii)</enum><text>the amount of deductions that would have been allowable but for subsection (a)(1)(B), divided by</text>
+ </clause></subparagraph><subparagraph id="H97A6FADBBA3848CBADE678090A0401EB"><enum>(B)</enum><text>the number of years in the backpay period and frontpay period.</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="H29363D5EA7254DD18CD056938E886ED7"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections for part I of subchapter Q of chapter 1 of such Code is amended by inserting after the item relating to section 1301 the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="HD20790C8058646C8B18A16D1556B88EC" style="OLC">
+					<toc container-level="quoted-block-container" idref="HDF081E64DFE0463E94CA8B0EE391AEA9" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+						<toc-entry idref="HC3608CA576F243A8B0AC99303D2F6989" level="section">Sec. 1302. Income from backpay and frontpay received on account of certain unlawful employment
+			 discrimination.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H57B9E82964F24BFF824BD4AF4E83FE00"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to amounts received in taxable years beginning after December 31, 2014.</text>
+			</subsection></section><section id="H4EEF688474334FE3AE49BC4FB0FB47C8"><enum>4.</enum><header>Income averaging for backpay and frontpay received on account of certain unlawful employment
+			 discrimination not to increase alternative minimum tax liability</header>
+ <subsection id="H26A671C63EA3406E87F294187BE792AD"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/55">Section 55(c)</external-xref> of the Internal Revenue Code of 1986 (defining regular tax) is amended by redesignating paragraph (3) as paragraph (4) and by inserting after paragraph (2) the following:</text>
+				<quoted-block id="HFD6B02A700394CADBD80DA3DA080F9CD">
+ <paragraph id="HF427EDCB24C24A88A98218EC367C0717"><enum>(3)</enum><header>Coordination with income averaging for amounts received on account of employment discrimination</header><text>Solely for purposes of this section, section 1302 (relating to averaging of income from backpay and frontpay received on account of certain unlawful employment discrimination) shall not apply in computing the regular tax.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H2F7EFD5E7EAC48C797F612138AB2B8E5"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to taxable years beginning after December 31, 2014.</text> </subsection></section></legis-body> </bill> 
+

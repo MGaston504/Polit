@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5E4B176183C547A693792F1217355156" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2257 IH: To amend title 38, United States Code, to improve the reproductive treatment provided to certain disabled veterans.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2257</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150512">May 12, 2015</action-date>
+			<action-desc><sponsor name-id="M001144">Mr. Miller of Florida</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to improve the reproductive treatment provided to certain
+			 disabled veterans.</official-title>
+	</form>
+	<legis-body id="H327AA92870104F6F8DF4D1D06C57CF99" style="OLC">
+		<section id="HC41EC5FFFC9E4B2EA7F20474FC2968D6" section-type="section-one"><enum>1.</enum><header>Reproductive treatment for certain disabled veterans</header>
+ <subsection id="HA52DB52939BB47E4BE2E42B6180FD714"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/17">Chapter 17</external-xref> of title 38, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/38/1720G">section 1720G</external-xref> the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HAD979E04FD48477DAD2A5CF65F8F82AB" style="USC">
+					<section id="HE61A4183E5A54DE185C94E5CE8F32156"><enum>1720H.</enum><header>Assisted reproductive technology for certain disabled veterans</header>
+ <subsection id="H789BE904F02348AB9BE52D4F9DB2DF60"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">In addition to any fertility treatment otherwise furnished by the Secretary pursuant to this title, the Secretary shall furnish to a covered individual assisted reproductive technology.</text>
+ </subsection><subsection id="HE4E45F5E9742411FBA4D4DD6540D1913"><enum>(b)</enum><header>Limitation on In Vitro Fertilization</header><text>In furnishing assisted reproductive technology to a covered individual under this section that consists of in vitro fertilization, the Secretary may provide not more than three in vitro fertilization cycles that result in a total of not more than six implantation attempts.</text>
+ </subsection><subsection id="H781FFD0A273A4418BA08A165E979CD6B"><enum>(c)</enum><header>Genetic materials</header><text>In carrying out this section, the Secretary—</text> <paragraph id="H1D5E14AD98C4415AB30B2A6E10588E52"><enum>(1)</enum><text>may only provide for cryogenic storage of genetic material of a covered individual for a period not exceeding three years, after which the covered individual shall be responsible for the payment of any costs relating to such storage;</text>
+ </paragraph><paragraph id="H23A394FD52034A9DB39F7398AD460B46"><enum>(2)</enum><text>may not possess, or make any determination regarding the disposition of, genetic material of a covered individual; and</text>
+ </paragraph><paragraph id="H95F56A96F8D34185B96CD6869B1E95FA"><enum>(3)</enum><text display-inline="yes-display-inline">shall carry out any activities relating to the custody or disposition of genetic material of a covered individual in accordance with the laws of the State in which the genetic material is located.</text>
+ </paragraph></subsection><subsection id="H3D48DC50BFCC4DF29289508814AF1E54"><enum>(d)</enum><header>Prohibitions</header><text display-inline="yes-display-inline">In carrying out this section, the Secretary may not—</text> <paragraph id="H52E16313EAF54BC4B3406A1C0096300D"><enum>(1)</enum><text>provide any benefits relating to surrogacy; or</text>
+ </paragraph><paragraph id="H850139CE4EF747A1899BAEA8E0424D0B"><enum>(2)</enum><text>assist with obtaining a third-party genetic material donation.</text> </paragraph></subsection><subsection id="H2E057709BC3641DAB28C4903BD9BAED9"><enum>(e)</enum><header>Definitions</header><text>In this section:</text>
+ <paragraph id="H37ED8E33A82149FDB34AC49EBF2DA9D9"><enum>(1)</enum><text display-inline="yes-display-inline">The term <term>assisted reproductive technology</term> includes in vitro fertilization or any other specific technology used to assist reproduction that the Secretary determines appropriate for purposes of this section.</text>
+ </paragraph><paragraph id="H3EFCF6D6BCBF482CB15F45ED83BF155A"><enum>(2)</enum><text>The term <term>covered individual</term> means—</text> <subparagraph id="H1FF89E472E564825AE3D5B66278F50A0"><enum>(A)</enum><text>a veteran, regardless of sex, who—</text>
+ <clause id="H8AB1D92EE8914EF280BAFED4CB764576"><enum>(i)</enum><text display-inline="yes-display-inline">is enrolled in the health care system established under section 1705(a) of this title;</text> </clause><clause id="H5BB2DBD65F7142109E39AD42D540906C"><enum>(ii)</enum><text display-inline="yes-display-inline">has a service-connected disability; and</text>
+ </clause><clause id="H4673C5F53D584954876FC683C5574578"><enum>(iii)</enum><text>such a disability includes an injury to the reproductive organs or the spinal cord of the veteran and such injury directly results in the veteran being unable to procreate without assisted reproductive technology; and</text>
+ </clause></subparagraph><subparagraph id="H057DB93BC6154B65A27258C5BDE6A13D"><enum>(B)</enum><text>a spouse of a veteran described in subparagraph (A).</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="HCC1ED16734384B428C1C76EBC65B5DF6"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1720G the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="HC1F29C286F624320A5F6E5C454B618BC" style="USC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">1720H. Reproductive treatment for certain disabled veterans.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H979AC2A0BB744445BF7ADB4F442C4108" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3129 IH: Farmers Undertake Environmental Land Stewardship Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3129</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150721">July 21, 2015</action-date>
+			<action-desc><sponsor name-id="C001087">Mr. Crawford</sponsor> (for himself, <cosponsor name-id="H001036">Mr. Hensarling</cosponsor>, <cosponsor name-id="C001096">Mr. Cramer</cosponsor>, <cosponsor name-id="P000602">Mr. Pompeo</cosponsor>, <cosponsor name-id="D000615">Mr. Duncan of South Carolina</cosponsor>, <cosponsor name-id="D000616">Mr. DesJarlais</cosponsor>, <cosponsor name-id="M001190">Mr. Mullin</cosponsor>, <cosponsor name-id="A000374">Mr. Abraham</cosponsor>, <cosponsor name-id="H001057">Mr. Huelskamp</cosponsor>, <cosponsor name-id="J000255">Mr. Jones</cosponsor>, <cosponsor name-id="K000363">Mr. Kline</cosponsor>, and <cosponsor name-id="L000566">Mr. Latta</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To direct the Administrator of the Environmental Protection Agency to change the Spill Prevention,
+			 Control, and Countermeasure rule with respect to certain farms.</official-title>
+	</form>
+	<legis-body id="H0836928560584CEFBDC208643D7C78E7" style="OLC">
+ <section id="H9832B536A3AE4F86BD9711CF308B43A9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Farmers Undertake Environmental Land Stewardship Act</short-title></quote> or the <quote><short-title>FUELS Act</short-title></quote>.</text> </section><section id="HA4B4A3E6D8AB4679ABA9E19BC270C51D" section-type="subsequent-section"><enum>2.</enum><header>Applicability of Spill Prevention, Control, and Countermeasure rule</header> <subsection id="H470E82BA727240B0932C57C944B21879"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Administrator, in implementing the Spill Prevention, Control, and Countermeasure rule with respect to any farm, shall—</text>
+ <paragraph id="HBE7C3F3AAA7B4932A3BCBF8371B99F6D"><enum>(1)</enum><text>require certification of compliance with such rule by—</text> <subparagraph id="H8BE320B990EA4A8BBBB5A2A8445FCCA8"><enum>(A)</enum><text>a professional engineer for a farm with—</text>
+ <clause id="HA85E696974104889915E61278A85C882"><enum>(i)</enum><text>an individual tank with an aboveground storage capacity greater than 10,000 gallons;</text> </clause><clause id="H19416988C9AB430491CAFB880D5BD91B"><enum>(ii)</enum><text>an aggregate aboveground storage capacity greater than or equal to 42,000 gallons; or</text>
+ </clause><clause id="HBC604F6459AD4A6F8F8093CFB8149F21"><enum>(iii)</enum><text>a history that includes a spill, as determined by the Administrator; or</text> </clause></subparagraph><subparagraph id="HB33C99A6BD8944D3982ED3C2AAA388E6"><enum>(B)</enum><text>the owner or operator of the farm (via self-certification) for a farm with—</text>
+ <clause id="H439F911ADADE4BEC95C7BCACE8D81038"><enum>(i)</enum><text display-inline="yes-display-inline">an aggregate aboveground storage capacity greater than 10,000 gallons but less than 42,000 gallons; and</text>
+ </clause><clause id="H906A0334F7BD48C2B0C398B575A15CC6"><enum>(ii)</enum><text display-inline="yes-display-inline">no history of spills, as determined by the Administrator; and</text> </clause></subparagraph></paragraph><paragraph id="H121C42925E9E440992D17CFC5790EEAA"><enum>(2)</enum><text>exempt from all requirements of such rule any farm—</text>
+ <subparagraph id="H3DD4D548ECAC42DE8B282FB88B4B6CB4"><enum>(A)</enum><text display-inline="yes-display-inline">with an aggregate aboveground storage capacity of less than or equal to 10,000 gallons; and</text> </subparagraph><subparagraph id="H7BF1968486D34FE2AF62083BE2B3A773"><enum>(B)</enum><text display-inline="yes-display-inline">no history of spills, as determined by the Administrator.</text>
+ </subparagraph></paragraph></subsection><subsection id="H96DAE9D083714B6EB64A0D0DDF82E84F"><enum>(b)</enum><header>Calculation of aggregate aboveground storage capacity</header><text display-inline="yes-display-inline">For the purposes of subsection (a), the aggregate aboveground storage capacity of a farm excludes all containers on separate parcels that have a capacity that is less than 1,320 gallons.</text>
+ </subsection></section><section id="HCB6EC3FEBE2244FFAC4BDA7A2EEB72D6"><enum>3.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act, the following terms apply:</text> <paragraph id="HDF26A8B44EE9452A887DF5954607462A"><enum>(1)</enum><header>Administrator</header><text display-inline="yes-display-inline">The term <quote>Administrator</quote> means the Administrator of the Environmental Protection Agency.</text>
+ </paragraph><paragraph id="H40EF30B34AC3466489A087BAF8C02452"><enum>(2)</enum><header>Farm</header><text>The term <quote>farm</quote> has the meaning given such term in section 112.2 of title 40, Code of Federal Regulations.</text> </paragraph><paragraph id="HCD2E98E635AE46C6A6EF8752764CB458"><enum>(3)</enum><header>Gallon</header><text>The term <quote>gallon</quote> refers to a United States liquid gallon.</text>
+ </paragraph><paragraph id="H49AE0C3252014543B50F69ECC9236F8F"><enum>(4)</enum><header>Spill Prevention, Control, and Countermeasure rule</header><text>The term <quote>Spill Prevention, Control, and Countermeasure rule</quote> means the regulation promulgated by the Environmental Protection Agency under part 112 of title 40, Code of Federal Regulations.</text>
+			</paragraph></section></legis-body>
+</bill>
+
+

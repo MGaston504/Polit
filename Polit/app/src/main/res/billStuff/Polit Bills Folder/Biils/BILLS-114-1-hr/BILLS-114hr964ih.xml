@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8255FA48C60A4556B1FE6A792A4EA09B" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 964 IH: Working Parent Support Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 964</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150213">February 13, 2015</action-date>
+			<action-desc><sponsor name-id="P000096">Mr. Pascrell</sponsor> (for himself, <cosponsor name-id="C001090">Mr. Cartwright</cosponsor>, and <cosponsor name-id="S001156">Ms. Linda T. Sánchez of California</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to provide an above-the-line deduction for child care
+			 expenses, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H2B02487FB0904704BF6255DD4FE1E3D8" style="OLC">
+ <section id="H9724FE603D25417FBABB87EB36EDDEC8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Working Parent Support Act of 2015</short-title></quote>.</text> </section><section id="H73BC65965CCA49DAB50F55CF2BC645DB" section-type="subsequent-section"><enum>2.</enum><header>Above-the-line deduction for child care expenses</header> <subsection id="HE4E5329A59A44D66ADCC29A850453EAA"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Part VII of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended—</text>
+ <paragraph id="H2ADE5F563388424D9C8E05F2AF7A81F4"><enum>(1)</enum><text>by redesignating section 224 as section 225, and</text> </paragraph><paragraph id="H2FFF0AF65BEC4C22BC1540E708AA8D5F"><enum>(2)</enum><text>by inserting after section 223 the following new section:</text>
+					<quoted-block act-name="" id="HC919CDEF7BA04EBAA361378D1D4FBB44" style="OLC">
+						<section id="HD9BA3DC8DA3D45F0AC9D79AC3DBC5BCE"><enum>224.</enum><header>Child care deduction</header>
+ <subsection id="HF796E0526529470D9561EAA103A63A74"><enum>(a)</enum><header>Allowance of deduction</header><text>In the case of an individual for which there are 1 or more qualifying children with respect to such individual for the taxable year, there shall be allowed as a deduction an amount equal to the employment-related expenses paid by such individual during the taxable year.</text>
+							</subsection><subsection id="H1AA82F13819C49EC8D126F0CD6E5CB1A"><enum>(b)</enum><header>Dollar limitations</header>
+ <paragraph id="H56DAD3F955E7410EBB5F990921663929"><enum>(1)</enum><header>In general</header><text>The amount allowed as a deduction under subsection (a) with respect to the taxpayer for any taxable year shall not exceed—</text>
+ <subparagraph id="H49451E00024845EBAA5703932BFFE8BD"><enum>(A)</enum><text>$7,000, if there is 1 qualifying child with respect to the taxpayer for such taxable year, or</text> </subparagraph><subparagraph id="HF0974502D0E4414EB127C8AE395C607E"><enum>(B)</enum><text>$14,000, if there are 2 or more qualifying children with respect to the taxpayer for such taxable year.</text>
+ </subparagraph></paragraph><paragraph id="H624A1D0899974F9086547A611A395B0E"><enum>(2)</enum><header>Adjustment for inflation</header><text>In the case of a taxable year beginning after 2015, each of the dollar amounts in paragraph (1) shall be increased by an amount equal to—</text>
+ <subparagraph id="HB66BE92F21D446629425560411B7F394"><enum>(A)</enum><text>such dollar amount, multiplied by</text> </subparagraph><subparagraph id="H458AFC134FE441C1951392CC3BCF14D1"><enum>(B)</enum><text>the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins, determined by substituting <quote>calendar year 2014</quote> for <quote>calendar year 1992</quote> in subparagraph (B) thereof.</text>
+									</subparagraph><continuation-text continuation-text-level="paragraph">If any amount as adjusted under the preceding sentence is not a multiple of $100, such amount shall
+ be rounded to the next highest multiple of $100.</continuation-text></paragraph></subsection><subsection id="H0D342C7F7BC2403DA9DC4FE4C05915A3"><enum>(c)</enum><header>Definitions and special rules</header><text>For purposes of this section—</text> <paragraph id="HD820A4EB07364BE8B6DF3FED7F5D4B9B"><enum>(1)</enum><header>Qualifying child</header><text>The term <term>qualifying child</term> means a dependent of the taxpayer (as defined in section 152(a)(1))—</text>
+ <subparagraph id="H92AE19D17386445191C9D7D306D35DCA"><enum>(A)</enum><text>who has not attained age 13, or</text> </subparagraph><subparagraph id="H76CA3D3F27F848219547AD5D693EEE2F"><enum>(B)</enum><text>who is physically or mentally incapable of caring for himself or herself.</text>
+ </subparagraph></paragraph><paragraph id="HF8C890A870174770A685A2A62101BC22"><enum>(2)</enum><header>Employment-related expenses</header><text>The term <term>employment-related expenses</term> has the meaning given such term by section 21(b)(2), applied as if the terms <quote>qualifying child</quote> and <quote>qualifying children,</quote> within the meaning of this section, were substituted for the terms <quote>qualifying individual</quote> and <quote>qualifying individuals</quote>, respectively.</text> </paragraph><paragraph id="HF97AA5C7B8DB4363B50E35EAF5DB48C3"><enum>(3)</enum><header>Special rules</header><text>Rules similar to the rules of paragraphs (1), (2), (3), (4), (5), (6), (9), and (10) of section 21(e) shall apply.</text>
+								</paragraph></subsection><subsection id="HE1F17C3C0B8F45219D319E459A3F7001"><enum>(d)</enum><header>Denial of double benefit</header>
+ <paragraph id="H0BF3FA8148E04A09A12D555F2751A051"><enum>(1)</enum><header>In general</header><text>No deduction shall be allowed under this section for any expense with respect to which a credit is claimed by the taxpayer under section 21.</text>
+ </paragraph><paragraph commented="no" id="H0460707313E14E20AC36DD9F6DCAE283"><enum>(2)</enum><header>Coordination rule</header><text>For coordination with a dependent care assistance program, see section 129(e)(7).</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></subsection><subsection id="H804A86B0BBCF4380808DFD731315B3F6"><enum>(b)</enum><header>Deduction allowed above the line</header><text>Subsection (a) of <external-xref legal-doc="usc" parsable-cite="usc/26/62">section 62</external-xref> of the Internal Revenue Code of 1986 is amended by inserting after paragraph (21) the following new paragraph:</text>
+				<quoted-block act-name="" id="H3BECAD565F1F419EB20F6C01656E597E" style="OLC">
+ <paragraph id="H87392F33B02D412F913C2A8AE73B3A68"><enum>(22)</enum><header>Child care deduction</header><text>The deduction allowed by section 224.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="H552408BEEFED4C4688A6934CB894941C"><enum>(c)</enum><header>Conforming amendment</header><text>Subsection (e) of <external-xref legal-doc="usc" parsable-cite="usc/26/213">section 213</external-xref> of the Internal Revenue Code of 1986 is amended by inserting <quote>, or as a deduction under section 224,</quote> after <quote>section 21</quote>.</text>
+ </subsection><subsection id="HA86DDB17E5E14937B850D351BDED3EDE"><enum>(d)</enum><header>Clerical amendment</header><text>The table of sections for part VII of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by striking the item relating to <external-xref legal-doc="usc" parsable-cite="usc/26/224">section 224</external-xref> and by inserting the following new items:</text>
+				<quoted-block display-inline="no-display-inline" id="H15C882B46E5C4A16BD83C367EB5F642B" style="OLC">
+					<toc>
+						<toc-entry idref="HD9BA3DC8DA3D45F0AC9D79AC3DBC5BCE" level="section">Sec. 224. Child care deduction.</toc-entry>
+						<toc-entry bold="off" level="section">Sec. 225. Cross reference.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H1D9610F1004C4E39A5D192145C2BF3A8"><enum>(e)</enum><header>Effective date</header><text>The amendments made by this section shall apply to expenses paid or incurred in taxable years beginning after December 31, 2014.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

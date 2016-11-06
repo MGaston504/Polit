@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H448CF3264CD24C49BAAC83A317B853AB" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2580 IH: LTCH Technical Correction Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2580</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150529">May 29, 2015</action-date>
+			<action-desc><sponsor name-id="B001255">Mr. Boustany</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for a technical change to the Medicare long-term care hospital moratorium exception, and
+			 for other purposes.</official-title>
+	</form>
+	<legis-body id="HCBB88E4D7769418FAEC026900726A069" style="OLC">
+ <section id="HBBB959BCB62C4041A738095C3EAA2C14" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>LTCH Technical Correction Act of 2015</short-title></quote>.</text> </section><section id="HA7E4B379E4F54FC6ACC1A183F5B582AB"><enum>2.</enum><header>Technical change to the Medicare long-term care hospital moratorium exception</header> <subsection id="H342CB505518F4592A56CEC3B64A7CB80"><enum>(a)</enum><header>In general</header><text>Section 114(d) of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww</external-xref> note), as amended by sections 3106(b) and 10312(b) of <external-xref legal-doc="public-law" parsable-cite="pl/111/148">Public Law 111–148</external-xref>, section 1206(b)(2) of the Pathway for SGR Reform Act of 2013 (division B of <external-xref legal-doc="public-law" parsable-cite="pl/113/67">Public Law 113–67</external-xref>), and section 112 of the Protecting Access to Medicare Act of 2014, is amended, in paragraph (7), by striking <quote>The moratorium under paragraph (1)(A)</quote> and inserting <quote>Any moratorium under paragraph (1)</quote> in the matter preceding subparagraph (A).</text>
+ </subsection><subsection id="H31FDBA3DF0EB447B9B378628C386C483"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall take effect as if included in the enactment of section 112 of the Protecting Access to Medicare Act of 2014.</text>
+ </subsection></section><section id="H1EC47413CE6A42188CC66451C63A7AD2"><enum>3.</enum><header>Modification to Medicare long-term care hospital outlier payments</header><text display-inline="no-display-inline">Section 1886(m) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww(m)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+			<quoted-block display-inline="no-display-inline" id="HC23B1D94236E4522B038C3F3B1A727AC" style="OLC">
+				<paragraph id="HDB639F1D7D3F4D46AF1AFB76EBDB7149"><enum>(7)</enum><header>Treatment of outlier payments</header>
+ <subparagraph id="HBF984DDE896440189C172F690DD15B8D"><enum>(A)</enum><header>Reduction factor in establishing outlier pool</header><text display-inline="yes-display-inline">Under the system described in paragraph (1), for rate years beginning on or after October 1, 2016, in adjusting the standard Federal rate for outlier payments, the Secretary shall apply a reduction factor of 8 percent to establish an outlier pool.</text>
+ </subparagraph><subparagraph id="H4EDB01FF7F5E469AB5F3D9854DA6A20D"><enum>(B)</enum><header>Limitation on payment amounts</header><text display-inline="yes-display-inline">In reimbursing outlier payments under such system for such rate years, the Secretary shall structure pool payments such that the amounts paid in a rate year for outlier payments do not exceed an amount equivalent to 99.0625 percent of the outlier pool established under subparagraph (A) for such rate year.</text>
+ </subparagraph><subparagraph id="HF5541DAF32B643A48198EE00A9C0A67B"><enum>(C)</enum><header>Waiver of budget neutrality</header><text display-inline="yes-display-inline">Any reduction in payments resulting from the application of subparagraphs (A) and (B) shall not be taken into account in applying any budget neutrality provision under such system.</text>
+ </subparagraph><subparagraph id="H211C66F69A904538BE1F55879B692666"><enum>(D)</enum><header>No effect on site neutral payment rate</header><text>This paragraph shall not apply with respect to the computation of the applicable site neutral payment rate under paragraph (6).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

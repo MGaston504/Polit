@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA74FA6BCD867403EB27FCDDB7A27759B" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 529 IH: To amend the Internal Revenue Code of 1986 to improve 529 plans.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 529</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150126">January 26, 2015</action-date>
+			<action-desc><sponsor name-id="J000290">Ms. Jenkins of Kansas</sponsor> (for herself and <cosponsor name-id="K000188">Mr. Kind</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to improve 529 plans.</official-title>
+	</form>
+	<legis-body id="HBD668CAA4C5D442EBE888F3B3BF2A7D8" style="OLC">
+		<section id="HC99C6DFC446044BFAAAFE7C98190D98F" section-type="section-one"><enum>1.</enum><header>Computer technology and equipment allowed as a qualified higher education expense for section 529
+			 accounts</header>
+ <subsection id="H12350060B9DC4C10BAF88A76D0F02C79"><enum>(a)</enum><header>Made permanent</header><text>Clause (iii) of <external-xref legal-doc="usc" parsable-cite="usc/26/529">section 529(e)(3)(A)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>in 2009 or 2010</quote>.</text> </subsection><subsection id="HBF5E7976FF9D40C688F8A45E8521F1E8"><enum>(b)</enum><header>Only for use primarily by the beneficiary</header><text>Clause (iii) of section 529(e)(3)(A) of such Code is amended by striking <quote>used by the beneficiary and the beneficiary’s family</quote> and inserting <quote>used primarily by the beneficiary</quote>.</text>
+ </subsection><subsection id="H1B038A5EEAFF41858DE5E259400ED486"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to expenses paid or incurred after December 31, 2014.</text>
+			</subsection></section><section id="H2C9AD13A524B4830B36CA5E800DB8ACE"><enum>2.</enum><header>Elimination of distribution aggregation requirements</header>
+ <subsection id="HA8AB50CC019043DBAA49E87B7B854EF5"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Clause (ii) of <external-xref legal-doc="usc" parsable-cite="usc/26/529">section 529(c)(3)(D)</external-xref> of the Internal Revenue Code of 1986 is amended by inserting before the comma at the end the following: <quote>, except for purposes of calculating the earnings portion of any distribution.</quote>.</text>
+ </subsection><subsection id="H074C2EBCE4C94F8A983756DE62CFC0EF"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to distributions after December 31, 2014.</text> </subsection></section><section id="H0A32017265AA42A1B07426B3FB6E4F47"><enum>3.</enum><header>Contribution of amounts previously distributed in case of withdrawal from school</header> <subsection id="H8290B9E94A20401AA8FA63BA862275EB"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Paragraph (3) of <external-xref legal-doc="usc" parsable-cite="usc/26/529">section 529(c)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H5FE2526453BF480BA80B850AB55FC515" style="OLC">
+ <subparagraph id="HCA17FD03728544C5A96218DFE263A8DD"><enum>(E)</enum><header>Special rule for contributions relating to withdrawal from school</header><text display-inline="yes-display-inline">In the case of a beneficiary who receives a refund of any qualified higher education expenses from an eligible educational institution in connection with withdrawal from enrollment at such institution, subparagraph (A) shall not apply to that portion of any distribution for the taxable year which is recontributed to a qualified tuition program of which such individual is a beneficiary, but only to the extent such recontribution is made not later than 60 days after the date of such refund and does not exceed the refunded amount.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HD8D2F47E3FD44D3CBAD96E041827ECEC"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply with respect to distributions after December 31, 2014.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5481683DE779449891DE7A4BBAB18B88" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4248 IH: FSOC Designation Review Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4248</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151215">December 15, 2015</action-date>
+			<action-desc><sponsor name-id="W000796">Mr. Westmoreland</sponsor> (for himself and <cosponsor name-id="S001157">Mr. David Scott of Georgia</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Financial Stability Act to revise the reevaluation procedures with respect to
+			 determinations by the Financial Stability Oversight Council that a nonbank
+			 financial company shall be supervised by the Board of Governors and shall
+			 be subject to prudential standards.</official-title>
+	</form>
+	<legis-body id="H1B36E35EDB24431EAA6A79DF45207C11" style="OLC">
+ <section id="HC2D2582CFC9D4E5D8040B5EAAC34A0F8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>FSOC Designation Review Act</short-title></quote>.</text> </section><section id="H5F95CDE535504D9B998E5EB5303FB4BF"><enum>2.</enum><header>Reevaluation and reaffirmation</header><text display-inline="no-display-inline">Section 113(d) of the Financial Stability Act of 2010 (<external-xref legal-doc="usc" parsable-cite="usc/12/5323">12 U.S.C. 5323(d)</external-xref>) is amended to read as follows:</text>
+			<quoted-block display-inline="no-display-inline" id="HE8B6AD8A39A040DB975C56374FE06217" style="OLC">
+				<subsection id="HEC58D302C53A43EEBE89C05A73183BF4"><enum>(d)</enum><header>Reevaluation and reaffirmation</header>
+ <paragraph id="H1CBB05ABFF6C4F208BCB74BE8ED5E45A"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Council shall reevaluate each determination made under subsections (a) and (b) with respect to a nonbank financial company supervised by the Board of Governors on—</text>
+ <subparagraph id="HF4B8681CE4CE4F03AE6197E80025C47B"><enum>(A)</enum><text>an annual basis; and</text> </subparagraph><subparagraph id="H6E23A967C1024B2699D7EE8732B4A350"><enum>(B)</enum><text>upon the request of such company based upon the company’s representation that there has been a material change in the company’s operations or activities or a material change in regulatory or market conditions.</text>
+ </subparagraph></paragraph><paragraph id="H4B0D21DFFC194290B985E435C9A30A86"><enum>(2)</enum><header>Reevaluation</header><text>As part of the reevaluation required by paragraph (1), the Council shall—</text> <subparagraph id="H0853EC2D27AB4EA9B8C7C6127FD95F2F"><enum>(A)</enum><text>provide the nonbank financial company with a confidential written analysis of the specific elements of the company’s exposures or activities that would be relevant to the Council’s reevaluation of the determination for such company;</text>
+ </subparagraph><subparagraph id="HB4C4ED76057B4FE287A47A5F5C9FDF0B"><enum>(B)</enum><text>provide the nonbank financial company with an opportunity to submit written materials to the Council regarding the reevaluation, including, as the company’s option, a plan to obtain rescission of the determination or other materials relevant to the assessment described under paragraph (3)(A);</text>
+ </subparagraph><subparagraph id="H0E60A65CAF0C4C7FA25FF7D8E3CFB778"><enum>(C)</enum><text display-inline="yes-display-inline">if the nonbank financial company submits a plan under subparagraph (B), consider whether the plan, if implemented, would result in the nonbank financial company no longer meeting the criteria for a final determination under subsection (a) or (b);</text>
+ </subparagraph><subparagraph id="H6D3F4D94388B49109DD0FDDE4F328CD4"><enum>(D)</enum><text>make a preliminary written decision regarding rescinding such determination;</text> </subparagraph><subparagraph id="H7B557FE084D7458BA33DB0A805AA4620"><enum>(E)</enum><text>if the preliminary decision is not to rescind the determination, provide the nonbank financial company with—</text>
+ <clause id="H6E193E12F004499BA90F92157A0CD03A"><enum>(i)</enum><text display-inline="yes-display-inline">a copy of the preliminary decision, which shall include a confidential written analysis explaining with specificity whether and to what extent any plan submitted by the company under subparagraph (B) addresses the potential threat posed by the nonbank financial company to the financial stability of the United States;</text>
+ </clause><clause id="H3C20BD58BEF049B7B479FC164229A0F1"><enum>(ii)</enum><text display-inline="yes-display-inline">an opportunity to meet with representatives of the Council to discuss the preliminary decision and analysis provided under clause (i); and</text>
+ </clause><clause id="HAC2AB91066E04CE098035B68A99C1F45"><enum>(iii)</enum><text>an opportunity to revise and re-submit such plan or any other written materials, after discussions with representatives of the Council; and</text>
+ </clause></subparagraph><subparagraph id="H2310A524FE3C4C27B85545CB44C2239D"><enum>(F)</enum><text>upon the request of the nonbank financial company, grant such company an oral hearing before the Council.</text>
+						</subparagraph></paragraph><paragraph id="HB37D7BB97F12436E9CDDA30717AEB078"><enum>(3)</enum><header>Vulnerability to financial distress</header>
+ <subparagraph id="H2E79B2DEA3314F4E998D850616A2E9EC"><enum>(A)</enum><header>In general</header><text>The written analysis required under paragraph (2)(A) shall include an assessment describing with particularity the vulnerability of the nonbank financial company to financial distress, including consideration of the company’s leverage, liquidity risk and maturity mismatch, and existing regulatory scrutiny of the company.</text>
+ </subparagraph><subparagraph id="H51014270E0754484B3BEE85B151B67DF"><enum>(B)</enum><header>Effective of failure to include assessment</header><text>If the Council provides a written analysis under paragraph (2)(A) that does not contain the assessment required under subparagraph (A), any determination made under subsection (a) or (b) with respect to such company shall be rescinded immediately.</text>
+ </subparagraph><subparagraph id="H8D99F82947A948CD86D3F002B4BBD2C0"><enum>(C)</enum><header>Definitions</header><text>For purposes of this paragraph the terms <quote>vulnerability to financial distress</quote>, <quote>leverage</quote>, <quote>liquidity risk and maturity mismatch</quote>, and <quote>existing regulatory scrutiny of the nonbank financial company</quote> shall have the same meaning as those terms are given, respectively, under appendix A to part 1310 of title 12, Code of Federal Regulations.</text>
+						</subparagraph></paragraph><paragraph id="H5AF290F29EBF43D19E724B3566924991"><enum>(4)</enum><header>Reaffirmation</header>
+ <subparagraph id="H51683DE0F23C4449BE051F2880EEFE92"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Following a reevaluation under paragraph (1), the Council shall vote whether to reaffirm the determination that the nonbank financial company shall be supervised by the Board of Governors and shall be subject to prudential standards, pursuant to subsection (a) or (b), as applicable.</text>
+ </subparagraph><subparagraph id="H8D8688228E56446F9B363B9DD701F958"><enum>(B)</enum><header>Vote requirement</header><text display-inline="yes-display-inline">Any reaffirmation under subparagraph (A) shall require a vote of no fewer than <fraction>2/3</fraction> of the voting members then serving, including an affirmative vote by the Chairperson, finding that the company still meets the standards for designation under subsection (a) or (b), as applicable. Any such finding shall include a detailed explanation of the basis for the Council’s determination, including a confidential written analysis explaining with specificity whether and to what extent any plan submitted by the nonbank financial company pursuant to paragraph (2)(B) addresses the potential threat posed by the company to the financial stability of the United States.</text>
+ </subparagraph><subparagraph id="H1E18A49C4C254C03AD8EA8A8DF5E3717"><enum>(C)</enum><header>Effect of failure to reaffirm</header><text display-inline="yes-display-inline">If the Council votes under subparagraph (A) with respect to a nonbank financial company and does not reaffirm the designation, the determination made with respect to such company shall be rescinded immediately.</text>
+ </subparagraph></paragraph><paragraph id="H2564297F5FA647C9B33DB9E14EA6F704"><enum>(5)</enum><header>Views of primary financial regulatory agency</header><text display-inline="yes-display-inline">In conducting a reevaluation under paragraph (1), the Council shall consult with the primary financial regulatory agency for the nonbank financial company, if any, and the primary financial regulatory agencies of the company’s principal subsidiaries, if any, and the views of such agencies shall be given special consideration.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="H7F8C569E204D40A486117FE4EBF61E44"><enum>3.</enum><header>Judicial review</header><text display-inline="no-display-inline">Section 113(h) of the Financial Stability Act of 2010 (<external-xref legal-doc="usc" parsable-cite="usc/12/5323">12 U.S.C. 5323(h)</external-xref>) is amended by striking <quote>subsection (d)(2)</quote> and inserting <quote>subsection (d)(4)</quote>.</text> </section></legis-body> </bill> 
+

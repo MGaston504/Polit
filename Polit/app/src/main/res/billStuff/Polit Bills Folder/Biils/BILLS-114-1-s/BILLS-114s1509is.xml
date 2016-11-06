@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1509 IS: Treat and Reduce Obesity Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-06-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1509</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150604">June 4, 2015</action-date>
+			<action-desc><sponsor name-id="S277">Mr. Carper</sponsor> (for himself, <cosponsor name-id="S288">Ms. Murkowski</cosponsor>, <cosponsor name-id="S373">Mr. Cassidy</cosponsor>, <cosponsor name-id="S359">Mr. Heinrich</cosponsor>, <cosponsor name-id="S337">Mr. Coons</cosponsor>, and <cosponsor name-id="S153">Mr. Grassley</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to provide for the coordination of programs to
+			 prevent and treat obesity, and
+			 for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Treat and Reduce Obesity Act of 2015</short-title></quote>.</text>
+ </section><section id="id53e69545c4364891b02b61fed6dfd9f9"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress makes the following findings:</text> <paragraph id="id1344c639db7b4395b3feb683316c9f6a"><enum>(1)</enum><text>According to the Centers for Disease Control, about 34 percent of adults aged 65 and over were obese in the period of 2009 through 2012, representing almost 15 million people.</text>
+ </paragraph><paragraph id="id27df3cf1325d417d93693bdad6c90155"><enum>(2)</enum><text>Obesity increases the risk for chronic diseases and conditions, including high blood pressure, heart disease, certain cancers, arthritis, mental illness, lipid disorders, sleep apnea, and type 2 diabetes.</text>
+ </paragraph><paragraph id="id187bbee7d0fb4a819fd2b6febec7c56c"><enum>(3)</enum><text>More than half of Medicare beneficiaries are treated for 5 or more chronic conditions per year. The rate of obesity among Medicare patients doubled from 1987 to 2002, and Medicare spending on obese individuals during that time more than doubled.</text>
+ </paragraph><paragraph id="idd3f49771287c4152a0577ac72a74af55"><enum>(4)</enum><text>Men and women with obesity at age 65 have decreased life expectancy of 1.6 years for men and 1.4 years for women.</text>
+ </paragraph><paragraph id="ide5c32ee2a94a414f8cdb251edbc9f235"><enum>(5)</enum><text>The direct and indirect cost of obesity is more than $450 billion annually.</text> </paragraph><paragraph id="idd3fe398232804cf2b2c3f94fab3a13a1"><enum>(6)</enum><text>On average, a Medicare beneficiary with obesity costs $1,964 more than a normal-weight beneficiary.</text>
+ </paragraph><paragraph id="ida0463fc3632a4423a57ffd9bea2ec612"><enum>(7)</enum><text>The prevalence of obesity among older individuals in the United States is growing at a linear rate and, if nothing changes, nearly half of the elderly population of the United States will have obesity in 2030 according to a Congressional Research Report on obesity.</text>
+ </paragraph></section><section id="id634ed67e8ed34ae39caff32f07fd5984"><enum>3.</enum><header>Authority to expand health care providers qualified to furnish intensive behavioral therapy</header><text display-inline="no-display-inline">Section 1861(ddd) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x(ddd)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+			<quoted-block display-inline="no-display-inline" id="id806951646D664085B77772E046F69204" style="OLC">
+ <paragraph id="id54088f2428c848c88523b9ce2aead538"><enum>(4)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="idC922F3CE97D6457A8C64D38C8F230129"><enum>(A)</enum><text>Subject to subparagraph (B), the Secretary may, in addition to qualified primary care physicians and other primary care practitioners, cover intensive behavioral therapy for obesity furnished by any of the following:</text>
+ <clause id="idae5b85eb0db848aaa97a5f07590ff987"><enum>(i)</enum><text>A physician (as defined in subsection (r)(1)) who is not a qualified primary care physician.</text> </clause><clause id="idb55bdb869c144b45b94cf6c5e9a304f4"><enum>(ii)</enum><text>Any other appropriate health care provider (including a physician assistant, nurse practitioner, or clinical nurse specialist (as those terms are defined in subsection (aa)(5)), a clinical psychologist, a registered dietitian or nutrition professional (as defined in subsection (vv)).</text>
+ </clause><clause id="id5C0718639B9343E5AFFF3D80C288AD83"><enum>(iii)</enum><text>An evidence-based, community-based lifestyle counseling program approved by the Secretary.</text>
+ </clause></subparagraph><subparagraph id="idD607569D9D6F40879508951A337F878D"><enum>(B)</enum><text>In the case of intensive behavioral therapy for obesity furnished by a provider described in clause (ii) or (iii) of subparagraph (A), the Secretary may only cover such therapy if such therapy is furnished—</text>
+ <clause id="idF0E16BE757C044F3B572B7846D7A6113"><enum>(i)</enum><text>upon referral from, and in coordination with, a physician or primary care practitioner operating in a primary care setting or any other setting specified by the Secretary; and</text>
+ </clause><clause id="idA9F17FC0E0444EE3992E90C3AF8EA0B9"><enum>(ii)</enum><text>in an office setting, a hospital out-patient department, a community-based site that complies with the Federal regulations concerning the privacy of individually identifiable health information promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/42/1320d-2">42 U.S.C. 1320d–2</external-xref> note), or another setting specified by the Secretary.</text>
+ </clause></subparagraph><subparagraph id="id07002c646a5342778387fe9946135ebf"><enum>(C)</enum><text>In order to ensure a collaborative effort, the coordination described in subparagraph (B)(i) shall include the health care provider or lifestyle counseling program communicating to the referring physician or primary care practitioner any recommendations or treatment plans made regarding the therapy.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="id9b880f4fc77b4a59a59e514bb70c6bce"><enum>4.</enum><header>Medicare part d coverage of obesity medication</header>
+ <subsection id="idA41668AB9BF140CAA79E7CC24839718C"><enum>(a)</enum><header>In general</header><text>Section 1860D–2(e)(2)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-102">42 U.S.C. 1395w–102(e)(2)(A)</external-xref>) is amended by inserting after <quote>restricted under section 1927(d)(2),</quote> the following: <quote>other than subparagraph (A) of such section if the drug is used for the treatment of obesity (as defined in section 1861(yy)(2)(C)) or for weight loss management for an individual who is overweight (as defined in section 1861(yy)(2)(F)(i)) and has one or more related comorbidities,</quote>.</text>
+ </subsection><subsection id="id57ac633139f04f9dbcc81e2bff43a8c8"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall apply to plan years beginning on or after the date that is 2 years after the date of the enactment of this Act.</text>
+ </subsection></section><section id="idfd8274b2ae334a38889dfd373bf90c1e"><enum>5.</enum><header>Report to Congress</header><text display-inline="no-display-inline">Not later than the date that is 1 year after the date of the enactment of this Act, and every 2 years thereafter, the Secretary shall submit a report to Congress describing the steps the Secretary has taken to implement the Act and provide Congress with recommendations for better coordination and leveraging of programs within the Department of Health and Human Services and other Federal agencies that relate in any way to supporting appropriate research and clinical care (such as any interactions between physicians and other health care providers and their patients) to treat, reduce, and prevent obesity in the adult population.</text></section></legis-body>
+</bill>
+
+

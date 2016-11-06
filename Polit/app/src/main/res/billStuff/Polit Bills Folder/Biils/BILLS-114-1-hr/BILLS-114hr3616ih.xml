@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H4A4012A95DE24779970E7D6995A76A66" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3616 IH: Defending Our Defenders Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3616</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150925">September 25, 2015</action-date>
+			<action-desc><sponsor name-id="F000445">Mr. Forbes</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To appropriate such funds as may be necessary to ensure that members of the Armed Forces, including
+			 reserve components thereof, and supporting civilian and contractor
+			 personnel continue to receive pay and allowances for active service
+			 performed when a funding gap caused by the failure to enact interim or
+			 full-year appropriations for the Armed Forces occurs, which results in the
+			 furlough of non-emergency personnel and the curtailment of Government
+			 activities and services, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HF60D2EE163404EC8A29D6628800DC6CD" style="OLC">
+ <section id="HB93F90F7C42E45668D77D59C0E556D46" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Defending Our Defenders Act</short-title></quote>.</text> </section><section id="H06E46F2C61844FEB86785D4D244DFAB3" section-type="subsequent-section"><enum>2.</enum><header>Emergency appropriation of funds to provide pay and allowances for members of the Armed Forces and supporting civilian and contractor personnel during funding gap impacting the Department of Defense or Department of Homeland Security</header> <subsection display-inline="no-display-inline" id="H88366A2D2D9842E9B51B80A2F09E2396"><enum>(a)</enum><header>Appropriation of funds for military pay and allowances</header><text display-inline="yes-display-inline">During a funding gap impacting the Armed Forces, the Secretary of the Treasury shall make available to the Secretary of Defense (and the Secretary of Homeland Security in the case of the Coast Guard), out of any amounts in the general fund of the Treasury not otherwise appropriated, such amounts as the Secretary of Defense (and the Secretary of Homeland Security in the case of the Coast Guard) determines to be necessary to continue to provide pay and allowances (without interruption) to the following:</text>
+ <paragraph display-inline="no-display-inline" id="H70F6797C804F42A7AAD2319B587ED9A9"><enum>(1)</enum><text display-inline="yes-display-inline">Members of the Army, Navy, Air Force, Marine Corps, and Coast Guard, including reserve components thereof, who perform active service during the funding gap.</text>
+ </paragraph><paragraph display-inline="no-display-inline" id="H3E29727BEE3A4A56B9EB6E666884C922"><enum>(2)</enum><text display-inline="yes-display-inline">At the discretion of the Secretary of Defense, such civilian personnel of the Department of Defense who are providing support to the members of the Armed Forces described in paragraph (1) as the Secretary considers appropriate.</text>
+ </paragraph><paragraph display-inline="no-display-inline" id="H868BEF344EE242C895B3C5A688D019AF"><enum>(3)</enum><text display-inline="yes-display-inline">At the discretion of the Secretary of Defense, such personnel of contractors of the Department of Defense who are providing support to the members of the Armed Forces described in paragraph (1) as the Secretary considers appropriate.</text>
+ </paragraph></subsection><subsection id="H98BDF6433B0B46D3BB73A34990FAC28E"><enum>(b)</enum><header>Funding gap defined</header><text display-inline="yes-display-inline">In this section, the term <term>funding gap</term> means any period of time after the beginning of a fiscal year for which interim or full-year appropriations for the personnel accounts of the Armed Forces for that fiscal year have not been enacted.</text>
+ </subsection></section><section display-inline="no-display-inline" id="HB8A7D96B1BC84585AF1338A9B293EDB0" section-type="subsequent-section"><enum>3.</enum><header>Limitation on furlough of Department of Defense employees paid through working-capital funds</header><text display-inline="no-display-inline">Section 2208 of title 10, United States Code, is amended by adding at the end the following new subsection:</text>
+			<quoted-block display-inline="no-display-inline" id="H4C001410EEB14340B12ECCE17559615F" style="USC">
+				<subsection id="H3D606C83DFD442EE8B8FA3D6CE819419"><enum>(s)</enum><header>Furlough of employees</header>
+ <paragraph commented="no" display-inline="yes-display-inline" id="HB0AC982C6DF64014B8943A0C7B843BA0"><enum>(1)</enum><text>Except as provided under paragraph (2), the Secretary of Defense or the Secretary of a military department may not furlough any employee of the Department of Defense whose salary is funded by a working-capital fund unless the Secretary determines that—</text>
+ <subparagraph id="H5AD0BF08171C4CD691B3A7BAE5DD8D38" indent="up1"><enum>(A)</enum><text>the working-capital fund is insolvent; or</text> </subparagraph><subparagraph id="HBA54E883634542CDB48C4BF7B16337D0" indent="up1"><enum>(B)</enum><text>there are insufficient funds in the working-capital fund to pay the labor costs of the employee.</text>
+ </subparagraph></paragraph><paragraph id="H8F2BE07E82BC44BABF3A19C6E2685508" indent="up1"><enum>(2)</enum><text>The Secretary of Defense or the Secretary of a military department may waive the restriction under paragraph (1) if the Secretary determines such a waiver is in the interest of the national security of the United States.</text>
+ </paragraph><paragraph id="H416A09AFD9AC4A8B9334C9321A7AC14D" indent="up1"><enum>(3)</enum><text display-inline="yes-display-inline">In this subsection, the term <quote>furlough</quote> means the placement, for nondisciplinary reasons, of an employee in a temporary status in which the employee has no duties and is not paid, but does not include administrative leave or an excused absence.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="H0B837709D61B453A90948C2933235AAB"><enum>4.</enum><header>Prioritize obligations on the debt held by the public and military pay</header><text display-inline="no-display-inline">In the event that the debt of the United States Government reaches the statutory limit as defined in section 3101 of title 31, United States Code, the following shall take equal priority over all other obligations incurred by the Government of the United States:</text>
+ <paragraph id="HABA4CA7E26964347A162B38E96A67CDB"><enum>(1)</enum><text display-inline="yes-display-inline">The authority of the Department of the Treasury contained in section 3123 of title 31, United States Code, to pay with legal tender the principal and interest on debt held by the public.</text>
+ </paragraph><paragraph id="HA631874C64FC49B4B49F04C5BB9EE3C8"><enum>(2)</enum><text display-inline="yes-display-inline">The payment of pay and allowances for members of the Armed Forces on active duty.</text> </paragraph><paragraph id="HACD676D7424243F0B2C6A2907EEF1CB3"><enum>(3)</enum><text>The payment of salaries for Department of Defense civilian employees.</text>
+ </paragraph><paragraph id="H08A120BDD0C046499F5747DF232DAF2C"><enum>(4)</enum><text>The payment of salaries for employees of contractors of the Department of Defense.</text> </paragraph></section><section id="H61BE383142A34A73AAB088929ECA1F52"><enum>5.</enum><header>Termination</header><text display-inline="no-display-inline">Appropriations and funds made available and authority granted pursuant to this Act shall be available until the earlier of the following dates:</text>
+ <paragraph id="HE0A38C54FA9B43499E0876F4EF851323"><enum>(1)</enum><text>The date of the enactment into law of an appropriation (including a continuing appropriation) for any purpose for which amounts are made available in section 2.</text>
+ </paragraph><paragraph id="HC2B7DE06394B4B87877780F493AE9CBB"><enum>(2)</enum><text>The date of the enactment into law of the applicable regular or continuing appropriations resolution or other Act without any appropriation for such purpose.</text>
+ </paragraph><paragraph id="H1BE104C2389E4B14A4A182AABDA387E4"><enum>(3)</enum><text>January 1, 2016.</text> </paragraph></section></legis-body> </bill> 
+

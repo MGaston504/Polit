@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="H77B4B965342D48D7BBC5A9EE369DF39C" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2843 RH: TSA PreCheck Expansion Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IB</distribution-code>
+		<calendar display="yes">Union Calendar No. 167</calendar>
+		<congress display="yes">114th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>H. R. 2843</legis-num>
+		<associated-doc display="yes" role="report">[Report No. 114–221]</associated-doc>
+		<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150619">June 19, 2015</action-date>
+			<action-desc><sponsor name-id="K000386">Mr. Katko</sponsor> (for himself, <cosponsor name-id="M001157">Mr. McCaul</cosponsor>, and <cosponsor name-id="R000575">Mr. Rogers of Alabama</cosponsor>) introduced the following bill; which was referred to the <committee-name added-display-style="italic" committee-id="HHM00" deleted-display-style="strikethrough">Committee on Homeland Security</committee-name></action-desc>
+		</action>
+		<action>
+			<action-date>July 22, 2015</action-date>
+			<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the
+			 Union, and ordered to be printed</action-desc>
+			<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction>
+			<action-instruction>For text of introduced bill, see copy of bill as introduced on June 19, 2015</action-instruction>
+		</action>
+		<action display="yes">
+			<action-desc display="yes"><pagebreak></pagebreak></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To require certain improvements in the Transportation Security Administration’s PreCheck expedited
+			 screening program, and for other purposes.<pagebreak></pagebreak></official-title>
+	</form>
+	<legis-body changed="added" committee-id="HHM00" display-enacting-clause="yes-display-enacting-clause" id="H71530F60F88C4A1E80B4A03AD177A084" reported-display-style="italic" style="OLC">
+ <section id="H6326CB13669646EF9E25851C842B764C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>TSA PreCheck Expansion Act</short-title></quote>.</text> </section><section id="HD200394436B846949A12F09800ED1663"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text>
+ <paragraph id="H0EBA39F0F19D44C893F150368568585D"><enum>(1)</enum><header>Administrator</header><text>The term <quote>Administrator</quote> means the Administrator of the Transportation Security Administration.</text> </paragraph><paragraph id="H62853D90601E4569B391514DAFFED71E"><enum>(2)</enum><header>Department</header><text>The term <quote>Department</quote> means the Department of Homeland Security.</text>
+ </paragraph><paragraph id="H5A31372117A74B2293CB2A665377E3DC"><enum>(3)</enum><header>TSA</header><text>The term <quote>TSA</quote> means the Transportation Security Administration.</text> </paragraph></section><section id="H84D8B23FA7684250941C66153C357270"><enum>3.</enum><header>Enrollment expansion</header> <subsection id="H3B588EDE8B204B50810C09F69279A985"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 90 days after the date of the enactment of this Act, the Administrator shall publish PreCheck application enrollment standards to add multiple private sector application capabilities for the TSA PreCheck program to increase the public’s enrollment access to such program, including standards that allow the use of secure technologies, including online enrollment, kiosks, tablets, or staffed laptop stations at which individuals can apply for entry into such program.</text>
+ </subsection><subsection id="H6C1AD1966E754C1C8F123F77159CF14C"><enum>(b)</enum><header>Requirements</header><text>Upon publication of the PreCheck program application enrollment standards pursuant to subsection (a), the Administrator shall—</text>
+ <paragraph id="HA782E51E04A44F6B945CAC43638DD506"><enum>(1)</enum><text display-inline="yes-display-inline">coordinate with interested parties to deploy TSA-approved ready-to-market private sector solutions that meet the TSA PreCheck application enrollment standards described in paragraph (1), make available additional PreCheck enrollment capabilities, and offer secure online and mobile enrollment opportunities;</text>
+ </paragraph><paragraph id="H7C2A470ABC55451FBEED35B787A56263"><enum>(2)</enum><text display-inline="yes-display-inline">partner with the private sector to collect biographic and biometric identification information via kiosks, mobile devices, or other mobile enrollment platforms to reduce the number of instances in which passengers need to travel to enrollment centers;</text>
+ </paragraph><paragraph id="H99120F8EC50249FD92797659D318209D"><enum>(3)</enum><text>ensure that the kiosks, mobile devices, or other mobile enrollment platforms referred to in paragraph (3) are certified as secure and not vulnerable to data breaches;</text>
+ </paragraph><paragraph id="H194E2F73BDE9468187797C9F1CA27A37"><enum>(4)</enum><text>ensure that any biometric and biographic information is collected in a manner which ensures privacy and data security protections, including that applicants’ personally identifiable information is handled only by individuals who have been properly vetted;</text>
+ </paragraph><paragraph id="H4EDC3D8A5B3A47C9B428C96494489297"><enum>(5)</enum><text display-inline="yes-display-inline">ensure that an individual who wants to enroll in the PreCheck program and has started an application with a single identification verification at one location will be able to save such individual’s application on any kiosk, personal computer, mobile device, or other mobile enrollment platform and be able to return within a reasonable time to submit a second identification verification; and</text>
+ </paragraph><paragraph id="HDF962CAFC9BB447A87993B5889F15C14"><enum>(6)</enum><text display-inline="yes-display-inline">ensure that any enrollment expansion using a private sector risk assessment instead of a fingerprint-based criminal history records check is be determined, by the Administrator, to be equivalent to a fingerprint-based criminal history records check conducted through the Federal Bureau of Investigation.</text>
+ </paragraph></subsection><subsection id="H4B9877D2F2524FD687B7DE327AE9078A"><enum>(c)</enum><header>Marketing of PreCheck program</header><text>Upon publication of PreCheck program application enrollment standards pursuant to subsection (a), the Administrator shall—</text>
+ <paragraph id="H0D15996AB9CA44E18FA42BD023234DDF"><enum>(1)</enum><text>in accordance with the standards described in paragraph (1) of subsection (a), develop and implement—</text>
+ <subparagraph id="HC641EBC3FE904AA4916EE0741AD8F140"><enum>(A)</enum><text>a process, including an associated timeframe, for approving private sector marketing of the TSA PreCheck program; and</text>
+ </subparagraph><subparagraph id="HE8B47C9CF66F412AB64039B94F6FF55F"><enum>(B)</enum><text>a strategy for partnering with the private sector to encourage enrollment in such program; and</text> </subparagraph></paragraph><paragraph id="HB18B0EA884B5424D849E4C94F08BBBF9"><enum>(2)</enum><text>submit to Congress a report on any PreCheck fees collected in excess of the costs of administering such program, including recommendations for using such amounts to support marketing of such program under this subsection.</text>
+ </paragraph></subsection><subsection id="H8FAC70B426164750B93BC6D3A201DB59"><enum>(d)</enum><header>Identity verification enhancement</header><text>Not later than 90 days after the date of the enactment of this Act, the Administrator shall—</text> <paragraph id="HCA163A75A76345458D24082070CC7031"><enum>(1)</enum><text>coordinate with the heads of appropriate components of the Department to leverage Department-held data and technologies to verify the citizenship of individuals enrolling in the TSA PreCheck program; and</text>
+ </paragraph><paragraph id="HB9EB8332AA6D402BABB2806B35F16923"><enum>(2)</enum><text>partner with the private sector to use advanced biometrics and NIST 800–63–2 identity proofing standards to facilitate enrollment in such program.</text>
+ </paragraph></subsection><subsection id="HA3EE67EA965E42FD8782C2FDA52BCC96"><enum>(e)</enum><header>PreCheck lane operation</header><text>The Administrator shall—</text> <paragraph id="HA72C0E201A114F29BAD5202C123462D3"><enum>(1)</enum><text>ensure that TSA PreCheck screening lanes are open and available during peak and high-volume travel times at airports to individuals enrolled in the PreCheck program; and</text>
+ </paragraph><paragraph id="HDE3C48C2596A4444A27A3D0D0253B521"><enum>(2)</enum><text>make every practicable effort to provide expedited screening at standard screening lanes during times when PreCheck screening lanes are closed to individuals enrolled in such program in order to maintain operational efficiency.</text>
+ </paragraph></subsection><subsection display-inline="no-display-inline" id="HAA45C05444AD4AE5B46C38D285E12876"><enum>(f)</enum><header>Vetting for PreCheck participants</header><text display-inline="yes-display-inline">Not later than 90 days after the date of the enactment of this Act, the Administrator shall initiate an assessment of the security vulnerabilities in the vetting process for the PreCheck program that includes an evaluation of whether subjecting PreCheck participants to recurrent fingerprint-based criminal history records checks, in addition to recurrent checks against the terrorist watchlist, could be done in a cost-effective manner to strengthen the security of the PreCheck program.</text>
+			</subsection></section></legis-body>
+	<endorsement display="yes">
+		<action-date>July 22, 2015</action-date>
+		<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the
+			 Union, and ordered to be printed</action-desc></endorsement>
+</bill>
+
+

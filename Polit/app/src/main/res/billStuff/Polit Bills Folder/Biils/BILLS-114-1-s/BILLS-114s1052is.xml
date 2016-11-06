@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1052 IS: To require a study on the impact of State and local performance benchmarking and disclosure policies for commercial and multifamily buildings, to provide for competitive awards to utilities, States, and units of local government, and for other purposes. </dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-04-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1052</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150422">April 22, 2015</action-date>
+			<action-desc><sponsor name-id="S332">Mr. Franken</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require a study on the impact of State and local performance benchmarking and disclosure
+			 policies for commercial and multifamily buildings, to provide for
+			 competitive awards to utilities, States, and units of local government,
+			 and for other purposes. </official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Energy information study</header>
+ <subsection id="id4D8497524F934360BD062C244BDFB90A"><enum>(a)</enum><header>In general</header><text>Not later than 2 years after the date of enactment of this Act, the Secretary of Energy (referred to in this Act as the <quote>Secretary</quote>) shall complete a study, with opportunity for public comment—</text>
+ <paragraph id="id9054CB2CF5C841C38D9A2B848439A849"><enum>(1)</enum><text>on the impact of—</text>
+ <subparagraph id="idB48490180F794F0C9ED4BF15FB723E04"><enum>(A)</enum><text>State and local performance benchmarking and disclosure policies, and any associated building efficiency policies, for commercial and multifamily buildings; and</text>
+ </subparagraph><subparagraph id="id8530E94D783B4182BAA13AD2063D1050"><enum>(B)</enum><text>programs and systems in which utilities provide aggregated information regarding whole building energy consumption and usage information to owners of multitenant commercial, residential, and mixed-use buildings;</text>
+ </subparagraph></paragraph><paragraph id="id7A2E7305A2604C67AD1014C6620FB28C"><enum>(2)</enum><text>that identifies best practice policy approaches studied under paragraph (1) that have resulted in the greatest improvements in building energy efficiency; and</text>
+ </paragraph><paragraph id="id43CA73CD6200453F864A83C0E0ADEAA3"><enum>(3)</enum><text>that considers—</text>
+ <subparagraph id="idf9644570418c4cd69cab13101ed089d9"><enum>(A)</enum><text>compliance rates and the benefits and costs of the policies and programs on building owners, utilities, tenants, and other parties;</text>
+ </subparagraph><subparagraph id="id5255704c7fde4a01a9745d65226255e9"><enum>(B)</enum><text>utility practices, programs, and systems that provide aggregated energy consumption information to multitenant building owners, and the impact of public utility commissions and State privacy laws on those practices, programs, and systems;</text>
+ </subparagraph><subparagraph id="id65b034aff374422eb5e8e97081dacfcb"><enum>(C)</enum><text>exceptions to compliance in existing laws where building owners are not able to gather or access whole building energy information from tenants or utilities;</text>
+ </subparagraph><subparagraph id="iddc81bfce17f04b249292887bfbc131ff"><enum>(D)</enum><text>the treatment of buildings with—</text>
+ <clause id="id31A62F8CFCEE4654969B469DA5B579F4"><enum>(i)</enum><text>multiple uses;</text>
+ </clause><clause id="id6F7DE2C0DF854431A0D5742837CC3CA1"><enum>(ii)</enum><text>uses for which baseline information is not available; and</text>
+ </clause><clause id="idA0ABFBAC34C74D56A1015080B026D1C0"><enum>(iii)</enum><text>uses that require high levels of energy intensities, such as data centers, trading floors, and television studios;</text>
+ </clause></subparagraph><subparagraph id="iddcf16160562f4ba2a13e41cef56cca55"><enum>(E)</enum><text>implementation practices, including disclosure methods and phase-in of compliance;</text>
+ </subparagraph><subparagraph id="id0233e4ddbe2d41d9883900fa5033747e"><enum>(F)</enum><text>the safety and security of benchmarking tools offered by government agencies, and the resiliency of those tools against cyber attacks; and</text>
+ </subparagraph><subparagraph id="id2fd1002bd35d4452b34d1ec212b59410"><enum>(G)</enum><text>international experiences with regard to building benchmarking and disclosure laws and data aggregation for multitenant buildings.</text>
+					</subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id7F7A9C8E02EB4114B01F724DF9097AD5"><enum>(b)</enum><header>Submission to
+ Congress</header><text>At the conclusion of the study, the Secretary shall submit to Congress a report on the results of the study.</text>
+			</subsection></section><section id="ida4b41e198b3b4777bd078a05af2bd7cf"><enum>2.</enum><header>Grants to utilities</header>
+ <subsection id="id5B9D6469DA49467FAA795DAC89E3A943"><enum>(a)</enum><header>Grants to utilities</header><text display-inline="yes-display-inline">Based on the results of the research for the portion of the study described in section 1(a)(1)(B), and with criteria developed following public notice and comment, the Secretary may make competitive awards to utilities, utility regulators, and utility partners to develop and implement effective and promising programs to provide aggregated whole building energy consumption information to multitenant building owners.</text>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="ided8e5fc76fe5489aa7f2d0a3495dba1a"><enum>(b)</enum><header display-inline="yes-display-inline">Authorization of Appropriations</header><text display-inline="yes-display-inline">There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2016 through 2020, to remain available until expended.</text>
+			</subsection></section><section id="id80BBDF6FDBF8434CB40B9BD4C491AD8A"><enum>3.</enum><header>Grants to States and units of local government</header>
+ <subsection id="id01A8FF50860D4ED992DE09AB266AAE98"><enum>(a)</enum><header>Grants to utilities</header><text display-inline="yes-display-inline">Based on the results of the research for the portion of the study described in section 1(a)(1)(B), and with criteria developed following public notice and comment, the Secretary may make competitive awards to States and units of local government to develop and implement effective and promising benchmarking and disclosure policies, and any associated building efficiency policies, for commercial and multifamily buildings.</text>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="id1D97BF06CABD42BA856FC6FFD5EEE81E"><enum>(b)</enum><header display-inline="yes-display-inline">Authorization of Appropriations</header><text display-inline="yes-display-inline">There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2016 through 2020, to remain available until expended.</text>
+ </subsection></section><section id="idb4850ac9d4744ed69204a9fdd54a7ad4"><enum>4.</enum><header>Input From Stakeholders</header><text display-inline="no-display-inline">The Secretary shall seek input from stakeholders to maximize the effectiveness of the actions taken under this Act.</text>
+ </section><section id="id542ed6f1396c4cb2b127fee293f7ca73"><enum>5.</enum><header>Report</header><text display-inline="no-display-inline">Not later than 2 years after the date of enactment of this Act, and every 2 years thereafter, the Secretary shall submit to Congress a report on the progress made in complying with this Act.</text>
+		</section></legis-body>
+</bill>
+
+

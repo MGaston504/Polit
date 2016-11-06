@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H1831EE3284EB470F8576515A8DB1FA59" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2579 IH: Securing Care for Seniors Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2579</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150529">May 29, 2015</action-date>
+			<action-desc><sponsor name-id="B001273">Mrs. Black</sponsor> (for herself, <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>, <cosponsor name-id="G000558">Mr. Guthrie</cosponsor>, and <cosponsor name-id="L000565">Mr. Loebsack</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to improve the risk adjustment under the Medicare
+			 Advantage program, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HAB689D600AA8461A8995E1484DA02173" style="OLC">
+ <section id="HA29B747F61F74C7782885F8338498DFB" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Securing Care for Seniors Act of 2015</short-title></quote>.</text> </section><section id="H8DCA578A06424EC099DBEA8BE92C2316"><enum>2.</enum><header>Improvements to MA risk adjustment system</header><text display-inline="no-display-inline">Section 1853(a)(1)(C) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-23">42 U.S.C. 1395w–23(a)(1)(C)</external-xref>) is amended by adding at the end the following new clauses:</text>
+			<quoted-block display-inline="no-display-inline" id="H863A4A29AB2C4085892047E6E65FF025" style="OLC">
+				<clause id="H967CE088459E441AAAEC826D52759283"><enum>(iv)</enum><header>Evaluation and subsequent revision of the risk adjustment system to account for chronic conditions
+			 and other factors for the purpose of making the risk adjustment system
+			 more accurate, transparent, and regularly updated</header>
+ <subclause id="H58B91B64ECE544F8AADA7A7672F0491D"><enum>(I)</enum><header>Revision based on number of chronic conditions</header><text display-inline="yes-display-inline">The Secretary shall revise for 2017 and periodically thereafter, the risk adjustment system under this subparagraph so that a risk score under such system, with respect to an individual, takes into account the number of chronic conditions with which the individual has been diagnosed.</text>
+ </subclause><subclause id="H7F2A578E4D674BE7A4505212112B3170"><enum>(II)</enum><header>Evaluation of different risk adjustment models</header><text>The Secretary shall evaluate the impact of including two years of data to compare the models used to determine risk scores for 2013 and 2014 under such system.</text>
+ </subclause><subclause id="HF887C8FBE8CD44B89766DCE4D01A8440"><enum>(III)</enum><header>Evaluation and analysis on chronic kidney disease (CKD) codes</header><text display-inline="yes-display-inline">The Secretary shall evaluate the impact of removing the diagnosis codes related to chronic kidney disease in the 2014 risk adjustment model and conduct an analysis of best practices of MA plans to slow disease progression related to chronic kidney disease.</text>
+ </subclause><subclause id="HD2B961218D8F4B089E15B1BC8FFA1751"><enum>(IV)</enum><header>Evaluation and recommendations on use of encounter data</header><text display-inline="yes-display-inline">The Secretary shall evaluate the impact of including 10 percent of encounter data in computing payment for 2016 and the readiness of the Centers for Medicare &amp; Medicaid Services to incorporate encounter data in risk scores. In conducting such evaluation, the Secretary shall use data collected as encounter data on or after January 1, 2012, shall analyze such data for accuracy and completeness and issue recommendations for improving such accuracy and completeness, and shall not increase the percentage of such encounter data used unless the Secretary releases the data publicly, indicates how such data will be weighted in computing the risk scores, and ensures that the data reflects the degree and cost of care coordination under MA plans.</text>
+ </subclause><subclause id="HD3B46BF57C63408E9654C52808339102"><enum>(V)</enum><header>Conduct of evaluations</header><text display-inline="yes-display-inline">Evaluations and analyses under subclauses (II) through (IV) shall include an actuarial opinion from the Chief Actuary of the Centers for Medicare &amp; Medicaid Services about the reasonableness of the methods, assumptions, and conclusions of such evaluations and analyses. The Secretary shall consult with the Medicare Payment Advisory Commission and accept and consider comments of stakeholders, such as managed care organizations and beneficiary groups, on such evaluation and analyses. The Secretary shall complete such evaluations and analyses in a manner that permits the results to be applied for plan years beginning with the second plan year that begins after the date of the enactment of this clause.</text>
+ </subclause><subclause id="HE001966061BC4C998152EF6AAFDF1466"><enum>(VI)</enum><header>Implementation of revisions based on evaluations</header><text display-inline="yes-display-inline">If the Secretary determines, based on such an evaluation or analysis, that revisions to the risk adjustment system to address the matters described in any of subclauses (II) through (IV) would make the risk adjustment system under this subparagraph better reflect and appropriately weight for the population that is served by the plan, the Secretary shall, beginning with 2017, and periodically thereafter, make such revisions.</text>
+ </subclause><subclause id="H40C29237F81F46B9B13D607060CE201F"><enum>(VII)</enum><header>Periodic reporting to Congress</header><text display-inline="yes-display-inline">With respect to plan years beginning with 2017 and every third year thereafter, the Secretary shall submit to Congress a report on the most recent revisions (if any) made under this clause, including the evaluations conducted under subclauses (II) through (IV).</text>
+					</subclause></clause><clause id="H0A6A2DC89C0749FBAD00C7D0CA55D865"><enum>(v)</enum><header>No changes to adjustment factors that prevent activities consistent with national health policy
+ goals</header><text display-inline="yes-display-inline">In making any changes to the adjustment factors, including adjustment for health status under paragraph (3), the Secretary shall ensure that the changes do not prevent Medicare Advantage organizations from performing or undertaking activities that are consistent with national health policy goals, including activities to promote early detection and better care coordination, the use of health risk assessments, care plans, and programs to slow the progression of chronic diseases.</text>
+ </clause><clause id="HF115788235594EBFAD55FCECC3F5AE98"><enum>(vi)</enum><header>Opportunity for review and public comment regarding changes to adjustment factors</header><text display-inline="yes-display-inline">For changes to adjustment factors effective for 2017 and subsequent years, in addition to providing notice of such changes in the announcement under subsection (b)(2), the Secretary shall provide an opportunity for review of proposed changes and a public comment period of not less than 60 days before implementing such changes.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="H9FC87FE0B616482FA99B7B8FF6E36D32"><enum>3.</enum><header>Sense of Congress</header><text display-inline="no-display-inline">It is the sense of Congress that—</text> <paragraph id="H49321655580C42BEB3872FCC48EFD063"><enum>(1)</enum><text display-inline="yes-display-inline">the Centers for Medicare &amp; Medicaid Services has inadvertently created a star rating system under section 1853(o)(4) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-23">42 U.S.C. 1395w–23(o)(4)</external-xref>) for Medicare Advantage plans that lacks proper accounting for the socioeconomic status of enrollees in such plans and the extent to which such plans serve individuals who are also eligible for medical assistance under title XIX of such Act; and</text>
+ </paragraph><paragraph id="HFE9FB9CBD84F43C296C9466053D55C2A"><enum>(2)</enum><text>Congress will work with the Centers for Medicare &amp; Medicaid Services and stakeholders, including beneficiary groups and managed care organizations, to ensure that such rating system properly accounts for the socioeconomic status of enrollees in such plans and the extent to which such plans serve such individuals described in paragraph (1).</text>
+			</paragraph></section></legis-body>
+</bill>
+
+

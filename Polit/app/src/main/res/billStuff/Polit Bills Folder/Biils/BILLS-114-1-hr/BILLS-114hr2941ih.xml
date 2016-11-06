@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H1D55DB21493940BD8AAB55F6310613B8" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2941 IH: Veterans Affairs Employee Accountability Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2941</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150625">June 25, 2015</action-date> 
+<action-desc><sponsor name-id="R000582">Mr. Roe of Tennessee</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend title 38, United States Code, to prohibit the receipt of bonuses by Department of Veterans Affairs employees who violate Federal civil laws or regulations, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H79985F9DB66743428629FE1D5971832D" style="OLC"> 
+<section id="H7F52F0710CA842639C0E8B366D775DD5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans Affairs Employee Accountability Act</short-title></quote>.</text></section> <section id="HB1FBBB0C49F24A31B19AEA44BEA38695"><enum>2.</enum><header>Limitation on bonuses for Department of Veterans Affairs employees who violate federal civil laws or regulations</header> <subsection id="H963ADF073A244B3AA7A641464EEF31BF"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/7">Chapter 7</external-xref> of title 38, United States Code, is amended by adding at the end the following new section:</text>
+<quoted-block id="H1154711015634033B706E0577E7354F8" style="OLC">
+<section id="HBD052FF695B147048630F889470BE2B5"><enum>715.</enum><header>Limitation on bonuses</header>
+<subsection id="H267A991CD0BB4756B10D5A867EF6DD32"><enum>(a)</enum><header>In general</header>
+<paragraph commented="no" display-inline="yes-display-inline" id="H3E043614BBB340C99A15F47FEA1B91B0"><enum>(1)</enum><text>The Secretary shall ensure that no employee of the Department who, during any year, knowingly violates any law, regulation, or policy described in paragraph (2) receives a bonus for or during that year.</text></paragraph> <paragraph id="HDB3470DBB8C44B44A26D1EB7FC009817" indent="up1"><enum>(2)</enum><text>A law, regulation, or policy described in this paragraph is any of the following:</text>
+<subparagraph id="H18A0F285871C4DBBA8ADBEA010B20626"><enum>(A)</enum><text>A Federal civil law or Federal regulation, including such civil laws or regulations covered under the Federal Acquisition Regulation and the Veterans Affairs Acquisition Regulation.</text></subparagraph> <subparagraph id="HE7C39CAE170E45D387A38F63AF9AE190"><enum>(B)</enum><text>An internal policy of the Department.</text></subparagraph></paragraph></subsection>
+<subsection id="H9F44A20E68644133879725FCC1640775"><enum>(b)</enum><header>Certification</header><text>The Secretary shall annually certify to Congress that each bonus awarded by the Secretary during the previous year was awarded in accordance with subsection (a)(1).</text></subsection> <subsection id="HC91CD52C1EF347D0BF6C9A49BB4329B6"><enum>(c)</enum><header>Bonus defined</header><text display-inline="yes-display-inline">For purposes of this section, the term <term>bonus</term> means any pay augmentation, incentive, or additional gift of any value, including—</text>
+<paragraph id="HB9255C59DB944883B76A99B04EB8ECDF"><enum>(1)</enum><text>gift cards;</text></paragraph> <paragraph id="HE47AF89BD6AB4D9A9401F629A793AEED"><enum>(2)</enum><text>any sum of money;</text></paragraph>
+<paragraph id="H4F1B6152438A465B8A3B6DC8F042B466"><enum>(3)</enum><text>any award of monetary or non-monetary value;</text></paragraph> <paragraph id="HE6C652DF409644AC9A9B87C8A34DC6CA"><enum>(4)</enum><text>any donation to or on behalf of or any value awarded to a recipient;</text></paragraph>
+<paragraph id="H37F0F99638014B80A68897579EF05D20"><enum>(5)</enum><text>a retention incentive;</text></paragraph> <paragraph id="HEF0279625DB745669ABC69DF47E42044"><enum>(6)</enum><text>a retention incentive payment;</text></paragraph>
+<paragraph id="HE5AA463FE02E49FB9A2A56E8DFD4D66D"><enum>(7)</enum><text>a retention incentive award;</text></paragraph> <paragraph id="H18A5617D7A0C47228BE779C6627B9D5B"><enum>(8)</enum><text display-inline="yes-display-inline">a Presidential Rank Award;</text></paragraph>
+<paragraph id="H9ED37CEC5EF74D579D12D9AB05256185"><enum>(9)</enum><text>an individual cash award (non-rating based);</text></paragraph> <paragraph id="H20829AF3F7A6440C803465F8C48DD9DE"><enum>(10)</enum><text>an individual cash award (rating based);</text></paragraph>
+<paragraph id="HEA4FA639B2BD455A91C95CE8A1064050"><enum>(11)</enum><text>a group cash award;</text></paragraph> <paragraph id="H84853416AFB74BA8B3C8A837722DEC88"><enum>(12)</enum><text>a travel savings incentive;</text></paragraph>
+<paragraph id="H6C8E8FAF3A384C8388C03D0DA5D1E758"><enum>(13)</enum><text>an individual time off award—hours;</text></paragraph> <paragraph id="H88527860D4934BF88A879C6E984F0D1F"><enum>(14)</enum><text>a group time off award—hours;</text></paragraph>
+<paragraph id="HC4D87DBC9D894493BD0731690E45CE5F"><enum>(15)</enum><text>an individual suggestion or invention award;</text></paragraph> <paragraph id="HB2AE268B4D994F39A56053B84C58379C"><enum>(16)</enum><text>a group suggestion or invention award;</text></paragraph>
+<paragraph id="H3053768C8A9D4D27AC3ACA94DBD10BAB"><enum>(17)</enum><text>a foreign language award;</text></paragraph> <paragraph id="HBDFF8775A71746E0BC6F818AD59DAC56"><enum>(18)</enum><text>any other individual award;</text></paragraph>
+<paragraph id="HD030725F9F9D413A96B2EEF61CF3BE43"><enum>(19)</enum><text>any other group award;</text></paragraph> <paragraph id="HA7E1853B9301403490016BF336D117F5"><enum>(20)</enum><text>a special certification award;</text></paragraph>
+<paragraph id="H51EE9E58761646B29EFC3BA17A2C93A2"><enum>(21)</enum><text>an exemplary job performance or achievement award;</text></paragraph> <paragraph id="H8394455C392D47C3A455D8BEFBDC0BFF"><enum>(22)</enum><text>a lump sum performance payment (rating based in lieu of pay adjustment);</text></paragraph>
+<paragraph id="HAE3AED4854BE44EFBA640F17EC4856AE"><enum>(23)</enum><text>a lump sum performance payment (rating based not in lieu of pay adjustment);</text></paragraph> <paragraph id="H86CC57F7E9C148C88C4A18A7B8CDA490"><enum>(24)</enum><text>a lump sum performance payment (non-rating based);</text></paragraph>
+<paragraph id="H95585F27DE284273A9F9864B3D837CC2"><enum>(25)</enum><text display-inline="yes-display-inline">a retention incentive;</text></paragraph> <paragraph id="HD71CE3640C38436B9D8EA60B3A4D917D"><enum>(26)</enum><text>a recruitment incentive;</text></paragraph>
+<paragraph id="H7888DE76C1C54F978A4A3FDCBD7D218F"><enum>(27)</enum><text>a relocation incentive;</text></paragraph> <paragraph id="H3C7C662FE0A44CF8AE1A60EC8F872475"><enum>(28)</enum><text>a performance award;</text></paragraph>
+<paragraph id="HBA96326A299D4CEBA5E2B0E7CF12C251"><enum>(29)</enum><text>any student loan repayment;</text></paragraph> <paragraph id="HD419A7881B034960BEEE251E063A34D9"><enum>(30)</enum><text>a separation incentive;</text></paragraph>
+<paragraph id="H6FDACDD06AFC4E20ABD0A48FE728A495"><enum>(31)</enum><text>a referral bonus;</text></paragraph> <paragraph id="HAABB84DB6B1643A99FE9E51D6203E3EA"><enum>(32)</enum><text>any other form of recognition, monetary or non-monetary, as a result of any action, activity, suggestion or effort that is based on false, fraudulent or incomplete information, including any such awards as identified or to be identified by the Office of Personnel Management rules, regulations and policies and Department rules, regulations, and policies; and</text></paragraph>
+<paragraph id="H7FB16C2C395043B4BD6ACD2D5720A302"><enum>(33)</enum><text>any other incentive requiring approval from the Central Office Human Resource Service, the Chief Business Office Workforce Management, or the Corporate Senior Executive Management Office.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HE9800267062448DAAFB03E7519E70F38"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of such chapter is amended by adding at the end the following new item:</text>
+<quoted-block id="H2759863139814F0494518017A191721F" style="OLC">
+<toc regeneration="no-regeneration">
+<toc-entry level="section">715. Limitation on bonuses.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> 
+</legis-body> 
+</bill> 
+
+

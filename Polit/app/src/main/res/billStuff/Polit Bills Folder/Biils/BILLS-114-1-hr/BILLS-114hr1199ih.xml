@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H77278DFAAD1E46BD9C135AE5EA92AA41" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1199 IH: Innocent Sellers Fairness Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1199</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150302">March 2, 2015</action-date> 
+<action-desc><sponsor name-id="F000460">Mr. Farenthold</sponsor> (for himself, <cosponsor name-id="S000583">Mr. Smith of Texas</cosponsor>, <cosponsor name-id="F000448">Mr. Franks of Arizona</cosponsor>, <cosponsor name-id="D000533">Mr. Duncan of Tennessee</cosponsor>, <cosponsor name-id="C001087">Mr. Crawford</cosponsor>, and <cosponsor name-id="J000290">Ms. Jenkins of Kansas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To prevent undue disruption of interstate commerce by limiting civil actions brought against persons whose only role with regard to a product in the stream of commerce is as a lawful seller of the product.</official-title> 
+</form> 
+<legis-body id="HF34D36DE024A4D8F8C039BD94C20D9CC" style="OLC"> 
+<section id="H55EBFEE1BC454965861E3EA754813129" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Innocent Sellers Fairness Act</short-title></quote>.</text></section> <section id="H10E0BA0129CC4974867B44B4D57492CD"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds that—</text>
+<paragraph id="HF509001609F94FAFB530C1BBD264A709"><enum>(1)</enum><text>an innocent seller should not be held responsible under the doctrine of product liability for damages that the seller did not cause;</text></paragraph> <paragraph id="HADCA60FD6D46491B948B6043038575EB"><enum>(2)</enum><text display-inline="yes-display-inline">as a result of product liability, sellers are often brought into litigation despite the fact that they had no control or input in the design, production, or any other aspect of an allegedly defective product, and may therefore face increased costs due to the possibility or result of disproportionate damage awards;</text></paragraph>
+<paragraph id="HF86FC044F59E45D4A20DF83AA76656E7"><enum>(3)</enum><text>due to high liability costs and unwarranted litigation costs, sellers face higher costs in purchasing insurance through interstate insurance markets to cover their activities;</text></paragraph> <paragraph id="HF78757550ECF4EC88E73814F297FF2F9"><enum>(4)</enum><text display-inline="yes-display-inline">liability reform for sellers will promote the free flow of goods and services, lessen burdens on interstate commerce, decrease litigiousness, and lower prices to consumers; and</text></paragraph>
+<paragraph id="HD5803461A6EB4D5B90F641965DA9B6E2"><enum>(5)</enum><text>legislation to address these concerns is an appropriate exercise of the powers of Congress under clauses 3, 9, and 18 of section 8 of article I of the Constitution of the United States, and the 14th Amendment to the Constitution of the United States.</text></paragraph></section> <section id="H666844DAD31545069BC571B83335E8C8"><enum>3.</enum><header>Limitation on liability of product sellers</header> <subsection id="HAF85A8C152B84481B7AB2EBBE4BA4D9C"><enum>(a)</enum><header>In general</header><text>No seller of any product shall be liable for personal injury, monetary loss, or damage to property arising out of an accident or transaction involving such product, unless the claimant proves one or more of the following activities by the seller:</text>
+<paragraph id="H5928BAE0568547D3A472B45C8C8680F4"><enum>(1)</enum><text>The seller was the manufacturer of the product.</text></paragraph> <paragraph id="H39E6535CBB7F4AD49CBF02F0A8128C27"><enum>(2)</enum><text>The seller participated in the design of the product.</text></paragraph>
+<paragraph id="H5205F40C699F422380A231EE7CD75FCA"><enum>(3)</enum><text>The seller participated in the installation of the product.</text></paragraph> <paragraph id="H87B5D361CD8648439D1C215E285332FF"><enum>(4)</enum><text>The seller altered, modified, or expressly warranted the product in a manner not authorized by the manufacturer.</text></paragraph>
+<paragraph id="H9BA46CC505F148F1A1B534065731CE80"><enum>(5)</enum><text display-inline="yes-display-inline">The seller had actual knowledge of the defect in the product as a result of a recall from the manufacturer or governmental entity authorized to make such recall or actual inspection at the time the seller sold the product to the claimant.</text></paragraph> <paragraph id="HAA3BCDF0FD0D46B3930A19794ACFCEC5"><enum>(6)</enum><text>The seller had actual knowledge of the defect in the product at the time the seller supplied the product.</text></paragraph>
+<paragraph id="H22C252C5AE8F4F2EAD194EF0BCEC5ED0"><enum>(7)</enum><text display-inline="yes-display-inline">The seller intentionally altered or modified a product warranty, warning or instruction from the manufacturer in a way not authorized by the manufacturer.</text></paragraph> <paragraph id="HCB956715A8EE432D8393A4F7FDBA3B8E"><enum>(8)</enum><text>The seller knowingly made a false representation about an aspect of the product not authorized by the manufacturer.</text></paragraph></subsection>
+<subsection id="H511C125D98F04B22878768DE49E6FA7D"><enum>(b)</enum><header>Liability of seller in cases of negligence</header><text>If the claimant proves one or more of the activities described in subsection (a) and such activity was negligent, the seller’s liability is limited to the personal injury, monetary loss, or damage to property, directly caused by such activity.</text></subsection> <subsection id="H4ECC111ACB704B21BF2CCA1EB9D76816"><enum>(c)</enum><header>Definitions</header><text>In this Act:</text>
+<paragraph id="H8955DC5F0A544F6B8F5A613689ED545C"><enum>(1)</enum><header>Manufacturer</header><text>The term <quote>manufacturer</quote> means a person who is lawfully engaged in the business of manufacturing a product in interstate or foreign commerce during such person’s regular course of trade or business.</text></paragraph> <paragraph id="H80F4DE531AF444EC8D1B2F33C70F6B45"><enum>(2)</enum><header>Person</header><text>The term <quote>person</quote> means any individual, corporation, company, association, firm, partnership, society, joint stock company, or any other entity, including any governmental entity.</text></paragraph>
+<paragraph id="HC23FD53A973C4E23999A2F9D405A185D"><enum>(3)</enum><header>Seller</header><text>The term <quote>seller</quote> means a person who is lawfully engaged in the business of marketing, distributing, advertising, or selling a product in interstate or foreign commerce during such person’s regular course of trade or business.</text></paragraph></subsection> <subsection id="H630B1792CD944E07AD288AAB007A2BC7"><enum>(d)</enum><header>Effective date</header><text>This Act applies to any civil action involving a product that was sold to the claimant on or after the date of the enactment of this Act.</text></subsection></section> 
+</legis-body> 
+</bill> 
+
+

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9446786C5F27481184393ED65E599AEA" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1099 IH: Hunter and Farmer Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1099</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150226">February 26, 2015</action-date>
+			<action-desc><sponsor name-id="C001087">Mr. Crawford</sponsor> (for himself, <cosponsor name-id="H001072">Mr. Hill</cosponsor>, <cosponsor name-id="W000821">Mr. Westerman</cosponsor>, and <cosponsor name-id="W000809">Mr. Womack</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Migratory Bird Treaty Act to provide certain exemptions relating to the taking of
+			 migratory game birds.</official-title>
+	</form>
+	<legis-body id="H3DCF768626284C269F881FA70BBFE02A" style="OLC">
+ <section id="HF01F8656D03347BA9272D5B1F0FE6FC5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Hunter and Farmer Protection Act</short-title></quote>.</text> </section><section id="H00E669E977DE4AB7A2ADDBE7F4F86457"><enum>2.</enum><header>Baiting of migratory game birds</header><text display-inline="no-display-inline">Section 3 of the Migratory Bird Treaty Act (<external-xref legal-doc="usc" parsable-cite="usc/16/704">16 U.S.C. 704</external-xref>) is amended by striking subsection (b) and inserting the following:</text>
+			<quoted-block id="HAFFC539530794ABFB8E5BA01FF6CB729" style="OLC">
+				<subsection id="HEE82572983B54C89AAE0ED8364AE5DED"><enum>(b)</enum><header>Prohibition of baiting</header>
+ <paragraph id="H7B71A041BBDD4EF7ABFD3EB939F900D4"><enum>(1)</enum><header>Definitions</header><text>In this subsection:</text> <subparagraph id="H363D9D5CC68D4A72929CAD56E70C35CE"><enum>(A)</enum><header>Baited area</header> <clause id="HBC5E3F5A76904DA8A2E020367EBD638A"><enum>(i)</enum><header>In general</header><text>The term <quote>baited area</quote> means—</text>
+ <subclause id="H98CCE26414E047579E2B85882194DE48"><enum>(I)</enum><text>any area on which salt, grain, or other feed has been placed, exposed, deposited, distributed, or scattered, if the salt, grain, or feed could lure or attract migratory game birds; and</text>
+ </subclause><subclause id="H4F327769FE5C40619F621EBCB57218B4"><enum>(II)</enum><text>in the case of waterfowl, cranes (family Gruidae), and coots (fam­i­ly Rallidae), a standing, un­har­vest­ed crop that has been manipulated through activities such as mowing, discing, or rolling, unless the activities are normal agricultural practices.</text>
+ </subclause></clause><clause id="H6F586B98F9E845ADB1A001F4AAD979B5"><enum>(ii)</enum><header>Exclusions</header><text>An area shall not be considered to be a <quote>baited area</quote> if the area—</text> <subclause id="HFA292C4CBF244DDFA524ACD30EA7DF81"><enum>(I)</enum><text>has been treated with a normal agricultural practice;</text>
+ </subclause><subclause id="H031045FA3FD241EB96BE8610E11EB393"><enum>(II)</enum><text>has standing crops that have not been manipulated; or</text> </subclause><subclause id="HF94A5E3E47234F9C8A0D01AC0C7A3F1C"><enum>(III)</enum><text>has standing crops that have been or are flooded.</text>
+ </subclause></clause></subparagraph><subparagraph id="H573829A086294D3095BAD251662212F3"><enum>(B)</enum><header>Baiting</header><text>The term <quote>baiting</quote> means the direct or indirect placing, exposing, depositing, distributing, or scattering of salt, grain, or other feed that could lure or attract migratory game birds to, on, or over any areas on which a hunter is attempting to take migratory game birds.</text>
+ </subparagraph><subparagraph id="H2791D92440F54427A8EC42544583A116"><enum>(C)</enum><header>Migratory game bird</header><text>The term <quote>migratory game bird</quote> means migratory bird species—</text> <clause id="H5A339A5345C0439CBCBBE7BF8701CF17"><enum>(i)</enum><text>that are within the taxonomic families of Anatidae, Columbidae, Gruidae, Rallidae, and Scolopacidae; and</text>
+ </clause><clause id="H64C1B24A05834D35A6705649750CEC23"><enum>(ii)</enum><text>for which open seasons are prescribed by the Secretary of the Interior.</text> </clause></subparagraph><subparagraph id="HD42A12C2A54F4A319933093E26EC48A8"><enum>(D)</enum><header>Normal agricultural practice</header> <clause id="H12D19C93A9E84155B93BBB31DF2ADD85"><enum>(i)</enum><header>In general</header><text>The term <quote>normal agricultural practice</quote> means any practice in 1 annual growing season that—</text>
+ <subclause id="H05142297329F49BB832AF4A7B11247FB"><enum>(I)</enum><text>is carried out in order to produce a marketable crop, including planting, harvest, postharvest, or soil conservation practices; and</text>
+ </subclause><subclause id="H57014098B61F45F2B9F0324AC5FFDA11"><enum>(II)</enum><text>is recommended for the successful harvest of a given crop by the applicable State office of the Cooperative Extension System of the Department of Agriculture, in consultation with, and if requested, the concurrence of, the head of the applicable State department of fish and wildlife.</text>
+								</subclause></clause><clause id="HEB43DF39E6A4451EB6D96FD6318A2E64"><enum>(ii)</enum><header>Inclusions</header>
+ <subclause id="HB557302FBCF447528A39D4BB771FF413"><enum>(I)</enum><header>In general</header><text>Subject to subclause (II), the term <quote>normal agricultural practice</quote> includes the destruction of a crop in accordance with practices required by the Federal Crop Insurance Corporation for agricultural producers to obtain crop insurance under the Federal Crop Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1501">7 U.S.C. 1501 et seq.</external-xref>) on land on which a crop during the current or immediately preceding crop year was not harvestable due to a natural disaster (including any hurricane, storm, tornado, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, drought, fire, snowstorm, or other catastrophe that is declared a major disaster by the President in accordance with section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5170">42 U.S.C. 5170</external-xref>)).</text>
+ </subclause><subclause id="H2CDDE227B8874B9C82BE333223998754"><enum>(II)</enum><header>Limitations</header><text>The term <quote>normal agricultural practice</quote> only includes a crop described in subclause (I) that has been destroyed or manipulated through activities that include (but are not limited to) mowing, discing, or rolling if the Federal Crop Insurance Corporation certifies that flooding was not an acceptable method of destruction to obtain crop insurance under the Federal Crop Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1501">7 U.S.C. 1501 et seq.</external-xref>).</text>
+ </subclause></clause></subparagraph><subparagraph id="H7AB348B0E4E54236AFF47D36477DBC98"><enum>(E)</enum><header>Waterfowl</header><text>The term <quote>waterfowl</quote> means native species of the family Anatidae.</text> </subparagraph></paragraph><paragraph id="H18DABE92B6E84EC1B130CA7B4D894952"><enum>(2)</enum><header>Prohibition</header><text>It shall be unlawful for any person—</text>
+ <subparagraph id="HB77B32A712094F949ED01962AA984539"><enum>(A)</enum><text>to take any migratory game bird by baiting or on or over any baited area, if the person knows or reasonably should know that the area is a baited area; or</text>
+ </subparagraph><subparagraph id="HD12FAAC7BAD84A1A96CFA9DF6AAD60EC"><enum>(B)</enum><text>to place or direct the placement of bait on or adjacent to an area for the purpose of causing, inducing, or allowing any person to take or attempt to take any migratory game bird by baiting or on or over the baited area.</text>
+ </subparagraph></paragraph><paragraph id="HDA740240BE6C4287A2F0C83EFFC48504"><enum>(3)</enum><header>Regulations</header><text>The Secretary of the Interior may promulgate regulations to implement this subsection.</text> </paragraph><paragraph id="H7B18CA19E06944278E4AF04743972786"><enum>(4)</enum><header>Reports</header><text>Annually, the Secretary of Agriculture shall submit to the Secretary of the Interior a report that describes any changes to normal agricultural practices across the range of crops grown by agricultural producers in each region of the United States in which the recommendations are provided to agricultural producers.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

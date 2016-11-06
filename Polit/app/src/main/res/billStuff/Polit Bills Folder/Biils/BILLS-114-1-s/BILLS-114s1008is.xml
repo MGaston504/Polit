@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1008 IS: To require certain agencies to conduct assessments of data centers and develop data center consolidation and optimization plans.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-04-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 1008</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150420">April 20, 2015</action-date><action-desc><sponsor name-id="S323">Mr. Risch</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To require certain agencies to conduct assessments of data centers and develop data center
+			 consolidation and optimization plans.</official-title></form>
+	<legis-body>
+		<section id="id46D1C13E01CB4A16BFE52A7B215548AD" section-type="section-one"><enum>1.</enum><header>Federal data
+		center consolidation</header>
+ <subsection id="id36BF1E6E4ABB41FF8D5C73C3519D52C2"><enum>(a)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section:</text> <paragraph id="id20FE6E49CB684A6F9AAA33A1B83292AE"><enum>(1)</enum><header>Administrator</header><text>The term <term>Administrator</term> means the Administrator for the Office of E-Government and Information Technology within the Office of Management and Budget.</text>
+				</paragraph><paragraph id="id72FC77F5A2A141659F7BFF01685FD175"><enum>(2)</enum><header>Data
+		center</header>
+ <subparagraph id="id77D3D12AEDB64E84A5DF087D20F387E2"><enum>(A)</enum><header>Definition</header><text display-inline="yes-display-inline">The term <term>data center</term> means a closet, room, floor, or building for the storage, management, and dissemination of data and information, as defined by the Administrator in the <quote>Implementation Guidance for the Federal Data Center Consolidation Initiative</quote> memorandum, issued on March 19, 2012.</text>
+					</subparagraph><subparagraph commented="no" id="id45A4A5CDB19F48ED88C0F199FCA7D5C3"><enum>(B)</enum><header>Authority to
+ modify definition</header><text>The Administrator may promulgate guidance or other clarifications to modify the definition in subparagraph (A) in a manner consistent with this Act, as the Administrator determines necessary.</text>
+					</subparagraph></paragraph></subsection><subsection id="idF0FD7BB056474E2CA7F6ABA618C8D14A"><enum>(b)</enum><header>Federal data
+		center consolidation inventories and plans</header>
+				<paragraph id="id1a1c31e6bf524f1db9b9668f136e0e05"><enum>(1)</enum><header>In
+		general</header>
+					<subparagraph id="idFE0FCA54052948F9AEEE27DCAF2C17BA"><enum>(A)</enum><header>Annual
+ reports</header><text>Each year, beginning in fiscal year 2015 through the end of fiscal year 2019, the head of each agency that is described in subparagraph (E), assisted by the chief information officer of the agency, shall submit to the Administrator—</text>
+ <clause id="id1389c80fb2ac4eef88cba098b1134089"><enum>(i)</enum><text>a comprehensive asset inventory of the data centers owned, operated, or maintained by or on behalf of the agency, even if the center is administered by a third party; and</text>
+ </clause><clause id="id0db486d6c8f84b2ea77e0d6a55372fed"><enum>(ii)</enum><text>an updated consolidation plan that includes—</text>
+ <subclause id="id41ead275ebdb4582a786edad54e4c7e2"><enum>(I)</enum><text>a technical roadmap and approach for achieving the agency’s targets for infrastructure utilization, energy efficiency (including performance benchmarks such as Power Utilization Effectiveness and use of Energy Star-rated equipment), cost savings and efficiency;</text>
+ </subclause><subclause id="id50d4e2ab5f2849b9bbd9f1ee799a10ea"><enum>(II)</enum><text>a detailed timeline for implementation of the data center consolidation plan;</text>
+ </subclause><subclause id="id290dea0753f74ce1bf5127f49cab459a"><enum>(III)</enum><text>quantitative utilization and efficiency goals for reducing assets, improving energy and efficiency, and improving use of information technology infrastructure;</text>
+ </subclause><subclause id="id226a2d95316f42d9946524792a5bdbb9"><enum>(IV)</enum><text>performance metrics by which the progress of the agency toward data center consolidation goals can be measured, including metrics to track any gains in energy utilization as a result of this initiative;</text>
+ </subclause><subclause id="id0c25af706f5747dbb9c5e5d7a8ef304a"><enum>(V)</enum><text>an aggregation of year-by-year investment and cost savings calculations for 5 years past the date of submission of the cost saving assessment, including a description of any initial costs for data center consolidation and life cycle cost savings;</text>
+ </subclause><subclause id="idd9f79ec878214db7b68dce1f453285f8"><enum>(VI)</enum><text>quantitative progress towards previously stated goals including cost savings (including savings measured on a total cost of ownership basis) and increases in operational efficiencies and utilization; and</text>
+ </subclause><subclause id="id5510ad00e3a14a2aae9d690a26a92b46"><enum>(VII)</enum><text>any additional information required by the Administrator.</text>
+							</subclause></clause></subparagraph><subparagraph id="id512575BE848B48AC92D540A847A55481"><enum>(B)</enum><header>Use of existing
+ reporting structures</header><text>The Administrator may require agencies described in subparagraph (E) to submit any information required to be submitted under this subsection through reporting structures in use as of the date of enactment of this Act.</text>
+ </subparagraph><subparagraph id="id9a388d8d58a54c5fa8c59d80111828bb"><enum>(C)</enum><header>Certification</header><text>Each year, beginning in fiscal year 2015 through the end of fiscal year 2019, the head of an agency, acting through the chief information officer of the agency, shall submit a statement to the Administrator certifying that the agency has complied with the requirements of this Act.</text>
+					</subparagraph><subparagraph id="id985682E3643745969EFEA084E348606F"><enum>(D)</enum><header>Inspector
+		general report</header>
+						<clause id="id4AF7E396BEF048E2BE498687D1D45BAD"><enum>(i)</enum><header>In
+ general</header><text>The Inspector General for each agency described in subparagraph (E) shall release a public report not later than 6 months after the date on which the agency releases the first updated asset inventory in fiscal year 2015 under subparagraph (A)(i), which shall evaluate the completeness of the inventory of the agency.</text>
+						</clause><clause commented="no" id="id2d25274aa27e46a38daec7d7fc47cde4"><enum>(ii)</enum><header>Agency
+ response</header><text>The head of each agency shall respond to the report completed by the Inspector General for the agency under clause (i), and complete any inventory identified by the Inspector General for the agency as incomplete, by the time the agency submits the required inventory update for fiscal year 2016.</text>
+						</clause></subparagraph><subparagraph id="idF2CE99C2180B486F9561F97035DBCB3A"><enum>(E)</enum><header>Agencies
+ described</header><text>The agencies (including all associated components of the agency) described in this paragraph are the—</text>
+ <clause id="id3A77016257E84A278B69428FA2F8F2AD"><enum>(i)</enum><text>Department of Agriculture;</text>
+ </clause><clause id="id7E6E103CEE2C49488E14E5FDD1117038"><enum>(ii)</enum><text>Department of Commerce;</text>
+ </clause><clause id="idBEB8A4CF95A04BD8814D6AB0FB370599"><enum>(iii)</enum><text>Department of Defense;</text>
+ </clause><clause id="idD51ABD81B7BA43BAA9AD43B86514D4F3"><enum>(iv)</enum><text>Department of Education;</text>
+ </clause><clause id="idB11EDA342DAC43018E169A21024E90D4"><enum>(v)</enum><text>Department of Energy;</text>
+ </clause><clause id="idB5AE51A95E1F4EC190A2510E485191FF"><enum>(vi)</enum><text>Department of Health and Human Services;</text>
+ </clause><clause id="idF06270D5FF04411EAA92C2DAB6757728"><enum>(vii)</enum><text>Department of Homeland Security;</text>
+ </clause><clause id="id9FC59EE7BB9140538FA8F291BD099410"><enum>(viii)</enum><text>Department of Housing and Urban Development;</text>
+ </clause><clause id="id8C2BD4E50AD942B2AB860DFCBA19119D"><enum>(ix)</enum><text>Department of the Interior;</text>
+ </clause><clause id="id1408745BF2F04318977BC50AA3D0EB74"><enum>(x)</enum><text>Department of Justice;</text>
+ </clause><clause id="id1138DAACD3BF44C8916C91487A998D7E"><enum>(xi)</enum><text>Department of Labor;</text>
+ </clause><clause id="idC032A5E310B540C6A9F27FD148D4B9C6"><enum>(xii)</enum><text>Department of State;</text>
+ </clause><clause id="id460AC92FE1974F99A55ED3C81F84CE61"><enum>(xiii)</enum><text>Department of Transportation;</text>
+ </clause><clause id="idD115C05F3F5C45D290C24816BDCF0FFC"><enum>(xiv)</enum><text>Department of Treasury;</text>
+ </clause><clause id="idD7B9A78BD7DC479B821F5D8AEE33F493"><enum>(xv)</enum><text>Department of Veterans Affairs;</text>
+ </clause><clause id="idBFF98B4E4A8C4C02823EAC898B530005"><enum>(xvi)</enum><text>Environmental Protection Agency;</text>
+ </clause><clause id="idFE2568EB6ED74B10AD76EA2057886F17"><enum>(xvii)</enum><text>General Services Administration;</text>
+ </clause><clause id="id48CC0AFD6F7443548DC44EB22003EE5A"><enum>(xviii)</enum><text>National Aeronautics and Space Administration;</text>
+ </clause><clause id="id9C98E8744EDF440291741BE6CB389430"><enum>(xix)</enum><text>National Science Foundation;</text>
+ </clause><clause id="id3DAFBC4F84F6491699D41AD6AB993FF9"><enum>(xx)</enum><text>Nuclear Regulatory Commission;</text>
+ </clause><clause id="id23BEC33BF88E4FD2915051D75E36D20D"><enum>(xxi)</enum><text>Office of Personnel Management;</text>
+ </clause><clause id="idD690911F02024A869CCB02AA78094A84"><enum>(xxii)</enum><text>Small Business Administration;</text>
+ </clause><clause id="idCB4517E21EB94E3CBFB02E28856DBB05"><enum>(xxiii)</enum><text>Social Security Administration; and</text>
+ </clause><clause id="id07FD4E0AF1634353873C7F0CC32D9293"><enum>(xxiv)</enum><text>United States Agency for International Development.</text>
+						</clause></subparagraph><subparagraph id="id6924B95F9AD04BB89E489DF79EC7EAF1"><enum>(F)</enum><header>Agency
+ implementation of consolidation plans</header><text>Each agency described in subparagraph (E), under the direction of the chief information officer of the agency shall—</text>
+ <clause id="id79D203F78F3A4DF2A8C4C7F065C729A9"><enum>(i)</enum><text>implement the consolidation plan required under subparagraph (A)(ii); and</text>
+ </clause><clause id="idBE2A8C76B14B42A988D4879CB56DE401"><enum>(ii)</enum><text>provide to the Administrator annual updates on implementation and cost savings (including life cycle costs) and efficiency improvements realized through such consolidation plan.</text>
+						</clause></subparagraph></paragraph><paragraph id="idD6314C3238054D60B98060E3CD99084F"><enum>(2)</enum><header>Administrator
+ responsibilities</header><text>The Administrator shall—</text> <subparagraph id="idC158D507ACD547B4843CBC2896083720"><enum>(A)</enum><text>establish the deadline, on an annual basis, for agencies to submit information under this section;</text>
+ </subparagraph><subparagraph id="idDF79E1FA3739456F80F335001F2F7699"><enum>(B)</enum><text>ensure that each certification submitted under paragraph (1)(C) and each agency consolidation plan submitted under paragraph (1)(A)(ii) is made available in a timely manner to the general public;</text>
+ </subparagraph><subparagraph id="id87d4c0bc747b407aa18269091156a740"><enum>(C)</enum><text>review the plans submitted under paragraph (1) to determine whether each plan is comprehensive and complete;</text>
+ </subparagraph><subparagraph id="id3930bb3c78ca4234b18927b6d4570ab2"><enum>(D)</enum><text>monitor the implementation of the data center consolidation plan of each agency described in paragraph (1)(A)(ii); and</text>
+ </subparagraph><subparagraph id="id9d49c2ba55be4e4b8a7892c1afeeccef"><enum>(E)</enum><text>update the cumulative cost savings projection on an annual basis as the savings are realized through the implementation of the agency plans.</text>
+					</subparagraph></paragraph><paragraph id="id0D046FD6C1EA4DD9BDD7318EEED50A74"><enum>(3)</enum><header>Cost saving
+		goal and updates for Congress</header>
+					<subparagraph id="idab24fd25522948ab8ea52857cae176a1"><enum>(A)</enum><header>In
+ general</header><text>Not later than 180 days after the date of enactment of this Act, or by September 30th of fiscal year 2015, whichever is later, the Administrator shall develop and publish a goal for the total amount of planned cost savings by the Federal Government through the Federal Data Center Consolidation Initiative during the 5-year period beginning on the date of enactment of this Act, which shall include a breakdown on a year-by-year basis of the projected savings.</text>
+					</subparagraph><subparagraph id="id99580b624b4144dcb9b4eef2407db419"><enum>(B)</enum><header>Annual
+		update</header>
+						<clause id="id7FEAD86B63344E40812BC73A8E0325AB"><enum>(i)</enum><header>In
+ general</header><text>Not later than 1 year after the date on which the goal described in subparagraph (A) is determined and each year thereafter until the end of 2019, the Administrator shall publish a report on the actual savings achieved through the Federal Data Center Consolidation Initiative as compared to the projected savings developed under subparagraph (A) (based on data collected from each affected agency under paragraph (1)).</text>
+						</clause><clause id="id64DF21B58B8A46B0AE9935E07B76A08B"><enum>(ii)</enum><header>Update for
+ Congress</header><text>The report required under subparagraph (A) shall be submitted to Congress and shall include an update on the progress made by each agency described in subsection paragraph (1)(E) on—</text>
+ <subclause id="id84dffe7c644d40c692599db1fc09a2be"><enum>(I)</enum><text>whether each agency has in fact submitted a comprehensive asset inventory;</text>
+ </subclause><subclause id="id84d4e823ade1487b919284ab48c5e05b"><enum>(II)</enum><text>whether each agency has submitted a comprehensive consolidation plan with the key elements described in paragraph (1)(A)(ii); and</text>
+ </subclause><subclause id="idc016f19345714e1cb938db1ce4f84ec9"><enum>(III)</enum><text>the progress, if any, of each agency on implementing the consolidation plan of the agency.</text>
+							</subclause></clause><clause id="idB7A2B981EE2949109E91DA5FCF79CD08"><enum>(iii)</enum><header>Request for
+ reports</header><text>Upon request from the Committee on Homeland Security and Governmental Affairs of the Senate or the Committee on Oversight and Government Reform of the House of Representatives, the head of an agency described in paragraph (1)(E) or the Director of the Office of Management and Budget shall submit to the requesting committee any report or information submitted to the Office of Management and Budget for the purpose of preparing a report required under clause (i) or an updated progress report required under clause (ii).</text>
+						</clause></subparagraph></paragraph><paragraph id="id383679C2584A433997240048DC23D52D"><enum>(4)</enum><header>GAO
+ Review</header><text>The Comptroller General of the United States shall, on an annual basis, publish a report on—</text>
+ <subparagraph id="id77aa4edf65a4445a9101a84407e0b659"><enum>(A)</enum><text>the quality and completeness of each agency’s asset inventory and consolidation plans required under paragraph (1)(A);</text>
+ </subparagraph><subparagraph id="idee138ae6aa38445ca98644e12916b786"><enum>(B)</enum><text>each agency’s progress on implementation of the consolidation plans submitted under paragraph (1)(A);</text>
+ </subparagraph><subparagraph id="id642c14a595d443d2b0923e444a9f803e"><enum>(C)</enum><text>overall planned and actual cost savings realized through implementation of the consolidation plans submitted under paragraph (1)(A);</text>
+ </subparagraph><subparagraph id="id232ab94d04f448fe82d7806beb909e8c"><enum>(D)</enum><text>any steps that the Administrator could take to improve implementation of the data center consolidation initiative; and</text>
+ </subparagraph><subparagraph id="idfb4ceb168eda4f908e0ef810873b888a"><enum>(E)</enum><text>any matters for Congressional consideration in order to improve or accelerate the implementation of the data center consolidation initiative.</text>
+					</subparagraph></paragraph><paragraph id="id5d56c678ec7343c0a80605a691e0dced"><enum>(5)</enum><header>Response to
+		GAO</header>
+					<subparagraph id="idD2168CEB02384FE282B7700D33BCDF94"><enum>(A)</enum><header>In
+ general</header><text>If a report required under paragraph (4) identifies any deficiencies or delays in any of the elements described in subparagraphs (A) through (E) of paragraph (4) for an agency, the head of the agency shall respond in writing to the Comptroller General of the United States, not later than 90 days after the date on which the report is published under paragraph (4), with a detailed explanation of how the agency will address the deficiency.</text>
+					</subparagraph><subparagraph id="id5B48F1E55C4146029FA9008549878E31"><enum>(B)</enum><header>Additional
+ requirements</header><text>If the Comptroller General identifies an agency that has repeatedly lagged in implementing the data center consolidation initiative, the Comptroller General may require that the head of the agency submit a statement explaining—</text>
+ <clause id="id0e761e1218474e4cb72e2e06ceb75406"><enum>(i)</enum><text>why the agency is having difficulty implementing the initiative; and</text>
+ </clause><clause id="id94f8f89ba7cb49a28f7f5b33f96e4ff9"><enum>(ii)</enum><text>what structural or personnel changes are needed within the agency to address the problem.</text>
+						</clause></subparagraph></paragraph></subsection><subsection id="id3CA9363CBB824DB8B96C7B7B5EF27EC4"><enum>(c)</enum><header>Ensuring
+		cybersecurity standards for data center consolidation and cloud
+ computing</header><text display-inline="yes-display-inline">An agency required to implement a data center consolidation plan under this Act and migrate to cloud computing shall do so in a manner that is consistent with Federal guidelines on cloud computing security, including—</text>
+ <paragraph id="idD8309D23E9874FD09BEC0A9D289FD963"><enum>(1)</enum><text>applicable provisions found within the Federal Risk and Authorization Management Program of the General Service Administration; and</text>
+ </paragraph><paragraph id="id7FDD4888092F442E8B9E0F315ED29DB0"><enum>(2)</enum><text>guidance published by the National Institute of Standards and Technology.</text>
+				</paragraph></subsection><subsection id="idBBA640D14F504B3388E4EC3FBEEBE08B"><enum>(d)</enum><header>Classified
+ information</header><text display-inline="yes-display-inline">The Director of National Intelligence may waive the requirements of this Act for any element (or component of an element) of the intelligence community.</text>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="id5C067D2562414243B1D0259CD9BCF294"><enum>(e)</enum><header>Sunset</header><text display-inline="yes-display-inline">This Act is repealed effective on October 1, 2019.</text></subsection></section></legis-body></bill>
+
+

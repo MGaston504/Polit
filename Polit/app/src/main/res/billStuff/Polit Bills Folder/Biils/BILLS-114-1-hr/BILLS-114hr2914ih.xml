@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB84F77638A8942BD9492008C560635EA" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2914 IH: Build a Better VA Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2914</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150625">June 25, 2015</action-date>
+			<action-desc><sponsor name-id="B001285">Ms. Brownley of California</sponsor> (for herself, <cosponsor name-id="T000472">Mr. Takano</cosponsor>, <cosponsor name-id="T000460">Mr. Thompson of California</cosponsor>, <cosponsor name-id="P000597">Ms. Pingree</cosponsor>, <cosponsor name-id="D000624">Mrs. Dingell</cosponsor>, and <cosponsor name-id="Z000018">Mr. Zinke</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to require congressional approval before the appropriation
+			 of funds for Department of Veterans Affairs major medical facility leases.</official-title>
+	</form>
+	<legis-body id="H1D0445C24A7942D1B6598FF0B2E8A555" style="OLC">
+ <section id="HAF796584C78B45E693210A5870DBD65A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Build a Better VA Act</short-title></quote>.</text> </section><section id="HCD7AD819E4ED44C7BD1EC3E6EF52B7FD"><enum>2.</enum><header>Congressional approval of Department of Veterans Affairs major medical facility leases</header> <subsection id="H19D536D6369B46F58D4E17802E2037D2"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 8104(a)(2) of title 38, United States Code, is amended—</text>
+ <paragraph id="H8D091FAE981C46FB951272A7D69C9E2A"><enum>(1)</enum><text>by striking <quote>No funds</quote> and inserting <quote>(A) No funds</quote>;</text> </paragraph><paragraph id="HC0D0EAEDB946489B9914E0A64D1D8A6D"><enum>(2)</enum><text>by striking <quote>or any major medical facility lease</quote>;</text>
+ </paragraph><paragraph id="H34F8D847559A4627800C3CDD8F712050"><enum>(3)</enum><text>by striking <quote>or lease</quote>; and</text> </paragraph><paragraph id="H1799B445F32545F4B1A2100093A5B5DA"><enum>(4)</enum><text>by adding at the end the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H9239B63F40124A4BBDCD8587129D82B8" style="USC">
+ <subparagraph id="H6056C50165DF4C0E9CC9C57192355380" indent="up2"><enum>(B)</enum><text display-inline="yes-display-inline">No funds may be appropriated for any fiscal year for any major medical facility lease unless the Committees on Veterans’ Affairs of the Senate and House of Representatives adopt resolutions approving the lease.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H07D0B379C1284161B9C5E63AC27D725D"><enum>(b)</enum><header>Applicability</header><text>The amendments made by subsection (a) shall apply with respect to a lease entered into after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

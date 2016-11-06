@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="H448CF3264CD24C49BAAC83A317B853AB" public-private="public"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2580 RH: LTCH Technical Correction Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IB</distribution-code> 
+<calendar display="yes">Union Calendar No. 113</calendar>
+<congress display="yes">114th CONGRESS</congress> <session display="yes">1st Session</session> 
+<legis-num>H. R. 2580</legis-num>
+<associated-doc role="report" display="yes">[Report No. 114–156]</associated-doc> 
+<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150529">May 29, 2015</action-date> 
+<action-desc><sponsor name-id="B001255">Mr. Boustany</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00" added-display-style="italic" deleted-display-style="strikethrough">Committee on Ways and Means</committee-name></action-desc> 
+</action> 
+<action>
+<action-date date="20150616">June 16, 2015</action-date>
+<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action-desc>
+<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction>
+<action-instruction>For text of introduced bill, see copy of bill as introduced on May 29, 2015</action-instruction>
+</action>
+<action display="yes">
+<action-desc display="yes"><pagebreak/></action-desc>
+</action>
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To provide for a technical change to the Medicare long-term care hospital moratorium exception, and for other purposes.<pagebreak/></official-title> 
+</form> 
+<legis-body display-enacting-clause="yes-display-enacting-clause" changed="added" style="OLC" committee-id="HWM00" reported-display-style="italic" id="HCC1CAF7B21F44E2B87AFB9D15FB77CC5">
+<section id="H4EB7C17451A7496EAFC08B8CF791C065" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>LTCH Technical Correction Act of 2015</short-title></quote>.</text></section> <section id="HD2D4D815D3794557903067287CEB44BD"><enum>2.</enum><header>Technical change to the Medicare long-term care hospital moratorium exception</header> <subsection id="HC19D4157C2114AC2B746CBC6A4000B33"><enum>(a)</enum><header>In general</header><text>Section 114(d) of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww</external-xref> note), as amended by sections 3106(b) and 10312(b) of <external-xref legal-doc="public-law" parsable-cite="pl/111/148">Public Law 111–148</external-xref>, section 1206(b)(2) of the Pathway for SGR Reform Act of 2013 (division B of <external-xref legal-doc="public-law" parsable-cite="pl/113/67">Public Law 113–67</external-xref>), and section 112 of the Protecting Access to Medicare Act of 2014, is amended, in paragraph (7), by striking <quote>The moratorium under paragraph (1)(A)</quote> and inserting <quote>Any moratorium under paragraph (1)</quote> in the matter preceding subparagraph (A).</text></subsection>
+<subsection id="H5B4E756EBCC140D08D88D5A26FFECE9C"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall take effect as if included in the enactment of section 112 of the Protecting Access to Medicare Act of 2014.</text></subsection></section> <section id="H4FA7E779BA4E44C7AD4B4F8C675B755B"><enum>3.</enum><header>Modification to Medicare long-term care hospital high cost outlier payments</header><text display-inline="no-display-inline">Section 1886(m) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww(m)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+<quoted-block style="OLC" id="H25195B7F6D4342C689EF38ED89D209D1" display-inline="no-display-inline">
+<paragraph id="HB79E27CD26EA40AA8CDAC0AB05B80447"><enum>(7)</enum><header>Treatment of high cost outlier payments</header>
+<subparagraph id="H117FFC0835594279B759CA4759C450A3"><enum>(A)</enum><header>Adjustment to the standard Federal payment rate for estimated high cost outlier payments</header><text display-inline="yes-display-inline">Under the system described in paragraph (1), for fiscal years beginning on or after October 1, 2016, the Secretary shall reduce the standard Federal payment rate as if the estimated aggregate amount of high cost outlier payments for standard Federal payment rate discharges for each such fiscal year would be equal to 8 percent of estimated aggregate payments for standard Federal payment rate discharges for each such fiscal year.</text></subparagraph> <subparagraph id="H3AB4C43EC76A4F35ABF54E8614A0F095"><enum>(B)</enum><header>Limitation on high cost outlier payment amounts</header><text display-inline="yes-display-inline">Notwithstanding subparagraph (A), the Secretary shall set the fixed loss amount for high cost outlier payments such that the estimated aggregate amount of high cost outlier payments made for standard Federal payment rate discharges for fiscal years beginning on or after October 1, 2016, shall be equal to 99.0625 percent of 8 percent of estimated aggregate payments for standard Federal payment rate discharges for each such fiscal year.</text></subparagraph>
+<subparagraph id="HB3E4CBA2E90D4DDB9C8450399E84C169"><enum>(C)</enum><header>Waiver of budget neutrality</header><text display-inline="yes-display-inline">Any reduction in payments resulting from the application of subparagraph (B) shall not be taken into account in applying any budget neutrality provision under such system.</text></subparagraph> <subparagraph id="H4D06851A59A14156BF3B767797F3AC29"><enum>(D)</enum><header>No effect on site neutral high cost outlier payment rate</header><text display-inline="yes-display-inline">This paragraph shall not apply with respect to the computation of the applicable site neutral payment rate under paragraph (6), except for the standard Federal payment rate portion of blended payment rates determined under subparagraph (B)(iii)(II) of such paragraph.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section>
+</legis-body> 
+<endorsement display="yes">
+<action-date date="20150616">June 16, 2015</action-date>
+<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action-desc></endorsement>
+</bill> 
+
+

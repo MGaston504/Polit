@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA29A10CEF6F34B648E70A411A0F82292" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3364 IH: America Votes Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3364</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150729">July 29, 2015</action-date>
+			<action-desc><sponsor name-id="L000560">Mr. Larsen of Washington</sponsor> (for himself, <cosponsor name-id="B001281">Mrs. Beatty</cosponsor>, <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>, <cosponsor name-id="C001090">Mr. Cartwright</cosponsor>, <cosponsor name-id="C001080">Ms. Judy Chu of California</cosponsor>, <cosponsor name-id="C001049">Mr. Clay</cosponsor>, <cosponsor name-id="C000537">Mr. Clyburn</cosponsor>, <cosponsor name-id="C001068">Mr. Cohen</cosponsor>, <cosponsor name-id="C000984">Mr. Cummings</cosponsor>, <cosponsor name-id="D000096">Mr. Danny K. Davis of Illinois</cosponsor>, <cosponsor name-id="D000617">Ms. DelBene</cosponsor>, <cosponsor name-id="D000197">Ms. DeGette</cosponsor>, <cosponsor name-id="E000288">Mr. Ellison</cosponsor>, <cosponsor name-id="H001063">Ms. Hahn</cosponsor>, <cosponsor name-id="H001064">Mr. Heck of Washington</cosponsor>, <cosponsor name-id="H001047">Mr. Himes</cosponsor>, <cosponsor name-id="I000057">Mr. Israel</cosponsor>, <cosponsor name-id="J000032">Ms. Jackson Lee</cosponsor>, <cosponsor name-id="J000288">Mr. Johnson of Georgia</cosponsor>, <cosponsor name-id="F000030">Mr. Farr</cosponsor>, <cosponsor name-id="M001185">Mr. Sean Patrick Maloney of New York</cosponsor>, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, <cosponsor name-id="R000588">Mr. Richmond</cosponsor>, <cosponsor name-id="S000510">Mr. Smith of Washington</cosponsor>, <cosponsor name-id="T000465">Ms. Tsongas</cosponsor>, <cosponsor name-id="D000610">Mr. Deutch</cosponsor>, <cosponsor name-id="K000381">Mr. Kilmer</cosponsor>, <cosponsor name-id="C001084">Mr. Cicilline</cosponsor>, <cosponsor name-id="M000404">Mr. McDermott</cosponsor>, <cosponsor name-id="E000293">Ms. Esty</cosponsor>, <cosponsor name-id="M001137">Mr. Meeks</cosponsor>, <cosponsor name-id="T000468">Ms. Titus</cosponsor>, <cosponsor name-id="B000490">Mr. Bishop of Georgia</cosponsor>, and <cosponsor name-id="R000515">Mr. Rush</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Help America Vote Act of 2002 to permit an individual who is subject to a requirement
+			 to present identification as a condition of voting in an election for
+			 Federal office to meet such requirement by presenting a sworn written
+			 statement attesting to the individual’s identification, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="H9F00784DE8B441FE8747FD28395D1668" style="OLC">
+ <section id="HD041C84B98894B39BDEE1EE567AF8AEA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>America Votes Act of 2015</short-title></quote>.</text> </section><section id="HFE1C8C37FE7C4D95B257B46EC8A41685"><enum>2.</enum><header>Permitting use of sworn written statement to meet identification requirements for voting</header> <subsection id="HFBBE8FEC18D54E058D6BAD1FFB319DD1"><enum>(a)</enum><header>Permitting use of statement</header><text display-inline="yes-display-inline">Title III of the Help America Vote Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/52/21081">52 U.S.C. 21081 et seq.</external-xref>) is amended by inserting after section 303 the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HB04AFFF2750B4D03961D0F46BC5CD31A" style="OLC">
+					<section id="H7F3E41C00CD746F59DEA8BFA9F31FAB1"><enum>303A.</enum><header>Permitting use of sworn written statement to meet identification requirements</header>
+						<subsection id="H976BFE16B4F24BEFA8B213111E2C594A"><enum>(a)</enum><header>Use of statement</header>
+ <paragraph id="HDEABD54F264E43B8AE778D731D6B83DD"><enum>(1)</enum><header>In general</header><text>Except as provided in subsection (c), if a State has in effect a requirement that an individual present identification as a condition of receiving and casting a ballot in an election for Federal office, the State shall permit the individual to meet the requirement—</text>
+ <subparagraph id="H9CCCF7720CC44C409115F57F68B50846"><enum>(A)</enum><text>in the case of an individual who desires to vote in person, by presenting the appropriate State or local election official with a sworn written statement, signed by the individual under penalty of perjury, attesting to the individual’s identification and attesting that the individual is registered to vote in the election; or</text>
+ </subparagraph><subparagraph id="H44DC793723BA4F5A92EC8D59EC5E8628"><enum>(B)</enum><text>in the case of an individual who desires to vote by mail, by submitting with the ballot the statement described in subparagraph (A).</text>
+ </subparagraph></paragraph><paragraph id="H0DE46C0C1D6C40F0BE0371D0166396BF"><enum>(2)</enum><header>Providing pre-printed copy of statement</header><text>A State which is subject to paragraph (1) shall—</text> <subparagraph id="H1941CC84F4154EB592A8425024731499"><enum>(A)</enum><text>prepare a pre-printed version of the statement described in paragraph (1)(A) which includes a blank space for an individual to provide a name and signature;</text>
+ </subparagraph><subparagraph id="H2A5CF0AEE20B4F49AB70F92A3E3673B8"><enum>(B)</enum><text>make copies of the pre-printed version available at polling places for election officials to distribute to individuals who desire to vote in person; and</text>
+ </subparagraph><subparagraph id="H30EF01B5F27F43EA8B6AF45610195E02"><enum>(C)</enum><text>include a copy of the pre-printed version with each blank absentee or other ballot transmitted to an individual who desires to vote by mail.</text>
+ </subparagraph></paragraph></subsection><subsection id="HED455ABB53FA43DF9A311B78BDA93253"><enum>(b)</enum><header>Requiring use of regular ballot</header><text>A State may not require an individual who presents or submits a sworn written statement in accordance with subsection (a)(1) to cast a provisional ballot in the election under section 302.</text>
+ </subsection><subsection id="H5F57B490D5C94D5F86D6264A690072A2"><enum>(c)</enum><header>Exception for First-Time Voters Registering by Mail</header><text>Subsections (a) and (b) do not apply with respect to any individual described in paragraph (1) of section 303(b) who is required to meet the requirements of paragraph (2) of such section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H2DE5CFEF800C4861816B4A1648EB918A"><enum>(b)</enum><header>Conforming amendment relating to enforcement</header><text>Section 401 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/52/21111">52 U.S.C. 21111</external-xref>) is amended by striking <quote>and 303</quote> and inserting <quote>303, and 303A</quote>.</text> </subsection><subsection id="H8B3A46B18F654E8C8ACE49A20AD6AF8F"><enum>(c)</enum><header>Clerical amendment</header><text>The table of contents of such Act is amended by inserting after the item relating to section 303 the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H0C607E0A3D6648E18C34512D6FE4DCB5" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">Sec. 303A. Permitting use of sworn written statement to meet identification requirements.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="H847726E7AFA54D62A0EE82D7A9284AFD"><enum>3.</enum><header>Requiring States to include information on use of sworn written statement in voting information
+ material posted at polling places</header><text display-inline="no-display-inline">Section 302(b)(2) of the Help America Vote Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/52/21082">52 U.S.C. 21082(b)(2)</external-xref>) is amended—</text> <paragraph id="H2CBD25BA098D4C71B526BF3249B49A2A"><enum>(1)</enum><text>by striking <quote>and</quote> at the end of subparagraph (E);</text>
+ </paragraph><paragraph id="HC00CF808A34D4EC688621F81EAFA35DC"><enum>(2)</enum><text>by striking the period at the end of subparagraph (F) and inserting <quote>; and</quote>; and</text> </paragraph><paragraph id="H36ADAE2E7B7B43D891EA257329EDE7D5"><enum>(3)</enum><text>by adding at the end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H21D560D1C0D24AEAB9BCF1286A5E751B" style="OLC">
+ <subparagraph id="H919F5B63DBFD4739BBFF61734C3CC84F"><enum>(G)</enum><text display-inline="yes-display-inline">in the case of a State that has in effect a requirement that an individual present identification as a condition of receiving and casting a ballot in an election for Federal office, information on how an individual may meet such requirement by presenting a sworn written statement in accordance with section 303A.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></section><section id="H3C36C3A82F0F48BC8F3E7313582BFE53"><enum>4.</enum><header>Effective date</header><text display-inline="no-display-inline">The amendments made by this Act shall apply with respect to elections occurring on or after the date of the enactment of this Act.</text>
+		</section></legis-body>
+</bill>
+
+

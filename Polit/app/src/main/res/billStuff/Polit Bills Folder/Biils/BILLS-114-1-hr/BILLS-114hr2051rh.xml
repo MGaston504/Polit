@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="HDBDAB3D61C3340DA9A5F6FE78D4D2D03" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2051 RH: Mandatory Price Reporting Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IB</distribution-code>
+		<calendar display="yes">Union Calendar No. 95</calendar>
+		<congress display="yes">114th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>H. R. 2051</legis-num>
+		<associated-doc display="yes" role="report">[Report No. 114–132]</associated-doc>
+		<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150428">April 28, 2015</action-date>
+			<action-desc><sponsor name-id="C001062">Mr. Conaway</sponsor> (for himself, <cosponsor name-id="P000258">Mr. Peterson</cosponsor>, and <cosponsor name-id="R000603">Mr. Rouzer</cosponsor>) introduced the following bill; which was referred to the <committee-name added-display-style="italic" committee-id="HAG00" deleted-display-style="strikethrough">Committee on Agriculture</committee-name></action-desc>
+		</action>
+		<action>
+			<action-date date="20150529">May 29, 2015</action-date>
+			<action-desc>Additional sponsor: <cosponsor name-id="B001294">Mr. Blum</cosponsor></action-desc>
+		</action>
+		<action>
+			<action-date date="20150529">May 29, 2015</action-date>
+			<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the
+			 Union, and ordered to be printed</action-desc>
+			<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction>
+			<action-instruction>For text of introduced bill, see copy of bill as introduced on April 28, 2015</action-instruction>
+		</action>
+		<action display="yes">
+			<action-desc display="yes"><pagebreak></pagebreak></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend the Agricultural Marketing Act of 1946 to extend the livestock mandatory price reporting
+			 requirements, and for other purposes.<pagebreak></pagebreak></official-title>
+	</form>
+	<legis-body changed="added" committee-id="HAG00" id="HD75B816752DF486A912957B91CB69C5D" reported-display-style="italic" style="OLC">
+ <section id="HCAC8BB8A852C4B45BE164E1051803773" section-type="section-one"><enum>1.</enum><header>Short title </header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Mandatory Price Reporting Act of 2015</short-title></quote>.</text> </section><section id="H16AE401E6730451D9296DAE5842416E4"><enum>2.</enum><header>Extension of livestock mandatory reporting</header> <subsection id="H1D3BF1EABE4A49F2BF10C1A8E7F508CE"><enum>(a)</enum><header>Extension of authority</header><text display-inline="yes-display-inline">Section 260 of the Agricultural Marketing Act of 1946 (<external-xref legal-doc="usc" parsable-cite="usc/7/1636i">7 U.S.C. 1636i</external-xref>) is amended by striking <quote>September 30, 2015</quote> and inserting <quote>September 30, 2020</quote>.</text>
+ </subsection><subsection id="H67C142CEC8CB4D509392EEFE7AA116D0"><enum>(b)</enum><header>Emergency authority</header><text display-inline="yes-display-inline">Section 212(12)(C) of the Agricultural Marketing Act of 1946 (<external-xref legal-doc="usc" parsable-cite="usc/7/1635a">7 U.S.C. 1635a(12)(C)</external-xref>) is amended by inserting <quote>, including any day on which any Department employee is on shutdown or emergency furlough as a result of a lapse in appropriations</quote> after <quote>conduct business</quote>.</text>
+ </subsection><subsection id="H5930CCA4C93C4A5EBFCFE2BAD8050A29"><enum>(c)</enum><header>Conforming amendment</header><text display-inline="yes-display-inline">Section 942 of the Livestock Mandatory Reporting Act of 1999 (<external-xref legal-doc="usc" parsable-cite="usc/7/1635">7 U.S.C. 1635</external-xref> note; <external-xref legal-doc="public-law" parsable-cite="pl/106/78">Public Law 106–78</external-xref>) is amended by striking <quote>September 30, 2015</quote> and inserting <quote>September 30, 2020</quote>.</text>
+			</subsection></section><section id="HD68491FD1FCE4C468ACFD36862C1C727"><enum>3.</enum><header>Swine reporting</header>
+ <subsection id="H756B74A526EE4796AD047F7A428D9707"><enum>(a)</enum><header>Definitions</header><text display-inline="yes-display-inline">Section 231 of the Agricultural Marketing Act of 1946 (<external-xref legal-doc="usc" parsable-cite="usc/7/1635i">7 U.S.C. 1635i</external-xref>) is amended—</text> <paragraph id="H828D8B1326AD4B909B2F717CFBFFA90A"><enum>(1)</enum><text>by redesignating paragraphs (9) through (22) as paragraphs (10) through (23), respectively;</text>
+ </paragraph><paragraph id="H06BA20F9D84044CDB4E1C8097082ACEB"><enum>(2)</enum><text>by inserting after paragraph (8) the following new paragraph:</text> <quoted-block changed="added" committee-id="HAG00" display-inline="no-display-inline" id="H42E8018C503949F78F95054C89FFC269" reported-display-style="italic" style="OLC"> <paragraph id="HDF43B4592CF94547922BA9729B37CF66"><enum>(9)</enum><header>Negotiated formula purchase</header><text display-inline="yes-display-inline">The term <term>negotiated formula purchase</term> means a purchase of swine by a packer from a producer under which—</text>
+ <subparagraph id="H8A1CBCA11FF949DB95E992FAAEAE4C5F"><enum>(A)</enum><text>the pricing mechanism is a formula price for which the formula is determined by negotiation on a lot-by-lot basis; and</text>
+ </subparagraph><subparagraph id="H662734F574D3419BAEB78D8600002AA8"><enum>(B)</enum><text>the swine are scheduled for delivery to the packer not later than 14 days after the date on which the formula is negotiated and swine are committed to the packer.</text></subparagraph></paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H85D09EB5EADB4473A23F3882AAB698BD"><enum>(3)</enum><text display-inline="yes-display-inline">in paragraph (12)(A) (as so redesignated), by inserting <quote>negotiated formula purchase,</quote> after <quote>pork market formula purchase,</quote>; and</text> </paragraph><paragraph id="H21528A4311BF4DA58087D62BA126EA7E"><enum>(4)</enum><text>in paragraph (23) (as so redesignated)—</text>
+ <subparagraph id="H1FB02041F70D4CC3955B1333F1338B45"><enum>(A)</enum><text>in subparagraph (C), by striking <quote>and</quote> at the end;</text> </subparagraph><subparagraph id="HA3077BE70D824834845252630D9546A7"><enum>(B)</enum><text>by redesignating subparagraph (D) as subparagraph (E); and</text>
+ </subparagraph><subparagraph id="HB8DD8B4A55434A84BA1C5284EEE279E6"><enum>(C)</enum><text>by inserting after subparagraph (C) the following new subparagraph:</text> <quoted-block changed="added" committee-id="HAG00" display-inline="no-display-inline" id="H32731AF60A3240E5960741FE1C7E3F87" reported-display-style="italic" style="OLC"> <subparagraph id="H9E4F5D5E105D454980FF0C1E3D077677"><enum>(D)</enum><text display-inline="yes-display-inline">a negotiated formula purchase; and</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subparagraph></paragraph></subsection><subsection id="H3B015F4034DA429E9DDFE3C0B2285998"><enum>(b)</enum><header>Daily reporting</header><text display-inline="yes-display-inline">Section 232(c) of the Agricultural Marketing Act of 1946 (<external-xref legal-doc="usc" parsable-cite="usc/7/1635j">7 U.S.C. 1635j(c)</external-xref>) is amended—</text> <paragraph id="H29CEB06AAC4143A38E34E5BBDA6B203E"><enum>(1)</enum><text>in paragraph (1)(D), by striking clause (ii) and inserting the following new clause:</text>
+					<quoted-block changed="added" committee-id="HAG00" display-inline="no-display-inline" id="H86706BDF05F247A888A681A19C86E22A" reported-display-style="italic" style="OLC">
+ <clause id="H7061151B3E404C588C993C021A713FCF"><enum>(ii)</enum><header>Price distributions</header><text display-inline="yes-display-inline">The information published by the Secretary under clause (i) shall include—</text> <subclause id="HC6DC995056BE4563AFCDAD6C561D73CF"><enum>(I)</enum><text display-inline="yes-display-inline">a distribution of net prices in the range between and including the lowest net price and the highest net price reported;</text>
+ </subclause><subclause id="H79E768221FD443D0BC2FB4C3556C8B3D"><enum>(II)</enum><text>a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices; and</text>
+ </subclause><subclause id="HC4A64150ACDA473EA0EC4DAF527949A3"><enum>(III)</enum><text>the total number and weighted average price of barrows and gilts purchased through negotiated purchases and negotiated formula purchases.</text></subclause></clause><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H2BCB6702386C4AF6B1A48CDBCC23F664"><enum>(2)</enum><text>in paragraph (3), by adding at the end the following new subparagraph:</text> <quoted-block changed="added" committee-id="HAG00" display-inline="no-display-inline" id="HB54F9D5F46AC4779A3EE1C8EF76A96B9" reported-display-style="italic" style="OLC"> <subparagraph id="H794000FC96AC4E8FBB90C1C4EF198265"><enum>(C)</enum><header>Late in the day report information</header><text>The Secretary shall include in the morning report and the afternoon report for the following day any information required to be reported under subparagraph (A) that is obtained after the time of the reporting day specified in such subparagraph.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection></section><section id="HC3636ADCBCDE4724831A30BADFA1489F"><enum>4.</enum><header>Lamb reporting</header><text display-inline="no-display-inline">Not later than 180 days after the date of the enactment of this Act, the Secretary of Agriculture shall revise section 59.300 of title 7, Code of Federal Regulations, so that—</text>
+ <paragraph id="H53A54B2428B541318BA499D3D7490DB6"><enum>(1)</enum><text>the definition of the term <term>importer</term>—</text> <subparagraph id="HF275836C46B54D3AB6F55ECEC783AED8"><enum>(A)</enum><text>includes only those importers that imported an average of 1,000 metric tons of lamb meat products per year during the immediately preceding 4 calendar years; and</text>
+ </subparagraph><subparagraph id="H58E3096E5D3D4AB586E0A6E8C963F87A"><enum>(B)</enum><text display-inline="yes-display-inline">may include any person that does not meet the requirement referred to in subparagraph (A), if the Secretary determines that the person should be considered an importer based on their volume of lamb imports; and</text>
+ </subparagraph></paragraph><paragraph id="HB14E197C362246529F80CEB45A8A3F50"><enum>(2)</enum><text>the definition of the term <term>packer</term>—</text> <subparagraph id="H6E0AE5EAC57F40EDB56413F4731EB954"><enum>(A)</enum><text>applies to any entity with 50 percent or more ownership in a facility;</text>
+ </subparagraph><subparagraph id="H4F12FD1BF86C478C992CE26278AFE2B4"><enum>(B)</enum><text display-inline="yes-display-inline">includes a federally inspected lamb processing plant which slaughtered or processed the equivalent of an average of 35,000 head of lambs per year during the immediately preceding 5 calendar years; and</text>
+ </subparagraph><subparagraph id="H34C21995983D40B4807E6C04B97EA24A"><enum>(C)</enum><text display-inline="yes-display-inline">may include any other lamb processing plant that did not meet the requirement referred to in subparagraph (B), if the Secretary determines that the processing plant should be considered a packer after considering its capacity.</text>
+				</subparagraph></paragraph></section><section id="H08B6D2F1AD794367901C7287B5ED64D9"><enum>5.</enum><header>Study on livestock mandatory reporting</header>
+ <subsection id="HC5846410BDCC40B3B786E68BA15D11F7"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Agriculture, acting through the Agricultural Marketing Service in conjunction with the Office of the Chief Economist and in consultation with cattle, swine, and lamb producers, packers, and other market participants, shall conduct a study on the program of information regarding the marketing of cattle, swine, lambs, and products of such livestock under subtitle B of the Agricultural Marketing Act of 1946 (<external-xref legal-doc="usc" parsable-cite="usc/7/1635">7 U.S.C. 1635 et seq.</external-xref>). Such study shall—</text>
+ <paragraph id="H9E8CFBE64E4B419E98B90A6538FECE61"><enum>(1)</enum><text display-inline="yes-display-inline">analyze current marketing practices in the cattle, swine, and lamb markets;</text> </paragraph><paragraph id="HB69ECD186FF145A49EA4495A04A46B0C"><enum>(2)</enum><text display-inline="yes-display-inline">identify legislative or regulatory recommendations made by cattle, swine, and lamb producers, packers, and other market participants to ensure that information provided under such program—</text>
+ <subparagraph id="HBB1D7B7920544B3DB2F4A12E5E5A74BB"><enum>(A)</enum><text>can be readily understood by producers, packers, and other market participants;</text> </subparagraph><subparagraph id="HB619A0D9C26D4BA7B39A35328C808CD4"><enum>(B)</enum><text display-inline="yes-display-inline">reflects current marketing practices; and</text>
+ </subparagraph><subparagraph id="H67488E79AD79482BAB46B3F56EA070F8"><enum>(C)</enum><text display-inline="yes-display-inline">is relevant and useful to producers, packers, and other market participants;</text> </subparagraph></paragraph><paragraph id="HC5E76B525EFA4FC0B872FBBB5EEF9BDC"><enum>(3)</enum><text display-inline="yes-display-inline">analyze the price and supply information reporting services of the Department of Agriculture related to cattle, swine, and lamb; and</text>
+ </paragraph><paragraph id="H54F0F365DEA44C6CA9E9575CF8B92A16"><enum>(4)</enum><text display-inline="yes-display-inline">address any other issues that the Secretary considers appropriate.</text> </paragraph></subsection><subsection id="H4C8B149518AF4F9E9F4A2AD637E4C1E8"><enum>(b)</enum><header>Report</header><text>Not later than January 1, 2020, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the findings of the study conducted under subsection (a).</text>
+			</subsection></section></legis-body>
+	<endorsement display="yes">
+		<action-date date="20150529">May 29, 2015</action-date>
+		<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the
+			 Union, and ordered to be printed</action-desc></endorsement>
+</bill>
+
+

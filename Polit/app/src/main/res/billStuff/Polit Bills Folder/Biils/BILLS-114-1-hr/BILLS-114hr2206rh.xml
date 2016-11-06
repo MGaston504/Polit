@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="H5B5EEFDB17444951ABAA7F3499ABECCF" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2206 RH: State Wide Interoperable Communications Enhancement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IB</distribution-code>
+		<calendar display="yes">Union Calendar No. 121</calendar>
+		<congress display="yes">114th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>H. R. 2206</legis-num>
+		<associated-doc display="yes" role="report">[Report No. 114–165]</associated-doc>
+		<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150501">May 1, 2015</action-date>
+			<action-desc><sponsor name-id="P000604">Mr. Payne</sponsor> (for himself, <cosponsor name-id="T000193">Mr. Thompson of Mississippi</cosponsor>, <cosponsor name-id="M001157">Mr. McCaul</cosponsor>, and <cosponsor name-id="M001197">Ms. McSally</cosponsor>) introduced the following bill; which was referred to the <committee-name added-display-style="italic" committee-id="HHM00" deleted-display-style="strikethrough">Committee on Homeland Security</committee-name></action-desc>
+		</action>
+		<action>
+			<action-date>June 17, 2015</action-date>
+			<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the
+			 Union, and ordered to be printed</action-desc>
+			<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction>
+			<action-instruction>For text of introduced bill, see copy of bill as introduced on May 1, 2015</action-instruction>
+		</action>
+		<action display="yes">
+			<action-desc display="yes"><pagebreak></pagebreak></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend the Homeland Security Act of 2002 to require recipients of State Homeland Security Grant
+			 Program funding to preserve and strengthen interoperable emergency
+			 communications capabilities, and for other purposes.<pagebreak></pagebreak></official-title>
+	</form>
+	<legis-body changed="added" committee-id="HHM00" display-enacting-clause="yes-display-enacting-clause" id="H97BCDB8D51D340479BDC53681C605724" reported-display-style="italic" style="OLC">
+ <section id="H04E8912387D74474B748F5C039B994A5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>State Wide Interoperable Communications Enhancement Act</short-title></quote> or the <quote><short-title>SWIC Enhancement Act</short-title></quote>.</text> </section><section id="HE6EBF1F2BFA94ED6B59C565F6A7E3068"><enum>2.</enum><header>Minimum contents of application for certain homeland security grant funds</header> <subsection id="H2905B1B4433F4240A24ABB58CAFEF2E1"><enum>(a)</enum><header>In general</header><text>Paragraph (2) of section 2004(b) of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/605">6 U.S.C. 605(b)</external-xref>) is amended by—</text>
+ <paragraph id="HCEF3CB3744D944B4B802E1571CDE1609"><enum>(1)</enum><text>redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and</text> </paragraph><paragraph id="HB2614529FD2449C89FA674B5381F837D"><enum>(2)</enum><text>inserting after subparagraph (A) the following new subparagraph:</text>
+					<quoted-block changed="added" committee-id="HHM00" id="HAFB20C8A01444EAABA160A2046E90EAD" reported-display-style="italic" style="OLC">
+						<subparagraph id="HBAE3DA15E1444A7F8BB364F37348188D"><enum>(B)</enum>
+ <clause commented="no" display-inline="yes-display-inline" id="HD66A51268C9340F1B244088415FC702B"><enum>(i)</enum><text>certification that the Governor of the State has designated a Statewide Interoperability Coordinator, including identification in such certification of the individual so designated, who shall be responsible for—</text>
+ <subclause changed="added" committee-id="HHM00" id="HA8E47759977E4909B34024278345117E" indent="up1" reported-display-style="italic"><enum>(I)</enum><text>coordinating the daily operations of the State’s interoperability efforts;</text> </subclause><subclause changed="added" committee-id="HHM00" id="H873B5C3F0164418490960B5F06F4A5AE" indent="up1" reported-display-style="italic"><enum>(II)</enum><text>coordinating State interoperability and communications projects and grant applications for such projects;</text>
+ </subclause><subclause changed="added" committee-id="HHM00" id="H18D36ED2810F41268EEFD026694647A0" indent="up1" reported-display-style="italic"><enum>(III)</enum><text>establishing and maintaining working groups to develop and implement key interoperability initiatives; and</text>
+ </subclause><subclause changed="added" committee-id="HHM00" id="HB6D256B85F0742D69946CA8DFBB60ED1" indent="up1" reported-display-style="italic"><enum>(IV)</enum><text>coordinating and updating, as necessary, a Statewide Communications Interoperability Plan that specifies the current status of State efforts to enhance communications interoperability within the State, including progress, modifications, or setbacks, and future goals for communications interoperability among emergency response agencies in the State; or</text>
+ </subclause></clause><clause changed="added" committee-id="HHM00" id="H42E079675DD14FBDA8BE6376A6CC3DCD" indent="up1" reported-display-style="italic"><enum>(ii)</enum><text>if a Statewide Interoperability Coordinator has not been designated in accordance with clause (i)—</text> <subclause id="HBBAAFF09479E4A859EA9D8DED2D22421"><enum>(I)</enum><text>certification that the State is performing in another manner the functions described in subclauses (I) through (IV) of such clause; and</text>
+ </subclause><subclause id="HACD6ED869511403DA665BE07837E68A8"><enum>(II)</enum><text display-inline="yes-display-inline">identification in such certification of an individual who has been designated by the State as the primary point of contact for performance of such functions;</text></subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection commented="no" id="H03A883A497954E6FB4233DAAD7744137"><enum>(b)</enum><header>Limitation on application</header><text>The amendment made by subsection (a) shall not apply with respect to any grant for which an application was submitted under the State Homeland Security Grant Program before the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+	<endorsement display="yes">
+		<action-date>June 17, 2015</action-date>
+		<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the
+			 Union, and ordered to be printed</action-desc></endorsement>
+</bill>
+
+

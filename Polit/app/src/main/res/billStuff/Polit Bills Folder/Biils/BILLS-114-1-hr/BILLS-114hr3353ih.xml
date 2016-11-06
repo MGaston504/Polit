@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEF0FFEF283E6476F93F607C5FF667179" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3353 IH: To amend the Federal Water Pollution Control Act to limit attorney fees and penalties in citizen suits, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3353</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150729">July 29, 2015</action-date>
+			<action-desc><sponsor name-id="H001048">Mr. Hunter</sponsor> (for himself, <cosponsor name-id="M001177">Mr. McClintock</cosponsor>, and <cosponsor name-id="C000059">Mr. Calvert</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend the Federal Water Pollution Control Act to limit attorney fees and penalties in citizen
+			 suits, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HC0BB854E788441428A8CFFF2C11D68D6" style="OLC">
+ <section id="H1369CB4076DD4F8BAF7DEC652BB1C6A0" section-type="section-one"><enum>1.</enum><header>Litigation Costs</header><text display-inline="no-display-inline">Section 505(d) of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1365">33 U.S.C. 1365(d)</external-xref>) is amended to read as follows:</text>
+			<quoted-block display-inline="no-display-inline" id="HF083EB34EA644D18BEF6E21C3774EA52" style="OLC">
+				<subsection commented="no" id="H3A937273B05940CFA6F6E144902018B5"><enum>(d)</enum><header>Awards</header>
+ <paragraph commented="no" id="H68027C401C5A4AEBB16E14157B172070"><enum>(1)</enum><text>The court, in issuing any final order in any action brought under this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any prevailing or substantially prevailing party, whenever the court determines such award is appropriate. The award—</text>
+ <subparagraph commented="no" id="H9F4EF1DE23AA4436A7C8EA508B1092BF"><enum>(A)</enum><text display-inline="yes-display-inline">may not exceed an amount that, as compared to the total amount of attorney and expert witness fees charged, bears the same proportion as the number of successful claims included in the complaint bears to the total number of claims included in the complaint;</text>
+ </subparagraph><subparagraph commented="no" id="HE347E07DB04B4361A79CA268E8FB439A"><enum>(B)</enum><text display-inline="yes-display-inline">may not exceed the amount of monetary penalties awarded; and</text> </subparagraph><subparagraph commented="no" id="H58F6DD42D79A4567925C0C50F79117EC"><enum>(C)</enum><text display-inline="yes-display-inline">shall be based upon the prevailing market rates in the area in which the violation occurred for the kind and quality of the services furnished.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="H0A1983505342438E8AFFFA0F8EAFFB2A"><enum>(2)</enum><text display-inline="yes-display-inline">The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Federal Rules of Civil Procedure.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="HC8D6AAA473564CC7B1424FC99420CD1F"><enum>2.</enum><header>Diligent prosecution</header><text display-inline="no-display-inline">Section 309(g)(6) of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1319">33 U.S.C. 1319(g)(6)</external-xref>) is amended by adding at the end following new subparagraph:</text>
+			<quoted-block display-inline="no-display-inline" id="H3179D3D35D8E4894A5A19A67463297EA" style="OLC">
+				<subparagraph commented="no" id="H9E826D78BFC24B89BB6A413FECCF1800"><enum>(C)</enum><header>Diligent prosecution</header>
+ <clause id="H77E6905E2C6C46DB957DE763E8341247"><enum>(i)</enum><header>Diligently prosecuting defined</header><text>In this paragraph, the term <quote>diligently prosecuting</quote> includes the issuance of any order made under this section or a State law comparable to this section.</text>
+ </clause><clause id="H45A51B9D903841649882CD39421514FD"><enum>(ii)</enum><header>Commencement of diligent prosecution</header><text>Diligent prosecution commences on the date the proposed order is issued.</text> </clause><clause id="H462E2C6CD4194DF19D5773345193CDA2"><enum>(iii)</enum><header>Issuance of final order</header><text>The Administrator or the Secretary shall be considered to be diligently prosecuting an action under this subsection if the Administrator or the Secretary issues a final order before the date that is one year after the date on which such proposed order is issued.</text>
+					</clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section commented="no" id="HF74501C3B39644EFA396BD6894FA60DF"><enum>3.</enum><header>Affirmative defenses</header><text display-inline="no-display-inline">Section 309 of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1319">33 U.S.C. 1319</external-xref>) is amended by adding at the end the following new subsection:</text>
+			<quoted-block display-inline="no-display-inline" id="HBCF6A330A6AE4AB693975CB98AF25816" style="OLC">
+				<subsection commented="no" id="H03D9293F0A7D4650A84B0FCF2AC44BA1"><enum>(h)</enum><header>Affirmative defenses</header>
+ <paragraph commented="no" id="HB521AE01F0D5466B8DA166E7079D97DE"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">There shall be no liability under this Act for a person otherwise liable for the unlawful discharge of a pollutant who can establish by a preponderance of the evidence that the immediate cause of the unlawful discharge and any damages was—</text>
+ <subparagraph commented="no" id="H6018C36DFD384794B07F0964AB5F024D"><enum>(A)</enum><text>an act of God;</text> </subparagraph><subparagraph commented="no" id="H469BC172E655427DB40479E683F3B41C"><enum>(B)</enum><text>an act of war;</text>
+ </subparagraph><subparagraph commented="no" id="H494F05D39CE343898207ECEECABD6647"><enum>(C)</enum><text display-inline="yes-display-inline">an act or omission of a third party (unless such third party is an employee or agent of such person, or such third party’s act or omission occurred in connection with a contractual relationship, existing directly or indirectly, with such person), if such person establishes by a preponderance of the evidence that such person—</text>
+ <clause commented="no" id="HC33FC2C6337F4D7199D721AA7D3EE428"><enum>(i)</enum><text display-inline="yes-display-inline">exercised due care in light of all relevant facts and circumstances; and</text> </clause><clause commented="no" id="H9B65518503E34F28ADDBED55B8A25047"><enum>(ii)</enum><text display-inline="yes-display-inline">took precautions against foreseeable acts or omissions of any such third party and the consequences that could foreseeably result from such acts or omissions; or</text>
+ </clause></subparagraph><subparagraph commented="no" id="H08BAF73C03744662A6E3BC34504F5829"><enum>(D)</enum><text>any combination of subparagraphs (A), (B), and (C).</text> </subparagraph></paragraph><paragraph commented="no" id="H878EDD3EAF1C426B8D99F5FBB07A9C35"><enum>(2)</enum><header>Other affirmative defenses</header><text display-inline="yes-display-inline">All general defenses, affirmative defenses, and bars to prosecution that may apply with respect to other Federal criminal offenses may apply to a person otherwise liable for the unlawful discharge of a pollutant under this Act and shall be determined by the courts of the United States according to the principles of common law as may be interpreted in light of reason and experience.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

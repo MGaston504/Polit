@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H4A50BAB2C6E142D8958D491A84E2E153" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3701 IH: 1099 Filing Simplification Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3701</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151007">October 7, 2015</action-date>
+			<action-desc><sponsor name-id="B001273">Mrs. Black</sponsor> (for herself and <cosponsor name-id="M000404">Mr. McDermott</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require that the Secretary of the Treasury make available an Internet platform for Form 1099
+			 filings.</official-title>
+	</form>
+	<legis-body id="HD25511762DDD48569080824581B3AD5C" style="OLC">
+ <section id="H0E5BE760B9D846EBA7A5D8B2506E1EA7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>1099 Filing Simplification Act</short-title></quote>.</text> </section><section commented="no" display-inline="no-display-inline" id="HB374CC02B5684CCFA37E43E705AF95C5" section-type="subsequent-section"><enum>2.</enum><header>Internet platform for Form 1099 filings</header> <subsection commented="no" display-inline="no-display-inline" id="H3DBD6C01C92847CEAE24860A5B1452F5"><enum>(a)</enum><header>In general</header><text>Not later than 3 years after the date of the enactment of this Act, the Secretary of the Treasury (or such Secretary's delegate) shall make available an Internet Web site or other electronic media, similar to the Business Services Online Suite of Services provided by the Social Security Administration, that will provide taxpayers access to resources and guidance provided by the Internal Revenue Service and will allow taxpayers to—</text>
+ <paragraph commented="no" display-inline="no-display-inline" id="H35FA26ED6A374987825B55127A5C500A"><enum>(1)</enum><text>prepare and file (in batches of not more than 50) Forms 1099;</text> </paragraph><paragraph commented="no" display-inline="no-display-inline" id="HEE724B3D57EF4ED6BE183C499C707A2D"><enum>(2)</enum><text>prepare Forms 1099 for distribution to recipients other than the Internal Revenue Service; and</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="H6F7076DBB32E47818FCFD9A67031C459"><enum>(3)</enum><text>create and maintain necessary taxpayer records.</text> </paragraph></subsection><subsection id="H5844BAC6370D4729BB60D9BD74CA87E9"><enum>(b)</enum><header>Early implementation for Forms 1099–MISC</header><text>Not later than 1 year after the date of the enactment of this Act, the Internet Web site under subsection (a) shall be available in a partial form that will allow taxpayers to take the actions described in such subsection with respect to Forms 1099–MISC required to be filed or distributed by such taxpayers.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

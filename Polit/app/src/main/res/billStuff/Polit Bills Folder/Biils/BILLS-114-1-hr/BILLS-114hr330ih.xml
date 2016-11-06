@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H812E6CE57F4545D5A75F2F50B83C255E" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 330 IH: Marine Access and State Transparency</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 330</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150113">January 13, 2015</action-date>
+			<action-desc><sponsor name-id="Y000033">Mr. Young of Alaska</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 54, United States Code, to provide for congressional approval of national monuments
+			 and restrictions on the use of national monuments, to establish
+			 requirements for declaration of marine national monuments, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="H064617C8DD3F42788C331593FCB70D5D" style="OLC">
+ <section id="HC7817D6BDA0743C2AD1C6CD65710BF6E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Marine Access and State Transparency</short-title></quote> or the <quote><short-title>MAST Act</short-title></quote> .</text> </section><section id="HEAD2C589194F4A4993775B1C6BC354EB"><enum>2.</enum><header>Congressional authorization of declarations of national monuments and restrictions on public use</header> <subsection id="HD96BE939BBEB4FABB9BF63F80A3C3651"><enum>(a)</enum><header>Declarations of national monuments</header><text display-inline="yes-display-inline">Section 320301 of title 54, United States Code, is amended—</text>
+ <paragraph display-inline="no-display-inline" id="HABE912D57AAB44EE8B95AEBE5EC3776D"><enum>(1)</enum><text>in subsection (a), by striking <quote>The President may</quote> and inserting <quote>After obtaining congressional approval of a proposed national monument and certifying compliance with the <act-name parsable-cite="NEPA69">National Environmental Policy Act of 1969</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/4321">42 U.S.C. 4321 et seq.</external-xref>) with respect to the proposed national monument, and subject to subsection (e), the President may</quote>; and</text>
+ </paragraph><paragraph display-inline="no-display-inline" id="HA114A0B888AC4EE88007D9A10D6D1F50"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H5D3857FDB3D74D7D999CA5DB4D16B0A9" style="OLC"> <subsection id="H8F01983627604F4995C2613F081A6A2E"><enum>(e)</enum><header>Requirements for declarations of marine national monuments</header> <paragraph id="H7602EEF531A84BA491F15E3EB845A2EE"><enum>(1)</enum><header>Requirements</header><text display-inline="yes-display-inline">The President may not declare any area of the exclusive economic zone to be a national monument unless—</text>
+ <subparagraph id="HEBA303B046D349BDBBDE14E7FF8A3946"><enum>(A)</enum><text>such declaration is specifically authorized by an Act of Congress;</text> </subparagraph><subparagraph id="HD4CF7091D35D4B5CABD3B4F2AE2BB7B2"><enum>(B)</enum><text>the President has submitted a proposal to make such declaration to the Governor of each State, and of each territory, any part of which is located within 100 nautical miles of that area;</text>
+ </subparagraph><subparagraph id="H52100D9C096241F2A73D7B61BA2CD952"><enum>(C)</enum><text>each such Governor submits to the President notice that the legislature of that State or territory has approved the proposal; and</text>
+ </subparagraph><subparagraph id="H5B45D2704AF34A058B7C90A4DEC60E9D"><enum>(D)</enum><text>the declaration is substantially the same as the proposal.</text> </subparagraph></paragraph><paragraph id="H3AC53ACD9FFD4B9881CA490C7A02A77D"><enum>(2)</enum><header>Exclusive economic zone defined</header><text display-inline="yes-display-inline">In this subsection the term <quote>exclusive economic zone</quote> means the zone established by Proclamation Numbered 5030, dated March 10, 1983.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H7A4CD643CA524089A0758A0B4E9DC200"><enum>(b)</enum><header>Restrictions on public use</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/54/3203">Chapter 3203</external-xref> of title 54, United States Code, is amended—</text> <paragraph id="HAE156DCDF35841FC80978E3DB866EB06"><enum>(1)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H867C51FE593248B69A8682B96FA2AC55" style="USC">
+ <section id="H68642F2FAB9946719236E0DF5C7AEBA6" section-type="subsequent-section"><enum>320304.</enum><header>Restrictions on public use</header><text display-inline="no-display-inline">The Secretary of the Interior, and the Secretary of Commerce with respect to any area of the exclusive economic zone (as defined in section 320301(e)) designated as a national monument, shall not implement any restrictions on the public use of a national monument until the expiration of an appropriate review period (as determined by such Secretary) providing for public input and congressional approval.</text></section><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H4CBD29CCE7A94E18AAA5B2E5CC1A1F6E"><enum>(2)</enum><text display-inline="yes-display-inline">in the analysis at the beginning of the chapter, by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H96510F894A3A4C34AF403720BA7BBD94" style="USC"> <toc regeneration="no-regeneration"> <toc-entry level="section">320304. Restrictions on public use.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></subsection></section></legis-body> </bill> 
+

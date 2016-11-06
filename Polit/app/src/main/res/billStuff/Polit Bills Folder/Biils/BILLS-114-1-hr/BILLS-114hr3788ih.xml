@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5DC2BB9325BF47A0A128D5D494F76695" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3788 IH: Mobility, Opportunity, and Vocation Enabling Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3788</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151021">October 21, 2015</action-date>
+			<action-desc><sponsor name-id="E000288">Mr. Ellison</sponsor> (for himself, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, and <cosponsor name-id="H001068">Mr. Huffman</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To direct the Secretary of Transportation to develop performance measures for assessing
+			 transportation connectivity and accessibility for highway and public
+			 transportation systems, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H06D9388E1994460E99372DF26F1DA042" style="OLC">
+ <section id="H5734E7305F2246B9A249D4E28717702C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Mobility, Opportunity, and Vocation Enabling Act</short-title></quote> or the <quote><short-title>MOVE Act</short-title></quote> .</text> </section><section id="HB687A6A910634F39914E63FC001E8F46"><enum>2.</enum><header>Establishment of performance measures for transportation accessibility</header> <subsection id="H75770ABC0AEA4B83B2364CD4EC99C103"><enum>(a)</enum><header>Connectivity and accessibility performance measures</header><text display-inline="yes-display-inline">Section 150 of title 23, United States Code, is amended—</text>
+ <paragraph id="HD602ED15AE0B45828C8BEBBAEF2F6B61"><enum>(1)</enum><text>in subsection (c) by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H93691BC6FED64EC388893992A8ABBA30" style="USC"> <paragraph id="H1536CD591192413E8FD06F2F44ED2AA2"><enum>(7)</enum><header>Multimodal transportation connectivity and accessibility</header> <subparagraph id="H3477BC57F3464166A8400FB3BA3BC50E"><enum>(A)</enum><header>In general</header><text>Not later than 6 years after the date of enactment of the <short-title>Mobility, Opportunity, and Vocation Enabling Act</short-title>, the Secretary shall issue such regulations as are necessary to establish performance measures relating to transportation connectivity and accessibility for States and metropolitan planning organizations to use to assess the connectivity and accessibility of roadways, public transit infrastructure, pedestrian and bikeway infrastructure, and other transportation infrastructure.</text>
+ </subparagraph><subparagraph id="H9291CD02435446DD8C866EC308A5003F"><enum>(B)</enum><header>Content</header><text>The performance measures required under subparagraph (A) shall include measures to assess—</text> <clause id="HFB7B74ADD8AE4D32A3EC1F5637520E1B"><enum>(i)</enum><text>with respect to the general population serviced by a transportation system—</text>
+ <subclause commented="no" id="H95B16104E15144C587BD186A7DB77DF9"><enum>(I)</enum><text>the change in cumulative access to employment opportunities;</text> </subclause><subclause id="H8EA2AE856A024D6CB6948B94A6CFDE0D"><enum>(II)</enum><text display-inline="yes-display-inline">multimodal choice and enhanced interconnections among modes to—</text>
+ <item id="H9873F26FC8A445EF8B93E1866AE4B0BC"><enum>(aa)</enum><text>offer variety of choice between and among modes;</text> </item><item id="H08C04019A11C4527B99D811E10553E39"><enum>(bb)</enum><text>provide accessible and reliable transportation for all users; and</text>
+ </item><item id="H7D04C9B90AAA477F8AD8F5E0585E40F8"><enum>(cc)</enum><text>encourage travel demand management; and</text> </item></subclause><subclause id="H58ED8FEE399B4786B3662A78744A72B9"><enum>(III)</enum><text>such other areas the Secretary considers appropriate; and</text>
+ </subclause></clause><clause id="H0CB84D44662841D09A5E3B40DD4C5C47"><enum>(ii)</enum><text display-inline="yes-display-inline">with respect to disadvantaged populations serviced by a transportation system—</text> <subclause id="H32EDE6CC61C743949332B836234660EE"><enum>(I)</enum><text display-inline="yes-display-inline">transportation accessibility for disadvantaged populations;</text>
+ </subclause><subclause id="H42E8426B9E7446E18AD3FF49DA9CED72"><enum>(II)</enum><text>change in cumulative job accessibility for disadvantaged populations; and</text> </subclause><subclause id="HCF79413FA7474F7F8C6569959A58163A"><enum>(III)</enum><text display-inline="yes-display-inline">such other areas the Secretary considers appropriate.</text>
+ </subclause></clause></subparagraph><subparagraph id="HBFEC15715259495A96DBEC8BD94A30F9"><enum>(C)</enum><header>Disadvantaged population defined</header><text>In this paragraph, the term <quote>disadvantaged population</quote> means a low-income or minority population, or people with disabilities, as determined by the Secretary.</text>
+							</subparagraph></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="HB37BB78142C84E9CB15D69F2404FBD30"><enum>(2)</enum><text>in subsection (d) by striking <quote>and (6)</quote> and inserting <quote>(6), and (7)</quote>.</text> </paragraph></subsection><subsection id="H01D55C25B47B41B7B07BAADD48EA4103"><enum>(b)</enum><header>Title 23 metropolitan planning coordination</header><text display-inline="yes-display-inline">Section 134(h)(2)(B) of title 23, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HD5BFB143B70340479B07D4122E7839AE" style="OLC">
+ <clause id="H9A4A6CCB92B74285A2F3984ABA7DDA1F"><enum>(iii)</enum><header>Multimodal transportation accessibility performance targets</header><text display-inline="yes-display-inline">Selection of performance targets by a metropolitan planning organization shall be coordinated, to the maximum extent practicable, with the relevant State and providers of public transportation to ensure consistency with section 150(c)(7).</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H8C1CEA9EDDDC49979CED0668089E34A8"><enum>(c)</enum><header>Title 49 metropolitan planning coordination</header><text>Section 5303(h)(2)(B) of title 49, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H20F0ADE5DBFA452AAA93B2CEE8DBFF92" style="OLC">
+ <clause id="H22485232CC934C3C81676CFD05839181"><enum>(iii)</enum><header>Multimodal transportation accessibility performance targets</header><text display-inline="yes-display-inline">Selection of performance targets by a metropolitan planning organization shall be coordinated, to the maximum extent practicable, with the relevant State and providers of public transportation to ensure consistency with section 150(c)(7) of title 23.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

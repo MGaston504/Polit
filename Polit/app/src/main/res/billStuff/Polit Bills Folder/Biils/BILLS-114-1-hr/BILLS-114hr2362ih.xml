@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HAA58B8A342EC4598B36898A682B42E8D" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2362 IH: Medical Debt Relief Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2362</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150515">May 15, 2015</action-date>
+			<action-desc><sponsor name-id="C001083">Mr. Carney</sponsor> (for himself and <cosponsor name-id="B001282">Mr. Barr</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To exclude from consumer credit reports certain medical debt that is less than 180 days delinquent
+			 or that has been in collection and has been fully paid or settled, to
+			 amend the Fair Debt Collection Practices Act to provide for a timetable
+			 for verification of medical debt and to increase the efficiency of credit
+			 markets with more perfect information, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HD268F6C0BB4A4EB1AE9403070387D8EE" style="OLC">
+ <section id="HB089ED962DD940D588CE43FEBFF37C4F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medical Debt Relief Act of 2015</short-title></quote>.</text> </section><section id="H1CD506BB9AAC4BC39D73305DF8E0F39F"><enum>2.</enum><header>Amendments to fair credit reporting Act</header> <subsection id="H46DF1C0E0FC64D28BE59D3D0C7D5BC7A"><enum>(a)</enum><header>Medical debt defined</header><text>Section 603 of the Fair Credit Reporting Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1681a">15 U.S.C. 1681a</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HCAA3A6F9F97349A4A2D992250FD9F7F7" style="OLC">
+ <subsection id="HE7585AFEEB82450C9F90C4102E40D14E"><enum>(z)</enum><header>Medical debt</header><text>The term <term>medical debt</term> means a debt described in section 604(g)(1)(C).</text> </subsection><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="HE0BFF96E800F425192764403F1C144DB"><enum>(b)</enum><header>Exclusion for paid or settled medical debt</header><text>Section 605(a) of the Fair Credit Reporting Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1681c">15 U.S.C. 1681c(a)</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H98DB07EEC49A4850A48F8D27F4CB185F" style="OLC">
+ <paragraph id="H611936C3285248A08F290E62BFA9E0D9"><enum>(7)</enum><text display-inline="yes-display-inline">Any information related to a medical debt if the date on which such debt was placed for collection, charged to profit or loss, or subjected to any similar action antedates the report by less than 180 days.</text>
+ </paragraph><paragraph id="H111928A947FB43F5BCECBA0A532A9323"><enum>(8)</enum><text>Any information related to a fully paid or settled medical debt that had been characterized as delinquent, charged off, or in collection which, from the date of payment or settlement, antedates the report by more than 45 days.</text>
+					</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section display-inline="no-display-inline" id="H0F2AC02947A0461E99EC65CDD5B5431C" section-type="subsequent-section"><enum>3.</enum><header>Validation of medical debt</header>
+ <subsection id="HA102246C17C94582894158C7F048DAA9"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 809 of the Fair Debt Collection Practices Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1692g">15 U.S.C. 1692g</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H3E9984FD6ED248FA802460A6DE680E8A" style="OLC">
+ <subsection id="H631DCEC0E3A14F3689D0DFB883D2493F"><enum>(f)</enum><header>Validation of medical debt</header><text display-inline="yes-display-inline">For purposes of medical debt, the following shall apply:</text> <paragraph id="HD1C144D182F8496399A76D43C4BE2075"><enum>(1)</enum><header>Definitions</header><text display-inline="yes-display-inline">For purposes of this subsection:</text>
+ <subparagraph id="H304184FBF94D4D90B191A61247F305D3"><enum>(A)</enum><header>Consumer reporting agency</header><text>The term <term>consumer reporting agency</term> has the meaning given such term under section 603(f) of the Fair Credit Reporting Act.</text> </subparagraph><subparagraph id="H9C84835C6F264F888392B2A333A43BA7"><enum>(B)</enum><header>Medical debt</header><text display-inline="yes-display-inline">The term <term>medical debt</term> means a debt arising from the receipt of medical services, products, or devices.</text>
+ </subparagraph></paragraph><paragraph id="H4855127A07D745FA9D780DB6EC408012"><enum>(2)</enum><header>Notice of specific deadline</header><text display-inline="yes-display-inline">Prior to furnishing information regarding a medical debt to a consumer reporting agency, a statement described under subsection (a)(3) shall include the following information:</text>
+ <subparagraph id="H76D5BC177D814332A87100AA1729C401"><enum>(A)</enum><text display-inline="yes-display-inline">That the debt collector could report to a consumer reporting agency regarding the debt at the end of the 180-day period beginning on the date that the debt collector sends the statement.</text>
+ </subparagraph><subparagraph id="HE422F9EB9E9647A9B1CDF14AE9965C5C"><enum>(B)</enum><text display-inline="yes-display-inline">The specific date that is the end of the 180-day period beginning on the date that the debt collector sends the statement.</text>
+ </subparagraph><subparagraph id="HA52A72BF263C4324A2CD94317896AD43"><enum>(C)</enum><text>That, if the debt is settled or paid by the consumer or an insurance company during the 180-day period beginning on the date that the debt collector sends the statement—</text>
+ <clause id="HAA88AC5941BB4FA09A1DEA005C18F961"><enum>(i)</enum><text>the debt will not be reported to a consumer reporting agency; and</text> </clause><clause id="HAB36FDA0D77E4396B1921A1882D2FA33"><enum>(ii)</enum><text>the consumer may, during the 180-day period—</text>
+ <subclause id="H03CA230EC9784974BDFAA807F3B17489"><enum>(I)</enum><text>communicate with an insurance company to determine coverage for the debt; or</text> </subclause><subclause id="H297EA35748F74C6ABFE6E6A7E2B9D68F"><enum>(II)</enum><text>apply for financial assistance.</text>
+ </subclause></clause></subparagraph></paragraph><paragraph id="H819B9552A3DF456EB73EF73BA34319D0"><enum>(3)</enum><header>Communications by debt collector</header><text display-inline="yes-display-inline">The debt collector may not, during the 180-day period beginning on the date that the debt collector sends the statement described under paragraph (2), communicate with, or report any information to, any consumer reporting agency regarding such debt. This paragraph shall have no effect on when a debt collector may or may not engage in activities to collect or attempt to collect any debt owed or due or asserted to be owed.</text>
+ </paragraph><paragraph id="H1840EA5EF62C4687A4B337B8428B5716"><enum>(4)</enum><header>Reporting after the 180-day period</header><text display-inline="yes-display-inline">Nothing in this subsection shall prohibit the debt collector from communicating with, or reporting any information to, any consumer reporting agency regarding such debt after the end of such 180-day period.</text>
+						</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection></section><section id="H8DBF3CFBABA84B9FBCD0E6B7357272FE"><enum>4.</enum><header>Effective date</header><text display-inline="no-display-inline">The amendments made by this Act shall take effect after the end of the 6-month period beginning on the date of the enactment of this Act.</text>
+		</section></legis-body>
+</bill>
+
+

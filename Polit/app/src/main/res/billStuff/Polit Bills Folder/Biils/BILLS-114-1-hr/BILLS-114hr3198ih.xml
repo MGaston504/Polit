@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HF59C6A3706A44035897B6666B948D2EA" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3198 IH: Small Business Jobs Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3198</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150723">July 23, 2015</action-date>
+			<action-desc><sponsor name-id="A000371">Mr. Aguilar</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to allow a credit to small employers for certain newly
+			 hired employees, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HD4FC075A9F8246798C66BB6FBB26D694" style="OLC">
+ <section id="H2CFAE536561B46C68C2F95EDB5D11FD5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Business Jobs Act of 2015</short-title></quote>.</text> </section><section id="H95625E39481A451B808A2EF9E46A4069" section-type="subsequent-section"><enum>2.</enum><header>Credit for certain individuals hired by a small employer</header> <subsection id="H37E31661F06242BAB6F5292192E4FDB4"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subpart D of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H2063E1E611B94F348C8DAF0BDB34E2EE" style="OLC">
+					<section id="HB167A012C6594650AC3D7FCC956E9CA1"><enum>45S.</enum><header>Certain individuals hired by a small employer</header>
+ <subsection id="HAD2FF786B3204F5788BCDA9C78B0BA26"><enum>(a)</enum><header>General Rule</header><text display-inline="yes-display-inline">For purposes of section 38, in the case of an eligible small employer, the small employer hiring credit determined under this section for any taxable year is the amount determined under subsection (b).</text>
+ </subsection><subsection id="H05F7A755275A4518A0CB15FF1A77F106"><enum>(b)</enum><header>Small employer hiring credit amount</header><text>The amount determined under this subsection for a taxable year with respect to a qualified small employer is the product of—</text>
+ <paragraph id="H458B984E775441A9B1D9DF063C65395F"><enum>(1)</enum><text>the tax rate in effect under section 3111(a) for the calendar year in which such taxable year ends, multiplied by</text>
+ </paragraph><paragraph id="HB8C5EEB7024E45A0B43D3CF53BB4F529"><enum>(2)</enum><text>the wages paid by the qualified small employer with respect to employment of all covered employees during the taxable year.</text>
+ </paragraph></subsection><subsection id="H2551C491396D4BEDB17C787C05218AF9"><enum>(c)</enum><header>Qualified employer</header><text>For purposes of this subsection—</text> <paragraph id="HA50C0A55B2E3403CB4336005C02FE548"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The term <term>qualified small employer</term> means with respect to any calendar year, an employer who—</text>
+ <subparagraph commented="no" id="H95A6D5E30843431D9D52F15B3E99761F"><enum>(A)</enum><text display-inline="yes-display-inline">has a place of business in a county with an annual unemployment rate for the preceding calendar year of at least one percentage point greater than the national annual unemployment rate for the preceding calendar year, and</text>
+ </subparagraph><subparagraph id="H63B2719C2AC54EAFA609FCE318431677"><enum>(B)</enum><text display-inline="yes-display-inline">who on no business day of the preceding calendar year employed less than 2, or more than 100, employees.</text>
+ </subparagraph></paragraph><paragraph id="H009ACBD17D734387BB169C555E9C2034"><enum>(2)</enum><header>Employers not in existence in preceding year</header><text>In the case of an employer which was not in existence throughout the preceding calendar year, the determination of whether such employer is a small employer shall be based on the number of employees that it is reasonably expected such employer will employ on business days in the current calendar year.</text>
+ </paragraph><paragraph id="HA51F38A74AE94E1EB417EF73E3F42BE0"><enum>(3)</enum><header>Special rules</header><text>For purposes of this subsection—</text> <subparagraph id="H7B916FF7466A4746982803230C69625D"><enum>(A)</enum><header>Predecessor and successor</header><text>Any reference in this paragraph to an employer shall include a reference to any predecessor of, or successor to, such employer.</text>
+ </subparagraph><subparagraph id="H389B60A86B2E4C9C8F9593FDA5F70275"><enum>(B)</enum><header>Aggregation rule</header><text>All persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as one employer.</text>
+ </subparagraph><subparagraph id="H54D1F9ABA38A47D18C0494E4FE1691E7"><enum>(C)</enum><header>Governmental employers not included</header><text>The term <term>employer</term> does not include the United States, any State, or any political subdivision thereof, or any instrumentality of the foregoing.</text>
+ </subparagraph><subparagraph id="H4A295F8A63004CE0AEDD05430860CE1F"><enum>(D)</enum><header>Determination of unemployment rate</header><text display-inline="yes-display-inline">The unemployment rate shall be the rate determined by the Bureau of Labor Statistics.</text> </subparagraph></paragraph><paragraph id="HFE5514753A544A66833492C87FFA0D8A"><enum>(4)</enum><header>Credit applies for only 1 year</header><text>If an election to claim the credit under this section is in effect for any calendar year, paragraph (1) shall not apply to such employer for any year after such calendar year.</text>
+ </paragraph></subsection><subsection id="H9130ECA4368644BEB6AEA3827798FC55"><enum>(d)</enum><header>Covered employee</header><text display-inline="yes-display-inline">For purposes of this subsection—</text> <paragraph id="H87E7937ACFAF422EB819D5A90E72DBDE"><enum>(1)</enum><header>In general</header><text>The term <term>covered employee</term> means, with respect to any week, is an employee who—</text>
+ <subparagraph id="H328DE999303F4B33855E71E68AC61E20"><enum>(A)</enum><text>first begins work for the employer for services performed by the employee—</text> <clause id="HC20F8B542AEA4747A058EBBEEADDAD5D"><enum>(i)</enum><text>in a trade or business of such qualified small employer, or</text>
+ </clause><clause id="HC87D9E3669884809A791369E792DF29A"><enum>(ii)</enum><text>in the case of a qualified small employer exempt from tax under section 501(a), in furtherance of the activities related to the purpose or function constituting the basis of the employer’s exemption under section 501, and</text>
+ </clause></subparagraph><subparagraph id="HCF113928965A4AB99D7768EB16D887FF"><enum>(B)</enum><text>is employed on average at least 30 hours of service per week.</text> </subparagraph></paragraph><paragraph id="H9FC2F23031294380A87714A86F482BF8"><enum>(2)</enum><header>Limitation to 5 employees</header><text>An employer may not treat more than 5 employees as covered employees.</text>
+ </paragraph><paragraph id="H73F7F8A681A741C3A3D63520565FB8B9"><enum>(3)</enum><header>Hours of service</header><text>The Secretary, in consultation with the Secretary of Labor, shall prescribe such regulations, rules, and guidance as may be necessary to determine the hours of service of an employee, including rules for the application of this paragraph to employees who are not compensated on an hourly basis.</text>
+							</paragraph></subsection><subsection id="H9D15444817CA4D7B808052822B2E967B"><enum>(e)</enum><header>Credit made available to tax-Exempt eligible small employers</header>
+ <paragraph id="H4F1047B8B472481A822C29D0265604C4"><enum>(1)</enum><header>In general</header><text>In the case of a tax-exempt eligible small employer, there shall be treated as a credit allowable under subpart C (and not allowable under this subpart) the amount of the credit determined under this section with respect to such employer.</text>
+ </paragraph><paragraph id="H4782DDE4906342929F34E6D50DA70DA3"><enum>(2)</enum><header>Tax-exempt eligible small employer</header><text>For purposes of this section, the term <term>tax-exempt eligible small employer</term> means an eligible small employer which is any organization described in section 501(c) which is exempt from taxation under section 501(a).</text>
+ </paragraph></subsection><subsection id="H3F7598874FB94F548A5920FF97576C5C"><enum>(f)</enum><header>Denial of double benefit</header><text display-inline="yes-display-inline">No deduction or credit shall be allowed under any other provision of this chapter with respect to the amount of the credit determined under this section.</text>
+ </subsection><subsection id="H543F1D43F10646538198094D453BA142"><enum>(g)</enum><header>Election</header><text display-inline="yes-display-inline">This section shall apply to any taxpayer for any taxable year only if such taxpayer elects (at such time and in such manner as the Secretary may by regulations prescribe) to have this section apply for such taxable year.</text>
+ </subsection><subsection commented="no" id="H65805CFBBA0F476EA6605283A1120F2D"><enum>(h)</enum><header>Termination</header><text>This section shall not apply with respect to wages paid after December 31, 2017.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="H5AC89128961A43A5832A5FFAB5D28F52"><enum>(b)</enum><header>Credit To Be Part of General Business Credit</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/38">Section 38(b)</external-xref> of the Internal Revenue Code of 1986 (relating to current year business credit) is amended by striking <quote>plus</quote> at the end of paragraph (35), by striking the period at the end of paragraph (36) and inserting <quote>, plus</quote>, and by inserting after paragraph (36) the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H699A718C5EC94FB3A32135C3AB447918" style="OLC">
+ <paragraph id="H0D69B25302B642EA9683A2FB587413C9"><enum>(37)</enum><text display-inline="yes-display-inline">the small employer small employer hiring credit determined under section 45S.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="H060D31DA9F1D4F44A7F0AEB790321EC0"><enum>(c)</enum><header>Clerical Amendment</header><text display-inline="yes-display-inline">The table of sections for subpart D of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H5FEF82A8818F40FCA0AA4D9927CE08A8" style="OLC">
+					<toc container-level="quoted-block-container" idref="H2063E1E611B94F348C8DAF0BDB34E2EE" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+						<toc-entry idref="HB167A012C6594650AC3D7FCC956E9CA1" level="section">Sec. 45S. Certain individuals hired by a small employer.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HF1F2A8CCF4384359B3BC0A414AF4E182"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this section shall apply to amounts paid or incurred in taxable years beginning after December 31, 2015.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

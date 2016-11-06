@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Placed-on-Calendar-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S903 PCS: To amend the Internal Revenue Code of 1986 to improve access and administration of the United States Tax Court.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-04-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<calendar>Calendar No. 37</calendar>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 903</legis-num>
+		<associated-doc>[Report No. 114–14]</associated-doc>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150414">April 14, 2015</action-date>
+			<action-desc><sponsor name-id="S118">Mr. Hatch</sponsor>, from the <committee-name committee-id="SSFI00">Committee on Finance</committee-name>, reported the following original bill; which was read twice and placed on the calendar</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to improve access and administration of the United
+			 States Tax Court.</official-title>
+	</form>
+	<legis-body>
+		<section id="id36D95E612EC643FEA9C37CAC6B35526E" section-type="section-one"><enum>1.</enum><header>Amendment of 1986 Code; table of contents</header>
+ <subsection id="idCDD08EE4D68B49468E2630A867789E22"><enum>(a)</enum><header>Amendment of 1986 Code</header><text display-inline="yes-display-inline">Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.</text>
+ </subsection><subsection id="idB7D1616229A7413FB20AE66237676574"><enum>(b)</enum><header>Table of contents</header><text>The table of contents of this Act is as follows:</text><toc><toc-entry idref="id36D95E612EC643FEA9C37CAC6B35526E" level="section">Sec. 1. Amendment of 1986 Code; table of contents.</toc-entry> <toc-entry idref="idFF1486BB78BC4347BA8E00B363DF3B1B" level="title">TITLE I—Taxpayer access to United States Tax Court</toc-entry> <toc-entry idref="ID30cc0e7bc8394981b273b44b5578b1b1" level="section">Sec. 101. Filing period for interest abatement cases.</toc-entry> <toc-entry idref="IDba3fa61dc57a488ba1a94a602aca0d8c" level="section">Sec. 102. Small tax case election for interest abatement cases.</toc-entry> <toc-entry idref="IDb4c5d9e7977847f2b21a1a8e62b4cdfb" level="section">Sec. 103. Venue for appeal of spousal relief and collection cases.</toc-entry> <toc-entry idref="ID02e9bc8b6bab4e459d37f718b89b5e4f" level="section">Sec. 104. Suspension of running of period for filing petition of spousal relief and collection cases.</toc-entry> <toc-entry idref="ID9f468bf728f54b45b8d334e9b221eb0f" level="section">Sec. 105. Application of Federal rules of evidence.</toc-entry> <toc-entry idref="idEB59F30A2F3E43798243AAC18566CCD0" level="title">TITLE II—United States Tax Court administration</toc-entry> <toc-entry idref="id70CE7408E7E849458F87A0FC461BF491" level="section">Sec. 201. Judicial conduct and disability procedures.</toc-entry> <toc-entry idref="ID3f8474f49d93451ebd13c66959e03c54" level="section">Sec. 202. Administration, judicial conference, and fees.</toc-entry> <toc-entry idref="idD1F2D573F19549C39B3A4D58D6D5CEB1" level="title">TITLE III—Clarification relating to United States Tax Court</toc-entry> <toc-entry idref="idB98BD02F3DC94EA28EE274C26799809E" level="section">Sec. 301. Clarification relating to United States Tax Court.</toc-entry> </toc> </subsection></section><title id="idFF1486BB78BC4347BA8E00B363DF3B1B" style="OLC"><enum>I</enum><header>Taxpayer access to United States Tax Court</header> <section id="ID30cc0e7bc8394981b273b44b5578b1b1"><enum>101.</enum><header>Filing period for interest abatement cases</header> <subsection id="ID031d9678a9bb447a8d90c6d4d60dbacc"><enum>(a)</enum><header>In general</header><text>Subsection (h) of <external-xref legal-doc="usc" parsable-cite="usc/26/6404">section 6404</external-xref> is amended—</text>
+ <paragraph id="ID04d823a9cb124c5ea27114b35019a9bb"><enum>(1)</enum><text>by striking <quote><header-in-text level="subsection" style="OLC">Review of denial</header-in-text></quote> in the heading and inserting <quote><header-in-text level="subsection" style="OLC">Judicial review</header-in-text></quote>, and</text>
+ </paragraph><paragraph id="IDa05aff2726544516a7213588f52010d1"><enum>(2)</enum><text>by striking <quote>if such action is brought</quote> and all that follows in paragraph (1) and inserting “if such action is brought—</text>
+						<quoted-block display-inline="no-display-inline" id="id30A8A664AA87449AAA6BCDCA4B3335EE" style="OLC">
+ <subparagraph id="ID2886bd4332b1419d9c82a520ccc16218"><enum>(A)</enum><text>at any time after the earlier of—</text>
+ <clause id="ID8e51eee4bc78403187a3622f18fb2a0c"><enum>(i)</enum><text>the date of the mailing of the Secretary’s final determination not to abate such interest, or</text>
+ </clause><clause id="ID0446b39c17284022abef8d2c02b90c71"><enum>(ii)</enum><text>the date which is 180 days after the date of the filing with the Secretary (in such form as the Secretary may prescribe) of a claim for abatement under this section, and</text>
+ </clause></subparagraph><subparagraph id="ID319adc2f33a549aca2957a78892a85f8"><enum>(B)</enum><text>not later than the date which is 180 days after the date described in subparagraph (A)(i).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection id="IDfba81db9ffc649c4a849cad0fedf9899"><enum>(b)</enum><header>Effective
+ date</header><text>The amendments made by this section shall apply to claims for abatement of interest filed with the Secretary of the Treasury after the date of the enactment of this Act.</text>
+				</subsection></section><section id="IDba3fa61dc57a488ba1a94a602aca0d8c"><enum>102.</enum><header>Small tax
+		case election for interest abatement cases</header>
+				<subsection id="ID2944ba93f109486895104ba66b442ade"><enum>(a)</enum><header>In
+ general</header><text>Subsection (f) of <external-xref legal-doc="usc" parsable-cite="usc/26/7463">section 7463</external-xref> is amended—</text> <paragraph id="IDfa8c696b9c354b41802696e903ff54d2"><enum>(1)</enum><text>by striking <quote>and</quote> at the end of paragraph (1),</text>
+ </paragraph><paragraph id="ID3b9b1563a4c84e40be38172d04f24944"><enum>(2)</enum><text>by striking the period at the end of paragraph (2) and inserting <quote>, and</quote>, and</text>
+ </paragraph><paragraph id="IDc57cbecb1d7b4aee82cef61738efbd3b"><enum>(3)</enum><text>by adding at the end the following new paragraph:</text>
+						<quoted-block display-inline="no-display-inline" id="idD8DD4EC04D08459FA5EEB11947D12992" style="OLC">
+ <paragraph id="ID6808c57b1c884eaa92a4d5d416959668"><enum>(3)</enum><text>a petition to the Tax Court under section 6404(h) in which the amount of the abatement sought does not exceed $50,000.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection id="ID5866c647ebed444dba304afb012f2ed8"><enum>(b)</enum><header>Effective
+ date</header><text>The amendments made by this section shall apply to cases pending as of the day after the date of the enactment of this Act, and cases commenced after such date of enactment.</text>
+				</subsection></section><section id="IDb4c5d9e7977847f2b21a1a8e62b4cdfb"><enum>103.</enum><header>Venue for
+		appeal of spousal relief and collection cases</header>
+				<subsection id="ID8714393f71234d629b59610587f003eb"><enum>(a)</enum><header>In
+ general</header><text>Paragraph (1) of <external-xref legal-doc="usc" parsable-cite="usc/26/7482">section 7482(b)</external-xref> is amended—</text> <paragraph id="ID49be3a65595e442680a85ed0ef25cb6f"><enum>(1)</enum><text>by striking <quote>or</quote> at the end of subparagraph (E),</text>
+ </paragraph><paragraph id="IDdb4492dba25446db886e19810baabf6c"><enum>(2)</enum><text>by striking the period at the end of subparagraph (F) and inserting a comma, and</text>
+ </paragraph><paragraph id="IDc43d28e547c140c7a86316b6e7a264aa"><enum>(3)</enum><text>by inserting after subparagraph (F) the following new subparagraphs:</text>
+						<quoted-block display-inline="no-display-inline" id="idA169DAEC5B234A33B785679B702867B5" style="OLC">
+ <subparagraph id="IDe6c509b6a7fc4554b57c00751a6889f8"><enum>(G)</enum><text>in the case of a petition under section 6015(e), the legal residence of the petitioner, or</text>
+ </subparagraph><subparagraph id="ID289ef072f452478a92d66f7f950654d4"><enum>(H)</enum><text>in the case of a petition under section 6320 or 6330—</text>
+ <clause id="ID29f5ecb1213b4f56ab0e353b6231477c"><enum>(i)</enum><text>the legal residence of the petitioner if the petitioner is an individual, and</text>
+ </clause><clause id="id9271E1DB9D2340ED9CDD64CAECCACA1D"><enum>(ii)</enum><text>the principal place of business or principal office or agency if the petitioner is an entity other than an individual.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection id="IDd5c57f5e01cb44549c3ef387762c2a93"><enum>(b)</enum><header>Effective
+		date</header>
+ <paragraph id="id1E2B27E7598D4762911168C9A958B03F"><enum>(1)</enum><header>In general</header><text>The amendments made by this section shall apply to petitions filed after the date of enactment of this Act.</text>
+ </paragraph><paragraph id="idFBBE6D988F724FA597A40329E19EEA77"><enum>(2)</enum><header>Effect on existing proceedings</header><text>Nothing in this section shall be construed to create any inference with respect to the application of <external-xref legal-doc="usc" parsable-cite="usc/26/7482">section 7482</external-xref> of the Internal Revenue Code of 1986 with respect to court proceedings filed on or before the date of the enactment of this Act.</text>
+					</paragraph></subsection></section><section id="ID02e9bc8b6bab4e459d37f718b89b5e4f"><enum>104.</enum><header>Suspension
+		of running of period for filing petition of spousal relief and collection
+		cases</header>
+				<subsection id="ID5d1ad72662524eae9f0c07f08d1dff60"><enum>(a)</enum><header>Petitions for
+		spousal relief</header>
+					<paragraph id="IDf49b9045253548e3929a129e8a6a5d1e"><enum>(1)</enum><header>In
+ general</header><text>Subsection (e) of <external-xref legal-doc="usc" parsable-cite="usc/26/6015">section 6015</external-xref> is amended by adding at the end the following new paragraph:</text>
+						<quoted-block display-inline="no-display-inline" id="id5D6C3EB2AA54456385E6C41D1BB558D7" style="OLC">
+							<paragraph id="ID239da8c013684efb9c3887545695f7fc"><enum>(6)</enum><header>Suspension of
+ running of period for filing petition in title 11 cases</header><text>In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1)(A) with respect to a final determination of relief under this section, the running of the period prescribed by such paragraph for filing such a petition with respect to such final determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 60 days thereafter.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph><paragraph id="ID79c1cfcf50764dc5a6294e4ab45e42a5"><enum>(2)</enum><header>Effective
+ date</header><text>The amendment made by this subsection shall apply to petitions filed under <external-xref legal-doc="usc" parsable-cite="usc/26/6015">section 6015(e)</external-xref> of the Internal Revenue Code of 1986 after the date of the enactment of this Act.</text>
+					</paragraph></subsection><subsection id="IDa42cc7a4cb784ae3a049aa8a10f2d97b"><enum>(b)</enum><header>Collection
+		proceedings</header>
+					<paragraph id="IDc45331277762486db1831ce66c0b2031"><enum>(1)</enum><header>In
+ general</header><text>Subsection (d) of <external-xref legal-doc="usc" parsable-cite="usc/26/6330">section 6330</external-xref> is amended—</text> <subparagraph id="IDc9a2af4ec5684447b26036ebfb524cc3"><enum>(A)</enum><text>by striking <quote>appeal such determination to the Tax Court</quote> in paragraph (1) and inserting <quote>petition the Tax Court for review of such determination</quote>,</text>
+ </subparagraph><subparagraph id="IDd751b88c67e6473d866701d44efc6e5b"><enum>(B)</enum><text>by striking <quote><header-in-text level="paragraph" style="OLC">Judicial review of determination</header-in-text></quote> in the heading of paragraph (1) and inserting <quote><header-in-text level="paragraph" style="OLC">Petition for review by tax court</header-in-text></quote>,</text>
+ </subparagraph><subparagraph id="ID6c59071c63f14dc184ba2d58427ac3ef"><enum>(C)</enum><text>by redesignating paragraph (2) as paragraph (3), and</text>
+ </subparagraph><subparagraph id="IDd3de9dcda2334e5590089972d5ed7190"><enum>(D)</enum><text>by inserting after paragraph (1) the following new paragraph:</text>
+							<quoted-block display-inline="no-display-inline" id="id4A7C2662A1F04532884D33313ACF0ECF" style="OLC">
+								<paragraph id="idB4D386A0E8814CB8919DA14F11067A10"><enum>(2)</enum><header>Suspension of
+ running of period for filing petition in title 11 cases</header><text>In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1) with respect to a determination under this section, the running of the period prescribed by such subsection for filing such a petition with respect to such determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 30 days thereafter, and</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+						</subparagraph></paragraph><paragraph id="IDba1e4d96c89d4d1cb80a3882dc80b801"><enum>(2)</enum><header>Effective
+ date</header><text>The amendments made by this subsection shall apply to petitions filed under <external-xref legal-doc="usc" parsable-cite="usc/26/6330">section 6330</external-xref> of the Internal Revenue Code of 1986 after the date of the enactment of this Act.</text>
+					</paragraph></subsection><subsection id="ID5f757b05e9704be1b4c44d04d87c07f2"><enum>(c)</enum><header>Conforming
+ amendment</header><text>Subsection (c) of <external-xref legal-doc="usc" parsable-cite="usc/26/6320">section 6320</external-xref> is amended by striking <quote>(2)(B)</quote> and inserting <quote>(3)(B)</quote>.</text>
+				</subsection></section><section commented="no" id="ID9f468bf728f54b45b8d334e9b221eb0f"><enum>105.</enum><header>Application
+		of Federal rules of evidence</header>
+				<subsection commented="no" id="ID6bb23f30f76e49d99a079b38268b4ab0"><enum>(a)</enum><header>In
+ general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/7453">Section 7453</external-xref> is amended by striking “the rules of evidence applicable in trials without a jury in the United States District Court of the District of Columbia” and inserting <quote>the Federal Rules of Evidence</quote>.</text>
+				</subsection><subsection commented="no" id="IDc5e57889c3234c31b3209c59266ba17e"><enum>(b)</enum><header>Effective
+ date</header><text>The amendment made by this section shall apply to proceedings commenced after the date of the enactment of this Act and, to the extent that it is just and practicable, to all proceedings pending on such date.</text>
+				</subsection></section></title><title id="idEB59F30A2F3E43798243AAC18566CCD0" style="OLC"><enum>II</enum><header>United States Tax Court administration</header>
+			<section id="id70CE7408E7E849458F87A0FC461BF491"><enum>201.</enum><header>Judicial
+		conduct and disability procedures</header>
+				<subsection id="ID4de0949d11284ac89abb51656cfe8565"><enum>(a)</enum><header>In
+ general</header><text>Part II of subchapter C of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/76">chapter 76</external-xref> is amended by adding at the end the following new section:</text>
+					<quoted-block display-inline="no-display-inline" id="id1C82EE36C77F4EB1BD7F28C2DFB46300" style="OLC">
+						<section id="ID341a17567d1e410c9c0cb010a31976d6"><enum>7466.</enum><header>Judicial
+		  conduct and disability procedures</header>
+							<subsection id="ID750df797404a4d89989e687acffcb194"><enum>(a)</enum><header>In
+ general</header><text>The Tax Court shall prescribe rules, consistent with the provisions of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/28/16">chapter 16</external-xref> of title 28, United States Code, establishing procedures for the filing of complaints with respect to the conduct of any judge or magistrate judge of the Tax Court and for the investigation and resolution of such complaints. In investigating and taking action with respect to any such complaint, the Tax Court shall have the powers granted to a judicial council under such chapter.</text>
+							</subsection><subsection id="ID9de7c25291804aa289e153a2f665bccf"><enum>(b)</enum><header>Judicial
+ council</header><text>The provisions of sections 354(b) through 360 of title 28, United States Code, regarding referral or certification to, and petition for review in the Judicial Conference of the United States, and action thereon, shall apply to the exercise by the Tax Court of the powers of a judicial council under subsection (a). The determination pursuant to section 354(b) or 355 of title 28, United States Code, shall be made based on the grounds for removal of a judge from office under section 7443(f), and certification and transmittal by the Conference of any complaint shall be made to the President for consideration under section 7443(f).</text>
+							</subsection><subsection id="ID673bc6dffc274d0dafaa8fd9b6e0216f"><enum>(c)</enum><header>Hearings</header>
+								<paragraph id="ID8d827bd7a50f470ab1bb9f7cdfd96ebd"><enum>(1)</enum><header>In
+ general</header><text>In conducting hearings pursuant to subsection (a), the Tax Court may exercise the authority provided under section 1821 of title 28, United States Code, to pay the fees and allowances described in that section.</text>
+								</paragraph><paragraph id="ID6ea65e70c91a4c82a239b72ccba6d342"><enum>(2)</enum><header>Reimbursement
+ for expenses</header><text>The Tax Court shall have the power provided under <external-xref legal-doc="usc" parsable-cite="usc/26/361">section 361</external-xref> of such title 28 to award reimbursement for the reasonable expenses described in that section. Reimbursements under this paragraph shall be made out of any funds appropriated for purposes of the Tax Court.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="ID5725108026bc48ab889239a5df8964c9"><enum>(b)</enum><header>Clerical
+ amendment</header><text>The table of sections for part II of subchapter C of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/76">chapter 76</external-xref> is amended by adding at the end the following new item:</text>
+					<quoted-block id="idac76b54a-b355-447f-b23b-69a73cffd261" style="OLC"><toc><toc-entry idref="ID341a17567d1e410c9c0cb010a31976d6" level="section">Sec. 7466. Judicial conduct and disability
+		  procedures.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="ID222cb11dd7ab4e52b63c6b26522a4bc5"><enum>(c)</enum><header>Effective
+ date</header><text>The amendments made by this section shall apply to proceedings commenced after the date which is 180 days after the date of the enactment of this Act and, to the extent just and practicable, all proceedings pending on such date.</text>
+				</subsection></section><section id="ID3f8474f49d93451ebd13c66959e03c54"><enum>202.</enum><header>Administration,
+		judicial conference, and fees</header>
+				<subsection id="ID9cb061e904a94d39aafb7baa36eb3afe"><enum>(a)</enum><header>In
+ general</header><text>Part III of subchapter C of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/76">chapter 76</external-xref> is amended by inserting before section 7471 the following new sections:</text>
+					<quoted-block display-inline="no-display-inline" id="id2660060CECAC49DAA097E77ABD7D1347" style="OLC">
+ <section id="ID9380df0a43294106b9ccd88498bb1d33"><enum>7470.</enum><header>Administration</header><text display-inline="no-display-inline">Notwithstanding any other provision of law, the Tax Court may exercise, for purposes of management, administration, and expenditure of funds of the Court, the authorities provided for such purposes by any provision of law (including any limitation with respect to such provision of law) applicable to a court of the United States (as that term is defined in section 451 of title 28, United States Code), except to the extent that such provision of law is inconsistent with a provision of this subchapter.</text>
+						</section><section id="IDf4dbeb8f94c44ce980d12fb2c4074407"><enum>7470A.</enum><header>Judicial
+		  conference</header>
+							<subsection id="ID673b13d1ca36495c93a78b458618ed9d"><enum>(a)</enum><header>Judicial
+ conference</header><text>The chief judge may summon the judges and magistrate judges of the Tax Court to an annual judicial conference, at such time and place as the chief judge shall designate, for the purpose of considering the business of the Tax Court and recommending means of improving the administration of justice within the jurisdiction of the Tax Court. The Tax Court shall provide by its rules for representation and active participation at such conferences by persons admitted to practice before the Tax Court and by other persons active in the legal profession.</text>
+							</subsection><subsection id="ID9af90d76931c443bace79df2a27a1169"><enum>(b)</enum><header>Registration
+ fee</header><text>The Tax Court may impose a reasonable registration fee on persons (other than judges and magistrate judges of the Tax Court) participating at judicial conferences convened pursuant to subsection (a). Amounts so received by the Tax Court shall be available to the Tax Court to defray the expenses of such conferences.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="ID748cfc5130314ffa9400151b2957a3bf"><enum>(b)</enum><header>Disposition of
+ fees</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/7473">Section 7473</external-xref> is amended to read as follows:</text> <quoted-block display-inline="no-display-inline" id="id3E428A6FEAC048C58B880677C44E7C02" style="OLC"> <section id="ID22f4af5a8c604123b6c8a40ab4d68e43"><enum>7473.</enum><header>Disposition of fees</header><text display-inline="no-display-inline">Except as provided in sections 7470A and 7475, all fees received by the Tax Court pursuant to this title shall be deposited into a special fund of the Treasury to be available to offset funds appropriated for the operation and maintenance of the Tax Court.</text></section><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="ID46e8f722ed8f4111bdb19279a7a7ee8d"><enum>(c)</enum><header>Clerical
+ amendments</header><text>The table of sections for part III of subchapter C of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/76">chapter 76</external-xref> is amended by inserting before the item relating to section 7471 the following new items:</text>
+					<quoted-block id="idb369c617-d84d-4d53-9929-5a25dedc7c5b" style="OLC"><toc><toc-entry idref="ID9380df0a43294106b9ccd88498bb1d33" level="section">Sec. 7470. Administration.</toc-entry><toc-entry idref="IDf4dbeb8f94c44ce980d12fb2c4074407" level="section">Sec. 7470A. Judicial
+		  conference.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection></section></title><title commented="no" id="idD1F2D573F19549C39B3A4D58D6D5CEB1" style="OLC"><enum>III</enum><header>Clarification relating to United States Tax Court</header>
+ <section commented="no" id="idB98BD02F3DC94EA28EE274C26799809E"><enum>301.</enum><header>Clarification relating to United States Tax Court</header><text display-inline="no-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/7441">Section 7441</external-xref> is amended by adding at the end the following: <quote>The Tax Court is not an agency of, and shall be independent of, the executive branch of the Government.</quote>.</text>
+			</section></title></legis-body>
+	<endorsement><action-date date="20150414">April 14, 2015</action-date><action-desc>Read twice and placed on the calendar</action-desc></endorsement></bill>
+
+

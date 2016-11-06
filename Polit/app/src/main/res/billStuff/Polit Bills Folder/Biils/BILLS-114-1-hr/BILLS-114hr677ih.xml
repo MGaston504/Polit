@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6F7AC5B0BA25439A8E3C8B9BF6AA359A" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 677 IH: American Heroes COLA Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 677</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150203">February 3, 2015</action-date>
+			<action-desc><sponsor name-id="A000374">Mr. Abraham</sponsor> (for himself and <cosponsor name-id="T000468">Ms. Titus</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to provide for annual cost-of-living adjustments to be made
+			 automatically by law each year in the rates of disability compensation for
+			 veterans with service-connected disabilities and the rates of dependency
+			 and indemnity compensation for survivors of certain service-connected
+			 disabled veterans.</official-title>
+	</form>
+	<legis-body id="H68F57FCA739A48FBA03612EC481ED538" style="OLC">
+ <section id="HF54DE341BACD4AA3BBADEEDE7B29CD8B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>American Heroes COLA Act of 2015</short-title></quote>.</text> </section><section id="H060934994607401BA65BA789F3A5025F"><enum>2.</enum><header>Automatic annual increase in rates of disability compensation and dependency and indemnity compensation</header> <subsection id="H365F887438984DEA8841E96CF0DFB899"><enum>(a)</enum><header>Indexing to social security increases</header><text>Section 5312 of title 38, United States Code, is amended by adding at the end the following new subsection:</text>
+				<quoted-block id="HE429F47FD1144F9AB665001D6ABD087E" style="OLC">
+					<subsection id="HD7F5CDCEAF3D40CA961888A4DE19D4C3"><enum>(d)</enum>
+ <paragraph commented="no" display-inline="yes-display-inline" id="H125D11841D6B45E6949394F063D3B6FF"><enum>(1)</enum><text>Whenever there is an increase in benefit amounts payable under title II of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/401">42 U.S.C. 401 et seq.</external-xref>) as a result of a determination made under section 215(i) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/415">42 U.S.C. 415(i)</external-xref>), the Secretary shall, effective on the date of such increase in benefit amounts, increase the dollar amounts in effect for the payment of disability compensation and dependency and indemnity compensation by the Secretary, as specified in paragraph (2), as such amounts were in effect immediately before the date of such increase in benefit amounts payable under title II of the Social Security Act, by the same percentage as the percentage by which such benefit amounts are increased.</text>
+ </paragraph><paragraph display-inline="no-display-inline" id="H0B09A121A4A74FCFA3E55916E55B73A9" indent="up1"><enum>(2)</enum><text>The dollar amounts to be increased pursuant to paragraph (1) are the following:</text> <subparagraph id="HEE6E97A43222417E99D2624C73B7D587"><enum>(A)</enum><header>Wartime disability compensation</header><text>Each of the dollar amounts in effect under section 1114 of this title.</text>
+ </subparagraph><subparagraph id="HB1C9EFD6950846F2B201286736FBFF47"><enum>(B)</enum><header>Additional compensation for dependents</header><text>Each of the dollar amounts in effect under section 1115(1) of this title.</text> </subparagraph><subparagraph id="HD43D73A478E94BC6B041017AD4336313"><enum>(C)</enum><header>Clothing allowance</header><text>The dollar amount in effect under section 1162 of this title.</text>
+ </subparagraph><subparagraph id="H8C413C41A945400FAF35E1290856B3BE"><enum>(D)</enum><header>Dependency and indemnity compensation to surviving spouse</header><text>Each of the dollar amounts in effect under subsections (a) through (d) of section 1311 of such title.</text>
+ </subparagraph><subparagraph id="H034FD45812C2472D95EEFA8EB2A4083A"><enum>(E)</enum><header>Dependency and indemnity compensation to children</header><text>Each of the dollar amounts in effect under sections 1313(a) and 1314 of such title.</text> </subparagraph></paragraph><paragraph id="H89669DBC74334531939EEDFC59DE4C1E" indent="up1"><enum>(3)</enum><text>Whenever there is an increase under paragraph (1) in amounts in effect for the payment of disability compensation and dependency and indemnity compensation, the Secretary shall publish such amounts, as increased pursuant to such paragraph, in the Federal Register at the same time as the material required by section 215(i)(2)(D) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/415">42 U.S.C. 415(i)(2)(D)</external-xref>) is published by reason of a determination under section 215(i) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/415">42 U.S.C. 415(i)</external-xref>).</text>
+ </paragraph><paragraph commented="no" id="H2133AB0334DE459386A529BE9307BB7B" indent="up1"><enum>(4)</enum><text>Each dollar amount increased under paragraph (1), if not a whole dollar amount, shall be rounded to the next lower whole dollar amount.</text>
+ </paragraph><paragraph commented="no" id="HCE69E765F38D41A5A396453EF24E22FE" indent="up1"><enum>(5)</enum><text display-inline="yes-display-inline">The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a), the rates of disability compensation payable to persons under section 10 of <external-xref legal-doc="public-law" parsable-cite="pl/85/857">Public Law 85–857</external-xref> (72 Stat. 1263) who have not received compensation under chapter 11 of this title.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H14A8B27625F0455B87B3A46C1C7F857D"><enum>(b)</enum><header>Effective date</header><text>Subsection (d) of section 5312 of title 38, United States Code, as added by subsection (a) of this section, shall take effect on December 1, 2015.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

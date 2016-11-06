@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3FF32B707EE042E29142461DB4E65739" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 852 IH: TIPS Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 852</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150210">February 10, 2015</action-date> 
+<action-desc><sponsor name-id="S001183">Mr. Schweikert</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Communications Act of 1934 to provide for additional technical and procedural standards for artificial or prerecorded voice telephone messages and the establishment of such standards for live telephone solicitations.</official-title> 
+</form> 
+<legis-body id="HCEF0AE093982436F8EFBB34AECFD6583" style="OLC"> 
+<section id="H5FD226F7249C4CE1BB8545B62E33DB43" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Transparency in Phone Solicitation Act of 2015</short-title></quote> or the <quote>TIPS Act of 2015</quote>.</text></section> <section id="HF1CF5B273D0C4B94A50AC4EEFEF2E0D2"><enum>2.</enum><header>Technical and procedural standards</header> <subsection id="H205B46C7E8D04F33989B537C71131C6C"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 227(d) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/227">47 U.S.C. 227(d)</external-xref>) is amended—</text> 
+<paragraph id="H020A56AC1F144ADA83D2569ACB1B3EF2"><enum>(1)</enum><text>in paragraph (1)(A), by inserting <quote>or to make any live telephone solicitation</quote> after <quote>automatic telephone dialing system</quote> the second place it appears; </text></paragraph> <paragraph id="H80C98B7F290C43FEAAEADEE1B4BD49E9"><enum>(2)</enum><text>in paragraph (3)—</text> 
+<subparagraph id="H6B8F4E47F5F24734852062D045417741"><enum>(A)</enum><text>in subparagraph (A)—</text> <clause id="H670AD933E6C74A748DF237D00A9159D6"><enum>(i)</enum><text>by striking <quote>or address</quote> and inserting <quote>and address</quote>; and</text></clause> 
+<clause id="HF3B28A58EC1B4C4184DE687869EF1853"><enum>(ii)</enum><text>by striking <quote>; and</quote> and inserting <quote>and the address of a website that the called party may use to indicate that such party does not wish to receive telephone calls from such business, other entity, or individual;</quote>;</text></clause></subparagraph> <subparagraph id="H4F8204B9D1A646FEADEFF672C77E4C2B"><enum>(B)</enum><text>by redesignating subparagraph (B) as subparagraph (C); and</text></subparagraph> 
+<subparagraph id="HD4CF830D421B401F8EC04013D9CA4F6E"><enum>(C)</enum><text>by inserting after subparagraph (A) the following:</text> <quoted-block style="OLC" id="HB6963436F197406AAFF869154F51EA70" display-inline="no-display-inline"> <subparagraph id="H641647F004BF49C28A1AEC83CFC78E21"><enum>(B)</enum><text display-inline="yes-display-inline">any such system will, to the extent possible, transmit caller identification information (as defined in subsection (e)(8)) that includes—</text> 
+<clause id="H99A1486ECDFD4D4CBE5CA9450580EDD5"><enum>(i)</enum><text>the identity of the business, other entity, or individual initiating the call; and</text></clause> <clause id="HC1788DCA5C6A440DBD4FB4F06DC9E5E0"><enum>(ii)</enum><text>a telephone number that the called party may use to return the call directly to such business, other entity, or individual; and</text></clause></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph></paragraph> 
+<paragraph id="H685BD49D9BCA4827927D6CFC50ABE38E"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block style="OLC" id="HF91BC8FD32C6489990F052F4712DD7CD" display-inline="no-display-inline"> <paragraph id="H4DDF673D84F9492FA432A9356629212E"><enum>(4)</enum><header>Live telephone solicitations</header> <subparagraph id="HF941CE726305404DBA1C15293C6A87F7"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">The Commission shall prescribe technical and procedural standards for any business, other entity, or individual that makes a live telephone solicitation. Such standards shall require that—</text> 
+<clause id="HD9A4A705C154492A89FBC885D75D6F9C"><enum>(i)</enum><text display-inline="yes-display-inline">all such solicitations shall—</text> <subclause id="HC72D3D0B68F54E98A9321485B7010017"><enum>(I)</enum><text>at the beginning of the call, state clearly the identity of the business, other entity, or individual making the solicitation; and</text></subclause> 
+<subclause id="HF836BE7D334140B89EFDFC3E0528F21D"><enum>(II)</enum><text display-inline="yes-display-inline">during the call, state clearly the telephone number and address of such business, other entity, or individual and the address of a website that the called party may use to indicate that such party does not wish to receive telephone solicitations from such business, other entity, or individual;</text></subclause></clause> <clause id="HCCA63CB6210846C2971E946936226CBB"><enum>(ii)</enum><text display-inline="yes-display-inline">the business, other entity, or individual making the solicitation shall, to the extent possible, transmit caller identification information (as defined in subsection (e)(8)) that includes—</text> 
+<subclause id="H07E7EA525A9E4266A6DC596095ADEA1C"><enum>(I)</enum><text>the identity of such business, other entity, or individual; and</text></subclause> <subclause id="H271FD59295DA4ED4B54D63C8D4F61FCC"><enum>(II)</enum><text>a telephone number that the called party may use to return the call directly to such business, other entity, or individual; and</text></subclause></clause> 
+<clause id="H235BDCF78C41419F87C5134CFC31B68E"><enum>(iii)</enum><text display-inline="yes-display-inline">the business, other entity, or individual making the solicitation shall release the called party's line within 5 seconds of the time notification is transmitted to such business, other entity, or individual that the called party has hung up, to allow the called party's line to be used to make or receive other calls.</text></clause></subparagraph> <subparagraph id="H0F1C67D1A99E4FBCAC80D09A22C1B96B" commented="no"><enum>(B)</enum><header>Live telephone solicitation defined</header><text>In this paragraph, the term <quote>live telephone solicitation</quote> means a telephone solicitation—</text> 
+<clause id="H5A4CF01046E0406E9CF023FC5BE56A87" commented="no"><enum>(i)</enum><text>in which the business, other entity, or individual initiating the call does not employ an artificial or prerecorded voice; and</text></clause> <clause id="HC6820F527D67458395C74BCE67E1E687" commented="no"><enum>(ii)</enum><text>with respect to which such business, other entity, or individual does not have a personal relationship (as defined in section 64.1200(f) of title 47, Code of Federal Regulations) with the called party.</text> </clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="HF3C61032CC0B4205A5225D88B1ECF141"><enum>(b)</enum><header>Deadline for regulations</header><text>Not later than 180 days after the date of the enactment of this Act, the Federal Communications Commission shall promulgate such regulations and make such revisions to its regulations as may be necessary to implement the amendments made by subsection (a).</text></subsection></section> </legis-body> </bill> 
+

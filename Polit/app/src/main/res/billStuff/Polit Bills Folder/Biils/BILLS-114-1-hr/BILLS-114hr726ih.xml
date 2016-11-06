@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEBE7A5B1980F4BE3AC8490EE7B51724A" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 726 IH: Secure Data Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 726</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150204">February 4, 2015</action-date>
+			<action-desc><sponsor name-id="L000397">Ms. Lofgren</sponsor> (for herself, <cosponsor name-id="M001184">Mr. Massie</cosponsor>, <cosponsor name-id="S000244">Mr. Sensenbrenner</cosponsor>, <cosponsor name-id="C000714">Mr. Conyers</cosponsor>, <cosponsor name-id="P000592">Mr. Poe of Texas</cosponsor>, <cosponsor name-id="D000617">Ms. DelBene</cosponsor>, <cosponsor name-id="P000598">Mr. Polis</cosponsor>, <cosponsor name-id="O000170">Mr. O’Rourke</cosponsor>, and <cosponsor name-id="N000002">Mr. Nadler</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="">Select Committee on Intelligence (Permanent Select)</committee-name>, and in addition to the Committee on the <committee-name committee-id="HJU00">Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prohibit Federal agencies from mandating the deployment of vulnerabilities in data security
+			 technologies.</official-title>
+	</form>
+	<legis-body id="H777BBC7F815448E18D3E160AB8F28DE2" style="OLC">
+ <section id="H5A3244ED367C4733B0EDD2505D2E898C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Secure Data Act of 2015</short-title></quote>.</text> </section><section id="HA10F1673E1E34924A5916C3CFD51A98F"><enum>2.</enum><header>Prohibition on data security vulnerability mandates</header> <subsection id="H94D9B8591A8C410997FE1A23B0A4D3D6"><enum>(a)</enum><header>In general</header><text>Except as provided in subsection (b), no agency may mandate or request that a manufacturer, developer, or seller of covered products design or alter the security functions in its product or service to allow the surveillance of any user of such product or service, or to allow the physical search of such product, by any agency.</text>
+ </subsection><subsection id="H235C74A8614C4CDD8957CEF016572ED0"><enum>(b)</enum><header>Exception</header><text>Subsection (a) shall not apply to mandates authorized under the Communications Assistance for Law Enforcement Act (<external-xref legal-doc="usc" parsable-cite="usc/47/1001">47 U.S.C. 1001 et seq.</external-xref>).</text>
+ </subsection><subsection id="H36F7A027D1B54282841751CAB9433CE5"><enum>(c)</enum><header>Definitions</header><text>In this section—</text> <paragraph id="HDD355DE92AFD4B17962AFF02182C832C"><enum>(1)</enum><text>the term <term>agency</term> has the meaning given the term in section 3502 of title 44, United States Code; and</text>
+ </paragraph><paragraph id="H0D098680A6EF4296B1662C80673E5997"><enum>(2)</enum><text>the term <term>covered product</term> means any computer hardware, computer software, or electronic device that is made available to the general public.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

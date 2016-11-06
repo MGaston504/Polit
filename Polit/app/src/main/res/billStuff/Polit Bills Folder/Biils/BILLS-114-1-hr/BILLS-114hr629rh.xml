@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="HB3603E1C0ADB4C628538AF64591086B4" public-private="public"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 629 RH: Permanent S Corporation Built-in Gain Recognition Period Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IB</distribution-code> 
+<calendar display="yes">Union Calendar No. 9</calendar>
+<congress display="yes">114th CONGRESS</congress> <session display="yes">1st Session</session> 
+<legis-num>H. R. 629</legis-num>
+<associated-doc role="report" display="yes">[Report No. 114–15]</associated-doc> 
+<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150130">January 30, 2015</action-date> 
+<action-desc><sponsor name-id="R000578">Mr. Reichert</sponsor> (for himself and <cosponsor name-id="K000188">Mr. Kind</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00" added-display-style="italic" deleted-display-style="strikethrough">Committee on Ways and Means</committee-name></action-desc> 
+</action> 
+<action>
+<action-date date="20150209">February 9, 2015</action-date>
+<action-desc>Additional sponsors: <cosponsor name-id="R000585">Mr. Reed</cosponsor> and <cosponsor name-id="C001106">Mr. Costello of Pennsylvania</cosponsor></action-desc>
+</action>
+<action>
+<action-date date="20150209">February 9, 2015</action-date>
+<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action-desc>
+<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction>
+<action-instruction>For text of introduced bill, see copy of bill as introduced on January 30, 2015</action-instruction>
+</action>
+<action display="yes">
+<action-desc display="yes"><pagebreak/></action-desc>
+</action>
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To amend the Internal Revenue Code of 1986 to make permanent the reduced recognition period for built-in gains of S corporations.<pagebreak/></official-title> 
+</form> 
+<legis-body display-enacting-clause="yes-display-enacting-clause" changed="added" style="OLC" committee-id="HWM00" reported-display-style="italic" id="H7AF9C0E3559142A3AC39369967E194D3">
+<section id="HCA09093F62C24BEEAE97AE8577322F54" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Permanent S Corporation Built-in Gain Recognition Period Act of 2015</short-title></quote>.</text></section> <section id="HB3B0750B77E44F4187F4BA5E9E8B25B1" commented="no" section-type="subsequent-section"><enum>2.</enum><header>Reduced recognition period for built-in gains of S corporations made permanent</header> <subsection id="HF3C53E83F0324700946B7BD1B74738DF" commented="no"><enum>(a)</enum><header>In general</header><text>Paragraph (7) of <external-xref legal-doc="usc" parsable-cite="usc/26/1374">section 1374(d)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text>
+<quoted-block style="OLC" id="H02856319F79D4FC1B593E5E75D97BACA">
+<paragraph id="H3979136C602D4104BDA1216300032513" commented="no"><enum>(7)</enum><header>Recognition period</header>
+<subparagraph id="H8B7AE787E6484126B392D90F9626532F"><enum>(A)</enum><header>In general</header><text>The term <term>recognition period</term> means the 5-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation. For purposes of applying this section to any amount includible in income by reason of distributions to shareholders pursuant to section 593(e), the preceding sentence shall be applied without regard to the phrase <quote>5-year</quote>.</text></subparagraph> <subparagraph id="H3FB62284A27A412FA1C99FE42FA25052"><enum>(B)</enum><header>Installment sales</header><text>If an S corporation sells an asset and reports the income from the sale using the installment method under section 453, the treatment of all payments received shall be governed by the provisions of this paragraph applicable to the taxable year in which such sale was made.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="HDE7ECD0FC1E24F2FB03554F384D73A5C" commented="no"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by this section shall apply to taxable years beginning after December 31, 2014.</text></subsection></section> </legis-body> <endorsement display="yes"> <action-date date="20150209">February 9, 2015</action-date> <action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action-desc></endorsement> </bill> 
+

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB8C1C16CE25440EDA54070B18A98A1D6" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3291 IH: Medicare Crosswalk Hospital Code Development Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3291</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150729">July 29, 2015</action-date>
+			<action-desc><sponsor name-id="R000570">Mr. Ryan of Wisconsin</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to develop a crosswalk between HCPCS and MS–DRG
+			 codes for similar hospital services.</official-title>
+	</form>
+	<legis-body id="H14E7E1EB6C64487884D0EFF2F899F583" style="OLC">
+ <section commented="no" id="H42EFDA23A17245F693A7228D6203CAD9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medicare Crosswalk Hospital Code Development Act of 2015</short-title></quote>.</text> </section><section id="HB1155B7E75DA40C7949C6C97C34DF845"><enum>2.</enum><header>Development of Medicare HCPCS version of MS–DRG codes for similar hospital services</header><text display-inline="no-display-inline">Section 1886 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww</external-xref>) is amended by adding at the end the following new subsection:</text>
+			<quoted-block display-inline="no-display-inline" id="H754E6A450B57428EA20872A4794094C3" style="OLC">
+				<subsection id="HCFD0756AD8E14EBCBCC0C388C8F81FA7"><enum>(t)</enum><header>Relating similar inpatient and outpatient hospital services</header>
+					<paragraph id="HF9CF4C11CE7F46A5803D64C6A54BE180"><enum>(1)</enum><header>Development of HCPCS version of MS–DRG codes</header>
+ <subparagraph id="H71C8921D95004CAF8ADD242AA32B08F4"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than January 1, 2018, the Secretary shall develop HCPCS versions for MS–DRGs that is similar to the ICD–10–PCS for such MS–DRGs such that, to the extent possible, the MS–DRG assignment shall be similar for a claim coded with the HCPCS version as an identical claim coded with an ICD–10–PCS code.</text>
+ </subparagraph><subparagraph id="H7E4F1861BC6F4E0AAB7A66A82B0D53FB"><enum>(B)</enum><header>Coverage of surgical MS–DRGs</header><text display-inline="yes-display-inline">In carrying out subparagraph (A), the Secretary shall develop HCPCS versions of MS–DRG codes for not fewer than 10 surgical MS–DRGs.</text>
+						</subparagraph><subparagraph id="HA87B9A2D2B0D42C6A28D9E72B264735B"><enum>(C)</enum><header>Publication and dissemination of the HCPCS versions of MS–DRGs</header>
+ <clause id="HE9D54F6922684A9498A0D5F0FAB95128"><enum>(i)</enum><header>In general</header><text>The Secretary shall develop an HCPCS MS–DRG definitions manual and software that is similar to the definitions manual and software for ICD–10–PCS codes for such MS–DRGs. The Secretary shall post the HCPCS MS–DRG definitions manual and software on the Internet website of the Centers for Medicare &amp; Medicaid Services. The HCPCS MS–DRG definitions manual and software shall be in the public domain and available for use and redistribution without charge.</text>
+ </clause><clause id="HCF491AF4CDE14050837DEDA6900EE758"><enum>(ii)</enum><header>Use of previous analysis done by MedPAC</header><text display-inline="yes-display-inline">In developing the HCPCS MS–DRG definitions manual and software under clause (i), the Secretary shall consult with the Medicare Payment Advisory Commission and shall consider the analysis done by such Commission in translating outpatient surgical claims into inpatient surgical MS–DRGs in preparing chapter 7 (relating to hospital short-stay policy issues) of its <quote>Medicare and the Health Care Delivery System</quote> report submitted to Congress in June 2015.</text>
+ </clause></subparagraph><subparagraph id="H991AF23CCF0146FF8C7A0CEEED2F6231"><enum>(D)</enum><header>Definition and reference</header><text display-inline="yes-display-inline">In this paragraph:</text> <clause id="HC9955809D094409391C1CA3A6EE13261"><enum>(i)</enum><header>HCPCS</header><text>The term <term>HCPCS</term> means, with respect to hospital services (other than inpatient hospital services) for which payment is made under this title, the code under the Healthcare Common Procedure Coding System (HCPCS) (or a successor code) for such services.</text>
+ </clause><clause id="HF15D721D21394452ACB093B0014F21F4"><enum>(ii)</enum><header>ICD–<enum-in-header>10</enum-in-header>–PCS</header><text>A reference to an ICD–10–PCS code includes a reference to a successor to such code.</text></clause></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block> </section></legis-body> </bill> 
+

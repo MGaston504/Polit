@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HCFABE624EC254FE6B93A0937BBE2DADC" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4168 IH: Small Business Capital Formation Enhancement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4168</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151203">December 3, 2015</action-date>
+			<action-desc><sponsor name-id="P000611">Mr. Poliquin</sponsor> (for himself and <cosponsor name-id="V000130">Mr. Vargas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Small Business Investment Incentive Act of 1980 to require an annual review by the
+			 Securities and Exchange Commission of the annual government-business forum
+			 on capital formation that is held pursuant to such Act.</official-title>
+	</form>
+	<legis-body id="HB214B36EBAF14B12961F4623405E82C3" style="OLC">
+ <section id="HADED6F719D174C88A04D76DFB4CD6EC0" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Business Capital Formation Enhancement Act</short-title></quote>.</text> </section><section id="HE8E1B36E435B4577AEFEF3E0EDBDD332"><enum>2.</enum><header>Annual review of government-business forum on capital formation</header><text display-inline="no-display-inline">Section 503 of the Small Business Investment Incentive Act of 1980 (<external-xref legal-doc="usc" parsable-cite="usc/15/80c-1">15 U.S.C. 80c–1</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HFAFA48206C99434BB39C73526A2C2F2D" style="traditional">
+ <subsection id="HEECD0B357BB64320B49D8446C3779D69"><enum>(e)</enum><text display-inline="yes-display-inline">The Commission shall—</text> <paragraph id="HD0918F3D8708488EAB4B2CBD387971E7"><enum>(1)</enum><text>review the findings and recommendations of the forum; and</text>
+ </paragraph><paragraph id="HD6BEEBC45AA14220BB829086340C6D7E"><enum>(2)</enum><text>each time the forum submits a finding or recommendation to the Commission, promptly issue a public statement—</text>
+ <subparagraph id="H009312A8070C4F3D983848A6E775C725"><enum>(A)</enum><text>assessing the finding or recommendation of the forum; and</text> </subparagraph><subparagraph id="H9DE912943A70455A9620B93C42D0BDCE"><enum>(B)</enum><text>disclosing the action, if any, the Commission intends to take with respect to the finding or recommendation.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

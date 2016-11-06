@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HCCBCE9BEBF3A42E1ADDECFDAC63F7B20" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3690 IH: Workplace Democracy Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3690</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151006">October 6, 2015</action-date>
+			<action-desc><sponsor name-id="P000607">Mr. Pocan</sponsor> (for himself, <cosponsor name-id="D000216">Ms. DeLauro</cosponsor>, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, <cosponsor name-id="W000822">Mrs. Watson Coleman</cosponsor>, <cosponsor name-id="B001286">Mrs. Bustos</cosponsor>, <cosponsor name-id="C000714">Mr. Conyers</cosponsor>, <cosponsor name-id="C001090">Mr. Cartwright</cosponsor>, <cosponsor name-id="K000009">Ms. Kaptur</cosponsor>, <cosponsor name-id="S000185">Mr. Scott of Virginia</cosponsor>, <cosponsor name-id="T000472">Mr. Takano</cosponsor>, <cosponsor name-id="N000188">Mr. Norcross</cosponsor>, <cosponsor name-id="R000053">Mr. Rangel</cosponsor>, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, <cosponsor name-id="C001080">Ms. Judy Chu of California</cosponsor>, <cosponsor name-id="F000455">Ms. Fudge</cosponsor>, <cosponsor name-id="H001063">Ms. Hahn</cosponsor>, <cosponsor name-id="S000248">Mr. Serrano</cosponsor>, <cosponsor name-id="P000604">Mr. Payne</cosponsor>, <cosponsor name-id="M001160">Ms. Moore</cosponsor>, <cosponsor name-id="E000288">Mr. Ellison</cosponsor>, <cosponsor name-id="M000404">Mr. McDermott</cosponsor>, <cosponsor name-id="B001296">Mr. Brendan F. Boyle of Pennsylvania</cosponsor>, and <cosponsor name-id="H001034">Mr. Honda</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the National Labor Relations Act to establish an efficient system to enable employees to
+			 form, join, or assist labor organizations, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HEC0D519C601C4E5FA4767D04F790B52C" style="OLC">
+ <section display-inline="no-display-inline" id="H62229D16F3994919A09E49866D265EBC" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Workplace Democracy Act</short-title></quote>.</text> </section><section id="HF06F2A80543F44EF9EF1BAE16E1C6D78"><enum>2.</enum><header>Streamlining certification for labor organizations</header> <subsection id="HFFE513CA52764329B29BA53E9D2D12EF"><enum>(a)</enum><header>In general</header><text>Section 9(c) of the National Labor Relations Act (<external-xref legal-doc="usc" parsable-cite="usc/29/159">29 U.S.C. 159(c)</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block id="H8E67048CE8A64C31B7DDDDA9E63D1058">
+ <paragraph id="H7CAB1D6EB77148F9B76198A745E6B97B" indent="up1"><enum>(6)</enum><text>Notwithstanding any other provision of this section, whenever a petition shall have been filed by an employee or group of employees or any individual or labor organization acting in their behalf alleging that a majority of employees in a unit appropriate for the purposes of collective bargaining wish to be represented by an individual or labor organization for such purposes, the Board shall investigate the petition. If the Board finds that a majority of the employees in a unit appropriate for bargaining has signed valid authorizations designating the individual or labor organization specified in the petition as their bargaining representative and that no other individual or labor organization is currently certified or recognized as the exclusive representative of any of the employees in the unit, the Board shall not direct an election but shall certify the individual or labor organization as the representative described in subsection (a).</text>
+ </paragraph><paragraph id="HE5A40F04E31C48F282F53EF7077DE348" indent="up1"><enum>(7)</enum><text>The Board shall develop guidelines and procedures for the designation by employees of a bargaining representative in the manner described in paragraph (6). Such guidelines and procedures shall include—</text>
+ <subparagraph id="H8ADB4257CEE949389B00FCDBEB95C0B1"><enum>(A)</enum><text>model collective bargaining authorization language that may be used for purposes of making the designations described in paragraph (6); and</text>
+ </subparagraph><subparagraph id="HA7496CD538B34972AF18DF8502B675DC"><enum>(B)</enum><text>procedures to be used by the Board to establish the validity of signed authorizations designating bargaining representatives.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HC8622B74A26F4CB598F394714181B4A2"><enum>(b)</enum><header>Conforming amendments</header>
+ <paragraph id="H8FEAFFA47CB0448A8EC3EC0A172B256A"><enum>(1)</enum><header>National Labor Relations Board</header><text>Section 3(b) of the National Labor Relations Act (<external-xref legal-doc="usc" parsable-cite="usc/29/153">29 U.S.C. 153(b)</external-xref>) is amended, in the second sentence—</text>
+ <subparagraph id="HFE0C2541FFB54299ABC6F271D064060C"><enum>(A)</enum><text>by striking <quote>and to</quote> and inserting <quote>to</quote>; and</text> </subparagraph><subparagraph id="H8C1640644A67445AACA37E6AD6DDBF71"><enum>(B)</enum><text>by striking <quote>and certify the results thereof,</quote> and inserting <quote>, and to issue certifications as provided for in that section,</quote>.</text>
+ </subparagraph></paragraph><paragraph id="H62F96D766BA5488DA12D83D4DD267474"><enum>(2)</enum><header>Unfair labor practices</header><text>Section 8(b) of the National Labor Relations Act (<external-xref legal-doc="usc" parsable-cite="usc/29/158">29 U.S.C. 158(b)</external-xref>) is amended—</text> <subparagraph id="H1FB39C0432844EFBA9FB195DA5706F45"><enum>(A)</enum><text>in paragraph (7)(B) by striking <quote>, or</quote> and inserting <quote>or a petition has been filed under section 9(c)(6), or</quote>; and</text>
+ </subparagraph><subparagraph id="H31B58EB92B414485AF614F2740A6792B"><enum>(B)</enum><text>in paragraph (7)(C) by striking <quote>when such a petition has been filed</quote> and inserting <quote>when such a petition other than a petition under section 9(c)(6) has been filed</quote>.</text> </subparagraph></paragraph></subsection></section><section id="H62DD4D39405545C4B723607B686A01B5"><enum>3.</enum><header>Facilitating initial collective bargaining agreements</header><text display-inline="no-display-inline">Section 8 of the National Labor Relations Act (<external-xref legal-doc="usc" parsable-cite="usc/29/158">29 U.S.C. 158</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block id="H15300193F2804EB49E06D44B30997F40">
+ <subsection id="H169F40F133704881943DAF139BCD7D77"><enum>(h)</enum><text>Whenever collective bargaining is for the purpose of establishing an initial agreement following certification or recognition, the provisions of subsection (d) shall be modified as follows:</text>
+ <paragraph id="HF2CB425B1CD0498CAD306DF125B5D194"><enum>(1)</enum><text>Not later than 10 days after receiving a written request for collective bargaining from an individual or labor organization that has been newly organized or certified as a representative as defined in section 9(a), or within such further period as the parties agree upon, the parties shall meet and commence to bargain collectively and shall make every reasonable effort to conclude and sign a collective bargaining agreement.</text>
+ </paragraph><paragraph id="HCB99C167C3BF426F8952F0118E3C4D44"><enum>(2)</enum><text>If after the expiration of the 90-day period beginning on the date on which bargaining is commenced, or such additional period as the parties may agree upon, the parties have failed to reach an agreement, either party may notify the Federal Mediation and Conciliation Service of the existence of a dispute and request mediation. Whenever such a request is received, it shall be the duty of the Service promptly to put itself in communication with the parties and to use its best efforts, by mediation and conciliation, to bring them to agreement.</text>
+ </paragraph><paragraph id="HDDB2839AB839420CB9B486B66282D31E"><enum>(3)</enum><text>If after the expiration of the 30-day period beginning on the date on which the request for mediation is made under paragraph (2), or such additional period as the parties may agree upon, the Service is not able to bring the parties to agreement by conciliation, the Service shall refer the dispute to an arbitration board established in accordance with such regulations as may be prescribed by the Service. The arbitration panel shall render a decision settling the dispute and such decision shall be binding upon the parties for a period of 2 years, unless amended during such period by written consent of the parties.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

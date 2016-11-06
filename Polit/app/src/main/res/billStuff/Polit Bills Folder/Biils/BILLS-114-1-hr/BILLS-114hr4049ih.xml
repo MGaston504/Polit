@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H52AED6C55CA2472FBFAA53CB39D7D014" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4049 IH: Volcker Rule Relief Act of 2105</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4049</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151117">November 17, 2015</action-date>
+			<action-desc><sponsor name-id="L000584">Mrs. Love</sponsor> (for herself, <cosponsor name-id="N000182">Mr. Neugebauer</cosponsor>, and <cosponsor name-id="H001058">Mr. Huizenga of Michigan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Bank Holding Company Act of 1956 to exempt certain non-financial companies and smaller
+			 banking entities from the application of the Volcker Rule.</official-title>
+	</form>
+	<legis-body id="HDB5929A0028546A7988BAEE9BF2B17A2" style="OLC">
+ <section id="id7009FA302D9A4F8E8DA83904AF517C9F" section-type="section-one"><enum>1.</enum><header>Short Title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Volcker Rule Relief Act of 2105</short-title></quote>.</text></section><section id="HF3B9C53623C1423BA2C4A073FFAF1021" section-type="subsequent-section"><enum>2.</enum><header>Treatment of certain non-financial companies</header><text display-inline="no-display-inline">Section 13(h)(1) of the Bank Holding Company Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/12/1851">12 U.S.C. 1851(h)(1)</external-xref>) is amended—</text> <paragraph id="HCC19DC7C4EC04966A28D10E6762D19C5"><enum>(1)</enum><text>in subparagraph (D), by redesignating clauses (i) and (ii) as subclauses (I) and (II), respectively, and moving such subclauses 2 ems to the right;</text>
+ </paragraph><paragraph id="H5072AA1FF73343BAB30C668EE23DCF24"><enum>(2)</enum><text display-inline="yes-display-inline">by redesignating subparagraphs (A), (B), (C), and (D) as clauses (i), (ii), (iii), and (iv), respectively, and moving such clauses 2 ems to the right;</text>
+ </paragraph><paragraph id="H5DF20D833C5C40D9BADF53D0A2EC4FD2"><enum>(3)</enum><text>by striking <quote>The term</quote> and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="H138C2DF2B0EF4624AE696A2B9AF759CC" style="OLC"> <subparagraph id="H9051888420CA41BF9FE6A84931D11F0C"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">The term</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="HE6BE74606661400F95E47BEB84FD0941"><enum>(4)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H63BACF42943C4EB08A004866FE06735F" style="OLC"> <subparagraph id="H5B52F2C7D2244576AA06B1051474FD20"><enum>(B)</enum><header>Certain non-financial companies</header><text display-inline="yes-display-inline">Notwithstanding subparagraph (A), the term <quote>banking entity</quote> does not include any entity that—</text>
+						<clause id="H958EB60C75B14649AC11698FDBDE5583"><enum>(i)</enum>
+ <subclause commented="no" display-inline="yes-display-inline" id="H5F89B1119D0C45A88C582C341C03CB77"><enum>(I)</enum><text>is not predominantly engaged in financial activities, as defined under section 102 of the Financial Stability Act of 2010 (<external-xref legal-doc="usc" parsable-cite="usc/12/5311">12 U.S.C. 5311</external-xref>);</text>
+ </subclause><subclause id="HEA97B6F084984E9DB9161197BCA0A45E" indent="up1"><enum>(II)</enum><text>is not a bank holding company or a nonbank financial company supervised by the Board; and</text> </subclause><subclause id="H9055A6C54ED24894906BDA3DD0A316CA" indent="up1"><enum>(III)</enum><text>is not a direct or indirect subsidiary of a bank holding company or a nonbank financial company supervised by the Board; or</text>
+ </subclause></clause><clause id="H4C275088CD8A465AA56C6AB2430EB5D8"><enum>(ii)</enum><text>would be a banking entity solely due to its control of an entity described under clause (i).</text> </clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></section><section id="H735441FE3EC84142A003EC1BB896CA1E"><enum>3.</enum><header>Exemption for smaller banking entities</header><text display-inline="no-display-inline">Section 13 of the Bank Holding Company Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/12/1851">12 U.S.C. 1851</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H64811B7AE040475AB8E760114BB3C66D" style="OLC">
+ <subsection id="H68307A0CDEBC468C8CB706421820B634"><enum>(i)</enum><header>Exemption for smaller banking entities</header><text display-inline="yes-display-inline">This section shall not apply to a banking entity with total consolidated assets of $10,000,000,000 or less.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

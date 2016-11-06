@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6102D527FB01485785CD87C2787AE413" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4262 IH: Transparency and Accountability of Failed Exchanges Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4262</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151216">December 16, 2015</action-date>
+			<action-desc><sponsor name-id="A000372">Mr. Allen</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title I of the Patient Protection and Affordable Care Act to require that a State awarded
+			 a Federal grant to establish an Exchange and that terminates the State
+			 operation of such an Exchange provide for an audit of the use of grant
+			 funds and return funds to the Federal Government, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H9051B2F175B84791A99BDAA7B4612724" style="OLC">
+ <section id="id78D226D9E78542998F5397C2FB385B11" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Transparency and Accountability of Failed Exchanges Act</short-title></quote>.</text> </section><section id="H48D3586D32D24182A546E64EDDA6E201" section-type="subsequent-section"><enum>2.</enum><header>States awarded Exchange establishment grants that terminate State operation of such an Exchange required to provide audits of the use of grant funds and return funds to the Federal Government</header> <subsection id="H6A66CB669EFB4BCD951A7E87972EBAC5"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1311(a) of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18031">42 U.S.C. 18031(a)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="HDF21F728B735463885F00EAE0257ED9F" style="OLC">
+					<paragraph id="H57B19033849E43D8B2885560B563F699"><enum>(6)</enum><header>Treatment in case of Exchange termination</header>
+ <subparagraph id="H99B658459D76473B9E2615C66BEEA27A"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">In the case of a State that is awarded a grant under this section to establish an Exchange and that terminates the operation of such Exchange or otherwise transfers the operation of such Exchange to an entity other than such State—</text>
+ <clause id="HA2FB2E49B40F4B1B83EF2E9AB274CD40"><enum>(i)</enum><text>not later than 30 days after the date of such termination or transfer, the State shall submit to Congress and the Secretary a report containing the results of an audit of how amounts awarded to such State pursuant to such grant were used; and</text>
+ </clause><clause id="HD6265A7D98F14ADCB0F981BD25396754"><enum>(ii)</enum><text display-inline="yes-display-inline">not later than 30 days after the date of such termination or transfer—</text> <subclause id="HE93EEAC7594746C1B47C6E6852E96CEF"><enum>(I)</enum><text>in accordance with subparagraph (B), there are rescinded any unobligated amounts awarded to such State pursuant to such grant; and</text>
+ </subclause><subclause id="H3FC1F448ADA34E449CEF6F872DDEE979"><enum>(II)</enum><text>in accordance with subparagraph (C), the State shall provide to the Administrator of General Services any property acquired by such State with amounts awarded to such State pursuant to such grant and shall submit to Congress and the Secretary a record of the provision of such property to the Administrator.</text>
+ </subclause></clause></subparagraph><subparagraph id="H449C1059EE35486199A83199388743C6"><enum>(B)</enum><header>Retention of funds for deficit reduction</header><text>Funds rescinded under subparagraph (A)(ii)(I) shall be retained in the general fund of the Treasury for Federal budget deficit reduction.</text>
+ </subparagraph><subparagraph id="HA567907A15284FE690499E4C23944C9D"><enum>(C)</enum><header>Treatment of property</header><text display-inline="yes-display-inline">The Administrator of General Services may—</text> <clause commented="no" id="H362C8A3B06A74A4FAAE8988BE183EAF5"><enum>(i)</enum><text display-inline="yes-display-inline">dispose of any property obtained pursuant to subparagraph (A)(ii)(II) through a public auction for cash and for not less than the fair market value of the property, as determined by the Administrator;</text>
+ </clause><clause id="HE031EC13A36B4384B5D378EFC73CF431"><enum>(ii)</enum><text>provide to any Federal agency such property for official use by such agency; or</text> </clause><clause id="HC19497AF5073494B87D555DE21C19761"><enum>(iii)</enum><text>lease or hire such property, and may insure such property.</text>
+ </clause></subparagraph><subparagraph commented="no" id="HCB1BD60EBAAC4A3EA0861B0E03B05720"><enum>(D)</enum><header>Exemption from certain property disposal requirements</header><text display-inline="yes-display-inline">Any disposal of property conducted under subparagraph (C)(i) shall not be subject to—</text> <clause commented="no" id="HE5A12E77E80F441FA0D327C087C0663E"><enum>(i)</enum><text display-inline="yes-display-inline">subchapter IV of chapter 5 of subtitle I of title 40, United States Code;</text>
+ </clause><clause commented="no" id="HB138064C871143388448387E73C4704E"><enum>(ii)</enum><text display-inline="yes-display-inline">sections 550 and 553 of title 40, United States Code;</text> </clause><clause commented="no" id="HF508B471FC0642C68A92BF1937FE227F"><enum>(iii)</enum><text>section 501 of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11411">42 U.S.C. 11411</external-xref>);</text>
+ </clause><clause commented="no" id="H505E24ED011143F9877929C9F5E2CD26"><enum>(iv)</enum><text>any other provision of law authorizing the no-cost conveyance of property owned by the Federal Government; or</text>
+ </clause><clause commented="no" id="H3F17BC3B731B4D83ACA366FA1B44DB76"><enum>(v)</enum><text display-inline="yes-display-inline">any congressional notification requirement other than that in section 545 of title 40, United States Code.</text>
+ </clause></subparagraph><subparagraph id="HCE216FA5C0784745BE6DDC893EA86BEA"><enum>(E)</enum><header>Income from property</header><text display-inline="yes-display-inline">The Administrator shall deposit any income from the disposition, lease, or hire of the property obtained pursuant to subparagraph (A)(ii)(II) in the general fund of the Treasury for Federal budget deficit reduction.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HE9E28E3D1F89486C9660FBD7900B9A27"><enum>(b)</enum><header>Application of the False Claims Act</header><text display-inline="yes-display-inline">Section 1313(a)(6)(A) of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18033">42 U.S.C. 18033(a)(6)(A)</external-xref>) is amended by adding at the end the following: <quote>Further, except as otherwise provided for expressly under this Act, the False Claims Act preempts any State enforcement action of alleged fraud, waste, and abuse of funds issued pursuant to this Act. States that terminate or transfer their exchange will refer all current and future matters involving fraud, waste, and abuse of funds issued pursuant to this Act to the United States Department of Justice. Any current or future enforcement action shall be removed to or brought in Federal court. All fines, penalties, damages, or awards, monetary or otherwise, arising out of any current or future enforcement action, represent Federal funds that shall be returned to the United States.</quote>.</text>
+ </subsection><subsection commented="no" id="HC0B1F16FDC9141FC95B5B12AA22F196B"><enum>(c)</enum><header>Enforcement action</header><text display-inline="yes-display-inline">The Attorney General may bring an action before the appropriate district court of the United States to enforce section 1311(a)(6) of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18031">42 U.S.C. 18031(a)(6)</external-xref>).</text>
+ </subsection><subsection id="HFCB52014C3B647D48F147D646256E3E3"><enum>(d)</enum><header>Effective date</header><text>The provisions of this section, including the amendment made by this section, shall apply with respect to grants made before, on, or after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

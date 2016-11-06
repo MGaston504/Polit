@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1953 IS: Trash Reduction and Sensible Handling Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-08-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1953</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150805">August 5, 2015</action-date>
+			<action-desc><sponsor name-id="S309">Mr. Casey</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEV00">Committee on Environment and Public Works</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Solid Waste Disposal Act to authorize States to restrict interstate waste imports and
+			 impose a higher fee on out-of-State waste.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Trash Reduction and Sensible Handling Act of 2015</short-title></quote> or the <quote><short-title>TRASH Act</short-title></quote>.</text>
+		</section><section id="id8BC002317064426EA1AA15C598BA6950"><enum>2.</enum><header>Discretionary State plan provisions</header>
+ <subsection id="idDC4B64F70F114BD491EBB359DBB9DACD"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 4003(b) of the Solid Waste Disposal Act (42 U .S.C. 6943(b)) is amended—</text> <paragraph id="id583E1B647AE947CF9595F62D05D7E69A"><enum>(1)</enum><text display-inline="yes-display-inline">in the subsection heading, by striking <quote><header-in-text level="subsection" style="OLC">relating to recycled oil</header-in-text></quote>;</text>
+ </paragraph><paragraph id="id4B9F4E923CB549B6B67821AEA50D3D22"><enum>(2)</enum><text display-inline="yes-display-inline">by redesignating paragraphs (1) through (4) as clauses (i) through (iv), respectively, and indenting appropriately;</text>
+ </paragraph><paragraph id="id5843CD2317FD47398B7418CC7BACBEF5"><enum>(3)</enum><text>in the matter preceding clause (i) (as so redesignated), by striking <quote>Any State</quote> and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="idC6F182CBC43A495FB8E7C7B21E981807" style="OLC"> <paragraph id="idEF93F21AF26F43EDA23A95620FCD9D4C"><enum>(1)</enum><header>Recycled oil</header> <subparagraph id="id26204CEAEC3047F2B2C6061BCD1887A4"><enum>(A)</enum><header>In general</header><text>Any State</text></subparagraph></paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="id4F9DAE2CCCF74F87BC9A486280AF2197"><enum>(4)</enum><text>in the undesignated matter following clause (iv) (as so redesignated), by striking <quote>Any plan</quote> and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="idD9D36B5C0D024A04B54BECEF88FCC1F4" style="OLC"> <subparagraph id="idFFA9675996654C60B50F6D8853DC370A"><enum>(B)</enum><header>Amendments to plans</header><text>Any plan</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="id395A28D7E6F74436B83B776C7559A071"><enum>(5)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="idE18B2DB4D5B54FA7BE76E2E07A0FCBB4" style="OLC"> <paragraph id="id53D4CDF6DDE1473296C9BF261B913A20"><enum>(2)</enum><header>Interstate waste imports</header> <subparagraph id="idADA59A171B70423087306CAC18462EDB"><enum>(A)</enum><header>In general</header><text>Any State plan submitted under this subtitle may include, at the option of the State, provisions to carry out each of the following:</text>
+ <clause id="id2f1a4659f03942b4802dcbe2c3bb85c9"><enum>(i)</enum><text>Restrictions at the State and local level of interstate waste imports by requiring that waste imported from another State be only from States with equivalent or higher standards of waste handling and reduction.</text>
+ </clause><clause id="id2d11d7976df445caa2a73d31f76d590c"><enum>(ii)</enum><text>Subject to subparagraph (B), imposition of higher fees on interstate waste imports, regardless of the compliance of the exporting State with the waste handling and reduction standards of the importing State.</text>
+								</clause></subparagraph><subparagraph id="idC6B38B4FED524A468492718FA5B66B24"><enum>(B)</enum><header>Fees described</header>
+ <clause id="idF8C3834098704BADBFC490B2A01B1CB5"><enum>(i)</enum><header>In general</header><text>A fee imposed under subparagraph (A)(ii) shall be known as a <quote>community benefit fee</quote>.</text> </clause><clause id="id1ad4eae072174cca92f8c0a7723ab962"><enum>(ii)</enum><header>Disbursal of fees</header><text>A State may provide community benefit fees to affected communities.</text>
+ </clause><clause id="idA7A40B9D94D1417CB17E4732218030CD"><enum>(iii)</enum><header>Differentiation of fees</header><text>The State may differentiate community benefit fees based on whether the imported waste was disposed of at a landfill, an incinerator, a resource recovery facility, a waste-to-energy facility, or other waste handling facility.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="id6D7800EB4DAD4D7FB8AECB33405BCBC4"><enum>(b)</enum><header>Technical amendments</header><text>Section 4008 of the Solid Waste Disposal Act (42 U .S.C. 6948) is amended—</text> <paragraph id="id3A3CD9359A644FC38D008FEA7BFC6E1E"><enum>(1)</enum><text>in subsection (a)—</text>
+ <subparagraph id="id87873C9F7E214A099423099F47AFD1B4"><enum>(A)</enum><text>by striking <quote>section 4003(b)</quote> each place it appears and inserting <quote>section 4003(c)</quote>; and</text> </subparagraph><subparagraph id="id2984CB5B8DD840E396346F3AC5AF23B5"><enum>(B)</enum><text>in paragraph (3)(C), by striking <quote>section 4003(b)(1)(A)</quote> and inserting <quote>section 4003(c)(1)(A)</quote>;</text>
+ </subparagraph></paragraph><paragraph id="idEB9FD0EA98364DC0B5B7DF3A2D9E86ED"><enum>(2)</enum><text>in subsection (f)(1), by striking <quote>section 4003(b)</quote> and inserting <quote>section 4003(b)(1)</quote>; and</text> </paragraph><paragraph id="id9BF0D0CBD5924F8E977C118D279AFB5C"><enum>(3)</enum><text>in subsection (g), by striking <quote>section 4003(b)(1)</quote> and inserting <quote>section 4003(c)(1)</quote>.</text></paragraph></subsection></section></legis-body>
+</bill>
+
+

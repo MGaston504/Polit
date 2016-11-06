@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2298 IS: Mens Rea Reform Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-11-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2298</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151118">November 18, 2015</action-date>
+			<action-desc><sponsor name-id="S118">Mr. Hatch</sponsor> (for himself, <cosponsor name-id="S346">Mr. Lee</cosponsor>, <cosponsor name-id="S355">Mr. Cruz</cosponsor>, <cosponsor name-id="S379">Mr. Perdue</cosponsor>, and <cosponsor name-id="S348">Mr. Paul</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To specify the state of mind required for conviction for criminal offenses that lack an expressly
+			 identified state of mind, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Mens Rea Reform Act of 2015</short-title></quote>.</text>
+		</section><section id="id13cd9ef234aa478f86cb663c54c73642"><enum>2.</enum><header>State of mind element for criminal offenses</header>
+ <subsection id="idbf99bba0fdd044efa55ecf3c5b02e225"><enum>(a)</enum><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/1">Chapter 1</external-xref> of title 18, United States Code, is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="idf8996e4094f5488e9881b89b8ae62537" style="USC"> <section id="id7b8da2bdc126400bacf559c5a1ae5454"><enum>28.</enum><header>State of mind when not otherwise specifically provided</header> <subsection id="id74fd718681e044969d09e6a113ef0669"><enum>(a)</enum><header>Definitions</header><text>In this section—</text>
+ <paragraph id="id5BD661A1E251420DB74C7E7DF255438D"><enum>(1)</enum><text>the term <term>covered offense</term>—</text> <subparagraph id="id44EE3F3AAC0C4013BE325C7D0F99F01E"><enum>(A)</enum><text>means an offense—</text>
+ <clause id="idB5E51DA449CD4762BCBB5F0316FF1AE3"><enum>(i)</enum><text>specified in—</text> <subclause id="id403E925FD33A46D7AC42D48CE457F75B"><enum>(I)</enum><text>this title or any other Act of Congress;</text>
+ </subclause><subclause id="id0F4BBF58258249EFAD65EA437D8B3B21"><enum>(II)</enum><text>any regulation; or</text> </subclause><subclause id="id2d1c3a614cf94a5ebffe62f0a0e393a2"><enum>(III)</enum><text>any law (including regulations) of any State or foreign government incorporated by reference into this title or any other Act of Congress; and</text>
+ </subclause></clause><clause id="id461CD0745B094C829C38175DB51B4DAF"><enum>(ii)</enum><text>that is punishable by imprisonment, a maximum criminal fine of at least $2,500, or both; and</text> </clause></subparagraph><subparagraph id="id139C9BE9EFE742CEA2A57D0BEBC98B21"><enum>(B)</enum><text>does not include—</text>
+ <clause id="idc74408eb7e2e4be9adb5318a0967144c"><enum>(i)</enum><text>any offense set forth in chapter 47 or <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/10/47A">chapter 47A</external-xref> of title 10;</text> </clause><clause id="idb4498939bf39426398b1be9351033278"><enum>(ii)</enum><text>any offense incorporated by section 13(a) of this title; or</text>
+ </clause><clause id="idd17182972e47473ca45398c2f3e29c8c"><enum>(iii)</enum><text>any offense that involves conduct which a reasonable person would know inherently poses an imminent and substantial danger to life or limb;</text>
+ </clause></subparagraph></paragraph><paragraph id="idf0bb7582bfd6475295c93b514cce981a"><enum>(2)</enum><text>the term <term>knowingly</term>, as related to an element of an offense, means—</text> <subparagraph id="id89d0ad5b318549469b253f659b1299e9"><enum>(A)</enum><text>if the element involves the nature of the conduct of a person or the attendant circumstances, that the person is aware that the conduct of the person is of that nature or that such circumstances exist; and</text>
+ </subparagraph><subparagraph id="id70c81b35cac246bb901008dd19542054"><enum>(B)</enum><text>if the element involves a result of the conduct of a person, that the person is aware that it is practically certain that the conduct of the person will cause such a result;</text>
+ </subparagraph></paragraph><paragraph id="idb793ca094a2f4d04b10229ea1b3b7080"><enum>(3)</enum><text>the term <term>state of mind</term> means willfully, intentionally, maliciously, knowingly, recklessly, wantonly, negligently, or with reason to believe, or any other word or phrase that is synonymous with or substantially similar to any such term; and</text>
+ </paragraph><paragraph id="id9bda3b8ec29c4b81aa4db4fc1b89060c"><enum>(4)</enum><text>the term <term>willfully</term>, as related to an element of an offense, means that the person acted with knowledge that the person’s conduct was unlawful.</text>
+ </paragraph></subsection><subsection id="id8cff5d02f0444e0ea064152c19e9c505"><enum>(b)</enum><header>Default requirement</header><text>Except as provided in subsections (c) and (d), a covered offense shall be construed to require the Government to prove beyond a reasonable doubt that the defendant acted—</text>
+ <paragraph id="ida04973710a0a4541848575592d0f79d1"><enum>(1)</enum><text>with the state of mind specified in the text of the covered offense for each element for which the text specifies a state of mind; and</text>
+ </paragraph><paragraph id="id1d58f95b025f43a8833b1f718774c708"><enum>(2)</enum><text>willfully, with respect to any element for which the text of the covered offense does not specify a state of mind.</text>
+ </paragraph></subsection><subsection id="id29f1c70bb58142399d7da18b0c9dbc11"><enum>(c)</enum><header>Failure To distinguish among elements</header><text>Except as provided in subsection (d), if the text of a covered offense specifies the state of mind required for commission of the covered offense without specifying the elements of the covered offense to which the state of mind applies, the state of mind specified shall apply to all elements of the covered offense, unless a contrary purpose plainly appears.</text>
+						</subsection><subsection id="idd500c32b1341457086acf3ed7b509e87"><enum>(d)</enum><header>Exceptions</header>
+ <paragraph id="id33259ABB076E4B72824A1D97E9DEA2CC"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Subsections (b)(2) and (c) shall not apply with respect to—</text> <subparagraph id="id264fd10eed9843ea8901b14fb1c010bd"><enum>(A)</enum><text>any element for which the text of the covered offense makes clear that Congress affirmatively intended not to require the Government to prove any state of mind with respect to such element;</text>
+ </subparagraph><subparagraph id="id709d005826bb4ca6b49a0ffd4a1e355d"><enum>(B)</enum><text>any element of a covered offense, to the extent that the element establishes—</text> <clause id="idd423239a0e0f43108b16a294e38db034"><enum>(i)</enum><text>subject matter jurisdiction over the covered offense; or</text>
+ </clause><clause id="ida89f3e2376ab41709ccb72ce6fb8d4a2"><enum>(ii)</enum><text>venue with respect to trial of the covered offense; or</text> </clause></subparagraph><subparagraph id="id2766f2a0552c471cafe6190c6dc28047"><enum>(C)</enum><text>any element of a covered offense, to the extent that applying subsections (b)(2) and (c) to such element would lessen the degree of mental culpability that the Government is required to prove with respect to that element under—</text>
+ <clause id="id549b51d84e35422b92e6bc9135629ca0"><enum>(i)</enum><text>precedent of the Supreme Court of the United States; or</text> </clause><clause id="id75657b26d5774486889402137e057ce1"><enum>(ii)</enum><text>any other provision of this title, any other Act of Congress, or any regulation.</text>
+ </clause></subparagraph></paragraph><paragraph id="id7436172E0F254FBCA82987681AD0AF99"><enum>(2)</enum><header>Mere absence insufficient</header><text>For purposes of paragraph (1)(A), the mere absence of a specified state of mind for an element of a covered offense in the text of the covered offense shall not be construed to mean that Congress affirmatively intended not to require the Government to prove any state of mind with respect to that element.</text>
+ </paragraph></subsection><subsection id="id4a80c6f31cfc455b8d34491b12346cc0"><enum>(e)</enum><header>Applicability</header><text>This section shall apply with respect to a covered offense—</text> <paragraph id="idfc4eba8271e7491997b06834e6dda148"><enum>(1)</enum><text>without regard to whether the provision or provisions specifying the covered offense are enacted, promulgated, or finalized before, on, or after the date of enactment of this section; and</text>
+ </paragraph><paragraph id="id682a4e5c6d934a97b3d93b27b9e4af78"><enum>(2)</enum><text>that occurred—</text> <subparagraph id="id373ada40e8d64bac9ed0e1bc9414a9b5"><enum>(A)</enum><text>on or after the date of enactment of this section; or</text>
+ </subparagraph><subparagraph id="id0084aca5338e4be28c68494a3bb0585e"><enum>(B)</enum><text>before the date of enactment of this section, unless—</text> <clause id="id74f0ae1a924b4dedb3574226546ab220"><enum>(i)</enum><text>applying this section to such covered offense would—</text>
+ <subclause id="id3598e926e4f94e5ab2bd82b9173a967e"><enum>(I)</enum><text>punish as a crime conduct that was innocent when done;</text> </subclause><subclause id="id77407fc8bce240c48da96cc2e65a541f"><enum>(II)</enum><text>increase the punishment for the covered offense; or</text>
+ </subclause><subclause id="idbd31971575aa459eb018d8ca968e23d2"><enum>(III)</enum><text>deprive a person charged with the covered offense of any defense available according to law at the time the covered offense occurred;</text>
+ </subclause></clause><clause id="idddfa6ae3662a4b5ca97d3a4b128b0722"><enum>(ii)</enum><text>a jury has been empaneled and sworn in a prosecution for the covered offense before the date of enactment of this section;</text>
+ </clause><clause id="idbe428216a537446db10af2c41cfe7a7c"><enum>(iii)</enum><text>the first witness has been sworn in a prosecution for the covered offense tried without a jury before the date of enactment of this section; or</text>
+ </clause><clause id="idfb6c1849505e41138c62c4850ef59a29"><enum>(iv)</enum><text>a sentence has been imposed following a plea of guilty or nolo contendere in a prosecution for the covered offense before the date of enactment of this section.</text>
+ </clause></subparagraph></paragraph></subsection><subsection id="id48f8e66e67b54190b7941c7a5aae0ec4"><enum>(f)</enum><header>Subsequently enacted laws</header><text>No law enacted after the date of enactment of this section shall be construed to repeal, modify the text or effect of, or supersede in whole or in part this section, unless such law specifically refers to this section and explicitly repeals, modifies the text or effect of, or supersedes in whole or in part this section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id2320c62fcd7c40018be97f4d49f4ed2c"><enum>(b)</enum><header>Technical and conforming amendment</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/1">chapter 1</external-xref> of title 18, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block id="idaf40d002-5261-4948-af26-aa9c748bde3f" style="USC"><toc><toc-entry idref="id7b8da2bdc126400bacf559c5a1ae5454" level="section">28. State of mind when not otherwise specifically provided.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

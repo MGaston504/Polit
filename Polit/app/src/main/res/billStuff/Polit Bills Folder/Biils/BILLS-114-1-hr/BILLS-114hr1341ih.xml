@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA0065ED92A8D45DF8885271239A4C5E5" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1341 IH: Fair Access to Health Care Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1341</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150306">March 6, 2015</action-date> 
+<action-desc><sponsor name-id="T000460">Mr. Thompson of California</sponsor> (for himself, <cosponsor name-id="E000215">Ms. Eshoo</cosponsor>, <cosponsor name-id="M001163">Ms. Matsui</cosponsor>, <cosponsor name-id="S001175">Ms. Speier</cosponsor>, <cosponsor name-id="S001150">Mr. Schiff</cosponsor>, <cosponsor name-id="F000030">Mr. Farr</cosponsor>, <cosponsor name-id="L000480">Mrs. Lowey</cosponsor>, <cosponsor name-id="H001034">Mr. Honda</cosponsor>, <cosponsor name-id="N000002">Mr. Nadler</cosponsor>, <cosponsor name-id="L000557">Mr. Larson of Connecticut</cosponsor>, <cosponsor name-id="L000579">Mr. Lowenthal</cosponsor>, <cosponsor name-id="I000057">Mr. Israel</cosponsor>, <cosponsor name-id="L000397">Ms. Lofgren</cosponsor>, <cosponsor name-id="H001068">Mr. Huffman</cosponsor>, <cosponsor name-id="C001036">Mrs. Capps</cosponsor>, <cosponsor name-id="G000559">Mr. Garamendi</cosponsor>, and <cosponsor name-id="L000582">Mr. Ted Lieu of California</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Internal Revenue Code of 1986 to adjust the phaseout of the health insurance tax credit for geographic variations in the cost-of-living.</official-title> 
+</form> 
+<legis-body id="H066606122C7A488A8B8592780A545DA8" style="OLC"> 
+<section id="H968FDFBE0CA3454BB6DB6C448ADEFFB2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fair Access to Health Care Act of 2015</short-title></quote>.</text></section> <section id="H7CDF1FA58240468AB64589553A96217C"><enum>2.</enum><header>Phaseout of health insurance tax credit adjusted to take into account geographic variation in the cost-of-living</header> <subsection id="H2B75AE396D5B47D4BC2E89EAACA66D2D"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/36B">Section 36B(b)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text> 
+<quoted-block display-inline="no-display-inline" id="HB9E1E641F94B4179A2700396AC7E3063" style="OLC"> 
+<paragraph id="H6627E449035743E78BAFC906A34622A9"><enum>(4)</enum><header>Geographic adjustment for cost-of-living</header> 
+<subparagraph id="H8DD10FE173E743889A73FDD3FC7CBC07"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">In the case of a taxpayer whose principal place of residence for any taxable year is located in a high cost area, there shall be substituted <quote>the specified percentage</quote> for <quote>400 percent</quote> in paragraph (3)(A)(i) and in subsections (c)(1)(A) and (f)(2)(B).</text></subparagraph> <subparagraph id="HB54485F35BF1434C8AED964B7D3A2D08"><enum>(B)</enum><header>High cost area</header><text>For purposes of this paragraph, the term <term>high cost area</term> means any metropolitan statistical area or non-metropolitan area the SPM for which exceeds the national average SPM.</text></subparagraph> 
+<subparagraph id="H40EADF2D0608436791C06B9D74DD450F" commented="no"><enum>(C)</enum><header>Specified percentage</header><text display-inline="yes-display-inline">For purposes of this paragraph, the term <term>specified percentage</term> means, with respect to a taxpayer whose principal place of residence for any taxable year is located in a high cost area, the product of 400 percent and the SPM adjustment for such area.</text> </subparagraph> <subparagraph id="HD4617F59B57D4C8BA13360D875C826BD"><enum>(D)</enum><header>SPM</header><text display-inline="yes-display-inline">For purposes of this paragraph—</text> 
+<clause id="H4630AE871B494B6A8A435059AF92FFE0"><enum>(i)</enum><header>In general</header><text>The term <term>SPM</term> means, with respect to each calendar year, the Supplemental Poverty Measure as determined by the Bureau of the Census.</text></clause> <clause id="HC55FBAEF46DB456EB820D9169FD6A6F6"><enum>(ii)</enum><header>National average SPM</header><text display-inline="yes-display-inline">The national average SPM shall be determined without regard to Alaska and Hawaii.</text></clause> 
+<clause id="HBD455E445A9E42EABC855326FAF587FD"><enum>(iii)</enum><header>Determination for taxable year based on preceding calendar year</header><text>SPM with respect to any taxable year shall be determined on the basis of the calendar year preceding the calendar year in which the taxable year begins.</text></clause></subparagraph> <subparagraph id="H902C0438B27C42709F4E8CD77E64D8F4"><enum>(E)</enum><header>SPM adjustment</header><text display-inline="yes-display-inline">For purposes of this paragraph, the term <term>SPM adjustment</term> means, with respect to a high cost area for a calendar year, the SPM adjustment as determined by the Bureau of the Census.</text></subparagraph> 
+<subparagraph id="H5E8A5A05420D42D1B0C284EC2C0CF63C"><enum>(F)</enum><header>Alternative measure of cost-of-living</header><text>If the Secretary determines that another measure of cost-of-living is more appropriate than the SPM for purposes of this paragraph, the Secretary shall use such measure in lieu of the SPM.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HA0FA758ECAED4FAFBE4BD5867D3A6275"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to taxable years beginning after December 31, 2014.</text></subsection></section> 
+</legis-body> 
+</bill> 
+

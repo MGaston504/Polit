@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H899B4E9BA71848C68C044B2CD6873A77" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2702 IH: Safety Through Informed Consumers Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2702</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150609">June 9, 2015</action-date>
+			<action-desc><sponsor name-id="R000592">Mr. Rokita</sponsor> (for himself and <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 49, United States Code, with respect to passenger motor vehicle crash avoidance
+			 information, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HBF12A57BD9B24A489EC831528F41FFB4" style="OLC">
+ <section id="H398D128BBEB848B4A46C2D719CCE35E7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Safety Through Informed Consumers Act of 2015</short-title></quote>.</text> </section><section id="H3FF8450949234393A0A25BB57D4A71FE"><enum>2.</enum><header>Passenger motor vehicle information</header><text display-inline="no-display-inline">Section 32302 of title 49, United States Code, is amended by inserting after subsection (b) the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HACBA3F7E21F642C395D04C4A069925BB" style="USC">
+ <subsection id="H3BE179B3FC894AC7ACC816F75AAB64AC"><enum>(c)</enum><header>Crash avoidance</header><text display-inline="yes-display-inline">Not later than 1 year after the date of the enactment of the Safety Through Informed Consumers Act of 2015, the Secretary shall ensure that crash avoidance information is provided next to, and in the same format as, crashworthiness information at each place that crashworthiness information is made available to the public under this section.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

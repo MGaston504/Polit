@@ -1,0 +1,614 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H98519E800EF348D2ACA6E51CD040F703" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 185 IH: Regulatory Accountability Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 185</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150107">January 7, 2015</action-date>
+			<action-desc><sponsor name-id="G000289">Mr. Goodlatte</sponsor> (for himself, <cosponsor name-id="P000258">Mr. Peterson</cosponsor>, <cosponsor name-id="S000583">Mr. Smith of Texas</cosponsor>, <cosponsor name-id="M001179">Mr. Marino</cosponsor>, <cosponsor name-id="S000250">Mr. Sessions</cosponsor>, and <cosponsor name-id="F000448">Mr. Franks of Arizona</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To reform the process by which Federal agencies analyze and formulate new regulations and guidance
+			 documents.</official-title>
+	</form>
+	<legis-body id="HCAC1B8B4BA2146C9BBE5ADDDC9E191FF" style="OLC">
+		<section id="HE117340B3FEF449E8B9DBD7D2E28265F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Regulatory Accountability Act of 2015</short-title></quote>.</text>
+		</section><section id="HC83353EB368A412CBA4E2013FAFFC2F9"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/5/551">Section 551</external-xref> of title 5, United States Code, is amended—</text>
+			<paragraph id="HC68595EB28E846489C4AC9453AF54D5C"><enum>(1)</enum><text>in paragraph (13), by striking <quote>and</quote> at the end;</text>
+			</paragraph><paragraph id="H89EFA8F24C37424E80DF0820E0642594"><enum>(2)</enum><text>in paragraph (14), by striking the period at the end and inserting a semicolon; and</text>
+			</paragraph><paragraph id="H8F86EEDAEBC64741B848180F2DB373DB"><enum>(3)</enum><text>by adding at the end the following:</text>
+				<quoted-block id="H58A92280E432488DB530E2B141647568" style="OLC">
+					<paragraph id="H3308FFDBEEBF4797A4DAB450AC997F88"><enum>(15)</enum><text><term>major rule</term> means any rule that the Administrator of the Office of Information and Regulatory Affairs
+			 determines is likely to impose—</text>
+						<subparagraph id="HDF93E322FCED4064A275197D5CC70BB8"><enum>(A)</enum><text>an annual cost on the economy of $100,000,000 or more, adjusted annually for inflation;</text>
+						</subparagraph><subparagraph id="H734E623AB8884B1D82C5640421470FD1"><enum>(B)</enum><text>a major increase in costs or prices for consumers, individual industries, Federal, State, local, or
+			 tribal government agencies, or geographic regions;</text>
+						</subparagraph><subparagraph id="H898C503F43214F68B4B59DB003ECA462"><enum>(C)</enum><text>significant adverse effects on competition, employment, investment, productivity, innovation, or on
+			 the ability of United States-based enterprises to compete with
+			 foreign-based enterprises in domestic and export markets; or</text>
+						</subparagraph><subparagraph id="HBEB60D27E9C7422EAC2E4225BA21F27F"><enum>(D)</enum><text>significant impacts on multiple sectors of the economy;</text>
+						</subparagraph></paragraph><paragraph id="H93A1DDD623904DAC9F73DEACEF2924DE"><enum>(16)</enum><text><term>high-impact rule</term> means any rule that the Administrator of the Office of Information and Regulatory Affairs
+			 determines is likely to impose an annual cost on the economy of
+			 $1,000,000,000 or more, adjusted annually for inflation;</text>
+					</paragraph><paragraph id="H76DEC5FE176A4DE9826ED4DEB260AB54"><enum>(17)</enum><text display-inline="yes-display-inline"><quote>negative-impact on jobs and wages rule</quote> means any rule that the agency that made the rule or the Administrator of the Office of
+			 Information and Regulatory Affairs determines is likely to—</text>
+						<subparagraph id="H8860965352DF4944B8CBFE1DEDBBEE16"><enum>(A)</enum><text display-inline="yes-display-inline">in one or more sectors of the economy that has a 6-digit code under the North American Industry
+			 Classification System, reduce employment not related to new regulatory
+			 compliance by 1 percent or more annually during the 1-year, 5-year, or
+			 10-year period after implementation;</text>
+						</subparagraph><subparagraph id="H005AA61DAA2B4883B43AEE5FDE8C0073"><enum>(B)</enum><text display-inline="yes-display-inline">in one or more sectors of the economy that has a 6-digit code under the North American Industry
+			 Classification System, reduce average weekly wages for employment not
+			 related to new regulatory compliance by 1 percent or more annually during
+			 the 1-year, 5-year, or 10-year period after implementation;</text>
+						</subparagraph><subparagraph id="H39E85AE948634525BCC13D63D9434783"><enum>(C)</enum><text display-inline="yes-display-inline">in any industry area (as such term is defined in the Current Population Survey conducted by the
+			 Bureau of Labor Statistics) in which the most recent annual unemployment
+			 rate for the industry area is greater than 5 percent, as determined by the
+			 Bureau of Labor Statistics in the Current Population Survey, reduce
+			 employment not related to new regulatory compliance during the first year
+			 after implementation; or</text>
+						</subparagraph><subparagraph id="H33373D23FA1E433AA804CADB6CD1FA31"><enum>(D)</enum><text display-inline="yes-display-inline">in any industry area in which the Bureau of Labor Statistics projects in the Occupational
+			 Employment Statistics program that the employment level will decrease by 1
+			 percent or more, further reduce employment not related to new regulatory
+			 compliance during the first year after implementation;</text>
+						</subparagraph></paragraph><paragraph id="H3006795E7C7B42DE8424ADBC188CFDF9"><enum>(18)</enum><text><term>guidance</term> means an agency statement of general applicability and future effect, other than a regulatory
+			 action, that sets forth a policy on a statutory, regulatory or technical
+			 issue or an interpretation of a statutory or regulatory issue;</text>
+					</paragraph><paragraph id="HD62F05C6F3E144D3B91EF2438FBCDDE5"><enum>(19)</enum><text><term>major guidance</term> means guidance that the Administrator of the Office of Information and Regulatory Affairs finds is
+			 likely to lead to—</text>
+						<subparagraph id="H37AAB53194FB4213AD6DC7C9B33C3C0F"><enum>(A)</enum><text>an annual cost on the economy of $100,000,000 or more, adjusted annually for inflation;</text>
+						</subparagraph><subparagraph id="HBBB6356EA8FB4A38951F11B953772E51"><enum>(B)</enum><text>a major increase in costs or prices for consumers, individual industries, Federal, State, local or
+			 tribal government agencies, or geographic regions;</text>
+						</subparagraph><subparagraph id="HE9B69C60A7064C98B506E8F57EB44C7D"><enum>(C)</enum><text>significant adverse effects on competition, employment, investment, productivity, innovation, or on
+			 the ability of United States-based enterprises to compete with
+			 foreign-based enterprises in domestic and export markets; or</text>
+						</subparagraph><subparagraph id="HB99CE76728224CEBA899E939E88E4676"><enum>(D)</enum><text>significant impacts on multiple sectors of the economy;</text>
+						</subparagraph></paragraph><paragraph id="H147D49DF701842729E05051FCED1F7A9"><enum>(20)</enum><text>the <term>Information Quality Act</term> means section 515 of <external-xref legal-doc="public-law" parsable-cite="pl/106/554">Public Law 106–554</external-xref>, the Treasury and General Government Appropriations Act
+			 for Fiscal Year 2001, and guidelines issued by the Administrator of the
+			 Office of Information and Regulatory Affairs or other agencies pursuant to
+			 the Act; and</text>
+					</paragraph><paragraph id="H95A799739EFA40ABA5EC338795068B10"><enum>(21)</enum><text>the <term>Office of Information and Regulatory Affairs</term> means the office established under section 3503 of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/35">chapter 35</external-xref> of title 44 and any successor to
+			 that office.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="H50AA701E0AEE4505A5669D397B04E770"><enum>3.</enum><header>Rule making</header>
+			<subsection id="HCE6D125F9A4D4E5AB1A02DE326376D7B"><enum>(a)</enum><text><external-xref legal-doc="usc" parsable-cite="usc/5/553">Section 553(a)</external-xref> of title 5, United States Code, is amended by striking <quote>(a) This section applies</quote> and inserting <quote>(a) <header-in-text level="subsection" style="OLC">Applicability</header-in-text>.—This section applies</quote>.</text>
+			</subsection><subsection id="H23C1E6BBE43449E2B3C4AAE707CFCC17"><enum>(b)</enum><text><external-xref legal-doc="usc" parsable-cite="usc/5/553">Section 553</external-xref> of title 5, United States Code, is amended by striking subsections (b) through (e) and
+			 inserting the following:</text>
+				<quoted-block id="H370F91E4A65442B4AB953E74756F2410" style="OLC">
+					<subsection id="H8B1AC2B00172474BB7FD32DE1BC69625"><enum>(b)</enum><header>Rule making considerations</header><text>In a rule making, an agency shall make all preliminary and final factual determinations based on
+			 evidence and consider, in addition to other applicable considerations, the
+			 following:</text>
+						<paragraph id="H4135CEE9627F43298133571B59EB7DC6"><enum>(1)</enum><text>The legal authority under which a rule may be proposed, including whether a rule making is required
+			 by statute, and if so, whether by a specific date, or whether the agency
+			 has discretion to commence a rule making.</text>
+						</paragraph><paragraph id="H8AC2351539774079BCCFDAF897538CB9"><enum>(2)</enum><text>Other statutory considerations applicable to whether the agency can or should propose a rule or
+			 undertake other agency action.</text>
+						</paragraph><paragraph id="H336298E7C22449DE944A19A8013D4ED4"><enum>(3)</enum><text>The specific nature and significance of the problem the agency may address with a rule (including
+			 the degree and nature of risks the problem poses and the priority of
+			 addressing those risks compared to other matters or activities within the
+			 agency’s jurisdiction), whether the problem warrants new agency action,
+			 and the countervailing risks that may be posed by alternatives for new
+			 agency action.</text>
+						</paragraph><paragraph id="H68DF3B4FFE234C3FB1303B30D2FAB97B"><enum>(4)</enum><text>Whether existing rules have created or contributed to the problem the agency may address with a
+			 rule and whether those rules could be amended or rescinded to address the
+			 problem in whole or part.</text>
+						</paragraph><paragraph id="HFF0B1F5236D74C7385EEA3239B90A550"><enum>(5)</enum><text>Any reasonable alternatives for a new rule or other response identified by the agency or interested
+			 persons, including not only responses that mandate particular conduct or
+			 manners of compliance, but also—</text>
+							<subparagraph id="H273B00B53C884EF89D3DCE750C48E4FD"><enum>(A)</enum><text>the alternative of no Federal response;</text>
+							</subparagraph><subparagraph id="H01C232759C1743939306029926DA01E6"><enum>(B)</enum><text>amending or rescinding existing rules;</text>
+							</subparagraph><subparagraph id="H352493F486FB4617805277BE3D3CF293"><enum>(C)</enum><text>potential regional, State, local, or tribal regulatory action or other responses that could be
+			 taken in lieu of agency action; and</text>
+							</subparagraph><subparagraph id="HB0E9B48A5E3545C68DD9E4EFD9C77182"><enum>(D)</enum><text>potential responses that—</text>
+								<clause id="HB2B3CD54377C4FEA8F61BCA995AE5028"><enum>(i)</enum><text>specify performance objectives rather than conduct or manners of compliance;</text>
+								</clause><clause id="H4965EB4E32094F4BBB56921F13D8BAE6"><enum>(ii)</enum><text>establish economic incentives to encourage desired behavior;</text>
+								</clause><clause id="H7C823ED0C385458EB742DEFE2D26F0DB"><enum>(iii)</enum><text>provide information upon which choices can be made by the public; or</text>
+								</clause><clause id="HB18D3EA9E60E4819961FFA629B2D463B"><enum>(iv)</enum><text>incorporate other innovative alternatives rather than agency actions that specify conduct or
+			 manners of compliance.</text>
+								</clause></subparagraph></paragraph><paragraph id="H7944F57496874C50AF7C3CA2B2625EEF"><enum>(6)</enum><text>Notwithstanding any other provision of law—</text>
+							<subparagraph id="HE36F473BE72C4A67886BEB5C37D9C113"><enum>(A)</enum><text display-inline="yes-display-inline">the potential costs and benefits associated with potential alternative rules and other responses
+			 considered under section 553(b)(5), including direct, indirect, and
+			 cumulative costs and benefits and estimated impacts on jobs (including an
+			 estimate of the net gain or loss in domestic jobs), wages, economic
+			 growth, innovation, and economic competitiveness;</text>
+							</subparagraph><subparagraph id="HE0B986FC9BCF4A1E88956F6CE87530E6"><enum>(B)</enum><text>means to increase the cost-effectiveness of any Federal response; and</text>
+							</subparagraph><subparagraph id="H0F62BA51D248429782582EE5F7ED566D"><enum>(C)</enum><text>incentives for innovation, consistency, predictability, lower costs of enforcement and compliance
+			 (to government entities, regulated entities, and the public), and
+			 flexibility.</text>
+							</subparagraph></paragraph></subsection><subsection id="HABFB7876FFA6414F848A4388D04B62F4"><enum>(c)</enum><header>Advance notice of proposed rule making for major rules, high-Impact rules, negative-Impact on jobs
+			 and wages rules, and rules involving novel legal or policy issues</header><text display-inline="yes-display-inline">In the case of a rule making for a major rule, a high-impact rule, a negative-impact on jobs and
+			 wages rule, or a rule that involves a novel legal or policy issue arising
+			 out of statutory mandates, not later than 90 days before a notice of
+			 proposed rule making is published in the Federal Register, an agency shall
+			 publish advance notice of proposed rule making in the Federal Register. In
+			 publishing such advance notice, the agency shall—</text>
+						<paragraph id="H7137A09D0418441D8F866D38BDE11F41"><enum>(1)</enum><text>include a written statement identifying, at a minimum—</text>
+							<subparagraph id="HCF0E533602E343438EB837770939BB09"><enum>(A)</enum><text>the nature and significance of the problem the agency may address with a rule, including data and
+			 other evidence and information on which the agency expects to rely for the
+			 proposed rule;</text>
+							</subparagraph><subparagraph id="H266B30285E144C76864CAC45FB9A3F66"><enum>(B)</enum><text>the legal authority under which a rule may be proposed, including whether a rule making is required
+			 by statute, and if so, whether by a specific date, or whether the agency
+			 has discretion to commence a rule making;</text>
+							</subparagraph><subparagraph id="HE9B321BCC0E74B2EAD9A62F894610407"><enum>(C)</enum><text>preliminary information available to the agency concerning the other considerations specified in
+			 subsection (b);</text>
+							</subparagraph><subparagraph id="H89CB4B0C5D1B4AAFAA291F35C6949D77"><enum>(D)</enum><text>in the case of a rule that involves a novel legal or policy issue arising out of statutory
+			 mandates, the nature of and potential reasons to adopt the novel legal or
+			 policy position upon which the agency may base a proposed rule; and</text>
+							</subparagraph><subparagraph id="H84E417281F6C4B11974EDD60483C415E"><enum>(E)</enum><text display-inline="yes-display-inline">an achievable objective for the rule and metrics by which the agency will measure progress toward
+			 that objective;</text>
+							</subparagraph></paragraph><paragraph id="H52762ED85694492C9B47F1A35E2B7F5E"><enum>(2)</enum><text>solicit written data, views or argument from interested persons concerning the information and
+			 issues addressed in the advance notice; and</text>
+						</paragraph><paragraph id="H2C727D661B3140FBBB84753D6AC22B72"><enum>(3)</enum><text>provide for a period of not fewer than 60 days for interested persons to submit such written data,
+			 views, or argument to the agency.</text>
+						</paragraph></subsection><subsection id="HE820BE29402B40BD890E2BEECD2662CB"><enum>(d)</enum><header>Notices of proposed rule making; determinations of other agency course</header>
+						<paragraph commented="no" display-inline="yes-display-inline" id="HCCAB57CD64B34CB3A1680B35AB847CD8"><enum>(1)</enum><text>Before it determines to propose a rule, and following completion of procedures under subsection
+			 (c), if applicable, the agency shall consult with the Administrator of the
+			 Office of Information and Regulatory Affairs. If the agency thereafter
+			 determines to propose a rule, the agency shall publish a notice of
+			 proposed rule making, which shall include—</text>
+							<subparagraph id="HDE74AC047DBB4CD3A55C5B7B578A2315" indent="up1"><enum>(A)</enum><text>a statement of the time, place, and nature of public rule making proceedings;</text>
+							</subparagraph><subparagraph id="H839B23BCB58646D9BDBBA8FEFFC832E5" indent="up1"><enum>(B)</enum><text>reference to the legal authority under which the rule is proposed;</text>
+							</subparagraph><subparagraph id="H4ED116B064E24DA98180EA5E2E531CFA" indent="up1"><enum>(C)</enum><text>the terms of the proposed rule;</text>
+							</subparagraph><subparagraph id="HF565EFE84AAE4A4785626054CD5DE281" indent="up1"><enum>(D)</enum><text>a description of information known to the agency on the subject and issues of the proposed rule,
+			 including but not limited to—</text>
+								<clause id="H3BC07020ECA243BEA6CDB541B2EA94EB"><enum>(i)</enum><text>a summary of information known to the agency concerning the considerations specified in subsection
+			 (b);</text>
+								</clause><clause id="HA47825990CB44965A3454A444A8ED820"><enum>(ii)</enum><text>a summary of additional information the agency provided to and obtained from interested persons
+			 under subsection (c);</text>
+								</clause><clause id="H678143B3AE654A63A91A1760AECD37D2"><enum>(iii)</enum><text>a summary of any preliminary risk assessment or regulatory impact analysis performed by the agency;
+			 and</text>
+								</clause><clause id="HFD6B7AD1927D415A8EB451E7F7DCABC7"><enum>(iv)</enum><text>information specifically identifying all data, studies, models, and other evidence or information
+			 considered or used by the agency in connection with its determination to
+			 propose the rule;</text>
+								</clause></subparagraph><subparagraph id="HD76F002EF8164F5EBBC38A34EED31414" indent="up1"><enum>(E)</enum>
+								<clause commented="no" display-inline="yes-display-inline" id="H307EB9AA2F62490EA02379D212587749"><enum>(i)</enum><text>a reasoned preliminary determination of need for the rule based on the information described under
+			 subparagraph (D);</text>
+								</clause><clause id="H8A75FE3B5634455F8ECA178904B33176" indent="up1"><enum>(ii)</enum><text>an additional statement of whether a rule is required by statute; and</text>
+								</clause><clause id="HDCE2076A638948808FBAA89077306288" indent="up1"><enum>(iii)</enum><text>an achievable objective for the rule and metrics by which the agency will measure progress toward
+			 that objective;</text>
+								</clause></subparagraph><subparagraph id="HD7900B2C338F40B9A227C5A57D33D1E5" indent="up1"><enum>(F)</enum><text>a reasoned preliminary determination that the benefits of the proposed rule meet the relevant
+			 statutory objectives and justify the costs of the proposed rule (including
+			 all costs to be considered under subsection (b)(6)), based on the
+			 information described under subparagraph (D);</text>
+							</subparagraph><subparagraph id="HAE72D853A41C4E86AFD3A3C9009971CB" indent="up1"><enum>(G)</enum><text>a discussion of—</text>
+								<clause id="H470E4A6F63DB4BA6B34B85B958708A78"><enum>(i)</enum><text>the alternatives to the proposed rule, and other alternative responses, considered by the agency
+			 under subsection (b);</text>
+								</clause><clause id="HD8F6FCBE1F64441F9A014FC325B9E4C3"><enum>(ii)</enum><text>the costs and benefits of those alternatives (including all costs to be considered under subsection
+			 (b)(6));</text>
+								</clause><clause id="HD42145F59D0847F19B6515D3F7BE262B"><enum>(iii)</enum><text>whether those alternatives meet relevant statutory objectives; and</text>
+								</clause><clause id="H544757E8F6404EB5BEAFE7BB28184171"><enum>(iv)</enum><text>why the agency did not propose any of those alternatives; and</text>
+								</clause></subparagraph><subparagraph id="HD35030BA8FCD4704AFAD1AB3B8C48C20" indent="up1"><enum>(H)</enum>
+								<clause commented="no" display-inline="yes-display-inline" id="HC72663DD065C40B2BCD8A93F980E94BA"><enum>(i)</enum><text>a statement of whether existing rules have created or contributed to the problem the agency seeks
+			 to address with the proposed rule; and</text>
+								</clause><clause id="H79AABB43CF3D4F46AD83795E9CEACE07" indent="up1"><enum>(ii)</enum><text>if so, whether or not the agency proposes to amend or rescind any such rules, and why.</text></clause></subparagraph><continuation-text continuation-text-level="paragraph" indent="subsection">All information provided to or considered by the agency, and steps to obtain information by the
+			 agency, in connection with its determination to propose the rule,
+			 including any preliminary risk assessment or regulatory impact analysis
+			 prepared by the agency and all other information prepared or described by
+			 the agency under subparagraph (D) and, at the discretion of the President
+			 or the Administrator of the Office of Information and Regulatory Affairs,
+			 information provided by that Office in consultations with the agency,
+			 shall be placed in the docket for the proposed rule and made accessible to
+			 the public by electronic means and otherwise for the public’s use when the
+			 notice of proposed rule making is published.</continuation-text></paragraph><paragraph id="H0C3AEC66893C4C8A98DF47A9708809E1" indent="up1"><enum>(2)</enum>
+							<subparagraph commented="no" display-inline="yes-display-inline" id="HAC4D0A67A45D4C55BC92A56E661C3242"><enum>(A)</enum><text>If the agency undertakes procedures under subsection (c) and determines thereafter not to propose a
+			 rule, the agency shall, following consultation with the Office of
+			 Information and Regulatory Affairs, publish a notice of determination of
+			 other agency course. A notice of determination of other agency course
+			 shall include information required by paragraph (1)(D) to be included in a
+			 notice of proposed rule making and a description of the alternative
+			 response the agency determined to adopt.</text>
+							</subparagraph><subparagraph id="HEEF7875B8AD243F29348C305FCD233FC" indent="up1"><enum>(B)</enum><text>If in its determination of other agency course the agency makes a determination to amend or rescind
+			 an existing rule, the agency need not undertake additional proceedings
+			 under subsection (c) before it publishes a notice of proposed rule making
+			 to amend or rescind the existing rule.</text></subparagraph><continuation-text continuation-text-level="paragraph">All information provided to or considered by the agency, and steps to obtain information by the
+			 agency, in connection with its determination of other agency course,
+			 including but not limited to any preliminary risk assessment or regulatory
+			 impact analysis prepared by the agency and all other information that
+			 would be required to be prepared or described by the agency under
+			 paragraph (1)(D) if the agency had determined to publish a notice of
+			 proposed rule making and, at the discretion of the President or the
+			 Administrator of the Office of Information and Regulatory Affairs,
+			 information provided by that Office in consultations with the agency,
+			 shall be placed in the docket for the determination and made accessible to
+			 the public by electronic means and otherwise for the public’s use when the
+			 notice of determination is published.</continuation-text></paragraph><paragraph id="H3B4E9F4DBFED46D08F6C3FE777C38A31" indent="up1"><enum>(3)</enum><text>After notice of proposed rule making required by this section, the agency shall provide interested
+			 persons an opportunity to participate in the rule making through
+			 submission of written data, views, or arguments with or without
+			 opportunity for oral presentation, except that—</text>
+							<subparagraph id="HFB749A4E0B7D4F9F8D90848DB08D57E7"><enum>(A)</enum><text>if a hearing is required under paragraph (4)(B) or subsection (e), opportunity for oral
+			 presentation shall be provided pursuant to that requirement; or</text>
+							</subparagraph><subparagraph id="H89215E4E3A5B4626875B14477A3D6C45"><enum>(B)</enum><text>when other than under subsection (e) of this section rules are required by statute or at the
+			 discretion of the agency to be made on the record after opportunity for an
+			 agency hearing, sections 556 and 557 shall apply, and paragraph (4), the
+			 requirements of subsection (e) to receive comment outside of the
+			 procedures of sections 556 and 557, and the petition procedures of
+			 subsection (e)(6) shall not apply.</text></subparagraph><continuation-text continuation-text-level="paragraph">The agency shall provide not fewer than 60 days for interested persons to submit written data,
+			 views, or argument (or 120 days in the case of a proposed major or
+			 high-impact rule).</continuation-text></paragraph><paragraph id="H2B3F05CEFD064171B03A33AD6FB3E80D" indent="up1"><enum>(4)</enum>
+							<subparagraph commented="no" display-inline="yes-display-inline" id="H0A5A0A89C4C946758F92091268DC8F29"><enum>(A)</enum><text>Within 30 days of publication of notice of proposed rule making, a member of the public may
+			 petition for a hearing in accordance with section 556 to determine whether
+			 any evidence or other information upon which the agency bases the proposed
+			 rule fails to comply with the Information Quality Act.</text>
+							</subparagraph><subparagraph id="H512A5A07380B4F6686746E43083DA3E3" indent="up1"><enum>(B)</enum>
+								<clause commented="no" display-inline="yes-display-inline" id="H137B1A6A9AB44B3CBC35807E5F50787D"><enum>(i)</enum><text>The agency may, upon review of the petition, determine without further process to exclude from the
+			 rule making the evidence or other information that is the subject of the
+			 petition and, if appropriate, withdraw the proposed rule. The agency shall
+			 promptly publish any such determination.</text>
+								</clause><clause id="H981DB54DF5C24CC791B385C5E650ABAB" indent="up1"><enum>(ii)</enum><text>If the agency does not resolve the petition under the procedures of clause (i), it shall grant any
+			 such petition that presents a prima facie case that evidence or other
+			 information upon which the agency bases the proposed rule fails to comply
+			 with the Information Quality Act, hold the requested hearing not later
+			 than 30 days after receipt of the petition, provide a reasonable
+			 opportunity for cross-examination at the hearing, and decide the issues
+			 presented by the petition not later than 60 days after receipt of the
+			 petition. The agency may deny any petition that it determines does not
+			 present such a prima facie case.</text>
+								</clause></subparagraph><subparagraph id="HD5B3D61B8DE4481C8CE860DCF78E7348" indent="up1"><enum>(C)</enum><text>There shall be no judicial review of the agency’s disposition of issues considered and decided or
+			 determined under subparagraph (B)(ii) until judicial review of the
+			 agency’s final action. There shall be no judicial review of an agency’s
+			 determination to withdraw a proposed rule under subparagraph (B)(i) on the
+			 basis of the petition.</text>
+							</subparagraph><subparagraph id="H36786FE9E1ED4E7DBC001D2BB4F62A8A" indent="up1"><enum>(D)</enum><text>Failure to petition for a hearing under this paragraph shall not preclude judicial review of any
+			 claim based on the Information Quality Act under chapter 7 of this title.</text>
+							</subparagraph></paragraph></subsection><subsection id="H0AC62603248042D7A499226077B60649"><enum>(e)</enum><header>Hearings for high-Impact rules</header><text>Following notice of a proposed rule making, receipt of comments on the proposed rule, and any
+			 hearing held under subsection (d)(4), and before adoption of any
+			 high-impact rule, the agency shall hold a hearing in accordance with
+			 sections 556 and 557, unless such hearing is waived by all participants in
+			 the rule making other than the agency. The agency shall provide a
+			 reasonable opportunity for cross-examination at such hearing. The hearing
+			 shall be limited to the following issues of fact, except that participants
+			 at the hearing other than the agency may waive determination of any such
+			 issue:</text>
+						<paragraph id="H649AA35345554D7E83837A9E97205856"><enum>(1)</enum><text>Whether the agency’s asserted factual predicate for the rule is supported by the evidence.</text>
+						</paragraph><paragraph id="HF68589C5BCB84156BA7C308CB4C5BC51"><enum>(2)</enum><text>Whether there is an alternative to the proposed rule that would achieve the relevant statutory
+			 objectives at a lower cost (including all costs to be considered under
+			 subsection (b)(6)) than the proposed rule.</text>
+						</paragraph><paragraph id="HAB11792C1B9E4718A77376B5A603FE32"><enum>(3)</enum><text>If there is more than one alternative to the proposed rule that would achieve the relevant
+			 statutory objectives at a lower cost than the proposed rule, which
+			 alternative would achieve the relevant statutory objectives at the lowest
+			 cost.</text>
+						</paragraph><paragraph id="H56784DE83713433BBB8EF106DE47A296"><enum>(4)</enum><text>Whether, if the agency proposes to adopt a rule that is more costly than the least costly
+			 alternative that would achieve the relevant statutory objectives
+			 (including all costs to be considered under subsection (b)(6)), the
+			 additional benefits of the more costly rule exceed the additional costs of
+			 the more costly rule.</text>
+						</paragraph><paragraph id="HA465395BA07546F689544AD6CD282D2F"><enum>(5)</enum><text>Whether the evidence and other information upon which the agency bases the proposed rule meets the
+			 requirements of the Information Quality Act.</text>
+						</paragraph><paragraph id="H5C1FF399C5B94ADFB1AFDCA22B9D3589"><enum>(6)</enum><text>Upon petition by an interested person who has participated in the rule making, other issues
+			 relevant to the rule making, unless the agency determines that
+			 consideration of the issues at the hearing would not advance consideration
+			 of the rule or would, in light of the nature of the need for agency
+			 action, unreasonably delay completion of the rule making. An agency shall
+			 grant or deny a petition under this paragraph within 30 days of its
+			 receipt of the petition.</text></paragraph><continuation-text continuation-text-level="subsection">No later than 45 days before any hearing held under this subsection or sections 556 and 557, the
+			 agency shall publish in the Federal Register a notice specifying the
+			 proposed rule to be considered at such hearing, the issues to be
+			 considered at the hearing, and the time and place for such hearing, except
+			 that such notice may be issued not later than 15 days before a hearing
+			 held under subsection (d)(4)(B).</continuation-text></subsection><subsection id="H316292084D8B4123A04BAC0C20C7089F"><enum>(f)</enum><header>Final rules</header>
+						<paragraph commented="no" display-inline="yes-display-inline" id="H7FAF094563254C3EA51C6216309B2944"><enum>(1)</enum><text>The agency shall adopt a rule only following consultation with the Administrator of the Office of
+			 Information and Regulatory Affairs to facilitate compliance with
+			 applicable rule making requirements.</text>
+						</paragraph><paragraph id="HF00C6604A7D74FAFA96CA003DFFB6509" indent="up1"><enum>(2)</enum><text>The agency shall adopt a rule only on the basis of the best reasonably obtainable scientific,
+			 technical, economic, and other evidence and information concerning the
+			 need for, consequences of, and alternatives to the rule.</text>
+						</paragraph><paragraph id="H3225CB75E2774A31AAD89B1DA8AC0A74" indent="up1"><enum>(3)</enum>
+							<subparagraph commented="no" display-inline="yes-display-inline" id="HDC96A35C6BDA4CD2A1D25BE715334B1B"><enum>(A)</enum><text>Except as provided in subparagraph (B), the agency shall adopt the least costly rule considered
+			 during the rule making (including all costs to be considered under
+			 subsection (b)(6)) that meets relevant statutory objectives.</text>
+							</subparagraph><subparagraph id="H553AC49C3FBD4241B34DBEAAE92C5EA5" indent="up1"><enum>(B)</enum><text>The agency may adopt a rule that is more costly than the least costly alternative that would
+			 achieve the relevant statutory objectives only if the additional benefits
+			 of the more costly rule justify its additional costs and only if the
+			 agency explains its reason for doing so based on interests of public
+			 health, safety or welfare that are clearly within the scope of the
+			 statutory provision authorizing the rule.</text>
+							</subparagraph></paragraph><paragraph id="H0AC60A0417C441DB928A435EA828B379" indent="up1"><enum>(4)</enum><text>When it adopts a final rule, the agency shall publish a notice of final rule making. The notice
+			 shall include—</text>
+							<subparagraph id="H59D7C2F21A474AD89F41994FCAABD742"><enum>(A)</enum><text>a concise, general statement of the rule’s basis and purpose;</text>
+							</subparagraph><subparagraph id="H18EA1E0293954FCE9AB08FDC966A899D"><enum>(B)</enum><text>the agency’s reasoned final determination of need for a rule to address the problem the agency
+			 seeks to address with the rule, including a statement of whether a rule is
+			 required by statute and a summary of any final risk assessment or
+			 regulatory impact analysis prepared by the agency;</text>
+							</subparagraph><subparagraph id="HB5F98D689E58492FB6CAEA961FF3B7D0"><enum>(C)</enum><text>the agency’s reasoned final determination that the benefits of the rule meet the relevant statutory
+			 objectives and justify the rule’s costs (including all costs to be
+			 considered under subsection (b)(6));</text>
+							</subparagraph><subparagraph id="HD42C0A0D631F45A59C683D588FF4EAA8"><enum>(D)</enum><text>the agency’s reasoned final determination not to adopt any of the alternatives to the proposed rule
+			 considered by the agency during the rule making, including—</text>
+								<clause id="H39A2A34A2D6A4A7C829A7CE1D563632E"><enum>(i)</enum><text>the agency’s reasoned final determination that no alternative considered achieved the relevant
+			 statutory objectives with lower costs (including all costs to be
+			 considered under subsection (b)(6)) than the rule; or</text>
+								</clause><clause id="HC2149CF3058440249BEF5F9CBFF7FDD8"><enum>(ii)</enum><text>the agency’s reasoned determination that its adoption of a more costly rule complies with
+			 subsection (f)(3)(B);</text>
+								</clause></subparagraph><subparagraph id="H3BFCEDA389E742B98AE96CBA01D7E9A5"><enum>(E)</enum><text>the agency’s reasoned final determination—</text>
+								<clause id="H36410A09A9674110A83215E0B0AD970F"><enum>(i)</enum><text>that existing rules have not created or contributed to the problem the agency seeks to address with
+			 the rule; or</text>
+								</clause><clause id="H267055C572BD472DB1FF967C9AE18995"><enum>(ii)</enum><text>that existing rules have created or contributed to the problem the agency seeks to address with the
+			 rule, and, if so—</text>
+									<subclause id="H68DEAA564F8B4EB8A806F973753BC849"><enum>(I)</enum><text>why amendment or rescission of such existing rules is not alone sufficient to respond to the
+			 problem; and</text>
+									</subclause><subclause id="H6F46CDA66F704D4F89EB8D07EB1F2F29"><enum>(II)</enum><text>whether and how the agency intends to amend or rescind the existing rule separate from adoption of
+			 the rule;</text>
+									</subclause></clause></subparagraph><subparagraph id="H9AF5E0FA32C14CC0A1D962A31F6E500E"><enum>(F)</enum><text>the agency’s reasoned final determination that the evidence and other information upon which the
+			 agency bases the rule complies with the Information Quality Act;</text>
+							</subparagraph><subparagraph id="H4A8C20422BDC411AB38C5310E4B5F7E7"><enum>(G)</enum><text display-inline="yes-display-inline">the agency’s reasoned final determination that the rule meets the objectives that the agency
+			 identified in subsection (d)(1)(E)(iii) or that other objectives are more
+			 appropriate in light of the full administrative record and the rule meets
+			 those objectives;</text>
+							</subparagraph><subparagraph id="H60361970CA954AEA98D5403A2D3BA123"><enum>(H)</enum><text display-inline="yes-display-inline">the agency’s reasoned final determination that it did not deviate from the metrics the agency
+			 included in subsection (d)(1)(E)(iii) or that other metrics are more
+			 appropriate in light of the full administrative record and the agency did
+			 not deviate from those metrics;</text>
+							</subparagraph><subparagraph id="H232E9F394B5C474C815D33E87782E226"><enum>(I)</enum>
+								<clause commented="no" display-inline="yes-display-inline" id="HD06710D917C9490C8EC2FFE65916EA6B"><enum>(i)</enum><text display-inline="yes-display-inline">for any major rule, high-impact rule, or negative-impact on jobs and wages rule, the agency’s plan
+			 for review of the rule no less than every ten years to determine whether,
+			 based upon evidence, there remains a need for the rule, whether the rule
+			 is in fact achieving statutory objectives, whether the rule’s benefits
+			 continue to justify its costs, and whether the rule can be modified or
+			 rescinded to reduce costs while continuing to achieve statutory
+			 objectives; and</text>
+								</clause><clause id="H581C56DF987041F0A9B431C1BBAD640F" indent="up1"><enum>(ii)</enum><text>review of a rule under a plan required by clause (i) of this subparagraph shall take into account
+			 the factors and criteria set forth in subsections (b) through (f) of
+			 section 553 of this title; and</text>
+								</clause></subparagraph><subparagraph id="H5511869DBAB642FDB31B81C96B6712A8"><enum>(J)</enum><text display-inline="yes-display-inline">for any negative-impact on jobs and wages rule, a statement that the head of the agency that made
+			 the rule approved the rule knowing about the findings and determination of
+			 the agency or the Administrator of the Office of Information and
+			 Regulatory Affairs that qualified the rule as a negative impact on jobs
+			 and wages rule.</text></subparagraph></paragraph><continuation-text continuation-text-level="subsection">All information considered by the agency in connection with its adoption of the rule, and, at the
+			 discretion of the President or the Administrator of the Office of
+			 Information and Regulatory Affairs, information provided by that Office in
+			 consultations with the agency, shall be placed in the docket for the rule
+			 and made accessible to the public for the public’s use no later than when
+			 the rule is adopted.</continuation-text></subsection><subsection id="H6CA7B8A306B14870B980127CE7237371"><enum>(g)</enum><header>Exceptions from notice and hearing requirements</header>
+						<paragraph commented="no" display-inline="yes-display-inline" id="HB6A85CB40E6D48A5B6B99C04A5FE7A35"><enum>(1)</enum><text>Except when notice or hearing is required by statute, the following do not apply to interpretive
+			 rules, general statements of policy, or rules of agency organization,
+			 procedure, or practice:</text>
+							<subparagraph id="H86D485F347594CB0ADE813A3361530CC" indent="up1"><enum>(A)</enum><text display-inline="yes-display-inline">Subsections (c) through (e).</text>
+							</subparagraph><subparagraph id="HB7EA77E5EC1643638BC8A9D9ECAAC730" indent="up1"><enum>(B)</enum><text>Paragraphs (1) through (3) of subsection (f).</text>
+							</subparagraph><subparagraph id="H5E6783A6E9C841D383953373FBDFC90D" indent="up1"><enum>(C)</enum><text>Subparagraphs (B) through (H) of subsection (f)(4).</text>
+							</subparagraph></paragraph><paragraph id="H33BEC943D05A46FDA15740740CB7AB2D" indent="up1"><enum>(2)</enum>
+							<subparagraph commented="no" display-inline="yes-display-inline" id="H83E1B9A09D514F679F4E27D787FEB4F0"><enum>(A)</enum><text>When the agency for good cause, based upon evidence, finds (and incorporates the finding and a
+			 brief statement of reasons therefor in the rules issued) that compliance
+			 with subsection (c), (d), or (e) or requirements to render final
+			 determinations under subsection (f) of this section before the issuance of
+			 an interim rule is impracticable or contrary to the public interest,
+			 including interests of national security, such subsections or requirements
+			 to render final determinations shall not apply to the agency’s adoption of
+			 an interim rule.</text>
+							</subparagraph><subparagraph id="HC920341FF02D4E2CAE38FF436D5CA60A" indent="up1"><enum>(B)</enum><text>If, following compliance with subparagraph (A) of this paragraph, the agency adopts an interim
+			 rule, it shall commence proceedings that comply fully with subsections (d)
+			 through (f) of this section immediately upon publication of the interim
+			 rule, shall treat the publication of the interim rule as publication of a
+			 notice of proposed rule making and shall not be required to issue
+			 supplemental notice other than to complete full compliance with subsection
+			 (d). No less than 270 days from publication of the interim rule (or 18
+			 months in the case of a major rule or high-impact rule), the agency shall
+			 complete rule making under subsections (d) through (f) of this subsection
+			 and take final action to adopt a final rule or rescind the interim rule.
+			 If the agency fails to take timely final action, the interim rule will
+			 cease to have the effect of law.</text>
+							</subparagraph><subparagraph id="H1DC95A435E8C4BB4AA26E0A99C2F8099" indent="up1"><enum>(C)</enum><text>Other than in cases involving interests of national security, upon the agency’s publication of an
+			 interim rule without compliance with subsection (c), (d), or (e) or
+			 requirements to render final determinations under subsection (f) of this
+			 section, an interested party may seek immediate judicial review under
+			 chapter 7 of this title of the agency’s determination to adopt such
+			 interim rule. The record on such review shall include all documents and
+			 information considered by the agency and any additional information
+			 presented by a party that the court determines necessary to consider to
+			 assure justice.</text>
+							</subparagraph></paragraph><paragraph id="H2F69122F8AB64CF5A36412B07D45FDC4" indent="up1"><enum>(3)</enum><text>When the agency for good cause finds (and incorporates the finding and a brief statement of reasons
+			 therefor in the rules issued) that notice and public procedure thereon are
+			 unnecessary, including because agency rule making is undertaken only to
+			 correct a de minimis technical or clerical error in a previously issued
+			 rule or for other noncontroversial purposes, the agency may publish a rule
+			 without compliance with subsection (c), (d), (e), or (f)(1)–(3) and
+			 (f)(4)(B)–(F). If the agency receives significant adverse comment within
+			 60 days after publication of the rule, it shall treat the notice of the
+			 rule as a notice of proposed rule making and complete rule making in
+			 compliance with subsections (d) and (f).</text>
+						</paragraph></subsection><subsection id="H7FAAD9364C5448B8A67AFAD895EB3BBA"><enum>(h)</enum><header>Additional requirements for hearings</header><text>When a hearing is required under subsection (e) or is otherwise required by statute or at the
+			 agency’s discretion before adoption of a rule, the agency shall comply
+			 with the requirements of sections 556 and 557 in addition to the
+			 requirements of subsection (f) in adopting the rule and in providing
+			 notice of the rule’s adoption.</text>
+					</subsection><subsection id="H99CEF05E02C24C4BBBF273C8AFC63298"><enum>(i)</enum><header>Date of publication of rule</header><text>The required publication or service of a substantive final or interim rule shall be made not less
+			 than 30 days before the effective date of the rule, except—</text>
+						<paragraph id="HD3B3FD08A4DD404A9DD0DF9AE9493FF7"><enum>(1)</enum><text>a substantive rule which grants or recognizes an exemption or relieves a restriction;</text>
+						</paragraph><paragraph id="H2FC342D549A04E3E818BFDD13B55543E"><enum>(2)</enum><text>interpretive rules and statements of policy; or</text>
+						</paragraph><paragraph id="HC13B8CC5A4214970B072DEA867060747"><enum>(3)</enum><text>as otherwise provided by the agency for good cause found and published with the rule.</text>
+						</paragraph></subsection><subsection id="HB58C5F2FE95144F2B66DBB8092704634"><enum>(j)</enum><header>Right To petition</header><text>Each agency shall give an interested person the right to petition for the issuance, amendment, or
+			 repeal of a rule.</text>
+					</subsection><subsection id="H2AF82239519F420F92A57F46CCC7C119"><enum>(k)</enum><header>Rule making guidelines</header>
+						<paragraph commented="no" display-inline="yes-display-inline" id="HD0192740AE074CE9A5CBC6A92DCB6A3E"><enum>(1)</enum>
+							<subparagraph commented="no" display-inline="yes-display-inline" id="HC219495677FF46B0B6B7441976DD341F"><enum>(A)</enum><text>The Administrator of the Office of Information and Regulatory Affairs shall establish guidelines
+			 for the assessment, including quantitative and qualitative assessment, of
+			 the costs and benefits of proposed and final rules and other economic
+			 issues or issues related to risk that are relevant to rule making under
+			 this title. The rigor of cost-benefit analysis required by such guidelines
+			 shall be commensurate, in the Administrator’s determination, with the
+			 economic impact of the rule.</text>
+							</subparagraph><subparagraph id="H1D48C1ED133D4446935F205EE04C8689" indent="up2"><enum>(B)</enum><text>To ensure that agencies use the best available techniques to quantify and evaluate anticipated
+			 present and future benefits, costs, other economic issues, and risks as
+			 accurately as possible, the Administrator of the Office of Information and
+			 Regulatory Affairs shall regularly update guidelines established under
+			 paragraph (1)(A) of this subsection.</text>
+							</subparagraph></paragraph><paragraph id="H5CED9D12A243437C946BBEE7F978EEE6" indent="up1"><enum>(2)</enum><text>The Administrator of the Office of Information and Regulatory Affairs shall also issue guidelines
+			 to promote coordination, simplification and harmonization of agency rules
+			 during the rule making process and otherwise. Such guidelines shall assure
+			 that each agency avoids regulations that are inconsistent or incompatible
+			 with, or duplicative of, its other regulations and those of other Federal
+			 agencies and drafts its regulations to be simple and easy to understand,
+			 with the goal of minimizing the potential for uncertainty and litigation
+			 arising from such uncertainty.</text>
+						</paragraph><paragraph id="H12BB009DDA024F82A904E20202F0E3E4" indent="up1"><enum>(3)</enum><text>To ensure consistency in Federal rule making, the Administrator of the Office of Information and
+			 Regulatory Affairs shall—</text>
+							<subparagraph id="H3C7C600526AA47729AD9FF6A56911178"><enum>(A)</enum><text>issue guidelines and otherwise take action to ensure that rule makings conducted in whole or in
+			 part under procedures specified in provisions of law other than those of
+			 subchapter II of this title conform to the fullest extent allowed by law
+			 with the procedures set forth in section 553 of this title; and</text>
+							</subparagraph><subparagraph id="H9462CD70B60840888328E6AF0DD60424"><enum>(B)</enum><text>issue guidelines for the conduct of hearings under subsections 553(d)(4) and 553(e) of this
+			 section, including to assure a reasonable opportunity for
+			 cross-examination. Each agency shall adopt regulations for the conduct of
+			 hearings consistent with the guidelines issued under this subparagraph.</text>
+							</subparagraph></paragraph><paragraph id="H1EB1754501F34FA9BF7507B123F73BC6" indent="up1"><enum>(4)</enum><text>The Administrator of the Office of Information and Regulatory Affairs shall issue guidelines
+			 pursuant to the Information Quality Act to apply in rule making
+			 proceedings under sections 553, 556, and 557 of this title. In all cases,
+			 such guidelines, and the Administrator’s specific determinations regarding
+			 agency compliance with such guidelines, shall be entitled to judicial
+			 deference.</text>
+						</paragraph></subsection><subsection id="H75FE06B42E3A40A8846548BCEA3AFF0C"><enum>(l)</enum><header>Inclusion in the record of certain documents and information</header><text>The agency shall include in the record for a rule making, and shall make available by electronic
+			 means and otherwise, all documents and information prepared or considered
+			 by the agency during the proceeding, including, at the discretion of the
+			 President or the Administrator of the Office of Information and Regulatory
+			 Affairs, documents and information communicated by that Office during
+			 consultation with the Agency.</text>
+					</subsection><subsection id="HBD1FA915DD2F4E2581EAAC4C9B8D0E77"><enum>(m)</enum><header>Monetary policy exemption</header><text>Nothing in subsection (b)(6), subparagraphs (F) and (G) of subsection (d)(1), subsection (e),
+			 subsection (f)(3), and subparagraphs (C) and (D) of subsection (f)(5)
+			 shall apply to rule makings that concern monetary policy proposed or
+			 implemented by the Board of Governors of the Federal Reserve System or the
+			 Federal Open Market Committee.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="HC3C8BC00C9FF4F18AB70B5F14CCAD7CD"><enum>4.</enum><header>Agency guidance; procedures to issue major guidance; presidential authority to issue guidelines for
+			 issuance of guidance</header>
+			<subsection id="H56C15C02B28A4838AA242FBD7C84EFEE"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/5">Chapter 5</external-xref> of title 5, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/5/553">section 553</external-xref> the following
+			 new section:</text>
+				<quoted-block id="H449C25B4FEC34245ADECBAE6E3DCFBC9" style="USC">
+					<section id="HD049F7D820144342ABD099523EA3E5AC"><enum>553a.</enum><header>Agency guidance; procedures to issue major guidance; authority to issue guidelines for issuance of
+			 guidance</header>
+						<subsection id="H38679E39AD954FCF8CCDD727719F85A7"><enum>(a)</enum><text>Before issuing any major guidance, or guidance that involves a novel legal or policy issue arising
+			 out of statutory mandates, an agency shall—</text>
+							<paragraph id="HCF2E6CA50DFE4B69B99ACD20FFEAB7E2"><enum>(1)</enum><text>make and document a reasoned determination that—</text>
+								<subparagraph id="HB7951F09C2FC41AA8E00AA76FAC3BF8E"><enum>(A)</enum><text>assures that such guidance is understandable and complies with relevant statutory objectives and
+			 regulatory provisions (including any statutory deadlines for agency
+			 action);</text>
+								</subparagraph><subparagraph id="HAFB7747D76D14CF3B320B4A8C4B39AA1"><enum>(B)</enum><text>summarizes the evidence and data on which the agency will base the guidance;</text>
+								</subparagraph><subparagraph id="HF160AEDE85F444E58DCCA87CE3FEB7B6"><enum>(C)</enum><text>identifies the costs and benefits (including all costs to be considered during a rule making under
+			 section 553(b) of this title) of conduct conforming to such guidance and
+			 assures that such benefits justify such costs; and</text>
+								</subparagraph><subparagraph id="H19548C24F4D54D6A9F94F391AC620314"><enum>(D)</enum><text>describes alternatives to such guidance and their costs and benefits (including all costs to be
+			 considered during a rule making under section 553(b) of this title) and
+			 explains why the agency rejected those alternatives; and</text>
+								</subparagraph></paragraph><paragraph id="HD79AD7482D6A429E9C1E1D5BAE68040C"><enum>(2)</enum><text>confer with the Administrator of the Office of Information and Regulatory Affairs on the issuance
+			 of such guidance to assure that the guidance is reasonable,
+			 understandable, consistent with relevant statutory and regulatory
+			 provisions and requirements or practices of other agencies, does not
+			 produce costs that are unjustified by the guidance’s benefits, and is
+			 otherwise appropriate.</text></paragraph><continuation-text continuation-text-level="subsection">Upon issuing major guidance, or guidance that involves a novel legal or policy issue arising out of
+			 statutory mandates, the agency shall publish the documentation required by
+			 subparagraph (1) by electronic means and otherwise.</continuation-text></subsection><subsection id="H461316FE674842AD9EE336BEFDC9570B"><enum>(b)</enum><text>Agency guidance—</text>
+							<paragraph id="H1ED66236AF8A4BEFAF4BDB4610242EEF"><enum>(1)</enum><text>is not legally binding and may not be relied upon by an agency as legal grounds for agency action;</text>
+							</paragraph><paragraph id="HDFFD4D36A33F4C0990AB986CE8A7CEB7"><enum>(2)</enum><text>shall state in a plain, prominent and permanent manner that it is not legally binding; and</text>
+							</paragraph><paragraph id="HB56411EA3C844D37A89B03EB03280037"><enum>(3)</enum><text>shall, at the time it is issued or upon request, be made available by the issuing agency to
+			 interested persons and the public by electronic means and otherwise.</text></paragraph><continuation-text continuation-text-level="subsection">Agencies shall avoid the issuance of guidance that is inconsistent or incompatible with, or
+			 duplicative of, the agency’s governing statutes or regulations, with the
+			 goal of minimizing the potential for uncertainty and litigation arising
+			 from such uncertainty.</continuation-text></subsection><subsection id="H2AFCF4E98A1A4EBD97AE6FD68480ABE9"><enum>(c)</enum><text>The Administrator of the Office of Information and Regulatory Affairs shall have authority to issue
+			 guidelines for use by the agencies in the issuance of major guidance and
+			 other guidance. Such guidelines shall assure that each agency avoids
+			 issuing guidance documents that are inconsistent or incompatible with, or
+			 duplicative of, the law, its other regulations, or the regulations of
+			 other Federal agencies and drafts its guidance documents to be simple and
+			 easy to understand, with the goal of minimizing the potential for
+			 uncertainty and litigation arising from such uncertainty.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HB61B323B733F41F4AB88EE487A7FC733"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/5">chapter 5</external-xref> of title 5, United States Code, is amended by inserting after
+			 the item relating to section 553 the following new item:</text>
+				<quoted-block id="H64B06E69207749BDA399C4DD5288DB30" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">553a. Agency guidance; procedures to issue major guidance; authority to issue guidelines for
+			 issuance of guidance.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="HBF6C53DF7DFD4ADAB94E11A468D95E2A"><enum>5.</enum><header>Hearings; presiding employees; powers and duties; burden of proof; evidence; record as basis of
+			 decision</header><text display-inline="no-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/5/556">Section 556</external-xref> of title 5, United States Code, is amended by striking subsection (e) and inserting the
+			 following:</text>
+			<quoted-block id="H8BBA0257CD4049B1B03AA59A88E118F3" style="OLC">
+				<subsection id="HDA93FE7B8BC645568D15D711B4C76932"><enum>(e)</enum>
+					<paragraph commented="no" display-inline="yes-display-inline" id="H2B953BFED5084446B6CA36CAC02C2EF4"><enum>(1)</enum><text>The transcript of testimony and exhibits, together with all papers and requests filed in the
+			 proceeding, constitutes the exclusive record for decision in accordance
+			 with section 557 and shall be made available to the parties and the public
+			 by electronic means and, upon payment of lawfully prescribed costs,
+			 otherwise. When an agency decision rests on official notice of a material
+			 fact not appearing in the evidence in the record, a party is entitled, on
+			 timely request, to an opportunity to show the contrary.</text>
+					</paragraph><paragraph id="H433725727BA94F978860114893EBE15B" indent="up1"><enum>(2)</enum><text>Notwithstanding paragraph (1) of this subsection, in a proceeding held under this section pursuant
+			 to section 553(d)(4) or 553(e), the record for decision shall also include
+			 any information that is part of the record of proceedings under section
+			 553.</text>
+					</paragraph></subsection><subsection id="H8041292BE5B541C7B3B9687496C97131"><enum>(f)</enum><text>When an agency conducts rule making under this section and section 557 directly after concluding
+			 proceedings upon an advance notice of proposed rule making under section
+			 553(c), the matters to be considered and determinations to be made shall
+			 include, among other relevant matters and determinations, the matters and
+			 determinations described in subsections (b) and (f) of section 553.</text>
+				</subsection><subsection id="HC9E2993FD4FF4749BD97FCF4B17D4C63"><enum>(g)</enum><text>Upon receipt of a petition for a hearing under this section, the agency shall grant the petition in
+			 the case of any major rule, unless the agency reasonably determines that a
+			 hearing would not advance consideration of the rule or would, in light of
+			 the need for agency action, unreasonably delay completion of the rule
+			 making. The agency shall publish its decision to grant or deny the
+			 petition when it renders the decision, including an explanation of the
+			 grounds for decision. The information contained in the petition shall in
+			 all cases be included in the administrative record. This subsection shall
+			 not apply to rule makings that concern monetary policy proposed or
+			 implemented by the Board of Governors of the Federal Reserve System or the
+			 Federal Open Market Committee.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="HCBD6498F21CD40C2974E1A5EA665BFF0"><enum>6.</enum><header>Actions reviewable</header><text display-inline="no-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/5/704">Section 704</external-xref> of title 5, United States Code, is amended—</text>
+			<paragraph id="HBB89F7EC59E04C6CA49D0219AA308D8F"><enum>(1)</enum><text>by striking <quote>Agency action made</quote> and inserting <quote>(a) Agency action made</quote>; and</text>
+			</paragraph><paragraph id="HAB821B5EE0CF4DDFB615A3D4C8AE3CD0"><enum>(2)</enum><text>by adding at the end the following: “Denial by an agency of a correction request or, where
+			 administrative appeal is provided for, denial of an appeal, under an
+			 administrative mechanism described in subsection (b)(2)(B) of the
+			 Information Quality Act, or the failure of an agency within 90 days to
+			 grant or deny such request or appeal, shall be final action for purposes
+			 of this section.</text>
+				<quoted-block id="HBAAA41DD166D4408B28F81658558697F" style="OLC">
+					<subsection id="HE8CDEDEE7FED466C985C0E08B9089CCC"><enum>(b)</enum><text>Other than in cases involving interests of national security, notwithstanding subsection (a) of
+			 this section, upon the agency’s publication of an interim rule without
+			 compliance with section 553(c), (d), or (e) or requirements to render
+			 final determinations under subsection (f) of section 553, an interested
+			 party may seek immediate judicial review under this chapter of the
+			 agency’s determination to adopt such rule on an interim basis. Review
+			 shall be limited to whether the agency abused its discretion to adopt the
+			 interim rule without compliance with section 553(c), (d), or (e) or
+			 without rendering final determinations under subsection (f) of section
+			 553.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="H9064CAFDC0A947FC81672116991ACA06"><enum>7.</enum><header>Scope of review</header><text display-inline="no-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/5/706">Section 706</external-xref> of title 5, United States Code is amended—</text>
+			<paragraph id="H1672E2D0F51741059D3DAAB8F98EC0B2"><enum>(1)</enum><text>by striking <quote>To the extent necessary</quote> and inserting <quote>(a) To the extent necessary</quote>;</text>
+			</paragraph><paragraph id="H0E8877832A304DAB811BB5EABDB022C3"><enum>(2)</enum><text>in paragraph (2)(A) of subsection (a) (as designated by paragraph (1) of this section), by
+			 inserting after <quote>in accordance with law</quote> the following: <quote>(including the Information Quality Act)</quote>; and</text>
+			</paragraph><paragraph id="HB9B77E5BCF65476F9E2E33013BDEDFB4"><enum>(3)</enum><text>by adding at the end the following:</text>
+				<quoted-block id="H158952ACBCCF4B7F9FFBEDE9DDFFC2D9" style="OLC">
+					<subsection id="H34A9AB335C54445E8B17F6655B2F2BD1"><enum>(b)</enum><text>The court shall not defer to the agency’s—</text>
+						<paragraph id="H15209143DCB248839E357B280382874C"><enum>(1)</enum><text>interpretation of an agency rule if the agency did not comply with the procedures of section 553 or
+			 sections 556–557 of chapter 5 of this title to issue the interpretation;</text>
+						</paragraph><paragraph id="HEE256ED9D4304867947ABD7734D63710"><enum>(2)</enum><text>determination of the costs and benefits or other economic or risk assessment of the action, if the
+			 agency failed to conform to guidelines on such determinations and
+			 assessments established by the Administrator of the Office of Information
+			 and Regulatory Affairs under section 553(k);</text>
+						</paragraph><paragraph id="H28D700DC925746D0B4751BDA50081D9D"><enum>(3)</enum><text>determinations made in the adoption of an interim rule; or</text>
+						</paragraph><paragraph id="H402B947EC1AF46659FDD2B7703CEF6C5"><enum>(4)</enum><text>guidance.</text>
+						</paragraph></subsection><subsection id="HF200708CAA76414EA31BECDF52D5F781"><enum>(c)</enum><text>The court shall review agency denials of petitions under section 553(e)(6) or any other petition
+			 for a hearing under sections 556 and 557 for abuse of agency discretion.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="H2B13A19479164AF2B3C8B4296620C418"><enum>8.</enum><header>Added definition</header><text display-inline="no-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/5/701">Section 701(b)</external-xref> of title 5, United States Code, is amended—</text>
+			<paragraph id="HEAD0646B79104BE8B584F72BC7F49915"><enum>(1)</enum><text>in paragraph (1), by striking <quote>and</quote> at the end;</text>
+			</paragraph><paragraph id="HB5C5288440614536A83CFF04D37E431E"><enum>(2)</enum><text>in paragraph (2), by striking the period at the end, and inserting <quote>; and</quote>; and</text>
+			</paragraph><paragraph id="H149CCBBD2FB64DA2B06D47F3499A53BA"><enum>(3)</enum><text>by adding at the end the following:</text>
+				<quoted-block id="HEABD2A9340E04BD2A13874F3933D2D6A" style="OLC">
+					<paragraph id="H9BF3FDEE14364F4DBACD0F5029C91DDA"><enum>(3)</enum><text><term>substantial evidence</term> means such relevant evidence as a reasonable mind might accept as adequate to support a conclusion
+			 in light of the record considered as a whole, taking into account whatever
+			 in the record fairly detracts from the weight of the evidence relied upon
+			 by the agency to support its decision.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="H490CD09964464A52BA9678C3F86DD085"><enum>9.</enum><header>Effective date</header><text display-inline="no-display-inline">The amendments made by this Act to—</text>
+			<paragraph id="H1C42DC42ABA24C478ECA80784EA75E83"><enum>(1)</enum><text>sections 553, 556, and 704 of title 5, United States Code;</text>
+			</paragraph><paragraph id="H398C071302C145CB9651FE50F5C484FE"><enum>(2)</enum><text>subsection (b) of section 701 of such title;</text>
+			</paragraph><paragraph id="HA469C16FEC8E44F6A5E52D3A74F6BAF5"><enum>(3)</enum><text>paragraphs (2) and (3) of section 706(b) of such title; and</text>
+			</paragraph><paragraph id="H7CDA48739000401389A14BB1FC20ADF8"><enum>(4)</enum><text>subsection (c) of section 706 of such title,</text></paragraph><continuation-text continuation-text-level="section">shall not apply to any rule makings pending or completed on the date of enactment of this Act.</continuation-text></section></legis-body>
+</bill>
+
+

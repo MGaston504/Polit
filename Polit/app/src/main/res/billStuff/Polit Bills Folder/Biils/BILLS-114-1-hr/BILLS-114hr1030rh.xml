@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" dms-id="H4F0A1503AEF94B5D8957C322466A6CF7" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1030 RH: Secret Science Reform Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IB</distribution-code> 
+<calendar display="yes">Union Calendar No. 23</calendar> 
+<congress display="yes">114th CONGRESS</congress> <session display="yes">1st Session</session> 
+<legis-num>H. R. 1030</legis-num> 
+<associated-doc role="report" display="yes">[Report No. 114–34]</associated-doc> 
+<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150224">February 24, 2015</action-date> 
+<action-desc><sponsor name-id="S000583">Mr. Smith of Texas</sponsor> (for himself, <cosponsor name-id="S001183">Mr. Schweikert</cosponsor>, <cosponsor name-id="L000491">Mr. Lucas</cosponsor>, <cosponsor name-id="B001283">Mr. Bridenstine</cosponsor>, <cosponsor name-id="W000821">Mr. Westerman</cosponsor>, <cosponsor name-id="N000182">Mr. Neugebauer</cosponsor>, <cosponsor name-id="P000601">Mr. Palazzo</cosponsor>, <cosponsor name-id="B001274">Mr. Brooks of Alabama</cosponsor>, <cosponsor name-id="H001059">Mr. Hultgren</cosponsor>, <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>, <cosponsor name-id="B001291">Mr. Babin</cosponsor>, <cosponsor name-id="C001105">Mrs. Comstock</cosponsor>, <cosponsor name-id="N000189">Mr. Newhouse</cosponsor>, <cosponsor name-id="H001052">Mr. Harris</cosponsor>, <cosponsor name-id="L000571">Mrs. Lummis</cosponsor>, <cosponsor name-id="C001096">Mr. Cramer</cosponsor>, <cosponsor name-id="S000250">Mr. Sessions</cosponsor>, <cosponsor name-id="Y000033">Mr. Young of Alaska</cosponsor>, <cosponsor name-id="F000460">Mr. Farenthold</cosponsor>, <cosponsor name-id="G000565">Mr. Gosar</cosponsor>, <cosponsor name-id="P000588">Mr. Pearce</cosponsor>, and <cosponsor name-id="C001087">Mr. Crawford</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HSY00">Committee on Science, Space, and Technology</committee-name></action-desc> 
+</action> 
+<action>
+<action-date date="20150302">March 2, 2015</action-date>
+<action-desc>Additional sponsors: <cosponsor name-id="G000289">Mr. Goodlatte</cosponsor>, <cosponsor name-id="T000470">Mr. Tipton</cosponsor>, <cosponsor name-id="W000796">Mr. Westmoreland</cosponsor>, <cosponsor name-id="C001093">Mr. Collins of Georgia</cosponsor>, <cosponsor name-id="R000409">Mr. Rohrabacher</cosponsor>, <cosponsor name-id="B000213">Mr. Barton</cosponsor>, and <cosponsor name-id="K000376">Mr. Kelly of Pennsylvania</cosponsor></action-desc>
+</action>
+<action> 
+<action-date date="20150302">March 2, 2015</action-date> 
+<action-desc>Committed to the Committee of the Whole House on the State of the Union and ordered to be printed<pagebreak/></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To prohibit the Environmental Protection Agency from proposing, finalizing, or disseminating regulations or assessments based upon science that is not transparent or reproducible.<pagebreak/></official-title> 
+</form> 
+<legis-body id="HA3F4D8B3D0B34910B0CF2F976064C2CF" style="OLC"> 
+<section id="HBC338996C6904B7880035244594A430E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Secret Science Reform Act of 2015</short-title></quote>.</text></section> <section id="H263E98AFE7554DB59F193698C74EC494"><enum>2.</enum><header>Data transparency</header><text display-inline="no-display-inline">Section 6(b) of the Environmental Research, Development, and Demonstration Authorization Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/42/4363">42 U.S.C. 4363</external-xref> note) is amended to read as follows:</text> 
+<quoted-block display-inline="no-display-inline" id="HD13889A02E804F29BF7494CADDEA6B7A" style="traditional"> 
+<subsection id="H207BE8A2AC9243B695B3BDAA702E86E0"><enum>(b)</enum> 
+<paragraph commented="no" display-inline="yes-display-inline" id="H25E48289141B4F17BF2804A18C2E02FE"><enum>(1)</enum><text>The Administrator shall not propose, finalize, or disseminate a covered action unless all scientific and technical information relied on to support such covered action is—</text> <subparagraph id="HFD6DB15302B140D6924D49B322149AE5" indent="up1"><enum>(A)</enum><text>the best available science;</text> </subparagraph> 
+<subparagraph id="H92296945ED80497796C151C5B0512837" indent="up1"><enum>(B)</enum><text>specifically identified; and</text></subparagraph> <subparagraph id="HA7EAFE298D93489487A914E8B0FDD6B5" indent="up1"><enum>(C)</enum><text>publicly available online in a manner that is sufficient for independent analysis and substantial reproduction of research results.</text></subparagraph></paragraph> 
+<paragraph id="HD54A729C94F142E2BDCDC6DC9FB62A79" indent="up1"><enum>(2)</enum><text>Nothing in the subsection shall be construed as—</text> <subparagraph id="H441D485F832D408B98B29B7FA294AE18"><enum>(A)</enum><text display-inline="yes-display-inline">requiring the Administrator to disseminate scientific and technical information; or</text></subparagraph> 
+<subparagraph id="H11E898FFECBE4D5A97F0815F9185BC9D"><enum>(B)</enum><text>superseding any nondiscretionary statutory requirement.</text></subparagraph></paragraph> <paragraph id="HA7F0F08A09B3474699AFB5E1A8325E39" indent="up1"><enum>(3)</enum><text>In this subsection—</text> 
+<subparagraph id="HC6665876464C4DA4AAFC9290DBC1522A"><enum>(A)</enum><text>the term <term>covered action</term> means a risk, exposure, or hazard assessment, criteria document, standard, limitation, regulation, regulatory impact analysis, or guidance; and</text></subparagraph> <subparagraph id="H4DE62C4005E849C1955B9F8C89EE6E86"><enum>(B)</enum><text>the term <term>scientific and technical information</term> includes—</text> 
+<clause id="HE234508CBEF94B99B3FBC9224CC16A11"><enum>(i)</enum><text>materials, data, and associated protocols necessary to understand, assess, and extend conclusions;</text></clause> <clause id="H4B4B8A1A9A914B99B945D50E477CF45B"><enum>(ii)</enum><text>computer codes and models involved in the creation and analysis of such information;</text></clause> 
+<clause id="H761DF97F38044ED3A68E253341D32D8E"><enum>(iii)</enum><text>recorded factual materials; and</text></clause> <clause id="HA5B938DDA09049E5A1A4F3B696D990CE"><enum>(iv)</enum><text>detailed descriptions of how to access and use such information.</text></clause></subparagraph></paragraph> 
+<paragraph id="H97B77FB1D52748F18D89B503B291DF6C" indent="up1"><enum>(4)</enum><text display-inline="yes-display-inline">The Administrator shall carry out this subsection in a manner that does not exceed $1,000,000 per fiscal year, to be derived from amounts otherwise authorized to be appropriated.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body> <endorsement display="yes"> <action-date date="20150302">March 2, 2015</action-date> <action-desc>Committed to the Committee of the Whole House on the State of the Union and ordered to be printed</action-desc></endorsement> </bill> 
+

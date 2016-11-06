@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H018FD2F6ABC042E49337277AF7C6119F" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3787 IH: The Metropolitan Planning Enhancement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3787</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151021">October 21, 2015</action-date>
+			<action-desc><sponsor name-id="D000623">Mr. DeSaulnier</sponsor> (for himself, <cosponsor name-id="B001286">Mrs. Bustos</cosponsor>, and <cosponsor name-id="C001087">Mr. Crawford</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 23, United States Code, to improve public understanding of how transportation
+			 investments are made by public agencies through establishing greater
+			 transparency and accountability processes.</official-title>
+	</form>
+	<legis-body id="H1CF0DB4C2AB54376BA4F44B1B0ADDF0F" style="OLC">
+ <section id="HE9ABD7540AB0491FB781B53D2362269B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>The Metropolitan Planning Enhancement Act</short-title></quote>.</text> </section><section id="H3CB9DDF6D20B4581A1EC86B5CA5AF738"><enum>2.</enum><header>Metropolitan transportation planning</header> <subsection id="HD353C96F048942BA8D16042852EFC1B0"><enum>(a)</enum><header>Development of transportation plan</header><text>Section 134(i) of title 23, United States Code, is amended—</text>
+ <paragraph id="HBCDA9FA257C04242A0ECDDBDEBD07BDF"><enum>(1)</enum><text>by redesignating paragraphs (7) and (8) as paragraphs (8) and (9); and</text> </paragraph><paragraph id="H22998F0343054F75BF27F2D3AB1D406F"><enum>(2)</enum><text>by inserting after paragraph (6) the following:</text>
+					<quoted-block id="H63EC49DDF6CD440BA0FD4F36B04385CF" style="OLC">
+ <paragraph id="HFB1AB238E31B48589473429024DAC028"><enum>(7)</enum><header>Project selection transparency and accountability</header><text>Projects included in the adopted transportation plan shall be selected through a publicly available transparent process that includes use of criteria that directly support factors in subsection (h), the national transportation goals under section 150(b), and applicable State transportation goals. The criteria shall be used to publicly categorize the highest performing projects.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H1B94B1DA0BEB48C88315326A4C249852"><enum>(b)</enum><header>Metropolitan tip</header><text>Section 134(j)(2)(D) of title 23, United States Code is amended by adding after the period at the end the following:</text>
+				<quoted-block id="HAA4D4095395E47C284F0891E590D1813" style="OLC">
+ <text display-inline="no-display-inline">Projects included in the priority list shall come from the highest performing category of projects identified in the transportation plan under subsection (i)(7). If a lower-categorized project is included in the priority project list, a public description shall be included to explain why the lower-categorized project is included before a higher-categorized project, including geographic balance and projects in economically distressed areas.</text><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="HD3BA772B1A34419AABDD5D9285F78AB1"><enum>3.</enum><header>Statewide and nonmetropolitan transportation planning</header>
+ <subsection id="HFBA0C16D4CB849A4A9CDBC9BF24BF450"><enum>(a)</enum><header>Long-Range statewide transportation plan</header><text>Section 135(f) of title 23, United States Code, is amended—</text> <paragraph id="H497F3412792541EDA8CBDD7D5E7C34D9"><enum>(1)</enum><text>by redesignating paragraph (9) as paragraph (10); and</text>
+ </paragraph><paragraph id="H8BB06ED97C0F4967A54E49FE58807457"><enum>(2)</enum><text>by inserting after paragraph (8) the following:</text> <quoted-block id="H4E0FE1DF8883419F95B33276888E3318" style="OLC"> <paragraph id="HE4BBAD321ADE48B594ED0166DD040AC8"><enum>(9)</enum><header>Project selection transparency and accountability</header><text>Projects included in the adopted long-range statewide transportation plan shall be selected through a publicly available transparent process that includes use of criteria that directly support factors in subsection (d), the national transportation goals under section 150(b), and applicable State transportation goals. The criteria shall be used to publicly categorize the highest performing projects.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H7246AA84EB8E49C89D39EBDE833E7957"><enum>(b)</enum><header>Statewide transportation improvement plan</header><text>Section 135(g)(5)(A) of title 23, United States Code is amended by adding after the period at the end the following:</text>
+				<quoted-block id="HADF432828C764AAEB8D8D1D6AD0B583A" style="OLC">
+ <text display-inline="no-display-inline">Projects included in the transportation improvement program shall come from the highest performing category of projects identified in the transportation plan under subsection (f)(9). If a lower-categorized project is included in the priority project list, a public description shall be included to explain why the lower-categorized project is included before a higher-categorized project, including geographic balance and projects in economically distressed areas.</text><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="H75A29FE0B29349849CECDBD9E5B7B93A"><enum>4.</enum><header>Metropolitan transportation planning</header>
+ <subsection id="H8C15A076E1CC404EA1C611DFA9168FA1"><enum>(a)</enum><header>Development of transportation plan</header><text>Section 5303(i) of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/53">chapter 53</external-xref> of title 49, United States Code, is amended—</text> <paragraph id="H01B682F827F54AA8B091E3A68A95B946"><enum>(1)</enum><text>by redesignating paragraphs (7) and (8) as paragraphs (8) and (9); and</text>
+ </paragraph><paragraph id="H381ED504609B41229473167C9AFF3B90"><enum>(2)</enum><text>by inserting after paragraph (6) the following:</text> <quoted-block id="HC5F76001012C4D85B17E5337980EF339" style="OLC"> <paragraph id="H2FD59BEFC2D0413BB01A66E02773747C"><enum>(7)</enum><header>Project selection transparency and accountability</header><text>Projects included in the adopted transportation plan shall be selected through a publicly available transparent process that includes use of criteria that directly support factors in subsection (h), the national transportation goals under section 150(b), and applicable State transportation goals. The criteria shall be used to publicly categorize the highest performing projects.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H8605ABA95933475F8D3B0A1E1B47ED8F"><enum>(b)</enum><header>Metropolitan tip</header><text>Section 5303 (j)(2)(D) of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/53">chapter 53</external-xref> of title 49, United States Code is amended by adding after the period at the end the following:</text>
+				<quoted-block id="H09D088824BAB4136B7ECADAA65BDB97C" style="OLC">
+ <text display-inline="no-display-inline">Projects included in the priority list shall come from the highest performing category of projects identified in the transportation plan under subsection (i)(7). If a lower-categorized project is included in the priority project list, a public description shall be included to explain why the lower-categorized project is included before a higher-categorized project, including geographic balance and projects in economically distressed areas.</text><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="H5B742DD1EF0E4E12BDFD00731FE82A53"><enum>5.</enum><header>Statewide and nonmetropolitan transportation planning</header>
+ <subsection id="H8A9EE67184464278876726E962C79182"><enum>(a)</enum><header>Long-Range statewide transportation plan</header><text>Section 5304(f) of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/53">chapter 53</external-xref> of title 49, United States Code, is amended—</text> <paragraph id="HAA6BBC5F5D0C4922ADE75FD7CB99D8C2"><enum>(1)</enum><text>by redesignating paragraph (9) as paragraph (10); and</text>
+ </paragraph><paragraph id="HD1AEABBEB909438E9246AE780547E979"><enum>(2)</enum><text>by inserting after paragraph (8) the following:</text> <quoted-block id="H84B2AFA8767C4CEFB791B0E899495E8C" style="OLC"> <paragraph id="HA5910E70BAD74F78BA527B6A3640422E"><enum>(9)</enum><header>Project selection transparency and accountability</header><text>Projects included in the adopted long-range statewide transportation plan shall be selected through a publicly available transparent process that includes use of criteria that directly support factors in subsection (d), the national transportation goals under section 150(b), and applicable State transportation goals. The criteria shall be used to publicly categorize the highest performing projects.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H71F32BE42A39407084D9AABA33D58F01"><enum>(b)</enum><header>Statewide transportation improvement plan</header><text>Section 5304(g)(5)(A) of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/53">chapter 53</external-xref> of title 49, United States Code, is amended by adding after the period at the end the following:</text>
+				<quoted-block id="HD581BB5BCEA64A3EBDE6153AD65CF96D" style="OLC">
+ <text display-inline="no-display-inline">Projects included in the statewide transportation improvement program shall come from the highest performing category of projects identified in the transportation plan under subsection (f)(9). If a lower-categorized project is included in the priority project list, a public description shall be included to explain why the lower-categorized project is included before a higher-categorized project, including geographic balance and projects in economically distresses areas.</text><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2092 IS: To amend the Internal Revenue Code of 1986 to exempt amounts paid for aircraft management services from the excise taxes imposed on transportation by air.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-09-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2092</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150929">September 29, 2015</action-date>
+			<action-desc><sponsor name-id="S307">Mr. Brown</sponsor> (for himself and <cosponsor name-id="S349">Mr. Portman</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to exempt amounts paid for aircraft management services
+			 from the excise taxes imposed on transportation by air.</official-title>
+	</form>
+	<legis-body>
+		<section id="H088FB5871F5041E8BEA59F6599B9CAB6" section-type="section-one"><enum>1.</enum><header>Amounts paid for aircraft management services</header>
+ <subsection id="H945079A137404AD5A35D49A3F2B7AEA4"><enum>(a)</enum><header>In general</header><text>Subsection (e) of <external-xref legal-doc="usc" parsable-cite="usc/26/4261">section 4261</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+				<quoted-block id="H1985A70C323640ECB50494C1AD19316A" style="OLC">
+					<paragraph id="H3C345B93E72F4D30BC6810B9A123913D"><enum>(5)</enum><header>Amounts paid for aircraft management services</header>
+ <subparagraph id="HDE4E479ED543401C8C9DB3068BB94A2D"><enum>(A)</enum><header>In general</header><text>No tax shall be imposed by this section or section 4271 on any amounts paid by an aircraft owner for aircraft management services related to—</text>
+ <clause id="H6C7447BF00404C368AE3BB814ECE4BAD"><enum>(i)</enum><text>maintenance and support of the aircraft owner’s aircraft; or</text> </clause><clause id="HA7ECAB32AD764F9F99CBABDB3A8FC0DF"><enum>(ii)</enum><text>flights on the aircraft owner’s aircraft.</text>
+ </clause></subparagraph><subparagraph id="H08822B295DA94E37B6374573EB610A01"><enum>(B)</enum><header>Aircraft management services</header><text>For purposes of subparagraph (A), the term <term>aircraft management services</term> includes assisting an aircraft owner with administrative and support services, such as scheduling, flight planning, and weather forecasting; obtaining insurance; maintenance, storage and fueling of aircraft; hiring, training, and provision of pilots and crew; establishing and complying with safety standards; or such other services necessary to support flights operated by an aircraft owner.</text>
+						</subparagraph><subparagraph id="H0F2C5D13F86E443085575EB6138C738B"><enum>(C)</enum><header>Lessee treated as aircraft owner</header>
+ <clause id="HAAECE6B0640D47879C94164256F976E3"><enum>(i)</enum><header>In general</header><text>For purposes of this paragraph, the term <term>aircraft owner</term> includes a person who leases the aircraft other than under a disqualified lease.</text> </clause><clause id="HF325620F48564231BB26B6F2A2D8ED60"><enum>(ii)</enum><header>Disqualified lease</header><text>For purposes of clause (i), the term <term>disqualified lease</term> means a lease from a person providing aircraft management services with respect to such aircraft (or a related person (within the meaning of section 465(b)(3)(C)) to the person providing such services), if such lease is for a term of 31 days or less.</text>
+ </clause></subparagraph><subparagraph id="H582A105ABD864E7DA7980CB77B7F3B5C"><enum>(D)</enum><header>Pro rata allocation</header><text>If any amount paid to a person represents in part an amount paid for services not described in subparagraph (A), the tax imposed by subsection (a), if applicable to such amount, shall be applied to such payment on a pro rata basis.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="HD86646F84DEE460C9D2543503B55C6E7"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to amounts paid beginning after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

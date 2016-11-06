@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H43F3311D380E407EBF72E4520BED7C10" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2389 IH: To amend the Internal Revenue Code of 1986 to provide a limitation on certain aliens from claiming the earned income tax credit.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2389</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150515">May 15, 2015</action-date>
+			<action-desc><sponsor name-id="Y000066">Mr. Young of Iowa</sponsor> (for himself, <cosponsor name-id="L000566">Mr. Latta</cosponsor>, <cosponsor name-id="M001189">Mr. Messer</cosponsor>, <cosponsor name-id="G000576">Mr. Grothman</cosponsor>, and <cosponsor name-id="S000244">Mr. Sensenbrenner</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to provide a limitation on certain aliens from claiming
+			 the earned income tax credit.</official-title>
+	</form>
+	<legis-body id="HB2A4BB5D6B2E4AB59ED0462D7BA32EB5" style="OLC">
+		<section id="H47E46998BDF642FAAD4B080799100875" section-type="section-one"><enum>1.</enum><header>Limitation on certain aliens claiming earned income tax credit</header>
+ <subsection id="H85371C070EFA47379B307E01E451FE04"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/32">Section 32(c)(1)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H4324E811A7834EEBABEAB8E7532281AA" style="OLC">
+					<subparagraph id="H84F98A76520748EBB66B213AC1F19787"><enum>(G)</enum><header>Prohibition on retroactive credit for certain immigrants</header>
+ <clause id="H73D5FE5EF59E41E5B1BE9E3018F54B04"><enum>(i)</enum><header>In general</header><text>In the case of any alien described in clause (iii), no credit shall be allowed under this section for the taxable year in which such alien was granted deferred action described in such clause or for any taxable year prior to such year unless such alien—</text>
+ <subclause id="HA6A51CDC830D44C181354142DA9246D6"><enum>(I)</enum><text>was an eligible individual for the taxable year, and</text> </subclause><subclause id="HDD05771F4B1344EEBD1007C62054D7C3"><enum>(II)</enum><text>was authorized to engage in employment in the United States for the entire taxable year.</text>
+ </subclause></clause><clause id="H5AE7266B73EC47829A344A4F97023EC8"><enum>(ii)</enum><header>Married individuals</header><text>In the case of an eligible individual who is married (within the meaning of section 7703) to an alien described in clause (iii), no credit shall be allowed under this section for any taxable year—</text>
+ <subclause id="H3B7396A9D9474E6F90B83AAA8093778F"><enum>(I)</enum><text>in which such alien was married (within the meaning of section 7703) to the eligible individual, and</text>
+ </subclause><subclause id="HB64D1F5C13FB4095BC229377FA18C161"><enum>(II)</enum><text>which includes or was prior to the date on which such alien was granted deferred action described in such clause,</text>
+							</subclause><continuation-text continuation-text-level="clause">unless such alien was authorized to engage in employment in the United States for the entire
+ taxable year.</continuation-text></clause><clause id="H4CE7FDF16A864095A7E40AAF18C40F77"><enum>(iii)</enum><header>Alien described</header><text>An alien is described in this clause if such alien is granted deferred action pursuant to the memorandum from the Secretary of Homeland Security entitled <quote>Exercising Prosecutorial Discretion with Respect to Individuals Who Came to the United States as Children and with Respect to Certain Individuals Who Are the Parents of U.S. Citizens or Permanent Residents</quote> dated November 20, 2014 (or any substantially similar policy changes issued or taken on or after the date of the enactment of this clause, whether set forth in memorandum, Executive order, regulation, directive, or by other action).</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H94F448A6802A49558A8E1427ED1570B6"><enum>(b)</enum><header>Qualifying children</header><text>Section 32(c)(3)(D) of such Code is amended by redesignating clause (ii) as clause (iii) and by inserting after clause (i) the following new clause:</text>
+				<quoted-block display-inline="no-display-inline" id="H71ED82799E43462DB89BE3394925B62B" style="OLC">
+ <clause id="HD868B9FC4634462F9ABE10CAFDF9E0B0"><enum>(ii)</enum><header>Prior years</header><text>In the case of an alien described in paragraph (1)(G)(iii), such alien shall not be taken into account as a qualifying child under subsection (b) for any taxable year in which such alien was granted deferred action described in such paragraph, or for any taxable year prior to such year, unless such alien was authorized to engage in employment in the United States for the entire taxable year.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H32776EE0FCD74F10A80574BA4F7E618C"><enum>(c)</enum><header>Information sharing</header>
+				<paragraph id="H19C6BFDC584046C4A81A69B76FD8B134"><enum>(1)</enum><header>Commissioner of Social Security</header>
+ <subparagraph id="HB0711397323D4428B9DFD51C92AF7699"><enum>(A)</enum><header>In general</header><text>The Commissioner of Social Security (referred to in this subsection as the <term>Commissioner</term>) shall provide to the Secretary of Treasury (or the Secretary’s delegate) the information described in subparagraph (B) with respect to any alien who—</text>
+ <clause id="H06B609B12BF74AF9BD87A880020A1D27"><enum>(i)</enum><text>is granted deferred action pursuant to the memorandum from the Secretary of Homeland Security entitled <quote>Exercising Prosecutorial Discretion with Respect to Individuals Who Came to the United States as Children and with Respect to Certain Individuals Who Are the Parents of U.S. Citizens or Permanent Residents</quote> dated November 20, 2014 (or any substantially similar policy changes issued or taken on or after the date of the enactment of this clause, whether set forth in memorandum, Executive order, regulation, directive, or by other action), and</text>
+ </clause><clause id="H03BA077177244A56AF8FB82A21A8317E"><enum>(ii)</enum><text>has been assigned a social security account number by the Commissioner.</text> </clause></subparagraph><subparagraph id="HD3EECA421BE644D5B959320D8AA6F87A"><enum>(B)</enum><header>Information provided</header><text>The information described in this subparagraph is—</text>
+ <clause id="H1F9AB17B409E4504B806911094044B6E"><enum>(i)</enum><text>the name and social security account number of any individual described in subparagraph (A),</text> </clause><clause id="H9AE23280B2894B4BB12BCC64C2E1B329"><enum>(ii)</enum><text>the date such social security account number was issued by the Commissioner, and</text>
+ </clause><clause id="HDC05618FA2024337B66718A7D8C0CF5C"><enum>(iii)</enum><text>such other information as determined by the Commissioner, in consultation with the Secretary of the Treasury, to be necessary to carry out the amendments made by subsections (a) and (b).</text>
+ </clause></subparagraph></paragraph><paragraph id="H04AF044EED26441B8287A9BE0BD87010"><enum>(2)</enum><header>Secretary of Homeland Security</header><text>The Secretary of Homeland Security shall provide to the Commissioner of Social Security such information as is necessary to assist the Commissioner in carrying out the requirements of paragraph (1).</text>
+ </paragraph></subsection><subsection id="H2E55670DC9174C838E934D928917A05D"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2014.</text> </subsection></section></legis-body> </bill> 
+

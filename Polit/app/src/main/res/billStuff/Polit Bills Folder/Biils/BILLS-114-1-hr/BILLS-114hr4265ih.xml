@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9BC88783E6E34A5DB1872FFA704AC849" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4265 IH: Clean Air Implementation Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4265</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151216">December 16, 2015</action-date>
+			<action-desc><sponsor name-id="O000168">Mr. Olson</sponsor> (for himself, <cosponsor name-id="L000566">Mr. Latta</cosponsor>, <cosponsor name-id="C001063">Mr. Cuellar</cosponsor>, and <cosponsor name-id="K000368">Mrs. Kirkpatrick</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Clean Air Act with respect to national ambient air quality standards, including the
+			 2015 ozone standards, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H0B9EF0CC5DD446B8A1568A9B65593635" style="OLC">
+ <section id="H3AC2EC4D395E48AB803834270E259231" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Clean Air Implementation Act of 2015</short-title></quote>.</text> </section><section id="H20CD9C2D263941FAB0A0A67843F5F14D"><enum>2.</enum><header>Table of contents</header><text display-inline="no-display-inline">The table of contents of this Act is as follows:</text>
+			<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+				<toc-entry idref="H3AC2EC4D395E48AB803834270E259231" level="section">Sec. 1. Short title.</toc-entry>
+				<toc-entry idref="H20CD9C2D263941FAB0A0A67843F5F14D" level="section">Sec. 2. Table of contents.</toc-entry>
+				<toc-entry idref="H953D1F2BFB90493787D470B4E5979C2E" level="section">Sec. 3. Timeline for review of national ambient air quality standards.</toc-entry>
+				<toc-entry idref="H0D3C1A043F894F3F9907DAA6B55198B0" level="section">Sec. 4. Consideration of technological feasibility.</toc-entry>
+				<toc-entry idref="HC320B79829B64043BA3CF113D5C85A94" level="section">Sec. 5. Emissions emanating from outside of the United States.</toc-entry>
+			</toc>
+ </section><section id="H953D1F2BFB90493787D470B4E5979C2E"><enum>3.</enum><header>Timeline for review of national ambient air quality standards</header><text display-inline="no-display-inline">Section 109(d) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7409">42 U.S.C. 7409(d)</external-xref>) is amended—</text> <paragraph id="H06DEED1F9154494EA44A5A01F242D4A7"><enum>(1)</enum><text>in paragraphs (1) and (2)(B), by striking <quote>at five-year intervals</quote> each place it appears and inserting <quote>at 8-year intervals</quote>;</text>
+ </paragraph><paragraph id="H83BF005F3A2C4082BDF625EC49EF8A23"><enum>(2)</enum><text>in paragraph (1), by striking the last sentence; and</text> </paragraph><paragraph id="H4EFD59AC487344189B1459B516B9592D"><enum>(3)</enum><text>by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H7D505EDA0FCB48E69F279786D3711658" style="OLC">
+ <paragraph id="HB9CC9BBE2906438DBD635937C2787B32" indent="up1"><enum>(3)</enum><text>Whenever the national ambient air quality standard for an air pollutant is revised pursuant to this subsection, the next 8-year interval for such air pollutant under paragraphs (1) and (2)(B) shall be calculated beginning on the date of finalization of such revised standard.</text>
+ </paragraph><paragraph id="H30E5BE9266884CE3B5894880363B16EF" indent="up1"><enum>(4)</enum><text display-inline="yes-display-inline">The Administrator, in consultation with relevant State air quality officials, may review and revise criteria or promulgate new standards earlier or more frequently than required under paragraph (1).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></section><section id="H0D3C1A043F894F3F9907DAA6B55198B0"><enum>4.</enum><header>Consideration of technological feasibility</header><text display-inline="no-display-inline">Section 109(b)(1) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7409">42 U.S.C. 7409(b)(1)</external-xref>) is amended by inserting after the first sentence the following: <quote>If the Administrator, in consultation with the independent scientific review committee under subsection (d), finds that a range of levels of air quality for an air pollutant are requisite to protect human health with an adequate margin of safety, as described in the preceding sentence, the Administrator may consider, as a secondary consideration, likely technological feasibility in establishing and revising the national primary ambient air quality standard for such pollutant.</quote>.</text>
+		</section><section id="HC320B79829B64043BA3CF113D5C85A94"><enum>5.</enum><header>Emissions emanating from outside of the United States</header>
+ <subsection id="H4812BE165E594D5EAEFD884124C644D5"><enum>(a)</enum><header>Consideration of State petitions</header><text display-inline="yes-display-inline">Section 179B of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7509a">42 U.S.C. 7509a</external-xref>) is amended—</text> <paragraph id="HEC402FDF164D462EBEEEEFB6C9C02B05"><enum>(1)</enum><text>by redesignating subsections (b) through (d) as (c) through (e), respectively; and</text>
+ </paragraph><paragraph id="HB53158A115244D84B144EF9C6CBBDF9B"><enum>(2)</enum><text>by inserting after subsection (a) the following:</text> <quoted-block display-inline="no-display-inline" id="HC86D2DA0B68D4FB8A85856174F3F36CB" style="OLC"> <subsection id="H509D19F35F3D44219AE70C273446DA40"><enum>(b)</enum><header>Balance of evidence</header><text display-inline="yes-display-inline">If a State submits a petition to demonstrate that the standard described in (a)(2) or (c) is met, the Administrator shall consider such petition to be approvable if the preponderance of the evidence indicates that such standard is satisfied.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H92F9712198134AE4AC7A0C3C02781E4B"><enum>(b)</enum><header>Report to Congress</header><text display-inline="yes-display-inline">Not later than 24 months after the date of enactment of this Act, the Administrator of the Environmental Protection Agency, in coordination with the National Academy of Science, shall submit a report to the Congress on—</text>
+ <paragraph id="H07EBADD626BB4578BA22A0A811381E53"><enum>(1)</enum><text>the extent to which foreign sources of air pollution impact achievement and maintenance of national ambient air quality standards under the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7401">42 U.S.C. 7401 et seq.</external-xref>); and</text>
+ </paragraph><paragraph id="HD1D556AEC67947A08BE294F73784A15C"><enum>(2)</enum><text>the extent to which such Act successfully takes such impact into account.</text> </paragraph></subsection><subsection id="H416613682DFD43E981531B51E7540D39"><enum>(c)</enum><header>Suspension of 2015 ozone standards</header> <paragraph id="H95132685800942DB8B673D398F649304"><enum>(1)</enum><header>In general</header><text>The Administrator of the Environmental Protection Agency shall—</text>
+ <subparagraph id="H2CCE9D36350A412692B482EC0FFA0DE9"><enum>(A)</enum><text>suspend the application and implementation of the 2015 ozone standards until the date on which the report required by subsection (b) is submitted to the Congress; and</text>
+ </subparagraph><subparagraph id="H307E6D6B766943A38A6C4D9DDFE9A923"><enum>(B)</enum><text>extend each deadline in the rule cited in paragraph (2) for a period equal to the period beginning on the date of enactment of this Act and ending on the date on which the report required by subsection (b) is submitted to the Congress.</text>
+ </subparagraph></paragraph><paragraph id="H38AC4C4581CD48E481A9AB808D40AFFC"><enum>(2)</enum><header>Definition</header><text display-inline="yes-display-inline">In this subsection, the term <term>2015 ozone standards</term> means the national ambient air quality standards for ozone published in the rule entitled <quote>National Ambient Air Quality Standards for Ozone</quote> published in the Federal Register on October 26, 2015 (80 Fed. Reg. 65292).</text> </paragraph></subsection></section></legis-body> </bill> 
+

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2D4DA962B6AE419F8F5BF8AA2E4FA11F" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2031 IH: Anti-Swatting Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2031</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150427">April 27, 2015</action-date> 
+<action-desc><sponsor name-id="E000179">Mr. Engel</sponsor> (for himself, <cosponsor name-id="D000616">Mr. DesJarlais</cosponsor>, <cosponsor name-id="C001101">Ms. Clark of Massachusetts</cosponsor>, and <cosponsor name-id="R000578">Mr. Reichert</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on the <committee-name committee-id="HJU00">Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Communications Act of 1934 to provide for enhanced penalties for the transmission of misleading or inaccurate caller identification information with the intent to trigger a response by a law enforcement agency.</official-title> 
+</form> 
+<legis-body id="H504DB3B91E0C411385EEC704874A06D7" style="OLC"> 
+<section id="HC3427DBC4DB34F458B25CD083BFA2987" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Anti-Swatting Act of 2015</short-title></quote>. </text></section> <section id="HFE18D619EACA423A9829A9B5446CC70F"><enum>2.</enum><header>Transmission of misleading or inaccurate caller ID information with intent to trigger law enforcement response</header><text display-inline="no-display-inline">Section 227(e)(5) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/227">47 U.S.C. 227(e)(5)</external-xref>) is amended—</text> 
+<paragraph id="HDAF9018F829D4E76AE526484DE115270"><enum>(1)</enum><text>in subparagraph (B), by striking <quote>Any person</quote> and inserting <quote>Except as provided in subparagraph (C), any person</quote>; and</text></paragraph> <paragraph id="HA6C043EB08F14B64A2B3CFFB49753B18"><enum>(2)</enum><text>by adding at the end the following:</text> 
+<quoted-block style="OLC" id="H8367537CC1AA453794132053B6ED40C6" display-inline="no-display-inline"> 
+<subparagraph id="HC813C3328D13415D8C18A928908B7B38"><enum>(C)</enum><header>Enhanced penalties for violation with intent to trigger law enforcement response</header> 
+<clause id="HC8B6B178E2AE4C4482C6E11054471D24"><enum>(i)</enum><header>Criminal violation</header><text display-inline="yes-display-inline">Any person who violates this subsection with the intent to trigger a response by a law enforcement agency in the absence of circumstances requiring such a response shall—</text> <subclause id="H0F947E4FF1834FE0819D7F01CFF5C8C0"><enum>(I)</enum><text display-inline="yes-display-inline">be fined under title 18, United States Code, or imprisoned not more than 5 years, or both; or</text></subclause> 
+<subclause id="H127A86EC688B4346988C32E798790B2B"><enum>(II)</enum><text display-inline="yes-display-inline">if serious bodily injury results, be fined under title 18, United States Code, or imprisoned not more than 20 years, or both.</text></subclause></clause> <clause id="HCAB8DE975C2249C29959FD44FBFF1099"> <enum>(ii)</enum> <header>Reimbursement</header> <subclause id="H675D7D46FE994AF993DEDE169915F066"> <enum>(I)</enum> <header>In general</header> <text display-inline="yes-display-inline">The court, in imposing a sentence on a defendant who has been convicted of an offense under clause (i), shall order the defendant to reimburse any entity described in subclause (II) that incurs expenses in making or incident to the response described in clause (i) for such expenses.</text></subclause> 
+<subclause id="H9762C4A97C1C48F69B5D63C024058710"><enum>(II)</enum><header>Entity described</header><text>An entity is described in this subclause if the entity is—</text> <item id="H0FD21CBFB2454234BD8EEA8E66BCC7AA"><enum>(aa)</enum><text display-inline="yes-display-inline">a law enforcement agency of the United States, a State, or a political subdivision of a State; or</text></item> 
+<item id="H010035123C96436FAB2C141F9C92D11C"><enum>(bb)</enum><text display-inline="yes-display-inline">an agency of the United States, a State, or a political subdivision of a State, or a private not-for-profit organization, that provides fire, rescue, or emergency medical services.</text> </item></subclause> <subclause id="HA5D782C825A84560B80D9032A97F2FAA"> <enum>(III)</enum> <header>Liability</header> <text>A person ordered to make reimbursement under this clause shall be jointly and severally liable for such expenses with each other person, if any, who is ordered to make reimbursement under this clause for the same expenses.</text> </subclause> 
+<subclause id="H299BF40721654E4FB6859ADB9F3DBC36"> <enum>(IV)</enum> <header>Civil judgment</header> <text>An order of reimbursement under this clause shall, for the purposes of enforcement, be treated as a civil judgment.</text> </subclause> </clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> </legis-body> </bill> 
+

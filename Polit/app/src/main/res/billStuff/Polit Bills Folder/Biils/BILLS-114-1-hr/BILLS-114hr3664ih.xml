@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8B3CB8F916704A37B8B38B3F82F96A18" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3664 IH: Promoting Good Cyber Hygiene Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3664</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151001">October 1, 2015</action-date>
+			<action-desc><sponsor name-id="E000215">Ms. Eshoo</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HSY00">Committee on Science, Space, and Technology</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for the identification and documentation of best practices for cyber hygiene by the
+			 National Institute of Standards and Technology, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HCF911242315B4900BE9F512BF8CAADB4" style="OLC">
+ <section id="H11246ECE877C442D9754F69BFE1E4A11" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Promoting Good Cyber Hygiene Act of 2015</short-title></quote>.</text> </section><section id="HA14729D6931242DFA098CBA7FD383D47"><enum>2.</enum><header>Cyber hygiene best practices</header> <subsection id="HE69B241564AB4C60A35CB097152732B9"><enum>(a)</enum><header>Establishment</header><text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, the National Institute of Standards and Technology, in consultation with the Federal Trade Commission and the Department of Homeland Security, after notice and an opportunity for public comment, shall establish a list of best practices for effective and usable cyber hygiene for use by the Federal Government, the private sector, and any individual or organization utilizing an information system or device. Such list shall—</text>
+ <paragraph id="HAD924A597235485A87B666C3EDACC639"><enum>(1)</enum><text>be a list of simple, basic controls that have the most impact in defending against common cybersecurity threats and risks;</text>
+ </paragraph><paragraph id="H08E143FAB4904D0794B813891B0110B4"><enum>(2)</enum><text display-inline="yes-display-inline">utilize technologies that are commercial off-the-shelf and based on international standards; and</text> </paragraph><paragraph id="HE52971A23BA9479F86F05F2388FE4D59"><enum>(3)</enum><text>be based on the Cybersecurity Framework contained in Executive Order 13636, entitled Improving Critical Infrastructure Cybersecurity, issued in February 2013.</text>
+ </paragraph></subsection><subsection id="H15F1CC828CF6413EBAF6749946BD8241"><enum>(b)</enum><header>Voluntary practices</header><text display-inline="yes-display-inline">The best practices on the list established under this section shall be considered voluntary and are not intended to be construed as a list of mandatory actions.</text>
+ </subsection><subsection id="HD5C06A0949FB47FD80118A3792DD201E"><enum>(c)</enum><header>Baseline</header><text display-inline="yes-display-inline">The best practices on the list established under this section are intended as a baseline for the Federal Government, the private sector, and any individual or organization utilizing an information system or device. Such entities are encouraged to use and improve on those best practices.</text>
+ </subsection><subsection id="HAD1F64CB3EB6421EBB40F46DB1AB0D9E"><enum>(d)</enum><header>Updates</header><text display-inline="yes-display-inline">The National Institute of Standards and Technology shall review and update the list of best practices established under this section on an annual basis.</text>
+ </subsection><subsection id="H85A8F1EF4238494E9ABD7F23A6B79164"><enum>(e)</enum><header>Public availability</header><text display-inline="yes-display-inline">The list of best practices established under this section shall be published in a clear and concise format and made available prominently on the public websites of the Federal Trade Commission and the Small Business Administration.</text>
+ </subsection><subsection id="H79DFBF182DFF42B787CCD0930C100764"><enum>(f)</enum><header>Other Federal cybersecurity requirements</header><text>Nothing in this section shall be construed to supersede, alter, or otherwise affect any cybersecurity requirements applicable to Federal agencies.</text>
+			</subsection><subsection id="H1CA37D392844472B896BAEDEA703C135"><enum>(g)</enum><header>Emerging concepts To provide effective cyber hygiene</header>
+ <paragraph id="H14694F272E6B4D49AEFF8D487F21BCA8"><enum>(1)</enum><header>Study</header><text display-inline="yes-display-inline">The Secretary of Homeland Security, in coordination with the National Institute of Standards and Technology and the Federal Trade Commission, shall conduct a study on cybersecurity threats relating to mobile devices.</text>
+ </paragraph><paragraph id="HA82B8E0D54D84B8CBB120526BD06B067"><enum>(2)</enum><header>Matters studied</header><text>As part of the study required under this subsection, the Secretary shall—</text> <subparagraph id="HE24F48FC166345FC9490247C6E2F78F8"><enum>(A)</enum><text>assess threats relating to mobile devices;</text>
+ </subparagraph><subparagraph id="HDC724F268B0D4587AABA17BBA71D7F7E"><enum>(B)</enum><text>assess the effect such threats may have on the cybersecurity of the information systems and networks of the Federal Government (except for the information systems and networks of the Department of Defense and the Intelligence Community); and</text>
+ </subparagraph><subparagraph id="H442F7C4EFD34442795721E8B8B39FECA"><enum>(C)</enum><text>develop recommendations for addressing such threats.</text> </subparagraph></paragraph><paragraph id="H21948358880F45A0BB84D854902DAAA5"><enum>(3)</enum><header>Report to Congress</header><text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, the Secretary shall—</text>
+ <subparagraph id="HB3EF4B39D7164B38B2C55894AFE97294"><enum>(A)</enum><text>complete the study under this subsection; and</text> </subparagraph><subparagraph id="H171EFBC6729D459E82BB22E0173996F8"><enum>(B)</enum><text>submit a report to Congress that contains the findings of such study and the recommendations developed.</text>
+ </subparagraph></paragraph></subsection><subsection id="H75A8BABCC64547C88983EBDCB52FAABC"><enum>(h)</enum><header>Definition</header><text display-inline="yes-display-inline">In this section, the term <quote>cyber hygiene</quote> means processes, procedures, and mechanisms that help protect information systems or devices against cybersecurity threats, including—</text>
+ <paragraph id="HDAEA28B9B5D94FA9A965B09492EA69B5"><enum>(1)</enum><text>unauthorized access;</text> </paragraph><paragraph id="H1A77E21B7C0C4A6E960EAA866B3AD56B"><enum>(2)</enum><text>alteration of information or code running or intended to be running on such systems or devices; and</text>
+ </paragraph><paragraph id="H455BBC2B9FA6497D948ACA0AEBBC5DEE"><enum>(3)</enum><text>unauthorized denials of service to authorized users of these systems or devices.</text> </paragraph></subsection></section></legis-body> </bill> 
+

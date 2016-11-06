@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2DFE0CB032664A4290C04DA1918F0EB2" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 791 IH: Cell Phone Freedom Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 791</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150205">February 5, 2015</action-date> 
+<action-desc><sponsor name-id="G000568">Mr. Griffith</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To prohibit the unauthorized remote shut down of a cellular phone.</official-title> 
+</form> 
+<legis-body id="H89E39BCE85354F71B964FA74669C2DAF" style="OLC"> 
+<section id="H5BA48AE0A35F4380AAD2672721B9A806" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Cell Phone Freedom Act of 2015</short-title></quote>.</text></section> <section id="H909DE0C7AF6443448FC7A93BD35C10B3"><enum>2.</enum><header>Unauthorized remote shutdown of a mobile device</header> <subsection id="H43C64BDACFFC45B79C5B338DD4761ECB"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/13">Chapter 13</external-xref> of title 18, United States Code, is amended by adding at the end the following:</text>
+<quoted-block display-inline="no-display-inline" id="H307215CB40D0445F906C9F6B268EB96D" style="USC">
+<section id="H0CDCEB820AC14DA688BD7877130E81FE"><enum>250.</enum><header>Unauthorized remote shutdown of a mobile device</header>
+<subsection id="H1B60B7D8E9F34630A87494187AF90C6E"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Whoever, being an officer or employee of the United States, any State, Territory, Commonwealth, Possession, or District, or of any department or agency thereof, knowingly causes a mobile device phone to be shut down without the consent of the owner or account holder of that mobile device phone or without the order of a court authorizing such shut down shall be imprisoned not more than 5 years or fined under this title, or both, and shall be removed from such office or employment.</text></subsection> <subsection id="H658EBFAD5445492680120C93326873B0"><enum>(b)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section—</text>
+<paragraph id="H92D64C0BE742430FB8845CD763EF7E22"><enum>(1)</enum><text>the term <quote>account holder</quote>, with respect to a mobile device—</text> <subparagraph id="H37FD5CA66524440BA97C864B393F6225"><enum>(A)</enum><text>means the person who holds the account through which commercial mobile service or commercial mobile data service is provided on the device; and</text></subparagraph>
+<subparagraph id="H1811B61068DC4A35B0DFC2916D0D302F"><enum>(B)</enum><text>includes a person authorized by the person described in subparagraph (A) to take actions with respect to the device;</text></subparagraph></paragraph> <paragraph id="H7857077379124C868B5182BFF87A06A6"><enum>(2)</enum><text display-inline="yes-display-inline">the term <quote>commercial mobile data service</quote> means any mobile service (as defined in Section 3 of the Communications Act of 1934) that is—</text>
+<subparagraph id="HBF78484C9222402FA058E8DD27A99B46"><enum>(A)</enum><text>a data service;</text></subparagraph> <subparagraph id="H5A2CC45E51A54CA4813E53F2E004A85D"><enum>(B)</enum><text display-inline="yes-display-inline">provided for profit; and</text></subparagraph>
+<subparagraph id="HDB47B0FDB8B345D486F318CE9469FDBE"><enum>(C)</enum><text display-inline="yes-display-inline">available to the public or such classes of eligible users as to be effectively available to a substantial portion of the public, as specified by regulation by the Commission;</text></subparagraph></paragraph> <paragraph id="HAB71C881006048E28F90A6B60ACAD4B8"><enum>(3)</enum><text>the term <quote>commercial mobile service</quote> has the meaning given the term in section 332 of Communications Act of 1934;</text></paragraph>
+<paragraph id="HAEE0FB2ECEBB467998A6D0DB4B6E8F5A"><enum>(4)</enum><text>the term <quote>mobile device</quote> means a personal electronic device on which commercial mobile service or commercial mobile data service is provided; and</text></paragraph> <paragraph id="HD6400FD763264A82BFA2C9FF5B8A5900"><enum>(5)</enum><text>the term <quote>shut down</quote> means to make use of a hardware or software function to remotely—</text>
+<subparagraph id="HBECEF703B281433495013D73884A5DFB"><enum>(A)</enum><text>delete or render inaccessible from the device all information relating to the account holder that has been placed on the device;</text></subparagraph> <subparagraph id="H7F25E4781948441BA8A4FE2E792B2C94"><enum>(B)</enum><text>render the device inoperable on the network of any provider of commercial mobile service or commercial mobile data service globally, even if the device is turned off or has the data storage medium removed;</text></subparagraph>
+<subparagraph id="HF2D1DAB26CBF4E15BCE64A30B902A3EA"><enum>(C)</enum><text>prevent the device from being reactivated or reprogrammed without a passcode or similar authorization after the device has been—</text> <clause id="HB7E27265675643ECB08D935C6C4262C0"><enum>(i)</enum><text>rendered inoperable as described in subparagraph (B); or</text></clause>
+<clause id="H2F135423690D4E41B1AF6A532D79E702"><enum>(ii)</enum><text>subject to an unauthorized factory reset; and</text></clause></subparagraph> <subparagraph id="H868E4B0D18F84734BBBAD02664792DEC"><enum>(D)</enum><text>reverse any action described in subparagraph (A), (B), or (C) if the device is recovered by the account holder.</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="H8B41ECBB7AB1400EA627CE7AE37713ED"><enum>(b)</enum><header>Clerical amendment</header><text display-inline="yes-display-inline">The table of sections for such chapter is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H32FFC55712F646A1AACA2ECDE32E9191" style="USC"> <toc regeneration="no-regeneration"> <toc-entry level="section">250. Unauthorized remote shutdown of a mobile device.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> </legis-body> </bill> 
+

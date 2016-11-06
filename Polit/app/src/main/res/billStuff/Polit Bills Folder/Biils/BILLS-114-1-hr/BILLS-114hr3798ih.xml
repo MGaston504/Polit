@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H13496EDBD17342CD9BBEF7A85E7EF9D5" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3798 IH: Due Process Restoration Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3798</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151022">October 22, 2015</action-date>
+			<action-desc><sponsor name-id="G000548">Mr. Garrett</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Securities Exchange Act of 1934 to permit private persons to compel the Securities and
+			 Exchange Commission to seek legal or equitable remedies in a civil action,
+			 instead of an administrative proceeding, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H8307AA2EDA7542ABA7764DB1A7D8BFE8" style="OLC">
+ <section id="H9059F3D055FC4855AFFA4EF94D1780BC" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Due Process Restoration Act of 2015</short-title></quote>.</text> </section><section id="HDBE2195B5CC44975B5223F3DA8AEA534"><enum>2.</enum><header>Private parties authorized to compel the Securities and Exchange Commission to seek sanctions by filing civil actions</header> <subsection id="HAA4A024BE54D4BBEBD66CC68F60D5A97"><enum>(a)</enum><header>In general</header><text>The Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78a">15 U.S.C. 78a et seq.</external-xref>) is amended by adding at the end of title I the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HB3FD3CEADDFB48A3BA0D09612FFA3A6A" style="OLC">
+					<section id="H733CD881F94E45CF9C9F24773BEE7D68"><enum>40.</enum><header>Private parties authorized to compel the Commission to seek sanctions by filing civil actions</header>
+ <subsection id="H4137A9B4B3F041BE84EE1593D18E3F2A"><enum>(a)</enum><header>Termination of administrative proceeding</header><text display-inline="yes-display-inline">In the case of any person who is a party to a proceeding brought by the Commission under a securities law, to which section 554 of title 5, United States Code, applies, and against whom an order imposing a cease and desist order and a penalty may be issued at the conclusion of the proceeding, that person may, not later than 20 days after receiving notice of such proceeding, and at that person’s discretion, require the Commission to terminate the proceeding.</text>
+ </subsection><subsection id="HB7FE21F4E69B40BDA1F037486F180C8D"><enum>(b)</enum><header>Civil action authorized</header><text>If a person requires the Commission to terminate a proceeding pursuant to subsection (a), the Commission may bring a civil action against that person for the same remedy that might be imposed.</text>
+ </subsection><subsection id="H398444ABE86149F9895DB799AFE8D855"><enum>(c)</enum><header>Standard of proof in administrative proceeding</header><text>Notwithstanding any other provision of law, in the case of a proceeding brought by the Commission under a securities law, to which section 554 of title 5, United States Code, applies, a legal or equitable remedy may be imposed on the person against whom the proceeding was brought only on a showing by the Commission of clear and convincing evidence that the person has violated the relevant provision of law.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H705D94263652447E98145F7E37E4F4AA"><enum>(b)</enum><header>Clerical amendment</header><text display-inline="yes-display-inline">The table of contents of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78a">15 U.S.C. 78a et seq.</external-xref>) is amended by inserting after the item relating to section 39 the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H357DEF63CA55493DA43D5B7AEB5DD914" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">40. Private parties authorized to compel the Commission to seek sanctions by filing civil actions.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

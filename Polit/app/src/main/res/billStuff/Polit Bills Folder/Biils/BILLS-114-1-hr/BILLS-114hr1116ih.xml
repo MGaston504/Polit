@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8ED705BC91E346AA924B07C6794F269E" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1116 IH: Medicare Audiology Services Enhancement Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1116</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150226">February 26, 2015</action-date> 
+<action-desc><sponsor name-id="B001257">Mr. Bilirakis</sponsor> (for himself and <cosponsor name-id="B001251">Mr. Butterfield</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend title XVIII of the Social Security Act to provide comprehensive audiology services to Medicare beneficiaries, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HB863F359799C4ACD9C166B11FEE7F1A1" style="OLC"> 
+<section id="H133DBAD6709646FB9E42B872F9568FDE" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medicare Audiology Services Enhancement Act of 2015</short-title></quote>.</text></section> <section id="H0CD24277670E4504A063866F9B249C1D"><enum>2.</enum><header>Comprehensive audiology services for Medicare beneficiaries</header> <subsection id="H0E2A5DA0C90246259E0C9468ACAEF96F"><enum>(a)</enum><header>In general</header><text>Section 1861 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x</external-xref>) is amended—</text> 
+<paragraph id="H417E9AC4AD5B44D09354CC63691F9B2B"><enum>(1)</enum><text>in subsection (s)(2)—</text> <subparagraph id="H87670582FE3F4915B8AC4E6C0470191F"><enum>(A)</enum><text>in subparagraph (EE), by striking <quote>and</quote> at the end;</text></subparagraph> 
+<subparagraph id="HE8C1C24AB5F047DE8AA25DAF20442608"><enum>(B)</enum><text>in subparagraph (FF), by adding <quote>and</quote> at the end; and</text></subparagraph> <subparagraph id="HCD038BCD2E984252BDBFA8D83FAA37EA"><enum>(C)</enum><text>by adding at the end the following new subparagraph:</text> 
+<quoted-block display-inline="no-display-inline" id="H3D154BBFAFC845449AC770AB81A81510" style="traditional"> 
+<subparagraph id="HDFD9898E40DA42B2A2A71E6C13C2FA6E"><enum>(GG)</enum><text>audiology services (as defined in subsection (ll)(3));</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph></paragraph> <paragraph id="H0B72D07EED50471EA0A8C3E982BBB9A9"><enum>(2)</enum><text>by amending paragraph (3) of subsection (ll) to read as follows:</text> 
+<quoted-block id="H0068F5F784F245ECAC8109936381AFFE" style="OLC"> 
+<paragraph id="H2FDC0F3AC94544BB92DFB57A865243DB" indent="up1"><enum>(3)</enum><text>The term <term>audiology services</term> means only the following services furnished by a qualified audiologist as the audiologist is legally authorized to perform under State law (or the State regulatory mechanism provided by State law), pursuant to an order or referral by a physician, as would otherwise be covered if furnished by a physician:</text> <subparagraph id="HE42D75AFD7FD418F902D1640AEB76675"><enum>(A)</enum><text>Hearing and balance assessment services.</text></subparagraph> 
+<subparagraph id="H4712E7B7CAA6441D81A61A77B5F39CEC"><enum>(B)</enum><text>Auditory treatment services, including auditory processing and auditory rehabilitation treatment.</text></subparagraph> <subparagraph id="HEA2911DCA8CC4543A7A50E562312B953"><enum>(C)</enum><text>Vestibular treatment services.</text></subparagraph> 
+<subparagraph id="H346B9FB6001748C99E4B1FE13F8B57AC"><enum>(D)</enum><text>Intraoperative neurophysiologic monitoring services.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="H8CD7ED75F0124E638B97F49C563DC38B"><enum>(b)</enum><header>Payment under part B under physician fee schedule for comprehensive audiology services</header><text>Section 1848(j)(3) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">42 U.S.C. 1395w–4(j)(3)</external-xref>) is amended by inserting <quote>(2)(GG),</quote> before <quote>(3),</quote>.</text></subsection> 
+<subsection id="H7C917A300C85481DA4065704E6B139AA"><enum>(c)</enum><header>Audiology services performed in hospitals excluded from inpatient hospital services</header><text>Section 1861(b)(4) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x(b)(4)</external-xref>) is amended by striking <quote>and services of a certified registered nurse anesthetist</quote> and inserting <quote>services of a certified registered nurse anesthetist, and inter-operative neurophysiological monitoring provided by a physician or qualified audiologist (as defined in subsection (ll)(4)(B))</quote>.</text></subsection> <subsection id="H9FE7412BB3184F84B687349B52CCEC23"><enum>(d)</enum><header>Requirements of service</header><text>Section 1835(a)(2) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395n">42 U.S.C. 1395n(a)(2)</external-xref>) is amended—</text> 
+<paragraph id="H7AB8246BBD7A46E8AD2102D8FBEBE078"><enum>(1)</enum><text>in subparagraph (B), by striking <quote>and (D)</quote> and inserting <quote>(D), and (GG)</quote>;</text></paragraph> <paragraph id="H15723AC1301F46E9A029CBD2B3EACE7A"><enum>(2)</enum><text>by striking <quote>and</quote> at the end of subparagraph (E);</text></paragraph> 
+<paragraph id="HFF082D24AC334261A36966CD1CA7E3A2"><enum>(3)</enum><text>by striking the period at the end of subparagraph (F) and inserting <quote>; and</quote>; and</text></paragraph> <paragraph id="H6D3A2B7E784949CDABEC1CA4C1A86919"><enum>(4)</enum><text>by inserting after subparagraph (F) the following new subparagraph:</text> 
+<quoted-block display-inline="no-display-inline" id="H158B1F478DBD41548553ED99E9B1C779" style="OLC"> 
+<subparagraph id="HEDBCBA9A87E3460DB8990A463F744314"><enum>(G)</enum><text display-inline="yes-display-inline">in the case of outpatient audiology services, (i) such services are or were required because the individual needed the specialized services of a physician or qualified audiologist to furnish such audiology services, (ii) a plan of care for furnishing such services has been established by the physician or qualified audiologist and is submitted to and periodically reviewed by the referring or ordering physician, and (iii) such services are or were furnished while the individual is or was under the care of a physician.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="H90D2D63CC2804EB0B41D674C0F2A651F"><enum>(e)</enum><header>Audiology services included as designated health services for purposes of limitation on certain physician referrals</header><text>Section 1877(h)(6) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395nn">42 U.S.C. 1395nn(h)(6)</external-xref>) is amended by adding at the end the following new subparagraph:</text> 
+<quoted-block id="H7910B43891024B71BBF33611D3E3058C" style="OLC"> 
+<subparagraph id="H137385F137954B68866738F8830D5B23"><enum>(M)</enum><text>Audiology services (as defined in section 1861(ll)(3)).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H299B38D21D60475C9814AEFCB80858B8"><enum>(f)</enum><header>Participation in Medicare</header><text>Nothing in this section shall be construed to require a qualified audiologist (as defined in section 1861(ll)(4)(B) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x(ll)(4)(B)</external-xref>)) to participate in the Medicare program under title XVIII of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395">42 U.S.C. 1395 et seq.</external-xref>).</text></subsection> 
+<subsection id="H48116E8D228440FBBEB337CA0EFC2A31"><enum>(g)</enum><header>Effective date</header><text>The amendments made by this section shall apply to services furnished on or after January 1, 2016.</text></subsection></section> </legis-body> </bill> 
+

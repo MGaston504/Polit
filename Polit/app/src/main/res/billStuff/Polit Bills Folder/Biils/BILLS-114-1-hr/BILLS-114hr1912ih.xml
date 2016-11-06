@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4DA890591FCF454BAE696A02080CD473" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1912 IH: Small Company Disclosure Simplification Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1912</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150421">April 21, 2015</action-date> 
+<action-desc><sponsor name-id="H001060">Mr. Hurt of Virginia</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To exempt smaller public companies from requirements relating to the use of Extensible Business Reporting Language for periodic reporting to the Securities and Exchange Commission, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H5550412E603047FD9F3AD9501893D378" style="OLC"> 
+<section id="H72B6F1DBAC244D6293D899EE86E9F6B9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Company Disclosure Simplification Act</short-title></quote>.</text></section> <section id="H357D8751CA764C64BC6935A1ADDBE57D"><enum>2.</enum><header>Exemption from XBRL requirements for emerging growth companies and other smaller companies</header> <subsection id="H62425FB145134237922BD425C38B0A35"><enum>(a)</enum><header>Exemption for emerging growth companies</header><text display-inline="yes-display-inline">Emerging growth companies are exempted from the requirements to use Extensible Business Reporting Language (XBRL) for financial statements and other periodic reporting required to be filed with the Commission under the securities laws. Such companies may elect to use XBRL for such reporting.</text></subsection>
+<subsection id="HF394C77CDD2D4F5883BD35D913F9949C"><enum>(b)</enum><header>Exemption for other smaller companies</header><text display-inline="yes-display-inline">Issuers with total annual gross revenues of less than $250,000,000 are exempt from the requirements to use XBRL for financial statements and other periodic reporting required to be filed with the Commission under the securities laws. Such issuers may elect to use XBRL for such reporting. An exemption under this subsection shall continue in effect until the later of—</text> <paragraph id="HF2CD618510ED459E8950ABF8DB456660"><enum>(1)</enum><text display-inline="yes-display-inline">the date that is five years after the date of enactment of this Act; or</text></paragraph>
+<paragraph id="HE955354EC4084DA5B9BE51C0EB00EABF"><enum>(2)</enum><text display-inline="yes-display-inline">a determination by the Commission, by order after conducting the analysis required by section 3, that the benefits of such requirements to such issuers outweigh the costs.</text></paragraph></subsection> <subsection id="H3711ECC0B3B14D1F847D451AA059919F"><enum>(c)</enum><header>Modifications to regulations</header><text display-inline="yes-display-inline">Not later than 60 days after the date of enactment of this Act, the Commission shall revise its regulations under parts 229, 230, 232, 239, 240, and 249 of title 17, Code of Federal Regulations, to reflect the exemptions set forth in subsections (a) and (b).</text></subsection></section>
+<section id="HDDCBEC53B8514813B29DF9EF2423E853"><enum>3.</enum><header>Analysis by the SEC</header><text display-inline="no-display-inline">The Commission shall conduct an analysis of the costs and benefits to issuers described in section 2(b) of the requirements to use XBRL for financial statements and other periodic reporting required to be filed with the Commission under the securities laws. Such analysis shall include an assessment of—</text> <paragraph id="HFCEC32390D98405A81516FBA97CBD96B"><enum>(1)</enum><text display-inline="yes-display-inline">how such costs and benefits may differ from the costs and benefits identified by the Commission in the order relating to interactive data to improve financial reporting (dated January 30, 2009; 74 Fed. Reg. 6776) because of the size of such issuers;</text></paragraph>
+<paragraph id="H1C322B96986A43EFA30408AC6039210B"><enum>(2)</enum><text>the effects on efficiency, competition, capital formation, and financing and on analyst coverage of such issuers (including any such effects resulting from use of XBRL by investors); and</text></paragraph> <paragraph id="HEA1C4D6C2B074771BA18F84ADFF8FD33"><enum>(3)</enum><text>the costs to such issuers of—</text>
+<subparagraph id="H6C065761C0084810AB23FF0D7FF6535A"><enum>(A)</enum><text>submitting data to the Commission in XBRL;</text></subparagraph> <subparagraph id="H37892D37DB3A4BC6B4F8E4E77B9AA559"><enum>(B)</enum><text>posting data on the website of the issuer in XBRL;</text></subparagraph>
+<subparagraph id="HADDEA9F1F55A4C19961C7427186E7B95"><enum>(C)</enum><text>software necessary to prepare, submit, or post data in XBRL; and</text></subparagraph> <subparagraph id="H4FB79847C3434D4BAABA4004556521C2"><enum>(D)</enum><text>any additional consulting services or filing agent services.</text></subparagraph></paragraph></section>
+<section id="HE99E460932934FF68D704642921DC504"><enum>4.</enum><header>Report to Congress</header><text display-inline="no-display-inline">Not later than one year after the date of enactment of this Act, the Commission shall provide the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report regarding—</text> <paragraph id="HB5673C2947CC4E4ABA7C2C66E7661E25"><enum>(1)</enum><text>the progress in implementing XBRL reporting within the Commission;</text></paragraph>
+<paragraph id="H63F33137F24F4BD5A068FEB5C76EB21E"><enum>(2)</enum><text>the use of XBRL data by Commission officials;</text></paragraph> <paragraph id="H944709F964B6424D9C279AED645EAFE4"><enum>(3)</enum><text>the use of XBRL data by investors;</text></paragraph>
+<paragraph id="H5DC384C939714A6EBDFA29FEDC2DCB00"><enum>(4)</enum><text>the results of the analysis required by section 3; and</text></paragraph> <paragraph id="H1664FCB2ABB84917B8CF9D36CAAE253F"><enum>(5)</enum><text>any additional information the Commission considers relevant for increasing transparency, decreasing costs, and increasing efficiency of regulatory filings with the Commission.</text></paragraph></section>
+<section id="H9667EEBE881543DB9661C99215DD68AA"><enum>5.</enum><header>Definitions</header><text display-inline="no-display-inline">As used in this Act, the terms <term>Commission</term>, <term>emerging growth company</term>, <term>issuer</term>, and <term>securities laws</term> have the meanings given such terms in section 3 of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c</external-xref>).</text></section> </legis-body> </bill> 
+

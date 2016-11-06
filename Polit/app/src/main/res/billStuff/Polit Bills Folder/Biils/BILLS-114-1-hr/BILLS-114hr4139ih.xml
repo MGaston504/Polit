@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HDC36747592974D0C93A4D999DD8A5852" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4139 IH: Fostering Innovation Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4139</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151201">December 1, 2015</action-date>
+			<action-desc><sponsor name-id="S001191">Ms. Sinema</sponsor> (for herself and <cosponsor name-id="F000451">Mr. Fitzpatrick</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Sarbanes-Oxley Act of 2002 to provide a temporary exemption for low-revenue issuers
+			 from certain auditor attestation requirements.</official-title>
+	</form>
+	<legis-body id="HC02EC1A42D6946C88A6F9F6B5AAB48A5" style="OLC">
+ <section id="H1550415697FA47E694BD0975598D5966" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fostering Innovation Act of 2015</short-title></quote>.</text> </section><section id="H8AB9EBF96BC6405E92354036C3386106"><enum>2.</enum><header>Temporary exemption for low-revenue issuers</header><text display-inline="no-display-inline">Section 404 of the Sarbanes-Oxley Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/15/7262">15 U.S.C. 7262</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block id="HFAEFDE92CE564EE5ABBE22A631E55BF2" style="OLC">
+				<subsection id="H9FF133661BF84D53B2310C463D693893"><enum>(d)</enum><header>Temporary exemption for low-Revenue issuers</header>
+ <paragraph id="H813C2011EE314B2D975EB75A403EA5A5"><enum>(1)</enum><header>Low-revenue exemption</header><text>Subsection (b) shall not apply with respect to an audit report prepared for an issuer that—</text> <subparagraph id="H48B62C3D69984C32B1AAD3200A2ADA7D"><enum>(A)</enum><text>ceased to be an emerging growth company on the last day of the fiscal year of the issuer following the fifth anniversary of the date of the first sale of common equity securities of the issuer pursuant to an effective registration statement under the Securities Act of 1933;</text>
+ </subparagraph><subparagraph id="H2CB37067732C493DB525D4403A7A3C99"><enum>(B)</enum><text>had average annual gross revenues of less than $50,000,000 as of its most recently completed fiscal year; and</text>
+ </subparagraph><subparagraph id="H9A6C854B698A4784B194BA17E278D109"><enum>(C)</enum><text>is not a large accelerated filer.</text> </subparagraph></paragraph><paragraph id="H502751F33DA446F6954BD25BB7DB9476"><enum>(2)</enum><header>Expiration of temporary exemption</header><text>An issuer ceases to be eligible for the exemption described under paragraph (1) at the earliest of—</text>
+ <subparagraph id="H001C40751251423C80EA712392C4157F"><enum>(A)</enum><text>the last day of the fiscal year of the issuer following the tenth anniversary of the date of the first sale of common equity securities of the issuer pursuant to an effective registration statement under the Securities Act of 1933;</text>
+ </subparagraph><subparagraph id="HFCDD23F5A5CD4BE0A205520C376CE7D4"><enum>(B)</enum><text>the last day of the fiscal year of the issuer during which the average annual gross revenues of the issuer exceed $50,000,000; or</text>
+ </subparagraph><subparagraph id="H920B4D54E69C4DC5AAEEB788260C8C80"><enum>(C)</enum><text>the date on which the issuer becomes a large accelerated filer.</text> </subparagraph></paragraph><paragraph commented="no" id="HA066EBE26F3F42EFAD252057A75D9C1E"><enum>(3)</enum><header>Definitions</header><text>For purposes of this subsection:</text>
+ <subparagraph commented="no" id="HE22DFDFAB8934B7DA869F15741B1F0B6"><enum>(A)</enum><header>Average annual gross revenues</header><text>The term <term>average annual gross revenues</term> means the total gross revenues of an issuer over its most recently completed three fiscal years divided by three.</text>
+ </subparagraph><subparagraph commented="no" id="HC2FFD37462724A6DBCCB7074EDF9897A"><enum>(B)</enum><header>Emerging growth company</header><text display-inline="yes-display-inline">The term <quote>emerging growth company</quote> has the meaning given such term under section 3 of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c</external-xref>).</text>
+ </subparagraph><subparagraph commented="no" id="H6E8B96EBE9D343D5AFE7BDDF4E102CCD"><enum>(C)</enum><header>Large accelerated filer</header><text display-inline="yes-display-inline">The term <quote>large accelerated filer</quote> has the meaning given that term under section 240.12b–2 of title 17, Code of Federal Regulations, or any successor thereto.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

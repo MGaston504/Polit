@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1813 IS: To establish a bus state of good repair program.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-07-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1813</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150721">July 21, 2015</action-date>
+			<action-desc><sponsor name-id="S347">Mr. Moran</sponsor> (for himself and <cosponsor name-id="S356">Mr. Donnelly</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To establish a bus state of good repair program.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Bus and bus facilities state of good repair discretionary grants</header>
+ <subsection id="id6FB3274FB85B496AA6D1AEBB9EED839E"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/53">Chapter 53</external-xref> of title 49, United States Code, is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="id8EC62B6350EB4B9E9B226651FF9A8C0E" style="USC"> <section id="id5EFEBF7741E24523B45599A9233636FC"><enum>5341.</enum><header>Bus and bus facilities state of good repair discretionary grants</header> <subsection id="id56acd5a443d1451694bcde9eb565c8b9"><enum>(a)</enum><header>Definitions</header><text>In this section—</text>
+ <paragraph id="id7a6bf84d81cc45399e91f533f4d6ac53"><enum>(1)</enum><text>the term <term>State</term> means a State of the United States; and</text> </paragraph><paragraph id="idcc7b88a87ff84728bf421b4d1b64ba12"><enum>(2)</enum><text>the term <term>territory</term> means the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the United States Virgin Islands.</text>
+ </paragraph></subsection><subsection id="id6f79b4dbdeef415fa471437651112c19"><enum>(b)</enum><header>General authority</header><text>The Secretary shall make grants under this section to assist eligible recipients described in subsection (e)(1) in financing capital projects to maintain bus and bus facilities systems in a state of good repair, including projects—</text>
+ <paragraph id="id16f8f08395d94c479cdcc5aabe4b9e2f"><enum>(1)</enum><text>to replace, rehabilitate, and purchase buses and related equipment; and</text> </paragraph><paragraph id="idecc83a4050c84fc098283a90e5524e1a"><enum>(2)</enum><text>to construct bus-related facilities.</text>
+ </paragraph></subsection><subsection id="ida03f144471584e4c99b8a8cbeeda14b7"><enum>(c)</enum><header>Grant criteria</header><text>In making grants under this section, the Secretary—</text> <paragraph id="id38D3C7AAF42345BF830EB4D0F69C81A1"><enum>(1)</enum><text>with respect to a bus and bus facilities system, shall consider—</text>
+ <subparagraph id="id185fae761b4747e8aab84c804753d5a4"><enum>(A)</enum><text>project readiness;</text> </subparagraph><subparagraph id="id2d4d045c8bf945d299fb4f0972d5c0bc"><enum>(B)</enum><text>the level of commitment of non-Federal funds and the availability of a local financial commitment that exceeds the required non-Federal share of the cost of the project; and</text>
+ </subparagraph><subparagraph id="id601eba558e1b4792a4032fa31cd45def"><enum>(C)</enum><text>project justification;</text> </subparagraph></paragraph><paragraph id="id072d21ca5c7f4a3a81532d9e384c8d1e"><enum>(2)</enum><text>with respect to the replacement, rehabilitation, and purchase of buses and related equipment, and the construction of bus-related facilities, shall consider—</text>
+ <subparagraph id="idef8bbf175fcb440eb2dc607acd66d24b"><enum>(A)</enum><text>condition;</text> </subparagraph><subparagraph id="ide0b53dd345814fa0ba329c895f974329"><enum>(B)</enum><text>the need to comply with any applicable legal requirements relating to reinvestment; and</text>
+ </subparagraph><subparagraph id="id58a628aae24f4894865c4dee03a482ad"><enum>(C)</enum><text>the status of components; and</text> </subparagraph></paragraph><paragraph id="idF874E9DDFB9E41319EF479F0E601F45B"><enum>(3)</enum><text>in considering the factors under paragraphs (1) and (2), shall give priority consideration to vehicle age and mileage.</text>
+ </paragraph></subsection><subsection id="id997b2eaaa801476988b93439f9cbbf40"><enum>(d)</enum><header>Grant requirements</header><text>The requirements of section 5307 apply to recipients of grants made under this section.</text> </subsection><subsection id="id6228496d0eae40668de8a66fdc73fce4"><enum>(e)</enum><header>Eligible recipients and subrecipients</header> <paragraph id="id64016953366f4b7ebfb77548d11040f2"><enum>(1)</enum><header>Recipients</header><text>Eligible recipients under this section are designated recipients that operate bus service or that allocate funding to bus operators.</text>
+ </paragraph><paragraph id="idcecb59d8a7ba48e0b441642756bdc85f"><enum>(2)</enum><header>Subrecipients</header><text>A designated recipient that receives a grant under this section may allocate amounts of the grant to subrecipients that are public agencies or private nonprofit organizations engaged in public transportation.</text>
+							</paragraph></subsection><subsection id="id67393644d56c4f47a8c84f7fb3346937"><enum>(f)</enum><header>Government’s share of costs</header>
+ <paragraph id="id83f1bf753c064bb8851bc40de646bc58"><enum>(1)</enum><header>Capital projects</header><text>A grant for a capital project under this section shall be for 80 percent of the net capital costs of the project. A recipient of a grant under this section may provide additional local matching amounts.</text>
+ </paragraph><paragraph id="id5765c83d94434d31834a1f4b6c56f4fe"><enum>(2)</enum><header>Remaining costs</header><text>The remainder of the net project cost shall be provided—</text> <subparagraph id="ide1836ba2e08a4551a4e0b501504eb0b4"><enum>(A)</enum><text>in cash from non-Government sources other than revenues from providing public transportation services;</text>
+ </subparagraph><subparagraph id="ida2082ee0f06b4226a0a15189a857859d"><enum>(B)</enum><text>from revenues derived from the sale of advertising and concessions;</text> </subparagraph><subparagraph id="id4f9250acfbab4c04b0c59947c348ef69"><enum>(C)</enum><text>from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital; or</text>
+ </subparagraph><subparagraph id="idc2cf5f781ad541058a1aec7a39128213"><enum>(D)</enum><text>from amounts received under a service agreement with a State or local social service agency or private social service organization.</text>
+ </subparagraph></paragraph></subsection><subsection id="id1b9001c9a8a84d21a059dd8e2674c07a"><enum>(g)</enum><header>Period of availability to recipients</header><text>Amounts made available to carry out this section may be obligated by a recipient for 3 fiscal years after the fiscal year in which the amount is appropriated. Not later than 30 days after the end of the 3-year period described in the preceding sentence, any amount that is not obligated on the last day of that period shall be added to the amount that may be appropriated to carry out this section in the next fiscal year.</text>
+ </subsection><subsection id="id3d7ebaeff489472281105486050ff427"><enum>(h)</enum><header>Funding limit</header><text>Not more than 4 percent of the amounts made available under section 5338 to carry out this section for a fiscal year shall be made available to a single recipient.</text>
+						</subsection><subsection id="id38616AC6DF13413188F920D365F1EED0"><enum>(i)</enum><header>Bus and bus facilities formula grants</header>
+ <paragraph id="idC27ED994720D48F8A0B55EDABC37C429"><enum>(1)</enum><header>Rule of construction</header><text>Nothing in this section shall be construed to prohibit a recipient from receiving a grant under section 5339 and a grant under this section.</text>
+ </paragraph><paragraph id="id7DD47C54587B4D4FBD63DF16D4F1338E"><enum>(2)</enum><header>Funding for formula grants</header><text>Of the amounts made available under section 5338 to carry out this section for a fiscal year, $62,500,000 shall be available for the bus and bus facilities program under section 5339, of which $1,250,000 shall be apportioned to each State.</text>
+							</paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="idC5BAEC632B094F89B2808A1927CBDB3A"><enum>(b)</enum><header>Funding</header><text>Section 5338 of title 49, United States Code, is amended—</text> <paragraph id="id71B221EB90764DB999D4B66C372A3A0F"><enum>(1)</enum><text>by redesignating subsections (j) and (k) as subsections (k) and (l), respectively; and</text>
+ </paragraph><paragraph id="id6AC0E6A625954827ABE0B362B3C00351"><enum>(2)</enum><text>by inserting after subsection (i) the following:</text> <quoted-block display-inline="no-display-inline" id="id4B1A910A1D394C978C2424B4119673EE" style="OLC"> <subsection id="iddd539558bc46402bb8664597bc6d0594"><enum>(j)</enum><header>Bus and bus facilities state of good repair discretionary grants</header><text>There are authorized to be appropriated out of the Mass Transit Account of the Highway Trust Fund to carry out section 5341—</text>
+ <paragraph id="id15B78F3118064311B47B790D8C8BAE6F"><enum>(1)</enum><text>$492,000,000 for fiscal year 2016;</text> </paragraph><paragraph id="id8AFB47577C664FDE9F6C9499EEAA06E1"><enum>(2)</enum><text>$687,000,000 for fiscal year 2017;</text>
+ </paragraph><paragraph id="id87EF0F8DC8D44B8B9BF631DA1AEA05CD"><enum>(3)</enum><text>$777,000,000 for fiscal year 2018;</text> </paragraph><paragraph id="idE91DE7369F414457B6F558C87ABF57B1"><enum>(4)</enum><text>$878,000,000 for fiscal year 2019;</text>
+ </paragraph><paragraph id="id41062EF9A52D4DB5A52C1CE5CA96E37A"><enum>(5)</enum><text>$992,000,000 for fiscal year 2020; and</text> </paragraph><paragraph id="id0EE946EAD8894F5E9A4893B7F88F726A"><enum>(6)</enum><text>$1,389,000,000 fiscal year 2021.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="idC3B366A769474065BCFA4E235A5C9047"><enum>(c)</enum><header>Initial grants</header><text>Not later than 180 days after the date of enactment of this Act, the Secretary of Transportation shall begin making grants under section 5341 of title 49, United States Code, as added by subsection (b).</text>
+ </subsection><subsection id="idD6E35F0889B54F6786219EC6B8B9CC7E"><enum>(d)</enum><header>Technical and conforming amendment</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/53">chapter 53</external-xref> of title 49, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id9B966CD9BDE3497FAEE51A8F0CE8FF17" style="USC"><toc><toc-entry bold="off" level="section">5341. Bus and bus facilities state of good repair discretionary grants.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

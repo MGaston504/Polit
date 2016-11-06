@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1748 IS: Transportation Infrastructure Grants and Economic Reinvestment Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-07-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 1748</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150709">July 9, 2015</action-date><action-desc><sponsor name-id="S229">Mrs. Murray</sponsor> (for herself, <cosponsor name-id="S252">Ms. Collins</cosponsor>, and <cosponsor name-id="S253">Mr. Durbin</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To provide for improved investment in national transportation infrastructure.</official-title></form>
+	<legis-body style="OLC">
+ <section id="id12F8A0916E3E4DCDA1BD5FABD40035B2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Transportation Infrastructure Grants and Economic Reinvestment Act</short-title></quote>.</text>
+ </section><section id="id7C1EF3EB0C27440A847E7D573752007B"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> <paragraph id="idE16B779FB7D7410F900576D4F9A1EF6D"><enum>(1)</enum><header>Eligible entity</header><text>The term <term>eligible entity</term> means—</text>
+ <subparagraph id="id9BBA28D69B0D46E7A4805EB4A32E31C1"><enum>(A)</enum><text>a State;</text> </subparagraph><subparagraph id="id9DC4BE5BE5A244FCA65EC09E7DE39F36"><enum>(B)</enum><text>an Indian tribe;</text>
+ </subparagraph><subparagraph id="id0F612E9B651C4C5BB206444AFDEDB860"><enum>(C)</enum><text>the District of Columbia;</text> </subparagraph><subparagraph id="id1B206ECB5FB24EFC9E48F882FAF0E414"><enum>(D)</enum><text>a territory of the United States;</text>
+ </subparagraph><subparagraph id="idFF0CD55BDEE846D2B19B9C78B5B1A351"><enum>(E)</enum><text>a local government;</text>
+ </subparagraph><subparagraph id="id3375CC89A2DA427EA3CE5FCCC6B25826"><enum>(F)</enum><text>a port authority;</text> </subparagraph><subparagraph id="id1F2BC092597442BEB07A6A849F7E4D3C"><enum>(G)</enum><text>a metropolitan planning organization;</text>
+ </subparagraph><subparagraph id="id50D83DA5090645C29C7E06D38AF621FA"><enum>(H)</enum><text>a transit agency;</text> </subparagraph><subparagraph id="idA42D2B8B35D64A798BB5DDE1924C959B"><enum>(I)</enum><text>another political subdivision of a State or local government; and</text>
+ </subparagraph><subparagraph id="id06264F9F06D6475EBB2C4FBA13C827C6"><enum>(J)</enum><text>2 or more of the entities described in subparagraphs (A) through (I), working in collaboration.</text>
+				</subparagraph></paragraph><paragraph id="id70A81B54C3E74623A175A2ADDB03CE81"><enum>(2)</enum><header>Eligible
+			 project</header>
+				<subparagraph id="idE4277496F738422EAA3F11648DD4DDF9"><enum>(A)</enum><header>In
+ general</header><text>The term <term>eligible project</term> means a transportation project that, as determined by the Secretary, would have a significant beneficial impact on a State, a metropolitan area, a region, or the United States.</text>
+ </subparagraph><subparagraph id="id58D27424F66249A0B7DA2005095C0C23"><enum>(B)</enum><header>Inclusions</header><text>The term <term>eligible project</term> includes—</text>
+ <clause id="id49C7E7D256C04F26BDBCD77D7F4030E6"><enum>(i)</enum><text>a highway or bridge project eligible for funding under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/23/1">chapter 1</external-xref> of title 23, United States Code (including a project related to bicycles or pedestrians);</text>
+ </clause><clause id="idD6E8C2B5D57A4F1C895E4E685E970BB5"><enum>(ii)</enum><text>a public transportation project eligible for funding under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/53">chapter 53</external-xref> of title 49, United States Code;</text>
+ </clause><clause id="id1AD1CDC22DF14739897CD69A222B3DDE"><enum>(iii)</enum><text>a passenger or freight rail transportation project;</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="id84F865379AD240B18B9F11D1BBF2C5C5"><enum>(iv)</enum><text>a port infrastructure project; and</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="id34F9277CD92148119C7C41FBD6830CBA"><enum>(v)</enum><text>an intermodal project.</text> </clause></subparagraph></paragraph><paragraph id="H7B190F0648E8473E24D88298E1BE606"><enum>(3)</enum><header>Eligible project costs</header> <subparagraph id="id44F0BCF353BB44CD978A22A7688AAD20"><enum>(A)</enum><header>In general</header><text>The term <term>eligible project costs</term> means costs relating to an eligible project, such as the costs of—</text>
+ <clause id="H8395653B4048A3C1F7925D99EDD8A00"><enum>(i)</enum><text>development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, permitting, preliminary engineering and design work, and other preconstruction activities;</text>
+ </clause><clause id="H06CED055415FEF12DE8EF09B79DCC23"><enum>(ii)</enum><text>construction, reconstruction, rehabilitation, replacement, and acquisition of real property (including land related to the eligible project and improvements to land), environmental mitigation, construction contingencies, and acquisition of equipment; and</text>
+ </clause><clause id="HE24747DB4DFEE587917571A3C164A7C"><enum>(iii)</enum><text>capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction.</text>
+ </clause></subparagraph><subparagraph id="id8792DB3B76F74CA09CBF45EA976CF2B5"><enum>(B)</enum><header>Dredging activities</header><text>The term <term>eligible project costs</term>—</text>
+ <clause id="idD5E8AA43A5944C74BE9C22A3450DA0E7"><enum>(i)</enum><text>includes the costs of dredging activities that are part of a berth reconstruction or rehabilitation project; and</text>
+ </clause><clause id="id89B06BC62F214B309F9B23F5A8A9986A"><enum>(ii)</enum><text>does not include the costs of dredging activities that are the responsibility of the Army Corps of Engineers.</text>
+					</clause></subparagraph></paragraph><paragraph id="id660B8C634AB74121AF89B01D567772DA"><enum>(4)</enum><header>Rural
+ area</header><text>The term <term>rural area</term> means any area not in an urbanized area (as that term is defined by the Census Bureau).</text>
+ </paragraph><paragraph id="id6379F15943EB40B59D83C7BFCC24CC5B"><enum>(5)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of Transportation.</text>
+ </paragraph><paragraph id="H4F0E1E53483C2AD098029B87F88028D"><enum>(6)</enum><header>State</header><text>The term <term>State</term> means—</text>
+ <subparagraph id="idFADB69B767CC4484B6954E1564E7DE25"><enum>(A)</enum><text>any of the 50 States; or</text>
+ </subparagraph><subparagraph id="idF20F6CA3204F4E0D910852015CB2C2DA"><enum>(B)</enum><text>the District of Columbia.</text>
+				</subparagraph></paragraph><paragraph id="H5D6C28D0425872DDF252ACAC53FBE00"><enum>(7)</enum><header>Substantial
+ completion</header><text>The term <term>substantial completion</term> means the opening of an eligible project to vehicular or passenger traffic.</text>
+			</paragraph></section><section id="idA8BC1C064C554E179E02733E6A8E30D7"><enum>3.</enum><header>National
+			 infrastructure investment program</header>
+ <subsection id="idD209C1878EDB42F09A97FC84C2FE9E71"><enum>(a)</enum><header>Program</header><text display-inline="yes-display-inline">Not later than 1 year after the date of the enactment of this Act, the Secretary shall by regulation establish a program under which the Secretary shall provide competitive grants to eligible entities for use in carrying out eligible projects.</text>
+			</subsection><subsection id="id46AD63A368F04005A601A8E952EF6141"><enum>(b)</enum><header>Grant
+			 requirements</header>
+ <paragraph id="id696024A172A14A3888AD12775626F49E"><enum>(1)</enum><header>Amount</header><text>Except as provided in paragraph (5)(B)(i), a grant under this Act shall be in an amount that is not less than $10,000,000 and not greater than $200,000,000.</text>
+				</paragraph><paragraph id="idBD054475F4EB46F4BC4232C6D1244F4D"><enum>(2)</enum><header>Geographical
+ distribution; balance; investment</header><text>In providing grants under this Act, the Secretary shall take such measures as are necessary to ensure, to the maximum extent practicable—</text>
+ <subparagraph id="id2D81723D1BAE46B483FDDEFED09C30E7"><enum>(A)</enum><text>an equitable geographical distribution of funds;</text>
+ </subparagraph><subparagraph id="id2C3188602DB84462845AF673DBA75502"><enum>(B)</enum><text>an appropriate balance in addressing the needs of urban and rural areas; and</text>
+ </subparagraph><subparagraph id="id61AEB18A084444FFA9217DA71AD6E3F2"><enum>(C)</enum><text>investment in a variety of transportation modes.</text>
+					</subparagraph></paragraph><paragraph id="id78C16DCDDA96429980AFE308F070FCF1"><enum>(3)</enum><header>Maximum
+ percentage per State</header><text>Not more than 25 percent of the amounts made available to provide grants under this Act for a fiscal year may be provided for eligible projects in a State.</text>
+				</paragraph><paragraph id="id524324498FA44820BE09248468B9C236"><enum>(4)</enum><header>Federal
+			 share</header>
+					<subparagraph id="id5E21DD1FD3464FC098859DFCD302BFA2"><enum>(A)</enum><header>In
+ general</header><text>Except as provided in paragraph (5)(B)(ii), the Federal share of the cost of carrying out any eligible project funded by a grant under this Act shall be, at the option of the eligible entity receiving the grant, up to 80 percent.</text>
+ </subparagraph><subparagraph id="id2AF20A13558145AE8497D25FD4296059"><enum>(B)</enum><header>Priority</header><text>In providing grants under this Act, the Secretary shall give priority to eligible projects that require a contribution of Federal funds in order to complete an overall financing package for the eligible projects.</text>
+					</subparagraph></paragraph><paragraph id="id5C4826990DE549CFAE240B6AC2050C6C"><enum>(5)</enum><header>Eligible
+			 projects in rural areas</header>
+					<subparagraph id="id1148A524B91946619D7B359F3038453F"><enum>(A)</enum><header>In
+ general</header><text>Not less than 20 percent of the amounts made available to provide grants under this Act for a fiscal year shall be provided for eligible projects located in rural areas.</text>
+					</subparagraph><subparagraph id="id3B4847F629634C9EBBEE898CDC5B2B4A"><enum>(B)</enum><header>Minimum grant
+ amount; Federal share</header><text>With respect to an eligible project located in a rural area—</text>
+ <clause id="id53BE7BE0B31D4AAD8EB100F6981EEC28"><enum>(i)</enum><text>the minimum amount of a grant under this Act shall be $1,000,000; and</text>
+ </clause><clause id="idCBF118568EAB4D5685A7D35FDB723451"><enum>(ii)</enum><text>the Secretary may increase the Federal share of the cost of carrying out the eligible project up to 100 percent.</text>
+						</clause></subparagraph></paragraph><paragraph id="id423E8F4D419949BF9E89862B9E4ED521"><enum>(6)</enum><header>Set-asides for
+ certain costs, projects, and transfers</header><text>Of the amounts made available under this Act for a fiscal year, the Secretary may—</text>
+ <subparagraph id="id55CE2E379E8846FBBE3F6D258A52AC5A"><enum>(A)</enum><text>use an amount not to exceed $20,000,000 for grants that pay for the planning, preparation, or design of eligible projects; and</text>
+ </subparagraph><subparagraph id="id36AF082997694D6E941EE8F372FF02FE"><enum>(B)</enum><text>use an amount not to exceed $20,000,000 to fund the provision and oversight of grants under this Act, including transfers of funds from that amount to the Administrators of the Federal Highway Administration, the Federal Transit Administration, the Federal Railroad Administration, and the Maritime Administration to fund the provision and oversight of grants under this Act for eligible projects under the administrative jurisdiction of those agencies.</text>
+					</subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="H0D6BBCBF4B176DDB5577A28B79F67C6"><enum>(c)</enum><header>Selection among
+			 eligible projects</header>
+ <paragraph id="H1C823E72450022F484678CACC743E6D"><enum>(1)</enum><header>Establishment</header><text>The Secretary shall establish criteria for use in selecting among eligible projects to receive funding under this Act.</text>
+				</paragraph><paragraph id="H02E46EE740BB5031BCE662B839AADAE"><enum>(2)</enum><header>Selection
+			 criteria</header>
+					<subparagraph id="H551A9FF143157847F29A619EEDBFBAA"><enum>(A)</enum><header>Primary selection
+ criteria</header><text>The Secretary shall select among eligible projects by evaluating the extent to which an eligible project provides significant benefits to a State, a metropolitan area, a region, or the United States, including the extent to which an eligible project—</text>
+ <clause id="idDAFD52B1D88541D9ACDAC1AF44DC6B46"><enum>(i)</enum><text>improves the safety of transportation facilities and systems;</text>
+ </clause><clause id="H143EB8A844B5BC56B499D99DA0E51A6"><enum>(ii)</enum><text>improves the condition of existing transportation facilities and systems;</text>
+ </clause><clause id="ID2423eb8c0c184a7b8e4a616fabedc009"><enum>(iii)</enum><text>contributes to economic competitiveness over the medium- to long-term;</text>
+ </clause><clause id="IDc2a872ac68a645c4927c3f4717ad114e"><enum>(iv)</enum><text>improves the environment, improves energy efficiency, reduces dependence on oil, or reduces greenhouse gas emissions; and</text>
+ </clause><clause id="ID9571d3df4a094b02987bf23550713f23"><enum>(v)</enum><text>improves access to transportation facilities and systems.</text>
+						</clause></subparagraph><subparagraph id="ID5d587e0faef0470f94a0d013344ebb5a"><enum>(B)</enum><header>Secondary
+ selection criteria</header><text>In addition to considering the primary selection criteria described in subparagraph (A), the Secretary shall consider the extent to which a project—</text>
+ <clause id="ID20b645d2ac7f49ac9615dc88ee9d2493"><enum>(i)</enum><text>uses innovative strategies or technologies to pursue any of those primary selection criteria; and</text>
+ </clause><clause id="ID3d7eedc0fb0f49bf9d01bb60fff54880"><enum>(ii)</enum><text>demonstrates strong collaboration among a broad range of participants, or the integration of transportation with other public service efforts.</text>
+						</clause></subparagraph></paragraph></subsection><subsection id="idE3FF9BAF6A894A5CA3D0A9708475E3AE"><enum>(d)</enum><header>Application
+			 requirement</header>
+ <text>The Secretary shall require an analysis of project benefits and costs in each application for a construction grant under this Act.</text>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="HCA0D44CC4D1AD065AB1951B34B1211B"><enum>(e)</enum><header>Federal
+ requirements</header><text>The following provisions of law shall apply to funds made available under this Act and eligible projects carried out using those funds:</text>
+ <paragraph id="HA0326BCF487F419C809ABFA7551C9DF"><enum>(1)</enum><text>Subchapter IV of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/40/31">chapter 31</external-xref> of title 40, United States Code.</text>
+ </paragraph><paragraph id="id27FCF50AD1C04174B26321090A870720"><enum>(2)</enum><text>Title VI of the Civil Rights Act of 1964 (<external-xref legal-doc="usc" parsable-cite="usc/42/2000d">42 U.S.C. 2000d et seq.</external-xref>).</text>
+ </paragraph><paragraph id="H66E112C04A88A2F83061F3B9913858D"><enum>(3)</enum><text>The National Environmental Policy Act of 1969 (<external-xref legal-doc="usc" parsable-cite="usc/42/4321">42 U.S.C. 4321 et seq.</external-xref>).</text>
+ </paragraph><paragraph id="HC94532254A5AEE36EB7980BB1B87E06"><enum>(4)</enum><text>The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (<external-xref legal-doc="usc" parsable-cite="usc/42/4601">42 U.S.C. 4601 et seq.</external-xref>).</text>
+				</paragraph></subsection><subsection id="id11436FE0D8B147A8902C9798984AD2F7"><enum>(f)</enum><header>Transparency</header>
+				<paragraph id="idA3B4CC692DDA4F3C9A8254D79B544A50"><enum>(1)</enum><header>In
+ general</header><text>The Secretary shall include in any notice of funding availability a full description of how applications will be evaluated against all selection criteria.</text>
+				</paragraph><paragraph id="IDc809016e975a4dc2a243aace5359ea07"><enum>(2)</enum><header>Consultations
+ on decisions</header><text>After provision of grants and credit assistance under this Act for a fiscal year, the Secretary (or a designee) shall be available to meet with any applicant, at a time and place that is mutually acceptable to the Secretary and the applicant, to review the application of the applicant.</text>
+ </paragraph></subsection></section><section commented="no" display-inline="no-display-inline" id="HA93C8D504544892F9FF86CA1C405114" section-type="subsequent-section"><enum>4.</enum><header display-inline="yes-display-inline">TIFIA subsidy and administrative costs</header><text display-inline="no-display-inline">The Secretary may use up to 20 percent of the amounts appropriated pursuant to the authorization under section 6 to pay the subsidy and administrative costs of projects eligible for Federal credit assistance under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/23/6">chapter 6</external-xref> of title 23, United States Code, if the Secretary determines that such use of funds would advance the purposes of this Act.</text>
+ </section><section commented="no" display-inline="no-display-inline" id="H64D1805A41D2CEEA7C05E38EC9FE308" section-type="subsequent-section"><enum>5.</enum><header display-inline="yes-display-inline">State and local permits</header><text display-inline="no-display-inline">Financial assistance under this Act with respect to an eligible project shall not—</text>
+ <paragraph id="HACE4063A45263754C2E444ABD243F57"><enum>(1)</enum><text>relieve any recipient of the assistance of any obligation to obtain any required State or local permit or approval with respect to the eligible project;</text>
+ </paragraph><paragraph id="H8742A7F4484ECB1E137CAFAFDADF590"><enum>(2)</enum><text>limit the right of any unit of State or local government to approve or regulate any rate of return on private equity invested in the eligible project; or</text>
+ </paragraph><paragraph id="H65876EED4B39BF39DE8813A3A9B0E96"><enum>(3)</enum><text>otherwise supersede any State or local law (including any regulation) applicable to the construction or operation of the eligible project.</text>
+			</paragraph></section><section id="id19475310EC4B434C8DB8528C02ACECE7"><enum>6.</enum><header>Authorization of
+			 appropriations</header>
+ <subsection id="id73B4A22F8A40481EAE27902CC2ABF16C"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">There are authorized to be appropriated to carry out this Act such sums as may be necessary for each of the fiscal years 2016 through 2021.</text>
+ </subsection><subsection id="id8F8706EAC446486AAC5A8AE00DA14C41"><enum>(b)</enum><header>Availability</header><text>Amounts appropriated for a fiscal year pursuant to this section shall be available for obligation during the 3-year period beginning on the first day of such fiscal year.</text></subsection></section></legis-body></bill>
+
+

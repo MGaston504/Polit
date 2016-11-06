@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDDED4218D33A4AB1AA919852CC92F08F" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2098 IH: Common Sense in Species Protection Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2098</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150429">April 29, 2015</action-date> 
+<action-desc><sponsor name-id="C001087">Mr. Crawford</sponsor> (for himself, <cosponsor name-id="W000809">Mr. Womack</cosponsor>, <cosponsor name-id="W000821">Mr. Westerman</cosponsor>, and <cosponsor name-id="H001072">Mr. Hill</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Endangered Species Act of 1973 to require the Secretary of the Interior to publish and make available for public comment a draft economic analysis at the time a proposed rule to designate critical habitat is published.</official-title> 
+</form> 
+<legis-body id="H19869AE1700442A4B9657ACE3AAF6FA0" style="OLC"> 
+<section id="HE5992381EA63409BB6BE9B9C6FD5EEE6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Common Sense in Species Protection Act of 2015</short-title></quote>.</text></section> <section id="H857ABEF95FC641AFBB05B28DA1261C48"><enum>2.</enum><header>Draft economic analysis for critical habitat designation</header> <subsection id="H472CA49A2E4B4C3F98114C4791417BD5"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 4(b)(2) of the Endangered Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1533">16 U.S.C. 1533(b)(2)</external-xref>) is amended—</text> 
+<paragraph id="H69FDF73C5BDE44698543F8A4BC3F3EA8"><enum>(1)</enum><text>in the first sentence, by striking <quote>(2) The Secretary shall</quote> and inserting the following:</text> <quoted-block id="H0C8613FC61F247F78F4D5F6F34F4E2FB" style="OLC"> <paragraph id="H9C9AFB5CC3B64BEC85F2B65506C117C9"><enum>(2)</enum><header>Critical habitat designation</header> <subparagraph id="H8606B3FCF6DB498E87DDCCD1B94C7141"><enum>(A)</enum><header>In general</header><text>The Secretary shall</text></subparagraph></paragraph><after-quoted-block>;</after-quoted-block></quoted-block></paragraph> 
+<paragraph id="H989B27F4A28348B198CDEEC2AB5EE0E9"><enum>(2)</enum><text>in the second sentence, by striking <quote>The Secretary may</quote> and inserting the following:</text> <quoted-block id="HD8AC1F2CCBC9495B874DF19C7F6A82D5" style="OLC"> <subparagraph id="HC3E5B0C97708468790DCEE45A693BB4B"><enum>(B)</enum><header>Exclusions</header><text>The Secretary shall</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block></paragraph> 
+<paragraph id="HA797D60D3F954149A0E66EBFC108A0C3"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block id="H3CC65AB25C514B9AB94BCB54E4F26C14" style="OLC"> <subparagraph id="H335F1DBF045B4C81B07D203F0767CF20"><enum>(C)</enum><header>Draft economic analysis</header> <clause id="H67039CDB853B450E8FEF80D1C6F0094F"><enum>(i)</enum><header>Requirement</header><text>At the time a proposed rule to designate critical habitat is published, the Secretary shall publish and make available for public comment a draft analysis that—</text> 
+<subclause id="HCB27223B34C644B8B26E1E2AD8531BEE"><enum>(I)</enum><text>examines the incremental and cumulative economic effects of all actions to protect the species and its habitat (including the effects of the proposed designation) upon each State and locality that is the subject of, or affected by, the proposed designation;</text></subclause> <subclause id="H4FD760459E1848AAB2686CE44A10AB4F"><enum>(II)</enum><text>includes consideration of public and private economic effects on—</text> 
+<item id="H95A6173CCD51494FA78A9829D753C3CD"><enum>(aa)</enum><text>possible uses of land and property values;</text></item> <item id="HF33B9152B96249299E426C9FC500C878"><enum>(bb)</enum><text>the provision of water, power, or other public services;</text></item> 
+<item id="HA2F111CB89814424A3BDAB1DA3D0C079"><enum>(cc)</enum><text>employment; and</text></item> <item id="H3E38F2121CA944A6A78593E24D75AC71"><enum>(dd)</enum><text>revenues available for State and local governments, including a political subdivision of a State that directly or indirectly provides public services, school districts, and any other instrumentality of a State;</text></item></subclause> 
+<subclause id="HF84EB2DA93EA4002B05FDD0238FEF3E2"><enum>(III)</enum><text>complies with the guidelines issued pursuant to section 515 of the Treasury and General Government Appropriations Act of 2001 (114 Stat. 2763A–153); and</text></subclause> <subclause id="H5BF47596EF4641D99A12AE0BFAAFC003"><enum>(IV)</enum><text display-inline="yes-display-inline">assesses such effects on a quantitative and qualitative basis.</text></subclause></clause> 
+<clause id="HD111A5AEFAA746608EC1D0D26D0841C0"><enum>(ii)</enum><header>Determination factors not affected</header><text display-inline="yes-display-inline">Nothing in clause (i) shall be construed as adding to, subtracting from, or otherwise modifying the factors set forth in subsection (a)(1) or the bases set forth in paragraph (1) of this subsection</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="HDA97369677FA4AA7B1321C56DA37EEBA"><enum>(b)</enum><header>Application</header> <paragraph id="H5AC017A2DB9148539C2625BC34F5B90A"><enum>(1)</enum><header>In general</header><text>The amendments made by subsection (a) shall apply with respect to any designation of critical habitat under such Act on or after August 28, 2013.</text></paragraph>
+<paragraph id="H75B7DAE331204794B87CE32E26426F1E"><enum>(2)</enum><header>Report</header><text>Not later than 180 days after the date of the enactment of this Act, the Secretary (as that term is defined in such Act) shall submit a report to the Congress describing the effect of paragraph (1).</text></paragraph></subsection></section> </legis-body> </bill> 
+

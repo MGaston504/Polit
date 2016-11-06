@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7FE6CEA7C5184E3694FE624BA7B54251" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2946 IH: Incentivize Corporate America Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2946</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150625">June 25, 2015</action-date> 
+<action-desc><sponsor name-id="W000816">Mr. Williams</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Internal Revenue Code of 1986 to reduce the corporate income tax rate to 20 percent.</official-title> 
+</form> 
+<legis-body id="HC5F4D02AEB8541DD8D615A87F34100D8" style="OLC"> 
+<section id="HB3400CC79C064D5EA11D92CDD80CB466" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Incentivize Corporate America Act of 2015</short-title></quote>.</text></section> <section id="H6C5B609EE75B4322BBD327282A64D3B3" commented="no"><enum>2.</enum><header>20-percent corporate tax rate</header> <subsection id="H1415103778AD47E79CD4FD41DC432C8B" commented="no"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subsection (b) of <external-xref legal-doc="usc" parsable-cite="usc/26/11">section 11</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text> 
+<quoted-block style="OLC" display-inline="no-display-inline" id="H1FD47C5547F344318F923C88A8A4C6D6"> 
+<subsection id="H116E351F4DC14F42AFEE4D4A8EEDD6A2" commented="no"><enum>(b)</enum><header>Amount of tax</header><text display-inline="yes-display-inline">The amount of the tax imposed by subsection (a) shall be 20 percent of taxable income.</text> </subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H353C6150DB2245279A0B109DFB1C1FE4" commented="no"><enum>(b)</enum><header>Conforming amendments</header> <paragraph id="H03DB3B5FAF784927B69EA1E0D50BFD63" commented="no"><enum>(1)</enum><text>Paragraphs (2)(B) and (6)(A)(ii) of section 860E(e) of such Code are each amended by striking <quote>section 11(b)(1)</quote> and inserting <quote>section 11(b)</quote>.</text></paragraph> 
+<paragraph id="H6502DC1560DF407AA4DDA6DB53ACA027" commented="no"><enum>(2)</enum> 
+<subparagraph id="H2DC26DA16E2E4BD78C251A6C3AA9535F" commented="no" display-inline="yes-display-inline"><enum>(A)</enum><text>Section 1445(e)(1) of such Code is amended—</text> <clause id="H0DDAF0C3F86A4495BA97D0504A9F79E1" indent="up1" commented="no"><enum>(i)</enum><text>by striking <quote>35 percent</quote> and inserting <quote>the rate of tax in effect for the taxable year under section 11(b)</quote>, and</text></clause> 
+<clause id="H54ED7898CF7745439BAAFE52F9D12139" indent="up1" commented="no"><enum>(ii)</enum><text>by striking <quote>of the gain</quote> and inserting <quote>multiplied by the gain</quote>.</text></clause></subparagraph> <subparagraph id="H36F0A29C968041728D1E5F580CF2595C" indent="up1" commented="no"><enum>(B)</enum><text>Section 1445(e)(2) of such Code is amended by striking <quote>35 percent of the amount</quote> and inserting <quote>the rate of tax in effect for the taxable year under section 11(b) multiplied by the amount</quote>.</text></subparagraph> 
+<subparagraph id="H60160960C3504E09A7D139000498974F" indent="up1" commented="no"><enum>(C)</enum><text>Section 1445(e)(6) of such Code is amended—</text> <clause id="H6AD1A71144C541F3A473542B054EF12C" commented="no"><enum>(i)</enum><text>by striking <quote>35 percent</quote> and inserting <quote>the rate of tax in effect for the taxable year under section 11(b)</quote>, and</text></clause> 
+<clause id="H89E8B8C463D746C0A16AA030CB9D84E9" commented="no"><enum>(ii)</enum><text>by striking <quote>of the amount</quote> and inserting <quote>multiplied by the amount</quote>.</text></clause></subparagraph> <subparagraph id="HB45C44158DB64EF383312F12D6E30CF8" indent="up1" commented="no"><enum>(D)</enum><text>Section 1446(b)(2)(B) of such Code is amended by striking <quote>section 11(b)(1)</quote> and inserting <quote>section 11(b)</quote>.</text></subparagraph></paragraph> 
+<paragraph id="H7E25FF4AB6E2432F86AFD4C75B9AF887"><enum>(3)</enum><text>Section 852(b)(1) of such Code is amended by striking the last sentence.</text></paragraph> <paragraph id="H9277E44E220C43D5B69B9C0AA5487F71" commented="no"><enum>(4)</enum><text>Section 7874(e)(1)(B) of such Code is amended by striking <quote>section 11(b)(1)</quote> and inserting <quote>section 11(b)</quote>.</text></paragraph></subsection> 
+<subsection id="H76B34C2E8B0B4652B302E4AE5B0287DB" commented="no"><enum>(c)</enum><header>Effective date</header> 
+<paragraph id="H9C0235E43A2848D793C81BB90BD072E3" commented="no"><enum>(1)</enum><header>In general</header><text>Except as otherwise provided in this subsection, the amendments made by this section shall apply to taxable years beginning after December 31, 2015.</text></paragraph> <paragraph id="H36C1B2EDD62C427BA102CB2B6FA5033C" commented="no"><enum>(2)</enum><header>Withholding</header><text>The amendments made by subsection (b)(2) shall apply to distributions made after December 31, 2015.</text></paragraph> </subsection></section> 
+</legis-body> 
+</bill> 
+

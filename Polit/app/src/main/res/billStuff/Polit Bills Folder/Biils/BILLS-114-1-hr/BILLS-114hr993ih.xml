@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H36778381D48B4971BE641E5C35CC409C"
+    public-private="public">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 993 IH: Veterans’ Independent Living Enhancement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code display="yes">I</distribution-code>
+        <congress>114th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>H. R. 993</legis-num>
+        <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+        <action>
+            <action-date date="20150213">February 13, 2015</action-date>
+            <action-desc><sponsor name-id="L000580">Ms. Michelle Lujan Grisham of New
+                    Mexico</sponsor> (for herself, <cosponsor name-id="T000465">Ms.
+                    Tsongas</cosponsor>, <cosponsor name-id="C001090">Mr. Cartwright</cosponsor>,
+                and <cosponsor name-id="L000570">Mr. Ben Ray Luján of New Mexico</cosponsor>)
+                introduced the following bill; which was referred to the <committee-name
+                    committee-id="HVR00">Committee on Veterans’
+                Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title 38, United States Code, to repeal the limitation on the
+            number of veterans authorized to be enrolled in programs of independent living services
+            and assistance administered by the Secretary of Veterans Affairs.</official-title>
+    </form>
+    <legis-body id="HBE07A41E4F1A49E3993489622C45A907" style="OLC">
+        <section id="H0A791CB626AF427B8D73508057139696" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans’ Independent Living Enhancement Act</short-title></quote>.</text>
+        </section>
+        <section id="H41695BA8C7E4422BAD5F9ED685DA031B">
+            <enum>2.</enum>
+            <header>Repeal of limitation on number of veterans enrolled in programs of independent
+                living services and assistance administered by the Secretary of Veterans
+                Affairs</header>
+            <subsection id="HD47509E759654F638F8872AC283CD4F3">
+                <enum>(a)</enum>
+                <header>Repeal</header>
+ <text display-inline="yes-display-inline">Section 3120 of title 38, United States Code, is amended—</text>
+                <paragraph id="H567D173B225E4A79B6C5B68B8E964687">
+                    <enum>(1)</enum>
+ <text>by striking subsection (e); and</text> </paragraph> <paragraph id="HA835E47B9AD1407289071C8AEAB367B1"> <enum>(2)</enum> <text>by redesignating subsection (f) as subsection (e).</text>
+                </paragraph>
+            </subsection>
+            <subsection id="HEB6CDB10355343EEAA13C57A38DC011D">
+                <enum>(b)</enum>
+                <header>Conforming amendment</header>
+ <text>Subsection (a) of such section is amended by striking <quote>subsection (f)</quote> and inserting <quote>subsection (e)</quote>.</text>
+            </subsection>
+            <subsection id="H6E756AEBC012475E809D9C24AD51DD55">
+                <enum>(c)</enum>
+                <header>Report to Congress</header>
+ <text>Not later than 60 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a plan to educate employees of the Department of Veterans Affairs whose responsibilities relate to vocational rehabilitation counseling or employment counseling about the benefits and appropriate use of the independent living services provided under section 3120 of title 38, United States Code.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
+

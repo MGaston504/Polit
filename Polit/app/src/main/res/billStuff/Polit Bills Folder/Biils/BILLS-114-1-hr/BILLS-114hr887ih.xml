@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HFC5070A23CCC4E69BA127041BE3F2B2E" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 887 IH: Electronic Health Fairness Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 887</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150211">February 11, 2015</action-date>
+			<action-desc><sponsor name-id="B001273">Mrs. Black</sponsor> (for herself, <cosponsor name-id="S001157">Mr. David Scott of Georgia</cosponsor>, <cosponsor name-id="S001156">Ms. Linda T. Sánchez of California</cosponsor>, and <cosponsor name-id="B001260">Mr. Buchanan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act with respect to the treatment of patient encounters
+			 in ambulatory surgical centers in determining meaningful EHR use, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body id="H4141812950E345E88AEE1C313B1E5CED" style="OLC">
+ <section id="H063ADA99AA9446C59A4E8C19A1E90513" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Electronic Health Fairness Act of 2015</short-title></quote>.</text> </section><section id="H3380B8CF1FB742B4BADEAD4D729262CF"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+ <paragraph id="HED01B12FEA234FA58323FFC6C4377C24"><enum>(1)</enum><text display-inline="yes-display-inline">Ambulatory surgery centers were not covered under the provisions of the HITECH Act of 2009, which created certification standards and incentives for adopting electronic health record (EHR) technology in the physician office and hospital settings.</text>
+ </paragraph><paragraph id="H0C0C50CC6B0D41FFA6E4A8C24AD2CF17"><enum>(2)</enum><text display-inline="yes-display-inline">CMS defines a meaningful EHR user as an eligible professional having 50 percent or more of the professional’s outpatient encounters at practices or locations equipped with certified EHR technology.</text>
+ </paragraph><paragraph id="H94135C9586634E279B7E820F06637F1B"><enum>(3)</enum><text display-inline="yes-display-inline">Physicians with patient encounters in an ambulatory surgical center are at a disadvantage when attempting to meet meaningful use requirements because there currently is not certified EHR technology for such centers.</text>
+ </paragraph><paragraph id="H96D22876F53B41829B607F03F4419C32"><enum>(4)</enum><text display-inline="yes-display-inline">Until such time as EHR technology is certified specifically for use in the ambulatory surgical centers, patient encounters that occur in such a center should not be used when calculating whether an eligible professional meets meaningful use requirements, unless an eligible professional elects to include those encounters.</text>
+ </paragraph></section><section id="HF71164E12022437196E0D2A5DD88E0D3"><enum>3.</enum><header>Treatment of patient encounters in ambulatory surgical centers in determining meaningful EHR use</header><text display-inline="no-display-inline">Section 1848(o)(2) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">42 U.S.C. 1395w–4(o)(2)</external-xref>) is amended by adding at the end of the following new subparagraph:</text>
+			<quoted-block display-inline="no-display-inline" id="H0D3766E3F97A4605B5F4E3C589C9851F" style="OLC">
+				<subparagraph id="H56F08FB6C89949728897BD813AE87BD0"><enum>(D)</enum><header>Treatment of patient encounters at ambulatory surgical centers</header>
+ <clause id="H0D826DF8D786428AA95A860DF36ACE2E"><enum>(i)</enum><header>In general</header><text display-inline="yes-display-inline">Subject to clause (ii), any patient encounter of an eligible professional occurring at an ambulatory surgical center (described in section 1832(i)(1)(A)) shall not be treated as a patient encounter in determining whether an eligible professional qualifies as a meaningful EHR user.</text>
+ </clause><clause id="H2B8651F3869543F0BE8D2BB4AD3FFA6B"><enum>(ii)</enum><header>Sunset</header><text display-inline="yes-display-inline">Clause (i) shall no longer apply as of the first year that begins more than 3 years after the date the Secretary certifies EHR technology for the ambulatory surgical center setting.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

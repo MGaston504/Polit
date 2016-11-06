@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8A8020F72B72462BBBFEB31383B2928D" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 978 IH: Low Value Shipment Regulatory Modernization Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 978</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150213">February 13, 2015</action-date>
+			<action-desc><sponsor name-id="S001179">Mr. Schock</sponsor> (for himself, <cosponsor name-id="C001038">Mr. Crowley</cosponsor>, <cosponsor name-id="S001196">Ms. Stefanik</cosponsor>, and <cosponsor name-id="L000557">Mr. Larson of Connecticut</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Tariff Act of 1930 to increase and adjust for inflation the maximum value of articles
+			 that may be imported duty-free by one person on one day, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="HE0404D89B5BE44719FF99555802178BE" style="OLC">
+ <section id="H171F706403204EA089E1FED96124259E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Low Value Shipment Regulatory Modernization Act of 2015</short-title></quote>.</text> </section><section id="HA9DE3BD482C04A72B937CF2690EADAB0"><enum>2.</enum><header>Sense of Congress on de minimis informal entries</header> <subsection id="H4154EC48CD3349908E0C9B9811DEFB40"><enum>(a)</enum><header>Findings</header><text>Congress makes the following findings:</text>
+ <paragraph id="HD8DD01FEBFA04F808AF7646F9C82E04B"><enum>(1)</enum><text display-inline="yes-display-inline">Modernizing international customs is critical for United States businesses of all sizes, consumers in the United States, and the economic growth of the United States.</text>
+ </paragraph><paragraph id="H7CAC4F7666464805A8990222D7A90437"><enum>(2)</enum><text>Higher thresholds for the value of articles that may be entered informally and free of duty provide significant economic benefits to businesses and consumers in the United States and the economy of the United States through costs savings and reductions in trade transaction costs.</text>
+ </paragraph></subsection><subsection id="HEC666CFC40464DBBA3EFA6AF4702D506"><enum>(b)</enum><header>Sense of Congress</header><text>It is the sense of Congress that the United States Trade Representative should encourage other countries, through bilateral, regional, and multilateral fora, to establish commercially meaningful de minimis values for express and postal shipments that are exempt from customs duties and taxes and from certain entry documentation requirements, as appropriate.</text>
+			</subsection></section><section id="HEA01ED8E4EB34EB59817C7544C28FCCB"><enum>3.</enum><header>Increase in and adjustment for inflation of maximum value of articles that may be imported
+			 duty-free by one person on one day</header>
+ <subsection commented="no" display-inline="no-display-inline" id="H42BFC2323B8F45F6897118E42AE574BE"><enum>(a)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Section 321 of the Tariff Act of 1930 (<external-xref legal-doc="usc" parsable-cite="usc/19/1321">19 U.S.C. 1321</external-xref>) is amended—</text> <paragraph commented="no" display-inline="no-display-inline" id="H0746E8AB0B974A669AFD5C60016DBEA5"><enum>(1)</enum><text display-inline="yes-display-inline">in subsection (a)(2), by striking subparagraph (C) and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H5C124DC0C18045DCA70A403E9623EF0B" style="OLC">
+ <subparagraph commented="no" display-inline="no-display-inline" id="H17B7D37298B94BBCB474EF019FAA3DF3"><enum>(C)</enum><text>in any other case, the dollar amount specified in subsection (c).</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block> </paragraph><paragraph commented="no" display-inline="no-display-inline" id="H9B1301315D03444BAF470A98E5746F5A"><enum>(2)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="HC40ABB91DA374B2B8881847325263D57" style="OLC">
+						<subsection commented="no" display-inline="no-display-inline" id="H0345E98D1CB04D35935B3E3CDE39E62B"><enum>(c)</enum><header>Annual adjustment of value of articles that may enter duty-Free</header>
+ <paragraph commented="no" display-inline="no-display-inline" id="HA7572F46344D47F5920AFA4111BB1AC5"><enum>(1)</enum><header display-inline="yes-display-inline">Dollar amount specified</header><text>The dollar amount specified in this subsection is—</text> <subparagraph commented="no" display-inline="no-display-inline" id="H2ACC752008A4400587CB788560E9F1A0"><enum>(A)</enum><text>for calendar year 2016, $800; and</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H0396D9E5F912435AAB78BC96A6DD1BFB"><enum>(B)</enum><text>subject to paragraph (2), for any calendar year after calendar year 2016, an amount equal to $800 increased by an amount equal to—</text>
+ <clause commented="no" display-inline="no-display-inline" id="H820A92A47B464E91A92A44155093594F"><enum>(i)</enum><text display-inline="yes-display-inline">$800, multiplied by</text> </clause><clause commented="no" display-inline="no-display-inline" id="H73DA5FAAC91A4BEC970A020A4B1C770E"><enum>(ii)</enum><text display-inline="yes-display-inline">the percentage of the increase (if any) in the Consumer Price Index for the preceding calendar year compared to the Consumer Price Index for calendar year 2015.</text>
+ </clause></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="H0B35A206B7144D3BAD002DB2D390E3F3"><enum>(2)</enum><header display-inline="yes-display-inline">Rounding</header><text display-inline="yes-display-inline">Any increase under paragraph (1) of the dollar amount specified in this subsection shall be rounded to the nearest increment of $50.</text>
+ </paragraph><paragraph commented="no" id="H5A79E19565F84F4682F6091D83AB5061"><enum>(3)</enum><header>Consumer Price Index for any calendar year</header><text>For purposes of this subsection, the Consumer Price Index for any calendar year is the average of the Consumer Price Index as of the close of the 12-month period ending on September 30 of that calendar year.</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="HF1FC00FF468C42108C59FCBC297D2A36"><enum>(4)</enum><header display-inline="yes-display-inline">Consumer Price Index defined</header><text display-inline="yes-display-inline">For purposes of this subsection, the term <term>Consumer Price Index</term> means the last Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H334CA51E4F1E4BAEA96BBFF311BC5DF2"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section apply to articles entered, or withdrawn from warehouse for consumption, on or after January 1, 2016.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

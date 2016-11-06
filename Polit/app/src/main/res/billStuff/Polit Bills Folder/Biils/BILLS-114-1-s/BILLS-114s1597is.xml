@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1597 IS: Patient-Focused Impact Assessment Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-06-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1597</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150617">June 17, 2015</action-date>
+			<action-desc><sponsor name-id="S318">Mr. Wicker</sponsor> (for himself, <cosponsor name-id="S311">Ms. Klobuchar</cosponsor>, <cosponsor name-id="S252">Ms. Collins</cosponsor>, <cosponsor name-id="S332">Mr. Franken</cosponsor>, <cosponsor name-id="S305">Mr. Isakson</cosponsor>, and <cosponsor name-id="S330">Mr. Bennet</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To enhance patient engagement in the medical product development process, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Patient-Focused Impact Assessment Act of 2015</short-title></quote>.</text>
+ </section><section id="id547F82CEAEE149D582E289E3A8629590"><enum>2.</enum><header>Public disclosure of safety and effectiveness data in action package</header><text display-inline="no-display-inline">Paragraph (2) of section 505(l) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/355">21 U.S.C. 355(l)</external-xref>) is amended—</text>
+ <paragraph id="idae190a45254f42639ab290431e22f26a"><enum>(1)</enum><text>in subparagraph (C), by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="id18d41690267d4d43999a5dabc8daf8c4" style="OLC"> <clause id="idd823f25844e648459b94c76020a0544c" indent="up1"><enum>(vii)</enum><text>Documentation of the patient engagement assessment efforts made as part of the review, including identification of the patient-focused drug development tools and data reviewed in informing the decision to approve the application, and including an explanation of whether the following were reviewed or examined:</text>
+ <subclause id="id5947e1514da2453786f02096a8e4d7e7"><enum>(I)</enum><text>Patient population benefit and risk data.</text> </subclause><subclause id="idba9bd36b6aeb4ed786be85576e8a87eb"><enum>(II)</enum><text>Draft or final guidances issued by the Food and Drug Administration.</text>
+ </subclause><subclause id="id1b5146c743124288b40bb388f7e372a3"><enum>(III)</enum><text>Patient-reported or caregiver-reported outcomes data.</text> </subclause><subclause id="id01f6c1b75b5640169cf321ce533a82b0"><enum>(IV)</enum><text>Patient preference data.</text>
+ </subclause><subclause id="id2fbbfb334ff54f94a2fda72dc96453fa"><enum>(V)</enum><text>Perspectives of patients serving on advisory committees or participating in medical product development proceedings.</text>
+ </subclause><subclause id="id82158322d97f4c03a00def1c30379bab"><enum>(VI)</enum><text>Perspectives of medical and scientific professionals with relevant expertise.</text> </subclause><subclause id="ida624e39d0bd8494ab7f2b2e6bb292e51"><enum>(VII)</enum><text>Other measures to assess the impact of patient-focused drug development tools, as determined by the Secretary.</text></subclause></clause><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="id2217d8340bae464c985f0e75a0d0ee62"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="id666350361b9f47b9a15c1b2c8c4b5465" style="OLC"> <subparagraph id="id86efe4de9fd543e3924a12f18a70bf75" indent="up1"><enum>(F)</enum><header>Annual reports</header><text>The Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives an annual report summarizing the data collected from the action packages under subparagraph (C)(vii). Such report shall include an assessment by the Food and Drug Administration of the trends of such agency with respect to the use of patient-focused drug development tools in reviewing applications under subsection (b) and section 351 of the Public Health Service Act.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="id75589B5663644BD2A0BC6423F8B3C003"><enum>3.</enum><header>Guidance to patients and industry on patient-focused drug development</header>
+ <subsection id="id5cc321cef73c4fd8ab985371253de879"><enum>(a)</enum><header>Publication of guidance; contents</header><text>The Secretary of Health and Human Services (referred to in this section as the <quote>Secretary</quote>), acting through the Commissioner of Food and Drugs, shall publish guidance that—</text> <paragraph id="id1d4a1174c76c4d98bcd07dcc1418a1f2"><enum>(1)</enum><text>specifies how the Food and Drug Administration views collaboration between patients or patient advocacy organizations and industry sponsors for the purposes of—</text>
+ <subparagraph id="id923de88db5284f7c98cba6e6332a4500"><enum>(A)</enum><text>developing patient-focused drug development tools; and</text> </subparagraph><subparagraph id="id1316e591d2ba4e158c73de69ca194e63"><enum>(B)</enum><text>obtaining patient perspectives on medical products under development;</text>
+ </subparagraph></paragraph><paragraph id="id5666dbea234c416e9468c85b08d45658"><enum>(2)</enum><text>specifies the position of the Food and Drug Administration with respect to advocacy and industry collaborations that would be permitted to develop such tools and obtain such perspectives; and</text>
+ </paragraph><paragraph id="id56f4ecaefa304665a2ae26bef8532ddf"><enum>(3)</enum><text>specifies the position of the Food and Drug Administration with respect to activities that would not be permitted for such purposes.</text>
+ </paragraph></subsection><subsection id="id696247c22ff04107b403677b6f7710ba"><enum>(b)</enum><header>Timing</header><text>The Secretary shall—</text> <paragraph id="id56380cc3fb634b83a4cc73dea1de4bbe"><enum>(1)</enum><text>not later than 6 months after the date of enactment of this Act, publish proposed guidance under this section; and</text>
+ </paragraph><paragraph id="id937ce8f0707c4413b052e1be99402ded"><enum>(2)</enum><text>not later than 6 months after the date of publication of such proposed guidance, and after providing an opportunity for the public to comment on such proposed guidance, publish final guidance under this section.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

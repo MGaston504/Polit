@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HDA295A4DCB074C4CB850D44AEFB1EC55" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 43 IH: Border Security, Cooperation, and Act Now Drug War Prevention Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 43</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="J000032">Ms. Jackson Lee</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name>, and in addition to the Committee on the <committee-name committee-id="HJU00">Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for emergency deployments of United States Border Patrol agents and to increase the
+			 number of DEA and ATF agents along the international border of the United
+			 States to increase resources to identify and eliminate illicit sources of
+			 firearms into Mexico for use by violent drug trafficking organizations and
+			 for other lawful activities, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HDB63A5A25A9740E0963A02424E8AB919" style="OLC">
+		<section id="HC6996CE457804EDC933C5E253E2C0B0E" section-type="section-one"><enum>1.</enum><header>Short title; table of contents</header>
+			<subsection id="HD05965DC3A0F4D7886E14A40FF8B0FA7"><enum>(a)</enum><header>Short title</header><text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Border Security, Cooperation, and Act Now Drug War Prevention Act of 2015</short-title></quote>.</text>
+			</subsection><subsection id="HD5B0FBC617F74F89B6335FB2D7A3CE41"><enum>(b)</enum><header>Table of contents</header><text display-inline="yes-display-inline">The table of contents for this Act is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="HC6996CE457804EDC933C5E253E2C0B0E" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="H13C13C4807714A54B4C498C6704E9647" level="section">Sec. 2. Findings.</toc-entry>
+					<toc-entry idref="HB9B7175C7E8D477C9A50D7F48FD106DF" level="title">Title I—General Provisions</toc-entry>
+					<toc-entry idref="H3221A9D59D594B6BB63024D77581F9FF" level="section">Sec. 101. Emergency deployment of United States Border Patrol agents.</toc-entry>
+					<toc-entry idref="HC9C187FD944B49CA8C25CFF3252ACDC3" level="section">Sec. 102. Emergency deployment of DEA agents.</toc-entry>
+					<toc-entry idref="H380CB42B7FF14BFFA875597FEAD39583" level="section">Sec. 103. Emergency deployment of ATF agents.</toc-entry>
+					<toc-entry idref="H1EDC04901957486B8BE72B46D40BD89F" level="section">Sec. 104. Elimination of fixed deployment of United States Border Patrol agents.</toc-entry>
+					<toc-entry idref="H44AB9F495B49465EB820511BAE3557A8" level="section">Sec. 105. Helicopters and power boats.</toc-entry>
+					<toc-entry idref="HB26BF58FC7F7465980D2DE983039E8A2" level="section">Sec. 106. Control of United States Border Patrol assets.</toc-entry>
+					<toc-entry idref="HF091DDB2A0B5455DB750C0D17F3471E9" level="section">Sec. 107. Motor vehicles.</toc-entry>
+					<toc-entry idref="H43A75E3F2723409884FBF5B2702306D7" level="section">Sec. 108. Portable computers.</toc-entry>
+					<toc-entry idref="H2D659C95B17640D8B9905E7FFFEA5CC8" level="section">Sec. 109. Radio communications.</toc-entry>
+					<toc-entry idref="HD83CB3A6A0F74DC9974349CB3E89CB8C" level="section">Sec. 110. Hand-held global positioning system devices.</toc-entry>
+					<toc-entry idref="HD1A124B89E7E4668BA03FDC771856BF6" level="section">Sec. 111. Night vision equipment.</toc-entry>
+					<toc-entry idref="HD7402DDF33A140B8BD4553280E499895" level="section">Sec. 112. Border armor.</toc-entry>
+					<toc-entry idref="H0131246BC7884803B3F43A98BF12EA2C" level="section">Sec. 113. Weapons.</toc-entry>
+					<toc-entry idref="H4FA5E84AFE5F489C84F63F2A5DFFF18A" level="section">Sec. 114. Uniforms.</toc-entry>
+					<toc-entry idref="HF5182DA88B5440E3A5C7CD7EB9858B90" level="section">Sec. 115. Task force.</toc-entry>
+					<toc-entry idref="H70917FBA5EB748D49235A7ED7E5123FD" level="title">Title II—Border Relief</toc-entry>
+					<toc-entry idref="H9055198951654C59A2EFD95DB0921605" level="section">Sec. 201. Border relief grant program.</toc-entry>
+					<toc-entry idref="H85EDAD94ACCE45B8B777712E347F7507" level="section">Sec. 202. Authorization of appropriations.</toc-entry>
+					<toc-entry idref="H9564318C2B004342A86BB2B2CB916E6D" level="section">Sec. 203. Enforcement of Federal immigration law.</toc-entry>
+					<toc-entry idref="HC0D10B219A4F42FB91C7E26094C1FAE3" level="section">Sec. 204. Regulations.</toc-entry></toc>
+			</subsection></section><section id="H13C13C4807714A54B4C498C6704E9647"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+			<paragraph id="HD0383489D4F04025BE50820D76926D2F"><enum>(1)</enum><text display-inline="yes-display-inline">In 2008, the violence between Mexican drug gangs fighting for trafficking routes to the United
+			 States killed approximately 6,000 people in Mexico, including more than
+			 500 police officers and soldiers.</text>
+			</paragraph><paragraph id="HA1684FB9437448DDBAE742F499086835"><enum>(2)</enum><text>In the first eight weeks of 2009, more than 1,000 people were killed as a result of the drug war.</text>
+			</paragraph><paragraph id="H2B7D636F8D6E451B8CD60359603B8A52"><enum>(3)</enum><text>In March 2009, Mexico sent an additional 3,200 soldiers to the border, increasing the total number
+			 of Mexican solders combating drug cartels to more than 45,000.</text>
+			</paragraph><paragraph id="H854DD991367A4D70AA373C02DF2770D0"><enum>(4)</enum><text>Over 200 United States citizens have been killed in the drug war, either because they were involved
+			 in the cartels or were innocent bystanders.</text>
+			</paragraph><paragraph id="HE9F10D5FDFE84E0D8240485F569349BE"><enum>(5)</enum><text display-inline="yes-display-inline">The drug trade in Mexico include marijuana, heroin, cocaine, and methamphetamine (meth).</text>
+			</paragraph><paragraph id="H0BEC9AEC355E4F46AFED931E5DE55789"><enum>(6)</enum><text>Mexico is the conduit for most of the cocaine—approximately 90 percent—in the United States, the
+			 source for much of the heroin consumed in this country, and the largest
+			 foreign supplier of marijuana and meth to other markets.</text>
+			</paragraph><paragraph id="H2ECA5F189DAA43709574A6E55641DF16"><enum>(7)</enum><text>Estimates indicate a vast majority of the cocaine available in the United States market is smuggled
+			 by Mexican cartels across the United States-Mexico border.</text>
+			</paragraph><paragraph id="H29A062DB3A3F4D7EA233BE12CED7A008"><enum>(8)</enum><text>Cartels are becoming increasingly involved in the trafficking of meth because of the large profit
+			 margins they obtain from controlling the drug from manufacture to
+			 distribution.</text>
+			</paragraph><paragraph id="H03050085EED3466FA7C9A8666E166437"><enum>(9)</enum><text>The drug cartels have criminal earnings in excess of $25 billion per year and physically send more
+			 than $10 billion a year in bulk cash back into Mexico from the United
+			 States.</text>
+			</paragraph><paragraph id="H9A2F4E5474A441C2A44D796F691FC286"><enum>(10)</enum><text>According to the 2009 National Drug Threat Assessment, Mexican drug trafficking organizations are
+			 the greatest drug trafficking threat to the United States.</text>
+			</paragraph><paragraph id="HD959BFE650724AFDACE39B344A775385"><enum>(11)</enum><text>Mexico’s cartels have existed for some time, but have become increasingly powerful in recent years
+			 with the demise of once powerful cartels in Colombia and the closure of
+			 trafficking routes through Florida.</text>
+			</paragraph><paragraph id="H0296F81A3A014DAAA928E648777064F6"><enum>(12)</enum><text>The Colombian cartels still play a role in the United States drug trade.</text>
+			</paragraph><paragraph id="HE3DD146083A448A2BA43486048B76862"><enum>(13)</enum><text>The Drug Enforcement Administration (DEA) maintains that the Mexican cartels now command and
+			 control the drug trade and show the hallmarks of organized crime, such as
+			 organizing into distinct cells with subordinate cells, including gangs,
+			 which operate throughout the United States.</text>
+			</paragraph><paragraph id="HC14E5FDA78904FADAF599C3C4FA492F2"><enum>(14)</enum><text>Mexican cartels control drug distribution in most United States cities, and they are gaining
+			 strength in markets that they do not yet control. The 2009 National Drug
+			 Threat Assessment indicates that Mexican cartels maintain drug
+			 distribution networks or supply drugs to distributors in at least 230
+			 United States cities, including in Alaska and Hawaii.</text>
+			</paragraph><paragraph id="H945291474A4A43F6A34182BA46EF0305"><enum>(15)</enum><text display-inline="yes-display-inline">The Federal Government provides States and local governments with assistance in covering the costs
+			 related to the fight against the drug cartels and the prosecution of such
+			 drug cases, local law enforcement along the border is in need of
+			 assistance in covering expenses. Local law enforcement uses its limited
+			 resources to combat drug trafficking, human smuggling, kidnappings, the
+			 destruction of private property, and other border security related crimes.
+			 The United States shares 1,989 miles along its border with Mexico. Federal
+			 assistance is required to help local law enforcement.</text>
+			</paragraph></section><title id="HB9B7175C7E8D477C9A50D7F48FD106DF"><enum>I</enum><header>General Provisions</header>
+			<section id="H3221A9D59D594B6BB63024D77581F9FF"><enum>101.</enum><header>Emergency deployment of United States Border Patrol agents</header>
+				<subsection id="HC027218C8BC14A4EAD086BA0EF9AF1C7"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">If the Governor of a State on an international border of the United States declares an
+			 international border security emergency, including actions involving
+			 Mexican drug gangs fighting for trafficking routes involved in violent
+			 drug wars, and requests additional United States Border Patrol agents from
+			 the Secretary of Homeland Security, the Secretary is authorized, subject
+			 to subsections (b) and (c), to provide the State with up to 500 additional
+			 United States Border Patrol agents for the purpose of patrolling and
+			 defending the international border in order to prevent individuals from
+			 crossing the international border and entering the United States at any
+			 location other than an authorized port of entry.</text>
+				</subsection><subsection id="H65A16C7FBC104394A1BC6230BFB12DF1"><enum>(b)</enum><header>Consultation</header><text>The Secretary of Homeland Security shall consult with the President upon receipt of a request under
+			 subsection (a), and shall grant such request to the extent that providing
+			 the requested assistance will not significantly impair the Department of
+			 Homeland Security’s ability to provide border security for any other
+			 State.</text>
+				</subsection><subsection id="HA1D8862FB1D24154876B96C7F7EEF746"><enum>(c)</enum><header>Collective bargaining</header><text>Emergency deployments under this section shall be made in accordance with all collective bargaining
+			 agreements and obligations.</text>
+				</subsection></section><section display-inline="no-display-inline" id="HC9C187FD944B49CA8C25CFF3252ACDC3" section-type="subsequent-section"><enum>102.</enum><header>Emergency deployment of DEA agents</header>
+				<subsection id="H96DFE3811A4143E1B06E3A3638A05B60"><enum>(a)</enum><header>In general</header><text>If the Governor of a State on an international border of the United States declares an
+			 international border security emergency and requests additional Drug
+			 Enforcement Administration (DEA) agents from the Attorney General, the
+			 Attorney General is authorized, subject to subsections (b) and (c), to
+			 provide the State with up to 500 additional DEA agents for the purpose of
+			 combating the inflow of drugs along trafficking routes to the United
+			 States.</text>
+				</subsection><subsection id="H337591CBB87349CCA1F1E4B336391F0F"><enum>(b)</enum><header>Consultation</header><text>The Attorney General shall consult with the President upon receipt of a request under subsection
+			 (a), and shall grant such request to the extent that providing the
+			 requested assistance will not significantly impair the Attorney General’s
+			 ability to provide DEA agents for any other State.</text>
+				</subsection><subsection id="HCF91B3F5702A44B58EE608F2E9AEA695"><enum>(c)</enum><header>Collective bargaining</header><text>Emergency deployments under this section shall be made in accordance with all collective bargaining
+			 agreements and obligations.</text>
+				</subsection></section><section id="H380CB42B7FF14BFFA875597FEAD39583"><enum>103.</enum><header>Emergency deployment of ATF agents</header>
+				<subsection id="H91D3B264C3F84CC5A6D92738A3657875"><enum>(a)</enum><header>In general</header><text>If the Governor of a State on an international border of the United States declares an
+			 international border security emergency and requests additional Bureau of
+			 Alcohol, Tobacco, Firearms, and Explosives (ATF) agents from the Attorney
+			 General, the Attorney General is authorized, subject to subsections (b)
+			 and (c), to provide the State with up to 500 additional ATF agents for the
+			 purpose of combating the inflow of firearms, explosives, alcohol, and
+			 tobacco along smuggling routes to the United States.</text>
+				</subsection><subsection id="H49A2A48D13E84785ACDAAA7E3A737BB6"><enum>(b)</enum><header>Consultation</header><text>The Attorney General shall consult with the President upon receipt of a request under subsection
+			 (a), and shall grant such request to the extent that providing the
+			 requested assistance will not significantly impair the Attorney General’s
+			 ability to provide ATF agents for any other State.</text>
+				</subsection><subsection id="HCF67BE22E63E437DAB85575892971FBE"><enum>(c)</enum><header>Collective bargaining</header><text>Emergency deployments under this section shall be made in accordance with all collective bargaining
+			 agreements and obligations.</text>
+				</subsection></section><section id="H1EDC04901957486B8BE72B46D40BD89F"><enum>104.</enum><header>Elimination of fixed deployment of United States Border Patrol agents</header><text display-inline="no-display-inline">The Secretary of Homeland Security shall ensure that no United States Border Patrol agent is
+			 precluded from performing patrol duties and apprehending violators of law,
+			 except in unusual circumstances where the temporary use of fixed
+			 deployment positions is necessary.</text>
+			</section><section id="H44AB9F495B49465EB820511BAE3557A8"><enum>105.</enum><header>Helicopters and power boats</header>
+				<subsection id="H22D89DB6A80540AE8956E5ADFBD3993F"><enum>(a)</enum><header>In general</header><text>The Secretary of Homeland Security shall increase by not fewer than 100 the number of United States
+			 Border Patrol helicopters, and shall increase by not fewer than 250 the
+			 number of United States Border Patrol power boats. The Secretary of
+			 Homeland Security shall ensure that appropriate types of helicopters are
+			 procured for the various missions being performed. The Secretary of
+			 Homeland Security also shall ensure that the types of power boats that are
+			 procured are appropriate for both the waterways in which they are used and
+			 the mission requirements.</text>
+				</subsection><subsection id="HDB47C1712A734F3AB764E42AB6FD3FED"><enum>(b)</enum><header>Use and training</header><text>The Secretary of Homeland Security shall establish an overall policy on how the helicopters and
+			 power boats described in subsection (a) will be used and implement
+			 training programs for the agents who use them, including safe operating
+			 procedures and rescue operations.</text>
+				</subsection></section><section id="HB26BF58FC7F7465980D2DE983039E8A2"><enum>106.</enum><header>Control of United States Border Patrol assets</header><text display-inline="no-display-inline">The United States Border Patrol shall have complete and exclusive administrative and operational
+			 control over all the assets utilized in carrying out its mission,
+			 including aircraft, watercraft, vehicles, detention space, transportation,
+			 and all of the personnel associated with such assets.</text>
+			</section><section id="HF091DDB2A0B5455DB750C0D17F3471E9"><enum>107.</enum><header>Motor vehicles</header><text display-inline="no-display-inline">The Secretary of Homeland Security shall establish a fleet of motor vehicles appropriate for use by
+			 the United States Border Patrol that will permit a ratio of at least one
+			 police-type vehicle per every three United States Border Patrol agents.
+			 Additionally, the Secretary of Homeland Security shall ensure that there
+			 are sufficient numbers and types of other motor vehicles to support the
+			 mission of the United States Border Patrol. All vehicles will be chosen on
+			 the basis of appropriateness for use by the United States Border Patrol,
+			 and each vehicle shall have a <term>panic button</term> and a global positioning system device that is activated solely in emergency situations for the
+			 purpose of tracking the location of an agent in distress. The police-type
+			 vehicles shall be replaced at least every three years.</text>
+			</section><section id="H43A75E3F2723409884FBF5B2702306D7"><enum>108.</enum><header>Portable computers</header><text display-inline="no-display-inline">The Secretary of Homeland Security shall ensure that each police-type motor vehicle in the fleet of
+			 the United States Border Patrol is equipped with a portable computer with
+			 access to all necessary law enforcement databases and otherwise suited to
+			 the unique operational requirements of the United States Border Patrol.</text>
+			</section><section id="H2D659C95B17640D8B9905E7FFFEA5CC8"><enum>109.</enum><header>Radio communications</header><text display-inline="no-display-inline">The Secretary of Homeland Security shall augment the existing radio communications system so all
+			 law enforcement personnel working in every area where United States Border
+			 Patrol operations are conducted have clear and encrypted two-way radio
+			 communication capabilities at all times. Each portable communications
+			 device shall be equipped with a <term>panic button</term> and a global positioning system device that is activated solely in emergency situations for the
+			 purpose of tracking the location of the agent in distress.</text>
+			</section><section id="HD83CB3A6A0F74DC9974349CB3E89CB8C"><enum>110.</enum><header>Hand-held global positioning system devices</header><text display-inline="no-display-inline">The Secretary of Homeland Security shall ensure that each United States Border Patrol agent is
+			 issued a state-of-the-art hand-held global positioning system device for
+			 navigational purposes.</text>
+			</section><section id="HD1A124B89E7E4668BA03FDC771856BF6"><enum>111.</enum><header>Night vision equipment</header><text display-inline="no-display-inline">The Secretary of Homeland Security shall ensure that sufficient quantities of state-of-the-art
+			 night vision equipment are procured and maintained to enable each United
+			 States Border Patrol agent working during the hours of darkness to be
+			 equipped with a portable night vision device.</text>
+			</section><section id="HD7402DDF33A140B8BD4553280E499895"><enum>112.</enum><header>Border armor</header><text display-inline="no-display-inline">The Secretary of Homeland Security shall ensure that every United States Border Patrol agent is
+			 issued high-quality body armor that is appropriate for the climate and
+			 risks faced by the individual officer. Each officer shall be allowed to
+			 select from among a variety of approved brands and styles. Officers shall
+			 be strongly encouraged, but not mandated, to wear such body armor whenever
+			 practicable. All body armor shall be replaced at least every five years.</text>
+			</section><section id="H0131246BC7884803B3F43A98BF12EA2C"><enum>113.</enum><header>Weapons</header><text display-inline="no-display-inline">The Secretary of Homeland Security shall ensure that United States Border Patrol agents are
+			 equipped with weapons that are reliable and effective to protect
+			 themselves, their fellow officers, and innocent third parties from the
+			 threats posed by armed criminals. In addition, the Secretary shall ensure
+			 that the policies of the Department of Homeland Security allow all such
+			 officers to carry weapons that are suited to the potential threats that
+			 they face.</text>
+			</section><section id="H4FA5E84AFE5F489C84F63F2A5DFFF18A"><enum>114.</enum><header>Uniforms</header><text display-inline="no-display-inline">The Secretary of Homeland Security shall ensure that all United States Border Patrol agents are
+			 provided with all necessary uniform items, including outerwear suited to
+			 the climate, footwear, belts, holsters, and personal protective equipment,
+			 at no cost to such agents. Such items shall be replaced at no cost to such
+			 agents as they become worn, unserviceable, or no longer fit properly.</text>
+			</section><section id="HF5182DA88B5440E3A5C7CD7EB9858B90"><enum>115.</enum><header>Task force</header>
+				<subsection id="HDFCD749BF20346749513F0C0C4A94653"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">There is established a task force to be known as the ATF, DEA, and Border Patrol Task Force. The
+			 task force shall be composed of members appointed by the President from
+			 among representatives of the United States Border Patrol, the Drug
+			 Enforcement Administration, and the Bureau of Alcohol, Tobacco, Firearms,
+			 and Explosives. There shall be an equal number of representatives from
+			 each agency.</text>
+				</subsection><subsection id="H08992BB89864424390AB2237527A0709"><enum>(b)</enum><header>Duties</header><text>The task force shall meet not less than once per month during a two-year period in order to monitor
+			 and report to the Congress and to the President on the trade and sale of
+			 drugs, alcohol, tobacco, firearms, and explosives along the borders of the
+			 United States. Twice a year during such period, the task force shall
+			 submit a report to the Committee on the Judiciary and the Committee on
+			 Homeland Security of the United States House of Representatives and the
+			 Committee on the Judiciary and the Committee on Homeland Security and
+			 Governmental Affairs of the Senate.</text>
+				</subsection><subsection id="HF918321779C04C6B829660ECD1146E72"><enum>(c)</enum><header>Termination</header><text>The task force shall terminate upon the expiration of the two-year period beginning on the date of
+			 the appointment of the last member appointed under this section.</text>
+				</subsection></section></title><title id="H70917FBA5EB748D49235A7ED7E5123FD"><enum>II</enum><header>Border Relief</header>
+			<section id="H9055198951654C59A2EFD95DB0921605"><enum>201.</enum><header>Border relief grant program</header>
+				<subsection id="HBA89A0C57AB64E46A4A8F350B06B37B7"><enum>(a)</enum><header>In general</header><text>From amounts made available under section 202, the Attorney General may make border security grants
+			 to—</text>
+					<paragraph id="H1B9B4B5698FF4B388C885E1CA90F0836"><enum>(1)</enum><text>sheriffs’ offices of counties any part of which is within 25 miles of the southern border of the
+			 United States; and</text>
+					</paragraph><paragraph id="H130000D6FD0F4150A0903F8BE15B9F83"><enum>(2)</enum><text display-inline="yes-display-inline">police departments serving a city, town, or other political subdivision in a county any part of
+			 which is within 25 miles of the southern border of the United States
+			 (including tribal police departments serving a community any part of which
+			 is within 25 miles of such border).</text>
+					</paragraph></subsection><subsection id="H786D3B0F15D74CDCADBC187E8567D7F2"><enum>(b)</enum><header>Use of funds</header>
+					<paragraph id="HF465B928591342E988C3A9EDF6F0243F"><enum>(1)</enum><header>In general</header><text>Grant funds received under subsection (a) may be used for the following activities:</text>
+						<subparagraph id="HEB048CC4389D4759A91902468A51BD2B"><enum>(A)</enum><text>To conduct law enforcement operations to enforce criminal laws, prevent and punish criminal
+			 activity, and protect the lives, property, and security of the people
+			 within the jurisdiction of the grant recipient.</text>
+						</subparagraph><subparagraph id="HBD73229F9CE54FB2BFB56F51590EF375"><enum>(B)</enum><text>To transfer to appropriate Federal law enforcement officials aliens unlawfully present in the
+			 United States who are detained or in the custody of the grant recipient.</text>
+						</subparagraph><subparagraph id="H680F77567BA04B6298361A53DC32F0E3"><enum>(C)</enum><text>To enforce State and Federal laws relating to securing the border and enforce other State and
+			 Federal criminal laws.</text>
+						</subparagraph></paragraph><paragraph display-inline="no-display-inline" id="HA5DD8B59B14346EAB5C80C5BD53CD92C"><enum>(2)</enum><header>Payment of costs</header><text>Use of funds under paragraph (1) shall include payment for costs of hiring, equipping, training,
+			 and otherwise controlling the operations and deployment of law enforcement
+			 officials engaged in duties described in paragraph (1), as well as the
+			 costs of paying overtime to such officials.</text>
+					</paragraph></subsection><subsection id="HBB131AA29376420EA1C5B72F7DBFEAD0"><enum>(c)</enum><header>Application</header>
+					<paragraph id="H4B91C99AE6BE4988BA541C9E9D40A6E1"><enum>(1)</enum><header>In general</header><text>Each eligible law enforcement agency seeking a grant under this section shall submit to the
+			 Attorney General an application at such time, in such manner, and
+			 accompanied by such information as the Attorney General may require.</text>
+					</paragraph><paragraph id="H19F27C9EA70B4B4C91AC48C30DDFBAAC"><enum>(2)</enum><header>Contents</header><text>Each application submitted pursuant to paragraph (1) shall—</text>
+						<subparagraph id="H15F018DA89F14C0B9676DD017AD34450"><enum>(A)</enum><text>describe the activities for which assistance under this section is sought; and</text>
+						</subparagraph><subparagraph id="H004F4BD17F834661855293052DC74CA9"><enum>(B)</enum><text>provide such additional assurances as the Attorney General determines to be essential to ensure
+			 compliance with the requirements of this section.</text>
+						</subparagraph></paragraph></subsection></section><section id="H85EDAD94ACCE45B8B777712E347F7507"><enum>202.</enum><header>Authorization of appropriations</header><text display-inline="no-display-inline">There is authorized to be appropriated to the Attorney General to carry out this title $150,000,000
+			 for fiscal year 2015 and each succeeding fiscal year.</text>
+			</section><section id="H9564318C2B004342A86BB2B2CB916E6D"><enum>203.</enum><header>Enforcement of Federal immigration law</header><text display-inline="no-display-inline">Nothing in this title shall be construed to authorize State or local law enforcement agencies or
+			 their officers to exercise Federal immigration law enforcement authority.</text>
+			</section><section id="HC0D10B219A4F42FB91C7E26094C1FAE3"><enum>204.</enum><header>Regulations</header><text display-inline="no-display-inline">Not later than 90 days after the date of the enactment of this title, the Attorney General shall
+			 issue regulations to carry out this title.</text>
+			</section></title></legis-body>
+</bill>
+
+

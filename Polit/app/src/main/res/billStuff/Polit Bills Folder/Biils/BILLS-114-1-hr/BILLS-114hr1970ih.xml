@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H73201D07A9DC459682419BC235449919" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1970 IH: Promote Workforce Development for the Advancement of Manufacturers Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1970</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150422">April 22, 2015</action-date>
+			<action-desc><sponsor name-id="L000581">Mrs. Lawrence</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to allow a credit against tax for manufacturing job
+			 training expenses.</official-title>
+	</form>
+	<legis-body id="H8ED0BE1EE3BB4CFDBF1C76593DC87CD5" style="OLC">
+ <section id="HD57F7759702C4C7295CA3BA77E25EE76" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Promote Workforce Development for the Advancement of Manufacturers Act of 2015</short-title></quote>.</text> </section><section id="H158C37F8B4D74B14A97895B638902248" section-type="subsequent-section"><enum>2.</enum><header>Manufacturing job training tax credit</header> <subsection id="HA129CC3C65F044DDAE8075913B327BD4"><enum>(a)</enum><header>In general</header><text>Subpart D of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+				<quoted-block id="H05946CDD38FD4D5D8016F6C38748E367" style="OLC">
+					<section id="HF014748E98EA4CA796BAF7019D463FB0"><enum>45S.</enum><header>Manufacturing job training credit</header>
+ <subsection id="HFE104839D6654929B94D670FBB1BE778"><enum>(a)</enum><header>In general</header><text>For the purposes of section 38, the manufacturing job training credit determined under this section for the taxable year is an amount equal to 20 percent of so much of the manufacturing training expenses paid or incurred by a qualified manufacturing employer during the taxable year as exceeds 50 percent of the average manufacturing training expenses for the 3 taxable years preceding the taxable year for which the credit is determined.</text>
+ </subsection><subsection id="HBBD611FD768A4D718DC137212EA7CFDB"><enum>(b)</enum><header>Definitions</header><text>For purposes of this section—</text> <paragraph id="H693F927CACB24E5CB699D2D93DE449DA"><enum>(1)</enum><header>Manufacturing training expenses</header> <subparagraph id="HE600850DC2914CFDAD6FFDFCB168A10B"><enum>(A)</enum><header>In general</header><text>The term <quote>manufacturing training expenses</quote> means, with respect to any eligible employee of the taxpayer, expenses paid or incurred by such taxpayer for any manufacturing training program, including any related course work, certification testing, and essential skill acquisition.</text>
+ </subparagraph><subparagraph id="HC39D483677F740638419399DAAFB33FA"><enum>(B)</enum><header>Eligible employee</header><text>The term <quote>eligible employee</quote> means any employee of the taxpayer whose essential job function is within the United States and relates to manufacturing at a manufacturing facility of the taxpayer located within the United States.</text>
+ </subparagraph></paragraph><paragraph id="HA52A165620C44CF8A1673342A35A5E56"><enum>(2)</enum><header>Qualifying manufacturing employer</header><text display-inline="yes-display-inline">The term <quote>qualified manufacturing employer</quote> means any employer—</text> <subparagraph id="HC57D80D29C5A4B9D989FC91ED45785DA"><enum>(A)</enum><text>which employs individuals in a trade or business in manufacturing,</text>
+ </subparagraph><subparagraph id="HAB9B373AE7F2406CAE015936BCCFE344"><enum>(B)</enum><text>the manufacturing facilities of which are located in the United States, and</text> </subparagraph><subparagraph id="H7CD60725482549FD9A26C6375BE8FB1E"><enum>(C)</enum><text>the primary business of which is classified in sector 31, 32, or 33 of the North American Industrial Classification System.</text>
+								</subparagraph></paragraph></subsection><subsection id="HF0BCD8532B21441F9B23135309A6545A"><enum>(c)</enum><header>Special rules</header>
+							<paragraph id="HE7FC01A046B94D77AE47C576D2309632"><enum>(1)</enum><header>Rule in case of no manufacturing training expenses in any of 3 preceding taxable years</header>
+ <subparagraph id="HEA20AF2CCF49440A89AE36770597B6F2"><enum>(A)</enum><header>Taxpayers to which paragraph applies</header><text display-inline="yes-display-inline">The credit under this section shall be determined under this paragraph if the taxpayer has no manufacturing training expenses in any one of the 3 taxable years preceding the taxable year for which the credit is being determined.</text>
+ </subparagraph><subparagraph id="H0B4A3EF1378D4DCC9205E82D54B64ACE"><enum>(B)</enum><header>Credit rate</header><text display-inline="yes-display-inline">The credit determined under this paragraph shall be equal to 6 percent of the manufacturing training expenses for the taxable year.</text>
+ </subparagraph></paragraph><paragraph id="H3ADBFD4CA1DB458BBD31D7627DDF33DE"><enum>(2)</enum><header>Denial of double benefit</header><text>No deduction shall be allowed under this chapter for the portion of the expenses otherwise allowable as a deduction that are taken into account in determining the credit under this section for the taxable year.</text>
+ </paragraph><paragraph id="HEF4B530593294535B8CE22A60110411C"><enum>(3)</enum><header>Aggregation</header><text>For purposes of this section, all persons treated as a single employer under subsection (a) or (b) or section 52, or subsection (m) or (o) of section 414, shall be treated as one person.</text>
+ </paragraph></subsection><subsection id="H677DA7BD1497437287BC250E4B19737E"><enum>(d)</enum><header>Election To have credit not apply</header><text>A taxpayer may elect to have this section not apply for any taxable year.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="H74B08AB85FFF4FE688ED122B7334800C"><enum>(b)</enum><header>Credit To be part of general business credit</header><text>Subsection (b) of <external-xref legal-doc="usc" parsable-cite="usc/26/38">section 38</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>plus</quote> at the end of paragraph (35), by striking the period at the end of paragraph (36) and inserting <quote>, plus</quote>, and by adding at the end the following new paragraph:</text>
+				<quoted-block id="H57BF1ED42DC7436095B871E14706E66B" style="OLC">
+ <paragraph id="H8F1FEC949DDD4320A448AB07B054D193"><enum>(37)</enum><text>the manufacturing job training credit determined under section 45S(a).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="HB399230565DA4A2B91C4F436777205C9"><enum>(c)</enum><header>Clerical amendment</header><text>The table of sections for subpart D of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new item:</text>
+				<quoted-block id="H6EEDF77DA26843C181822C12A8DE89F1" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">Sec. 45S. Manufacturing job training credit.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HF75E5B34EC5144AB8EBA7F2690B790BD"><enum>(d)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by this section shall apply to expenses paid or incurred after the date of the enactment of this Act, in taxable years ending after such date.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

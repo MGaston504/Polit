@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9EB177322C704ACA9294C739E91A2260" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3145 IH: Protect Local Independence in Housing Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3145</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150721">July 21, 2015</action-date>
+			<action-desc><sponsor name-id="P000605">Mr. Perry</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Fair Housing Act to clarify congressional intent that the prohibitions of that Act do
+			 not extend to conduct that results in a disparate impact on a protected
+			 class unless the person engaging in that conduct intends that impact.</official-title>
+	</form>
+	<legis-body id="H2A0035F843D446C5A8D1D183EDA35DDC" style="OLC">
+ <section id="H9F8ECDB500B44521858A7B7F69546730" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protect Local Independence in Housing Act of 2015</short-title></quote>.</text> </section><section id="H0D974A5278BA44D28B32652242809DF5"><enum>2.</enum><header><quote>Disparate impact</quote> cases under the Fair Housing Act</header><text display-inline="no-display-inline">Section 804(f) of the Fair Housing Act (<external-xref legal-doc="usc" parsable-cite="usc/42/3604">42 U.S.C. 3604(f)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H1068724BEC7242A79BA0A7AD2098A45E" style="traditional">
+ <paragraph id="H3C3284F3108D4D0A9FAABBD3D0B9A1D8" indent="up1"><enum>(10)</enum><text display-inline="yes-display-inline">Nothing in this title shall be construed to prohibit conduct resulting in a disparate impact on a class protected by this title unless the person engaging in that conduct intended that impact.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

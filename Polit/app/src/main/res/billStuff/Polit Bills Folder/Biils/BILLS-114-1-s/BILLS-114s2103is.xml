@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2103 IS: To modify a provision relating to adjustments of certain State apportionments for Federal highway programs, and for other purposes.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-09-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2103</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150930">September 30, 2015</action-date>
+			<action-desc><sponsor name-id="S356">Mr. Donnelly</sponsor> (for himself and <cosponsor name-id="S358">Mr. Flake</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEV00">Committee on Environment and Public Works</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To modify a provision relating to adjustments of certain State apportionments for Federal highway
+			 programs, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Adjustments to certain State apportionment amounts</header>
+ <text display-inline="no-display-inline">Section 104(c) of title 23, United States Code, is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="id5748E7C5289244AEB6AFF75C97EE00F8" style="OLC"> <paragraph id="id4F94025FF89F4521B8946438F1EFBEB3"><enum>(3)</enum><header>For fiscal year 2016 and fiscal years thereafter</header> <subparagraph id="id38B4EA492FA54A63A44924F31927301F"><enum>(A)</enum><header>State share</header><text>For fiscal year 2016 and each fiscal year thereafter, the amount for each State of combined apportionments for the national highway performance program under section 119, the surface transportation program under section 133, the highway safety improvement program under section 148, the congestion mitigation and air quality improvement program under section 149, and to carry out section 134 shall be determined as follows:</text>
+ <clause id="idB61519897B34479DB3FAD0D056AEC607"><enum>(i)</enum><header>Initial amount</header><text>The initial amount for each State shall be determined by multiplying the total amount available for apportionment by the share for each State, which shall be equal to the proportion that—</text>
+ <subclause id="idAF577FCF82DF4246A03E86CCB3E6E622"><enum>(I)</enum><text>the amount of apportionments that the State received for fiscal year 2012; bears to</text> </subclause><subclause id="id023DB19D9B9D498B934F6C53E311105D"><enum>(II)</enum><text>the amount of those apportionments received by all States for that fiscal year.</text>
+							</subclause></clause><clause id="id9C6E7A59929D4781974E896985BA640B"><enum>(ii)</enum><header>Adjustments to amounts</header>
+ <subclause id="id3557C3B5F2AD4D2EB2E83BDB2D66CB53"><enum>(I)</enum><header>In general</header><text>The initial amounts resulting from the calculation under clause (i) shall be adjusted to ensure that, for each State, the amount of combined apportionments for the programs shall not be less than an amount equal to—</text>
+ <item id="idCF29BB0CFDEF4C32BBCC6D91EFAF592F"><enum>(aa)</enum><text>95 percent of the applicable percentage; multiplied by</text> </item><item id="idBF433AF801EE4DEE9DEA2F2526A7CF4E"><enum>(bb)</enum><text>the total amount of funds available for apportionment.</text>
+ </item></subclause><subclause id="id57504B7F91DB4997B2AF1B5FBB20720F"><enum>(II)</enum><header>Applicable percentage</header><text>For purposes of this clause, the applicable percentage shall be an amount, expressed as a percentage, equal to the quotient of—</text>
+ <item id="id0F8473876AC5463D9FA71BE95B95D842"><enum>(aa)</enum><text>the estimated tax payments attributable to highway users in the State that were paid into the Highway Trust Fund (other than the Mass Transit Account) for the most recent fiscal year for which data are available; divided by</text>
+ </item><item id="id59D64A68C05848DD993AA0B84F6EAEA3"><enum>(bb)</enum><text>the estimated total tax payments attributable to users in all States that were paid into the Highway Trust Fund (other than the Mass Transit Account) for that fiscal year.</text>
+ </item></subclause></clause></subparagraph><subparagraph id="idDD3A553E565143949A50473B70FB9A8B"><enum>(B)</enum><header>State apportionment</header><text>On October 1 of each fiscal year described in subparagraph (A), the Secretary shall apportion the sum authorized to be appropriated for expenditure on the national highway performance program under section 119, the surface transportation program under section 133, the highway safety improvement program under section 148, the congestion mitigation and air quality improvement program under section 149, and to carry out section 134 in accordance with subparagraph (A).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5395458394604EFFA3253DF635997E35" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 353 IH: Veterans’ Access to Hearing Health Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 353</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150114">January 14, 2015</action-date>
+			<action-desc><sponsor name-id="D000614">Mr. Duffy</sponsor> (for himself, <cosponsor name-id="W000799">Mr. Walz</cosponsor>, and <cosponsor name-id="R000599">Mr. Ruiz</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to include licensed hearing aid specialists as eligible for
+			 appointment in the Veterans Health Administration of the Department of
+			 Veterans Affairs, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HF935FC41836E4093B14E5EE8C3961DD8" style="OLC">
+ <section id="H85389DA950FF4BD18E8C8EC64D40262E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans’ Access to Hearing Health Act of 2015</short-title></quote>.</text> </section><section id="H969C8D8E86D64BC698EE943654BADB57"><enum>2.</enum><header>Appointment of licensed hearing aid specialists in Veterans Health Administration</header> <subsection id="H8FA7185CE7C243078EDB9A7D93AE4328"><enum>(a)</enum><header>Licensed hearing aid specialists</header> <paragraph id="H881DA0391712456B82004AD7151E6CF7"><enum>(1)</enum><header>Appointment</header><text display-inline="yes-display-inline">Section 7401(3) of title 38, United States Code, is amended by inserting <quote>licensed hearing aid specialists,</quote> after <quote>Audiologists,</quote>.</text>
+ </paragraph><paragraph id="H15464F09CC534F9A89A0FED502C4E45A"><enum>(2)</enum><header>Qualifications</header><text>Section 7402(b)(14) of such title is amended by inserting <quote>licensed hearing aid specialist,</quote> after <quote>licensed physical therapist,</quote>.</text> </paragraph></subsection><subsection id="H566C6155A18C40118A196459A18CDD2F"><enum>(b)</enum><header>Annual report</header> <paragraph id="HC8ECDD81153F4168A77B90918C877F70"><enum>(1)</enum><header>In general</header><text>Not later than one year after the date of the enactment of this Act, and each year thereafter, the Secretary of Veterans Affairs shall submit to Congress a report on the following:</text>
+ <subparagraph id="HC5B7F5CFFAA44FCAAD9AAF3E2DCF55FD"><enum>(A)</enum><text display-inline="yes-display-inline">Timely access of veterans to hearing health services through the Department of Veterans Affairs.</text> </subparagraph><subparagraph id="HFF6B5C4D941B429BAEE8EC94D1BB0E62"><enum>(B)</enum><text display-inline="yes-display-inline">Contracting policies of the Department with respect to providing hearing health services to veterans in facilities that are not facilities of the Department.</text>
+ </subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="HF2585B28E2A9497BABAF2AC791AF28A4"><enum>(2)</enum><header>Timely access to services</header><text>Each report shall, with respect to the matter specified in paragraph (1)(A) for the one-year period preceding the submittal of such report, include the following:</text>
+ <subparagraph id="H6D50DDB15ED44249B66BE5C7EA6B27EA"><enum>(A)</enum><text display-inline="yes-display-inline">The staffing levels of audiologists, hearing aid specialists, and health technicians in audiology in the Veterans Health Administration.</text>
+ </subparagraph><subparagraph id="H21B7BB1CCD9D4981808F5DE21C020200"><enum>(B)</enum><text>A description of the metrics used by the Secretary in measuring performance with respect to appointments and care relating to hearing health.</text>
+ </subparagraph><subparagraph id="HA2301E5FDF124003A33C3A2F660DAC75"><enum>(C)</enum><text>The average time that a veteran waits to receive an appointment, beginning on the date on which the veteran makes the request, for the following:</text>
+ <clause id="H212486FDC5A745D3B5BEAA06E8940388"><enum>(i)</enum><text display-inline="yes-display-inline">A disability rating evaluation for a hearing-related disability.</text> </clause><clause id="H63718DA2C9F2430A8455CFC42DE5379D"><enum>(ii)</enum><text>A hearing aid evaluation.</text>
+ </clause><clause id="H0CCE3E2C2D88486A9BCCE7D84DB0302A"><enum>(iii)</enum><text>Dispensing of hearing aids.</text> </clause><clause id="H7A4CB00B2FF5417A911FF87D8D229191"><enum>(iv)</enum><text>Any follow-up hearing health appointment.</text>
+ </clause></subparagraph><subparagraph commented="no" id="H7AFC4C2056A242DA802BBCDB684C6229"><enum>(D)</enum><text>The percentage of veterans whose total wait time for appointments described in subparagraph (C), including an initial and follow-up appointment, if applicable, is—</text>
+ <clause commented="no" id="H8E2838BD675443468F4FD0D2228B6EEC"><enum>(i)</enum><text>less than 15 days;</text> </clause><clause commented="no" id="H2B1644390FC241F2B8D4D080D2883F08"><enum>(ii)</enum><text>between 15 days and 28 days;</text>
+ </clause><clause commented="no" id="HB5F31124C8C6403EB8223C89F82B9B1D"><enum>(iii)</enum><text>between 29 days and 42 days;</text> </clause><clause commented="no" id="H813F9E458BEF4CFE9C9731D77B8B054E"><enum>(iv)</enum><text>between 43 days and 56 days; or</text>
+ </clause><clause commented="no" id="HC7624D7126B945D0A4C257D9A53352D9"><enum>(v)</enum><text>more than 56 days.</text> </clause></subparagraph></paragraph><paragraph commented="no" id="H6DBC4AF668834CD9BB7242704974459E"><enum>(3)</enum><header>Contracting policies</header><text>Each report shall, with respect to the matter specified in paragraph (1)(B) for the one-year period preceding the submittal of such report, include the following:</text>
+ <subparagraph id="H767E709C1E514966A27B00B5675E79C9"><enum>(A)</enum><text>The number of veterans that the Secretary refers to non-Department audiologists for hearing health care appointments.</text>
+ </subparagraph><subparagraph id="H40D5311BF73C4CACAF2807691C83F11E"><enum>(B)</enum><text>The number of veterans that the Secretary refers to non-Department hearing aid specialists for follow-up appointments for a hearing aid evaluation, the dispensing of hearing aids, or any other purpose relating to hearing health.</text>
+ </subparagraph><subparagraph id="H80F79B11FDE84A79B1E91CC9D51B318D"><enum>(C)</enum><text>The policies of the Veterans Health Administration regarding the referral of veterans to non-Department hearing aid specialists and a description of the manner in which such policies will be applied under the Patient-Centered Community Care program of the Department.</text>
+					</subparagraph></paragraph></subsection></section></legis-body>
+</bill>
+
+

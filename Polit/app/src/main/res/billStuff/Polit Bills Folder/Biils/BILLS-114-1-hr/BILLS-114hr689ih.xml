@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H614F9BD07D2B4BE6A529A7477E264B21" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 689 IH: Surveillance Order Reporting Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 689</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150203">February 3, 2015</action-date>
+			<action-desc><sponsor name-id="L000397">Ms. Lofgren</sponsor> (for herself, <cosponsor name-id="C001076">Mr. Chaffetz</cosponsor>, <cosponsor name-id="C000714">Mr. Conyers</cosponsor>, <cosponsor name-id="P000592">Mr. Poe of Texas</cosponsor>, <cosponsor name-id="D000617">Ms. DelBene</cosponsor>, <cosponsor name-id="M001184">Mr. Massie</cosponsor>, <cosponsor name-id="P000598">Mr. Polis</cosponsor>, and <cosponsor name-id="O000170">Mr. O’Rourke</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, and in addition to the <committee-name committee-id="">Select Committee on Intelligence (Permanent Select)</committee-name> and <committee-name committee-id="HBA00">Financial Services</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To permit periodic public reporting by electronic communications providers and remote computer
+			 service providers of certain estimates pertaining to requests or demands
+			 by Federal agencies under the provisions of certain surveillance laws
+			 where disclosure of such estimates is, or may be, otherwise prohibited by
+			 law.</official-title>
+	</form>
+	<legis-body id="HB4D301C4E12844088FBDB1D8F926A208" style="OLC">
+ <section id="H068033B5713643348A34853B481CD614" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Surveillance Order Reporting Act of 2015</short-title></quote>.</text> </section><section id="HAABD783DA5AD47B1AF73430CFE89BCAA" section-type="subsequent-section"><enum>2.</enum><header>Reporting FISA orders and national security letters</header> <subsection id="H4DED5050A541467889275B5016B58334"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Each electronic service provider may report information to the public in accordance with this section about requests and demands for information made by any Government entity under a surveillance law, and is exempt in accordance with subsection (d) from liability with respect to that report, even if such provider would otherwise be prohibited by a surveillance law from reporting that information.</text>
+ </subsection><subsection id="HC1F4703A2E294D5BB4745C9E57E6358F"><enum>(b)</enum><header>Periodic aggregate reports</header><text display-inline="yes-display-inline">An electronic service provider may report such information not more often than quarterly and only to the following extent:</text>
+ <paragraph id="H0FE3B36C90FB45EFB8AE5A25D5DF5525"><enum>(1)</enum><header>Estimate of numbers of demands and requests made</header><text display-inline="yes-display-inline">The report may reveal an estimate of the number of such demands and requests made during the period to which the report pertains.</text>
+ </paragraph><paragraph id="H9A50201DCBFB4658A55611F79B44FA20"><enum>(2)</enum><header>Estimate of numbers of demands and requests complied with</header><text display-inline="yes-display-inline">The report may reveal an estimate of the numbers of such demands and requests the service provider complied with during the period to which the report pertains, regardless of when the demands or requests were made.</text>
+ </paragraph><paragraph id="HD874C0580C1941898863319BCE6C2FAF"><enum>(3)</enum><header>Estimate of number of users or accounts</header><text display-inline="yes-display-inline">The report may reveal an estimate of the numbers of users or accounts, or both, of the service provider, for which information was demanded, requested, or provided during the period to which the report pertains.</text>
+				</paragraph></subsection><subsection id="H323A205E1ADB49E899A5E06605A4AB64"><enum>(c)</enum><header>Special rules for reports</header>
+ <paragraph id="H19F4937177D548A58D54E89867D89F9C"><enum>(1)</enum><header> Level of detail by authorizing surveillance law</header><text display-inline="yes-display-inline">Any estimate disclosed under this section may be an overall estimate or broken down by categories of authorizing surveillance laws or by provisions of authorizing surveillance laws.</text>
+ </paragraph><paragraph id="H30E6D01EFE5B4C86A6D3DCA735A4B694"><enum>(2)</enum><header>Level of detail by numerical range</header><text>Each estimate disclosed under this section must be expressed in no greater detail than in a range of 100, rounded to the nearest 100s.</text>
+ </paragraph><paragraph id="H8CE527B55DE248489C99D6F883048D35"><enum>(3)</enum><header>Report may be broken down by periods not less than calendar quarters</header><text>For any reporting period, the provider may break down the report by calendar quarters or any other time periods greater than a calendar quarter.</text>
+ </paragraph></subsection><subsection id="HED3C38FE493146EE88FBD6C99430BFF2"><enum>(d)</enum><header>Limitation on liability</header><text display-inline="yes-display-inline">An electronic service provider making a report that provider reasonably believes in good faith is authorized by this section is not criminally or civilly liable in any court for making that report.</text>
+ </subsection><subsection id="H655D4F7780D94E9DB8ADA5D7923F9D75"><enum>(e)</enum><header>Rule of construction</header><text display-inline="yes-display-inline">Nothing in this section shall be construed to prohibit disclosures other than those authorized by this section.</text>
+ </subsection><subsection id="H5FB207852BAE485686E34683DAE06CC1"><enum>(f)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HF04A4E888F5B4DDE9B6E1D3C2D02002E"><enum>(1)</enum><text display-inline="yes-display-inline">The term <term>electronic service provider</term> means an electronic communications service provider (as that term is defined in section 2510 of title 18, United States Code) or a remote computing service provider (as that term is defined in section 2711 of title 18, United States Code).</text>
+ </paragraph><paragraph id="HE36781F2B5F34CEA9E586EB5A712942D"><enum>(2)</enum><text>The term <term>surveillance law</term> means any provision of any of the following:</text> <subparagraph id="HCAA9C4750A8D44DDB183D5AFFB533F85"><enum>(A)</enum><text display-inline="yes-display-inline">The Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">50 U.S.C. 1801 et seq.</external-xref>).</text>
+ </subparagraph><subparagraph id="HC732ABD289474C829894D1CB21044C8E"><enum>(B)</enum><text>Section 802(a) of the National Security Act of 1947 (<external-xref legal-doc="usc" parsable-cite="usc/50/436">50 U.S.C. 436(a)</external-xref>).</text> </subparagraph><subparagraph id="HB2AC99870792479D95B837605C132E9F"><enum>(C)</enum><text display-inline="yes-display-inline">Section 2709 of title 18, United States Code.</text>
+ </subparagraph><subparagraph id="HAEA52C616F464EB183151E3A3DD1977B"><enum>(D)</enum><text display-inline="yes-display-inline">Section 1114(a)(5)(A) of the Right to Financial Privacy Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/12/3414">12 U.S.C. 3414(a)(5)(A)</external-xref>).</text> </subparagraph><subparagraph id="H812C15F32AAE4738A60949ED4E62BC75"><enum>(E)</enum><text>Subsections (a) or (b) of section 626 of the Fair Credit Reporting Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1681u">15 U.S.C. 1681u(a)</external-xref>, 1681u(b)).</text>
+ </subparagraph><subparagraph id="H36C79EE3D6AA43EEB8832F95A3AD4259"><enum>(F)</enum><text>Section 627(a) of the Fair Credit Reporting Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1681v">15 U.S.C. 1681v(a)</external-xref>).</text> </subparagraph></paragraph></subsection></section></legis-body> </bill> 
+

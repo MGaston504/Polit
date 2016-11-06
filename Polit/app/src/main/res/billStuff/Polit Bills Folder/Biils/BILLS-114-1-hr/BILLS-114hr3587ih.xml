@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEE1CC0BBD77149158200386A0D738CD5" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3587 IH: Dry Cask Storage Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3587</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150922">September 22, 2015</action-date>
+			<action-desc><sponsor name-id="E000179">Mr. Engel</sponsor> (for himself, <cosponsor name-id="L000480">Mrs. Lowey</cosponsor>, and <cosponsor name-id="K000375">Mr. Keating</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Nuclear Waste Policy Act of 1982 to provide for the development of plans for dry cask
+			 storage of spent nuclear fuel, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H6D56316971D84B90B207B07D47552A51" style="OLC">
+ <section id="H989790355D294C9AB44871F4EAF652C1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Dry Cask Storage Act of 2015</short-title></quote>.</text> </section><section id="HF3A8D8EF97734FF2B58B119EFEFF6705"><enum>2.</enum><header>Emergency planning zones; Dry cask storage of spent nuclear fuel</header> <subsection id="H4006F5EE8F5B4AEE9BFDEEE3287245DD"><enum>(a)</enum><header>In general</header><text>Title I of the Nuclear Waste Policy Act of 1982 (<external-xref legal-doc="usc" parsable-cite="usc/42/10121">42 U.S.C. 10121 et seq.</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HA5B5EEEA4F874609AFE12CC27DE823AC" style="OLC">
+					<subtitle id="H90E6A2B5FE854C2BBFC2387147214DA8" style="OLC"><enum>I</enum><header>Emergency Planning Zones; Dry cask storage of spent nuclear fuel</header>
+ <section id="HC0001E48B9CA4820B7C7D7E4AEE9A764"><enum>185.</enum><header>Definitions</header><text display-inline="no-display-inline">In this subtitle:</text> <paragraph id="H2DDEBFCCE44E44F0A88EA22BDBA6A5E6"><enum>(1)</enum><header>Emergency planning zone</header><text>The term <quote>emergency planning zone</quote> means the emergency planning zone that is delineated with respect to the plume exposure pathway (as defined in section 350.2 of title 44, Code of Federal Regulations (or any successor regulation)) of a civilian nuclear power reactor.</text>
+ </paragraph><paragraph id="HFC93427E9FAB4B9BAC2E67D08180CF6C"><enum>(2)</enum><header>Licensee</header><text>The term <term>licensee</term> has the meaning given the term in section 50.2 of title 10, Code of Federal Regulations (or any successor regulation).</text>
+ </paragraph><paragraph id="HEDF450D2B82E4422A7F22765EB2265B9"><enum>(3)</enum><header>Spent nuclear fuel dry cask</header><text>The term <term>spent nuclear fuel dry cask</term> means a container (including any components and systems associated with the container) in which spent nuclear fuel is stored at an independent spent fuel storage facility—</text>
+ <subparagraph id="H941E27ACBC524A6EB347BCE3FD5EE250"><enum>(A)</enum><text>that is—</text> <clause id="HFFAFC0D01A5047E7B5F5370F6E187687"><enum>(i)</enum><text>licensed by the Commission; and</text>
+ </clause><clause id="HDA9E38337F6D48B69786A9F0B3C6B1F2"><enum>(ii)</enum><text>located at a civilian nuclear power reactor site; and</text> </clause></subparagraph><subparagraph id="H1B7CF165B913495AAAC2CA503621BB24"><enum>(B)</enum><text>the design of which—</text>
+ <clause id="HFB93C9631F934DF786CD5F9C61BFA868"><enum>(i)</enum><text>includes a realistic security, seismic, and flooding design basis, as determined by the Commission; and</text>
+ </clause><clause id="HAA652A153BA54975BBE0BE74483107D4"><enum>(ii)</enum><text>is approved by the Commission.</text> </clause></subparagraph></paragraph></section><section id="H149D9D36D7544143AE0F9D31D3908F9B"><enum>186.</enum><header>Plan for dry cask storage of spent nuclear fuel</header> <subsection id="H714D1123A68B4365ABBAB3D988665421"><enum>(a)</enum><header>In general</header><text>Not later than 180 days after the date of enactment of this section, each licensee shall submit to the Commission a plan that provides for—</text>
+ <paragraph id="H8637ED8945194D3382F5F75A87E6A1CB"><enum>(1)</enum><text>by the deadline specified in subsection (b), the transfer to spent nuclear fuel dry casks of any spent nuclear fuel that is—</text>
+ <subparagraph id="HBEE4BDA866EA4149BA7C5606153782A2"><enum>(A)</enum><text>stored by the licensee in spent nuclear fuel pools; and</text> </subparagraph><subparagraph id="H80930220476448D4BF2546EAA7586242"><enum>(B)</enum><text>qualified to be placed in spent nuclear fuel dry casks, in accordance with subsection (d);</text>
+ </subparagraph></paragraph><paragraph id="H56C0E4E554154A9A9DB17C74545CFD4F"><enum>(2)</enum><text>on completion of the transfer under paragraph (1), the additional transfer, on an ongoing basis, of any additional spent nuclear fuel that is stored by the licensee in spent nuclear fuel pools and that, after the date of the transfer under paragraph (1), is determined to be qualified to be placed in spent nuclear fuel dry casks, in accordance with subsection (d), subject to the requirement that each additional transfer shall be completed by the date that is 1 year after the date on which the applicable spent nuclear fuel is determined to be qualified to be placed in spent nuclear fuel dry casks, in accordance with that subsection; and</text>
+ </paragraph><paragraph id="H9432F0C0CAC84109B080FB460A9F7B14"><enum>(3)</enum><text>the configuration of the remaining spent nuclear fuel in the spent nuclear fuel pool in a manner that minimizes the chance of a fire if there is a loss of water in the spent nuclear fuel pool.</text>
+ </paragraph></subsection><subsection id="H755D78D65F7E418486F9C01696869E20"><enum>(b)</enum><header>Deadline for transfer</header><text>The deadline for transfer referred to in subsection (a)(1) is not later than the date that is 7 years after the date of submission of the plan.</text>
+							</subsection><subsection id="H9C87E4BD4DB948208C7D3FC5BB5D83B9"><enum>(c)</enum><header>Approval or disapproval by Commission</header>
+ <paragraph id="HB6A009D929A2428983EE1AAE0BFB704F"><enum>(1)</enum><header>In general</header><text>Not later than 90 days after the date on which a plan is submitted under subsection (a), the Commission shall approve or disapprove the plan.</text>
+ </paragraph><paragraph id="H6B9858940BA2404E9E7D2F515DBDCD93"><enum>(2)</enum><header>Action following disapproval</header><text>If the Commission disapproves a plan under paragraph (1), the Commission shall—</text> <subparagraph id="H2144B9379D514D1391E81D32B1412BB1"><enum>(A)</enum><text>advise the licensee in writing of the reasons for the disapproval;</text>
+ </subparagraph><subparagraph id="HE6BCDF0C35CD417886E81B35D47A1C08"><enum>(B)</enum><text>make recommendations for revisions to the plan, which shall be submitted to the Commission by the date that is 30 days after the date on which the Commission provides notice of the disapproval under subparagraph (A); and</text>
+ </subparagraph><subparagraph id="H5C7647D0C2A247AD836E4407DA8DC685"><enum>(C)</enum><text>not later than 30 days after the date of receipt of a revised plan under subparagraph (B), approve or disapprove the revised plan.</text>
+									</subparagraph></paragraph></subsection><subsection id="H49A616035E2C442A8C0E7EA08786E857"><enum>(d)</enum><header>Qualification for placement in spent nuclear fuel dry casks</header>
+ <paragraph id="HA1826C32F95A46ABABC4C77078BB6E4A"><enum>(1)</enum><header>In general</header><text>Except as provided in paragraph (2), spent nuclear fuel shall be considered to be qualified to be placed in spent nuclear fuel dry casks under this section if the spent nuclear fuel has been stored in spent nuclear fuel pools for a period of at least 7 years.</text>
+ </paragraph><paragraph id="H4BC2B767072B4291B1596EA8D79AA0EB"><enum>(2)</enum><header>Exception</header><text>Notwithstanding paragraph (1), spent nuclear fuel shall not be considered to be qualified to be placed in spent nuclear fuel dry casks under this section if there does not exist an approved spent nuclear fuel dry cask in which the spent nuclear fuel may be placed.</text>
+								</paragraph></subsection><subsection id="H8886075EE7C048D88F355CC3DCB2FF0B"><enum>(e)</enum><header>Grants</header>
+ <paragraph id="H45E73793D6AE416792ABE4E05DF746AF"><enum>(1)</enum><header>In general</header><text>Subject to paragraph (3), the Commission may provide to any licensee that has a plan approved under subsection (c) a grant to assist in the cost of transferring spent nuclear fuel to spent nuclear fuel dry casks under the approved plan.</text>
+ </paragraph><paragraph id="HA5169C044D19475AB60D7CF06A26FE15"><enum>(2)</enum><header>Preference</header><text>In providing grants under paragraph (1), the Commission shall give preference to funding the implementation of approved plans—</text>
+ <subparagraph id="H28E9C5E841EE4AC7A9C2C02E9F90703B"><enum>(A)</enum><text>at civilian nuclear power reactors near a major population center;</text> </subparagraph><subparagraph id="H7B8DC628B06146EDBA585B557621FD6E"><enum>(B)</enum><text>at which the spent nuclear fuel pools are close to being filled to capacity;</text>
+ </subparagraph><subparagraph id="HC7BBCA8DDFB94335A54CF30490AA5AC3"><enum>(C)</enum><text>that are supported by the State or unit of local government in which the civilian nuclear power reactor is located; and</text>
+ </subparagraph><subparagraph id="H8DDDB0E469FB4911934A11086945C698"><enum>(D)</enum><text>at civilian nuclear power reactors that have permanently ceased operations.</text> </subparagraph></paragraph><paragraph id="HB9161782C4B34EDAB556274AE10C3009"><enum>(3)</enum><header>Limitation</header><text>No grants may be provided under paragraph (1) to a licensee that the Commission determines is not in compliance with the approved plan, in accordance with subsection (f).</text>
+ </paragraph></subsection><subsection id="H342F9B6355F749A081A507497AB212B9"><enum>(f)</enum><header>Biennial Review</header><text>Beginning on the date that is 2 years after the date on which a plan is approved under subsection (c) and every 2 years thereafter, the Commission shall conduct a review to determine whether the licensee is in compliance with the approved plan.</text>
+							</subsection></section><section id="H3BC903DD9AA048889332D4BC83D8DD84"><enum>187.</enum><header>Expansion and applicability of emergency planning zone</header>
+ <subsection id="HD0F778670DB3468C8E217B8646991C91"><enum>(a)</enum><header>In general</header><text>The emergency planning zone that is applicable to each civilian nuclear power reactor shall be at least 10 miles in radius until the date on which all spent nuclear fuel at the civilian nuclear power reactor has been transferred to spent nuclear fuel dry casks.</text>
+							</subsection><subsection id="H3E203905C8414F2AA42B44098173AB88"><enum>(b)</enum><header>Expansion of emergency planning zone</header>
+ <paragraph id="HD1D69BB539F24D35A91F32B41ED51CC0"><enum>(1)</enum><header>In general</header><text>Except as provided in paragraph (2) and subject to paragraph (3), by the date that is 18 months after the date of enactment of this section, the Commission shall expand the emergency planning zone that is applicable to each civilian nuclear power reactor to 50 miles in radius.</text>
+ </paragraph><paragraph id="H53968EF1EAA54261B6CAE356ABF76D74"><enum>(2)</enum><header>Exception</header><text display-inline="yes-display-inline">Paragraph (1) shall not apply to any civilian nuclear power reactor that is in compliance with a plan approved by the Commission under section 186(c), as determined by the Commission under section 186(f).</text>
+ </paragraph><paragraph id="H7E0431F1982C4090B8D98C4B9FF1C6BA"><enum>(3)</enum><header>Payment of costs</header><text display-inline="yes-display-inline">The licensee shall be responsible for all costs associated with the expansion of the applicable emergency planning zone under paragraph (1).</text></paragraph></subsection></section></subtitle><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HB8B0DE1E3736476AA95160501A7BCF71"><enum>(b)</enum><header>Use of interest</header><text>Section 302(e) of the Nuclear Waste Policy Act of 1982 (<external-xref legal-doc="usc" parsable-cite="usc/42/10222">42 U.S.C. 10222(e)</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H0804A142A8944FF48DADFDA4E4ABCC26" style="OLC">
+ <paragraph id="H3211A1803C8941DC88E8DFBD1E88C2B1"><enum>(7)</enum><header>Use of interest</header><text>Annually, the Secretary of the Treasury shall transfer to the Commission an amount equal to at least 10 percent of the amount of interest generated during the preceding fiscal year under paragraph (3) for use, without further appropriation or fiscal year limitation, to pay the costs of carrying out section 186(e).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

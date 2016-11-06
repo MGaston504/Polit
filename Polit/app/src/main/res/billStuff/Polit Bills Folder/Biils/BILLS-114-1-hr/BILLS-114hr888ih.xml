@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H16E3E27D282145249EBF7DAA5965D581" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 888 IH: Subsidy Reserve Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 888</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150211">February 11, 2015</action-date>
+			<action-desc><sponsor name-id="C001037">Mr. Capuano</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to require certain
+			 systemically important entities to account for the financial benefit they
+			 receive as a result of the expectations on the part of shareholders,
+			 creditors, and counterparties of such entities that the Government will
+			 shield them from losses in the event of failure, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HBA6A11AEB7F848AE93B71091DFC55E8D" style="OLC">
+ <section id="H7B47505D3E254F138A8EAE46E052C0E8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Subsidy Reserve Act of 2015</short-title></quote>.</text> </section><section id="HA98486D40DDB4FF2B0BEB0487BA22368"><enum>2.</enum><header>Subsidy reserve</header><text display-inline="no-display-inline">Section 165 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (<external-xref legal-doc="usc" parsable-cite="usc/12/5365">12 U.S.C. 5365</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H38257836D0384F20A44A5EBBEE9249A9" style="OLC">
+				<subsection id="HE1593871ACF043E28E0298E9CE126AC2"><enum>(l)</enum><header>Subsidy Reserve</header>
+ <paragraph id="H0D03540C9C6A409DACA9E9C8DB6D22E7"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Each nonbank financial company supervised by the Board of Governors and each bank holding company with total consolidated assets equal to or greater than $500,000,000,000 shall establish and maintain a capital account called the <quote>Subsidy Reserve</quote>.</text>
+ </paragraph><paragraph id="H4DDF55F3A5974C7B815C85FC6CAB55BC"><enum>(2)</enum><header>Computation of benefit</header><text display-inline="yes-display-inline">The Board of Governors shall, in consultation with the Council and the Office of Financial Research, and after notice and opportunity for a hearing, establish a formula for determining the financial benefit received by a company described under paragraph (1) as a result of the expectations on the part of shareholders, creditors, and counterparties of such company that the Government will shield such shareholders, creditors, and counterparties from losses in the event of the failure of such company.</text>
+ </paragraph><paragraph id="H7B157765666240DA8B687A8FA7E4A486"><enum>(3)</enum><header>Subsidy Reserve amount</header><text display-inline="yes-display-inline">The Board of Governors shall require each company described under paragraph (1) to annually apply the formula established under paragraph (2) to its annual financial statement and maintain the resulting amount in the company’s Subsidy Reserve, in addition to any amounts so maintained from previous years.</text>
+ </paragraph><paragraph id="H20CA1AFA65B345B9AB36827C3C5FA35B"><enum>(4)</enum><header>Use of Subsidy Reserve amounts</header><text display-inline="yes-display-inline">The amount of funds in the Subsidy Reserve may only be decreased if a company makes a sale of assets, spins off a subsidiary, or makes a similar divestiture, in which case the Subsidy Reserve may only be decreased in an amount, as determined by the Board of Governors, that reflects the amount of such sale, spin off, or similar divestiture, either on a pro rata basis or according to the risk weighting of the property sold, spun off, or divested.</text>
+ </paragraph><paragraph id="H858CC5E6A0B84DEFB99F4536155B89CB"><enum>(5)</enum><header>Treatment of Subsidy Reserve amounts</header><text display-inline="yes-display-inline">Amounts in the Subsidy Reserve may be taken into account when determining the capital of a company for purposes of meeting any regulatory capital requirements.</text>
+ </paragraph><paragraph id="H8C7FF09728DF4C309FADCB8C587F8A1C"><enum>(6)</enum><header>Rulemaking</header><text display-inline="yes-display-inline">The Board of Governors may issue such regulations and orders as it considers necessary to carry out this subsection.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

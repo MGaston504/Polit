@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H7E88A8D2A1D74CC5952B6170EC940C55" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3213 IH: Fixed Asset Relief Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3213</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150723">July 23, 2015</action-date>
+			<action-desc><sponsor name-id="W000816">Mr. Williams</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to make 100 percent bonus depreciation permanent.</official-title>
+	</form>
+	<legis-body id="H5606C3F53D414D3B8C587B7317D7AB80" style="OLC">
+ <section id="H24BDE3348C6240939E7DEFD0AD785979" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fixed Asset Relief Act of 2015</short-title></quote>.</text> </section><section id="HA5BF4B6395C14B53A3BBCDBDEA77B156"><enum>2.</enum><header>Bonus depreciation increased to 100 percent and made permanent</header> <subsection id="H123D7832040B4DB6A70AC39CD66D1493"><enum>(a)</enum><header>Increase</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/168">Section 168(k)(1)(A)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>50 percent</quote> and inserting <quote>100 percent</quote>.</text>
+ </subsection><subsection id="H436A2D3458664D6DB2C35372EE6E8C2B"><enum>(b)</enum><header>Made permanent</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/168">Section 168(k)(2)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text> <quoted-block id="HE202439BAB8B46309AC4FD01BB788A3C" style="OLC"> <paragraph id="HAA9C0D54BCCA4B8C9DEAF3478E3DAF80"><enum>(2)</enum><header>Qualified property</header><text>For purposes of this subsection—</text>
+ <subparagraph id="HD93A776F6B73412FA5DB8F78D044E8B0"><enum>(A)</enum><header>In general</header><text>The term <quote>qualified property</quote> means property—</text> <clause id="HEE09D8B8B4B942F994B565959090E74A"><enum>(i)</enum> <subclause commented="no" display-inline="yes-display-inline" id="H98980AE15F1F485C9502F993AD0145EA"><enum>(I)</enum><text>to which this section applies which has a recovery period of 20 years or less,</text>
+ </subclause><subclause id="H644C41E8E72F469D976F39D37A0D67B9" indent="up1"><enum>(II)</enum><text>which is computer software (as defined in section 167(f)(1)(B)) for which a deduction is allowable under section 167(a) without regard to this subsection,</text>
+ </subclause><subclause id="H3AE33BBA189F4489BA3D5929E70110BA" indent="up1"><enum>(III)</enum><text>which is water utility property, or</text> </subclause><subclause id="H46EB58ACD3144283B55ECCB7EAE639C5" indent="up1"><enum>(IV)</enum><text>which is qualified leasehold improvement property, and</text>
+ </subclause></clause><clause id="H50FA3E6003164EAC9A3B1DE17BC4799D"><enum>(ii)</enum><text>the original use of which commences with the taxpayer.</text> </clause></subparagraph><subparagraph id="HAF9B69B4A61743CC957EAC9D35243BEE"><enum>(B)</enum><header>Exception for alternative depreciation property</header><text>The term <quote>qualified property</quote> shall not include any property to which the alternative depreciation system under subsection (g) applies, determined—</text>
+ <clause id="H60688591AAF04ADFBEE15E5AB7FC12F9"><enum>(i)</enum><text>without regard to paragraph (7) of subsection (g) (relating to election to have system apply), and</text> </clause><clause id="H2D4F65DC2937483E8E83BB675B1061C3"><enum>(ii)</enum><text>after application of section 280F(b) (relating to listed property with limited business use).</text>
+							</clause></subparagraph><subparagraph id="HFD618A9D19704BFA80B05169BE4330CE"><enum>(C)</enum><header>Special rules</header>
+ <clause id="HE537B76E8BF342D7932E80B42D45E6A8"><enum>(i)</enum><header>Sale-leasebacks</header><text>For purposes of clause (ii) and subparagraph (A)(ii), if property is—</text> <subclause id="H33229B300849486487A30D4960A243D8"><enum>(I)</enum><text>originally placed in service by a person, and</text>
+ </subclause><subclause id="H22989A6C5E0A4B46A10863D75DE1CC18"><enum>(II)</enum><text>sold and leased back by such person within 3 months after the date such property was originally placed in service,</text>
+								</subclause><continuation-text continuation-text-level="clause">such property shall be treated as originally placed in service not earlier than the date on which
+ such property is used under the leaseback referred to in subclause (II).</continuation-text></clause><clause id="HB9DE037C02604861B204C7810157409C"><enum>(ii)</enum><header>Syndication</header><text>For purposes of subparagraph (A)(ii), if—</text> <subclause id="H2A00AF0950614880A352F5AE35F122EB"><enum>(I)</enum><text>property is originally placed in service by the lessor of such property,</text>
+ </subclause><subclause id="H53398E4C60F44A9D979DFC6D43E56DF2"><enum>(II)</enum><text>such property is sold by such lessor or any subsequent purchaser within 3 months after the date such property was originally placed in service (or, in the case of multiple units of property subject to the same lease, within 3 months after the date the final unit is placed in service, so long as the period between the time the first unit is placed in service and the time the last unit is placed in service does not exceed 12 months), and</text>
+ </subclause><subclause id="H2A3A50631A1A4AE1826B107FD68EB3FF"><enum>(III)</enum><text>the user of such property after the last sale during such 3-month period remains the same as when such property was originally placed in service,</text>
+								</subclause><continuation-text continuation-text-level="clause">such property shall be treated as originally placed in service not earlier than the date of such
+ last sale.</continuation-text></clause></subparagraph><subparagraph id="HCD989F728E1D44CDAA2FA7D0867E4509"><enum>(D)</enum><header>Coordination with section 280F</header><text>For purposes of section 280F—</text> <clause id="H4B1DA3D38A7C48598880FE3555112040"><enum>(i)</enum><header>Automobiles</header><text>In the case of a passenger automobile (as defined in section 280F(d)(5)) which is qualified property, the Secretary shall increase the limitation under section 280F(a)(1)(A)(i) by $8,000.</text>
+ </clause><clause id="H3CA6FC151D894B05AA3B3BC0739B89EB"><enum>(ii)</enum><header>Listed property</header><text>The deduction allowable under paragraph (1) shall be taken into account in computing any recapture amount under section 280F(b)(2).</text>
+ </clause><clause id="H76E381CF7F714B3681D84F90DDF86F41"><enum>(iii)</enum><header>Inflation adjustment</header><text display-inline="yes-display-inline">In the case of any taxable year beginning in a calendar year after 2015, the $8,000 amount in clause (i) shall be increased by an amount equal to—</text>
+ <subclause id="H0B0CAA7A0FC14D33AE2E804064132F85"><enum>(I)</enum><text>such dollar amount, multiplied by</text> </subclause><subclause id="H2A5B2DAA6E0D4302ABB82BB4734069B2"><enum>(II)</enum><text>the automobile price inflation adjustment determined under section 280F(d)(7)(B)(i) for the calendar year in which such taxable year begins by substituting <quote>2014</quote> for <quote>1987</quote> in subclause (II) thereof.</text>
+								</subclause><continuation-text continuation-text-level="clause">If any increase under the preceding sentence is not a multiple of $100, such increase shall be
+ rounded to the nearest multiple of $100.</continuation-text></clause></subparagraph><subparagraph id="H3576143BB6954D5597B34FD1A84D0A32"><enum>(E)</enum><header>Deduction allowed in computing minimum tax</header><text>For purposes of determining alternative minimum taxable income under section 55, the deduction under section 167 for qualified property shall be determined without regard to any adjustment under section 56.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HBA236B6994E54DC5976A866D788AE377"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to property placed in service after December 31, 2014.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

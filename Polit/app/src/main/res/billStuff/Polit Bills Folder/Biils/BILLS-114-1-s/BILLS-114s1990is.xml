@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1990 IS: Federal Computer Security Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-08-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1990</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150805">August 5, 2015</action-date>
+			<action-desc><sponsor name-id="S118">Mr. Hatch</sponsor> (for himself and <cosponsor name-id="S277">Mr. Carper</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require Inspectors General and the Comptroller General of the United States to submit reports on
+			 the use of logical access controls and other security practices to
+			 safeguard classified and personally identifiable information on Federal
+			 computer systems, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Federal Computer Security Act</short-title></quote>.</text>
+ </section><section id="id51C9704ACB7E4DC98AD12F89D807B058"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> <paragraph commented="no" display-inline="no-display-inline" id="idFB4896DF99C7492EBA670794FFEF389A"><enum>(1)</enum><header>Agency</header><text display-inline="yes-display-inline">The term <term>agency</term> has the meaning given the term in section 3502 of title 44, United States Code.</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id542DE3E378D74FEBA8B4A37F5B3B91FC"><enum>(2)</enum><header>Covered agency</header><text>The term <term>covered agency</term> means an agency that operates a Federal computer system that provides access to classified information or personally identifiable information.</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="idD7F2D51A5C3F42CBB9CE3DDE06FD830F"><enum>(3)</enum><header>Logical access control</header><text display-inline="yes-display-inline">The term <term>logical access control</term> means a process of granting or denying specific requests to obtain and use information and related information processing services.</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id6410F90894C14EF0AD6FD6D7A003641D"><enum>(4)</enum><header>Multi-factor logical access controls</header><text display-inline="yes-display-inline">The term <term>multi-factor logical access controls</term> means a set of not less than 2 of the following logical access controls:</text> <subparagraph id="idA6F2DB93113D461EA511E2DC76BCCBDA"><enum>(A)</enum><text>Information that is known to the user, such as a password or personal identification number.</text>
+ </subparagraph><subparagraph id="id8B7D0D7C37AA4280B6B3F38C323C3AA8"><enum>(B)</enum><text>An access device that is provided to the user, such as a cryptographic identification device or token.</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id037C9F236F2E4F1BBF411CA296A3E455"><enum>(C)</enum><text>A unique biometric characteristic of the user.</text> </subparagraph></paragraph></section><section id="idF0C0C59D8F494ABD8953A8822D180FB7"><enum>3.</enum><header>Inspector General report on Federal computer systems</header> <subsection id="idD12AF640F0E044E9AF9C0E29EC77FFB5"><enum>(a)</enum><header>In general</header><text>Not later than 240 days after the date of enactment of this Act, the Inspector General of each covered agency shall each submit to the Comptroller General of the United States and the appropriate committees of jurisdiction in the Senate and the House of Representatives a report, which shall include information collected from the covered agency for the contents described in subsection (b) regarding the Federal computer systems of the covered agency.</text>
+ </subsection><subsection id="idFBB1A73E582D4E5C8C8A47D5313EEAEF"><enum>(b)</enum><header>Contents</header><text>The report submitted by each Inspector General of a covered agency under subsection (a) shall include, with respect to the covered agency, the following:</text>
+ <paragraph id="id8AAADFDAD43F47CCA35DDB202D69FD49"><enum>(1)</enum><text>A description of the logical access standards used by the covered agency to access a Federal computer system that provides access to classified or personally identifiable information, including—</text>
+ <subparagraph id="idB18913CB45B2463F83E59B2046C9B7E5"><enum>(A)</enum><text>in aggregate, a list and description of logical access controls used to access such a Federal computer system; and</text>
+ </subparagraph><subparagraph id="id44E2A87E3D904F83B606627FCB0AA0EE"><enum>(B)</enum><text>whether the covered agency is using multi-factor logical access controls to access such a Federal computer system.</text>
+ </subparagraph></paragraph><paragraph id="id43CADE071E2849E7AC0FEA3C33C989B6"><enum>(2)</enum><text>If the covered agency does not use logical access controls or multi-factor logical access controls to access a Federal computer system that provides access to classified or personally identifiable information, a description of the reasons for not using such logical access controls or multi-factor logical access controls.</text>
+ </paragraph><paragraph id="idC792DB1DA3A14C178D747281B2FFBC19"><enum>(3)</enum><text>A description of the following data security management practices used by the covered agency:</text> <subparagraph id="id206C2A788F1D418CBAE8A77FC2F414EC"><enum>(A)</enum><text>The policies and procedures followed to conduct inventories of the software present on the Federal computer systems of the covered agency and the licenses associated with such software.</text>
+ </subparagraph><subparagraph id="id7036166CB2C6471B9ACCCDA0DB778562"><enum>(B)</enum><text>Whether the covered agency has entered into a licensing agreement for the use of software security controls to monitor and detect exfiltration and other threats, including—</text>
+ <clause id="id339716EFE4964C378C31AB7671F4DFE2"><enum>(i)</enum><text>data loss prevention software; or</text> </clause><clause id="id1DA078CEB6B146DB9B927EAE66478A10"><enum>(ii)</enum><text>digital rights management software.</text>
+ </clause></subparagraph><subparagraph id="id7DF361064BEA41FE8762D37EEA8C69B8"><enum>(C)</enum><text>A description of how the covered agency is using software described in subparagraph (B).</text> </subparagraph><subparagraph id="id8B39483837224B6EB10C85C112EA0E2E"><enum>(D)</enum><text>If the covered agency has not entered into a licensing agreement for the use of, or is otherwise not using, software described in subparagraph (B), a description of the reasons for not entering into such a licensing agreement or using such software.</text>
+ </subparagraph></paragraph><paragraph id="id1E1E3D7D9DA847E28C9BDBF44F33EC53"><enum>(4)</enum><text>A description of the policies and procedures of the covered agency with respect to ensuring that entities, including contractors, that provide services to the covered agency are implementing the data security management practices described in paragraph (3).</text>
+ </paragraph></subsection><subsection id="idEC58926260D84F78AA10CE225F501FCA"><enum>(c)</enum><header>Existing review</header><text>The report required under this section may be based in whole or in part on an audit, evaluation, or report relating to programs or practices of the covered agency, and may be submitted as part of another report, including the report required under section 3555 of title 44, United States Code.</text>
+ </subsection><subsection id="id9573B32B7F8E4B98B58FE72BAFEF7FAB"><enum>(d)</enum><header>Classified information</header><text>A report submitted under this section shall be in unclassified form, but may include a classified annex.</text>
+ </subsection><subsection id="id470BA6BB73E04CD48836BC6658F450BA"><enum>(e)</enum><header>Availability to members of Congress</header><text>A report submitted under this section shall be made available upon request by any Member of Congress.</text>
+			</subsection></section><section id="id14EF856AD663440D98460D1800A81D67"><enum>4.</enum><header>GAO economic analysis and report on Federal computer systems</header>
+ <subsection id="id5312EDB5E0C3457C965F5283753A6FF2"><enum>(a)</enum><header>Report</header><text>Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report examining, including an economic analysis of, any impediments to agency use of effective security software and security devices.</text>
+ </subsection><subsection id="id87DCEBE7F1B24E2D8EE58B09C42C8BB5"><enum>(b)</enum><header>Classified information</header><text display-inline="yes-display-inline">A report submitted under this section shall be in unclassified form, but may include a classified annex.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

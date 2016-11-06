@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S153 IS: Immigration Innovation Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-01-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 153</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150113">January 13, 2015</action-date>
+			<action-desc><sponsor name-id="S118">Mr. Hatch</sponsor> (for himself, <cosponsor name-id="S311">Ms. Klobuchar</cosponsor>, <cosponsor name-id="S350">Mr. Rubio</cosponsor>, <cosponsor name-id="S337">Mr. Coons</cosponsor>, <cosponsor name-id="S358">Mr. Flake</cosponsor>, and <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Immigration and Nationality Act to authorize
+		  additional visas for well-educated aliens to live and work in the United
+		  States, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+ title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Immigration Innovation Act of 2015</short-title></quote> or the <quote><short-title>I-Squared Act of 2015</short-title></quote>.</text>
+		</section><section id="id17DACE22F7DE483B8B85D02B996CC1AF"><enum>2.</enum><header>Table of
+ contents</header><text display-inline="no-display-inline">The table of contents for this Act is as follows:</text>
+			<toc>
+				<toc-entry idref="S1" level="section">Sec. 1. Short
+				title.</toc-entry>
+				<toc-entry idref="id17DACE22F7DE483B8B85D02B996CC1AF" level="section">Sec. 2. Table of contents.</toc-entry>
+				<toc-entry idref="idC71D4E2F3C0E4EC6B01C7C8099990EA1" level="title">TITLE I—Employment-Based Nonimmigrant Visas</toc-entry>
+				<toc-entry idref="IDd826e62ec811454b88ead9f7ff42dbde" level="section">Sec. 101. Market-based H–1B visa limits.</toc-entry>
+				<toc-entry idref="id1EF082A64D9F4D66922BAE5B467BC8E8" level="section">Sec. 102. Employment authorization for dependents of H–1B nonimmigrants.</toc-entry><toc-entry bold="off" level="section">Sec. 103. Eliminating impediments to worker mobility.</toc-entry>
+				<toc-entry idref="id19458FE97F1F4E37ABD49BFC1C491404" level="title">TITLE II—Student Visas</toc-entry>
+				<toc-entry idref="idBF3852EC6B664909B56A3747C294D463" level="section">Sec. 201. Authorization of dual intent.</toc-entry>
+				<toc-entry idref="id1F7BD82120554A928C5323D1A023B120" level="title">TITLE III—Employment-Based Immigrant Visas </toc-entry>
+				<toc-entry idref="idDFAFDD76C9144CD7BD591774CBB0EC1D" level="section">Sec. 301. Elimination of per-country numerical
+				limitations.</toc-entry>
+				<toc-entry idref="id76e31994b0204b46a42deead0c5e6fde" level="section">Sec. 302. Ensuring all preference employment-based immigrant visas are issued.</toc-entry>
+				<toc-entry idref="idf5d4a8ace1a6493abcfe95391eb316a4" level="section">Sec. 303. Aliens not subject to direct numerical
+				limitation.</toc-entry>
+				<toc-entry idref="idB637129E6C874E1A89294590EB801D4F" level="title">TITLE IV—STEM Education Funding</toc-entry>
+				<toc-entry idref="id8716F511402649E79B026620FCB010D7" level="section">Sec. 401. Funding for STEM education and training.</toc-entry>
+				<toc-entry idref="id82D94E4F5DA447199BF9D24065E76D33" level="section">Sec. 402. Promoting American Ingenuity Account.</toc-entry>
+				<toc-entry idref="id2FFDF9168C1D4B2F8D8AA16DB4DC6DC2" level="section">Sec. 403. STEM education grant application process.</toc-entry>
+				<toc-entry idref="idB75CB0B56D4648FB9CD681658CBCC9E4" level="section">Sec. 404. Approved activities.</toc-entry>
+				<toc-entry idref="id62AD16E91DD140BE9853BBB540C0214D" level="section">Sec. 405. National evaluation.</toc-entry>
+				<toc-entry idref="id8f15bdfce2494f69b8b1c303e4e36ded" level="section">Sec. 406. Rule of construction.</toc-entry>
+			</toc>
+		</section><title id="idC71D4E2F3C0E4EC6B01C7C8099990EA1"><enum>I</enum><header>Employment-Based
+			 Nonimmigrant Visas</header>
+			<section id="IDd826e62ec811454b88ead9f7ff42dbde"><enum>101.</enum><header>Market-based
+			 H–1B visa limits</header>
+				<subsection id="id2CA3C675B3B542E3A9DB7A4C7A9B933C"><enum>(a)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Section 214(g) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1184">8 U.S.C. 1184(g)</external-xref>) is amended—</text>
+ <paragraph id="IDe1611d7c33074c14af404655dc644dc7"><enum>(1)</enum><text>in paragraph (1)—</text>
+ <subparagraph id="IDf52f04177ca3477eaba25d5104fa022e"><enum>(A)</enum><text>in the matter preceding subparagraph (A), by striking <quote>(beginning with fiscal year 1992)</quote>; and</text>
+ </subparagraph><subparagraph id="ID1f630fa535e84213a417046b9b69574d"><enum>(B)</enum><text>by amending subparagraph (A) to read as follows:</text>
+							<quoted-block display-inline="no-display-inline" id="idFDD20A9EEF9C4A7D93383577602C7FD4" style="OLC">
+ <subparagraph id="id02A03246D639493CB8498D4F898FF4D4"><enum>(A)</enum><text>under section 101(a)(15)(H)(i)(b) may not exceed the sum of—</text>
+ <clause id="id917574AD3C84427599BDB6A7D99291C0"><enum>(i)</enum><text>the base allocation calculated under paragraph (9)(A); and</text>
+ </clause><clause id="idFA30596135DB41A790E17B445657CB10"><enum>(ii)</enum><text>the allocation adjustment calculated under paragraph (9)(B); and</text>
+									</clause></subparagraph><after-quoted-block>;</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="id68AABBEB8EB84E70864B4B955C2189AB"><enum>(2)</enum><text>in paragraph (5)—</text>
+ <subparagraph id="id1B9879F86C684D12A694730AF1A953CA"><enum>(A)</enum><text>in subparagraph (B), by striking <quote>or</quote> at the end; and</text>
+ </subparagraph><subparagraph id="id9F3F35D5F73546C3955A208790EABCD1"><enum>(B)</enum><text>in subparagraph (C), by striking <quote>, until the number of aliens who are exempted from such numerical limitation during such year exceeds 20,000.</quote> and inserting <quote>; or</quote>;</text>
+ </subparagraph></paragraph><paragraph id="id664113E07DB14F418EED850FA07D30DF"><enum>(3)</enum><text>in paragraph (8), by striking subparagraphs (B)(iv) and (D);</text>
+ </paragraph><paragraph id="id389FE974615F4854B9B401136D93BD0D"><enum>(4)</enum><text>by redesignating paragraph (10) as subparagraph (D) of paragraph (9);</text>
+ </paragraph><paragraph id="id8EBB11016A13468186E588686F89B4BF"><enum>(5)</enum><text>by redesignating paragraph (9) as paragraph (10); and</text>
+ </paragraph><paragraph id="ID7921ea97a63347ee97bf01155883594f"><enum>(6)</enum><text>by inserting after paragraph (8) the following:</text>
+						<quoted-block display-inline="no-display-inline" id="idD706B22765C94DCA88D68A57352A867A" style="OLC">
+ <paragraph id="IDc97ec663e19b4e47bef494d684ab97e3" indent="up1"><enum>(9)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="id1A547DEDC2564FB28CCFD8A88D39A12C"><enum>(A)</enum><text>The base allocation of nonimmigrant visas under section 101(a)(15)(H)(i)(b) for each fiscal year shall be equal to—</text>
+ <clause id="id005205EA824442CD957DD7851E226ABB" indent="up1"><enum>(i)</enum><text>the sum of—</text> <subclause id="id75AFB284CC0F4E208F6A407741E89814"><enum>(I)</enum><text>the base allocation for the most recently completed fiscal year; and</text>
+ </subclause><subclause id="id77548919DDBA49FD9E4960F682C5EB3E"><enum>(II)</enum><text>the allocation adjustment for the most recently completed fiscal year;</text>
+ </subclause></clause><clause id="id99BC0FEAF089430CBB9B736D6E65D4F4" indent="up1"><enum>(ii)</enum><text>if the number calculated under clause (i) is less than 115,000, 115,000; or</text>
+ </clause><clause id="id0DABFA8C921B4C5880A60EC448C57E0D" indent="up1"><enum>(iii)</enum><text>if the number calculated under clause (i) is more than 195,000, 195,000.</text>
+ </clause></subparagraph><subparagraph id="idA1DD523FED5A454FBF086237E40B0DA8" indent="up1"><enum>(B)</enum><clause commented="no" display-inline="yes-display-inline" id="id5AD7279B53724DD286B65359564AD008"><enum>(i)</enum><text>If the number of cap-subject nonimmigrant visa petitions approved under section 101(a)(15)(H)(i)(b) during the first 45 days petitions may be filed for a fiscal year is equal to the base allocation for such fiscal year, an additional 20,000 such visas shall be made available beginning on the 46th day on which petitions may be filed for such fiscal year.</text>
+ </clause><clause id="id1CB905244D5747B1AFEB89E1ECE5EA07" indent="up1"><enum>(ii)</enum><text>If the base allocation of cap-subject nonimmigrant visa petitions approved under section 101(a)(15)(H)(i)(b) for a fiscal year is reached during the 15-day period ending on the 60th day on which petitions may be filed for such fiscal year, an additional 15,000 such visas shall be made available beginning on the 61st day on which petitions may be filed for such fiscal year.</text>
+ </clause><clause id="id73AE2C308FCA4F789CD160E8199193E1" indent="up1"><enum>(iii)</enum><text>If the base allocation of cap-subject nonimmigrant visa petitions approved under section 101(a)(15)(H)(i)(b) for a fiscal year is reached during the 30-day period ending on the 90th day on which petitions may be filed for such fiscal year, an additional 10,000 such visas shall be made available beginning on the 91st day on which petitions may be filed for such fiscal year.</text>
+ </clause><clause id="id2B00B2D6782C4DD19072A87CF16187AA" indent="up1"><enum>(iv)</enum><text>If the base allocation of cap-subject nonimmigrant visa petitions approved under section 101(a)(15)(H)(i)(b) for a fiscal year is reached during the 185-day period ending on the 275th day on which petitions may be filed for such fiscal year, an additional 5,000 such visas shall be made available beginning on the date on which such allocation is reached.</text>
+ </clause><clause id="id6EC63A0CD6CA4507AF2148CAD0851432" indent="up1"><enum>(v)</enum><text>If the number of cap-subject nonimmigrant visa petitions approved under section 101(a)(15)(H)(i)(b) for a fiscal year is at least 5,000 fewer than the base allocation, but is not more than 9,999 fewer than the base allocation, the allocation adjustment for the following fiscal year shall be −5,000.</text>
+ </clause><clause id="id6A92D3A862944085AA388583B5A9B8C6" indent="up1"><enum>(vi)</enum><text>If the number of cap-subject nonimmigrant visa petitions approved under section 101(a)(15)(H)(i)(b) for a fiscal year is at least 10,000 fewer than the base allocation, but not more than 14,999 fewer than the base allocation, the allocation adjustment for the following fiscal year shall be −10,000.</text>
+ </clause><clause id="id113F0FDCD9EB44CF87105CAA8775B0F1" indent="up1"><enum>(vii)</enum><text>If the number of cap-subject nonimmigrant visa petitions approved under section 101(a)(15)(H)(i)(b) for a fiscal year is at least 15,000 fewer than the base allocation, but not more than 19,999 fewer than the base allocation, the allocation adjustment for the following fiscal year shall be −15,000.</text>
+ </clause><clause id="id17D6FD69FC554E0D9113504C3C64E0FE" indent="up1"><enum>(viii)</enum><text>If the number of cap-subject nonimmigrant visa petitions approved under section 101(a)(15)(H)(i)(b) for a fiscal year is at least 20,000 fewer than the base allocation, the allocation adjustment for the following fiscal year shall be −20,000.</text>
+									</clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection id="id4595B963AA254EBBB9CE20A662AA03F8"><enum>(b)</enum><header>Reporting
+ requirement</header><text>The Secretary of Homeland Security shall—</text> <paragraph id="id381014CB318B4792AA5EFB665D431041"><enum>(1)</enum><text>timely upload to a public website data that summarizes the adjudication of nonimmigrant petitions under section 101(a)(15)(H)(b) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1101">8 U.S.C. 1101(a)(15)(H)(b)</external-xref>) during each fiscal year; and</text>
+ </paragraph><paragraph id="id58CC67CE74054802B4A6566EA4868185"><enum>(2)</enum><text>allow the timely adjustment of visa allocations under section 214(g)(9)(B) of such Act, as added by subsection (a).</text></paragraph></subsection></section><section id="id2422bc6f5fda4be8b45bffdfa62262d8"><enum>102.</enum><header>Employment
+ authorization for dependents of H–1B nonimmigrants</header><text display-inline="no-display-inline">Section 214(c) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1184">8 U.S.C. 1184(c)</external-xref>) is amended—</text>
+ <paragraph id="idF51676A308F3418CA85924A5A91FEF3A"><enum>(1)</enum><text display-inline="yes-display-inline">by striking <quote>Attorney General</quote> each place such term appears and inserting <quote>Secretary of Homeland Security</quote>; and</text>
+ </paragraph><paragraph id="idF3857F68BBBB4169AD266F31480B7114"><enum>(2)</enum><text display-inline="yes-display-inline">in paragraph (2), by amending subparagraph (E) to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id7BFB3F3F85B34FC08E9722E9EA5D3AAD" style="OLC">
+ <subparagraph id="id3B4BFF51FB954083849A9C5EEEB85848" indent="up1"><enum>(E)</enum><text display-inline="yes-display-inline">The Secretary of Homeland Security shall—</text>
+ <clause id="id5C049B1AE74F4D468A9E5FDA591006DF"><enum>(i)</enum><text display-inline="yes-display-inline">authorize an alien spouse admitted under subparagraph (H)(i)(b) or (L) of section 101(a)(15) who is accompanying or following to join the principal alien to engage in employment in the United States; and</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="id96CB456A50F44438B4DCD1CC7C74222E"><enum>(ii)</enum><text display-inline="yes-display-inline">provide the spouse with an <quote>employment authorized</quote> endorsement or other appropriate work permit.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section><section id="id1EF082A64D9F4D66922BAE5B467BC8E8"><enum>103.</enum><header>Eliminating
+			 impediments to worker mobility</header>
+				<subsection id="id19D5697022C1426988C680EF5A62BC14"><enum>(a)</enum><header>Deference to
+ prior approvals</header><text>Section 214(c) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1184">8 U.S.C. 1184(c)</external-xref>) is amended by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id4E370F2A64774600AF3007010B500E4A" style="OLC">
+ <paragraph id="id5064D31C59754625814FED271C659C4D" indent="up1"><enum>(9)</enum><text>If the Secretary of Homeland Security or the Secretary of State approves a visa, petition, or application for admission on behalf of an alien described in subparagraph (H)(i)(b) or (L) of section 101(a)(15), the Secretary of Homeland Security or the Secretary of State may not deny a subsequent petition, visa, or application for admission involving the same employer and alien unless the applicant is provided with a written finding that explains the basis for the Government’s determination that—</text>
+ <subparagraph id="id094C20D6381F4F7D99B0A67B597C48A5" indent="up1"><enum>(A)</enum><text>there was a material error with regard to the approval of the previous petition, visa, or application for admission;</text>
+ </subparagraph><subparagraph id="id3B0930F82DC24AD893294A164AA32112" indent="up1"><enum>(B)</enum><text>a substantial change in circumstances has taken place since the prior approval or admission that renders the nonimmigrant ineligible for such status under this Act; or</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id1B07EF97A28B4EDDA404C6B76184B792" indent="up1"><enum>(C)</enum><text>new material information has been discovered that adversely impacts the eligibility of the employer or the nonimmigrant.</text>
+							</subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="id73284E570BFC410AAC2C418B15B824DE"><enum>(b)</enum><header>Effect of
+ ending employment relationship</header><text display-inline="yes-display-inline">Section 214(n) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1184">8 U.S.C. 1184(n)</external-xref>) is amended by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="idC910862A22394598B66843E71C6CB89B" style="OLC">
+ <paragraph id="idB537B3C3A19842E88DD2D4B45E1732AD" indent="up1"><enum>(3)</enum><text>A nonimmigrant admitted under section 101(a)(15)(H)(i)(b) whose employment relationship ends (either voluntarily or involuntarily) before the expiration of the nonimmigrant’s period of authorized admission shall be deemed to have retained such legal status throughout the 60-day period beginning on such employment ending date if an employer files a petition to extend, change, or adjust the status of the nonimmigrant during such period.</text>
+						</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="id19F65BE413054143AE515759F70A2542"><enum>(c)</enum><header>Visa
+ revalidation</header><text>Section 222(c) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1202">8 U.S.C. 1202(c)</external-xref>) is amended by inserting <quote>The Secretary of State shall authorize an alien admitted under subparagraph (E), (H), (L), (O), or (P) of section 101(a)(15) to renew his or her nonimmigrant visa in the United States if the alien has remained eligible for such status.</quote>.</text>
+				</subsection></section></title><title id="id19458FE97F1F4E37ABD49BFC1C491404"><enum>II</enum><header>Student
+			 Visas</header>
+			<section id="idBF3852EC6B664909B56A3747C294D463"><enum>201.</enum><header>Authorization
+			 of dual intent</header>
+ <subsection id="id1F56E72D24EE46EEAA7626A404A7E9B6"><enum>(a)</enum><header>Definition</header><text>Section 101(a)(15)(F)(i) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1101">8 U.S.C. 1101(a)(15)(F)(i)</external-xref>) is amended by striking <quote>which he has no intention of abandoning</quote>.</text>
+				</subsection><subsection id="id26544B0F5B544A33B9ACCFC3B11D61DB"><enum>(b)</enum><header>Presumption of
+ Status; Intention To Abandon Foreign Residence</header><text>Section 214 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1184">8 U.S.C. 1184</external-xref>) is amended—</text>
+ <paragraph id="id4B502785BF4E478BBEC41BD331B9C960"><enum>(1)</enum><text>in subsection (b), by striking <quote>(L) or (V)</quote> and inserting <quote>(F), (L), or (V)</quote>; and</text>
+ </paragraph><paragraph id="id3860717B2EBF47A68A6DFD4B9D116F81"><enum>(2)</enum><text>in subsection (h), by striking <quote>(H)(i)(b) or (c)</quote> and inserting <quote>(F), (H)(i)(b), (H)(i)(c)</quote>.</text>
+					</paragraph></subsection></section></title><title id="id1F7BD82120554A928C5323D1A023B120"><enum>III</enum><header>Employment-Based
+			 Immigrant Visas </header>
+			<section id="idDFAFDD76C9144CD7BD591774CBB0EC1D"><enum>301.</enum><header>Elimination of
+			 per-country numerical limitations</header>
+				<subsection id="id2731372336b04efcb4ba9e693f082749"><enum>(a)</enum><header>In
+ general</header><text>Section 202(a)(2) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1152">8 U.S.C. 1152(a)(2)</external-xref>) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="idA1DECA3A931244EAA07D51CB79527353" style="OLC">
+						<paragraph commented="no" display-inline="no-display-inline" id="IDB26297BCDCD245F098D871974432898A"><enum>(2)</enum><header display-inline="yes-display-inline">Per country levels for family-sponsored
+ immigrants</header><text display-inline="yes-display-inline">Subject to paragraphs (3) and (4), the total number of immigrant visas made available to natives of any single foreign state or dependent area under section 203(a) in any fiscal year may not exceed 15 percent (in the case of a single foreign state) or 2 percent (in the case of a dependent area) of the total number of such visas made available under such section in that fiscal year.</text>
+						</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="idc4ae9e0c376b41f8a6ea92c1ad24e706"><enum>(b)</enum><header>Conforming
+ amendments</header><text>Section 202 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1152">8 U.S.C. 1152</external-xref>) is amended—</text>
+ <paragraph id="idbafe6dc8dab246e18e5cc1be5452c2ba"><enum>(1)</enum><text>in subsection (a)—</text>
+ <subparagraph id="id350cee4f1f88444c8a3ec3d2863ee5ca"><enum>(A)</enum><text>in paragraph (3), by striking <quote>both subsections (a) and (b) of section 203</quote> and inserting <quote>section 203(a)</quote>; and</text>
+ </subparagraph><subparagraph id="id10dd494674d649e6944b5bb8ed8ce180"><enum>(B)</enum><text>by striking paragraph (5); and</text>
+ </subparagraph></paragraph><paragraph id="idea1d642ea4844de6afc3da07a19b7d54"><enum>(2)</enum><text>by amending subsection (e) to read as follows:</text>
+						<quoted-block display-inline="no-display-inline" id="id8d3436a54eb24a778fa1f9d8daa926dd" style="OLC">
+							<subsection id="ide53eefee1534468988ee7064baa32748"><enum>(e)</enum><header>Special rules
+ for countries at ceiling</header><text>If the total number of immigrant visas made available under section 203(a) to natives of any single foreign state or dependent area will exceed the numerical limitation specified in subsection (a)(2) in any fiscal year, the number of visas for natives of that state or area shall be allocated under section 203(a) so that, except as provided in subsection (a)(4), the proportion of the visa numbers made available under each of paragraphs (1) through (4) of section 203(a) is equal to the ratio of the total number of visas made available under the respective paragraph to the total number of visas made available under section 203(a).</text>
+							</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection id="idc1d4690e09ec49cc9957905aea2fdce7"><enum>(c)</enum><header>Country-Specific
+ Offset</header><text>Section 2 of the Chinese Student Protection Act of 1992 (<external-xref legal-doc="usc" parsable-cite="usc/8/1255">8 U.S.C. 1255</external-xref> note) is amended—</text>
+ <paragraph id="iddbccfa6dfcf44be78fa7ba28989f5551"><enum>(1)</enum><text>in subsection (a), by striking <quote>subsection (e))</quote> and inserting <quote>subsection (d))</quote>; and</text>
+ </paragraph><paragraph id="id5bcdc95ccd7c44899e84c3b438cb53ba"><enum>(2)</enum><text>by striking subsection (d) and redesignating subsection (e) as subsection (d).</text>
+					</paragraph></subsection><subsection id="idCBCEC957D52A4DDEB244637D3CE27480"><enum>(d)</enum><header>Effective
+ date</header><text>The amendments made by this section shall take effect on October 1, 2015, and shall apply to fiscal years beginning with fiscal year 2016.</text>
+ </subsection></section><section id="id76e31994b0204b46a42deead0c5e6fde"><enum>302.</enum><header>Ensuring all preference employment-based immigrant visas are issued</header><subsection id="idf7325fa8af7f41559f9b8b0b93d1daa8"><enum>(a)</enum><header>Backlog reduction</header><paragraph id="idcab236ba6a574641aef6ce6f690bce77"><enum>(1)</enum><header>In general</header><text>Notwithstanding any other provision of law, beginning in fiscal year 2016, the number of employment-based immigrant visas that shall be issued under paragraph (1), (2), or (3) of section 203(b) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1153">8 U.S.C. 1153(b)</external-xref>) shall be increased by the number computed under paragraph (2).</text></paragraph><paragraph id="idf443c6c5fa5d4dc9b873ca3aff4a760b"><enum>(2)</enum><header>Number available</header><subparagraph id="ide13b51e2ee1e4bf5b5b15d721f8381ae"><enum>(A)</enum><header>In general</header><text>The number computed under this paragraph is—</text><clause id="idB804F6916C424C76AE5D3CE9C66739A6"><enum>(i)</enum><text>the greater of—</text><subclause id="id26D2FCD6B5C84ED8B05056013159948D"><enum>(I)</enum><text>the number of preference immigrant visas computed under section 201(d)(1) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1151">8 U.S.C. 1151(d)(1)</external-xref>) for fiscal years 1992 to 2013 that were not issued to any preference immigrant for any of those fiscal years; or</text></subclause><subclause id="id2B06B8DFA6AB4BC5A26632E0CA144172"><enum>(II)</enum><text>200,000; minus</text></subclause></clause><clause id="id09948EAF81FD41F9B724BD4B6DC9F4AD"><enum>(ii)</enum><text>the number described in subparagraph (B).</text></clause></subparagraph><subparagraph id="idb3bbf34120ca4e238aa33e70866e2f54"><enum>(B)</enum><header>Reduction</header><text>The number described in subparagraph (A)(i) shall be reduced, for each fiscal year after fiscal year 2016, by the cumulative number of immigrant visas issued for previous fiscal years pursuant to the increase authorized under paragraph (1).</text></subparagraph><subparagraph id="ida441880061ab4a6e9b63efcf50f57f37"><enum>(C)</enum><header>Construction</header><clause id="idF4ACAD460FC848439504A3637110ADA5"><enum>(i)</enum><header>In general</header><text>Nothing in this paragraph may be construed as affecting the application of section 201(c)(3)(C) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1151">8 U.S.C. 1151(c)(3)(C)</external-xref>) with regard to immigrant visas other than the visas authorized by the increase computed under subparagraph (A).</text></clause><clause id="id52B395D515044380996570A6D00D4909"><enum>(ii)</enum><header>Limitation</header><text>The visas authorized by the increase computed under subparagraph (A) may only be issued to aliens seeking immigrant visas pursuant to paragraph (1), (2), or (3) of section 203(b) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1153">8 U.S.C. 1153(b)</external-xref>).</text></clause></subparagraph></paragraph></subsection><subsection id="id40a2d89371f44dfb84f12337e13ddf58"><enum>(b)</enum><header>Preference immigration as directed by Congress</header><text>Section 201(c)(1)(B)(ii) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1151">8 U.S.C. 1151(c)(1)(B)(ii)</external-xref>) is amended to read as follows:</text><quoted-block display-inline="no-display-inline" id="id6f9373a0c2ba408e9a975e7dc86fb769" style="OLC"><clause id="idda9dab09205b456188c50079f0c0e245" indent="up3"><enum>(ii)</enum><text>The number computed under subparagraph (A) shall not be less than the sum of—</text><subclause id="id15387FBD3DE5453AB682DA431455D4FD"><enum>(I)</enum><text>226,000; plus</text></subclause><subclause id="id8C203E88D8E741CDBF911668F6F7428D"><enum>(II)</enum><text>the number computed under paragraph (3).</text></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection id="id0bf65e7e78244d5caeee90d8c7258f84"><enum>(c)</enum><header>Ensuring full implementation</header><text>Section 203(g) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1153">8 U.S.C. 1153(g)</external-xref>) is amended by striking <quote>(g) <header-in-text level="subsection" style="OLC">Lists</header-in-text>.—For purposes of carrying out</quote> and inserting the following:</text><quoted-block display-inline="no-display-inline" id="id06A56F88AA1E4AD59918E32E27724357" style="OLC"><subsection id="idA65AD382194F403FA6968BEFF9511AED"><enum>(g)</enum><header>Administration</header><paragraph id="id64B74B1D138A40B7A231B5C63B5F882E"><enum>(1)</enum><header>Obligation to issue all authorized visas</header><subparagraph id="idF2132DD97A2947929C5516604140ECAD"><enum>(A)</enum><header>In general</header><text>The Secretary of State, in coordination with the Secretary of Homeland Security, shall administer this section in a manner that ensures that all immigrant visas authorized by Congress to be issued under this section are issued to qualified applicants.</text></subparagraph><subparagraph id="id38F1B3463FD74BB6970A3E6B16DFC9A7"><enum>(B)</enum><header>Notice</header><text>Not later than June 1 of each fiscal year, the Secretary of State shall publish a notice in the Federal Register that describes the steps that the Government is taking to comply with subparagraph (A).</text></subparagraph></paragraph><paragraph id="idF81357B38E6E4A62B6870E87DD50C2D0"><enum>(2)</enum><header>Lists</header><text>In order to carry out</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection id="id9D04FF27364E48BBA4BD3308AB9D1457"><enum>(d)</enum><header>Facilitating issuance of visas</header><text>Section 245(a) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1255">8 U.S.C. 1255(a)</external-xref>) is amended by adding at the end the following flush text:</text><quoted-block display-inline="no-display-inline" id="id79E09C8D66024FA39D5B6E13F994A221" style="OLC"><quoted-block-continuation-text quoted-block-continuation-text-level="section">For purposes of paragraph (3), an immigrant visa is deemed to be immediately available	if any
+			 visa number allocated under this Act to preference immigrants described in
+			 section
+			 203(b) has not yet been issued for that fiscal year.</quoted-block-continuation-text><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section><section id="idf5d4a8ace1a6493abcfe95391eb316a4"><enum>303.</enum><header>Aliens not
+			 subject to direct numerical limitation</header>
+				<subsection id="id7BE820CC069A4AA1B54351F7F6C969B4"><enum>(a)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Section 201(b)(1) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1151">8 U.S.C. 1151(b)(1)</external-xref>) is amended by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="ida2c9dd4f33874abaa983a5234a777a9a" style="OLC">
+ <subparagraph id="id0524ab08f8514f6ba07cb9ad317111fb" indent="up1"><enum>(F)</enum><text>Aliens who are the spouse or a child of an alien admitted as an employment-based immigrant under section 203(b).</text>
+ </subparagraph><subparagraph id="id1EBFAB813EBB459DAFE81D6AA5AE9097" indent="up1"><enum>(G)</enum><text>Aliens who have earned a master's or higher degree in a field listed on the STEM Designated Degree Program List published by the Department of Homeland Security on the Student and Exchange Visitor Program website from an institution of higher education (as defined in section 101(a) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1001">20 U.S.C. 1001(a)</external-xref>)).</text>
+ </subparagraph><subparagraph commented="no" id="id6E1F3A67931343A48F22B45A9358700C" indent="up1"><enum>(H)</enum><text>Aliens for whom a petition for an employment-based immigrant visa under paragraph (A) or (B) of section 203(b)(1) has been approved.</text>
+						</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="id5D37DA586EB945B3AE55CD7D0F224C24"><enum>(b)</enum><header>Conforming
+ amendments</header><text>Section 203(b) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1153">8 U.S.C. 1153(b)</external-xref>) is amended—</text>
+ <paragraph id="idC7E828B0B3EE4279BCC5C42A6A970AC5"><enum>(1)</enum><text>in paragraph (1), by striking <quote>28.6 percent</quote> and inserting <quote>12 percent</quote>;</text>
+ </paragraph><paragraph id="id9E72917D77264EE3A434BAA12F06CF40"><enum>(2)</enum><text>in paragraph (2)(A), by striking <quote>28.6 percent</quote> and inserting <quote>36.9 percent</quote>; and</text>
+ </paragraph><paragraph id="id9F9F710B08C74BA88A9B9A7EC5B0A5AB"><enum>(3)</enum><text>in paragraph (3)—</text>
+ <subparagraph id="idF52F97E36F41442295086A48D2E575A3"><enum>(A)</enum><text>in subparagraph (A), by striking <quote>28.6 percent</quote> and inserting <quote>36.9 percent</quote>;</text>
+ </subparagraph><subparagraph id="id2E54AE3DE5714E6482B885680ABEC4FE"><enum>(B)</enum><text>by striking subparagraph (B); and</text>
+ </subparagraph><subparagraph id="id1158E1CB423D4834B13330E9E27C56AB"><enum>(C)</enum><text>by redesignating subparagraph (C) as subparagraph (B).</text>
+						</subparagraph></paragraph></subsection></section></title><title id="idB637129E6C874E1A89294590EB801D4F"><enum>IV</enum><header>STEM Education
+			 Funding</header>
+			<section id="id8716F511402649E79B026620FCB010D7"><enum>401.</enum><header>Funding for
+			 STEM education and training</header>
+				<subsection id="id5553DB7F99D84C4FA84B628204FCCEAB"><enum>(a)</enum><header>Nonimmigrant
+ fee adjustment and allocation</header><text>Section 214(c)(9) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1184">8 U.S.C. 1184(c)(9)</external-xref>) is amended—</text>
+ <paragraph id="id3DA5611E55A94B9899A60DEFFBEE9365"><enum>(1)</enum><text>by amending subparagraph (B) to read as follows:</text>
+						<quoted-block display-inline="no-display-inline" id="id69C490E6666140F58DA8C4D9208D0EC8" style="OLC">
+ <subparagraph id="id35BBB37F20B04DF990A0D56F4AF4C411" indent="up2"><enum>(B)</enum><text>The amount of the fee imposed under this paragraph shall be—</text>
+ <clause id="id249FA7298A424F1B9D40B358AFC884D4"><enum>(i)</enum><text>$1,250 for each such petition filed by an employer with not more than 25 full-time equivalent employees who are employed in the United States (determined by including any affiliate or subsidiary of such employer); and</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="id8F15D366F94D4D2BA7E7A0A95AE259FF"><enum>(ii)</enum><text>$2,500 for each such petition filed by an employer with more than 25 such employees.</text>
+								</clause></subparagraph><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="idCABD13EB6BCF46B3986977DEBD88DF12"><enum>(2)</enum><text>by amending subparagraph (C) to read as follows:</text>
+						<quoted-block display-inline="no-display-inline" id="id3AB1FD6864FC40E6916FCC2CC2B695A9" style="OLC">
+ <subparagraph id="idDCCE56ACF598443A9BA5AD64CBB5FC4D" indent="up2"><enum>(C)</enum><text>Fees collected under this paragraph shall be distributed as follows:</text>
+ <clause id="id5C8A2B1BB3F14D479016A6CC117324F1"><enum>(i)</enum><text>Of the amounts collected pursuant to subparagraph (B)(i)—</text>
+ <subclause id="idC283CE3952B4454689B5130D0D426D74"><enum>(I)</enum><text>$750 shall be deposited in the Treasury in accordance with section 286(s); and</text>
+ </subclause><subclause id="id6DA87EA28017457BAEBA9430AB648E90"><enum>(II)</enum><text>$500 shall be deposited in the Treasury in accordance with section 286(w).</text>
+ </subclause></clause><clause id="id3E0C4EF31F794C1BB01F8C4F439F4C53"><enum>(ii)</enum><text>Of the amounts collected pursuant to subparagraph (B)(ii)—</text>
+ <subclause id="idB35DC924847246019BDDAABE45A02C88"><enum>(I)</enum><text>$1,500 shall be deposited in the Treasury in accordance with section 286(s); and</text>
+ </subclause><subclause id="idD36628931AD84510B98E8F380CE24E52"><enum>(II)</enum><text>$1,000 shall be deposited in the Treasury in accordance with section 286(w).</text>
+									</subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection id="id3AABB47535034EBC8D803455CE138CD2"><enum>(b)</enum><header>Conforming
+ amendment</header><text>Section 286(s)(1) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1356">8 U.S.C. 1356(s)(1)</external-xref>) is amended by striking the last sentence and inserting <quote>There shall be deposited as offsetting receipts into the account a portion of the fees collected under paragraphs (9) and (11) of section 214(c).</quote>.</text>
+				</subsection><subsection id="id54E7EF45DFCC4B2DB4E89ABD44DACA3E"><enum>(c)</enum><header>Immigrant
+ fee</header><text>Section 203(b) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1153">8 U.S.C. 1153(b)</external-xref>) is amended by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="idDC6B5335C0BC4D9C9D2AEE2723A6C20C" style="OLC">
+						<paragraph id="id53ED7F44BF714C25886C07A6026CA75A"><enum>(7)</enum><header>Funding for
+ STEM education and training</header><text>The Secretary of Homeland Security shall impose a fee of $1,000 on each I–140 immigrant visa petition filed under this subsection. Amounts collected under this paragraph shall be deposited into the Treasury in accordance with section 286(w).</text>
+						</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection></section><section id="id82D94E4F5DA447199BF9D24065E76D33"><enum>402.</enum><header>Promoting
+ American Ingenuity Account</header><text display-inline="no-display-inline">Section 286 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1356">8 U.S.C. 1356</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idCB98CA45A9A4449887F9ADC348B1FBED" style="OLC">
+					<subsection id="idFD0CFB99826A4700AACDFBFA7E54F3DD"><enum>(w)</enum><header>Promoting
+				American Ingenuity Account</header>
+						<paragraph id="idA4BB79652B444B09925C558BC1F9B0DF"><enum>(1)</enum><header>In
+ general</header><text>There is established in the general fund of the Treasury a separate account, which shall be known as the <quote>Promoting American Ingenuity Account</quote>. There shall be deposited as offsetting receipts into the account fees collected under section 203(b)(7) and a portion of the fees collected under section 214(c)(9). Amounts deposited into the account shall remain available to the Secretary of Education until expended.</text>
+ </paragraph><paragraph id="id1D62EE4209C942EABFE69F379127D710"><enum>(2)</enum><header>Purposes</header><text>The purposes of the Promoting American Ingenuity Account are to enhance the economic competitiveness of the United States by—</text>
+ <subparagraph id="id39C0BEBA14DC434EB931F61BF46D617B"><enum>(A)</enum><text>strengthening STEM education, including in computer science, at all levels;</text>
+ </subparagraph><subparagraph id="idF7235DE0A79B464D829DC1285AAE1584"><enum>(B)</enum><text>ensuring that schools have access to well-trained and effective STEM teachers;</text>
+ </subparagraph><subparagraph id="id45F0A05BB38345659FD7B423B98E10A3"><enum>(C)</enum><text>supporting efforts to strengthen the elementary and secondary curriculum, including efforts to make courses in computer science more broadly available; and</text>
+ </subparagraph><subparagraph id="id16A313C98E08490897433B3F0EEB6E53"><enum>(D)</enum><text>helping colleges and universities produce more graduates in fields needed by American employers.</text>
+							</subparagraph></paragraph><paragraph id="id91067761F0904945A9238445462E4068"><enum>(3)</enum><header>Allocation of
+				funds</header>
+							<subparagraph id="id7875224DC4F64D639644B53D50402222"><enum>(A)</enum><header>National
+ activities</header><text>The Secretary of Education may reserve up to 2 percent of the amounts deposited into the Promoting American Ingenuity Account for national research, development, demonstration, evaluation, and dissemination activities carried out directly or through grants, contracts, or cooperative agreements, including—</text>
+ <clause id="idC3FA5B4D52F54D6393DA446147B15430"><enum>(i)</enum><text>activities undertaken jointly with other Federal agencies, such as STEM mission agencies; and</text>
+ </clause><clause id="idD70E137CBD8C4014AA158F399C55E0E0"><enum>(ii)</enum><text>grants to nonprofit organizations for nationally significant activities consistent with the purposes of the <short-title>Immigration Innovation Act of 2015</short-title>.</text>
+ </clause></subparagraph><subparagraph id="id4C3680C20B094032BCE5752A4A207A6C"><enum>(B)</enum><header>American dream accounts</header><clause id="idF006E33A8961432F9C0AD3728EA35B23"><enum>(i)</enum><header>Grants authorized</header><text>The Secretary of Education shall allocate 3 percent of the amounts deposited into the Promoting American Ingenuity Account to award grants, on a competitive basis, to eligible entities to enable such entities to establish and administer American Dream Accounts.</text></clause><clause id="idC8F15651B61E4FFCA9163046F950F2CE"><enum>(ii)</enum><header>Purpose of accounts</header><text>American Dream Accounts shall be personal, online accounts for low-income students that include a college savings account, monitor progress toward higher education, and provide opportunities, including mentoring—</text><subclause id="id597A894920644C4C82D8E2FF9005F936"><enum>(I)</enum><text>to gain financial literacy skills;</text></subclause><subclause id="id5C74D61F364C43E39858084E627A5D20"><enum>(II)</enum><text>to learn about preparing for enrollment in an institution of higher education; and</text></subclause><subclause id="id5B09DC53992544D3BAD5165B9E7ADE76"><enum>(III)</enum><text>to identify career interests.</text></subclause></clause><clause id="id799C12F2844449389B54E3504F876429"><enum>(iii)</enum><header>Priority</header><text>The Secretary shall give priority to applicants that demonstrate that they intend to focus on STEM education and careers.</text></clause><clause id="id45BD1C9BF7BD47E7B2F0AFDFB5132E6C"><enum>(iv)</enum><header>Eligible entities</header><text>An eligible entity may be a partnership of 2 or more of the following entities:</text><subclause id="idD6D25DE635D34049B2F6A4AA41E49F70"><enum>(I)</enum><text>A State educational agency.</text></subclause><subclause id="id40A53CA9B1AE4C208D0BD2AF8DFDC99D"><enum>(II)</enum><text>A local educational agency.</text></subclause><subclause id="idE932A84120874C01891A7E1E47779067"><enum>(III)</enum><text>A charter management organization.</text></subclause><subclause id="id82E79D2945694179B79F04482CCED21E"><enum>(IV)</enum><text>An institution of higher education.</text></subclause><subclause id="id2E88151200D64599BFAE1D873E6467EA"><enum>(V)</enum><text>A nonprofit organization.</text></subclause><subclause id="id9B37B4585AA747BDB85BBD4B1218CC8E"><enum>(VI)</enum><text>An organization with demonstrated experience in educational savings or in preparing low-income students for higher education.</text></subclause></clause></subparagraph><subparagraph id="id709AA539576642F1931CB44705E39A7D"><enum>(C)</enum><header>Allocations to
+				states</header>
+								<clause id="id442418E5802E4A0EBE6B38900893B1FE"><enum>(i)</enum><header>In
+ general</header><text>Subject to clause (ii), the Secretary of Education shall proportionately allocate the remaining amounts deposited into the account to the States each fiscal year in an amount that bears the same relationship to the remainder as the amount the State received under subpart 2 of part A of title I of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/6331">20 U.S.C. 6331 et seq.</external-xref>) for the preceding fiscal year bears to the amount all States received under that subpart for the preceding fiscal year.</text>
+								</clause><clause id="id00CB6779C4EF4666BE3555AA5DFD33E6"><enum>(ii)</enum><header>Minimum
+ allocations</header><text>No State shall receive less than an amount equal to 0.5 percent of the total amount made available to all States from the Promoting American Ingenuity Account. If a State does not request an allocation from the Account for a fiscal year, the Secretary shall reallocate the State’s allocation to the remaining States in accordance with this section.</text>
+								</clause></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</section><section id="id2FFDF9168C1D4B2F8D8AA16DB4DC6DC2"><enum>403.</enum><header>STEM education
+			 grant application process</header>
+ <subsection id="idd3f073b892a749dda8d3b704224b8d10"><enum>(a)</enum><header>Application</header><text>Each State desiring to receive an allocation from the Promoting American Ingenuity Account established under section 286(w) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1356">8 U.S.C. 1356(w)</external-xref>) submit an application to the Secretary of Education that describes how the State plans to improve STEM education to meet the needs of employers in the State, at such time, in such form, and including such information as the Secretary may prescribe.</text>
+ </subsection><subsection id="id3A8A2BB301CA4C96AC87BF2229967738"><enum>(b)</enum><header>Approval</header><text>The Secretary of Education shall approve any application submitted under subsection (a) that meets the requirements prescribed by the Secretary if the Secretary determines, after evaluating the recommendations of peer reviewers, that the State’s plan for the use of funds would be successful in making progress toward meeting the purposes set forth in section 286(w)(2) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1356">8 U.S.C. 1356(w)(2)</external-xref>).</text>
+				</subsection></section><section id="idB75CB0B56D4648FB9CD681658CBCC9E4"><enum>404.</enum><header>Approved
+ activities</header><text display-inline="no-display-inline">A State or other entity that receives funding from the Promoting American Ingenuity Account may use such funding—</text>
+ <paragraph id="id7F817EA089634AEC8187B0A4DD4098C3"><enum>(1)</enum><text>to strengthen the State’s academic achievement standards in science, technology, engineering, and mathematics (STEM);</text>
+ </paragraph><paragraph id="idBF10DDB8B6F04B7BB5AD74CC5BF9DEE0"><enum>(2)</enum><text>to implement strategies for the recruitment, training, placement, and retention of teachers in STEM fields, including computer science;</text>
+ </paragraph><paragraph id="id83375C06201D4B009FBBB233765CEE3A"><enum>(3)</enum><text>to carry out initiatives designed to assist students in succeeding and graduating from postsecondary STEM programs;</text>
+ </paragraph><paragraph id="idB8248D0F4F76405295675A819FEC0AAB"><enum>(4)</enum><text>to improve the availability and access to STEM-related worker training programs, including community college courses and programs; and</text>
+ </paragraph><paragraph id="id5044C570263F450693571BE33543F7AB"><enum>(5)</enum><text>for other activities approved by the Secretary of Education to improve STEM education.</text>
+				</paragraph></section><section id="id62AD16E91DD140BE9853BBB540C0214D"><enum>405.</enum><header>National
+			 evaluation</header>
+				<subsection id="idDB7D6227138F48EA8FA00B22EDFE0E18"><enum>(a)</enum><header>In
+ general</header><text>Using amounts reserved under section 286(w)(3)(A) of the Immigration and Nationality Act, as added by section 402, the Secretary of Education shall conduct, directly or through a grant or contract, an annual evaluation of the implementation and impact of the activities funded by the Promoting American Ingenuity Account.</text>
+				</subsection><subsection id="id1112d17df7fd40c39cc1758c6a2ca8f7"><enum>(b)</enum><header>Annual
+ Report</header><text>The Secretary shall submit a report describing the results of each evaluation conducted under subsection (a) to—</text>
+ <paragraph id="idFD64D7133A0A4EDB9F75A08029DEC090"><enum>(1)</enum><text>the President;</text>
+ </paragraph><paragraph id="id247EB423D2FC4135842324256B6FB1F5"><enum>(2)</enum><text>the <committee-name committee-id="SSJU00">Committee on the Judiciary of the Senate</committee-name>;</text>
+ </paragraph><paragraph id="idB7F7292F87F8493BAA4BEB275A5BDE4B"><enum>(3)</enum><text>the <committee-name committee-id="">Committee on the Judiciary of the House of Representatives</committee-name>;</text>
+ </paragraph><paragraph id="id4692879C71554ACA9F9665066713C8B4"><enum>(4)</enum><text>the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions of the Senate</committee-name>; and</text>
+ </paragraph><paragraph id="id1FA91388E7B6444BB896F771ACB53E06"><enum>(5)</enum><text>the <committee-name committee-id="">Committee on Education and the Workforce of the House of Representatives</committee-name>.</text>
+ </paragraph></subsection><subsection id="id36C011C9D60446EFBBEBE0312F8A0A56"><enum>(c)</enum><header>Dissemination</header><text>The Secretary shall make the findings of the evaluation widely available to educators, the business community, and the public.</text>
+				</subsection></section><section id="id8f15bdfce2494f69b8b1c303e4e36ded"><enum>406.</enum><header>Rule of
+ construction</header><text display-inline="no-display-inline">Nothing in this title may be construed to permit the Secretary of Education or any other Federal official to approve the content or academic achievement standards of a State.</text>
+			</section></title></legis-body>
+</bill>
+
+

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2003 IS: Free Market Energy Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-08-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2003</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150805">August 6, 2015</action-date>
+			<action-desc><sponsor name-id="S363">Mr. King</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To facilitate the free market for distributed energy resources.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Free Market Energy Act</short-title></quote>.</text>
+ </section><section id="id9BDE5A30E2F04E709EB0859C81DC2866"><enum>2.</enum><header>Definition of distributed energy resource</header><text display-inline="no-display-inline">Section 3 of the Federal Power Act (<external-xref legal-doc="usc" parsable-cite="usc/16/796">16 U.S.C. 796</external-xref>) is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="idAC277777A9594418B95432A06007C6BA" style="OLC"> <paragraph id="id1e2ec7f571254bd7a8790b4e8ae2a3b7"><enum>(30)</enum><header>Distributed energy resource</header><text>The term <term>distributed energy resource</term> means a resource, technology, or service interconnected to the electricity distribution system that generates, manages, or reduces energy use.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="ide5790b87fe8448fa98b5a1b6a0dd6de0"><enum>3.</enum><header>General right to neutrality of interconnection</header><text display-inline="no-display-inline">The Public Utility Regulatory Policies Act of 1978 is amended by inserting after section 4 (<external-xref legal-doc="usc" parsable-cite="usc/16/2603">16 U.S.C. 2603</external-xref>) the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id09BBCB72CF0C40BE81CA1109B72621A6" style="OLC">
+				<section id="id6FFB4A20249D4257A3226AE554DF59E5"><enum>5.</enum><header>General right to neutrality of interconnection</header>
+ <subsection id="idB99BA9BD56E740BCAE354311B28B1791"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Distributed energy resources (as defined in section 3 of the Federal Power Act (<external-xref legal-doc="usc" parsable-cite="usc/16/796">16 U.S.C. 796</external-xref>)) shall have a general right of interconnection under this Act.</text>
+ </subsection><subsection id="ide872365d4eb646febbe140ea78f9df27"><enum>(b)</enum><header>Rates and fees</header><text>States shall ensure that electric distribution grid operators adopt standards, conditions, and requirements for rates and fees for interconnection of distributed energy resources under this Act, that—</text>
+ <paragraph id="idE205F442B7B24277BD702270C5C5523E"><enum>(1)</enum><text display-inline="yes-display-inline">are just and reasonable;</text> </paragraph><paragraph id="id977F95D621FA4A0D9EF0D8CF5EBC422F"><enum>(2)</enum><text display-inline="yes-display-inline">provide for the 2-way benefit for the distributed energy resource and the electricity grid; and</text>
+ </paragraph><paragraph id="idCA4B3BF24F5F494CABE68BD7C780AD46"><enum>(3)</enum><text>shall not be punitive.</text> </paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id5BA05468236C4F1F91E66744BC4B9C0A"><enum>(c)</enum><header>Timeframes</header> <paragraph commented="no" display-inline="no-display-inline" id="id255FFB9BF0FE46F99CAB0775D4741E5B"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Timeframes for interconnection of distributed energy resources under this Act shall be well-defined, expeditious, and not unduly protracted.</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id534781E6C8D746FBA5C7C856C7A106EC"><enum>(2)</enum><header>Delays or denial</header><text display-inline="yes-display-inline">An interconnection of distributed energy resources under this Act shall not be delayed or denied unless the electric utility demonstrates that the interconnection is unsafe or impracticable.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="id6276deee6a874cde9d54098c8b03d61f"><enum>4.</enum><header>Energy and rate treatments for distributed energy resources</header><text display-inline="no-display-inline">Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2621">16 U.S.C. 2621(d)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="ida1e043a56e1c49bf96b06a0f419c96e0" style="OLC">
+				<paragraph id="id296e9b13fc3a44e7a210f8f5a444ea6c"><enum>(20)</enum><header>Distributed energy resources</header>
+ <subparagraph id="idDE14EF4EF2D04A91A91978FB140583DF"><enum>(A)</enum><header>In general</header><text>If a State regulatory authority considers, through a rate proceeding or another mechanism (such as consideration of fixed or minimum charges), modifying the treatment of net energy metering customers, the State regulatory authority shall consider requiring that distributed energy resources (as defined in section 3 of the Federal Power Act (<external-xref legal-doc="usc" parsable-cite="usc/16/796">16 U.S.C. 796</external-xref>)) be eligible to receive just and reasonable energy and rate treatment using dynamic pricing, which may account for locational benefit, to be provided on an unbundled basis, after accounting for the 2-way valuation of dynamic rates, for services provided to or provided by the grid, including the considerations with respect to the use of dynamic pricing described in subparagraph (B).</text>
+ </subparagraph><subparagraph id="id0B5BBC5722DF4DD385BA1205D7B34BEF"><enum>(B)</enum><header>Considerations</header><text>The considerations for the use of dynamic pricing referred to in subparagraph (A) include—</text> <clause id="id37d9df587b6f4ef0a88aff284ab30eb9"><enum>(i)</enum><subclause commented="no" display-inline="yes-display-inline" id="idD1A26793CEE1405BAEF6F82086E82DF2"><enum>(I)</enum><text>pricing for energy sold to an electric utility; and</text>
+ </subclause><subclause id="id98a025ab739144e4b544a716a565fba7" indent="up1"><enum>(II)</enum><text>pricing for energy purchased from an electric utility;</text> </subclause></clause><clause id="iddfbfe4a77b2c433e9953b66ec005ae46"><enum>(ii)</enum><text>capacity;</text>
+ </clause><clause id="ide1c08f88ce624856acc23d45621fcbd1"><enum>(iii)</enum><text>the provision of ancillary services;</text> </clause><clause id="idc5ec797e3c224e938f7a5fb2c09e54b8"><enum>(iv)</enum><text>the societal value of distributed energy resources;</text>
+ </clause><clause id="id7d8efd71df2f4a848c7d7273ce5e5d3f"><enum>(v)</enum><text>transmission and distribution losses; and</text> </clause><clause id="idd6d178902e81406eb79a8ddc988ace19"><enum>(vi)</enum><text>any other benefits that the State regulatory authority considers to be appropriate.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="id78DA5A2FD93E4C33979D4CD8B764972A"><enum>5.</enum><header>Consideration of nontransmission alternatives</header><text display-inline="no-display-inline">Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2621">16 U.S.C. 2621(d)</external-xref>) (as amended by section 4) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id6B72CD3A04D4404CBAB9E7B8C65A6C8E" style="OLC">
+				<paragraph commented="no" id="id8368a16a47cd4bc193b23849c194e74d"><enum>(21)</enum><header>Nontransmission alternatives</header>
+ <subparagraph commented="no" id="idA55D9F1CB7494F6096131F23B0BC0175"><enum>(A)</enum><header>In general</header><text>Each State regulatory authority or applicable Regional Transmission Organization or Independent System Operator shall consider nontransmission alternatives in instances in which an entity proposes transmission projects seeking cost-of-service rate recovery.</text>
+ </subparagraph><subparagraph commented="no" id="id973FC79402A64636A5301294A4C8D1DD"><enum>(B)</enum><header>Cost</header><text>To reduce the cost to the ratepayer of a potential transmission upgrade, a nontransmission alternative considered under subparagraph (A), the cost of the nontransmission alternative shall be recovered from the ratebase or regional recovery mechanism in the same manner as the transmission upgrade would have been.</text>
+					</subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="idCDCEC6FBE6FC47E5A11F47F04D21A44D"><enum>6.</enum><header>Prior state actions</header>
+ <subsection id="id458be3b5e4eb40308efad179ad6d34cd"><enum>(a)</enum><header>In general</header><text>Section 112 of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2622">16 U.S.C. 2622</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id3f0da6ad318f4534b196be27f7de061d" style="OLC">
+ <subsection id="id8263055d753a4722863511bc36dd5251"><enum>(g)</enum><header>Prior state actions</header><text>Subsections (b) and (c) shall not apply to a standard established under paragraphs (20) and (21) of section 111(d) in the case of any electric utility in a State if, before the date of enactment of this subsection—</text>
+ <paragraph id="id1aad9423b8324ddcaec9b29996e0bf9c"><enum>(1)</enum><text>the State has implemented for the electric utility the standard (or a comparable standard);</text> </paragraph><paragraph id="id61505a8758b349f8bf9a1be0eee3b0fa"><enum>(2)</enum><text>the State regulatory authority for the State, or the relevant nonregulated electric utility, has conducted a proceeding to consider implementation of the standard (or a comparable standard) for the electric utility; or</text>
+ </paragraph><paragraph id="id2cc644cd39924d87a01f52784e725f40"><enum>(3)</enum><text>the State legislature has voted on the implementation of the standard (or a comparable standard) for the electric utility.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id0641e6de728645b59d4f5824987104a9"><enum>(b)</enum><header>Cross-Reference</header><text>Section 124 of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2634">16 U.S.C. 2634</external-xref>) is amended by adding at the end the following: <quote>In the case of each standard established under paragraphs (20) and (21) of section 111(d), the reference contained in this subsection to the date of enactment of this Act shall be deemed to be a reference to the date of enactment of those paragraphs.</quote>.</text>
+ </subsection></section><section commented="no" display-inline="no-display-inline" id="id26b22bdd03294b28badfdee1a14ef7d8" section-type="subsequent-section"><enum>7.</enum><header>Effect</header><text display-inline="no-display-inline">Nothing in this Act (or an amendment made by this Act) shall apply to distributed energy resource contracts in effect on the date of enactment of this Act.</text>
+		</section></legis-body>
+</bill>
+
+

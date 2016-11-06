@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HDC1041AE48894104B328541ED4C8FFB3" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1508 IH: Space Resource Exploration and Utilization Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1508</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150319">March 19, 2015</action-date>
+			<action-desc><sponsor name-id="P000599">Mr. Posey</sponsor> (for himself and <cosponsor name-id="K000381">Mr. Kilmer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HSY00">Committee on Science, Space, and Technology</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To promote the development of a United States commercial space resource exploration and utilization
+			 industry and to increase the exploration and utilization of resources in
+			 outer space.</official-title>
+	</form>
+	<legis-body id="HF78EA7F6509F42358CEAEBFDD7DCBF84" style="OLC">
+ <section id="H3C13DF37289C41998C3E02DA1C402F72" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Space Resource Exploration and Utilization Act of 2015</short-title></quote>.</text> </section><section id="HD85CCF28634042EF9762E2ADE1781233"><enum>2.</enum><header>Title 51 amendment</header> <subsection id="H78B396B035C9469FB008201A0A392514"><enum>(a)</enum><header>In general</header><text>Subtitle V of title 51, United States Code, is amended by adding at the end the following new chapter:</text>
+				<quoted-block display-inline="no-display-inline" id="H3C30E4CD300647DCA55BA3523EF88C96" style="USC">
+					<chapter id="H457CC5C17F6E49C7AB79ED02236D04E9"><enum>513</enum><header>Space resource exploration and utilization</header>
+						<toc>
+							<toc-entry level="section">Sec. </toc-entry>
+							<toc-entry level="section">51301. Definitions.</toc-entry>
+							<toc-entry level="section">51302. Commercialization of space resource exploration and utilization.</toc-entry>
+							<toc-entry level="section">51303. Legal framework.</toc-entry></toc>
+ <section id="HEFF7D9454EA3425685D0FAB190B6529B"><enum>51301.</enum><header>Definitions</header><text display-inline="no-display-inline">In this chapter:</text> <paragraph id="H6C7B5A509A894014BC8E62079D7038DB"><enum>(1)</enum><header>Space resource</header><text>The term <term>space resource</term> means a natural resource of any kind found in situ in outer space.</text>
+ </paragraph><paragraph id="H039345E0C718407597470AD9457CE3C6"><enum>(2)</enum><header>Asteroid resource</header><text>The term <term>asteroid resource</term> means a space resource found on or within an asteroid.</text> </paragraph><paragraph id="HB2A6041401B04FE1BBADAB35E07053FC"><enum>(3)</enum><header>State</header><text>The term <term>State</term> means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.</text>
+ </paragraph><paragraph id="H8357AEC35D234A7E806EDAB0CF862760"><enum>(4)</enum><header>United States commercial space resource utilization entity</header><text>The term <term>United States commercial space resource utilization entity</term> means an entity providing space resource exploration or utilization services, the control of which is held by persons other than a Federal, State, local, or foreign government, and that is—</text>
+ <subparagraph id="H5F9F12AF06214D6DA13460B05CF72A29"><enum>(A)</enum><text>duly organized under the laws of a State;</text> </subparagraph><subparagraph id="HC1FE596834BB4F9D98713D69AEC650DF"><enum>(B)</enum><text>subject to the subject matter and personal jurisdiction of the courts of the United States; or</text>
+ </subparagraph><subparagraph id="HF3D99D95C4BA472BACDBEA0E22AC5F52"><enum>(C)</enum><text>a foreign entity that has voluntarily submitted to the subject matter and personal jurisdiction of the courts of the United States.</text>
+								</subparagraph></paragraph></section><section id="H35B00F3C0A544166B6899A0D4C8A945E"><enum>51302.</enum><header>Commercialization of space resource exploration and utilization</header>
+ <subsection id="H4F77C387BF8F4B17AF6DE39F281FB815"><enum>(a)</enum><header>In general</header><text>The President, acting through appropriate Federal agencies, shall—</text> <paragraph id="H0D0ACFC8B2954C7FB8CFD2AD2C062420"><enum>(1)</enum><text>facilitate the commercial exploration and utilization of space resources to meet national needs;</text>
+ </paragraph><paragraph id="HD1F85E25EF054436A5758290AA311529"><enum>(2)</enum><text>discourage government barriers to the development of economically viable, safe, and stable industries for the exploration and utilization of space resources in manners consistent with the existing international obligations of the United States; and</text>
+ </paragraph><paragraph id="H0248C8ED28394328B2DD714B9C1333CD"><enum>(3)</enum><text>promote the right of United States commercial entities to explore outer space and utilize space resources, in accordance with the existing international obligations of the United States, free from harmful interference, and to transfer or sell such resources.</text>
+ </paragraph></subsection><subsection id="H0724B7B960CF48D291AA68839E5F7A7A"><enum>(b)</enum><header>Report required</header><text>Not later than 180 days after the date of the enactment of this section, the President shall submit to Congress a report that contains recommendations for—</text>
+ <paragraph id="H84942F6BF9974F7FA0B59763108BEE14"><enum>(1)</enum><text>the allocation of responsibilities relating to the exploration and utilization of space resources among Federal agencies; and</text>
+ </paragraph><paragraph id="H7461EFE43EA6476F8FDD3A99003AB2FE"><enum>(2)</enum><text>any authorities necessary to meet the international obligations of the United States with respect to the exploration and utilization of space resources.</text>
+								</paragraph></subsection></section><section id="H8AC7C491190545A4BCC20AEB948F174C"><enum>51303.</enum><header>Legal framework</header>
+ <subsection id="H467B8ABE0C19416CBAD42F478210BACA"><enum>(a)</enum><header>Property rights</header><text>Any asteroid resources obtained in outer space are the property of the entity that obtained such resources, which shall be entitled to all property rights thereto, consistent with applicable provisions of Federal law.</text>
+ </subsection><subsection id="H8D6D0DA9769849B5BABEEB2106257348"><enum>(b)</enum><header>Safety of operations</header><text>A United States commercial space resource utilization entity shall avoid causing harmful interference in outer space.</text>
+ </subsection><subsection id="H73B1761B8FA34240A056734DC5CDC200"><enum>(c)</enum><header>Civil action for relief from harmful interference</header><text>A United States commercial space resource utilization entity may bring a civil action for appropriate legal or equitable relief, or both, under this chapter for any action by another entity subject to United States jurisdiction causing harmful interference to its operations with respect to an asteroid resource utilization activity in outer space.</text>
+ </subsection><subsection id="HCCE8485512AB408FAE5F1C4ECE83F0BC"><enum>(d)</enum><header>Rule of decision</header><text>In a civil action brought pursuant to subsection (c) with respect to an asteroid resource utilization activity in outer space, a court shall enter judgment in favor of the plaintiff if the court finds—</text>
+ <paragraph id="HC6DF116EF6054349BA0DC33B98B274A0"><enum>(1)</enum><text>the plaintiff—</text> <subparagraph id="HD84115AE81B942CB91FB5993D94796FD"><enum>(A)</enum><text>acted in accordance with all existing international obligations of the United States; and</text>
+ </subparagraph><subparagraph id="H7F0BA3051E064798ABA35DFA9D313345"><enum>(B)</enum><text>was first in time to conduct the activity; and</text> </subparagraph></paragraph><paragraph id="H542B2C95C82840CCBD44415AFCAAF979"><enum>(2)</enum><text>the activity is reasonable for the exploration and utilization of asteroid resources.</text>
+ </paragraph></subsection><subsection id="HD8B358D1580C43E78B93C313E784EB2C"><enum>(e)</enum><header>Exclusive jurisdiction</header><text>The district courts of the United States shall have original jurisdiction over an action under this chapter without regard to the amount in controversy.</text></subsection></section></chapter><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HD5C2387C91914C7AB7C83896C2FBCEE4"><enum>(b)</enum><header>Clerical amendment</header><text>The table of chapters for title 51, United States Code, is amended by adding at the end of the items for subtitle V the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HE1CF854E975C4531B24B4234C84720A1" style="USC">
+					<toc regeneration="no-regeneration">
+						<multi-column-toc-entry bold="on" level="section"><toc-enum>513.</toc-enum><level-header bold="on" level="section"> Space resource exploration and utilization</level-header><target>51301</target></multi-column-toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

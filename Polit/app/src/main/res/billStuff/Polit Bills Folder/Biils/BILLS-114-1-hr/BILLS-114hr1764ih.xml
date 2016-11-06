@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H62ED00655C834B9286569F9512A60CFE" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1764 IH: United States Chief Technology Officer Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1764</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150414">April 14, 2015</action-date> 
+<action-desc><sponsor name-id="L000583">Mr. Loudermilk</sponsor> (for himself, <cosponsor name-id="S000583">Mr. Smith of Texas</cosponsor>, <cosponsor name-id="S000244">Mr. Sensenbrenner</cosponsor>, <cosponsor name-id="J000292">Mr. Johnson of Ohio</cosponsor>, <cosponsor name-id="B001283">Mr. Bridenstine</cosponsor>, and <cosponsor name-id="C001105">Mrs. Comstock</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name>, and in addition to the Committee on <committee-name committee-id="HSY00">Science, Space, and Technology</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To provide for the designation of the United States Chief Technology Officer.</official-title> 
+</form> 
+<legis-body id="H07E436579B0643F5B73D49CBC8BF8E91" style="OLC"> 
+<section id="HB23A41ED014F477F993446C3AC52FB89" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>United States Chief Technology Officer Act</short-title></quote>. </text></section> <section id="HF9FE7A5CFBEC42449D7F22367C2F6C87"><enum>2.</enum><header>United States Chief Technology Officer</header><text display-inline="no-display-inline">Title II of the National Science and Technology Policy, Organization, and Priorities Act of 1976 (<external-xref legal-doc="usc" parsable-cite="usc/42/6611">42 U.S.C. 6611 et seq.</external-xref>) is amended by adding at the end the following new section:</text> 
+<quoted-block style="traditional" id="H19CE08F4BF7C4FB487AF96AF1B053D80" display-inline="no-display-inline"> 
+<section id="HC8FCAD6F13754E7A9DA3A610C6B7226E"><enum>210.</enum><header>United States Chief Technology Officer</header> 
+<subsection id="HEA2424C3319544D5BC291BDB98EFBA4E" display-inline="yes-display-inline"><enum>(a)</enum><header>Appointment</header><text display-inline="yes-display-inline">The President may appoint a United States Chief Technology Officer. Not later than 1 year after the date of enactment of the <short-title>United States Chief Technology Officer Act</short-title>, such officer shall be the Associate Director for Technology and Innovation of the Office of Science and Technology Policy.</text></subsection> <subsection id="HEE2DE20B1C55420EA6A0767D36E07B67"><enum>(b)</enum><header>Duties</header><text display-inline="yes-display-inline">The duties of the United States Chief Technology Officer should include—</text> 
+<paragraph id="HE0026D0E54BB49AE87CD74524FB358E8"><enum>(1)</enum><text>advising the President and the Director of the Office of Science and Technology Policy on Federal information systems, technology, data, and innovation policies and initiatives;</text></paragraph> <paragraph id="H6BDC5761BDF4423A8C4B07C0C7CDEFA1"><enum>(2)</enum><text display-inline="yes-display-inline">promoting an improved exchange of information among the Federal Government, the public, and Congress;</text></paragraph> 
+<paragraph id="HE622514BB4AE4E95829F012FEC47E100"><enum>(3)</enum><text>promoting the use of innovative technological approaches across the Federal Government to ensure a modern information technology infrastructure;</text></paragraph> <paragraph id="H503306670DD849D9AFA1EE1A48079691"><enum>(4)</enum><text display-inline="yes-display-inline">working with the Chief Technology Officers and Chief Information Officers of all Federal agencies to ensure the use of best technologies and security practices for information systems;</text></paragraph> 
+<paragraph id="H47FCA0BC93C94C7FAB384266C170C626"><enum>(5)</enum><text display-inline="yes-display-inline">establishing a working group with such Officers to exchange best practices about information systems;</text> </paragraph> <paragraph id="H3C480AA3A7544B7CAABE483DBC4B5341"><enum>(6)</enum><text display-inline="yes-display-inline">promoting transparency and accountability across the Federal Government for all technological implementation by working with agencies to ensure that each arm of the Federal Government, including the executive branch, makes its records open and accessible;</text></paragraph> 
+<paragraph id="HA978B4E3EC044ECEAC6AD667190C66E9"><enum>(7)</enum><text display-inline="yes-display-inline">promoting security and privacy protection policies for all Federal information technology systems that are consistent with Federal law, regulations, and current best practices;</text></paragraph> <paragraph id="H2BAF7A03A85A4BEB8CB0000EDFB7AF9A"><enum>(8)</enum><text>promoting technological interoperability of key Government functions;</text></paragraph> 
+<paragraph id="H9A34C9B880594A49A195145BC47B8099"><enum>(9)</enum><text>in consultation with the Office of Management and Budget, providing an annual report to the President, the Director of the Office of Science and Technology Policy, and Congress on the current state of information systems of all Federal agencies, including—</text> <subparagraph id="HF875F87493D54629B1811F7312297F1F"><enum>(A)</enum><text display-inline="yes-display-inline">the status of information systems, including potential technology and security concerns about these information systems in all Federal agencies;</text></subparagraph> 
+<subparagraph id="HA79933DFDC924C0DB69D17A483D95F31"><enum>(B)</enum><text display-inline="yes-display-inline">a review of all Federal websites with third-party embedded tools that—</text> <clause id="HA3D77F0AE4E749629465A0E9B3A7DD67"><enum>(i)</enum><text>identifies each embedded tool, who it belongs to, and the data it collects; and</text></clause> 
+<clause id="H83066A9BB9794D24A20B817B257FD5C6"><enum>(ii)</enum><text>addresses effects on cybersecurity and consumer privacy, including whether each website provides prominent notice to consumers about the presence of the tool and whether the consumer may opt-out of the tool;</text></clause></subparagraph> <subparagraph id="H9F7A035C963D4CD8A7684BE8C8A28493"><enum>(C)</enum><text>the amount of money being spent on various technologies; and</text></subparagraph> 
+<subparagraph id="HD31B99B1609A43DCBEF005A509F6C0FB"><enum>(D)</enum><text>technology recommendations and best practices; and</text></subparagraph></paragraph> <paragraph id="HA4BEA998805C45BCA19BC388DC07B518"><enum>(10)</enum><text display-inline="yes-display-inline">such other functions and activities as the President and Director of the Office of Science and Technology Policy may assign.</text></paragraph></subsection> 
+<subsection id="HFF77EBE641F14602898B9F0E3CA489FB"><enum>(c)</enum><header>Report</header><text display-inline="yes-display-inline">In the absence of a United States Chief Technology Officer or an Associate Director for Technology and Innovation of the Office of Science and Technology Policy, the Director of the Office of Science and Technology Policy shall be responsible for providing the report required under subsection (b)(9).</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </section> </legis-body> </bill> 
+

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2303 IS: To exempt the Department of Defense and other national security agencies from sequestration. </dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-11-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2303</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151118">November 18, 2015</action-date>
+			<action-desc><sponsor name-id="S197">Mr. McCain</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSBU00">Committee on the Budget</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To exempt the Department of Defense and other national security agencies from sequestration.  </official-title>
+	</form>
+	<legis-body>
+		<section id="id2CD1057730AE415AB8061C97CB630666" section-type="section-one"><enum>1.</enum><header>Exemption of national security agencies from sequestration</header>
+ <subsection id="idD4D3C063F38C41AD99816B7E206E57A4"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 255(f) of the Balanced Budget and Emergency Deficit Control Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/2/905">2 U.S.C. 905(f)</external-xref>) is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="id13FD74D78E5A4FC98FFEDBF0A92AB620" style="OLC">
+ <subsection id="idB69A1EF888054B9BA1EB5834FA78E4AD"><enum>(f)</enum><header>Exemption of national security agencies</header><text>The programs, budget accounts, and activities of the following departments, agencies, and elements shall be exempt from reduction under any order issued under this part:</text>
+ <paragraph id="id6D03299B0FCA470E964389F143B62090"><enum>(1)</enum><text>The Department of Defense.</text> </paragraph><paragraph id="idF726B01959DD4247BAA244740ACB2AFA"><enum>(2)</enum><text>Each element of the intelligence community (as defined in section 3 of the National Security Act of 1947 (<external-xref legal-doc="usc" parsable-cite="usc/50/3003">50 U.S.C. 3003</external-xref>)).</text>
+ </paragraph><paragraph id="idA7AA0E0999064E0BA9808778ED6D1D89"><enum>(3)</enum><text>The Department of State.</text> </paragraph><paragraph id="id8FF57DFFF8B14C9BA2E3E563688472FB"><enum>(4)</enum><text>The Federal Bureau of Investigation.</text>
+ </paragraph><paragraph id="id47BF0B87E63A4CD986FDCA33A381FAB1"><enum>(5)</enum><text>The Department of Homeland Security.</text> </paragraph><paragraph id="id71C4C773FE3C473DA8F02E3F2112FEC4"><enum>(6)</enum><text>The National Nuclear Security Administration.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="idD1E6D50C4E784D48914F6510704C8CA0"><enum>(b)</enum><header>Implementation of enforcement</header><text>Section 251(a)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/2/901">2 U.S.C. 901(a)(2)</external-xref>) is amended—</text>
+ <paragraph id="idB3C3017A9CD8449FA90B1244045E20A1"><enum>(1)</enum><text>by striking <quote>Each non-exempt account</quote> and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="id4DD4A3DF46FF4A27A2BAC269EDB0A71F" style="OLC"> <subparagraph id="idF1457963DD6C43E7A65BF79DD683012D"><enum>(A)</enum><header>In general</header><text>Subject to subparagraph (B), each non-exempt account</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="idD32B26E9D39648388D7C5AE95AE9CE40"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="id3A0E9D9260C5403D8DB763E56D93B117" style="OLC"> <subparagraph id="id6B1BF83893454AA2AC46E5BE88A895B8"><enum>(B)</enum><header>Implementation with respect to national security agencies</header> <clause id="idD46D483BBD184B50A9E74885B5ADB33D"><enum>(i)</enum><header>In general</header><text>The Office of Management and Budget shall determine the uniform percentage necessary to eliminate a breach within a category without regard to section 255(f).</text>
+ </clause><clause id="id49B6120967124DCCBA976F9CDAFD221D"><enum>(ii)</enum><header>Rule of construction</header><text>Nothing in clause (i) or section 255(f) shall be construed to require the elimination of any portion of a breach that is not eliminated by operation of clause (i) and section 255(f).</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="id833A3CA7AF2E45C0A46DF1C100D2C0E5"><enum>(c)</enum><header>Technical and conforming amendments</header><text>The Balanced Budget and Emergency Deficit Control Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/2/900">2 U.S.C. 900 et seq.</external-xref>) is amended—</text> <paragraph id="id73E2C51C640743E789EC3023CA12BC3B"><enum>(1)</enum><text>in section 251 (<external-xref legal-doc="usc" parsable-cite="usc/2/901">2 U.S.C. 901</external-xref>)—</text>
+ <subparagraph id="idA9810EAE9FBB481C932B9B68C20BC97B"><enum>(A)</enum><text>in subsection (a)—</text> <clause id="idF43E0F2AED904F2090C4815F1520C66C"><enum>(i)</enum><text>by striking paragraph (3);</text>
+ </clause><clause id="idA1DD800A47114BE19880ACE522B0A2F6"><enum>(ii)</enum><text>by redesignating paragraphs (4), (5), (6), and (7) as paragraphs (3), (4), (5), and (6), respectively;</text>
+ </clause><clause id="id98BC763FC23E41B3A3B8A73DB5DFA5D2"><enum>(iii)</enum><text>in paragraph (3), as so redesignated, by striking <quote>paragraphs (2) and (3)</quote> and inserting <quote>paragraph (2)</quote>; and</text> </clause><clause id="id637A3AD898A14337815E101EE64E00E4"><enum>(iv)</enum><text>in paragraph (5), as so redesignated, by striking <quote>paragraphs (2) through (4)</quote> and inserting <quote>paragraphs (2) and (3)</quote>; and</text>
+ </clause></subparagraph><subparagraph id="id368D8FC072D6496188716C3700F11D56"><enum>(B)</enum><text>in subsection (b)(2), by striking <quote>section 254(e), (f), or (g)</quote> and inserting <quote>subsection (d), (e), or (f) of section 254</quote>;</text> </subparagraph></paragraph><paragraph id="id2386B97725084A1AB014EE144C0F632E"><enum>(2)</enum><text>in section 254 (<external-xref legal-doc="usc" parsable-cite="usc/2/904">2 U.S.C. 904(a)</external-xref>)—</text>
+ <subparagraph id="id2AFCD2A5AD59475D98BAFA991319A2D2"><enum>(A)</enum><text>in the table in subsection (a), by striking the item relating to notification regarding military personnel;</text>
+ </subparagraph><subparagraph id="id78F7A3B82AAC4C209F785D32B50BEBB5"><enum>(B)</enum><text>by striking subsection (d);</text> </subparagraph><subparagraph id="id3BA8DFDAD78943079E4D5958529A2845"><enum>(C)</enum><text>by redesignating subsections (e) through (j) as subsections (d) through (i), respectively; and</text>
+ </subparagraph><subparagraph id="id66A9E46226D74549AAB0350CEFCB0B3D"><enum>(D)</enum><text>in subsection (f), as so redesignated—</text> <clause id="idF1EA41F28BF54127A599B4F9941E22CD"><enum>(i)</enum><text>by striking <quote>paragraph (f)(2)</quote> and inserting <quote>subsection (e)(2)</quote>; and</text>
+ </clause><clause id="id7FEB01C8EB3E42AFA18F51D4E90AEAA6"><enum>(ii)</enum><text>by striking <quote>paragraphs (f)(2) and (f)(4)</quote> and inserting <quote>paragraphs (2) and (4) of subsection (e)</quote>;</text> </clause></subparagraph></paragraph><paragraph id="id86F6BAC431984569B6DEA4A7FA5E2991"><enum>(3)</enum><text>in section 256 (<external-xref legal-doc="usc" parsable-cite="usc/2/906">2 U.S.C. 906</external-xref>), by striking subsection (g) and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id3887F26FE50A4780A6684C658FCCDD34" style="OLC">
+						<subsection commented="no" display-inline="no-display-inline" id="ID5130D8BECFC7431FA9381436D85391A9"><enum>(g)</enum><header display-inline="yes-display-inline">Federal pay</header>
+ <paragraph commented="no" display-inline="no-display-inline" id="IDF432C29F70654315BD0D08684C3404F1"><enum>(1)</enum><header>In general</header><text>For purposes of any order issued under section 254, Federal pay under a statutory pay system shall be subject to reduction under an order in the same manner as other administrative expense components of the Federal budget; except that no such order may reduce or have the effect of reducing the rate of pay to which any individual is entitled under any such statutory pay system (as increased by any amount payable under section 5304 of title 5, United States Code, or section 302 of the Federal Employees Pay Comparability Act of 1990) or any increase in rates of pay which is scheduled to take effect under section 5303 of title 5, United States Code, or any other provision of law.</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID4CA723B8068B44FCBB915A8D7379A416"><enum>(2)</enum><header>Definition</header><text>For purposes of this subsection, the term <term>statutory pay system</term> shall have the meaning given that term in section 5302(1) of title 5, United States Code.</text></paragraph></subsection><after-quoted-block>; and</after-quoted-block></quoted-block> </paragraph><paragraph id="idADDCA2265C6041A1A789C4B4259C3BE0"><enum>(4)</enum><text>in section 258(a)(1)—</text>
+ <subparagraph id="idBB9DB1BF0E794223885660CB720D9DE1"><enum>(A)</enum><text>by striking <quote>section 254(i)</quote> and inserting <quote>section 254(h)</quote>; and</text> </subparagraph><subparagraph id="id4780508D1DF5465AB3613D9820CF1331"><enum>(B)</enum><text>by striking <quote>section 254(j)</quote> and inserting <quote>section 254(i)</quote>.</text>
+ </subparagraph></paragraph></subsection><subsection id="idC3061BA6477240E18979C72B74E741E3"><enum>(d)</enum><header>Applicability</header><text>The amendments made by this section shall apply with respect to any sequestration order issued under the Balanced Budget and Emergency Deficit Control Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/2/900">2 U.S.C. 900 et seq.</external-xref>) for fiscal year 2017 or any fiscal year thereafter.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

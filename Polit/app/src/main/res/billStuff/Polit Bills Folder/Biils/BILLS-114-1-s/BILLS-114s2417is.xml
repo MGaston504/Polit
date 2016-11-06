@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2417 IS: Tribal Veterans Health Care Enhancement Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-12-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2417</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151217">December 17, 2015</action-date>
+			<action-desc><sponsor name-id="S303">Mr. Thune</sponsor> (for himself and <cosponsor name-id="S381">Mr. Rounds</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SLIA00">Committee on Indian Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Indian Health Care Improvement Act to allow the Indian Health Service to cover the
+			 cost of a copayment of an Indian or Alaska Native veteran receiving
+			 medical care or services from the Department of Veterans Affairs, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body>
+ <section id="id890BFD51CD9E405AA7DF4C6216753D7D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Tribal Veterans Health Care Enhancement Act</short-title></quote>.</text> </section><section id="S1" section-type="subsequent-section"><enum>2.</enum><header>Copayments for Indian veterans receiving certain medical services</header> <subsection id="idF3D591617E6A495BA55ECF7BDFB05B68"><enum>(a)</enum><header>Liability for payment</header><text>Section 222(a) of the Indian Health Care Improvement Act (<external-xref legal-doc="usc" parsable-cite="usc/25/1621u">25 U.S.C. 1621u(a)</external-xref>) is amended—</text>
+ <paragraph id="id3A54BA1A3EA141969600D31AB179A32E"><enum>(1)</enum><text>by striking <quote>A patient who</quote> and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="idF024C50EA2DD4F8B891CF24FBD6352BE" style="OLC"> <paragraph id="id2988EF03AEE645FB93DD1304C0207B84"><enum>(1)</enum><header>In general</header><text>Subject to paragraph (2), a patient who</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="id1A1624AF55F84650BA0EB2749273FDB5"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="id313CD3933E0B4580BA37A4356365C88F" style="OLC"> <paragraph id="id74C9B5C21B424F46A91E6CDFE838712A"><enum>(2)</enum><header>Veterans Affairs copayments</header><text>The Service may pay, in accordance with section 405(d), the cost of a copayment assessed by the Department of Veterans Affairs to an eligible Indian veteran (as defined in section 405(d)(1)).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="id9B5A19D3EDD6470DAE7334AB4A369B9B"><enum>(b)</enum><header>Sharing arrangements with Federal agencies</header>
+ <text display-inline="yes-display-inline">Section 405 of the Indian Health Care Improvement Act (<external-xref legal-doc="usc" parsable-cite="usc/25/1645">25 U.S.C. 1645</external-xref>) is amended—</text> <paragraph id="id82B25568CE704368BBADE5823636A9B9"><enum>(1)</enum><text>by redesignating subsection (d) as subsection (e); and</text>
+ </paragraph><paragraph id="id530D0B72851943A89846BACBFA3D6FFE"><enum>(2)</enum><text>by inserting after subsection (c) the following:</text> <quoted-block display-inline="no-display-inline" id="id92B819020ADA4137A5A7B600FAE58C2C" style="OLC"> <subsection id="id54E20F61C80F4A3A9B99A7AE76689223"><enum>(d)</enum><header>Payments for eligible Indian veterans receiving medical services at VA facilities</header> <paragraph id="idE2646F888A8843CEAA36FA76BF10A101"><enum>(1)</enum><header>Definition of eligible Indian veteran</header><text>In this subsection, the term <term>eligible Indian veteran</term> means an Indian or Alaska Native veteran who receives any medical care or service that is—</text>
+ <subparagraph id="ID396876FA7CFC4E328DE1C0890D558EC8"><enum>(A)</enum><text>authorized on referral by the Service; and</text> </subparagraph><subparagraph id="ID50C2AA3F2B63435A9CB8E97B240EC7B3"><enum>(B)</enum><text>administered at a facility of the Department of Veterans Affairs.</text>
+ </subparagraph></paragraph><paragraph id="idEAD4F855D6734C63AB4036CCD0C11F03"><enum>(2)</enum><header>Payment by Service</header><text>Notwithstanding any other provision of law, the Service may cover the cost of any copayment assessed by the Department of Veterans Affairs to an eligible Indian veteran receiving services authorized under the Purchased/Referred Care program.</text>
+ </paragraph><paragraph id="idDA67EE5C96DE4BB3AFC9EF77202BFF61"><enum>(3)</enum><header>Authorization to accept funds</header><text>Notwithstanding section 407(c) of this Act, section 2901(b) of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/25/1623">25 U.S.C. 1623(b)</external-xref>), or any other provision of law, the Secretary of Veterans Affairs may accept a payment from the Service under paragraph (2).</text>
+							</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="idEB959154EB9843858565B792CBD3D4B1"><enum>(c)</enum><header>Memorandum of understanding; report</header>
+ <paragraph id="id6b40db8e4f684ae49b5d39f7235eac73"><enum>(1)</enum><header>Definitions</header><text>In this subsection:</text> <subparagraph id="idd0031726bd11481e9b60542886f1d18b"><enum>(A)</enum><header>Appropriate committees of Congress</header><text>The term <term>appropriate committees of Congress</term> means—</text>
+ <clause id="id6e1950f1dfcd4486b539c81760fa6c0a"><enum>(i)</enum><text>in the Senate—</text> <subclause id="idA14AA107542346E99F14ED08C712D5E7"><enum>(I)</enum><text>the Committee on Veterans’ Affairs; and</text>
+ </subclause><subclause id="id814F2A92C0214A6685FF7F5BEF269199"><enum>(II)</enum><text>the Committee on Indian Affairs; and</text> </subclause></clause><clause id="idb0d73083fc404c599640f19c39bbfb3d"><enum>(ii)</enum><text>in the House of Representatives—</text>
+ <subclause id="id62229C7B02274B5CB5A116A16DB845DF"><enum>(I)</enum><text>the Committee on Veterans’ Affairs; and</text> </subclause><subclause id="id0A7FBBF0FB934450B092D783BE497D4D"><enum>(II)</enum><text>the Committee on Natural Resources.</text>
+ </subclause></clause></subparagraph><subparagraph id="id732e1906533042a0bef6748ea2a223af"><enum>(B)</enum><header>Beneficiary of the Service</header><text>The term <term>beneficiary of the Service</term> means an individual who is eligible for assistance from the Service.</text> </subparagraph><subparagraph id="idA130CF6BE3EA4F68A200F060CE6C4C83"><enum>(C)</enum><header>Director</header><text>The term <term>Director</term> means the Director of the Service.</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id0726cb824f0d4d3cb3a8b5937f0f01e4"><enum>(D)</enum><header>Indian tribe</header><text>The term <term>Indian tribe</term> has the meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/25/450b">25 U.S.C. 450b</external-xref>).</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id82BA1C384186480486AD57D9DCE414DC"><enum>(E)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of Veterans Affairs.</text> </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id2F703F2239654B1BBE505FF0E04C97AE"><enum>(F)</enum><header>Service</header><text>The term <term>Service</term> means the Indian Health Service.</text>
+					</subparagraph></paragraph><paragraph id="id87eeffd94d1d49bfb6a07c3006b379c4"><enum>(2)</enum><header>Memorandum of understanding</header>
+ <subparagraph id="id494876D882CB4490925F96856D56CAB1"><enum>(A)</enum><header>In general</header><text>Notwithstanding any other provision of law, except as provided in subparagraph (C), the Secretary and the Director shall enter into a memorandum of understanding, in consultation with Indian tribes to be impacted by the memorandum of understanding (on a national or regional basis), that authorizes the Director to pay to the Secretary any copayments owed to the Department of Veterans Affairs by veterans who are beneficiaries of the Service for services rendered by the Department of Veterans Affairs (including any services rendered under a contract with a non-Department health care provider) to those veterans pursuant to a referral from a facility of the Service under the Purchased/Referred Care program of the Service.</text>
+ </subparagraph><subparagraph id="id6ca2aa56bc7845ac89fae1ca09f8d907"><enum>(B)</enum><header>Factors for consideration</header><text>In entering into a memorandum of understanding under subparagraph (A), the Secretary and the Director shall take into consideration any findings contained in the report under paragraph (3).</text>
+ </subparagraph><subparagraph id="id459b056ec6f34facbff7adf7926cbd1b"><enum>(C)</enum><header>Exception</header><text>The Secretary and the Director shall not be required to enter into a memorandum of understanding under subparagraph (A) if the Secretary and the Director jointly certify to the appropriate committees of Congress that such a memorandum of understanding would—</text>
+ <clause id="id9c1ef9e6796949c6bee5a43717edbdc8"><enum>(i)</enum><text>decrease the quality of health care provided to veterans who are beneficiaries of the Service;</text> </clause><clause id="id81417815F59A42EDB2AA5BBE03311BEC"><enum>(ii)</enum><text>impede the access of those veterans to health care; or</text>
+ </clause><clause id="idb3772963686b4a6397018acd85a6e171"><enum>(iii)</enum><text>substantially decrease the quality of, or access to, health care by individuals receiving health care from the Department of Veterans Affairs or beneficiaries of the Service.</text>
+ </clause></subparagraph></paragraph><paragraph id="id3bb350fe544746d6b825e2c71910c5e3"><enum>(3)</enum><header>Report</header><text>Not later than 45 days after the date of enactment of this Act, the Secretary and the Director shall submit to the appropriate committees of Congress a report that describes—</text>
+ <subparagraph id="id0de637a63c5e449290333927f4f9f9e5"><enum>(A)</enum><text>the number of veterans, disaggregated by State, who—</text> <clause id="idE636850C9308464EAEAA636FF973F6F1"><enum>(i)</enum><text>are beneficiaries of the Service; and</text>
+ </clause><clause id="id2C09876134804BE1974CE4DE25071B8E"><enum>(ii)</enum><text>have received health care at a medical facility of the Department of Veterans Affairs;</text> </clause></subparagraph><subparagraph id="id37aab5f3b1da4502ab097d552b815799"><enum>(B)</enum><text>the number of veterans, disaggregated by State and calendar year, who—</text>
+ <clause id="idD6B948DD3A4F47ECAE26DDA4A063AEA3"><enum>(i)</enum><text>are beneficiaries of the Service; and</text> </clause><clause id="id2A4331B0060645C486289CBA7121B5E2"><enum>(ii)</enum><text>were referred to a medical facility of the Department of Veterans Affairs from a facility of the Service during the period—</text>
+ <subclause id="idF0B3FEF8FEE04E3287A23841787E961C"><enum>(I)</enum><text>beginning on January 1, 2010; and</text> </subclause><subclause id="id1BC53B97EE9D4942BCFB40BE3E0575BA"><enum>(II)</enum><text>ending on December 31, 2015; and</text>
+ </subclause></clause></subparagraph><subparagraph id="idbf511d4eb42a48fb94af189add12ca86"><enum>(C)</enum><text>an update regarding efforts of the Secretary and the Director to streamline health care for veterans who are beneficiaries of the Service and have received health care at a medical facility of the Department of Veterans Affairs and at a facility of the Service, including a description of—</text>
+ <clause id="idf3cafcd61a0c4106afc87ca54d60dec7"><enum>(i)</enum><text>any changes to the provision of health care required under the Indian Health Care Improvement Act (<external-xref legal-doc="usc" parsable-cite="usc/25/1601">25 U.S.C. 1601 et seq.</external-xref>); and</text>
+ </clause><clause id="id639060af31e24415bb7ca9f00749a8e6"><enum>(ii)</enum><text>any barriers to efficiently streamline the provision of health care to veterans who are beneficiaries of the Service.</text>
+						</clause></subparagraph></paragraph></subsection></section></legis-body>
+</bill>
+
+

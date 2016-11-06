@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S872 IS: Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-03-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 872</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150326">March 26, 2015</action-date><action-desc><sponsor name-id="S288">Ms. Murkowski</sponsor> (for herself and <cosponsor name-id="S383">Mr. Sullivan</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To provide for the recognition of certain Native communities and the settlement of certain claims
+			 under the Alaska Native Claims Settlement Act, and for other purposes.</official-title></form>
+	<legis-body id="HEEBC22E8F81B4562AA7A5730455C1F7A" style="OLC">
+ <section commented="no" display-inline="no-display-inline" id="HC88EE09248464C65883E34F4236721D7" section-type="section-one"><enum>1.</enum><header display-inline="yes-display-inline">Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act</short-title></quote>.</text>
+		</section><section commented="no" display-inline="no-display-inline" id="HD930D3D9274E4F2BB0C5C8A5C48F141D" section-type="subsequent-section"><enum>2.</enum><header display-inline="yes-display-inline">Findings and purpose</header>
+ <subsection id="H40441148995A4D7DA95D196EF65EEC99"><enum>(a)</enum><header>Findings</header><text>Congress finds that—</text>
+ <paragraph id="HD6C385E6D9954CC49E8BEDBECAD7D7D8"><enum>(1)</enum><text>in 1971, Congress enacted the Alaska Native Claims Settlement Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1601">43 U.S.C. 1601 et seq.</external-xref>) to recognize and settle the aboriginal claims of Alaska Natives to the land Alaska Natives had used for traditional purposes;</text>
+ </paragraph><paragraph id="HC5ABC3BF08E14F1F9728AC5F4F2263D2"><enum>(2)</enum><text>that Act awarded approximately $1,000,000,000 and 44,000,000 acres of land to Alaska Natives and provided for the establishment of Native Corporations to receive and manage the funds and land;</text>
+ </paragraph><paragraph id="HADB778A2BD9D4B6F8C06D1FF6F9EACE0"><enum>(3)</enum><text>pursuant to that Act, Alaska Natives have been enrolled in 1 of 13 Regional Corporations;</text>
+ </paragraph><paragraph id="HA2C4DD0B10384FE6A3F1DDC8C3C995EE"><enum>(4)</enum><text>most Alaska Natives reside in communities that are eligible under that Act to form a Village or Urban Corporation within the geographical area of a Regional Corporation;</text>
+ </paragraph><paragraph id="HB029C6E71B134EAC81BBE5A6F71FA55E"><enum>(5)</enum><text>Village or Urban Corporations established under that Act received cash and surface rights to the settlement land described in paragraph (2) and the corresponding Regional Corporation received cash and land that includes the subsurface rights to the land of the Village or Urban Corporation;</text>
+ </paragraph><paragraph id="HAC97EDBADB9B441C94ED697DA8DF68C0"><enum>(6)</enum><text>the southeastern Alaska communities of Haines, Ketchikan, Petersburg, Tenakee, and Wrangell are not listed under that Act as communities eligible to form Village or Urban Corporations, even though the population of those villages comprises greater than 20 percent of the shareholders of the Regional Corporation for Southeast Alaska and display historic, cultural, and traditional qualities of Alaska Natives;</text>
+ </paragraph><paragraph id="HB75983A119CA42FB8A14B14ABF41D008"><enum>(7)</enum><text>the communities described in paragraph (6) have sought full eligibility for land and benefits under that Act for more than 3 decades;</text>
+ </paragraph><paragraph id="HEC6FF834E5174AEA81F324111C6FFBD7"><enum>(8)</enum><text>in 1993, Congress directed the Secretary of the Interior to prepare a report examining the reasons why the communities listed in paragraph (6) had been denied eligibility to form Village or Urban Corporations and receive land and benefits pursuant to that Act;</text>
+ </paragraph><paragraph id="H5532A47973724DCE8D15A99AC7751F21"><enum>(9)</enum><text>the report described in paragraph (8), published in February 1994, indicates that—</text>
+ <subparagraph id="H729EF79A28574E609CC8698D499EE623"><enum>(A)</enum><text>the communities listed in paragraph (6) do not differ significantly from the Southeast Alaska communities that were permitted to form Village or Urban Corporations under that Act;</text>
+ </subparagraph><subparagraph id="H1178387ADA014CBC90474C52EFD2EF05"><enum>(B)</enum><text>the communities are similar to other communities that are eligible to form Village or Urban Corporations under that Act and receive land and benefits under that Act—</text>
+ <clause id="HCE7257CED6D248BB91F45B979E4278DF"><enum>(i)</enum><text>in actual number and percentage of Native Alaskan population; and</text>
+ </clause><clause id="H52B4684CE69F423382F077B1B9ECF7B3"><enum>(ii)</enum><text>with respect to the historic use and occupation of land;</text>
+ </clause></subparagraph><subparagraph id="HF230A3B5D7F04D92A7EA191DA35B6CEA"><enum>(C)</enum><text>each such community was involved in advocating the settlement of the aboriginal claims of the community; and</text>
+ </subparagraph><subparagraph id="HFA24DEBCD94B4B538AADF646E78DA1DE"><enum>(D)</enum><text>some of the communities appeared on early versions of lists of Native Villages prepared before the date of the enactment of that Act, but were not included as Native Villages under that Act;</text>
+ </subparagraph></paragraph><paragraph id="HC597ED4A8A6D486CB70D71791A9DB5E4"><enum>(10)</enum><text>the omissions described in paragraph (9) are not clearly explained in any provision of that Act or the legislative history of that Act; and</text>
+ </paragraph><paragraph id="H2349F343221A43D4B95EB33DF0C30216"><enum>(11)</enum><text>on the basis of the findings described in paragraphs (1) through (10), Alaska Natives who were enrolled in the 5 unlisted communities and the heirs of the Alaska Natives have been inadvertently and wrongly denied the cultural and financial benefits of enrollment in Village or Urban Corporations established pursuant to that Act.</text>
+ </paragraph></subsection><subsection id="H8B5227DC16D74F0B945E2E261139A67F"><enum>(b)</enum><header>Purpose</header><text>The purpose of this Act is to redress the omission of the communities described in subsection (a)(6) from eligibility by authorizing the Native people enrolled in the communities—</text>
+ <paragraph id="H34B7F16C5E16435D83E6048704E51557"><enum>(1)</enum><text>to form Urban Corporations for the communities of Haines, Ketchikan, Petersburg, Tenakee, and Wrangell under the Alaska Native Claims Settlement Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1601">43 U.S.C. 1601 et seq.</external-xref>); and</text>
+ </paragraph><paragraph id="HB35CF8FD4277476590B1D1D26F3FE911"><enum>(2)</enum><text>to receive certain settlement land pursuant to that Act.</text>
+				</paragraph></subsection></section><section commented="no" display-inline="no-display-inline" id="HBDC4703525BB440AB5770759664C36BA" section-type="subsequent-section"><enum>3.</enum><header display-inline="yes-display-inline">Establishment of additional Native
+ Corporations</header><text display-inline="no-display-inline">Section 16 of the Alaska Native Claims Settlement Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1615">43 U.S.C. 1615</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H24669F6795EC49F881C90E17FE20DA69" style="OLC">
+				<subsection id="H242FB01F6FCE4BE488669DE323247792"><enum>(e)</enum><header>Native Villages
+				of Haines, Ketchikan, Petersburg, Tenakee, and Wrangell, Alaska</header>
+					<paragraph id="H2A91D785084B491ABA3876CBA13E83AD"><enum>(1)</enum><header>In
+ general</header><text>The Native residents of each of the Native Villages of Haines, Ketchikan, Petersburg, Tenakee, and Wrangell, Alaska, may organize as Urban Corporations.</text>
+					</paragraph><paragraph id="HBCAD4607DEDE4B7EBF820856641FD107"><enum>(2)</enum><header>Effect on
+ entitlement to land</header><text>Nothing in this subsection affects any entitlement to land of any Native Corporation established before the date of enactment of this subsection pursuant to this Act or any other provision of law.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section commented="no" display-inline="no-display-inline" id="H1684A464135040FDA3C1F9B555F88E16" section-type="subsequent-section"><enum>4.</enum><header display-inline="yes-display-inline">Shareholder eligibility</header><text display-inline="no-display-inline">Section 8 of the Alaska Native Claims Settlement Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1607">43 U.S.C. 1607</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HD7D9935506A946F9B236BB323ED0F880" style="OLC">
+				<subsection id="H7B526385798046CC8BD3FE2566AA6884"><enum>(d)</enum><header>Native Villages
+				of Haines, Ketchikan, Petersburg, Tenakee, and Wrangell</header>
+					<paragraph id="HEE363EDB476045E5BA7081F2FD82CFD7"><enum>(1)</enum><header>In
+ general</header><text>The Secretary shall enroll to each of the Urban Corporations for Haines, Ketchikan, Petersburg, Tenakee, or Wrangell those individual Natives who enrolled under this Act to the Native Villages of Haines, Ketchikan, Petersburg, Tenakee, or Wrangell, respectively.</text>
+					</paragraph><paragraph id="H419D11E698EB40F3976D26718A5BF769"><enum>(2)</enum><header>Number of
+ shares</header><text>Each Native who is enrolled to an Urban Corporation for Haines, Ketchikan, Petersburg, Tenakee, or Wrangell pursuant to paragraph (1) and who was enrolled as a shareholders of the Regional Corporation for Southeast Alaska on or before March 30, 1973, shall receive 100 shares of Settlement Common Stock in the respective Urban Corporation.</text>
+					</paragraph><paragraph id="H0A63AAEF228441B09AB2194668EC79CC"><enum>(3)</enum><header>Natives
+ receiving shares through inheritance</header><text>If a Native received shares of stock in the Regional Corporation for Southeast Alaska through inheritance from a decedent Native who originally enrolled to the Native Village of Haines, Ketchikan, Petersburg, Tenakee, or Wrangell and the decedent Native was not a shareholder in a Village or Urban Corporation, the Native shall receive the identical number of shares of Settlement Common Stock in the Urban Corporation for Haines, Ketchikan, Petersburg, Tenakee, or Wrangell as the number of shares inherited by that Native from the decedent Native who would have been eligible to be enrolled to the respective Urban Corporation.</text>
+					</paragraph><paragraph id="H37E6D0CF00BE42DB8F0346F1CECC5580"><enum>(4)</enum><header>Effect on
+ entitlement to land</header><text>Nothing in this subsection affects entitlement to land of any Regional Corporation pursuant to section 12(b) or 14(h)(8).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="HB4F4E6C4B8B14183B960FCAE7D1A3D96"><enum>5.</enum><header>Distribution
+ rights</header><text display-inline="no-display-inline">Section 7 of the Alaska Native Claims Settlement Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1606">43 U.S.C. 1606</external-xref>) is amended—</text>
+ <paragraph id="HBEB3A1A481CB4FACB778E26F729E4F74"><enum>(1)</enum><text>in subsection (j)—</text>
+ <subparagraph id="HE4248D59D4F647A5A2165AD22F235B84"><enum>(A)</enum><text>by striking <quote>(j) During</quote> and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H26AFE63E3A6E4B0CBBC728D18DC174D8" style="OLC">
+						<subsection id="H97EA22DA25A24480840BE3BA0DE77DC8"><enum>(j)</enum><header>Distribution of
+				corporate funds and other net income</header>
+							<paragraph id="H3BB1813273094DF1864BD15141F5E596"><enum>(1)</enum><header>In
+ general</header><text>During</text></paragraph></subsection><after-quoted-block>;</after-quoted-block></quoted-block> </subparagraph><subparagraph id="H7FE3B4339C9E412188E9B260BFE32B8E"><enum>(B)</enum><text>by striking <quote>Not less</quote> and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H197D5ABB7A59467CB2836AE3612D7796" style="OLC">
+						<paragraph id="HFEA1851EE74540A1A761D92F108B7B35"><enum>(2)</enum><header>Minimum
+ allocation</header><text>Not less</text></paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+ </subparagraph><subparagraph id="H112D7B31763C419EB1F32A171BFAD187"><enum>(C)</enum><text>by striking <quote>In the case</quote> and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="HBE08C23EE7934F5B99329C7159E3EAE0" style="OLC">
+						<paragraph id="H4921051543F840C983C18C6CA092CECE"><enum>(3)</enum><header>Thirteenth
+ Regional Corporation</header><text>In the case</text></paragraph><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+ </subparagraph><subparagraph id="H1724DED025F34005A80CAA81AB5C5AED"><enum>(D)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H674518ABEE0B4C179FD5DB9D965E5895" style="OLC">
+						<paragraph id="H05146171BACB48DA8D7EDD766D6028AB"><enum>(4)</enum><header>Native Villages
+ of Haines, Ketchikan, Petersburg, Tenakee, and Wrangell</header><text>Native members of the Native Villages of Haines, Ketchikan, Petersburg, Tenakee, and Wrangell who become shareholders in an Urban Corporation for such a Native Village shall continue to be eligible to receive distributions under this subsection as at-large shareholders of the Regional Corporation for Southeast Alaska.</text></paragraph><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="HF0537C0EA78E45C6A0F8CC05DE6F7DF9"><enum>(2)</enum><text>by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HC402995016CD4583B2EF481C09C25BA8" style="OLC">
+					<subsection id="HC178DC78F1124EF48E204BED0DE293A3"><enum>(s)</enum><header>Effect of
+ amendatory Act</header><text>The <short-title>Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act</short-title> and the amendments made by that Act shall not affect—</text>
+ <paragraph id="H111AFAA625B14E36B4306409B3927FD3"><enum>(1)</enum><text>the ratio for determination of revenue distribution among Native Corporations under this section; or</text>
+ </paragraph><paragraph id="HB35340B366FC40D9BA411C66BDA518CD"><enum>(2)</enum><text>the settlement agreement among Regional Corporation or Village Corporations or other provisions of subsection (i) or (j).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></section><section id="H1C13E2F8A90F498E8A0E99DAD099C202"><enum>6.</enum><header>Compensation</header><text display-inline="no-display-inline">The Alaska Native Claims Settlement Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1601">43 U.S.C. 1601 et seq.</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H41F0F8CF443240D0B7181E4E783459E3" style="OLC">
+				<section id="HB1636D87704B42C991A2E85655CA7937"><enum>43.</enum><header>Urban
+				Corporations for Haines, Ketchikan, Petersburg, Tenakee, and
+			 Wrangell</header>
+					<subsection id="HF8912D20ECA24AD9999244FDDB19CCA8"><enum>(a)</enum><header>Offer of
+				compensation</header>
+						<paragraph id="HAC08C59B3E4A4FE6A24FE1E2DF008F59"><enum>(1)</enum><header>In
+ general</header><text>On incorporation of the Urban Corporations for Haines, Ketchikan, Petersburg, Tenakee, and Wrangell, the Secretary, in consultation and coordination with the Secretary of Commerce, and in consultation with representatives of each such Urban Corporation and the Regional Corporation for Southeast Alaska, shall offer as compensation, pursuant to this Act, 1 township of land (23,040 acres) to each of the Urban Corporations for Haines, Ketchikan, Petersburg, Tenakee, and Wrangell, in accordance with this subsection.</text>
+						</paragraph><paragraph id="HA1A3125480E44881AA69CA6C6E768C4B"><enum>(2)</enum><header>Local areas of
+				historical, cultural, traditional, and economic importance</header>
+							<subparagraph id="H9BAC207352F94C2495D672C9A3AE1761"><enum>(A)</enum><header>In
+ general</header><text>The Secretary shall offer as compensation under this subsection local areas of historical, cultural, traditional, and economic importance to Alaska Natives from the Villages of Haines, Ketchikan, Petersburg, Tenakee, or Wrangell.</text>
+							</subparagraph><subparagraph id="HCBDDC439337245B68043004A02F4FF74"><enum>(B)</enum><header>Selection of
+ land</header><text>In selecting the land to be withdrawn and conveyed pursuant to this section, the Secretary—</text>
+ <clause id="H70E67CA17AD6457690C6747CAF2807C0"><enum>(i)</enum><text>shall give preference to land with commercial purposes; and</text>
+ </clause><clause id="H2DEC110E3B4C49EDB94B8B73BEBF6806"><enum>(ii)</enum><text>may include subsistence and cultural sites, aquaculture sites, hydroelectric sites, tideland, surplus Federal property and eco-tourism sites.</text>
+								</clause></subparagraph><subparagraph id="HDD083E4CE8D4422580525C22178827FE"><enum>(C)</enum><header>Contiguous,
+ compact sites</header><text>The land selected pursuant to this section shall be contiguous and reasonably compact tracts if practicable.</text>
+							</subparagraph><subparagraph id="HE9AFB1C4BABC40EC951E80484BCD2C44"><enum>(D)</enum><header>Valid existing
+ rights</header><text>The land selected pursuant to this section shall be subject to all valid existing rights and all other provisions of section 14(g), including any lease, contract, permit, right-of-way, or easement (including a lease issued under section 6(g) of the Act of July 7, 1958 (commonly known as the <quote>Alaska Statehood Act</quote>) (48 U.S.C. note prec. 21; <external-xref legal-doc="public-law" parsable-cite="pl/85/508">Public Law 85–508</external-xref>)).</text>
+							</subparagraph></paragraph></subsection><subsection id="HCD59407357564B688F47032F61E3300E"><enum>(b)</enum><header>Acceptance or
+				rejection of offer</header>
+						<paragraph id="H3945316C302E46D697C38E604433956E"><enum>(1)</enum><header>In
+ general</header><text>Not later than 1 year after the date of the offer of compensation from the Secretary under subsection (a), the each of the Urban Corporations for Haines, Ketchikan, Petersburg, Tenakee, and Wrangell shall accept or reject the offer.</text>
+ </paragraph><paragraph id="H354181BC14FF462EB5B5B766773893B1"><enum>(2)</enum><header>Resolution</header><text>To accept or reject the offer, each such Urban Corporation shall provide to the Secretary a properly executed and certified corporate resolution that states that the offer proposed by the Secretary was voted on, and either approved or rejected, by a majority of the shareholders of the Urban Corporation.</text>
+						</paragraph><paragraph id="HE919D1A502FB4EC8A40CD994EB1FDF60"><enum>(3)</enum><header>Rejection of
+ offer</header><text>If the offer is rejected—</text> <subparagraph id="H1CE4BC87E1EF4256A6965D629B95A143"><enum>(A)</enum><text>the Secretary, in consultation with representatives of the Urban Corporation that rejected the offer and the Regional Corporation for Southeast Alaska, shall revise the offer; and</text>
+ </subparagraph><subparagraph id="H622C5EB315BC495AB070C5F8E7B6A35E"><enum>(B)</enum><text>the Urban Corporation shall have an additional 180 days within which to accept or reject the revised offer.</text>
+							</subparagraph></paragraph></subsection><subsection id="HDBB7B739D73D4945B0705D21B5CF909B"><enum>(c)</enum><header>Withdrawal and
+ conveyance of land and title</header><text>Not later than 180 days after receipt of a corporate resolution of an Urban Corporation approving an offer of the Secretary under subsection (b)(1), the Secretary shall (as appropriate)—</text>
+ <paragraph id="H96976EB764D04928A7009166BD06D7CF"><enum>(1)</enum><text>withdraw the land;</text>
+ </paragraph><paragraph id="H2B12671E827148AEB5BF6AC3601BF2FD"><enum>(2)</enum><text>convey to the Urban Corporation title to the surface estate of the land; and</text>
+ </paragraph><paragraph id="H8095170BFD4843C49CD75A5329C1A759"><enum>(3)</enum><text>convey to the Regional Corporation for Southeast Alaska title the subsurface estate for the land.</text>
+						</paragraph></subsection><subsection id="H48780DC49274477081446EE890FBFDA8"><enum>(d)</enum><header>Conveyance of
+				roads, trails, log transfer facilities, leases, and
+ appurtenances</header><text>The Secretary shall, without consideration of compensation, convey to the Urban Corporations of Haines, Ketchikan, Petersburg, Tenakee, and Wrangell, by quitclaim deed or patent, all right, title, and interest of the United States in all roads, trails, log transfer facilities, leases, and appurtenances on or related to the land conveyed to the Corporations pursuant to subsection (c).</text>
+					</subsection><subsection id="H145C69C9766A4E0B9DD48D812F9EE457"><enum>(e)</enum><header>Settlement
+				trust</header>
+						<paragraph id="H35AA763101934915A9918E4E61D2EC30"><enum>(1)</enum><header>In
+ general</header><text>The Urban Corporations of Haines, Ketchikan, Petersburg, Tenakee, and Wrangell may establish a settlement trust in accordance with section 39 for the purposes of promoting the health, education, and welfare of the trust beneficiaries, and preserving the Native heritage and culture, of the communities of Haines, Ketchikan, Petersburg, Tenakee, and Wrangell, respectively.</text>
+						</paragraph><paragraph id="H3D212183EE9748A29E59985AD4869BAE"><enum>(2)</enum><header>Proceeds and
+ income</header><text>The proceeds and income from the principal of a trust established under paragraph (1) shall—</text>
+ <subparagraph id="HCB2564135D25420895D9E81E40C89FD3"><enum>(A)</enum><text>first be applied to the support of those enrollees, and the descendants of the enrollees, who are elders or minor children; and</text>
+ </subparagraph><subparagraph id="H5C044A93453A42FFAE12A9E21D50AA7A"><enum>(B)</enum><text>then to the support of all other enrollees.</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill>
+
+

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA9A74B75417A4A8BAC364C0E3F7DDA38" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 163 IH: Rate of Average Time Execution Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 163</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="S001183">Mr. Schweikert</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require the Board of Governors of the Federal Reserve System to collect, publish, and keep
+			 current an objective index of dollar-denominated loan interest rates of
+			 various maturities, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H1DA0B3DF52104FCFB62EA206237C9FD6" style="OLC">
+		<section id="HCD112298A5F54B0A9013BBBC8958ED79" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Rate of Average Time Execution Act of 2015</short-title></quote> or the <quote><short-title>RATE Act of 2015</short-title></quote>.</text>
+		</section><section id="H325A8C52921D48EAA761251EB9BAF471"><enum>2.</enum><header>Publication of certain loan rates</header>
+			<subsection id="HE9709686B55B46228C33F12F71FEA066"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Federal Reserve Act is amended by inserting after section 11B the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H389815AE207C4A77AA3017A53E144BA4" style="OLC">
+					<section id="HF365290161564D6495A0AB8B104D4A6F"><enum>11C.</enum><header>Publication of certain loan rates</header>
+						<subsection id="HEA6B904805B740D3975E93AF83196304"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Board of Governors of the Federal Reserve System shall collect, publish, and keep current a set
+			 of indices reporting the rate for dollar-denominated loans of various
+			 maturities.</text>
+						</subsection><subsection id="H6EA2B9DBA6EA43EA928137B1E13485E7"><enum>(b)</enum><header>Specific requirements</header><text>The indices described under subsection (a) shall—</text>
+							<paragraph id="H7068DCD6C6454516BA56E0E1E80D40BD"><enum>(1)</enum><text display-inline="yes-display-inline">be derived from a collation of objective, anonymized data collected from a variety of financial
+			 institutions for a variety of loan products, where such institutions are
+			 representative of a broad range of participants in the financial market;</text>
+							</paragraph><paragraph id="H2D48B5EC3F0E4D1686F069B771B6CF5E"><enum>(2)</enum><text>contain information representing executed transactions from a basket of credit products, determined
+			 by the Board and derived from real market data based on actual borrowing
+			 costs;</text>
+							</paragraph><paragraph id="H9C00440539364FCE84ABE96ABEEF6FEC"><enum>(3)</enum><text>list the average of loan rates with maturities of overnight, one month, three months, six months,
+			 nine months, and one year;</text>
+							</paragraph><paragraph id="HD182E3B54C4A4139966E8057AEA0AAA7"><enum>(4)</enum><text>not contain the Federal funds rate;</text>
+							</paragraph><paragraph id="H67AFC512AFDA4AD485CBD93EE09F2EB8"><enum>(5)</enum><text>be published on the Board’s website and updated weekly; and</text>
+							</paragraph><paragraph id="HBF70DFD711004977ABA9FAD4CA842808"><enum>(6)</enum><text display-inline="yes-display-inline">be clearly labeled in such a way that they cannot be misinterpreted to be rate targets set by the
+			 Federal Open Market Committee.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HD4E36F9E4F6A432DB4566534674357AB"><enum>(b)</enum><header>Rulemaking</header><text>The Board of Governors of the Federal Reserve System shall issue regulations to carry out section
+			 11C of the Federal Reserve Act, as added by subsection (a), before the end
+			 of the 90-day period beginning on the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

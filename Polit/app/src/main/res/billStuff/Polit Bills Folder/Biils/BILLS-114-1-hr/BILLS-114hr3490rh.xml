@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="HE5180CE96B274AA19422A24BB72F1B61" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3490 RH: Strengthening State and Local Cyber Crime Fighting Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IB</distribution-code>
+		<calendar display="yes">Union Calendar No. 268</calendar>
+		<congress display="yes">114th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>H. R. 3490</legis-num>
+		<associated-doc display="yes" role="report">[Report No. 114–345, Parts I and II]</associated-doc>
+		<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150911">September 11, 2015</action-date>
+			<action-desc><sponsor name-id="R000601">Mr. Ratcliffe</sponsor> (for himself, <cosponsor name-id="M001157">Mr. McCaul</cosponsor>, and <cosponsor name-id="P000609">Mr. Palmer</cosponsor>) introduced the following bill; which was referred to the <committee-name added-display-style="italic" committee-id="HJU00" deleted-display-style="strikethrough">Committee on the Judiciary</committee-name>, and in addition to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<action>
+			<action-date date="20151119">November 19, 2015</action-date>
+			<action-desc>Reported from the <committee-name added-display-style="italic" committee-id="HJU00" deleted-display-style="strikethrough">Committee on the Judiciary</committee-name> with an amendment</action-desc>
+			<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction>
+		</action>
+		<action>
+			<action-date date="20151130">November 30, 2015</action-date>
+			<action-desc>Additional sponsor: <cosponsor name-id="R000588">Mr. Richmond</cosponsor></action-desc>
+		</action>
+		<action>
+			<action-date date="20151130">November 30, 2015</action-date>
+			<action-desc>Reported from the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name> with an amendment</action-desc>
+			<action-instruction>Strike out all after the enacting clause and insert the part printed in boldface roman</action-instruction><action-instruction>For text of introduced bill, see copy of bill as introduced on September 11, 2015</action-instruction>
+		</action>
+		<action display="yes">
+			<action-desc display="yes"><pagebreak></pagebreak></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend the Homeland Security Act of 2002 to authorize the National Computer Forensics Institute,
+			 and for other purposes.<pagebreak></pagebreak></official-title>
+	</form>
+	<legis-body changed="added" committee-id="HJU00" display-enacting-clause="yes-display-enacting-clause" id="H1F595DBF35F84AE4A1A48561C2B33CF7" reported-display-style="italic" style="OLC">
+ <section id="H5FB56AAA4C724FF88EAFE3C493961B8F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Strengthening State and Local Cyber Crime Fighting Act</short-title></quote>.</text> </section><section id="HDB6C2E97211D4736800410A2925EE04E"><enum>2.</enum><header>Authorization of the National Computer Forensics Institute of the Department of Homeland Security</header> <subsection id="H2D7D3F1C038542109B22E1846A5A4BE0"><enum>(a)</enum><header>In general</header><text>Subtitle C of title VIII of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/381">6 U.S.C. 381 et seq.</external-xref>) is amended by adding at the end the following new section:</text>
+				<quoted-block changed="added" committee-id="HJU00" id="H1E0659F116654CB1A667C7AF7CC1225D" reported-display-style="italic" style="OLC">
+					<section id="H1148313F6F694AB4877E616310788CAF"><enum>822.</enum><header>National Computer Forensics Institute</header>
+ <subsection id="H50CA533C2A5C4A7A87C79490DAB958A2"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">There is established in the Department a National Computer Forensics Institute (in this section referred to as the <quote>Institute</quote>), to be operated by the United States Secret Service, for the dissemination of homeland security information related to the investigation and prevention of cyber and electronic crime and related threats to educate, train, and equip State, local, tribal, and territorial law enforcement officers, prosecutors, and judges.</text>
+ </subsection><subsection id="HE667B646539644C98B8A32F804214A2C"><enum>(b)</enum><header>Functions</header><text>The functions of the Institute shall include the following:</text> <paragraph id="HEF140CB66AE143CBA7EBCA382BDCB094"><enum>(1)</enum><text>Educating State, local, tribal, and territorial law enforcement officers, prosecutors, and judges on current—</text>
+ <subparagraph id="H54A984CFABA24533B81B685EE86135B9"><enum>(A)</enum><text>cyber and electronic crimes and related threats;</text> </subparagraph><subparagraph commented="no" id="H5261DDE3E233444581E0A4B4A317D6DD"><enum>(B)</enum><text>methods for investigating cyber and electronic crime and related threats and conducting computer and mobile device forensic examinations; and</text>
+ </subparagraph><subparagraph id="HEB9C491DC986493DB8D4898639D4F4DF"><enum>(C)</enum><text>prosecutorial and judicial challenges related to cyber and electronic crime and related threats, and computer and mobile device forensic examinations.</text>
+ </subparagraph></paragraph><paragraph id="HEDF9A5D952D04939A1140092643CA7A5"><enum>(2)</enum><text>Training State, local, tribal, and territorial law enforcement officers to—</text> <subparagraph commented="no" id="HF9F16BB3ED9D4874B05DB37F083C12B4"><enum>(A)</enum><text display-inline="yes-display-inline">conduct cyber and electronic crime and related threat investigations;</text>
+ </subparagraph><subparagraph commented="no" id="H37C69945356D474680847C4113B876F9"><enum>(B)</enum><text>conduct computer and mobile device forensic examinations; and</text> </subparagraph><subparagraph id="HCA2ED2022CD847E6BF7A5B3470DE48DF"><enum>(C)</enum><text>respond to network intrusion incidents.</text>
+ </subparagraph></paragraph><paragraph id="HE3BEADF87850473AB946232D4B5004BB"><enum>(3)</enum><text>Training State, local, tribal, and territorial law enforcement officers, prosecutors, and judges on methods to obtain, process, store, and admit digital evidence in court.</text>
+ </paragraph></subsection><subsection commented="no" id="HEC69190519F84A66B76D0A7656B56DA3"><enum>(c)</enum><header>Principles</header><text>In carrying out the functions under subsection (b), the Institute shall ensure, to the extent practicable, that timely, actionable, and relevant expertise and homeland security information related to cyber and electronic crime and related threats is shared with State, local, tribal, and territorial law enforcement officers, prosecutors, and judges.</text>
+ </subsection><subsection id="HEE19FDBB5D014615A278C2178787E0EC"><enum>(d)</enum><header>Equipment</header><text>The Institute is authorized to provide State, local, tribal, and territorial law enforcement officers, prosecutors, and judges with computer equipment, hardware, software, manuals, and tools necessary to conduct cyber and electronic crime and related threats investigations and computer and mobile device forensic examinations.</text>
+ </subsection><subsection id="H416DC71DFAAD45A28914A4DEE2291ABD"><enum>(e)</enum><header>Electronic crime task forces</header><text>The Institute shall facilitate the expansion of the Secret Service’s network of Electronic Crime Task Forces through the addition of task force officers of State, local, tribal, and territorial law enforcement officers, prosecutors, and judges educated and trained at the Institute, in addition to academia and private sector stakeholders.</text>
+ </subsection><subsection id="H50F1395C6FA14E47AF783363C689F2BF"><enum>(f)</enum><header>Coordination with Federal Law Enforcement Training Center</header><text display-inline="yes-display-inline">The Institute shall seek opportunities to coordinate with the Federal Law Enforcement Training Center within the Department to help enhance, to the extent practicable, the training provided by the Center to stakeholders, including by helping to ensure that such training reflects timely, actionable, and relevant expertise in homeland security information related to cyber and electronic crime and related threats.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H2600A5CC19D648D59A288C01623D3E8D"><enum>(b)</enum><header>No additional funding</header><text>No additional funds are authorized to be appropriated to carry out this Act and the amendment made by this Act. This Act and such amendment shall be carried out using amounts otherwise available for such purposes.</text>
+ </subsection><subsection id="HE385E871084A448187F4AFA2F004BA52"><enum>(c)</enum><header>Clerical amendment</header><text>The table of contents of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 821 the following new item:</text>
+				<quoted-block changed="added" committee-id="HJU00" display-inline="no-display-inline" id="HB06F6B4B9F0C48C0A179411159B6AD7B" reported-display-style="italic" style="OLC">
+					<toc changed="added" committee-id="HJU00" regeneration="no-regeneration" reported-display-style="italic">
+						<toc-entry level="section">Sec. 822. National Computer Forensics Institute.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+	<legis-body changed="added" committee-id="HHM00" display-enacting-clause="no-display-enacting-clause" id="H9D12B59454E342C3AC5D66A9BE8539CD" reported-display-style="boldface-roman" style="OLC">
+ <section id="H58D5C58F23414347B5F50DF45B721BE1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Strengthening State and Local Cyber Crime Fighting Act</short-title></quote>.</text> </section><section id="H311B32DD6C5E4E079028517C8B830E02"><enum>2.</enum><header>Authorization of the National Computer Forensics Institute of the Department of Homeland Security</header> <subsection id="H292DE9D1F5D745CFBEBC73ADBA6CAFEC"><enum>(a)</enum><header>In general</header><text>Subtitle C of title VIII of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/381">6 U.S.C. 381 et seq.</external-xref>) is amended by adding at the end the following new section:</text>
+				<quoted-block changed="added" committee-id="HHM00" id="H4FF965B32DE140918ED2AC21A023ED1D" reported-display-style="boldface-roman" style="OLC">
+					<section id="H32A5F45CD2144FDCADB92357C3C7C7E2"><enum>822.</enum><header>National Computer Forensics Institute</header>
+ <subsection id="H4C18BBC42C8941D7B2E4F1FFCE03D08B"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">There is established in the Department a National Computer Forensics Institute (in this section referred to as the <quote>Institute</quote>), to be operated by the United States Secret Service, for the dissemination of homeland security information related to the investigation and prevention of cyber and electronic crime and related threats to educate, train, and equip State, local, tribal, and territorial law enforcement officers, prosecutors, and judges.</text>
+ </subsection><subsection id="H634D485200824E4DB74ACE2B4EE08D5D"><enum>(b)</enum><header>Functions</header><text>The functions of the Institute shall include the following:</text> <paragraph id="HD1AB8C51F607490E84FED35ECDC3B7D0"><enum>(1)</enum><text>Educating State, local, tribal, and territorial law enforcement officers, prosecutors, and judges on current—</text>
+ <subparagraph id="H56B0BD57F7B44BBBABD91630B6915590"><enum>(A)</enum><text>cyber and electronic crimes and related threats;</text> </subparagraph><subparagraph commented="no" id="HED75C95B7A7940BBA90680CD9F77CBBA"><enum>(B)</enum><text>methods for investigating cyber and electronic crime and related threats and conducting computer and mobile device forensic examinations; and</text>
+ </subparagraph><subparagraph id="H43CB636C9C3641978316FAA0D11EA776"><enum>(C)</enum><text>prosecutorial and judicial challenges related to cyber and electronic crime and related threats, and computer and mobile device forensic examinations.</text>
+ </subparagraph></paragraph><paragraph id="HC28EE3AA6C74470EA327D3A7CBA33939"><enum>(2)</enum><text>Training State, local, tribal, and territorial law enforcement officers to—</text> <subparagraph commented="no" id="H1E9D7CB4EEBC40CD8D2F4BE0C12F6EEF"><enum>(A)</enum><text display-inline="yes-display-inline">conduct cyber and electronic crime and related threat investigations;</text>
+ </subparagraph><subparagraph commented="no" id="H16620EB1CA1440F0B7704839A9DF886A"><enum>(B)</enum><text>conduct computer and mobile device forensic examinations; and</text> </subparagraph><subparagraph id="HFC8C2DE2BC9647278B641D45A68E7257"><enum>(C)</enum><text>respond to network intrusion incidents.</text>
+ </subparagraph></paragraph><paragraph id="HFD766EE3138046A988CCFD7767E42DFA"><enum>(3)</enum><text>Training State, local, tribal, and territorial law enforcement officers, prosecutors, and judges on methods to obtain, process, store, and admit digital evidence in court.</text>
+ </paragraph></subsection><subsection commented="no" id="H0275B1E4173746CF8D1CED37FD256732"><enum>(c)</enum><header>Principles</header><text>In carrying out the functions under subsection (b), the Institute shall ensure, to the extent practicable, that timely, actionable, and relevant expertise and homeland security information related to cyber and electronic crime and related threats is shared with State, local, tribal, and territorial law enforcement officers, prosecutors, and judges.</text>
+ </subsection><subsection id="HD1A343EE15514C559819267D08413CB5"><enum>(d)</enum><header>Equipment</header><text>The Institute is authorized to provide State, local, tribal, and territorial law enforcement officers, prosecutors, and judges with computer equipment, hardware, software, manuals, and tools necessary to conduct cyber and electronic crime and related threats investigations and computer and mobile device forensic examinations.</text>
+ </subsection><subsection id="H24475D6D369549D9B51F1D6CD06324D5"><enum>(e)</enum><header>Electronic crime task forces</header><text>The Institute shall facilitate the expansion of the Secret Service’s network of Electronic Crime Task Forces through the addition of task force officers of State, local, tribal, and territorial law enforcement officers, prosecutors, and judges educated and trained at the Institute, in addition to academia and private sector stakeholders.</text>
+ </subsection><subsection id="H0439F9E487CF4D5DB9208B3EAEA1BBE5"><enum>(f)</enum><header>Coordination with Federal Law Enforcement Training Center</header><text display-inline="yes-display-inline">The Institute shall seek opportunities to coordinate with the Federal Law Enforcement Training Center within the Department to help enhance, to the extent practicable, the training provided by the Center to stakeholders, including by helping to ensure that such training reflects timely, actionable, and relevant expertise in homeland security information related to cyber and electronic crime and related threats.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H39DA018A1C224AC2A80210A8A39391AA"><enum>(b)</enum><header>No additional funding</header><text>No additional funds are authorized to be appropriated to carry out this Act and the amendment made by this Act. This Act and such amendment shall be carried out using amounts otherwise available for such purposes.</text>
+ </subsection><subsection id="H5FB6AC657D6941CEA9E21E32E5C74EF1"><enum>(c)</enum><header>Clerical amendment</header><text>The table of contents of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 821 the following new item:</text>
+				<quoted-block changed="added" committee-id="HHM00" display-inline="no-display-inline" id="H02DEAD5121CC4B87828B4832AE951F74" reported-display-style="boldface-roman" style="OLC">
+					<toc changed="added" committee-id="HHM00" regeneration="no-regeneration" reported-display-style="boldface-roman">
+						<toc-entry level="section">Sec. 822. National Computer Forensics Institute.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection></section><section id="HF8FC48C57CF8414C9C7231604768F066"><enum>3.</enum><header>Training materials</header><text display-inline="no-display-inline">Not later than six months after the date of the enactment of this Act, the Director of the United States Secret Service shall report to the appropriate congressional oversight committees on plans to incorporate best practices into training materials on chain of custody for digital evidence, including physical devices and the digital evidence that may be contained on such devices.</text>
+ </section><section id="H7016DB377F784D95B9175A4F3189BCB0"><enum>4.</enum><header>Rule of construction</header><text display-inline="no-display-inline">Nothing in this Act may be construed to abridge the rights afforded by the Fourth and Fifth Amendments to the United States Constitution.</text>
+		</section></legis-body>
+	<endorsement display="yes">
+		<action-date date="20151130">November 30, 2015</action-date>
+		<action-desc>Reported from the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name> with an amendment</action-desc></endorsement>
+</bill>
+
+

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H3D9F67595FBE40A0A6BB923B33A020CF" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 140 IH: Birthright Citizenship Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 140</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="K000362">Mr. King of Iowa</sponsor> (for himself, <cosponsor name-id="D000533">Mr. Duncan of Tennessee</cosponsor>, and <cosponsor name-id="B001274">Mr. Brooks of Alabama</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend section 301 of the Immigration and Nationality Act to clarify those classes of individuals
+			 born in the United States who are nationals and citizens of the United
+			 States at birth.</official-title>
+	</form>
+	<legis-body id="H14AEEF26EBA44CFAA118C38DF11EA66A" style="OLC">
+		<section id="H0A9888DE25AC4E058E74B8316A38B0CF" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Birthright Citizenship Act of 2015</short-title></quote>.</text>
+		</section><section id="H32F089A5FF77403FB379C2679DD9968C"><enum>2.</enum><header>Citizenship at birth for certain persons born in the United States</header>
+			<subsection id="HC1FEF2AA3CE549C9A7CCCC04DF111A68"><enum>(a)</enum><header>In general</header><text>Section 301 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1401">8 U.S.C. 1401</external-xref>) is amended—</text>
+				<paragraph id="HEEDC448FD5E94A698397BC61306BD655"><enum>(1)</enum><text>by inserting <quote><header-in-text level="subsection" style="traditional"><enum-in-header>(a) </enum-in-header>In general.—</header-in-text></quote> before <quote>The following</quote>;</text>
+				</paragraph><paragraph id="H347F569BB56B46AF9396C47BBC1B1FA2"><enum>(2)</enum><text>by redesignating subsections (a) through (h) as paragraphs (1) through (8), respectively; and</text>
+				</paragraph><paragraph id="H4759DE3D0A5F45E98C2793034FFFEC2B"><enum>(3)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="HFFA3DCDA0D984F08AD4A197A81BDFBC3" style="OLC">
+						<subsection id="H887DF02BE186499FA1112A2A87F40574"><enum>(b)</enum><header>Definition</header><text display-inline="yes-display-inline">Acknowledging the right of birthright citizenship established by section 1 of the 14th amendment to
+			 the Constitution, a person born in the United States shall be considered
+			 ‘subject to the jurisdiction’ of the United States for purposes of
+			 subsection (a)(1) if the person is born in the United States of parents,
+			 one of whom is—</text>
+							<paragraph id="H54CA0A8294C44EE08B8C3C78B42692B4"><enum>(1)</enum><text>a citizen or national of the United States;</text>
+							</paragraph><paragraph id="H59B0BD8790324329BFDDFCC1BD86717C"><enum>(2)</enum><text>an alien lawfully admitted for permanent residence in the United States whose residence is in the
+			 United States; or</text>
+							</paragraph><paragraph id="H483A7622CF6A4CAD8B120F15C7F5337D"><enum>(3)</enum><text>an alien performing active service in the armed forces (as defined in <external-xref legal-doc="usc" parsable-cite="usc/10/101">section 101</external-xref> of title 10,
+			 United States Code).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="HBC9C51B3839249BB8451352A2B13BB82"><enum>(b)</enum><header>Applicability</header><text>The amendment made by subsection (a)(3) shall not be construed to affect the citizenship or
+			 nationality status of any person born before the date of the enactment of
+			 this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

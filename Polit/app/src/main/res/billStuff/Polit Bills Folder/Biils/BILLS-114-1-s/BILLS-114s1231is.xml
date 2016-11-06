@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1231 IS: Strategic Petroleum Reserve Modernization Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1231</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150506">May 6, 2015</action-date>
+			<action-desc><sponsor name-id="S288">Ms. Murkowski</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require congressional notification for certain Strategic Petroleum Reserve operations and to
+			 determine options available for the continued operation of the Strategic
+			 Petroleum Reserve. </official-title>
+	</form>
+	<legis-body>
+ <section id="id1C752220AA3B44DBAB9EA7A2BC29D089" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Strategic Petroleum Reserve Modernization Act of 2015</short-title></quote>.</text> </section><section id="id23286ECD1BE34B1CB5EE5F44788AB152"><enum>2.</enum><header>Strategic Petroleum Reserve test drawdown and sale notification</header><text display-inline="no-display-inline">Section 161(g) of the Energy Policy and Conservation Act (<external-xref legal-doc="usc" parsable-cite="usc/42/6241">42 U.S.C. 6241(g)</external-xref>) is amended by striking paragraph (8) and inserting the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id22CC8D8C405247D794B20CFE7857D9A7" style="OLC">
+				<paragraph id="id6f5765626d654eb6a38d3f3b8889a53a"><enum>(8)</enum><header>Notice to congress</header>
+ <subparagraph id="idD7A528D1DE7F4DB2A1FFE2E561D2F2D3"><enum>(A)</enum><header>Prior notice</header><text>Not less than 30 days before the date on which a test is carried out under this subsection, the Secretary shall notify both Houses of Congress of the test.</text>
+					</subparagraph><subparagraph id="idD5491D42669E4957A9F891172D2FED12"><enum>(B)</enum><header>Detailed description</header>
+ <clause id="idC573B198C23846F2A68A83D260275E03"><enum>(i)</enum><header>In general</header><text>Not later than 180 days after the date on which a test is completed under this subsection, the Secretary shall submit to both Houses of Congress a detailed description of the test.</text>
+ </clause><clause id="id61F1077181D746C1B341E05124CDB1F6"><enum>(ii)</enum><header>Report</header><text>A detailed description submitted under clause (i) may be included as part of a report made to the President and Congress under section 165.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="idBAECC4133AF64380818C8665E696BEC5"><enum>3.</enum><header>Strategic Petroleum Reserve study</header>
+ <subsection id="id52F84E192AEA47A0BB18018BCB2D1994"><enum>(a)</enum><header>Study</header><text display-inline="yes-display-inline">As soon as practicable after the date of enactment of this Act, the Secretary of Energy (referred to in this Act as the <quote>Secretary</quote>) shall conduct a study that—</text>
+ <paragraph id="id04f9293076fa4afa8d6912ab25109daa"><enum>(1)</enum><text>evaluates the international obligations that gave rise to the establishment and maintenance of the Strategic Petroleum Reserve established under part B of title I of the Energy Policy and Conservation Act (<external-xref legal-doc="usc" parsable-cite="usc/42/6231">42 U.S.C. 6231 et seq.</external-xref>);</text>
+ </paragraph><paragraph id="iddc8bc30dab2247a7b6d23e457517e885"><enum>(2)</enum><text>analyzes changes that have occurred in energy security infrastructure since the establishment of the Strategic Petroleum Reserve, including changes in the distribution infrastructure and the integrity of the salt caverns associated with the Strategic Petroleum Reserve;</text>
+ </paragraph><paragraph id="id519f201e83a4402cb796d0b1e70fad71"><enum>(3)</enum><text>estimates the costs of completing deferred maintenance for the Strategic Petroleum Reserve;</text> </paragraph><paragraph id="ide719c466ff904037bd88613902b90118"><enum>(4)</enum><text>estimates the costs of life extension spending that is required for Strategic Petroleum Reserve infrastructure that is nearing the end of the design life of the infrastructure; and</text>
+ </paragraph><paragraph id="idEEC436FF869144FDA5E5F1E6A82DF31A"><enum>(5)</enum><text>evaluates the size of the Strategic Petroleum Reserve as of the date of the study, based on current and projected supply and demand for oil.</text>
+ </paragraph></subsection><subsection id="id32568D9AC4F74003BBDBDDC5814FBCE9"><enum>(b)</enum><header>Report</header><text>Not later than 180 days after the date of enactment of this Act, the Secretary shall submit to the appropriate committees of Congress a report that describes—</text>
+ <paragraph id="id418A44AA6ED546829F5E0901E2607F55"><enum>(1)</enum><text>the results of the study under subsection (a);</text> </paragraph><paragraph id="id44c673c67e864b2e93002e0d589aad40"><enum>(2)</enum><text>the costs associated with maintaining the Strategic Petroleum Reserve;</text>
+ </paragraph><paragraph id="id159f3c01cec4467e90741567dd2b92a0"><enum>(3)</enum><text>the costs associated with extending the operating life of the Strategic Petroleum Reserve; and</text> </paragraph><paragraph id="idA2A5F98505034ABEB59F08D97519FF16"><enum>(4)</enum><text>cost-effective options for, alternatives to, or structural modifications of the Strategic Petroleum Reserve that would adhere to, and account for, the international obligations evaluated under subsection (a)(1).</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

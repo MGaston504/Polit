@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H088F93C722814AAB9CA9EB2537CA87CB" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3021 IH: AIR Survey Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3021</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150710">July 10, 2015</action-date>
+			<action-desc><sponsor name-id="P000602">Mr. Pompeo</sponsor> (for himself, <cosponsor name-id="M001190">Mr. Mullin</cosponsor>, <cosponsor name-id="S001180">Mr. Schrader</cosponsor>, and <cosponsor name-id="M001137">Mr. Meeks</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Natural Gas Act to allow the use of aerial survey data for certain applications, and
+			 for other purposes.</official-title>
+	</form>
+	<legis-body id="H213C0D1F1A7E4DDD8DA40FA971F079E8" style="OLC">
+ <section id="HDECD14396F7441FB9CC2D116F2196982" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Aerial Infrastructure Route Survey Act of 2015</short-title></quote> or the <quote>AIR Survey Act of 2015</quote>.</text> </section><section id="HAD8E79DC7B6A45C584D35A7278568C5B"><enum>2.</enum><header>Aerial survey data allowed for certain applications</header><text display-inline="no-display-inline">Section 7 of the Natural Gas Act (<external-xref legal-doc="usc" parsable-cite="usc/15/717f">15 U.S.C. 717f</external-xref>) is amended by adding at the end the following new subsection:</text>
+			<quoted-block display-inline="no-display-inline" id="H859D61D8EEE04D5AAF24154F999E8C59" style="OLC">
+				<subsection id="HE71779557BE549DB82033509DA3F55B6"><enum>(i)</enum><header>Aerial Survey Data</header>
+ <paragraph id="H376664C057674786AA43EBB52A646F06"><enum>(1)</enum><header>Data collected by aerial survey</header><text>Data collected by aerial survey shall be accepted in lieu of, and given equal weight to, ground survey data for the purposes of—</text>
+ <subparagraph id="H2CD737B58D0447BAA9E2A81C07A17080"><enum>(A)</enum><text>completing any prefiling process established to facilitate the formal application process for obtaining a certificate of public convenience and necessity under this section; or</text>
+ </subparagraph><subparagraph id="H633E66FF5E6F4572BB92CDEB25F44973"><enum>(B)</enum><text display-inline="yes-display-inline">completing an application associated with a Federal authorization (as defined in section 15(a) with respect to an application for a certificate of public convenience and necessity under this section).</text>
+ </subparagraph></paragraph><paragraph id="H9340FF6515A345F18F280C4019E4FEA3"><enum>(2)</enum><header>Verification</header><text display-inline="yes-display-inline">An agency accepting aerial survey data pursuant to paragraph (1)(B) may require, as a condition of approval of an application associated with a Federal authorization described in such paragraph, that such aerial survey data be verified through the use of ground survey data before the construction or extension of a facility that is the subject of such application.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

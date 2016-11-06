@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8E06B7C3BAD549AA834EE9D1E02A5151" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3994 IH: Security and Privacy in Your Car Study Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 3994</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20151105">November 5, 2015</action-date> 
+<action-desc><sponsor name-id="W000795">Mr. Wilson of South Carolina</sponsor> (for himself and <cosponsor name-id="L000582">Mr. Ted Lieu of California</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To direct the Administrator of the National Highway Traffic Safety Administration to conduct a study to determine appropriate cybersecurity standards for motor vehicles, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HD90E96DFC79B4D0D9BED45E0284C4535" style="OLC"> 
+<section id="HCE87F2F5C03C41FF816724A0FCFE772C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Security and Privacy in Your Car Study Act of 2015</short-title></quote> or the <quote><short-title>SPY Car Study Act of 2015</short-title></quote>.</text></section> <section id="HB820BDF283974450990CA5707F2ACBB5"><enum>2.</enum><header>Study on cybersecurity standards for motor vehicles</header> <subsection id="HE4D37A4D4592464CA676B88B10CE2BB5"><enum>(a)</enum><header>Study required</header><text display-inline="yes-display-inline">The Administrator of the National Highway Traffic Safety Administration, in consultation with the Federal Trade Commission, the Director of the National Institute of Standards and Technology, the Secretary of Defense, the Automotive Information Sharing and Analysis Center, SAE International, manufacturers of motor vehicles, manufacturers of original motor vehicle equipment, and relevant academic institutions, shall conduct a study to determine appropriate standards for the regulation of the cybersecurity of motor vehicles manufactured or imported for sale in the United States that should be adopted by the Administration and any other appropriate Federal agencies. The study shall include an identification of—</text> 
+<paragraph id="H06DB3DDEC2A548E29423F6955884E9EF"><enum>(1)</enum><text>the isolation measures that are necessary to separate critical software systems from other software systems;</text></paragraph> <paragraph id="H9C6B4E1DE4224F4EB717F04DDAED91EE"><enum>(2)</enum><text>the measures that are necessary to detect and prevent or minimize in the software systems of motor vehicles anomalous codes associated with malicious behavior;</text></paragraph> 
+<paragraph id="HBE909BC8CD2B4053BE7F39AF72F36A98"><enum>(3)</enum><text>the techniques that are necessary to detect and prevent, discourage, or mitigate intrusions into the software systems of motor vehicles and other cybersecurity risks in motor vehicles, such as continuous penetration testing and on-demand risk assessments; and</text></paragraph> <paragraph id="HDD34D86149A841BB840521DB980A5A11"><enum>(4)</enum><text>best practices to secure driving data collected by the electronic systems of motor vehicles while such data are stored onboard the vehicle, in transit from the vehicle to another location, and in offboard storage.</text></paragraph></subsection> 
+<subsection id="HD30E17B6BEBA46E4B24900614EFBF652"><enum>(b)</enum><header>Reports to Congress</header> 
+<paragraph id="HD03799602B94416AA94002F3E1480738"><enum>(1)</enum><header>Preliminary report</header><text display-inline="yes-display-inline">Not later than 1 year after the date of the enactment of this Act, the Administrator shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the preliminary findings of the study conducted under subsection (a).</text></paragraph> <paragraph id="HEE19D5C7A297406699D74056EEAFE472"><enum>(2)</enum><header>Final report</header><text>Not later than 6 months after the submission of the report under paragraph (1), the Administrator shall submit to the committees described in such paragraph a report containing the complete findings of the study conducted under subsection (a), including recommended dates for the adoption and effectiveness of the standards determined to be appropriate in such study and recommendations for any legislation that may be necessary to authorize the adoption of such standards.</text></paragraph> 
+<paragraph id="H8183F0438513436AAD36C28C40845D06" commented="no"><enum>(3)</enum><header>Form of report</header><text display-inline="yes-display-inline">The report required by paragraph (2) shall be submitted in unclassified form but may contain a classified annex.</text> </paragraph></subsection> <subsection id="H07741D18CDFC4EFDBEA24FABB71E6F8A"><enum>(c)</enum><header>Definitions</header><text>In this section:</text> 
+<paragraph id="H4550B1A363034BEC86126DC710F72B79"><enum>(1)</enum><header>Administrator</header><text display-inline="yes-display-inline">The term <quote>Administrator</quote> means the Administrator of the National Highway Traffic Safety Administration.</text></paragraph> <paragraph id="H39D890E86DAA43BF8A94A3240A82384B"><enum>(2)</enum><header>Critical software system</header><text display-inline="yes-display-inline">The term <quote>critical software system</quote> means a software system of a motor vehicle that can affect the driver’s control of the movement of the vehicle.</text></paragraph> 
+<paragraph id="H3A85F16B75C04574A9BB82068F0FC6EF"><enum>(3)</enum><header>Driving data</header><text>The term <term>driving data</term> includes any electronic information collected about—</text> <subparagraph id="HF1AB4C1A6FDC450582A34DEC2ABE0511"><enum>(A)</enum><text>a vehicle’s status, including its location or speed; or</text></subparagraph> 
+<subparagraph id="H7409525B2AC240558D7033E7A4D0DF6F"><enum>(B)</enum><text>any owner, lessee, driver, or passenger of a vehicle.</text></subparagraph></paragraph></subsection></section> </legis-body> </bill> 
+

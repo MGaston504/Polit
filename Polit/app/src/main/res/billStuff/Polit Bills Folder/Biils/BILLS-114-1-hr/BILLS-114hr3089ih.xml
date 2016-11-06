@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HCDFBBF8234A84F78AD63FD0962CBB764" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3089 IH: Grants Oversight and New Efficiency Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3089</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150716">July 16, 2015</action-date>
+			<action-desc><sponsor name-id="W000798">Mr. Walberg</sponsor> (for himself and <cosponsor name-id="L000581">Mrs. Lawrence</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To close out expired grants, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HC2A62111C37E441697811E9BC3212C37" style="OLC">
+ <section id="HA765C6DA06A54D8887A38212E6D6882A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Grants Oversight and New Efficiency Act</short-title></quote> or the <quote><short-title>GONE Act</short-title></quote>.</text> </section><section id="H3F4411BB489C4EEC9860356F2B4CE454"><enum>2.</enum><header>Identifying and closing out expired grants</header> <subsection id="HD38E81C5DDA74717A91E676355BE9631"><enum>(a)</enum><header>Expired grant report</header> <paragraph id="H8970EAB38E3541F9922B6EA8BF306343"><enum>(1)</enum><header>In general</header><text>Not later than 180 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall instruct the head of each agency, in coordination with the Secretary, to submit to Congress and the Secretary a report, not later than December 31 of the first calendar year beginning after the date of the enactment of this Act, that—</text>
+ <subparagraph id="H315D0EE5DAC5413DB9148022E3BDD15C"><enum>(A)</enum><text>lists each covered grant held by the United States Government;</text> </subparagraph><subparagraph id="HE4FDCDA9E60F498EB202CA9344515518"><enum>(B)</enum><text>recommends which of the covered grants described in subparagraph (A) should be closed; and</text>
+ </subparagraph><subparagraph id="HC33376833156438D8485E0F1B41C9A39"><enum>(C)</enum><text>for each covered grant, explains why the covered grant has not been closed out.</text> </subparagraph></paragraph><paragraph id="H688CDABD82624F6C88FBDCA9DB4BA01D"><enum>(2)</enum><header>Use of data systems</header><text>An agency may use existing multiagency data systems in order to submit the report required under paragraph (1).</text>
+ </paragraph><paragraph id="H360EE18728284B1C8464A2525CA23A28"><enum>(3)</enum><header>Explanation of missing information</header><text>If the head of an agency is unable to submit all of the information required to be included in the report under paragraph (1), the report shall include an explanation of why the information is not available, including any shortcomings with existing grant data systems.</text>
+				</paragraph></subsection><subsection id="HE7C0F53565244164BC10DE43D07F05B3"><enum>(b)</enum><header>Notice from agencies</header>
+ <paragraph id="H9124808B7BF14D98B2859AB70348F2A2"><enum>(1)</enum><header>In general</header><text>Not later than 1 year after the date on which the head of an agency submits the report required under subsection (a), the head of the agency shall provide notice to the Secretary specifying whether the head of the agency has closed out grant awards associated with all of the covered grants.</text>
+ </paragraph><paragraph commented="no" id="H73E8E5D72DC84D8CB1FF7C09B93097EC"><enum>(2)</enum><header>Notice to Congress</header><text>Not later than 90 days after the date on which the head of an agency provides notice to the Secretary under paragraph (1), the head of the agency shall provide the same notice to Congress.</text>
+ </paragraph></subsection><subsection id="H8A267F03036B491CBFBE24A3C4DAF769"><enum>(c)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HAC688679ACD54ECB98F2347273932F41"><enum>(1)</enum><header>Agency</header><text>The term <term>agency</term> has the meaning given that term in section 551 of title 5, United States Code.</text>
+ </paragraph><paragraph id="H79CD31B5A47F48BAB18DF36DD394E3F7"><enum>(2)</enum><header>Closed out</header><text>The term <term>closed out</term> means the closeout of a grant account conducted in accordance with section 200 of title 2, Code of Federal Regulations, including section 200.343 of such title, or any successor thereto.</text>
+ </paragraph><paragraph id="H7386E67109F348B0A163D20F87297A99"><enum>(3)</enum><header>Covered grant</header><text>The term <term>covered grant</term> means a grant in a Federal agency cash payment management system held by the United States Government for which—</text>
+ <subparagraph id="H939EB1126F1744BFBA1BC24C1CE5F2B6"><enum>(A)</enum><text>the grant award period of performance, including any extensions, has been expired for not less than 2 years; and</text>
+ </subparagraph><subparagraph id="H8A77DE7F336E4C7DA7D4776E945964C5"><enum>(B)</enum><text>the grant has not been closed out in accordance with section 200.343 of title 2, Code of Federal Regulations, or any successor thereto.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="HC9BFD04184F043AF8FA7947B56855359"><enum>(4)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of Health and Human Services.</text> </paragraph></subsection></section></legis-body> </bill> 
+

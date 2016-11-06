@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4DCCA23B66094A77A414AD7E9847D0F7" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1685 IH: Fairness in Federal Disaster Declarations Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1685</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150326">March 26, 2015</action-date> 
+<action-desc><sponsor name-id="D000619">Mr. Rodney Davis of Illinois</sponsor> (for himself, <cosponsor name-id="S000364">Mr. Shimkus</cosponsor>, <cosponsor name-id="B001286">Mrs. Bustos</cosponsor>, <cosponsor name-id="B001295">Mr. Bost</cosponsor>, and <cosponsor name-id="K000378">Mr. Kinzinger of Illinois</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To require rulemaking by the Administrator of the Federal Emergency Management Agency to address considerations in evaluating the need for public and individual disaster assistance, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HDEA6E1B7AAD94AACB69DEE18C503E261" style="OLC"> 
+<section id="H0AB92C4234FF4F5FA6CA69C51A03E14B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fairness in Federal Disaster Declarations Act of 2015</short-title></quote>.</text></section> <section id="H402BCAC511984D09B1EE3DA1CAD25503"><enum>2.</enum><header>Regulatory action required</header> <subsection id="H46606E353D414860B3F770C0550B3A0D"><enum>(a)</enum><header>In general</header><text>Not later than 120 days after the date of enactment of this Act, the Administrator of the Federal Emergency Management Agency (in this Act referred to as the <term>Administrator</term> and <term>FEMA</term>, respectively) shall amend the rules of the Administrator under section 206.48 of title 44, Code of Federal Regulations, as in effect on the date of enactment of this Act, in accordance with the provisions of this Act.</text></subsection> 
+<subsection id="H2A4E1FA9BB1744529D1EF1A9EAF847E2"><enum>(b)</enum><header>New criteria required</header><text>The amended rules issued under subsection (a) shall provide for the following:</text> <paragraph id="H1DA32A6D6A2B4283A9B297035EE891E3"><enum>(1)</enum><header>Public assistance program</header><text>Such rules shall provide that, with respect to the evaluation of the need for public assistance—</text> 
+<subparagraph id="HA20B449AA4024B0FB498B1D4129FA8F0"><enum>(A)</enum><text>specific weighted valuations shall be assigned to each criterion, as follows—</text> <clause id="H859363939BD34638BA0AF48C58469041"><enum>(i)</enum><text>estimated cost of the assistance, 10 percent;</text></clause> 
+<clause id="H2F8C4511903545D09FD8461AA062C147"><enum>(ii)</enum><text>localized impacts, 40 percent;</text></clause> <clause id="H82940B316B744DD3BCB43405CF844D63"><enum>(iii)</enum><text>insurance coverage in force, 10 percent;</text></clause> 
+<clause id="H894C20C106A947ADA047518EDBE441C9"><enum>(iv)</enum><text>hazard mitigation, 10 percent;</text></clause> <clause id="H5805322815D14A9DA7DDA0973E6CC6C0"><enum>(v)</enum><text>recent multiple disasters, 10 percent;</text></clause> 
+<clause id="H39F8BD563FF347D08D79E54549BB3A9E"><enum>(vi)</enum><text>programs of other Federal assistance, 10 percent; and</text></clause> <clause id="HF157D6FD68D746B38504ED2E3C662346"><enum>(vii)</enum><text>economic circumstances described in subparagraph (B), 10 percent; and</text></clause></subparagraph> 
+<subparagraph id="HE9C9CAE5A54C431E9F66328DCFE97579"><enum>(B)</enum><text>FEMA shall consider the economic circumstances of—</text> <clause id="HF21F2FDC658F46FAB09E6F92553BF24F"><enum>(i)</enum><text>the local economy of the affected area, including factors such as the local assessable tax base and local sales tax, the median income as it compares to that of the State, and the poverty rate as it compares to that of the State; and</text></clause> 
+<clause id="H180BAB21CB4A40FEA257F16842D177C2"><enum>(ii)</enum><text>the economy of the State, including factors such as the unemployment rate of the State, as compared to the national unemployment rate.</text></clause></subparagraph></paragraph> <paragraph id="H06679033B8574F2CB52D5639B8294132"><enum>(2)</enum><header>Individual assistance program</header><text>Such rules shall provide that, with respect to the evaluation of the severity, magnitude, and impact of the disaster and the evaluation of the need for assistance to individuals—</text> 
+<subparagraph id="H7DC07F311E9F4CDC9E247CF3FDB2B5D7"><enum>(A)</enum><text>specific weighted valuations shall be assigned to each criterion, as follows—</text> <clause id="H2EEE01F436C64695A54BF06996ECF4CF"><enum>(i)</enum><text>concentration of damages, 20 percent;</text></clause> 
+<clause id="HE7B42B206C634C31887835A9073D589E"><enum>(ii)</enum><text>trauma, 20 percent;</text></clause> <clause id="HFCCBEBE5FA0C46509C7B3ADBC877674E"><enum>(iii)</enum><text>special populations, 20 percent;</text></clause> 
+<clause id="HF2638E0353A04F759DD9BE65638FDC7F"><enum>(iv)</enum><text>voluntary agency assistance, 10 percent;</text></clause> <clause id="H2E27CE3479494C24A70AD118D9D3D9F6"><enum>(v)</enum><text>insurance, 20 percent;</text></clause> 
+<clause id="H284B69356489491F88940D76E4C613A9"><enum>(vi)</enum><text>average amount of individual assistance by State, 5 percent; and</text></clause> <clause id="HB526D21030DD43EB816B2A2F01295C25"><enum>(vii)</enum><text>economic considerations described in subparagraph (B), 5 percent; and</text></clause></subparagraph> 
+<subparagraph commented="no" display-inline="no-display-inline" id="H162A6F3743194C16BE863E8E9F3870D1"><enum>(B)</enum><text>FEMA shall consider the economic circumstances of the affected area, including factors such as the local assessable tax base and local sales tax, the median income as it compares to that of the State, and the poverty rate as it compares to that of the State.</text></subparagraph></paragraph></subsection> <subsection id="H7FFB0E49F71640B6B201F18C4A96CC51"><enum>(c)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amended rules issued under subsection (a) shall apply to any disaster for which a Governor requested a major disaster declaration under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5121">42 U.S.C. 5121 et seq.</external-xref>) and was denied on or after January 1, 2012.</text></subsection></section> 
+</legis-body> 
+</bill> 
+

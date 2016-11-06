@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H80319EDBE15F4B1E98E3956AC7C1192F" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 166 IH: Ninth Circuit Court of Appeals Judgeship and Reorganization Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 166</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="S001148">Mr. Simpson</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 28, United States Code, to provide for the appointment of additional Federal circuit
+			 judges, to divide the Ninth Judicial Circuit of the United States into two
+			 judicial circuits, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H8F9BB07ADEDA436883682FAEE4B02648" style="OLC">
+		<section display-inline="no-display-inline" id="HC3D0E07DB5F64F98AD813752515F223C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ninth Circuit Court of Appeals Judgeship and Reorganization Act of 2015</short-title></quote>.</text>
+		</section><section id="HE2BB67507F8D4B2DB18737E370BA76AA"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act—</text>
+			<paragraph id="H568E429588BD49B18B84D9CB7297CD98"><enum>(1)</enum><text>the term <term>former ninth circuit</term> means the ninth judicial circuit of the United States as in existence on the day before the
+			 effective date of this Act;</text>
+			</paragraph><paragraph id="H748ACFAE2E844D9FBBB9248AA911E3AD"><enum>(2)</enum><text>the term <term>new ninth circuit</term> means the ninth judicial circuit of the United States established by the amendment made by section
+			 3(2)(A); and</text>
+			</paragraph><paragraph id="H75252D7C2CEE4C89AE1481553D9DE8CE"><enum>(3)</enum><text>the term <term>twelfth circuit</term> means the twelfth judicial circuit of the United States established by the amendment made by
+			 section 3(2)(B).</text>
+			</paragraph></section><section id="H832BCEF904924E30B4F01CA77E79514E"><enum>3.</enum><header>Number and composition of circuits</header><text display-inline="no-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/28/41">Section 41</external-xref> of title 28, United States Code, is amended—</text>
+			<paragraph id="H9A9983F21E1247418D5339F4A53FDDEE"><enum>(1)</enum><text>in the matter preceding the table, by striking <quote>thirteen</quote> and inserting <quote>fourteen</quote>; and</text>
+			</paragraph><paragraph id="HF6F5496E970541AB83AF0300FB0581BF"><enum>(2)</enum><text>in the table—</text>
+				<subparagraph id="H26B6F836714B48D39E6AEA294EF39C93"><enum>(A)</enum><text>by striking the item relating to the ninth circuit and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H9ADD564202EA4F378A430938ABDFDB46" style="OLC">
+						<table align-to-level="section" blank-lines-before="1" frame="none" line-rules="no-gen" rule-weights="0.0.0.4.0.0" subformat="S6211" table-type="2-General">
+							<tgroup cols="2" fnote-size="0" grid-typeface="1.1" thead-tbody-ldg-size="10.10.10" ttitle-size="0"><colspec align="left" coldef="txt" colname="col1" colsep="1" colwidth="78" min-data-value="50"></colspec><colspec align="left" coldef="txt-no-ldr" colname="col2" colsep="1" colwidth="78" min-data-value="50"></colspec>
+								<tbody>
+									<row><entry align="left" colname="col1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">Ninth</entry><entry align="left" colname="col2" leader-modify="clr-ldr" rowsep="0">California, Guam, Hawaii, Northern Mariana Islands.</entry></row></tbody></tgroup></table><after-quoted-block>;</after-quoted-block></quoted-block><continuation-text continuation-text-level="subparagraph">and</continuation-text></subparagraph><subparagraph id="HBBA4255FBD1844459B7FBDE441E27D35"><enum>(B)</enum><text>by inserting after the item relating to the eleventh circuit the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H44B759D247EA40EC989E72969D042A5B" style="OLC">
+						<table align-to-level="section" blank-lines-before="1" frame="none" line-rules="no-gen" rule-weights="0.0.0.4.0.0" subformat="S6211" table-type="2-General">
+							<tgroup cols="2" fnote-size="0" grid-typeface="1.1" thead-tbody-ldg-size="10.10.10" ttitle-size="0"><colspec align="left" coldef="txt" colname="col1" colsep="1" colwidth="78" min-data-value="50"></colspec><colspec align="left" coldef="txt-no-ldr" colname="col2" colsep="1" colwidth="78" min-data-value="50"></colspec>
+								<tbody>
+									<row><entry align="left" colname="col1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">Twelfth</entry><entry align="left" colname="col2" leader-modify="clr-ldr" rowsep="0">Alaska, Arizona, Idaho, Montana, Nevada, Oregon, Washington.</entry></row></tbody></tgroup></table><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subparagraph></paragraph></section><section id="H008C6B7920C4417A809D08F2D5030D74"><enum>4.</enum><header>Judgeships</header>
+			<subsection id="HD5E364F49D4749FB9B277B844B303872"><enum>(a)</enum><header>New judgeships</header>
+				<paragraph id="H3B03AC0B7E12498282D81A4B895D751C"><enum>(1)</enum><header>For former Ninth Circuit</header><text>The President shall appoint, by and with the advice and consent of the Senate, 2 additional circuit
+			 judges for the former ninth circuit. The official duty station of a judge
+			 appointed under this paragraph shall be in Arizona, California, or Nevada.</text>
+				</paragraph><paragraph id="HEDEC0A487B8849D7BBE6A364E430B3A1"><enum>(2)</enum><header>For new Ninth Circuit</header><text>The President shall appoint, by and with the advice and consent of the Senate, 3 circuit judges for
+			 the new ninth circuit. The judges authorized by this paragraph shall not
+			 be appointed before January 21, 2016.</text>
+				</paragraph></subsection><subsection id="H85D7E24670F74632A0BA99E580D99345"><enum>(b)</enum><header>Temporary judgeships</header>
+				<paragraph id="HA170C80BEBF54A8EA5461588EE3BBEA8"><enum>(1)</enum><header>Appointment of judges</header><text>The President shall appoint, by and with the advice and consent of the Senate, 2 additional circuit
+			 judges for the former ninth circuit. The official duty station of a judge
+			 appointed under this paragraph shall be in Arizona, California, or Nevada.</text>
+				</paragraph><paragraph id="H09D1BE25B8734221BF7A0A21106B26D3"><enum>(2)</enum><header>Effect of vacancies</header><text>The first 2 vacancies occurring on the new ninth circuit 10 years or more after judges are first
+			 confirmed to fill both temporary circuit judgeships created by this
+			 subsection shall not be filled.</text>
+				</paragraph></subsection><subsection id="H3743FE77082A4C96ACEE5D7F1E845D2D"><enum>(c)</enum><header>Effective date</header><text>This section shall take effect on the date of the enactment of this Act.</text>
+			</subsection></section><section id="HE42852B2F61A4E0CA105182873FDB0CD"><enum>5.</enum><header>Number of circuit judges</header><text display-inline="no-display-inline">The table contained in <external-xref legal-doc="usc" parsable-cite="usc/28/44">section 44(a)</external-xref> of title 28, United States Code, is amended—</text>
+			<paragraph id="HFE62C69A18E9481DA31F61E14297491B"><enum>(1)</enum><text>by striking the item relating to the ninth circuit and inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HF360D34DF334464D8665144434A7B087" style="OLC">
+					<table align-to-level="section" blank-lines-before="1" frame="none" line-rules="no-gen" rule-weights="0.0.0.4.0.0" subformat="S6211" table-type="2-General">
+						<tgroup cols="2" fnote-size="0" grid-typeface="1.1" thead-tbody-ldg-size="10.10.10" ttitle-size="0"><colspec align="left" coldef="txt" colname="col1" colsep="1" colwidth="78" min-data-value="50"></colspec><colspec align="left" coldef="txt-no-ldr" colname="col2" colsep="1" colwidth="78" min-data-value="50"></colspec>
+							<tbody>
+								<row><entry align="left" colname="col1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">Ninth</entry><entry align="left" colname="col2" leader-modify="clr-ldr" rowsep="0">25</entry></row></tbody></tgroup></table><after-quoted-block>;</after-quoted-block></quoted-block><continuation-text continuation-text-level="paragraph">and</continuation-text></paragraph><paragraph id="HC12D490A91C34409B7BFA6C4E590A8CE"><enum>(2)</enum><text>by inserting after the item relating to the eleventh circuit the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HC5B3DC8494A8488CA09060C26EF1B8A2" style="OLC">
+					<table align-to-level="section" blank-lines-before="1" frame="none" line-rules="no-gen" rule-weights="0.0.0.4.0.0" subformat="S6211" table-type="2-General">
+						<tgroup cols="2" fnote-size="0" grid-typeface="1.1" thead-tbody-ldg-size="10.10.10" ttitle-size="0"><colspec align="left" coldef="txt" colname="col1" colsep="1" colwidth="78" min-data-value="50"></colspec><colspec align="left" coldef="txt-no-ldr" colname="col2" colsep="1" colwidth="78" min-data-value="50"></colspec>
+							<tbody>
+								<row><entry align="left" colname="col1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">Twelfth</entry><entry align="left" colname="col2" leader-modify="clr-ldr" rowsep="0">9</entry></row></tbody></tgroup></table><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="HEAF2A3E212124779A9B2DA08B4C5C07A"><enum>6.</enum><header>Places of circuit court</header><text display-inline="no-display-inline">The table contained in <external-xref legal-doc="usc" parsable-cite="usc/28/48">section 48(a)</external-xref> of title 28, United States Code, is amended—</text>
+			<paragraph id="H4B73C2E099884E618F37BC30D789A3A5"><enum>(1)</enum><text>by striking the item relating to the ninth circuit and inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HAA8AB05BFB9144CD8FD7BAD77CAB46EE" style="OLC">
+					<table align-to-level="section" blank-lines-before="1" frame="none" line-rules="no-gen" rule-weights="0.0.0.4.0.0" subformat="S6211" table-type="2-General">
+						<tgroup cols="2" fnote-size="0" grid-typeface="1.1" thead-tbody-ldg-size="10.10.10" ttitle-size="0"><colspec align="left" coldef="txt" colname="col1" colsep="1" colwidth="78" min-data-value="50"></colspec><colspec align="left" coldef="txt-no-ldr" colname="col2" colsep="1" colwidth="78" min-data-value="50"></colspec>
+							<tbody>
+								<row><entry align="left" colname="col1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">Ninth</entry><entry align="left" colname="col2" leader-modify="clr-ldr" rowsep="0">Honolulu, San Francisco, Pasadena.</entry></row></tbody></tgroup></table><after-quoted-block>;</after-quoted-block></quoted-block><continuation-text continuation-text-level="paragraph">and</continuation-text></paragraph><paragraph id="H362D0E95C0C146DBBC878811DB847D65"><enum>(2)</enum><text>by inserting after the item relating to the eleventh circuit the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H25CC8C3028594B77AD1F884B1D5E4836" style="OLC">
+					<table align-to-level="section" blank-lines-before="1" frame="none" line-rules="no-gen" rule-weights="0.0.0.4.0.0" subformat="S6211" table-type="2-General">
+						<tgroup cols="2" fnote-size="0" grid-typeface="1.1" thead-tbody-ldg-size="10.10.10" ttitle-size="0"><colspec align="left" coldef="txt" colname="col1" colsep="1" colwidth="78" min-data-value="50"></colspec><colspec align="left" coldef="txt-no-ldr" colname="col2" colsep="1" colwidth="78" min-data-value="50"></colspec>
+							<tbody>
+								<row><entry align="left" colname="col1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">Twelfth</entry><entry align="left" colname="col2" leader-modify="clr-ldr" rowsep="0">Phoenix, Seattle.</entry></row></tbody></tgroup></table><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="H9A8409D18B3A457C9AB26D7E451886E1"><enum>7.</enum><header>Assignment of circuit judges</header>
+			<subsection id="HBF8FD0653ED5449289F4A8A122227E56"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Except as provided in subsection (b), each circuit judge of the former ninth circuit who is in
+			 regular active service and whose official duty station on the day before
+			 the effective date of this Act—</text>
+				<paragraph id="H4C6AD31F5B244BF1AD879C19CEACC238"><enum>(1)</enum><text>is in California, Guam, Hawaii, or the Northern Mariana Islands shall be a circuit judge of the new
+			 ninth circuit as of such effective date; and</text>
+				</paragraph><paragraph id="HA263D6F4852C4EAB98D6A0B98323EF64"><enum>(2)</enum><text>is in Alaska, Arizona, Idaho, Montana, Nevada, Oregon, or Washington shall be a circuit judge of
+			 the twelfth circuit as of such effective date.</text>
+				</paragraph></subsection><subsection id="H80090D6204074C50A8AC1F2D9FFC463E"><enum>(b)</enum><header>Special rule To ensure statutory distribution of judges</header><text display-inline="yes-display-inline">If the assignment of judges under subsection (a) would result in a number of judges in either the
+			 new ninth circuit or the twelfth circuit that exceeds the number provided
+			 for that circuit in the table contained in <external-xref legal-doc="usc" parsable-cite="usc/28/44">section 44(a)</external-xref> of title 28,
+			 United States Code, as amended by section 5 of this Act, then a number of
+			 judges accounting for such excess who are the least senior in commission
+			 shall be assigned to the other circuit.</text>
+			</subsection></section><section id="HDC9B3B4BB20A4613B969B6369791DE46"><enum>8.</enum><header>Election of assignment by senior judges</header><text display-inline="no-display-inline">Each judge who is a senior circuit judge of the former ninth circuit on the day before the
+			 effective date of this Act may elect to be assigned to the new ninth
+			 circuit or to the twelfth circuit as of such effective date, and shall
+			 notify the Director of the Administrative Office of the United States
+			 Courts of such election.</text>
+		</section><section id="H827EBAF5DDF048ACBFD33F21E96BDD2A"><enum>9.</enum><header>Seniority of judges</header><text display-inline="no-display-inline">The seniority of each judge—</text>
+			<paragraph id="H2B8F929FF4404B24B76EDABC837C38DD"><enum>(1)</enum><text>who is assigned under section 7, or</text>
+			</paragraph><paragraph id="HC6CF2A62C4B14EE295B37F5F70AB0FAF"><enum>(2)</enum><text>who elects to be assigned under section 8,</text></paragraph><continuation-text continuation-text-level="section">shall run from the date of commission of such judge as a judge of the former ninth circuit.</continuation-text></section><section id="H532FBED927984107B15B1A8438A5974A"><enum>10.</enum><header>Application to cases</header><text display-inline="no-display-inline">The following apply to any case in which, on the day before the effective date of this Act, an
+			 appeal or other proceeding has been filed with the former ninth circuit:</text>
+			<paragraph id="H8B141CB8B57842F9A2C9EEFFD3159909"><enum>(1)</enum><text>If the matter has been submitted for decision, further proceedings with respect to the matter shall
+			 be had in the same manner and with the same effect as if this Act had not
+			 been enacted.</text>
+			</paragraph><paragraph id="H614C2DA43AD54E179F9CC856A879BEF6"><enum>(2)</enum><text>If the matter has not been submitted for decision, the appeal or proceeding, together with the
+			 original papers, printed records, and record entries duly certified,
+			 shall, by appropriate orders, be transferred to the court to which the
+			 matter would have been submitted had this Act been in full force and
+			 effect at the time such appeal was taken or other proceeding commenced,
+			 and further proceedings with respect to the case shall be had in the same
+			 manner and with the same effect as if the appeal or other proceeding had
+			 been filed in such court.</text>
+			</paragraph><paragraph id="H797CF958AF4D452AAC0E347AB33B1038"><enum>(3)</enum><text>A petition for rehearing or a petition for rehearing en banc in a matter decided before the
+			 effective date of this Act, or submitted before the effective date of this
+			 Act and decided on or after such effective date as provided in paragraph
+			 (1), shall be treated in the same manner and with the same effect as
+			 though this Act had not been enacted. If a petition for rehearing en banc
+			 is granted, the matter shall be reheard by a court comprised as though
+			 this Act had not been enacted.</text>
+			</paragraph></section><section id="HDD21C0F975A642A6AC9ABF21E5846C91"><enum>11.</enum><header>Temporary assignment of circuit judges between circuits</header><text display-inline="no-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/28/291">Section 291</external-xref> of title 28, United States Code, is amended by adding at the end the following new
+			 subsections:</text>
+			<quoted-block id="H81FE23CBF74D44C19B8724044B5CB393">
+				<subsection id="HA8289444CC934C839426B5EE5256FA90"><enum>(c)</enum><text>The chief judge of the Ninth Circuit may, in the public interest and upon request by the chief
+			 judge of the Twelfth Circuit, designate and assign temporarily any circuit
+			 judge of the Ninth Circuit to act as circuit judge in the Twelfth Circuit.</text>
+				</subsection><subsection id="HFC085017D81046E7998D098BFB3730E6"><enum>(d)</enum><text>The chief judge of the Twelfth Circuit may, in the public interest and upon request by the chief
+			 judge of the Ninth Circuit, designate and assign temporarily any circuit
+			 judge of the Twelfth Circuit to act as circuit judge in the Ninth Circuit.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="H17DD02971D3945289105B0E8FE067327"><enum>12.</enum><header>Temporary assignment of district judges between circuits</header><text display-inline="no-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/28/292">Section 292</external-xref> of title 28, United States Code, is amended by adding at the end the following new
+			 subsections:</text>
+			<quoted-block id="HEE7B593664C34DE493211314E52712F2">
+				<subsection id="H3AE41F3510A8494095B2B6FF73E1F2AB"><enum>(f)</enum><text>The chief judge of the Ninth Circuit may in the public interest—</text>
+					<paragraph id="HA6683FF0A50649E7B6BF4EA7AFDE2AE1"><enum>(1)</enum><text>upon request by the chief judge of the Twelfth Circuit, designate and assign one or more district
+			 judges within the Ninth Circuit to sit upon the Court of Appeals of the
+			 Twelfth Circuit or a division thereof whenever the business of that court
+			 so requires; and</text>
+					</paragraph><paragraph id="HF24375A21FBA409AA96ACD83D639A9CD"><enum>(2)</enum><text>designate and assign temporarily any district judge of the Ninth Circuit to hold a district court
+			 in any district within the Twelfth Circuit.</text>
+					</paragraph></subsection><subsection id="H03EBAD4742964CC6AFC1281AB18E5E9F"><enum>(g)</enum><text>The chief judge of the Twelfth Circuit may in the public interest—</text>
+					<paragraph id="H9B219A4DD8D440BCA9D648E064ED6F43"><enum>(1)</enum><text>upon request by the chief judge of the Ninth Circuit, designate and assign one or more district
+			 judges within the Twelfth Circuit to sit upon the Court of Appeals of the
+			 Ninth Circuit or a division thereof whenever the business of that court so
+			 requires; and</text>
+					</paragraph><paragraph id="H4530D23A10F649F6AA7C9424E3C8640B"><enum>(2)</enum><text>designate and assign temporarily any district judge of the Twelfth Circuit to hold a district court
+			 in any district within the Ninth Circuit.</text>
+					</paragraph></subsection><subsection id="HF6277C99B7F94A05B1130310D1C5D015"><enum>(h)</enum><text>Any designation and assignment of a judge under subsection (f)(1) or (g)(1) shall be in conformity
+			 with the rules or orders of the court of appeals of the circuit to which
+			 the judge is designated and assigned.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="H9C3191B5C8624F1ABAEB7DC563DE83DF"><enum>13.</enum><header>Administrative coordination</header><text display-inline="no-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/28/332">Section 332</external-xref> of title 28, United States Code, is amended by adding at the end the following new
+			 subsection:</text>
+			<quoted-block id="HC981354B634543D6A2A4C8275307E98F">
+				<subsection id="H755B4247368B47F0AD0A7920D453CD11"><enum>(i)</enum><text>Any 2 contiguous circuits may jointly carry out such administrative functions and activities as the
+			 judicial councils of the 2 circuits determine may benefit from
+			 coordination or consolidation.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="H2F3AA999013E4CBD951D7C0BC4FCFC11"><enum>14.</enum><header>Administration</header><text display-inline="no-display-inline">The United States Court of Appeals for the Ninth Circuit as constituted on the day before the
+			 effective date of this Act may take such administrative action as may be
+			 required to carry out this Act and the amendments made by this Act. Such
+			 court shall cease to exist for administrative purposes upon the expiration
+			 of the 2-year period beginning on the effective date of this Act.</text>
+		</section><section id="H46DE44AF9897426E85A8BD801EBD012A"><enum>15.</enum><header>Effective date</header><text display-inline="no-display-inline">Except as provided in section 4(c), this Act and the amendments made by this Act shall take effect
+			 on the first day of the first fiscal year that begins after the expiration
+			 of the 9-month period beginning on the first date on which 5 of the judges
+			 authorized to be appointed under section 4 have been confirmed by the
+			 United States Senate.</text>
+		</section><section id="H69EB1CF998014C308FE98C83CE05CF63"><enum>16.</enum><header>Authorization of Appropriations</header><text display-inline="no-display-inline">There are authorized to be appropriated such sums as may be necessary to carry out this Act,
+			 including funds for additional court facilities.</text>
+		</section></legis-body>
+</bill>
+
+

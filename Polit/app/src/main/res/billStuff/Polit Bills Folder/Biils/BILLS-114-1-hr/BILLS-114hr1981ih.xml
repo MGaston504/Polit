@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8576DA7E03EF48AEB166D6D27A1503B9" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1981 IH: Employee Bonus Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1981</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150423">April 23, 2015</action-date>
+			<action-desc><sponsor name-id="C000059">Mr. Calvert</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Fair Labor Standards Act of 1938 to provide that an employee’s ‘regular rate’ for
+			 purposes of calculating overtime compensation will not be affected by
+			 certain additional payments.</official-title>
+	</form>
+	<legis-body id="HA7FD67BA20744ADF92717F1ED0E0CBFE" style="OLC">
+ <section id="HBA8ACB5DC7F94EBD9302FBB888C79145" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Employee Bonus Protection Act</short-title></quote>.</text> </section><section id="H2892E215B0ED466E95FD0DC3F2A6E459"><enum>2.</enum><header>Regular rate for overtime purposes</header><text display-inline="no-display-inline">Section 7(e) of the Fair Labor Standards Act of 1938 is amended—</text>
+ <paragraph id="HB621A1AE60B34513A06FE1EE9547164C"><enum>(1)</enum><text>by inserting before the semicolon at the end of paragraph (3) the following: <quote>; or (d) the payments are made to reward an employee or group of employees for meeting or exceeding the productivity, quality, efficiency, or sales goals as specified in a gainsharing plan, incentive bonus plan, commission plan, or performance contingent bonus plan</quote>; and</text>
+ </paragraph><paragraph id="H456295E86C40484DBBEC15B1EB34899E"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block id="HFB1A7E8E80A04F3089EC9604744C4B5F" style="OLC"> <text display-inline="no-display-inline">A plan described in clause (d) of paragraph (3) shall be in writing and made available to employees, provided that the amount of the payments to be made under the plan be based upon a formula that is stated in the plan, and be established and maintained in good faith for the purpose of distributing to employees additional remuneration over and above the wages and salaries that are not dependent upon the existence of such plan or payments made pursuant to such plan.</text><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

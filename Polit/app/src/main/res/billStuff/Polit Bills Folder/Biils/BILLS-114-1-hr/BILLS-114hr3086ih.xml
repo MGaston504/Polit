@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H14D63757D42D47578624B9FEFC2CB5B0" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3086 IH: Wrongful Convictions Tax Relief Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3086</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150716">July 16, 2015</action-date>
+			<action-desc><sponsor name-id="J000174">Mr. Sam Johnson of Texas</sponsor> (for himself and <cosponsor name-id="L000557">Mr. Larson of Connecticut</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to provide tax benefits to individuals who have been
+			 wrongfully incarcerated.</official-title>
+	</form>
+	<legis-body id="H639C130A76E848BDBE8181612013FA48" style="OLC">
+ <section id="HA26D7A302AEE4981887673E9526577BB" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Wrongful Convictions Tax Relief Act of 2015</short-title></quote>.</text> </section><section id="H94948AB127C44078B99C2EAC5C9051AF"><enum>2.</enum><header>Exclusion for wrongfully incarcerated individuals</header> <subsection id="H2497E1DC878445C99FC4424BD44E14C9"><enum>(a)</enum><header>In general</header><text>Part III of subchapter B of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by inserting before section 140 the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HD726723072AA4124B71DF821DE8CAE28" style="OLC">
+					<section id="HF07A199589584C38A844FA2825CFDB39"><enum>139F.</enum><header>Certain amounts received by wrongfully incarcerated individuals</header>
+ <subsection id="H293D68BBD16448CC842670D7A8DB4242"><enum>(a)</enum><header>Exclusion from gross income</header><text>In the case of any wrongfully incarcerated individual, gross income shall not include any civil damages, restitution, or other monetary award (including compensatory or statutory damages and restitution imposed in a criminal matter) relating to the incarceration of such individual for the covered offense for which such individual was convicted.</text>
+ </subsection><subsection id="HAEB16AA469384774AACA99BBD02918F2"><enum>(b)</enum><header>Wrongfully incarcerated individual</header><text>For purposes of this section, the term <term>wrongfully incarcerated individual</term> means an individual—</text> <paragraph id="H350B569C4A014382B95C3BEF210D23AB"><enum>(1)</enum><text>who was convicted of a covered offense,</text>
+ </paragraph><paragraph id="H19026F89B66C4909B2F34F34E9C631DC"><enum>(2)</enum><text>who served all or part of a sentence of imprisonment relating to that covered offense, and</text> </paragraph><paragraph id="H7DE73F8B7CDB44C3A1A31AE576C5DBC1"><enum>(3)</enum> <subparagraph commented="no" display-inline="yes-display-inline" id="HC6DB1A60021A40C09E3C86F1C966A760"><enum>(A)</enum><text>who was pardoned, granted clemency, or granted amnesty for that covered offense because that individual was innocent of that covered offense, or</text>
+								</subparagraph><subparagraph id="HA23A3341CB5F45BBB5051A8D81CD7A04" indent="up1"><enum>(B)</enum>
+ <clause commented="no" display-inline="yes-display-inline" id="H218DD1E67117436FA3EDDF9FCB256198"><enum>(i)</enum><text>for whom the judgment of conviction for that covered offense was reversed or vacated, and</text> </clause><clause id="H6EE71F477A764C448F528F96D2C90A09" indent="up1"><enum>(ii)</enum><text>for whom the indictment, information, or other accusatory instrument for that covered offense was dismissed or who was found not guilty at a new trial after the judgment of conviction for that covered offense was reversed or vacated.</text>
+ </clause></subparagraph></paragraph></subsection><subsection id="H4E42A651E0B945C7BAF7B524C2D990A7"><enum>(c)</enum><header>Covered offense</header><text>For purposes of this section, the term <term>covered offense</term> means any criminal offense under Federal or State law, and includes any criminal offense arising from the same course of conduct as that criminal offense.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HE103080D68244A10B46F6B344CA6B986"><enum>(b)</enum><header>Conforming amendment</header><text>The table of sections for part III of subchapter B of chapter 1 of such Code is amended by inserting after the item relating to section 139E the following new item:</text>
+				<quoted-block id="H3BAD6495696C4FB987D048908D81A06F" style="OLC">
+					<toc>
+						<toc-entry idref="HF07A199589584C38A844FA2825CFDB39" level="section">Sec. 139F. Certain amounts received by wrongfully incarcerated individuals.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H3003DB4E16874C79AF86BE535E660B24"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning before, on, or after the date of the enactment of this Act.</text>
+ </subsection><subsection id="H1ABAA04064AD483894C62ADC7C81CBA1"><enum>(d)</enum><header>Waiver of limitations</header><text display-inline="yes-display-inline">If the credit or refund of any overpayment of tax resulting from the application of this Act to a period before the date of enactment of this Act is prevented as of such date by the operation of any law or rule of law (including res judicata), such credit or refund may nevertheless be allowed or made if the claim therefor is filed before the close of the 1-year period beginning on the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

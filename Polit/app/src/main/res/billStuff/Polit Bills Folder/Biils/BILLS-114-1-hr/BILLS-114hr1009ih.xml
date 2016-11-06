@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H52E91157A809477BBBCCB833AF1C7107"
+    public-private="public">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1009 IH: Wildfire Prevention Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code display="yes">I</distribution-code>
+        <congress>114th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>H. R. 1009</legis-num>
+        <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+        <action>
+            <action-date date="20150213">February 13, 2015</action-date>
+            <action-desc><sponsor name-id="R000599">Mr. Ruiz</sponsor> (for himself, <cosponsor
+                    name-id="P000598">Mr. Polis</cosponsor>, <cosponsor name-id="K000368">Mrs.
+                    Kirkpatrick</cosponsor>, <cosponsor name-id="P000607">Mr. Pocan</cosponsor>,
+                    <cosponsor name-id="C001094">Mr. Cook</cosponsor>, <cosponsor name-id="P000608"
+                    >Mr. Peters</cosponsor>, <cosponsor name-id="H001068">Mr. Huffman</cosponsor>,
+                    <cosponsor name-id="B001285">Ms. Brownley of California</cosponsor>, <cosponsor
+                    name-id="L000579">Mr. Lowenthal</cosponsor>, <cosponsor name-id="Y000033">Mr.
+                    Young of Alaska</cosponsor>, <cosponsor name-id="B000574">Mr.
+                    Blumenauer</cosponsor>, <cosponsor name-id="G000559">Mr. Garamendi</cosponsor>,
+                    <cosponsor name-id="C001080">Ms. Chu of California</cosponsor>, <cosponsor
+                    name-id="S001150">Mr. Schiff</cosponsor>, and <cosponsor name-id="L000580">Ms.
+                    Michelle Lujan Grisham of New Mexico</cosponsor>) introduced the following bill;
+                which was referred to the <committee-name committee-id="HPW00">Committee on
+                    Transportation and Infrastructure</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To authorize the Federal Emergency Management Agency to award mitigation
+            financial assistance in certain areas affected by wildfires.</official-title>
+    </form>
+    <legis-body id="H2DA9A6BA3B1542499888FD27F5F00378" style="OLC">
+        <section id="H940B01FFD23549CFABE26435E5B85BB9" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Wildfire Prevention Act of 2015</short-title></quote>.</text>
+        </section>
+        <section id="HA748D3C7D8E44B1A8B8ACC049D326757">
+            <enum>2.</enum>
+            <header>Wildfire mitigation assistance</header>
+            <subsection id="H8A07E4ECCA15408E8F73BA4E0B00124D">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5187">42 U.S.C. 5187</external-xref>) is amended—</text>
+                <paragraph id="H7C87D04BFCB744DFB52D91456FAFACEA">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">by redesignating subsection (d) as subsection (e); and</text>
+                </paragraph>
+                <paragraph id="H697BAC958EF742A78A9A247430D02E7D">
+                    <enum>(2)</enum>
+ <text>by inserting after subsection (c) the following:</text> <quoted-block display-inline="no-display-inline" id="H54AC37AC777A4FA092AFFCC25528D9C8" style="OLC"> <subsection id="H2CA3B74DDBE34D4D859BE7CF9A82CF4E"> <enum>(d)</enum> <header>Hazard mitigation assistance</header> <text>The President may provide hazard mitigation assistance in accordance with section 404 in any area affected by a fire for which assistance was provided under this section, whether or not a major disaster had been declared.</text>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="H086625F8846049B8BF73626187A4C83D">
+                <enum>(b)</enum>
+                <header>Conforming amendments</header>
+ <text>The Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5121">42 U.S.C. 5121 et seq.</external-xref>) is amended—</text>
+                <paragraph id="HDC663728C70743918817F46E671F47C6">
+                    <enum>(1)</enum>
+ <text>in section 404(a) (<external-xref legal-doc="usc" parsable-cite="usc/42/5170c">42 U.S.C. 5170c(a)</external-xref>)—</text> <subparagraph id="HB6155D9F999B4ED190C23B20D49E6B54"> <enum>(A)</enum> <text>by inserting before the first period <quote>, or any area affected by a fire for which assistance was provided under section 420</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="H45F3BBED22E94FE083EF30151042B68E">
+                        <enum>(B)</enum>
+ <text>in the third sentence, by inserting <quote>or event under section 420</quote> after <quote>major disaster</quote> each place that term appears; and</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H252811B55C4B4BDD98BA6C07ECD26D16">
+                    <enum>(2)</enum>
+ <text>in section 322(e)(1) (<external-xref legal-doc="usc" parsable-cite="usc/42/5165">42 U.S.C. 5165(e)(1)</external-xref>), by inserting <quote>or event under section 420</quote> after <quote>major disaster</quote> each place that term appears.</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
+

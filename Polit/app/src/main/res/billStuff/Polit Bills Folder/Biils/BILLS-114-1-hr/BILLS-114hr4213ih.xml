@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H349F4871603A4FF9BF144A74221109EF" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4213 IH: Tax Equity and Prosperity for Puerto Rican Families Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4213</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151210">December 10, 2015</action-date>
+			<action-desc><sponsor name-id="P000096">Mr. Pascrell</sponsor> (for himself, <cosponsor name-id="P000596">Mr. Pierluisi</cosponsor>, <cosponsor name-id="R000053">Mr. Rangel</cosponsor>, <cosponsor name-id="L000557">Mr. Larson of Connecticut</cosponsor>, and <cosponsor name-id="S000248">Mr. Serrano</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to make residents of Puerto Rico eligible for the earned
+			 income tax credit and to provide for equitable treatment for residents of
+			 Puerto Rico with respect to the refundable portion of the child tax
+			 credit.</official-title>
+	</form>
+	<legis-body id="H5BC7FB3F3F2342CA8E79E84C4DCA019D" style="OLC">
+ <section id="H9ABAF44A91E347BDBD9439FD574920C9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Tax Equity and Prosperity for Puerto Rican Families Act of 2015</short-title></quote>.</text> </section><section id="H527AED94732F4DF5BA32CC5765181B2B"><enum>2.</enum><header>Puerto Rico residents eligible for earned income tax credit</header> <subsection id="H542080F7F96A462A8B95C3775573A840"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/32">Section 32</external-xref> of the Internal Revenue Code of 1986 (relating to earned income) is amended by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="H6B2E3FEF0FDC4CEABA93DDD358EE26D0" style="OLC">
+					<subsection id="HB63DEDBD1E3D477CA5E69E08D4B30183"><enum>(n)</enum><header>Residents of Puerto Rico</header>
+ <paragraph id="H6230B98C89F044FDB11D97A1322C8C24"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">In the case of residents of Puerto Rico—</text> <subparagraph id="H4D0401FFE3724C71B59DBBAF46FD7611"><enum>(A)</enum><text>the United States shall be treated as including Puerto Rico for purposes of subsections (c)(1)(A)(ii)(I) and (c)(3)(C),</text>
+ </subparagraph><subparagraph id="HF8A56C40BE2F4F6891326F22C4E3B33F"><enum>(B)</enum><text>subsection (c)(1)(D) shall not apply to nonresident alien individuals who are residents of Puerto Rico,</text>
+ </subparagraph><subparagraph id="HC13FDAD09B774775A0A8518C35EE7FE6"><enum>(C)</enum><text>adjusted gross income and gross income shall be computed without regard to section 933 for purposes of subsections (a)(2)(B) and (c)(2)(A)(i),</text>
+ </subparagraph><subparagraph id="HC0D1A9F7E02349E5A8B9EF2BCBAA64DE"><enum>(D)</enum><text>subsection (c)(1)(A)(ii)(II) shall be applied by substituting <quote>age 21</quote> for <quote>age 25</quote>, and</text> </subparagraph><subparagraph id="H970EB1EA4D2F49C997701451D03050B7"><enum>(E)</enum><text>notwithstanding subsection (b)—</text>
+ <clause id="H28C49869D0BC4FE292037AFAE1F9CE66"><enum>(i)</enum><text>the credit percentage is 40,</text> </clause><clause id="H7AF676ECD6E442398365AA5E8DE9CA50"><enum>(ii)</enum><text>the phaseout percentage is 21.06,</text>
+ </clause><clause id="HA90442BB656C4B25934EA3EEB2022447"><enum>(iii)</enum><text>the earned income amount is $8,890, and</text> </clause><clause id="HB323A2F82B7D4FF1858802095C7C516F"><enum>(iv)</enum><text>the phaseout amount is $11,610 (increased by $3,000 in the case of a joint return).</text>
+ </clause></subparagraph></paragraph><paragraph id="HBC544B19D4674DA79D3F72AE6302B2AC"><enum>(2)</enum><header>Inflation adjustment</header><text>Subsection (j) shall apply to the dollar amounts in subparagraph (D), determined by treating the $8,890 and $11,610 amounts as though such amounts were contained in subsection (b)(2)(A) and by treating the $3,000 amount as though such amount were contained in subsection (b)(2)(B)(iii).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H9AB245AC04194DE5A564CA30AB821A56"><enum>(b)</enum><header>Child tax credit not reduced</header><text display-inline="yes-display-inline">Subclause (II) of section 24(d)(1)(B)(ii) of such Code (relating to child tax credit) is amended by inserting before the period <quote>(determined without regard to section 32(n) in the case of residents of Puerto Rico)</quote>.</text>
+ </subsection><subsection id="H8F084C89B5054E118814E12621B6A975"><enum>(c)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by this section shall apply to taxable years beginning after December 31, 2015.</text> </subsection></section><section id="H8117142B64D943FDAA140C47C8D931DB"><enum>3.</enum><header>Equitable treatment for residents of Puerto Rico with respect to the refundable portion of the child tax credit</header> <subsection id="H11C7553A0D6E42128697AD2E04025E6A"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/24">Section 24(d)(1)</external-xref> of the Internal Revenue Code of 1986 is amended by inserting <quote>or section 933</quote> after <quote>section 112</quote>.</text>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="H01682E94746A460EAB803BFB5908D885"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall apply to taxable years beginning after December 31, 2015.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

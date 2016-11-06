@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1996 IS: Commonsense Reporting Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1996</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date>August 5, 2015</action-date>
+			<action-desc><sponsor name-id="S327">Mr. Warner</sponsor> (for himself and <cosponsor name-id="S349">Mr. Portman</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To streamline the employer reporting process and strengthen the eligibility verification process
+			 for the premium assistance tax credit and cost-sharing subsidy.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Commonsense Reporting Act of 2015</short-title></quote>.</text>
+ </section><section id="idEB235725119E41639239FF9CDA5E4F61"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="idac54e3492fa04316bcec624270e7523a"><enum>(1)</enum><text>The Department of the Treasury and the Internal Revenue Service should work together with other relevant departments and agencies to identify and implement methods to minimize compliance burdens on businesses, insurance carriers, and individuals.</text>
+ </paragraph><paragraph id="idB27E1E48DFDD4475BB61193D00A7C0EC"><enum>(2)</enum><text>Such collaboration should strike an appropriate balance between sufficient reporting to enforce the law and protecting the privacy of individuals.</text>
+			</paragraph></section><section id="idAFF60AC1B5D5472FBCA3DA45FEDF823C"><enum>3.</enum><header>Voluntary prospective reporting system</header>
+ <subsection id="H38100969CCA847C3A19508E6AA733478"><enum>(a)</enum><header>In general</header><text>Not later than 1 year after the date of the enactment of this Act, the Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, the Secretary of Labor, and the Administrator of the Small Business Administration, shall develop and implement guidance providing for a prospective reporting system meeting the requirements of subsection (b). Such system shall be available for use by employers on a voluntary basis beginning not later than January 1, 2017.</text>
+ </subsection><subsection id="id2FAA37A0B37B4B579EC834DCCB70EB77"><enum>(b)</enum><header>Requirements</header><text display-inline="yes-display-inline">The system created under subsection (a) shall include—</text> <paragraph id="id0A5A6B292E56412FB19F2C8E224F92D3"><enum>(1)</enum><text>voluntary reporting by each participating employer, not later than 45 days before the first day of the annual open enrollment period under section 1311(c)(6)(B) of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18031">42 U.S.C. 18031(c)(6)(B)</external-xref>) for each calendar year, of—</text>
+ <subparagraph id="idF892C291F7984A189E35B20E04CB8AD6"><enum>(A)</enum><text>the name and employer identification number of the employer;</text> </subparagraph><subparagraph id="idC7CB535EAF74439E95A699A40A8A412F"><enum>(B)</enum><text>a certification of—</text>
+ <clause id="id69CA60A435094BE9AF5941F7E6E7B00B"><enum>(i)</enum><text>whether coverage meeting the definition of minimum essential coverage in <external-xref legal-doc="usc" parsable-cite="usc/26/5000A">section 5000A(f)</external-xref> of the Internal Revenue Code of 1986 is offered to the full-time employees (within the meaning of section 4980H of such Code) of the employer;</text>
+ </clause><clause id="id1B54C920DE4E4BEEA9E018BC728DAD3B"><enum>(ii)</enum><text>whether such coverage is offered to part-time employees of the employer;</text> </clause><clause id="idF649770C5AF3420F99E655B32B273AD2"><enum>(iii)</enum><text>whether such coverage is offered to dependents of employees;</text>
+ </clause><clause id="idE4F1E917EE854CCF8A87679235A47D4D"><enum>(iv)</enum><text>whether such coverage is offered to spouses of employees;</text> </clause><clause id="id32100BA0044F4B39BCD13F8A6BE1F486"><enum>(v)</enum><text>whether such coverage meets the minimum value requirement of section 36B(c)(2)(C)(ii) of such Code;</text>
+ </clause><clause id="id3E4DECD8987449FE8F47A3211573F178"><enum>(vi)</enum><text>whether such coverage satisfies the requirements to qualify for one of the affordability safe harbors promulgated by the Secretary of the Treasury for purposes of section 4980H of such Code; and</text>
+ </clause><clause id="idBB6219853D004EE0A815707E87168C70"><enum>(vii)</enum><text>whether the employer reasonably expects to be liable for any shared responsibility payment under section 4980H of such Code for such year;</text>
+ </clause></subparagraph><subparagraph id="idAB2BEA0D3D954892AA60A22C65ED1049"><enum>(C)</enum><text>the months during the prospective reporting period that such coverage is available to individuals described in clauses (i) through (iv) of subparagraph (B); and</text>
+ </subparagraph><subparagraph id="id884557F446194FDBBDA476B8B40C5145"><enum>(D)</enum><text>what waiting periods, if any, apply with respect to such coverage;</text> </subparagraph></paragraph><paragraph id="id4CA0911F302C449EB329269C3E893548"><enum>(2)</enum><text display-inline="yes-display-inline">processes necessary to ensure that Exchanges, the Federal Marketplace Data Services Hub, and the Internal Revenue Service can securely and confidentially access the information described in paragraph (1) as necessary to carry out their respective missions, and to provide to the Secretary of Health and Human Services additional information relating to eligibility determinations for advance payment of the premium tax credits under section 36B of such Code and the cost-sharing subsidies under section 1402 of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18071">42 U.S.C. 18071</external-xref>);</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id48C2C87E395E41EDBD7D446B98AD3B69"><enum>(3)</enum><text>a process to allow Exchanges to follow up with employers in order to obtain additional reasonably necessary information relating to an employee's eligibility for such advance payment or such cost-sharing subsidies, and to allow an employee to receive notification of any problem in verifying such eligibility; and</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id42E54B79187045CC92A81F05EDB171F2"><enum>(4)</enum><text>a process to allow employers using the system to provide timely updates to the Federal Marketplace Data Services Hub regarding any cancellation of coverage or significant change in coverage for participating employees that would change the information reported under paragraph (1).</text>
+ </paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id05EF0E329C624F6B813C20C0925AC590"><enum>(c)</enum><header>Employer notification of employee enrollment in Exchange plans</header><text>Subparagraph (J) of section 1311(d)(4) of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18031">42 U.S.C. 18031(d)(4)(J)</external-xref>) is amended by striking <quote>to each employer</quote> and all that follows and inserting “to each employer—</text>
+				<quoted-block display-inline="no-display-inline" id="idBD8A8982760144FAA56EE22C6DBF6986" style="OLC">
+ <clause commented="no" display-inline="no-display-inline" id="idC3C89950F8054C3996BBCF7C1A8CF1C0"><enum>(i)</enum><text>the name of each employee of the employer who enrolls in a qualified health plan for a plan year, or whose dependents enroll in such a plan, at the time of such enrollment; or</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="id5E061D62776D4A55B688A1B892DD723B"><enum>(ii)</enum><text>the name of each employee of the employer described in subparagraph (I)(ii) who ceases coverage under a qualified health plan during a plan year (and the effective date of such cessation); and</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HEAE52E440270484FA6D687C9180D0DF8"><enum>(d)</enum><header>Exemption from reporting requirement under Internal Revenue Code of 1986</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/6056">Section 6056</external-xref> of the Internal Revenue Code of 1986 is amended by redesignating subsection (f) as subsection (g) and by inserting after subsection (e) the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="id28F466D4D3FD47828FD36F0B081D2C5F" style="OLC">
+ <subsection id="id4A4424A782804EF4A0529733044D583A"><enum>(f)</enum><header>Exemption</header><text display-inline="yes-display-inline">If, through the system created under section 3(a) of the <short-title>Commonsense Reporting Act of 2015</short-title>, an employer provides prospective reporting for any calendar year that meets the requirements of section 3(b)(1) of such Act—</text>
+ <paragraph id="idD9903AA979284E9E93DDD285E3553134"><enum>(1)</enum><text display-inline="yes-display-inline">such employer shall be treated as satisfying the return requirements of subsections (a) and (b) for such year; and</text>
+ </paragraph><paragraph id="idF64F33CCBA024236A7882B0FD9589DE9"><enum>(2)</enum><text>such employer shall be treated as satisfying the requirements of subsection (c) for such year if the employer—</text>
+ <subparagraph id="idBD1CF70D336244DF96F65828481A347D"><enum>(A)</enum><text>furnishes the statement described in such section to those employees of the employer whose names have been provided to the employer by an Exchange under section 1311(d)(4)(J)(i) of the Patient Protection and Affordable Care Act regarding enrollment of the employee or a dependent in a qualified health plan (as defined in section 1301 of such Act) through the Exchange; and</text>
+ </subparagraph><subparagraph id="id8EFE9A02AA1C4102B4127A17725E2C91"><enum>(B)</enum><text>furnishes a copy of such statement with respect to such employees to the Secretary.</text> </subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="idE40AE8709B97411197681D1A47C765B6"><enum>(e)</enum><header>Third-Party filing</header><text>An employer may contract with a third party to make the report under subsection (b)(1) without affecting the employer's treatment as having satisfied the return requirements of subsections (a) and (b) of <external-xref legal-doc="usc" parsable-cite="usc/26/6056">section 6056</external-xref> of the Internal Revenue Code of 1986.</text>
+ </subsection><subsection commented="no" id="idd4aa2ed168034520937281af27f738f8"><enum>(f)</enum><header>Access to the National Directory of New Hires</header><text>Subsection (i)(3) of section 453 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/653">42 U.S.C. 653</external-xref>) is amended by adding at the end the following new sentence: <quote>The Secretary of the Treasury and the Secretary of Health and Human Services shall have access to the information in the National Directory of New Hires for purposes of administering section 36B and 4980H of the Internal Revenue Code of 1986 and section 1402 of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18071">42 U.S.C. 18071</external-xref>). Subsection (k)(3) shall not apply to information received for purposes of the administration of such sections 36B and 4980H of such Code and section 1402 of such Act.</quote>.</text>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="idA42B4936A22A4E75AB7F993031233629"><enum>(g)</enum><header>Improving employee access to accurate EINs</header><text display-inline="yes-display-inline">Not later than 1 year after the date of the enactment of this Act, the Secretary of the Treasury shall develop and implement guidance for allowing any employee of an employer to receive, on request, the employer's employer identification number for purposes of <external-xref legal-doc="usc" parsable-cite="usc/26/6056">section 6056</external-xref> of the Internal Revenue Code of 1986.</text>
+ </subsection><subsection id="id0B45FF949B6E48E4A5FDFF2504FCB8F6"><enum>(h)</enum><header>Funding for voluntary prospective reporting system</header><text>It is the sense of Congress that building and maintaining the voluntary prospective reporting system described in this section will require appropriations to the Secretary of the Treasury, the Secretary of Health and Human Services, the Secretary of Labor, and the Administrator of the Small Business Administration, and that necessary sums to carry out the requirements of this section should be appropriated for such purpose.</text>
+			</subsection></section><section id="idE546543186224C56ADBB4325AA8C9EA2"><enum>4.</enum><header>Protection of dependent privacy</header>
+ <subsection id="id43749A3575674B25A0E1792082CCAAF7"><enum>(a)</enum><header>In general</header><text>Paragraph (1) of <external-xref legal-doc="usc" parsable-cite="usc/26/6055">section 6055(b)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following flush sentence:</text>
+				<quoted-block display-inline="no-display-inline" id="idE1BDE2F505494F298EAE5F76465DBECF" style="OLC">
+					<quoted-block-continuation-text quoted-block-continuation-text-level="paragraph">For purposes of subparagraph (B)(i), in the case of an individual other than the primary insured,
+			 if the health insurance issuer or the employer is unable to collect or
+			 maintain information on the TINs of such individuals (other than for
+			 purposes of this section), the Secretary may allow the individual's full
+			 name and date of birth
+			 to be
+			 substituted for the name and TIN.  In the event the Secretary allows the
+			 use of the individual's full name and date of birth in lieu of the TIN,
+			 the Social Security Administration shall assist the Internal Revenue
+			 Service in providing data matches to determine the TIN associated with the
+			 name and date of birth provided by the Internal Revenue Service with
+			 respect to such individual.</quoted-block-continuation-text><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="id8FF7480E82984C2E87F7FFD39356520F"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to returns the due date for which is after the date that is 60 days after the date of the enactment of this Act.</text>
+			</subsection></section><section id="id14364EF05ED14C6799CE2A183477BF55"><enum>5.</enum><header>Electronic statements</header>
+ <subsection id="idB1AD8EB08B9A43C5864C36E3B6A3CB4E"><enum>(a)</enum><header>In general</header><text>Subsection (c) of <external-xref legal-doc="usc" parsable-cite="usc/26/6056">section 6056</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following flush sentence:</text>
+				<quoted-block display-inline="no-display-inline" id="id4353EAC0C3F9492DB30F0764D744606E" style="OLC">
+					<quoted-block-continuation-text quoted-block-continuation-text-level="subsection">An individual shall be deemed to have consented to receive the statement under this section in
+			 electronic form if such individual has affirmatively consented at any
+			 prior time, to the
+			 person who is the employer of the individual during the calendar year to
+			 which the statement relates, to
+			 receive such statement in electronic form.  The preceding sentence shall
+			 not apply if the
+			 individual revokes consent in writing with respect to the statement under
+			 this section.</quoted-block-continuation-text><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id737071632AD24CF18E34A2EFDA430A2F"><enum>(b)</enum><header>Statements relating to health insurance coverage</header><text>Subsection (c) of <external-xref legal-doc="usc" parsable-cite="usc/26/6055">section 6055</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+				<quoted-block act-name="" id="id12E8A52706A349558B6BE826C9078ABE" style="OLC">
+ <paragraph id="id23A1004F9B574186BDA388F9DA2A4BB4"><enum>(3)</enum><header>Electronic delivery</header><text>An individual shall be deemed to have consented to receive the statement under this subsection in electronic form if such individual has affirmatively consented at any prior time, to the person required to make such statement (such as the provider of the individual's health coverage), to receive in electronic form any private health information (such as electronic health records), unless the individual revokes such consent in writing.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="id73AFA7A2095B42CF992E671C340081DA"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to statements the due date for which is after December 31, 2015.</text>
+			</subsection></section><section commented="no" display-inline="no-display-inline" id="id4839362CBF714B59B1A49E0926E4497A"><enum>6.</enum><header>GAO studies</header>
+ <subsection commented="no" display-inline="no-display-inline" id="id37A2031F395F473A910056BC6B5A7A78"><enum>(a)</enum><header>Study of prospective reporting system</header><text>Not later than July 1, 2018, the Comptroller General of the United States shall conduct a study evaluating, with respect to the period beginning on January 1, 2017, and ending on December 31, 2017, the functionality of the prospective reporting system established under section 3 of this Act, including the accuracy of information collected, the number of employers electing to report under such system, and any challenges that have arisen.</text>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="id52BE143A35984DE988844740CB06C93C"><enum>(b)</enum><header>Report</header><text>The results of the study under subsection (a) shall be reported to the Committees on Finance and Health, Education, Labor, and Pensions of the Senate and the Committees on Ways and Means, Energy and Commerce, and Education and the Workforce of the House of Representatives.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

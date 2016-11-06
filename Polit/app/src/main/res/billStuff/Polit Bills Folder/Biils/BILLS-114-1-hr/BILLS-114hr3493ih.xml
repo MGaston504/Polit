@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5E4F9B432C4344EF81EB4BD93282D119" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3493 IH: Securing the Cities Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3493</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150911">September 11, 2015</action-date>
+			<action-desc><sponsor name-id="D000625">Mr. Donovan</sponsor> (for himself, <cosponsor name-id="K000210">Mr. King of New York</cosponsor>, and <cosponsor name-id="M001157">Mr. McCaul</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Homeland Security Act of 2002 to establish the Securing the Cities program to enhance
+			 the ability of the United States to detect and prevent terrorist attacks
+			 and other high consequence events utilizing nuclear or other radiological
+			 materials that pose a high risk to homeland security in high-risk urban
+			 areas, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H2FCA70CACB6F4463BB7ADC3F1E6B6017" style="OLC">
+ <section id="HDA7069C7D59B4DD8A3CB48F27B91E2B6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Securing the Cities Act of 2015</short-title></quote>.</text> </section><section id="HB6A3C151432D4BECA706E3580FE0CF4E"><enum>2.</enum><header>Securing the Cities program</header> <subsection id="HC7BE0EA087EA45A7B30D45C4C9E1BA9D"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Title XIX of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/591">6 U.S.C. 591 et seq.</external-xref>) is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="H4DAE843E67994A889AF1BAC0DA2DE140" style="OLC">
+					<section id="H378397A09784468AB1DF4F582B8AE031"><enum>1908.</enum><header>Securing the Cities program</header>
+ <subsection id="H730E415197664492B3B77D1AE13FEA24"><enum>(a)</enum><header>Establishment</header><text>The Director for Domestic Nuclear Detection shall establish the <quote>Securing the Cities</quote> (<quote>STC</quote>) program to enhance the ability of the United States to detect and prevent terrorist attacks and other high consequence events utilizing nuclear or other radiological materials that pose a high risk to homeland security in high-risk urban areas. Through such program the Director shall—</text>
+ <paragraph id="H3D92CA50A0374D2989D4D842D8E2CE02"><enum>(1)</enum><text>assist State, local, tribal, and territorial governments in designing and implementing, or enhancing existing, architectures for coordinated and integrated detection and interdiction of nuclear or other radiological materials that are out of regulatory control;</text>
+ </paragraph><paragraph id="H612559D4FAD14FA7A94B18308216E5B7"><enum>(2)</enum><text display-inline="yes-display-inline">support the development of a region-wide operating capability to detect and report on nuclear and other radioactive materials out of operational control;</text>
+ </paragraph><paragraph id="HC576F614E1CF407AAC739A3BA2214F5C"><enum>(3)</enum><text>provide resources to enhance detection, analysis, communication, and coordination to better integrate State, local, tribal, and territorial assets into Federal operations;</text>
+ </paragraph><paragraph id="H3663EC6D828F447EA6F34BC22905D60E"><enum>(4)</enum><text>facilitate alarm adjudication and provide subject matter expertise and technical assistance on concepts of operations, training, exercises, and alarm response protocols;</text>
+ </paragraph><paragraph id="HED4B6636D4C04D54BE45BFF70C8E324F"><enum>(5)</enum><text>communicate with, and promote sharing of information about the presence or detection of nuclear or other radiological materials among appropriate Federal, State, local, tribal, and territorial governments, in a manner that ensures transparency with the jurisdictions served by such program; and</text>
+ </paragraph><paragraph id="H58D4A40483154B6A88C691346A1FE29B"><enum>(6)</enum><text>provide any other assistance the Director determines appropriate.</text> </paragraph></subsection><subsection id="H9FDE8B941083483EB2C67BC70F30E820"><enum>(b)</enum><header>Designation of jurisdictions</header><text>In carrying out the program under subsection (a), the Director shall designate jurisdictions from among high-risk urban areas under section 2003, and other cities and regions, as appropriate.</text>
+ </subsection><subsection id="H99E96E13EDCC4BB5B8B985B0127E2F2D"><enum>(c)</enum><header>Congressional notification</header><text>The Director shall notify the Committee on Homeland Security and the Committee on Appropriations of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate not later than three days before the designation of new jurisdictions under subsection (b) or other changes to participating jurisdictions.</text>
+ </subsection><subsection id="H2D44DEE964AD47F68F0DCFC97F187F91"><enum>(d)</enum><header>GAO report</header><text>Not later than one year after the date of the enactment of this section, the Comptroller General of the United States shall submit to the congressional committees specified in subsection (c) an assessment, including an evaluation of the effectiveness, of the STC program under this section.</text>
+ </subsection><subsection id="H17F6A265FE6445F58D39F862FE9AD7E7"><enum>(e)</enum><header>Prohibition on additional funding</header><text>No funds are authorized to be appropriated to carry out this section. This section shall be carried out using amounts otherwise appropriated or made available for such purpose.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H4469DCA20DDB4D46AEA452312BA4A910"><enum>(b)</enum><header>Clerical amendment</header><text>The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 1907 the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H9C0EE0E49D774B1EB4A341F49DF0DF2A" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">Sec. 1908. Securing the Cities program.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

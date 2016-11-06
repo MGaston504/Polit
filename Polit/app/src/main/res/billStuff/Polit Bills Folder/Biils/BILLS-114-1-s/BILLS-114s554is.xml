@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S554 IS: Federal Employee Retroactive Pay Fairness Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-02-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 554</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150224">February 24, 2015</action-date>
+			<action-desc><sponsor name-id="S308">Mr. Cardin</sponsor> (for himself, <cosponsor name-id="S182">Ms. Mikulski</cosponsor>, <cosponsor name-id="S326">Mr. Udall</cosponsor>, <cosponsor name-id="S057">Mr. Leahy</cosponsor>, <cosponsor name-id="S331">Mrs. Gillibrand</cosponsor>, <cosponsor name-id="S362">Mr. Kaine</cosponsor>, <cosponsor name-id="S223">Mrs. Boxer</cosponsor>, <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>, <cosponsor name-id="S327">Mr. Warner</cosponsor>, <cosponsor name-id="S313">Mr. Sanders</cosponsor>, <cosponsor name-id="S277">Mr. Carper</cosponsor>, <cosponsor name-id="S229">Mrs. Murray</cosponsor>, <cosponsor name-id="S354">Ms. Baldwin</cosponsor>, and <cosponsor name-id="S361">Ms. Hirono</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for the compensation of Federal employees affected by a lapse in appropriations.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Federal Employee Retroactive Pay Fairness Act of 2015</short-title></quote>.</text>
+		</section><section id="id9EA72DAAE9E94F3BA90BF3C0A56F0F0B"><enum>2.</enum><header>Compensation for Federal employees affected by a lapse in appropriations</header>
+ <subsection id="id442FBDA5B6B149848AC4E99B003CB245"><enum>(a)</enum><header>Definitions</header><text>In this section—</text> <paragraph id="id45DB1D3BA3A4473FBE3E2126E1E20BAC"><enum>(1)</enum><text>the term <term>covered lapse in appropriations</term> means the lapse in appropriations that begins on or about February 28, 2015; and</text>
+ </paragraph><paragraph id="idF99489101071472A9257B35C19AE6601"><enum>(2)</enum><text>the term <term>excepted employee</term> means an excepted employee or an employee performing emergency work, as such terms are defined by the Office of Personnel Management.</text>
+ </paragraph></subsection><subsection id="idFA1969B468A94910B04544730980C3A1"><enum>(b)</enum><header>Compensation for employees</header><text>Each Federal employee furloughed as a result of the covered lapse in appropriations shall be paid for the period of the lapse in appropriations, and each excepted employee who is required to perform work during the covered lapse in appropriations shall be paid for such work, at the employee's standard rate of pay at the earliest date possible after the lapse in appropriations ends, regardless of scheduled pay dates.</text>
+ </subsection><subsection id="id3d511db441e74cf3b728870fab8e6a93"><enum>(c)</enum><header>Leave for excepted employees required to perform work</header><text>Notwithstanding subchapter III of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/31/13">chapter 13</external-xref> of title 31, United States Code, during the covered lapse in appropriations, each excepted employee who is required to perform work shall be entitled to use leave under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/63">chapter 63</external-xref> of title 5, United States Code, or any other applicable law governing the use of leave by the excepted employee, for which compensation shall be paid at the earliest date possible after the lapse in appropriations ends, regardless of scheduled pay dates.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="H21E4D71B6FFB4ACAA1F4B31529AD1157" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2064 RH: Improving Access to Capital for Emerging Growth Companies Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IB</distribution-code>
+		<calendar display="yes">Union Calendar No. 152</calendar>
+		<congress display="yes">114th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>H. R. 2064</legis-num>
+		<associated-doc display="yes" role="report">[Report No. 114–203]</associated-doc>
+		<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150428">April 28, 2015</action-date>
+			<action-desc><sponsor name-id="F000458">Mr. Fincher</sponsor> (for himself and <cosponsor name-id="D000620">Mr. Delaney</cosponsor>) introduced the following bill; which was referred to the <committee-name added-display-style="italic" committee-id="HBA00" deleted-display-style="strikethrough">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<action>
+			<action-date>July 14, 2015</action-date>
+			<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the
+			 Union, and ordered to be printed</action-desc>
+			<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction>
+			<action-instruction>For text of introduced bill, see copy of bill as introduced on April 28, 2015</action-instruction>
+		</action>
+		<action display="yes">
+			<action-desc display="yes"><pagebreak></pagebreak></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend certain provisions of the securities laws relating to the treatment of emerging growth
+			 companies.<pagebreak></pagebreak></official-title>
+	</form>
+	<legis-body changed="added" committee-id="HBA00" display-enacting-clause="yes-display-enacting-clause" id="HE71A2EA196034FCCA22920B09CA3D15F" reported-display-style="italic" style="OLC">
+ <section id="HA6B44412BF714FB99A045D8754611013" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Improving Access to Capital for Emerging Growth Companies Act</short-title></quote>.</text> </section><section id="H25428E0D40664C308DA670DAA1E24DF7"><enum>2.</enum><header>Filing requirement for public filing prior to public offering</header><text display-inline="no-display-inline">Section 6(e)(1) of the Securities Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/15/77f">15 U.S.C. 77f(e)(1)</external-xref>) is amended by striking <quote>21 days</quote> and inserting <quote>15 days</quote>.</text>
+ </section><section id="H49A9C2F0073E4B389F7DDFFFD384C97C"><enum>3.</enum><header>Grace period for change of status of emerging growth companies</header><text display-inline="no-display-inline">Section 6(e)(1) of the Securities Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/15/77f">15 U.S.C. 77f(e)(1)</external-xref>) is further amended by adding at the end the following: <quote>An issuer that was an emerging growth company at the time it submitted a confidential registration statement or, in lieu thereof, a publicly filed registration statement for review under this subsection but ceases to be an emerging growth company thereafter shall continue to be treated as an emerging market growth company for the purposes of this subsection through the earlier of the date on which the issuer consummates its initial public offering pursuant to such registrations statement or the end of the 1-year period beginning on the date the company ceases to be an emerging growth company.</quote>.</text>
+ </section><section id="H815CF67319214A6CAC6991BD9478A530"><enum>4.</enum><header>Simplified disclosure requirements for emerging growth companies</header><text display-inline="no-display-inline">Section 102 of the Jumpstart Our Business Startups Act (<external-xref legal-doc="public-law" parsable-cite="pl/112/106">Public Law 112–106</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block changed="added" committee-id="HBA00" display-inline="no-display-inline" id="HCE9984D9ECF3429FB0F205F418AFC9DF" reported-display-style="italic" style="OLC">
+ <subsection commented="no" id="H5C9C46FDCBD04945AC6F89544335EC90"><enum>(d)</enum><header>Simplified disclosure requirements</header><text display-inline="yes-display-inline">With respect to an emerging growth company (as such term is defined under section 2 of the Securities Act of 1933):</text>
+ <paragraph id="HF8C0FA66EDBB4C708C2912404004E23D"><enum>(1)</enum><header>Requirement to include notice on Forms S–1 and F-1</header><text>Not later than 30 days after the date of enactment of this subsection, the Securities and Exchange Commission shall revise its general instructions on Forms S–1 and F-1 to indicate that a registration statement filed (or submitted for confidential review) by an issuer prior to an initial public offering may omit financial information for historical periods otherwise required by regulation S–X (17 C.F.R. 210.1–01 et seq.) as of the time of filing (or confidential submission) of such registration statement, provided that—</text>
+ <subparagraph id="H863B4940938F4481A8738D8DD826903B"><enum>(A)</enum><text display-inline="yes-display-inline">the omitted financial information relates to a historical period that the issuer reasonably believes will not be required to be included in the Form S–1 or F-1 at the time of the contemplated offering; and</text>
+ </subparagraph><subparagraph id="HF796B0910DD0427190C8A562CC2CEFFE"><enum>(B)</enum><text>prior to the issuer distributing a preliminary prospectus to investors, such registration statement is amended to include all financial information required by such regulation S–X at the date of such amendment.</text>
+ </subparagraph></paragraph><paragraph id="HB1007CCFC1004A57A962E00A7B845C5E"><enum>(2)</enum><header>Reliance by issuers</header><text display-inline="yes-display-inline">Effective 30 days after the date of enactment of this subsection, an issuer filing a registration statement (or submitting the statement for confidential review) on Form S–1 or Form F-1 may omit financial information for historical periods otherwise required by regulation S–X (17 C.F.R. 210.1–01 et seq.) as of the time of filing (or confidential submission) of such registration statement, provided that—</text>
+ <subparagraph id="H3A11C305F0B34F9790C7C589A365261E"><enum>(A)</enum><text display-inline="yes-display-inline">the omitted financial information relates to a historical period that the issuer reasonably believes will not be required to be included in the Form S–1 or Form F-1 at the time of the contemplated offering; and</text>
+ </subparagraph><subparagraph id="H2E1A600658F94BEDB863CED14F28776F"><enum>(B)</enum><text>prior to the issuer distributing a preliminary prospectus to investors, such registration statement is amended to include all financial information required by such regulation S–X at the date of such amendment.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+	<endorsement display="yes">
+		<action-date>July 14, 2015</action-date>
+		<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the
+			 Union, and ordered to be printed</action-desc></endorsement>
+</bill>
+
+

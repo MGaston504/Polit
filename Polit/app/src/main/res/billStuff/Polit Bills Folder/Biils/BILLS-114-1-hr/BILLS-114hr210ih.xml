@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H4CECB3B7975940648EE13447C553AC77" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 210 IH: Student Worker Exemption Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 210</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150108">January 8, 2015</action-date>
+			<action-desc><sponsor name-id="M001187">Mr. Meadows</sponsor> (for himself, <cosponsor name-id="B001284">Mrs. Brooks of Indiana</cosponsor>, <cosponsor name-id="D000619">Mr. Rodney Davis of Illinois</cosponsor>, <cosponsor name-id="D000615">Mr. Duncan of South Carolina</cosponsor>, <cosponsor name-id="E000291">Mrs. Ellmers</cosponsor>, <cosponsor name-id="H001051">Mr. Hanna</cosponsor>, <cosponsor name-id="J000255">Mr. Jones</cosponsor>, <cosponsor name-id="M001191">Mr. Murphy of Florida</cosponsor>, <cosponsor name-id="R000587">Mr. Ribble</cosponsor>, <cosponsor name-id="R000592">Mr. Rokita</cosponsor>, <cosponsor name-id="R000580">Mr. Roskam</cosponsor>, and <cosponsor name-id="T000463">Mr. Turner</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to exempt student workers for purposes of determining a
+			 higher education institution’s employer health care shared responsibility.</official-title>
+	</form>
+	<legis-body id="H67C37402DC2D4C89AED14D8CC97D44ED" style="OLC">
+		<section id="H2D20B1E59BA64D58BF1B41B63EC1D1F3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Student Worker Exemption Act of 2015</short-title></quote>.</text>
+		</section><section id="HE06E3557582241DD80357A7672B3C229"><enum>2.</enum><header>Student workers exempted from determination of higher education institution’s employer health care
+			 shared responsibility</header>
+			<subsection id="H790AE738F00442EEBDC7546B588C57B8"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subsection (c) of <external-xref legal-doc="usc" parsable-cite="usc/26/4980H">section 4980H</external-xref> of the Internal Revenue Code of 1986 is amended by redesignating
+			 paragraphs (5), (6), and (7) as paragraphs (6), (7), and (8),
+			 respectively, and by inserting after paragraph (4) the following new
+			 paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="HC156BE1391964D6FB45F27A2D3018B21" style="OLC">
+					<paragraph id="H1BBDCD4B262144949492AED7A7352958"><enum>(5)</enum><header>Exception for student workers</header>
+						<subparagraph id="H492889A3608D4DDBBA948460E89CB21E"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Services rendered as a student worker to an eligible educational institution (as defined in section
+			 25A(f)(2)) shall not be taken into account under this section as service
+			 provided by an employee.</text>
+						</subparagraph><subparagraph id="HBFE76D4FDE824BA5AC73B6EC3904E41D"><enum>(B)</enum><header>Student worker</header><text>For purposes of this paragraph, the term <term>student worker</term> means, with respect to any eligible educational institution (as so defined), any individual who—</text>
+							<clause id="HA77B0D666E5947E18C2F2DB4A6125E55"><enum>(i)</enum><text>is employed by such institution, and</text>
+							</clause><clause id="H5B0B75C261984180936784102FDEF690"><enum>(ii)</enum><text display-inline="yes-display-inline">is a student enrolled at the institution and is carrying a full-time academic workload, as
+			 determined by the institution, under a standard applicable to all students
+			 enrolled in a particular educational program.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H1023B4CFC10E408E8A5E7662BD5576BF"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall apply to months beginning after December 31, 2014.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

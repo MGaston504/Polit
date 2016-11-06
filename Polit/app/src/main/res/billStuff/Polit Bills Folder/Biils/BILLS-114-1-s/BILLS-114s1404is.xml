@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1404 IS: State Transportation Flexibility Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 1404</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150520">May 20, 2015</action-date><action-desc><sponsor name-id="S349">Mr. Portman</sponsor> (for himself, <cosponsor name-id="S197">Mr. McCain</cosponsor>, <cosponsor name-id="S305">Mr. Isakson</cosponsor>, and <cosponsor name-id="S287">Mr. Cornyn</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEV00">Committee on Environment and Public Works</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To free States to spend gas taxes on their transportation priorities.</official-title></form>
+	<legis-body style="OLC">
+ <section id="id206E44C39CFC4E4CBE8A6735969E28F4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>State Transportation Flexibility Act</short-title></quote>.</text>
+		</section><section id="id19D6C31B877C4248B3147ED113DFD280"><enum>2.</enum><header>Direct
+			 Federal-aid highway program</header>
+			<subsection id="id8DE4538EB7EA444A9A81840C21A18C68"><enum>(a)</enum><header>In
+ general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/23/1">Chapter 1</external-xref> of title 23, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/23/610">section 610</external-xref> the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idC289881A940146EB85343C95A595E117" style="USC">
+					<section id="idFA7060F8CB0F4B598C9BFFD1764D00AD"><enum>611.</enum><header>Direct
+				Federal-aid highway program</header>
+						<subsection id="id9486FD8ADCE044B7B804877202CD753A"><enum>(a)</enum><header>Election by
+ State not To participate</header><text>Notwithstanding any other provision of law, a State may elect not to participate in any Federal program relating to highways, including a Federal highway program under the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (<external-xref legal-doc="public-law" parsable-cite="pl/109/59">Public Law 109–59</external-xref>; 119 Stat. 1144), the Moving Ahead for Progress in the 21st Century Act (<external-xref legal-doc="public-law" parsable-cite="pl/112/141">Public Law 112–141</external-xref>; 126 Stat. 405), this title, or title 49.</text>
+						</subsection><subsection id="id7B6F1BB66758422DB1D329321D322BC9"><enum>(b)</enum><header>Direct
+				Federal-Aid highway program</header>
+							<paragraph id="id675CBA391EF24119A143CDEB5238F909"><enum>(1)</enum><header>In
+ general</header><text>Beginning in fiscal year 2015, the Secretary shall carry out a direct Federal-aid highway program in accordance with the requirements of this section under which the legislature of a State may elect, not fewer than 90 days before the beginning of a fiscal year—</text>
+ <subparagraph id="id46A1DB1EE92D42D780421A74BF91C15B"><enum>(A)</enum><text>to waive the right of the State to receive amounts apportioned or allocated to the State under the Federal-aid highway program for the fiscal year to which the election relates; and</text>
+ </subparagraph><subparagraph id="id1BDE75BDC9EA4B49AB2087CCB426343D"><enum>(B)</enum><text>to receive an amount for that fiscal year that is determined in accordance with subsection (e) for that fiscal year.</text>
+ </subparagraph></paragraph><paragraph id="id59C981D76AE2492485387A203D08D644"><enum>(2)</enum><header>Effect</header><text>On making an election under paragraph (1), a State—</text>
+ <subparagraph id="idA2E90853B1F2488EA595BE7BFB589921"><enum>(A)</enum><text>assumes all Federal obligations relating to each program that is the subject of the election; and</text>
+ </subparagraph><subparagraph id="idFE3894D8384F418294145B49D7143716"><enum>(B)</enum><text>shall fulfill those obligations using the amounts transferred to the State under subsection (e).</text>
+								</subparagraph></paragraph></subsection><subsection id="id53A6C77CA12F47DEAFDBC098FC92FD13"><enum>(c)</enum><header>State
+				responsibility</header>
+							<paragraph id="id32119A71CE5B49D4A4B3F8161891DE20"><enum>(1)</enum><header>In
+ general</header><text>The Governor of a State making an election under subsection (b) shall—</text>
+ <subparagraph id="id616F6A6F4E0D4450873DF37BA93F7289"><enum>(A)</enum><text>agree to maintain the Interstate System in accordance with the current Interstate System program;</text>
+ </subparagraph><subparagraph id="id4A564AE1DCBE4A8E910DE5794E959235"><enum>(B)</enum><text>submit a plan to the Secretary describing—</text>
+ <clause id="idCD827DED90D04D6B8EF8F42187A9A860"><enum>(i)</enum><text>the purposes, projects, and uses to which amounts received under the program will be put; and</text>
+ </clause><clause id="id8DBD404E6F634B6EB89999F22A72AB07"><enum>(ii)</enum><text>which programmatic requirements of this title the State elects to continue;</text>
+ </clause></subparagraph><subparagraph id="id53CF2925F0C241FD9DDDA1A721B9384A"><enum>(C)</enum><text>agree to obligate or expend amounts received under the direct Federal-aid highway program exclusively for projects that would be eligible for funding under section 133(b) if the State was not participating in the program; and</text>
+ </subparagraph><subparagraph id="id1C9FAA0E560C4C27952E8C892C62E6FA"><enum>(D)</enum><text>agree to report annually to the Secretary on the use of amounts received under the direct Federal-aid highway program and to make the report available to the public in an easily accessible format.</text>
+								</subparagraph></paragraph><paragraph id="idCFC1B8A2109047E5AF6E7B9D4E62C23F"><enum>(2)</enum><header>No Federal
+ limitation on use of funds</header><text>Except as provided in paragraph (1), the expenditure or obligation of funds received by a State under the direct Federal-aid highway program shall not be subject to any Federal regulation under this title (except for this section), title 49, or any other Federal law.</text>
+							</paragraph><paragraph id="id38EA2FA574284580B9EDE57E3A7241CB"><enum>(3)</enum><header>Election
+ irrevocable</header><text>An election under subsection (b) shall be irrevocable during the applicable fiscal year.</text>
+							</paragraph></subsection><subsection id="idDDF03BF4C05342C2A981D301F772EF18"><enum>(d)</enum><header>Effect on
+ preexisting commitments</header><text>The making of an election under subsection (b) shall not affect any responsibility or commitment of the State under this title for any fiscal year with respect to—</text>
+ <paragraph id="id1EF07C1143054E81BE0951451AA47E95"><enum>(1)</enum><text>a project or program funded under this title (other than under this section); or</text>
+ </paragraph><paragraph id="id81130F040A5C4BAABA970FFE94716507"><enum>(2)</enum><text>any project or program funded under this title in any fiscal year for which an election under subsection (b) is not in effect.</text>
+							</paragraph></subsection><subsection id="idB6D72DAB60B04248A7357B72A71E85E9"><enum>(e)</enum><header>Transfers</header>
+							<paragraph id="id3B6BEF65434847828F3CF2F12BBBBF6A"><enum>(1)</enum><header>In
+ general</header><text>The amount to be transferred to a State under the direct Federal-aid highway program for a fiscal year shall be the portion of the taxes appropriated to the Highway Trust Fund under <external-xref legal-doc="usc" parsable-cite="usc/26/9503">section 9503</external-xref> of the Internal Revenue Code of 1986, other than for the Mass Transit Account, for that fiscal year that is attributable to highway users in that State during that fiscal year, reduced by a pro rata share withheld by the Secretary to fund contract authority for programs of the National Highway Traffic Safety Administration and the Federal Motor Carrier Safety Administration.</text>
+							</paragraph><paragraph id="id41CCEFF808D44815A3823D12228E40C9"><enum>(2)</enum><header>Transfers under
+				program</header>
+								<subparagraph id="idA5C4EA66CB774416AB1482CAB5911C16"><enum>(A)</enum><header>In
+ general</header><text>Transfers under the program—</text> <clause id="id33A88C025E38411087E9887E6A79DA59"><enum>(i)</enum><text>shall be made at the same time as deposits to the Highway Trust Fund are made by the Secretary of the Treasury; and</text>
+ </clause><clause id="id4B5E96242DE74308A6C639A4201A0861"><enum>(ii)</enum><text>shall be made on the basis of estimates by the Secretary, in consultation with the Secretary of the Treasury, based on the most recent data available, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess of, or less than, the amounts required to be transferred.</text>
+									</clause></subparagraph><subparagraph id="id17788A3200654B5EB95FA32103EAA9B8"><enum>(B)</enum><header>Limitation</header>
+ <clause id="id6129AC541D074159A9EF0BABECB3783F"><enum>(i)</enum><header>In general</header><text>An adjustment under subparagraph (A)(ii) to any transfer may not exceed 5 percent of the transferred amount to which the adjustment relates.</text>
+ </clause><clause id="id7F02322D66144243A6AD261C4C051B72"><enum>(ii)</enum><header>Adjustment greater than 5 percent</header><text>If the adjustment required under subparagraph (A)(ii) exceeds the percentage described in clause (i), the excess shall be taken into account in making subsequent adjustments under subparagraph (A)(ii).</text>
+									</clause></subparagraph></paragraph></subsection><subsection id="id7590A800F03C432082F5210D0DC19E11"><enum>(f)</enum><header>Application
+ with other authority</header><text>Any contract authority under this chapter (and any obligation limitation) authorized for a State for a fiscal year for which an election by that State is in effect under subsection (b)—</text>
+ <paragraph id="id447A0908F6174C5EB13D1F36CF08856E"><enum>(1)</enum><text>shall be rescinded or canceled; and</text>
+ </paragraph><paragraph id="id16CF634934AA4239953D2923E0F06FC6"><enum>(2)</enum><text>shall not be reallocated or distributed to any other State under the Federal-aid highway program.</text>
+							</paragraph></subsection><subsection id="ID141b1122a76d40398d17685cc38ab6df"><enum>(g)</enum><header>Maintenance of
+				effort</header>
+							<paragraph id="id31B3E14CAF73449080F41164540D097F"><enum>(1)</enum><header>In
+ general</header><text>Not later than 30 days after the date on which an amount is distributed to a State or State agency under the State Highway Flexibility Act or an amendment made by that Act, the Governor of the State shall certify to the Secretary that the State will maintain the effort of the State with regard to State funding for the types of projects that are funded by the amounts.</text>
+ </paragraph><paragraph id="id464765BCE96349979DADBC1161C82DB7"><enum>(2)</enum><header>Amounts</header><text>As part of the certification, the Governor shall submit to the Secretary a statement identifying the amount of funds the State plans to expend from State sources during the covered period, for the types of projects that are funded by the amounts.</text>
+							</paragraph></subsection><subsection id="idF96B30F7505846699ADC6A6D2E04DDF6"><enum>(h)</enum><header>Treatment of
+ general revenues</header><text>For purposes of this section, any general revenue funds appropriated to the Highway Trust Fund shall be transferred to a State under the program in the manner described in subsection (e)(1).</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="id5DF9B267DDFE4BF9B566F08B95C609D1"><enum>(b)</enum><header>Conforming
+ amendment</header><text>The analysis for title 23, United States Code, is amended by inserting after the item relating to section 610 the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id2ABB6D046CED4648B8CF77C106CD07C0" style="OLC"><toc><toc-entry bold="off" level="section">611. Direct Federal-aid highway
+				program.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="id87D337D1E3C942EA8A8D3F15E5B5DE8C"><enum>3.</enum><header>Alternative
+			 funding of public transportation programs</header>
+			<subsection id="id97927A2AD2D14EAF82E106BE3323899A"><enum>(a)</enum><header>In
+ general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/53">Chapter 53</external-xref> of title 49, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id88432B6F8A11414AB7FB8743A9F2D4C0" style="USC">
+					<section id="id145F1C0276E54031AB5B38CEF43C8DAF"><enum>5341.</enum><header>Alternative
+				funding of public transportation programs</header>
+ <subsection id="id323D38C750B945DBBE5D580764885D2A"><enum>(a)</enum><header>Definitions</header><text>In this section—</text>
+							<paragraph id="id8489B3D1E86740AC8894A3BA7FB9EE66"><enum>(1)</enum><header>Alternative
+ funding program</header><text>The term <term>alternative funding program</term> means the program established under subsection (c).</text>
+							</paragraph><paragraph id="idDBEE30C4CF54469A8738B92E5D1C8402"><enum>(2)</enum><header>Covered
+ programs</header><text>The term <term>covered programs</term> means the programs authorized under—</text>
+ <subparagraph id="id675AAF654F324AB29CEA5B8F5C560C77"><enum>(A)</enum><text>sections 5305, 5307, 5309, 5310, 5311, 5335, 5339, and 5340; and</text>
+ </subparagraph><subparagraph id="idDA6332BB9D8549CBB855A76E998EDC83"><enum>(B)</enum><text>section 3038 of the Federal Transit Act of 1998 (<external-xref legal-doc="usc" parsable-cite="usc/49/5310">49 U.S.C. 5310</external-xref> note).</text>
+								</subparagraph></paragraph></subsection><subsection id="id974E6D5C0EA94FB0966F95032B9CE5B4"><enum>(b)</enum><header>Election by
+				State not To participate</header>
+							<paragraph id="idF46239321C44493DA47CDA4D1A28B5A8"><enum>(1)</enum><header>In
+ general</header><text>Notwithstanding any other provision of law, a State may elect not to participate in all Federal programs relating to public transportation funded under the Mass Transit Account of the Highway Trust Fund, including the Federal public transportation programs under the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (<external-xref legal-doc="public-law" parsable-cite="pl/109/59">Public Law 109–59</external-xref>; 119 Stat. 1144), the Moving Ahead for Progress in the 21st Century Act (<external-xref legal-doc="public-law" parsable-cite="pl/112/141">Public Law 112–141</external-xref>; 126 Stat. 405), title 23, or this title.</text>
+ </paragraph><paragraph id="idEECC69C59C2B4410A844A1097B332889"><enum>(2)</enum><header>Effect</header><text>On making an election under paragraph (1), a State—</text>
+ <subparagraph id="id1A23970C68C44E88BD83312D38012EF5"><enum>(A)</enum><text>assumes all Federal obligations relating to each program that is the subject of the election; and</text>
+ </subparagraph><subparagraph id="id840606B62A174FFA8116EB3E6AF26B7C"><enum>(B)</enum><text>shall fulfill those obligations using the amounts transferred to the State under subsection (e).</text>
+								</subparagraph></paragraph></subsection><subsection id="idEC55514260BE40B4AD42A3CCF7F39B64"><enum>(c)</enum><header>Public
+				transportation program</header>
+							<paragraph id="id5EF594BA44A847458EE4B8B43231B2DB"><enum>(1)</enum><header>Program
+ established</header><text>Beginning in fiscal year 2015, the Secretary shall carry out an alternative funding program under which the legislature of a State may elect, not fewer than 90 days before the beginning of a fiscal year—</text>
+ <subparagraph id="idAA71694A542B40CE90E840936CF9AD96"><enum>(A)</enum><text>to waive the right of the State to receive amounts apportioned or allocated to the State under the covered programs for the fiscal year to which the election relates; and</text>
+ </subparagraph><subparagraph id="id33D1FF839BA14D098E0A00E547261D56"><enum>(B)</enum><text>to receive an amount for that fiscal year that is determined in accordance with subsection (e).</text>
+								</subparagraph></paragraph><paragraph id="id971AD9955D6442F0B2EFF9B16F323553"><enum>(2)</enum><header>Program
+				requirements</header>
+								<subparagraph id="id504587837CE649E796EEBBCB55C17276"><enum>(A)</enum><header>In
+ general</header><text>The Governor of a State that participates in the alternative funding program shall—</text>
+ <clause id="id1949874B1CA84EAC9369E80F382F1072"><enum>(i)</enum><text>submit a plan to the Secretary describing—</text>
+ <subclause id="id142939E233284684BD6A1D065D569FB7"><enum>(I)</enum><text>the purposes, projects, and uses to which amounts received under the alternative funding program will be put; and</text>
+ </subclause><subclause commented="no" id="id493802E22F3743EDA0CD454CC3874198"><enum>(II)</enum><text>which programmatic requirements of this title the State elects to continue;</text>
+ </subclause></clause><clause id="idA5BD38FF37AD41AE8EAA4728D9467BA5"><enum>(ii)</enum><text>agree to obligate or expend amounts received under the alternative funding program exclusively for projects that would be eligible for funding under the covered programs if the State was not participating in the alternative funding program; and</text>
+ </clause><clause id="idB8C4F5B19AB64263BF450B3C5B4205B9"><enum>(iii)</enum><text>submit to the Secretary an annual report on the use of amounts received under the alternative funding program, and to make the report available to the public in an easily accessible format.</text>
+									</clause></subparagraph><subparagraph id="id598B7643C884446E82136D7CAF703DA3"><enum>(B)</enum><header>No Federal
+ limitation on use of funds</header><text>Except as provided in subparagraph (A), the expenditure or obligation of funds received by a State under the alternative funding program shall not be subject to the provisions of this title (except for this section), title 23, or any other Federal law.</text>
+								</subparagraph></paragraph><paragraph id="id9E9FC1CB5FD0423185AE649E39CBB3C3"><enum>(3)</enum><header>Election
+ irrevocable</header><text>An election under paragraph (1) shall be irrevocable during the applicable fiscal year.</text>
+							</paragraph></subsection><subsection id="id28963102911E41A192101417F9166888"><enum>(d)</enum><header>Effect on
+ preexisting commitments</header><text>Participation in the alternative funding program shall not affect any responsibility or commitment of the State under this title for any fiscal year with respect to—</text>
+ <paragraph id="id56DF4903EA0F452690502CA121235490"><enum>(1)</enum><text>a project or program funded under this title (other than under this section); or</text>
+ </paragraph><paragraph id="id54BF4BB30A3B49169A412F6B2C0DDA77"><enum>(2)</enum><text>any project or program funded under this title in any fiscal year for which the State elects not to participate in the alternative funding program.</text>
+							</paragraph></subsection><subsection id="idC11A42C6E29A46F28D4B79E833DF7602"><enum>(e)</enum><header>Transfers</header>
+							<paragraph id="id79229D7D03C74077BCBE003E5F7869DF"><enum>(1)</enum><header>In
+ general</header><text>The amount to be transferred to a State under the alternative funding program for a fiscal year shall be the portion of the taxes transferred to the Mass Transit Account of the Highway Trust Fund under <external-xref legal-doc="usc" parsable-cite="usc/26/9503">section 9503(e)</external-xref> of the Internal Revenue Code of 1986, for that fiscal year, that is attributable to highway users in that State during that fiscal year.</text>
+							</paragraph><paragraph id="id38EED4019440477484B66A8C02FA8E2D"><enum>(2)</enum><header>Transfers</header>
+								<subparagraph id="id2920A20E86E949F6A8ACB317DE8C461A"><enum>(A)</enum><header>In
+ general</header><text>Transfers under the program—</text> <clause id="id02626C65A84B422CA46609E20329C56A"><enum>(i)</enum><text>shall be made at the same time as transfers to the Mass Transit Account of the Highway Trust Fund are made by the Secretary of the Treasury; and</text>
+ </clause><clause id="id4901F7BD2C6F4BFA9BEFBC09E50B7605"><enum>(ii)</enum><text>shall be made on the basis of estimates by the Secretary, in consultation with the Secretary of the Treasury, based on the most recent data available, and proper adjustments shall be made in amounts subsequently transferred, to the extent prior estimates were in excess of, or less than, the amounts required to be transferred.</text>
+									</clause></subparagraph><subparagraph id="id46C6D3E86C5F4F75894021256D349169"><enum>(B)</enum><header>Limitation</header>
+ <clause id="idE37A25B93F8D4585AB7ECAB2DABD8D75"><enum>(i)</enum><header>In general</header><text>An adjustment under subparagraph (A)(ii) to any transfer may not exceed 5 percent of the transferred amount to which the adjustment relates.</text>
+ </clause><clause id="idBFC56E53FCBF464781A863D4A6FB2F44"><enum>(ii)</enum><header>Adjustment greater than 5 percent</header><text>If the adjustment required under subparagraph (A)(ii) exceeds the percentage described in clause (i), the excess shall be taken into account in making subsequent adjustments under subparagraph (A)(ii).</text>
+									</clause></subparagraph></paragraph></subsection><subsection commented="no" id="idAE055D31D2854AD2A2F884960B957702"><enum>(f)</enum><header>Contract
+ authority</header><text>There shall be rescinded or canceled any contract authority under this chapter (and any obligation limitation) authorized for a State for a fiscal year for which the State elects to participate in the alternative funding program.</text>
+						</subsection><subsection id="id9FEF87A1C44A433C97445E4A2FE355F3"><enum>(g)</enum><header>Maintenance of
+				effort</header>
+							<paragraph id="id3FEE0B80511F4517843A2B31C0F9B236"><enum>(1)</enum><header>In
+ general</header><text>Not later than 30 days after the date on which an amount is distributed to a State or State agency under the State Highway Flexibility Act or an amendment made by that Act, the Governor of the State shall certify to the Secretary that the State will maintain the effort of the State with regard to State funding for the types of projects that are funded by the amounts.</text>
+ </paragraph><paragraph id="id5447DB09D30541AEABCFF06339F32AF3"><enum>(2)</enum><header>Amounts</header><text>The certification under paragraph (1) shall include a statement identifying the amount of funds the State plans to expend from State sources for projects funded under the alternative funding program, during the fiscal year for which the State elects to participate in the alternative funding program.</text>
+							</paragraph></subsection><subsection id="id2A4DEAB109AB4C3A82D8EB2CA939BA8C"><enum>(h)</enum><header>Treatment of
+ general revenues</header><text>For purposes of this section, any general revenue funds appropriated to the Highway Trust Fund shall be transferred to a State under the program in the manner described in subsection (e).</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="id0CCFFDFBDA004F34A4F3890DA265E0B3"><enum>(b)</enum><header>Conforming
+ amendment</header><text>The analysis for title 49, United States Code, is amended by inserting after the item relating to section 5340 the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id70E51919FAC246A9AB556669FABA9DCE" style="OLC"><toc><toc-entry bold="off" level="section">5341. Alternative funding of
+				public transportation
+				programs.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section></legis-body></bill>
+
+

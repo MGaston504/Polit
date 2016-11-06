@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1567 IS: To amend title 10, United States Code, to provide for a review of the characterization or terms of discharge from the Armed Forces of individuals with mental health disorders alleged to affect terms of discharge.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-06-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1567</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150611">June 11, 2015</action-date>
+			<action-desc><sponsor name-id="S380">Mr. Peters</sponsor> (for himself, <cosponsor name-id="S375">Mr. Daines</cosponsor>, and <cosponsor name-id="S384">Mr. Tillis</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSAS00">Committee on Armed Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 10, United States Code, to provide for a review of the characterization or terms of
+			 discharge from the Armed Forces of
+			 individuals with mental
+			 health disorders alleged to affect terms of discharge.</official-title>
+	</form>
+	<legis-body>
+		<section id="idA61E1EF53EE243349B0B478D0001946E" section-type="section-one"><enum>1.</enum><header>Review of characterization or terms of discharge from the Armed Forces of individuals with mental
+ health disorders alleged to affect terms of discharge</header><text display-inline="no-display-inline">Section 1553(d) of title 10, United States Code, is amended by adding at the end the following new paragraph:</text>
+			<quoted-block display-inline="no-display-inline" id="idBD58A04065F04DFC8B2527CF3BCBF940" style="OLC">
+ <paragraph id="idef83924c7f4145ba9c9e10f26faef6f2" indent="up1"><enum>(3)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="idED9477D2DD4E476F97992A4B1C991943"><enum>(A)</enum><text>In addition to the requirements of paragraphs (1) and (2), in the case of a former member described in subparagraph (B), the board shall—</text>
+ <clause id="id4f09c43160124fa0a9a6c3b62d2bbaf2" indent="up1"><enum>(i)</enum><text>review medical evidence of the Secretary of Veterans Affairs or a civilian health care provider that is presented by the former member; and</text>
+ </clause><clause id="id1336d4ac56ab4f86b34ecc5db0b032d1" indent="up1"><enum>(ii)</enum><text>review the case with a rebuttable presumption in favor of the former member that post-traumatic stress disorder or traumatic brain injury materially contributed to the circumstances resulting in the discharge of a lesser characterization.</text>
+ </clause></subparagraph><subparagraph id="id79b060cf3e3d48b3bacc02c78200489c" indent="up1"><enum>(B)</enum><text>A former member described in this subparagraph is a former member described in paragraph (1) or a former member whose application for relief is based in whole or in part on matters relating to post-traumatic stress disorder or traumatic brain injury as supporting rationale or as justification for priority consideration whose post-traumatic stress disorder or traumatic brain injury is related to combat or military sexual trauma, as determined by the Secretary concerned.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

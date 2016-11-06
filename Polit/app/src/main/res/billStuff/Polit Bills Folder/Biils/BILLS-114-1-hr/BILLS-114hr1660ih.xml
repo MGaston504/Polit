@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HD3B37F23B9D448ABA4D0A0785FC19218" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1660 IH: Federal Savings Association Charter Flexibility Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1660</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150326">March 26, 2015</action-date> 
+<action-desc><sponsor name-id="R000598">Mr. Rothfus</sponsor> (for himself and <cosponsor name-id="H001047">Mr. Himes</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Home Owners’ Loan Act to allow Federal savings associations to elect to operate as national banks, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H26E0AB7F71814618BE5BB896B2DC00B2" style="OLC"> 
+<section id="H57B1C53B91564621A4675F46555CEA20" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Federal Savings Association Charter Flexibility Act of 2015</short-title></quote>.</text></section> <section id="H2D109A96DD2A444A914620D6CEF287AA"><enum>2.</enum><header>Option for Federal savings associations to operate as a covered savings association</header><text display-inline="no-display-inline">The Home Owners’ Loan Act is amended by inserting after section 5 (<external-xref legal-doc="usc" parsable-cite="usc/12/1464">12 U.S.C. 1464</external-xref>) the following:</text> 
+<quoted-block id="HBE68AE6BB6154F3CBB3086687D0CB022" style="OLC"> 
+<section id="H8F78E7279D53497586D22419F63D14BF"><enum>5A.</enum><header>Election to operate as a covered savings association</header> 
+<subsection id="H5D4FD7336EE04037B30A9CB5884698BA"><enum>(a)</enum><header>Definition</header><text>In this section, the term <term>covered savings association</term> means a Federal savings association that makes an election approved under subsection (b).</text></subsection> <subsection id="H5840753BD2A94DC8B109BCDA4E2BB514"><enum>(b)</enum><header>Election</header> <paragraph id="H4601F8C7FD1C403980EAD4E3ACC014D9"><enum>(1)</enum><header>In general</header><text>Upon issuance of the rules described in subsection (f), a Federal savings association may elect to operate as a covered savings association by submitting a notice to the Comptroller of such election.</text></paragraph> 
+<paragraph id="H04A0D33895A744BBB027F33C5FC58342"><enum>(2)</enum><header>Approval</header><text>A Federal savings association shall be deemed to be approved to operate as a covered savings association on the date that is 60 days after the date on which the Comptroller receives the notice under paragraph (1), unless the Comptroller notifies the Federal savings association otherwise.</text></paragraph></subsection> <subsection id="HA5C0C25023944473AAB6A1D8D187D5F7"><enum>(c)</enum><header>Rights and duties</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law and except as otherwise provided in this section, a covered savings association shall—</text> 
+<paragraph id="H6D84FBAA2A214E9B8EA030B6F4DC9F68"><enum>(1)</enum><text>have the same rights and privileges as a national bank that has its main office situated in the same location as the home office of the covered savings association; and</text></paragraph> <paragraph id="H778FD76FFD8B49BC9CB6BEEFB1C5C441"><enum>(2)</enum><text>be subject to the same duties, restrictions, penalties, liabilities, conditions, and limitations that would apply to such a national bank.</text> </paragraph> </subsection> 
+<subsection id="H9082CAF1B1B44A999FC1D9A2901A3778"><enum>(d)</enum><header>Treatment of covered savings associations</header><text display-inline="yes-display-inline">A covered savings association shall be treated as a Federal savings association for the purposes—</text> <paragraph id="H62725F1D698D4C48852350F7DAE5A7F4"><enum>(1)</enum><text display-inline="yes-display-inline">of governance of the covered savings association, including incorporation, bylaws, boards of directors, shareholders, and distribution of dividends;</text></paragraph> 
+<paragraph id="HBBA896280DFF49288468ABE687E392E2"><enum>(2)</enum><text>of consolidation, merger, dissolution, conversion (including conversion to a stock bank or to another charter), conservatorship, and receivership; and</text></paragraph> <paragraph id="H75F94EA1FD344EE19A4748286C2AB44E"><enum>(3)</enum><text>determined by regulation of the Comptroller.</text></paragraph></subsection> 
+<subsection id="H9D297370D1794B56851CC561F865910C"><enum>(e)</enum><header>Existing branches</header><text display-inline="yes-display-inline">A covered savings association may continue to operate any branch or agency the covered savings association operated on the date on which an election under subsection (b) is approved.</text></subsection> <subsection id="H5843BC73420044BA8B4B7F2CB8018C01"><enum>(f)</enum><header>Rulemaking</header><text display-inline="yes-display-inline">The Comptroller shall issue rules to carry out this section—</text> 
+<paragraph id="H534D961D6399474BB2B73704221151C7"><enum>(1)</enum><text>that establish streamlined standards and procedures that clearly identify required documentation or timelines for an election under subsection (b);</text></paragraph> <paragraph id="HFD6CF0E30EE84CC2BFA9736F1FCC3C6F" commented="no"><enum>(2)</enum><text display-inline="yes-display-inline">that require a Federal savings association that makes an election under subsection (b) to identify specific assets and subsidiaries—</text> 
+<subparagraph id="H4014C7EB035047F58863722C6E3F89F5" commented="no"><enum>(A)</enum><text>that do not conform to the requirements for assets and subsidiaries of a national bank; and</text></subparagraph> <subparagraph id="H9AB199E70B794E2CA6A2E4A7E4370405" commented="no"><enum>(B)</enum><text>that are held by the Federal savings association on the date on which the Federal savings association submits a notice of such election;</text></subparagraph> </paragraph> 
+<paragraph id="HA31751B8F71440E2ACB0B10B08DF356F" commented="no"><enum>(3)</enum><text>that establish—</text> <subparagraph id="HD372F49B924946988390DE6289A43759" commented="no"><enum>(A)</enum><text>a transition process for bringing such assets and subsidiaries into conformance with the requirements for a national bank; and</text></subparagraph> 
+<subparagraph id="HA36D131CB35D44C6801D041560172CAE" commented="no"><enum>(B)</enum><text display-inline="yes-display-inline">procedures for allowing the Federal savings association to provide a justification for grandfathering such assets and subsidiaries after electing to operate as a covered savings association;</text></subparagraph></paragraph> <paragraph id="H39B8614BB00E4F0FAEF1AFF8F1C04DD0"><enum>(4)</enum><text display-inline="yes-display-inline">that establish standards and procedures to allow a covered savings association to terminate an election under subsection (b) after an appropriate period of time or to make a subsequent election;</text></paragraph> 
+<paragraph id="H4E3B87CB9C06452BBD95CBB0310B248D"><enum>(5)</enum><text display-inline="yes-display-inline">that clarify requirements for the treatment of covered savings associations, including the provisions of law that apply to covered savings associations; and</text></paragraph> <paragraph id="H55651DEA93A340FF81F0F8BF65DE9D58"><enum>(6)</enum><text>as the Comptroller deems necessary and in the interests of safety and soundness.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body> 
+</bill> 
+
+

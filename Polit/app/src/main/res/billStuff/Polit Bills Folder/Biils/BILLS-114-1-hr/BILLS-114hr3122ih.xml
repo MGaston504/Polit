@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H85A90344DBA74E33868A00DDC00D7A58" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3122 IH: The Veterans Administration Legislative and Objective Review Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3122</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150721">July 21, 2015</action-date>
+			<action-desc><sponsor name-id="H001060">Mr. Hurt of Virginia</sponsor> (for himself, <cosponsor name-id="W000799">Mr. Walz</cosponsor>, and <cosponsor name-id="R000582">Mr. Roe of Tennessee</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to enter into a
+			 contract with a non-government entity for the conduct of biannual audits
+			 of Department of Veterans Affairs health care functions, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="H96681ECFE71B44D6992EB34A6D3D1449" style="OLC">
+ <section id="HBD83C1E02B124AA2A20C5B363CA02D77" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>The Veterans Administration Legislative and Objective Review Act of 2015</short-title></quote> or <quote><short-title>VALOR Act of 2015</short-title></quote>.</text> </section><section id="H06E1E965D58C441CB59AA22671B84646" section-type="subsequent-section"><enum>2.</enum><header>Biannual independent audits of health care functions of Department of Veterans Affairs</header> <subsection id="H0EA86938BFE049989771EE8EFC667F10"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/17">chapter 17</external-xref> of title 38, United States Code, is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="H98618AF6477E474F96E1005E93506944" style="USC">
+					<section id="HC0319AEB60BA4E45BBAF5AE48E67B9A6"><enum>1709B.</enum><header>Biannual audits of Department health care functions</header>
+ <subsection id="H77808850AEBC47A19436436C4A4454B0"><enum>(a)</enum><header>Biannual audits required</header><text display-inline="yes-display-inline">The Secretary shall enter into a contract with an appropriate non-government entity for the conduct of a biannual audit of all functions of the Department related to the furnishing of health care by the Department. Such entity shall provide a report on the results of each biannual audit conducted under this section, which shall be made publicly available on an Internet website of the Department. Each such report shall include an assessment of each of the following:</text>
+ <paragraph id="H5962F80DA21848988EE6B2C8F7EE9853"><enum>(1)</enum><text display-inline="yes-display-inline">The current and projected demographics and unique health care needs of the patient population of the Department, as well as the unique health care needs of veterans living in rural areas.</text>
+ </paragraph><paragraph id="H2FA7996FA8E34EB9983B13DB6DFA249C"><enum>(2)</enum><text>The current and projected health care capabilities and resources of the Department.</text> </paragraph><paragraph id="H4F398FB754D64F48B91FC3C8585CF526"><enum>(3)</enum><text>The use of authorities granted to the Secretary to furnish hospital care and medical services at non-Department facilities.</text>
+ </paragraph><paragraph id="HB88066D02CC84165B74EDAF76B8DCE91"><enum>(4)</enum><text>The appropriate system-wide access standard applicable to health care furnished by and through the Department.</text>
+ </paragraph><paragraph id="HE33EEEE6E38D4BFF91CE083629BA692F"><enum>(5)</enum><text>The workflow efficiency and processes at each medical facility of the Department for scheduling appointments for veterans.</text>
+ </paragraph><paragraph id="H952966DEB09C4AC0AFB9D0DBD13E62EE"><enum>(6)</enum><text>The organization, workflow processes, and tools used by the Department to support clinical staffing, access to care, effective length-of-stay management and care transitions, positive patient experience, accurate documentation, and subsequent coding of inpatient services.</text>
+ </paragraph><paragraph id="H611CB27DCD0A45FA975C16C009E34ADD"><enum>(7)</enum><text>The staffing level and productivity of each medical facility of the Department.</text> </paragraph><paragraph id="H8981AC9FBAB84706AF84FB702C6CDAF5"><enum>(8)</enum><text>The progress of the Department with respect to the use of information technology for furnishing and managing health care.</text>
+ </paragraph><paragraph id="H6C4A66C0F0E047638C295C094DDB27F7"><enum>(9)</enum><text>The business processes of the Veterans Health Administration.</text> </paragraph><paragraph id="HE2313E7AC65B4D0B807B6F63BEFB31A9"><enum>(10)</enum><text>The purchasing, distribution, and use of pharmaceuticals, medical and surgical supplies, medical devices, and health care related services by the Department.</text>
+ </paragraph><paragraph id="HF98FEBE272C1442EBEF9C3EF3D331411"><enum>(11)</enum><text>The progress of the Department with respect to construction and maintenance projects at medical facilities of the Department and the use of medical facility leases.</text>
+ </paragraph><paragraph id="H1E3702348CE84AADA0E0F5F04FAA6180"><enum>(12)</enum><text>The effectiveness of the leadership of the Department in executing their management responsibilities and implementing reforms of previous audits.</text>
+ </paragraph><paragraph id="H99F6D03F72424AF1810987FD1CB51CFF"><enum>(13)</enum><text>The progress of the Department with respect to implementing recommended reforms resulting from previous evaluations.</text>
+ </paragraph><paragraph id="H900C1AC16CA64D1D87DE9205A271296D"><enum>(14)</enum><text>Such other matters as the non-government entity determines relevant.</text> </paragraph><paragraph id="H53F8C4D8BAD444C988DBF3B869CBF58F"><enum>(15)</enum><text>Recommendations on how the Department can make changes to be more effective in delivering quality and timely care to veterans.</text>
+ </paragraph></subsection><subsection id="HBD0FF5B3945F4612BEFB29BD645180BB"><enum>(b)</enum><header>Report to Congress</header><text display-inline="yes-display-inline">Not later than 120 days after receiving a report under subsection (a), the Secretary shall submit to Congress a report on the results of the audit covered by the report. Each such report shall include the findings of the audit and the plans of the Secretary to address such findings and make improvements to the functions of the Department based on such findings.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H6B40FA54166C49B5AA48BA0E0D987127"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of such section is amended by inserting after the item relating to section 1709A the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H75A97C820E3E42218CE954197352A89A" style="USC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">1709B. Biannual audits of Department health care functions</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H6C2677B93119440290AC8AB13F58A04B"><enum>(c)</enum><header>Deadline for implementation</header><text>The Secretary of Veterans Affairs shall enter into a contract for the conduct of the audit required under section 1709B of title 38, United States Code, as added by subsection (a), by not later than January 1, 2017.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

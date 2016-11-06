@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6DF72C9CC48346A68DAB2B42BF16E795" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1996 IH: No Social Security Numbers and Benefits for Illegal Aliens Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1996</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150423">April 23, 2015</action-date>
+			<action-desc><sponsor name-id="J000174">Mr. Sam Johnson of Texas</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title II of the Social Security Act to prohibit the assignment of social security account
+			 numbers to certain individuals seeking employment in the United States,
+			 and for other purposes.</official-title>
+	</form>
+	<legis-body id="H36B3CB3D6C754E61B12E3564F4546E96" style="OLC">
+ <section id="HE33B62BAD6CE462D8574A91A6D8820A2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Social Security Numbers and Benefits for Illegal Aliens Act of 2015</short-title></quote>.</text> </section><section id="HE3CC154A10A14BD382094BBB1C19CE6C"><enum>2.</enum><header>Prohibition on assignment of social security account numbers to certain individuals seeking employment in the United States</header><text display-inline="no-display-inline">Section 205(c)(2)(B) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/405">42 U.S.C. 405(c)(2)(B)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HE458F73DC92A43B09D7B5D189CDD6EEB" style="OLC">
+ <clause id="HA5B3550641C44E4F96C053889FECC29C" indent="up3"><enum>(iv)</enum><text display-inline="yes-display-inline">Notwithstanding clause (i), the Commissioner of Social Security may not assign a social security account number to any individual who—</text>
+ <subclause id="H838B199A96814D9EBFE5FD95D94FA654"><enum>(I)</enum><text display-inline="yes-display-inline">receives deferred action on removal in accordance with—</text> <item id="HBBEC4CF75C2B49C2950906A4AC700DDF"><enum>(aa)</enum><text display-inline="yes-display-inline">the memorandum of the Secretary of Homeland Security dated June 15, 2012, and entitled <quote>Exercising Prosecutorial Discretion with Respect to Individuals Who Came to the United States as Children</quote>; or</text>
+ </item><item id="HAAC283A4139E4A9487056E264A574A10"><enum>(bb)</enum><text>the memorandum of the Secretary of Homeland Security dated November 20, 2014, and entitled <quote>Exercising Prosecutorial Discretion with Respect to Individuals Who Came to the United States as Children and with Respect to Certain Individuals Who Are the Parents of U.S. Citizens or Permanent Residents</quote>; and</text>
+ </item></subclause><subclause id="H845201CD5AC34C8F85A006E58EC8C66A"><enum>(II)</enum><text display-inline="yes-display-inline">would be subject to removal but for such memoranda.</text></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block> </section><section id="H10408206436447D79F28C98FD77CA4A1"><enum>3.</enum><header>Prohibition on payment of title II benefits</header> <subsection id="H8B03F15ED90D4B04A73333641E89F35F"><enum>(a)</enum><header>Fully insured and currently insured individuals</header><text display-inline="yes-display-inline">Section 214(c)(1) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/414">42 U.S.C. 414(c)(1)</external-xref>) is amended by striking <quote>subclause (I) or (III) of section 205(c)(2)(B)(i)</quote> and inserting <quote>subclause (I) or (III) of clause (i) of section 205(c)(2)(B) and clause (iv) of such section</quote>.</text>
+ </subsection><subsection id="H0C96BC95CA52446A82C057CB98F572DE"><enum>(b)</enum><header>Disability benefits</header><text display-inline="yes-display-inline">Section 223(a)(1)(C)(i) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/423">42 U.S.C. 423(a)(1)(C)(i)</external-xref>) is amended by striking <quote>subclause (I) or (III) of section 205(c)(2)(B)(i)</quote> and inserting <quote>subclause (I) or (III) of clause (i) of section 205(c)(2)(B) and clause (iv) of such section</quote>.</text>
+			</subsection></section><section id="HE7B772A375DE41E08D1616EB629C6CA1"><enum>4.</enum><header>Denial of credit toward benefits for earnings from unauthorized work</header>
+ <subsection id="H8465F15A998B4C5E9325F6A494535C49"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 214 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/414">42 U.S.C. 414</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H38F3E1D271A444AD884577ED9F1F896F" style="OLC">
+					<subsection id="H167B11ECCCF24058B9D65722A17AA07A"><enum>(d)</enum>
+ <paragraph commented="no" display-inline="yes-display-inline" id="HCEE5C702205146A1AF8F97B23693D404"><enum>(1)</enum><text>No quarters of coverage shall be credited for purposes of this section or section 223(a)(1)(A) for any calendar year in the case of any individual if—</text>
+ <subparagraph id="HF3E9C384508744B4B468741B314FB359" indent="up1"><enum>(A)</enum><text>on the last day of such year, such individual is not a citizen or national of the United States, and</text>
+ </subparagraph><subparagraph id="H5A75BB3914EE430AAA9C7CF4541317BD" indent="up1"><enum>(B)</enum><text>the Secretary of Homeland Security determines, pursuant to paragraph (2), that such individual was not authorized to be employed in the United States during any portion of such calendar year.</text>
+							</subparagraph></paragraph><paragraph id="HD171F9E484BB4558B8E6841D6C553F2A" indent="up1"><enum>(2)</enum>
+ <subparagraph commented="no" display-inline="yes-display-inline" id="H8D8E227E1FD9498881727B2C23124986"><enum>(A)</enum><text>The Secretary of Homeland Security shall enter into an agreement with the Commissioner to provide, in a form and manner specified by the Commissioner, such information as the Commissioner determines necessary to carry out the limitations on crediting quarters of coverage for years under paragraph (1).</text>
+ </subparagraph><subparagraph id="H898CB48CD94E4D0D810BF667C1146E19" indent="up1"><enum>(B)</enum><text display-inline="yes-display-inline">For the purpose of carrying out the Secretary’s duties under subparagraph (A), the Secretary of Homeland Security shall, in consultation with the Commissioner, develop and maintain the following information:</text>
+ <clause id="H9DADCBA979B04393A421CA048D2B84C2"><enum>(i)</enum><text display-inline="yes-display-inline">The name, social security account number, and date of birth of each individual who is authorized by the Secretary of Homeland Security or the Secretary of State to be employed in the United States.</text>
+ </clause><clause id="HC2733E6787EF46F28795A46ACC6C8246"><enum>(ii)</enum><text>The date on which each such authorization is granted.</text> </clause><clause id="HC61B3CD21C3647FCBC615D136F50208D"><enum>(iii)</enum><text>The date on which each such authorization is revoked or terminated.</text>
+ </clause><clause id="H36AD11F93CBF4B80AA684D9282E22B5D"><enum>(iv)</enum><text>The date of naturalization for each individual who becomes a naturalized citizen of the United States.</text>
+ </clause></subparagraph><subparagraph id="HA6C40EF45533485E9D126C7778C40DB7" indent="up1"><enum>(C)</enum><text display-inline="yes-display-inline">The information provided to the Commissioner under subparagraph (A) relating to years in which an individual was not authorized to be employed in the United States during any portion of a year shall be the final determination of the Secretary of Homeland Security after an opportunity for review or appeal under procedures which shall be established by the Secretary of Homeland Security and shall not be reviewable by the Commissioner.</text>
+ </subparagraph></paragraph><paragraph id="H200520F799E54C09B719329AA898F3FF" indent="up1"><enum>(3)</enum><text>Paragraph (1) shall not apply with respect to an individual who was assigned a social security account number prior to the date of the enactment of the <short-title>No Social Security Numbers and Benefits for Illegal Aliens Act of 2015</short-title>.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HBB59F545C7AF49E3AAF8BD8C2B69D351"><enum>(b)</enum><header>Disregard of earnings for years for which no quarter of coverage may be credited</header><text>Section 215(e) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/415">42 U.S.C. 415(e)</external-xref>) is amended—</text> <paragraph id="HB0BFB38BB1004EFFA34C04D0AFB6BE5C"><enum>(1)</enum><text>by striking <quote>and</quote> at the end of paragraph (1);</text>
+ </paragraph><paragraph id="H68C195C075B940C0ACBC94FBCF781F57"><enum>(2)</enum><text>by striking the period at the end of paragraph (2) and inserting <quote>; and</quote>; and</text> </paragraph><paragraph id="HF0A4F6E18E1F418E85A73E2B5C31F6D7"><enum>(3)</enum><text>by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H8640C50357F841269769740B5BBD3240" style="OLC">
+ <paragraph id="HBF9970C18C474E88813EEE17C9B32FE0"><enum>(3)</enum><text>in computing the average indexed monthly earnings of an individual, there shall not be counted any annual wages or self-employment income for any year for which no quarter of coverage may be credited to such individual as a result of the application of section 214(d)(1).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H1726F98CC03C4C4DB3DE655DB92F247D"><enum>(c)</enum><header>Transmission of information from Commissioner to Secretary</header><text display-inline="yes-display-inline">Section 205(c)(2) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/405">42 U.S.C. 405(c)(2)</external-xref>) is amended by adding at the end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="HA2B074B9010E4E61874C2A4770379F08" style="OLC">
+ <subparagraph id="H34EEB2630158457E8BA7B3ABDC0C6F9B" indent="up2"><enum>(I)</enum><text display-inline="yes-display-inline">The Commissioner and the Secretary of Homeland Security shall enter into an agreement to establish a system to transmit to the Secretary of Homeland Security any social security account number assigned to an individual after the date of the enactment of the <short-title>No Social Security Numbers and Benefits for Illegal Aliens Act of 2015</short-title>, and other identifying information relating to such individual, in any case in which such individual is not a citizen or national of the United States at the time of the assignment of such number to such individual. The Secretary of Homeland Security shall incorporate such number and other identifying information into all records of the Department of Homeland Security maintained with respect to such individual.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H8D77307E37F44E08BF514FCBCADE9931"><enum>(d)</enum><header>Effective dates</header>
+ <paragraph id="H23B73821656648D59907A68D674E4397"><enum>(1)</enum><text>Section 214(d)(1) of the Social Security Act (added by subsection (a)) shall be effective with respect to quarters of coverage credited for calendar years commencing after the date on which the Secretary of Homeland Security and the Commissioner certify, by publication in the Federal Register, that the system for developing and maintaining information pursuant to section 214(d)(2)(B) of the Social Security Act (added by subsection (a)) is operational.</text>
+ </paragraph><paragraph id="H643A0FC7EF064C9AB1F6A2C88CFFB766"><enum>(2)</enum><text display-inline="yes-display-inline">The Commissioner of Social Security and the Secretary of Homeland Security shall enter into the agreement described in section 205(c)(2) of the Social Security Act (added by subsection (c)) not later than 180 days after the date of the enactment of this Act.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

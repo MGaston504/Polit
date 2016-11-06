@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1338 IS: Small Hydropower Dependable Regulatory Order Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1338</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150514">May 14, 2015</action-date>
+			<action-desc><sponsor name-id="S363">Mr. King</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Power Act to provide licensing procedures for certain types of projects.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Hydropower Dependable Regulatory Order Act of 2015</short-title></quote> or the <quote><short-title>Small HyDRO Act of 2015</short-title></quote>.</text>
+ </section><section id="idDD5E11C5E32B4DD3A480EB1245474C0A"><enum>2.</enum><header>Licensing procedures for certain types of projects</header><text display-inline="no-display-inline">Part I of the Federal Power Act (<external-xref legal-doc="usc" parsable-cite="usc/16/792">16 U.S.C. 792 et seq.</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="idC448EA3ACA4546B3874EE80591AF865E" style="OLC">
+				<section id="idE87261A7B2EA489CAAD9AF31AC67180A"><enum>34.</enum><header>Licensing procedures for certain types of projects</header>
+ <subsection id="id1D4699CA2FED479A950BF287CF931959"><enum>(a)</enum><header>Definition of covered project</header><text>In this section, the term <quote>covered project</quote> means a project—</text> <paragraph id="idf9a69a56628c476c921327972c7fde01"><enum>(1)</enum><text>that does not alter the existing flowrate of the body of water the project is on; and</text>
+ </paragraph><paragraph id="id22D7F6F566A64C67BDCC4C78BF6D3B3E"><enum>(2)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="id765F11F085E34704929A0EA98575EE78"><enum>(A)</enum><text>that has a power production capacity that is not more than 5 megawatts; or</text> </subparagraph><subparagraph id="id55B43C9A76324B33A3FACBFDDAE6148E" indent="up1"><enum>(B)</enum><text>to power a nonpowered dam.</text>
+ </subparagraph></paragraph></subsection><subsection id="id273DADD022C3442DB1547021112CF8C9"><enum>(b)</enum><header>Special category of license</header><text>Notwithstanding any other provision of this part, a license with respect to a covered project shall only be issued in accordance with this section.</text>
+ </subsection><subsection id="id49767BECD83E4A75AF66B62B137E6CBF"><enum>(c)</enum><header>Application</header><text>An applicant for a license for a covered project under this section shall submit to the Commission an application for a license in such form and manner and requiring such information as the Commission may require.</text>
+ </subsection><subsection id="id094CE4A57EAB4FA896467CFCE6AC3B01"><enum>(d)</enum><header>Rebuttable presumption</header><text>In deciding whether to issue any license for a covered project under this section, there shall be a rebuttable presumption that the license be issued.</text>
+ </subsection><subsection id="id0B76C06B5672426CAA3F42D5D4BB1399"><enum>(e)</enum><header>Environmental compliance</header><text display-inline="yes-display-inline">For purposes of issuing a license under this section, if there is a conflict between any environmental analysis prepared by the Commission under the National Environmental Policy Act of 1969 (<external-xref legal-doc="usc" parsable-cite="usc/42/4321">42 U.S.C. 4321 et seq.</external-xref>) with respect to the covered project and any environmental analysis prepared by any other Federal or State agency under that Act, the Commission shall resolve the differences.</text>
+ </subsection><subsection id="idAA8E0EF8F26C44199063EA55D2FE0422"><enum>(f)</enum><header>Term of license</header><text>The term of a license for a covered project issued under this section shall be 10 years.</text> </subsection><subsection id="id72299186E7A84872BBFB701FA75EE7D0"><enum>(g)</enum><header>Deadline for issuance</header><text>Not later than 180 days after the date on which the Commission receives an application for a license for a covered project under subsection (c), the Commission shall—</text>
+ <paragraph id="id8EAC1C0F381D42FEAC114E414CEC6AFA"><enum>(1)</enum><text>approve the license and issue the license; or</text> </paragraph><paragraph id="id3EE0B24386ED4DD48C3A27E65CE7073F"><enum>(2)</enum><text>disapprove the license.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H44BA17FB816C4B4F9F377226171A2E83" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 589 IH: Senior Citizens Tax Elimination Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 589</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150128">January 28, 2015</action-date>
+			<action-desc><sponsor name-id="M001184">Mr. Massie</sponsor> (for himself, <cosponsor name-id="B001283">Mr. Bridenstine</cosponsor>, <cosponsor name-id="B001294">Mr. Blum</cosponsor>, <cosponsor name-id="D000621">Mr. DeSantis</cosponsor>, <cosponsor name-id="F000448">Mr. Franks of Arizona</cosponsor>, <cosponsor name-id="G000552">Mr. Gohmert</cosponsor>, <cosponsor name-id="J000296">Mr. Jolly</cosponsor>, and <cosponsor name-id="M001195">Mr. Mooney of West Virginia</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to repeal the inclusion in gross income of Social
+			 Security benefits.</official-title>
+	</form>
+	<legis-body id="HEE6E93DFC55D44C2B438FBEB0F2AB731" style="OLC">
+ <section display-inline="no-display-inline" id="H832FF7D5EE7546AFA1F9FA21D56B9C0A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Senior Citizens Tax Elimination Act</short-title></quote>.</text> </section><section id="H020D978CC60042518EA0CC3F5CCEF040"><enum>2.</enum><header>Repeal of inclusion in gross income of Social Security benefits</header> <subsection id="H2DF543EA64BC42AFA0A7FBD97CB209C7"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/86">Section 86</external-xref> of the Internal Revenue Code of 1986 (relating to social security benefits) is amended by adding at the end the following new subsection:</text>
+				<quoted-block id="HC1C00116A27E436DABD9E381C0E95D1A">
+ <subsection id="H6E29ECEA18714EAAA11B8BE5724E3F82"><enum>(g)</enum><header>Termination</header><text>This section shall not apply to any taxable year beginning after the date of the enactment of this subsection.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H60617475B837471D9FF539D4E9886F91"><enum>(b)</enum><header>Social Security trust funds held harmless</header>
+ <paragraph id="H84E277C505834DBAB0ECB4164548C2F6"><enum>(1)</enum><header>In general</header><text>There are hereby appropriated (out of any money in the Treasury not otherwise appropriated) for each fiscal year to each fund under the <act-name parsable-cite="SSA">Social Security Act</act-name> or the Railroad Retirement Act of 1974 an amount equal to the reduction in the transfers to such fund for such fiscal year by reason of <external-xref legal-doc="usc" parsable-cite="usc/26/86">section 86(g)</external-xref> of the Internal Revenue Code of 1986.</text>
+ </paragraph><paragraph id="H2B201B22A242471B8BD63679F68E586C"><enum>(2)</enum><header>No tax increases</header><text>It is the sense of the Congress that tax increases will not be used to provide the revenue necessary to carry out paragraph (1).</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

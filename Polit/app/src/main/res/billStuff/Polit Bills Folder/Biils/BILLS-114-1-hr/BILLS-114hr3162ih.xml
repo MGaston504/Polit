@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC3B1094ABCB4491983484027AD17EFCA" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3162 IH: Endangered Species Recovery Transparency Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3162</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150722">July 22, 2015</action-date>
+			<action-desc><sponsor name-id="C001093">Mr. Collins of Georgia</sponsor> (for himself, <cosponsor name-id="L000571">Mrs. Lummis</cosponsor>, <cosponsor name-id="N000182">Mr. Neugebauer</cosponsor>, <cosponsor name-id="H001058">Mr. Huizenga of Michigan</cosponsor>, <cosponsor name-id="A000369">Mr. Amodei</cosponsor>, <cosponsor name-id="L000569">Mr. Luetkemeyer</cosponsor>, <cosponsor name-id="T000467">Mr. Thompson of Pennsylvania</cosponsor>, and <cosponsor name-id="V000129">Mr. Valadao</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Endangered Species Act of 1973 to improve the disclosure of certain expenditures under
+			 that Act, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HD2DC3BC94FBB4DE9BF8E4392B1A766DD" style="OLC">
+ <section id="H988B1A3D87CB4D56B87669FAB5CC6097" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Endangered Species Recovery Transparency Act</short-title></quote>.</text> </section><section id="HDB199AC6EFBA41839332A5322A62FC87"><enum>2.</enum><header>Disclosure of expenditures under Endangered Species Act of 1973</header> <subsection id="H28240012432B4FCDA029542B0C692807"><enum>(a)</enum><header>Requirement To disclose</header><text>Section 13 of the Endangered Species Act of 1973 (87 Stat. 902; relating to conforming amendments which have executed) is amended to read as follows:</text>
+				<quoted-block id="HAADC543F62B246A493A950F1489BFFE1" style="OLC">
+					<section id="H46289C70B36E461FA3702E2A9A58E10F"><enum>13.</enum><header>Disclosure of expenditures</header>
+ <subsection id="HF69EC2EAFC0A4684A4DCCBDBD989CF26"><enum>(a)</enum><header>Requirement</header><text>The Secretary of the Interior, in consultation with the Secretary of Commerce, shall—</text> <paragraph id="H03C04CD8AF674A82A37993797E256E57"><enum>(1)</enum><text display-inline="yes-display-inline">not later than 90 days after the end of each fiscal year, submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an annual report detailing Federal Government expenditures for covered suits during the preceding fiscal year (including the information described in subsection (b)); and</text>
+ </paragraph><paragraph id="HF82055F346AB404DABF1FB1A0F03938D"><enum>(2)</enum><text>make publicly available through the Internet a searchable database of the information described in subsection (b).</text>
+ </paragraph></subsection><subsection id="HAA55F71D49544668985528504F29EFA0"><enum>(b)</enum><header>Included information</header><text>The report shall include—</text> <paragraph id="H56D52E1F97AB4D098B5DF5D9BBC69CDF"><enum>(1)</enum><text>the case name and number of each covered suit, and a hyperlink to the record or decision for each covered suit (if available);</text>
+ </paragraph><paragraph id="HCB05F721124C45BE9D22C52DD781E199"><enum>(2)</enum><text>a description of the claims in each covered suit;</text> </paragraph><paragraph id="HC7166AA2BBB54C50B334D579978B497F"><enum>(3)</enum><text>the name of each covered agency whose actions gave rise to a claim in a covered suit;</text>
+ </paragraph><paragraph id="H4C9E18C2423441D6B2D730B75FF0E3BA"><enum>(4)</enum><text display-inline="yes-display-inline">funds expended by each covered agency (disaggregated by agency account) to receive and respond to notices referred to in section 11(g)(2) or to prepare for litigation of, litigate, negotiate a settlement agreement or consent decree in, or provide material, technical, or other assistance in relation to, a covered suit;</text>
+ </paragraph><paragraph id="H32FE0E128EC0482A923093CB78D52F37"><enum>(5)</enum><text>the number of full-time equivalent employees that participated in the activities described in paragraph (4); and</text>
+ </paragraph><paragraph id="H057DDF80E1E24C4DB46EF90C0EFBC6BD"><enum>(6)</enum><text display-inline="yes-display-inline">attorneys' fees and other expenses (disaggregated by agency account) awarded in covered suits, including any consent decrees or settlement agreements (regardless of whether a decree or settlement agreement is sealed or otherwise subject to nondisclosure provisions), including the bases for such awards.</text>
+ </paragraph></subsection><subsection id="H665999F6844E4D28B6A603429BFA26BB"><enum>(c)</enum><header>Requirement To provide information</header><text>The head of each covered agency shall provide to the Secretary in a timely manner all information requested by the Secretary to comply with the requirements of this section.</text>
+ </subsection><subsection id="H6D38B2A304AC42FBBE2DFAFD2819E18C"><enum>(d)</enum><header>Limitation on disclosure</header><text>Notwithstanding any other provision of this section, this section shall not affect any restriction in a consent decree or settlement agreement on the disclosure of information that is not described in subsection (b).</text>
+						</subsection><subsection id="HB3B896D7D04F44C58A874BAF1AF6CE77"><enum>(e)</enum><header>Definitions</header>
+ <paragraph id="H3DA66D3803FA4E82A2CECA8D2E47CF8F"><enum>(1)</enum><header>Covered agency</header><text display-inline="yes-display-inline">The term <quote>covered agency</quote> means any agency of the Department of the Interior, the Forest Service, the National Marine Fisheries Service, the Bonneville Power Administration, the Western Area Power Administration, the Southwestern Power Administration, or the Southeastern Power Administration.</text>
+ </paragraph><paragraph id="HBC373B6251F842E185093BD72B267854"><enum>(2)</enum><header>Covered suit</header><text display-inline="yes-display-inline">The term <quote>covered suit</quote> means any civil action containing a claim against the Federal Government, in which the claim arises under this Act and is based on the action of a covered agency.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HC644AA75DBDE44E58F7D7C7567990D1A"><enum>(b)</enum><header>Clerical amendment</header><text>The table of contents in the first section of such Act is amended by striking the item relating to such section and inserting the following:</text>
+				<quoted-block id="H4C716175F5EB42578F812BADA52E2041" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">Sec. 13. Disclosure of expenditures.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H4324BE911CE14483BDF27B2DD69A0C92"><enum>(c)</enum><header>Prior amendments not affected</header><text>This section shall not be construed to affect the amendments made by section 13 of such Act, as in effect before the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

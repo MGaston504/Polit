@@ -1,0 +1,932 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H105DAD597A404C519E3C3E0658F83BB9" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 53 IH: Cyber Security Education and Federal Workforce Enhancement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 53</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="J000032">Ms. Jackson Lee</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name>, and in addition to the Committees on <committee-name committee-id="HSY00">Science, Space, and Technology</committee-name> and <committee-name committee-id="HHM00">Homeland Security</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To codify an office within the Department of Homeland Security with the mission of strengthening
+			 the capacity of the agency to attract and retain highly trained computer
+			 and information security professionals, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H32B761425E694CB499260B2030E14676" style="OLC">
+		<section id="HEEBF2DF365014FE9B190D816F9D20AC7" section-type="section-one"><enum>1.</enum><header>Short title; table of contents</header>
+			<subsection id="HAE9F3A85A23C47C386047141D4059D95"><enum>(a)</enum><header>Short title</header><text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Cyber Security Education and Federal Workforce Enhancement Act</short-title></quote>.</text>
+			</subsection><subsection id="HAB06D83D157F48688F7D0FF483685B7A"><enum>(b)</enum><header>Table of contents</header><text display-inline="yes-display-inline">The table of contents for this Act is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="HEEBF2DF365014FE9B190D816F9D20AC7" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="HABB0561AB996410B85063ADECF715FDB" level="section">Sec. 2. Findings.</toc-entry>
+					<toc-entry idref="H8297FB5D849B40A4A530BD14ECCF7475" level="title">Title I—Department of Homeland Security K–12 Excellence in Science and Technology</toc-entry>
+					<toc-entry idref="H1D9105306CBB4740A63208165D11B81B" level="section">Sec. 101. Office of Cybersecurity Education and Awareness.</toc-entry>
+					<toc-entry idref="HBF4B7276032C47DD9BF2EB123D4879EC" level="section">Sec. 102. Science and technology initiative grants.</toc-entry>
+					<toc-entry idref="H59651E85EFEB4CB3A01DDE6A4397D0C9" level="section">Sec. 103. Project-based learning program.</toc-entry>
+					<toc-entry idref="H1AFB23B6AD0B4A649EBBB3C9CDCDF1B6" level="section">Sec. 104. Matching funds for State and privately financed science and technology after-school
+			 programs.</toc-entry>
+					<toc-entry idref="H099F9BE42C8C4716AC85CE9C439D0D9E" level="section">Sec. 105. Science and Technology Board of Advisors.</toc-entry>
+					<toc-entry idref="HDFB1DA5E58054ECF8D774A8281599444" level="section">Sec. 106. Laboratories for science and technology excellence.</toc-entry>
+					<toc-entry idref="H49F5D22C3DF7452BAC81557C60B54338" level="title">Title II—Post-Secondary Computer and Information Security Education</toc-entry>
+					<toc-entry idref="HB880F0B087B54D32A100C719FF58848A" level="section">Sec. 201. Computing and Information Research Working Group.</toc-entry>
+					<toc-entry idref="H05E31A2426A64FEBB8AC71DE0888D625" level="section">Sec. 202. Process for adoption research and a best practices voluntary guidelines for laboratory
+			 facilities.</toc-entry>
+					<toc-entry idref="H29EEE05C30624616B0E8B69164299121" level="section">Sec. 203. Computing and information security mentoring programs for college students.</toc-entry>
+					<toc-entry idref="HD60996326F4A4A29B852BDA58B71A902" level="section">Sec. 204. Grants for computer equipment.</toc-entry>
+					<toc-entry idref="H204EADAD0A254F1788332B1901F516B7" level="section">Sec. 205. Centers of Academic Computing and Information Assurance.</toc-entry>
+					<toc-entry idref="HCD356E28AB664E9698D7F5658C57F30D" level="title">Title III—Federal Workforce Computer and Information Security Professional Development</toc-entry>
+					<toc-entry idref="H9D61A14B933C49848E2282FED16B3F48" level="section">Sec. 301. Lifelong learning in computer and information security study.</toc-entry>
+					<toc-entry idref="HFE420FF0F38D4CE6BE70CC5152C33964" level="section">Sec. 302. Computer and information security job opportunities program.</toc-entry>
+					<toc-entry idref="HA869855832CD41368EF96E2357011297" level="section">Sec. 303. Department of Homeland Security Cybersecurity training programs and equipment.</toc-entry>
+					<toc-entry idref="H3B70984C1BF545DEB4F8966192E1A3B9" level="section">Sec. 304. E-Security Fellows Program.</toc-entry>
+					<toc-entry idref="H45DC7B913D6F4B558A9E715BBF90DF27" level="title">Title IV—Research</toc-entry>
+					<toc-entry idref="H8DF4889BA43345C6B14D462ED09F62F6" level="section">Sec. 401. National Science Foundation study on science and technology student retention.</toc-entry>
+					<toc-entry idref="HFEFCC5927F4D4C8DBEE2AF1E27E64C2A" level="section">Sec. 402. Challenge Grants.</toc-entry>
+					<toc-entry idref="HA70FE770A63846D7BA862B5A391683F1" level="section">Sec. 403. E-Security Fellows Program.</toc-entry>
+				</toc>
+			</subsection></section><section id="HABB0561AB996410B85063ADECF715FDB"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress makes the following findings:</text>
+			<paragraph id="H03B26D74CEDF4DE78C768198F65C4DC2"><enum>(1)</enum><text display-inline="yes-display-inline">The Department of Homeland Security’s Cybersecurity Education &amp; Awareness (CE&amp;A) Branch was established under National Security Presidential Directive–54/Homeland Security
+			 Presidential Directive–23, which launched the 2008 Comprehensive National
+			 Cybersecurity Initiative. There is no appropriations language that
+			 references CE&amp;A; it is funded through the Infrastructure Protection and Information Security appropriation under
+			 the National Protection and Programs Directorate.</text>
+			</paragraph><paragraph id="HD8FD351EB8A848E1B5D15DAA4F44EA80"><enum>(2)</enum><text display-inline="yes-display-inline">The Department of Homeland Security’s CE&amp;A works with universities to attract top talent through competitive scholarship, fellowship, and
+			 internship programs.</text>
+			</paragraph><paragraph id="HC8320934CF1A4D7E93F47CA4ED85882E"><enum>(3)</enum><text display-inline="yes-display-inline">The agency certifies of more than 125 institutions nationwide as National Centers for Academic
+			 Excellence to teach students valuable technical skills in various
+			 disciplines of Information Assurance.</text>
+			</paragraph><paragraph id="H167E7D95A2D44790956604CE8FA66182"><enum>(4)</enum><text display-inline="yes-display-inline">The CE&amp;A prepares and makes available computer and information security lesson plans. At the K–12 level,
+			 the Department has partnered with USA Today to provide lesson plans about
+			 the importance of prevention of computer and digital information crimes at
+			 home and in the classroom.</text>
+			</paragraph><paragraph id="HE193E085A276409D95E5C3509D3BBF03"><enum>(5)</enum><text display-inline="yes-display-inline">The agency initiated the IT Security Essential Body of Knowledge (EBK). The National Cybersecurity
+			 Division developed the EBK to establish a national baseline of the
+			 essential knowledge and skills that IT security practitioners in the
+			 public and private sector should have to perform specific roles and
+			 responsibilities.</text>
+			</paragraph><paragraph id="HF69D3D82D60C444F8A45F225BF20A81B"><enum>(6)</enum><text display-inline="yes-display-inline">The challenge for computer and information security coordination and development is no single
+			 agreed upon voluntary taxonomy nor definitions to rely upon when
+			 categorizing or classifying computer or information security jobs.</text>
+			</paragraph><paragraph id="H5C2947B17F3D43E290914AE9D02C164A"><enum>(7)</enum><text display-inline="yes-display-inline">The fields of computer and information security study is within the field of information assurance.</text>
+			</paragraph><paragraph id="HD2AFB9E0598E45D9815A30022765126E"><enum>(8)</enum><text display-inline="yes-display-inline">The information assurance, cybersecurity and computer security workforce encompasses a variety of
+			 context, roles, and occupations and is too broad and diverse to be treated
+			 as a single occupation or profession.</text>
+			</paragraph><paragraph id="H554F463450A34515B3176CF364C5C741"><enum>(9)</enum><text>Science, technology, engineering, and mathematics occupations, which include computer and
+			 information security experts and professionals, are expected to grow by 17
+			 percent by the year 2018 compared to 9.8 percent for other jobs.</text>
+			</paragraph><paragraph id="H05FCE0FD984C4F24880B22BFB4F2E212"><enum>(10)</enum><text>The Federal Government is experiencing a shortage of qualified professionals with expertise in
+			 computer and information security.</text>
+			</paragraph><paragraph id="H8D7601944A7047218E5166F51D57806E"><enum>(11)</enum><text>Insufficiently trained, educated, or supervised Federal computer workers can reduce the Nation’s
+			 ability to secure computer networks from cyber attacks or incidents.</text>
+			</paragraph><paragraph id="H37834C9308FF41ED9BD221707AE89401"><enum>(12)</enum><text>The computing and information security workforce encompasses a variety of context, roles, and
+			 occupations and is too broad an diverse to be treated as a single
+			 occupation or profession.</text>
+			</paragraph><paragraph id="H9DC1BCED0176481CBA1A65ACD4B43563"><enum>(13)</enum><text>Computing and information security is not solely a technical endeavor, and thus encompasses a wide
+			 range of backgrounds and skills that will be needed in an effective
+			 national computing and information security workforce.</text>
+			</paragraph><paragraph id="HF485F9C3461840719173115AE06DCFEF"><enum>(14)</enum><text>The route toward professionalization of a field of study can be slow and difficult, and not all
+			 portions of a field can or should be professionalized at the same time.</text>
+			</paragraph><paragraph id="HCCCCFB1052064F98A08A91E2CC1D9CFA"><enum>(15)</enum><text>It is essential, just as it is for other disciplines like medicine and the law, that academics,
+			 employers, and government share a common language to identify, train,
+			 educate, and employ computer and information security professionals.</text>
+			</paragraph><paragraph id="HF88075D562B141B6B737607454607603"><enum>(16)</enum><text>The secure management of digital sensitive information collected maintained or transmitted by
+			 Federal Government agencies, including taxpayer data, Social Security
+			 records, medical records, intellectual property, proprietary business
+			 information, and sensitive Government data vital to national security and
+			 national defense requires an educated and well-trained, as well as
+			 supervised, Federal workforce.</text>
+			</paragraph><paragraph id="H809924F690E64ECCAD18773E4190C720"><enum>(17)</enum><text>It is in the Nation’s interest to promote opportunities for science and technology education and
+			 employment as a means of addressing the need to fill computer and
+			 information security jobs within the Federal Government.</text>
+			</paragraph><paragraph id="H55D0D12140384CB89EF8063F9D1BA8A6"><enum>(18)</enum><text display-inline="yes-display-inline">The Department of Homeland Security’s role is to lead, champion, and sustain the development of a
+			 national information assurance, cybersecurity and computer security
+			 workforce, as well as to educate the citizenry.</text>
+			</paragraph><paragraph id="HE3D926B2F7E24C8BB8D760E04E9457A1"><enum>(19)</enum><text display-inline="yes-display-inline">Developing, implementing, and articulating programs that protect against and respond to computer
+			 and information security threats and hazards to the Homeland’s security.</text>
+			</paragraph><paragraph id="HB6D0F883D8174398B55446356D273B77"><enum>(20)</enum><text display-inline="yes-display-inline">The Department of Homeland Security must create an agile, diverse workforce and digital citizenry
+			 that are capable of sustaining a safe, secure, resilient computer and
+			 information security space, driven by a dynamic Department organization at
+			 the forefront of cross-sector computer and information security workforce
+			 development.</text>
+			</paragraph></section><title id="H8297FB5D849B40A4A530BD14ECCF7475"><enum>I</enum><header>Department of Homeland Security K–12 Excellence in Science and Technology</header>
+			<section commented="no" id="H1D9105306CBB4740A63208165D11B81B"><enum>101.</enum><header>Office of Cybersecurity Education and Awareness</header>
+				<subsection commented="no" id="H18DA29ED4A6E4B899CB19EDB4D8E2EA8"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subtitle C of title II of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/141">6 U.S.C. 141 et seq.</external-xref>) is amended by
+			 adding at the end the following new section:</text>
+					<quoted-block display-inline="no-display-inline" id="H10CB8C1B2404469481534AB2F4799AAC" style="OLC">
+						<section commented="no" id="H77383726807D47EC8244769BF539BB3B"><enum>226.</enum><header>Office of Cybersecurity Education and Awareness</header>
+							<subsection commented="no" id="H5DE706C74DE54D1DA67D17FB003F0B02"><enum>(a)</enum><header>Establishment</header><text display-inline="yes-display-inline">There shall be within the Department an Office of Cybersecurity Education and Awareness Branch
+			 (hereinafter in this section referred to as the <quote>Office</quote>).</text>
+							</subsection><subsection commented="no" id="H1C98B68773D84D758222733A09231C2A"><enum>(b)</enum><header>Responsibilities</header><text>The Office shall be responsible for carrying out the duties of the Office as directed by the
+			 Secretary. The Office shall also report to the Secretary the ongoing work
+			 of the Office. Further, the Office shall report on the statutory
+			 authority, Executive orders or agency directives that guide the work of
+			 the Office. The Office shall report to the Secretary what additional
+			 authority is needed to fulfill the mission for the Office as outlined by
+			 the section. The Office shall also conduct research and make
+			 recommendations to the Secretary to the extent that the agency can
+			 effectively engage in the following:</text>
+								<paragraph id="H0E92DCA91D104FFABE21936AD7574633"><enum>(1)</enum><text display-inline="yes-display-inline">Recruiting, retaining, and sustaining the skills and knowledge of Information assurance,
+			 cybersecurity and computer security professionals in the Department of
+			 Homeland Security, hereinafter known as the <quote>Department</quote>.</text>
+								</paragraph><paragraph commented="no" id="HDB75BC5DA6CB40DF8A3193A8722C4A32"><enum>(2)</enum><text display-inline="yes-display-inline">Supporting kindergarten through grade 12 science and technology and computer and information safety
+			 education through grants, and training programs.</text>
+								</paragraph><paragraph id="HC0927CCE05CB45D490E1A488B4093F5F"><enum>(3)</enum><text>Supporting postsecondary information assurance, cybersecurity and computer security programs that
+			 provide education that benefits the mission and objective of the
+			 Department regarding recruitment and retention of highly trained computing
+			 professionals who are work ready.</text>
+								</paragraph><paragraph id="HA882116246E34AB5A58965458D135D67"><enum>(4)</enum><text display-inline="yes-display-inline">Promoting public knowledge of computer and information security competitions to provide computer
+			 and information security competition administrators, participants, and
+			 sponsors with information necessary to further broader public
+			 participation in these activities.</text>
+								</paragraph><paragraph commented="no" id="HD8586FCE63784AF49D96EC50A261D19A"><enum>(5)</enum><text display-inline="yes-display-inline">Developing a guest lecturer program or part-time lecturer program comprised of information
+			 assurance, cybersecurity and computer security experts in the Federal
+			 Government, academia and private sector to support education of students
+			 at institutions of higher education who are pursuing degrees in computing
+			 science.</text>
+								</paragraph><paragraph commented="no" id="HB8587CD0368D431CA7D9409352594213"><enum>(6)</enum><text display-inline="yes-display-inline">Managing a Computer and Information Security Youth Training Pathway Program for secondary school
+			 and postsecondary school students to work in part-time or summer positions
+			 along with Federal agency computer and information security professionals.</text>
+								</paragraph><paragraph commented="no" id="HE54FDCE995F74BFC956A29C22F99238F"><enum>(7)</enum><text display-inline="yes-display-inline">Developing programs that increase the capacity of institutions defined in section 371 of the Higher
+			 Education Act of 1965—</text>
+									<subparagraph commented="no" id="H8450C7983D6649BFB9BA5C2E5F7066B1"><enum>(A)</enum><text>Historically Black Colleges and Universities;</text>
+									</subparagraph><subparagraph commented="no" id="H122E180239034EF58C9B3BB9B2B7E581"><enum>(B)</enum><text>Professional and academic areas in which African-Americans are under represented;</text>
+									</subparagraph><subparagraph commented="no" id="H4010AC32886844609A080E079C9756DF"><enum>(C)</enum><text>Hispanic-serving institutions;</text>
+									</subparagraph><subparagraph commented="no" id="H09F04F7DA40D48F692DA1EB484F5CD86"><enum>(D)</enum><text>Native American colleges; and</text>
+									</subparagraph><subparagraph commented="no" id="H4C077A87A82D471EB1255F4181DBA3C1"><enum>(E)</enum><text>Rural Colleges and Universities.</text>
+									</subparagraph></paragraph><paragraph id="H33DE6ABAFAE9440A926DF7BBA7582E47"><enum>(8)</enum><text display-inline="yes-display-inline">Conduct research and make recommendations to the Secretary on what the agency can do to increase
+			 participation of professional and academic under represented areas at
+			 minority institutions.</text>
+								</paragraph><paragraph id="HFF058CD100CA40ABA2AF8FAF69B7649F"><enum>(9)</enum><text display-inline="yes-display-inline">Providing support to the institutions of higher education described in subparagraphs (A) through
+			 (E) of paragraph (7) to provide course work and education in computer and
+			 information security designed to raise the number and diversity of
+			 students in the field. The Office may use the institutions defined under
+			 section 371 of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1067q">20 U.S.C. 1067q</external-xref>)
+			 minority-serving institutions are defined as follows:</text>
+									<subparagraph id="H2F8ADFB762B6473CA1F4B340B92570C8"><enum>(A)</enum><text>A part B institution (as defined in section 322 (<external-xref legal-doc="usc" parsable-cite="usc/20/1061">20 U.S.C. 1061</external-xref>)).</text>
+									</subparagraph><subparagraph id="HA6F8387D5C524338A54F6E500145358D"><enum>(B)</enum><text>A Hispanic-serving institution (as defined in section 502 (<external-xref legal-doc="usc" parsable-cite="usc/20/1101a">20 U.S.C. 1101a</external-xref>)).</text>
+									</subparagraph><subparagraph id="HF36F98A05F294E94B4D17FDF78E9B99B"><enum>(C)</enum><text>A Tribal College or University (as defined in section 316 (<external-xref legal-doc="usc" parsable-cite="usc/20/1059">20 U.S.C. 1059</external-xref>)).</text>
+									</subparagraph><subparagraph id="HEF168A3DB0E448209C8CFDA38C033DE0"><enum>(D)</enum><text>An Alaska Native-serving institution or a Native Hawaiian-serving institution (as defined in
+			 section 317(b) (<external-xref legal-doc="usc" parsable-cite="usc/20/1059d">20 U.S.C. 1059d(b)</external-xref>)).</text>
+									</subparagraph><subparagraph id="H2513AE8E94874BADB43CFF6143DC9EB2"><enum>(E)</enum><text>A Predominantly Black Institution (as defined in subsection (c)).</text>
+									</subparagraph><subparagraph id="H7F3109CFFB594411BDBB1D4DA36F9FE1"><enum>(F)</enum><text>An Asian-American and Native American Pacific Islander-serving institution (as defined in
+			 subsection (c)).</text>
+									</subparagraph><subparagraph id="H1A39F2FD20754FDF8782234C116BFB1C"><enum>(G)</enum><text>A Native American-serving nontribal institution (as defined in subsection (c)).</text>
+									</subparagraph></paragraph></subsection><subsection commented="no" id="H99674FC8A1BC44A88FE66DB2B2D78ECE"><enum>(c)</enum><header>Definitions</header><text>In this section:</text>
+								<paragraph id="HC9C1787999AE47BAA5C494E95C9D2549"><enum>(1)</enum><text>The term <quote>information assurance, cybersecurity and computer security program</quote> has the meaning given by the Secretary in consultation with the computing and information Security
+			 Post Secondary Education Working Group under the bill.</text>
+								</paragraph><paragraph id="HF26119D97A0E4AD78721C0C6A50AAC86"><enum>(2)</enum><text>The term <quote>K–12</quote> may be defined by the Secretary in consultation with the K–12 Science and Technology Education
+			 Board of Advisors under section 105 of the <short-title>Cyber Security Education and Federal Workforce Enhancement Act</short-title>.</text>
+								</paragraph><paragraph id="H51A6131621734D6293A90807E5C65847"><enum>(3)</enum><text>The Secretary may define higher education institutions under this title using definitions found in
+			 section 371 of the Higher Education Act of 1965.</text>
+								</paragraph><paragraph id="H6FC284CC85C6420EA61722874712AF34"><enum>(4)</enum><text>The term <quote>professional and academic under represented areas</quote> means areas in which African-Americans, Hispanics, and women are under represented has the meaning
+			 given such term by the Secretary, who may consult with the Commissioner
+			 for Education Statistics and the Commissioner of the Bureau of Labor
+			 Statistics. The basis of the determining the means should be based on most
+			 recent available satisfactory data, as computing and information security
+			 professional and academic areas in which the percentage of
+			 African-Americans, Hispanics, and females who have been educated, trained,
+			 and
+			 employed is less than the percentage of African-Americans, Hispanics, and
+			 women in the general population.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="HD5CDE9C415EC49C6BE8F14B3E0A621F6"><enum>(b)</enum><header>Clerical amendment</header><text>The table of contents in section 1(b) of such Act is amended by inserting after the item relating
+			 to section 225 the following new item:</text>
+					<quoted-block display-inline="no-display-inline" id="HAB71391936154FC79ACCEDCE890F685C" style="OLC">
+						<toc regeneration="no-regeneration">
+							<toc-entry level="section">Sec. 226. Office of Cybersecurity Education and Awareness.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection></section><section id="HBF4B7276032C47DD9BF2EB123D4879EC"><enum>102.</enum><header>Science and technology initiative grants</header>
+				<subsection id="H68586892F9AF4FAE8B74FEA656FF1E39"><enum>(a)</enum><header>In general</header><text>The Secretary of Homeland Security shall consider existing authority to make grants to secondary
+			 schools under this section, which shall be known as <quote>Science and Technology Educators Initiative Grants</quote>.</text>
+				</subsection><subsection id="HA99CFD962D4543A7B6836C56100891E3"><enum>(b)</enum><header>Selection of schools</header><text>If the Secretary determines that they have the authority they may select secondary schools to
+			 receive grants under this section, the Secretary may consider the
+			 following factors:</text>
+					<paragraph id="HA46B7754F2D0414794FDED1EA195E2CD"><enum>(1)</enum><text>Whether more than 40 percent of the students at the secondary school are eligible for free or
+			 reduced price school meal programs under the Richard B. Russell National
+			 School Lunch Act and the Child Nutrition Act of 1966.</text>
+					</paragraph><paragraph id="HFEE00C409B204B8F8F819466EEB4C28B"><enum>(2)</enum><text>The location of the secondary school is in a rural area.</text>
+					</paragraph><paragraph id="H221D5D2F738449C9BF76EB0B3C39DE11"><enum>(3)</enum><text>The participation of representation of professions and academic area among students which will also
+			 include home schooled, individuals residing in rural areas, and
+			 individuals attending underperforming secondary schools.</text>
+					</paragraph><paragraph id="HF00FA0648A6C461D9DB89A3B01442C6A"><enum>(4)</enum><text>The location of the school in an area where the unemployment rate was not more than one percent
+			 higher than the national average unemployment rate during the 24-month
+			 period preceding the determination of eligibility under this subsection.</text>
+					</paragraph><paragraph id="H9E9374803AE947DABD797239B0E08128"><enum>(5)</enum><text>The location of the secondary school in an area where the per capita income is of 80 percent or
+			 less of the national per capita income.</text>
+					</paragraph></subsection></section><section id="H59651E85EFEB4CB3A01DDE6A4397D0C9"><enum>103.</enum><header>Project-based learning program</header>
+				<subsection id="H20C0079CCA224976A361D0EAB3A9177C"><enum>(a)</enum><header>Establishment</header><text display-inline="yes-display-inline">The Secretary shall direct the Office to conduct research to investigate and make recommendations
+			 regarding the feasibility and existing authority to establish a national
+			 project-based science and technology learning program, to be known as the
+			 “K–12 Science and Technology Learning Program” and make a report to both
+			 House and Senate Oversight Committees. Under such research program, the
+			 Secretary shall determine existing authority to—</text>
+					<paragraph id="HB62FB63656754848BADABA39A7AB2687"><enum>(1)</enum><text>create State and regional workshops to train teachers in science and technology project-based
+			 learning;</text>
+					</paragraph><paragraph id="HF18862466F3C4012BF304187DA4C3CA5"><enum>(2)</enum><text display-inline="yes-display-inline">establish between institutions of higher education, businesses, and local public and private
+			 educational agencies that serve students comprised of 40 percent of more
+			 of professional and academics under represented areas to provide materials
+			 and teaching aids to teachers who successfully complete the science and
+			 technology project-based learning program under this section;</text>
+					</paragraph><paragraph id="H70F454F7EBEC416D8B25F73FE9F9D68F"><enum>(3)</enum><text display-inline="yes-display-inline">identify no cost or low cost summer and after school science and technology education programs and
+			 broadly disseminate that information to the public; and</text>
+					</paragraph><paragraph id="H3A14914066CF49AAB44ABD46981F4FF3"><enum>(4)</enum><text display-inline="yes-display-inline">make grants to local educational agencies to support the participation of teachers of elementary
+			 school and secondary school in science and technology training programs by
+			 providing travel and enrollment expenses, with a priority given to
+			 teachers who work in schools serving neglected, delinquent, migrant
+			 students, English learners, at-risk students, and Native Americans, as
+			 determined by the Secretary.</text>
+					</paragraph></subsection><subsection commented="no" id="HDD47E44FE39841E5A3558D78AA38EA58"><enum>(b)</enum><header>Authority</header><text display-inline="yes-display-inline">The Secretary shall have the authority under this statute to conduct a limited pilot project to
+			 test recommendations on possible programs that would be low-cost but have
+			 the greatest impact on instilling the importance of technology and science
+			 education.</text>
+				</subsection><subsection id="HFE81E23E6DEE4AD58C16878856D02EC5"><enum>(c)</enum><header>Report to Congress</header><text>The Secretary shall submit to Congress an annual report on the program established under this
+			 section.</text>
+				</subsection><subsection id="HF9900E44768F43418F0BBC03B1CABD3D"><enum>(d)</enum><header>Project-Based science and technology learning defined</header><text>In this section, the term <term>project-based science and technology learning</term> means a systematic teaching method that engages students in learning essential science,
+			 technology, engineering and mathematics through knowledge and
+			 life-enhancing skills through an extended, student-influenced inquiry
+			 process structured around complex, authentic questions and carefully
+			 designed products and tasks developed specifically for education.</text>
+				</subsection></section><section id="H1AFB23B6AD0B4A649EBBB3C9CDCDF1B6"><enum>104.</enum><header>Matching funds for State and privately financed science and technology after-school programs</header>
+				<subsection id="H0003436C48404055BD56EA961874741C"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Homeland Security shall provide matching funds to local educational agencies for
+			 after-school programs dedicated to science, technology, engineering, and
+			 math in an amount equal to the amount provided to the program by a State,
+			 local, tribal, or territorial government or by a nonprofit or private
+			 entity.</text>
+				</subsection><subsection commented="no" id="HAC43AFF894504537A06F839BC2A2978D"><enum>(b)</enum><header>Criteria</header><text display-inline="yes-display-inline">In selecting programs for which to provide funds under this section, the Secretary shall consider—</text>
+					<paragraph commented="no" id="HCB088F859EF045BDAB900835A23B32B8"><enum>(1)</enum><text>the number of students served by the programs; and</text>
+					</paragraph><paragraph commented="no" id="H8C6D03E48D1A47AFB5F0A21B94F7B516"><enum>(2)</enum><text display-inline="yes-display-inline">the participation in the programs of students from populations referred to in section 226 of the
+			 Homeland Security Act of 2002, as added by section 101.</text>
+					</paragraph></subsection><subsection id="H814D9DCCD19B4B41AA73338DE8E27C23"><enum>(c)</enum><header>Limitation on amount of funding</header><text display-inline="yes-display-inline">For any fiscal year, no individual school’s after-school program shall receive more than $5,000
+			 under this section.</text>
+				</subsection></section><section id="H099F9BE42C8C4716AC85CE9C439D0D9E"><enum>105.</enum><header>Science and Technology Board of Advisors</header>
+				<subsection id="H0B727DF94D9E4A6CBFC9291183D2B4A7"><enum>(a)</enum><header>Establishment</header><text display-inline="yes-display-inline">There is established in the Department of Homeland Security the <quote>Research K–12 Science and Technology Education Board of Advisors</quote> (hereinafter in this section referred to as the <quote>Board</quote>).</text>
+				</subsection><subsection id="HC13524CA95E741D5992C08162D0342ED"><enum>(b)</enum><header>Membership</header>
+					<paragraph id="HE631BE9EA5324792AEE88D53D687D400"><enum>(1)</enum><header>Composition</header><text display-inline="yes-display-inline">The Board shall be composed of 15 members appointed by the Secretary of Homeland Security, all of
+			 whom shall have K–12 education expertise in programs. The Secretary shall
+			 appoint members based on the following qualifications:</text>
+						<subparagraph id="H87A00F8421354A7BA5273C5CC1AACB66"><enum>(A)</enum><text>Members of the Board shall have experience in K–12 science, technology, engineering, and
+			 mathematics education programs.</text>
+						</subparagraph><subparagraph id="H072F5F3BF593414787315A3C7C913ABC"><enum>(B)</enum><text display-inline="yes-display-inline">Members of the Board shall have experience in training K–12 educators on providing science and
+			 technology instruction.</text>
+						</subparagraph><subparagraph id="H137302ADEDFE445793D73CC42BA34927"><enum>(C)</enum><text display-inline="yes-display-inline">Members of the Board shall have experience in the promotion of science and technology education
+			 among under represented populations, as defined by section 226 of the
+			 Homeland Security Act of 2002, as added by section 101.</text>
+						</subparagraph></paragraph><paragraph id="HDA629480BF074789B19428C0FBC3E26E"><enum>(2)</enum><header>Deadline for appointment</header><text>All members of the Board shall be appointed not later than 60 days after the date of the enactment
+			 of this Act.</text>
+					</paragraph><paragraph id="H735301CAFED940A9AEF7C2C8E89E5510"><enum>(3)</enum><header>Vacancies</header><text>Any vacancy in the membership of the Board shall not affect its powers and shall be filled in the
+			 same manner in which the original appointment was made.</text>
+					</paragraph><paragraph id="H392F8969C00347BF94D75BDDCFA61433"><enum>(4)</enum><header>Compensation</header>
+						<subparagraph id="H8A8D4F9BD59B4467B94EFAB71321BB51"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Members of the Board shall not receive any compensation for their service.</text>
+						</subparagraph><subparagraph id="HE5D940519D0840A6B16B28AC01B77A0F"><enum>(B)</enum><header>Travel expenses</header><text display-inline="yes-display-inline">While away from their homes or regular places of business in the performance of services for the
+			 Board, members of the Board shall be allowed travel expenses, including
+			 per diem in lieu of subsistence, in the same manner as persons employed
+			 intermittently in the Government service are allowed expenses under
+			 <external-xref legal-doc="usc" parsable-cite="usc/5/5703">section 5703(b)</external-xref> of title 5, United States Code.</text>
+						</subparagraph><subparagraph id="H67B15934507447B2A727BC2B04A1A313"><enum>(C)</enum><header>Prohibition of consultant or contracting work</header><text>No member of the Board while serving in this capacity or for 1 year following departure from the
+			 Board may work as a consultant or contract worker for the Department of
+			 Homeland Security in a position related to the work of the Board to or
+			 member agency that participates as a member of the Board.</text>
+						</subparagraph></paragraph></subsection><subsection id="H3C79229CC3374DF3889AF25B44DCEB15"><enum>(c)</enum><header>Responsibilities</header><text display-inline="yes-display-inline">The responsibilities of the Board are to research and make recommendations to the Secretary on—</text>
+					<paragraph id="HC7E4839AE17840D2875BDA482F05B90E"><enum>(1)</enum><text display-inline="yes-display-inline">the status of K–12 science and technology education domestically and internationally;</text>
+					</paragraph><paragraph id="H8DD16CEBC49C4B8683BBF330B1D9175C"><enum>(2)</enum><text>make recommendations to the Secretary on how to increase the quality and diversity of science and
+			 technology curriculum;</text>
+					</paragraph><paragraph id="H4175ED133ABD4CF7AC658B0276A29E61"><enum>(3)</enum><text>promoting K–12 science and technology competitions;</text>
+					</paragraph><paragraph id="H55B7A48A20184EBF8DC5277F63C2664D"><enum>(4)</enum><text>establishing a virtual network to support teacher and student science and technology education and
+			 development;</text>
+					</paragraph><paragraph id="H9F82C6946B094ADC916B8513065DEC90"><enum>(5)</enum><text display-inline="yes-display-inline">ascertaining, evaluating, and reporting on best practices for project-based science and technology
+			 learning (as such term is defined in section 103(c)); and</text>
+					</paragraph><paragraph id="H6F8C62FCCF88480AB720840509E4BCB4"><enum>(6)</enum><text display-inline="yes-display-inline">identifying K–12 science and technology education efforts that are successful in engaging youth,
+			 with proven competence in engaging females, minorities, individuals
+			 residing in rural areas, individuals residing in majority minority
+			 districts, home schooled students.</text>
+					</paragraph></subsection><subsection id="H7FAAA54E399E472A8B55A24BE4BBD778"><enum>(d)</enum><header>Chair</header><text display-inline="yes-display-inline">The Chair of the Board shall be designated by the Secretary from among the members of the Board.</text>
+				</subsection><subsection id="H5E76C08F622249E9B0A5FBA78A48FB5E"><enum>(e)</enum><header>Meetings</header>
+					<paragraph id="H8A52CA7E788C43D48C22DF91538BA182"><enum>(1)</enum><header>Initial meeting</header><text display-inline="yes-display-inline">The Board shall meet and begin the operations of the Board by not later than 90 days after the date
+			 of the enactment of this Act.</text>
+					</paragraph><paragraph id="H67DC0BBD914F42FF83F2CF81DC410020"><enum>(2)</enum><header>Subsequent meetings</header><text display-inline="yes-display-inline">After its initial meeting, the Board shall set the time and place of its next meeting. The Board
+			 can upon the call of the chairman or a majority of its members meet.</text>
+					</paragraph><paragraph id="HE8834757D30F48268B8B7CB76FFACBFB"><enum>(3)</enum><header>Quorum</header><text display-inline="yes-display-inline">A majority of the Board shall constitute a quorum.</text>
+					</paragraph><paragraph id="H96E319B9A53A4F68B7435C9D5818B69E"><enum>(4)</enum><header>Voting</header><text>Proxy voting shall be allowed on behalf of a member of the Board.</text>
+					</paragraph><paragraph id="HE325991068EC42478BF1311AF004603C"><enum>(5)</enum><header>Rules of procedure</header><text display-inline="yes-display-inline">The Board may establish rules for the conduct of the Board’s business, if such rules are not
+			 inconsistent with this section or other applicable law.</text>
+					</paragraph></subsection><subsection id="H26965046A226471891244BD6BA5CF4FF"><enum>(f)</enum><header>Powers</header>
+					<paragraph id="HEF8D3AA813874B6884471A412C32115A"><enum>(1)</enum><header>Hearings and evidence</header><text display-inline="yes-display-inline">The Board or, on the authority of the Board, any subcommittee or member thereof, may, for the
+			 purpose of carrying out this title hold such hearings and sit and act at
+			 such times and places, take such testimony, receive such evidence,
+			 administer such oaths.</text>
+					</paragraph><paragraph commented="no" id="HC70A83AD878747CBA9D2E5A1A6FB552F"><enum>(2)</enum><header>Federal agency staff</header><text display-inline="yes-display-inline">The Secretary shall make decisions regarding Federal agency staff to be detailed to support the
+			 work of the Board.</text>
+					</paragraph><paragraph id="HBC7437D5CC88455281AFBAF8A0F1CCD4"><enum>(3)</enum><header>Contract authority</header><text display-inline="yes-display-inline">The Board may enter into contracts with the approval of the Secretary to such extent and in such
+			 amounts as necessary for the Board to discharge its duties under this
+			 section.</text>
+					</paragraph><paragraph id="H774D38636F9C46A89F0BD9EDE195FDF7"><enum>(4)</enum><header>Information from Federal agencies</header>
+						<subparagraph id="HC5130B66D3E64F3699410DE96D267CCF"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">After providing notice to the Secretary who may provide staff from the Department to meet the
+			 staffing needs of the Board. After 10 working days following notice to the
+			 Secretary the Board is authorized to secure directly from any executive
+			 department, bureau, agency, board, office, independent establishment, or
+			 instrumentality of the Government, information, suggestions, estimates,
+			 and statistics for the purposes of this title. Each department, bureau,
+			 agency, board, office, independent establishment, or instrumentality
+			 shall, to the extent authorized by law, furnish such information,
+			 suggestions, estimates, and statistics directly to the Board, upon request
+			 made by the chairman, the chairman of any subcommittee created by a
+			 majority of the Board, or any member designated by a majority of the
+			 Board.</text>
+						</subparagraph><subparagraph id="HD4C6DF765336404D9141195AD2CF4774"><enum>(B)</enum><header>Receipt, handling, storage, and dissemination</header><text display-inline="yes-display-inline">Information shall only be received, handled, stored, and disseminated by members of the Board and
+			 its staff consistent with all applicable statutes, regulations, and
+			 Executive orders.</text>
+						</subparagraph></paragraph><paragraph id="H313E8575D9224B1E99C4D17D87BF1B22"><enum>(5)</enum><header>Assistance from Federal agencies</header>
+						<subparagraph id="H96D83F32FC4F42AF9375411E727BC737"><enum>(A)</enum><header>General Services Administration</header><text display-inline="yes-display-inline">The Administrator of General Services shall provide to the Board on a reimbursable basis
+			 administrative support and other services for the performance of the
+			 Board's functions.</text>
+						</subparagraph><subparagraph id="HC778F52C35A14460BFDCC2B33B497AE1"><enum>(B)</enum><header>Other departments and agencies</header><text display-inline="yes-display-inline">In addition to the assistance prescribed in subparagraph (A), departments and agencies of the
+			 United States may provide to the Board such services, funds, facilities,
+			 staff, and other support services as they may determine advisable and as
+			 may be authorized by law.</text>
+						</subparagraph><subparagraph id="H9F7AF17089B446D6B629AA2314EEF008"><enum>(C)</enum><header>Postal services</header><text display-inline="yes-display-inline">The Board may use the United States mails in the same manner and under the same conditions as
+			 departments and agencies of the United States.</text>
+						</subparagraph></paragraph></subsection><subsection id="HBFE6D125D2D94C27A6FEDE9E3C523121"><enum>(g)</enum><header>Staff</header>
+					<paragraph id="H3D08C2C07BBC46008B2A526814ECD9CA"><enum>(1)</enum><header>In general</header>
+						<subparagraph id="H80DA40BE1D6D485FA1054A179477ACBD"><enum>(A)</enum><header>Appointment and compensation</header><text display-inline="yes-display-inline">The Chair, in accordance with rules agreed upon by the Board, may appoint and fix the compensation
+			 of a staff director and such other personnel as may be necessary to enable
+			 the Board to carry out its functions, without regard to the provisions of
+			 title 5, United States Code, governing appointments in the competitive
+			 service, and without regard to the provisions of chapter 51 and subchapter
+			 III of chapter 53 of such title relating to classification and General
+			 Schedule pay rates, except that no rate of pay fixed under this subsection
+			 may exceed the equivalent of that payable for a position at level V of the
+			 Executive Schedule under <external-xref legal-doc="usc" parsable-cite="usc/5/5316">section 5316</external-xref> of title 5, United States Code.</text>
+						</subparagraph><subparagraph id="H14AB2C1A5B024B8B95C3AFA1D37BAABA"><enum>(B)</enum><header>Personnel as Federal employees</header>
+							<clause id="H173F9912A73842C985BF3EB1226B95ED"><enum>(i)</enum><header>In general</header><text display-inline="yes-display-inline">The executive director and any personnel of the Board who are employees shall be employees under
+			 <external-xref legal-doc="usc" parsable-cite="usc/5/2105">section 2105</external-xref> of title 5, United States Code, for purposes of chapters 63,
+			 81, 83, 84, 85, 87, 89, and 90 of that title.</text>
+							</clause><clause id="HD159326F7CDD42319E01CAFAB067BDDE"><enum>(ii)</enum><header>Members of the Board</header><text>Clause (i) shall not be construed to apply to members of the Board.</text>
+							</clause></subparagraph></paragraph><paragraph id="H733B1125488543978890DEED8FE962A5"><enum>(2)</enum><header>Detailees</header><text display-inline="yes-display-inline">Any Federal Government employee may be detailed to the Board without reimbursement from the Board,
+			 and such detailee shall retain the rights, status, and privileges of his
+			 or her regular employment without interruption.</text>
+					</paragraph><paragraph id="HBAA2ABF4A59349719A1F2F2A8D9DC146"><enum>(3)</enum><header>Administrative support from the department</header><text>At the request of the Board, the Secretary of Homeland Security shall provide the Board with
+			 Administrative support necessary for the Board to carry out its duties
+			 under this title.</text>
+					</paragraph></subsection><subsection id="H282CB18AD4C54DAFB5AD8EF00DA8D023"><enum>(h)</enum><header>Reports</header>
+					<paragraph id="H3202744C10BE477E84F1369C4271B9C1"><enum>(1)</enum><header>Quarterly reports</header><text>The Board shall submit to the Secretary of Homeland Security quarterly reports on the activities of
+			 the Board.</text>
+					</paragraph><paragraph id="H282D0F46D9F04DE58F4ED8E22FF45F13"><enum>(2)</enum><header>Final report</header><text>Not later than two years after the date of the enactment of this Act, the Board shall submit to the
+			 Secretary a final report containing such findings conclusions, and
+			 recommendations as have been agreed to by a majority of Board members.</text>
+					</paragraph></subsection><subsection id="H173513A209F54B0B93CF44EE659D1751"><enum>(i)</enum><header>Applicability of FACA</header>
+					<paragraph id="HCF7CF164B10E4ED281B0E5087796E9AF"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Nothing in the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Board.</text>
+					</paragraph><paragraph id="H243A8EF14DF74CEAB77D96A2F6370E45"><enum>(2)</enum><header>Public meetings and release of public versions of reports</header><text>The Board shall—</text>
+						<subparagraph id="H01D3DF80422D4CE291678948F845AFB9"><enum>(A)</enum><text display-inline="yes-display-inline">hold public hearings and meetings to the extent appropriate; and</text>
+						</subparagraph><subparagraph id="HEA9CB2AFE92E4243A5D2718D80B30FE1"><enum>(B)</enum><text>release public versions of the reports required under subsection (h).</text>
+						</subparagraph></paragraph><paragraph id="HA7C45342666341448572B373B119E1E3"><enum>(3)</enum><header>Public hearings</header><text display-inline="yes-display-inline">Any public hearings of the Board shall be conducted in a manner consistent with the protection of
+			 information provided to or developed for or by the Board as required by
+			 any applicable statute, regulation, or Executive order.</text>
+					</paragraph></subsection><subsection id="H867A7C5C12DF4F2DA77B2F4DA1FDD142"><enum>(j)</enum><header>Termination</header><text display-inline="yes-display-inline">The Board, and all the authorities of this title, shall terminate two years after the date of the
+			 Board’s first meeting, which shall take place 90 days following its
+			 appointment.</text>
+					<paragraph id="H2ABB692EA64E4851B339B0A157957BD1"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Board and all the authorities this section shall terminate 60 days after the date on which the
+			 final report is submitted under subsection (h)(2).</text>
+					</paragraph><paragraph id="H314670AD89F5483E8FF782C6B97E16A7"><enum>(2)</enum><header>Administrative activities before termination</header><text display-inline="yes-display-inline">The Board may use the 60-day period referred to in paragraph (1) for the purpose of concluding its
+			 activities, including providing testimony to committees of Congress
+			 concerning its reports and disseminating the final report.</text>
+					</paragraph></subsection><subsection id="HB06AB2FD6CF14E9EB8D65542183BB7D5"><enum>(k)</enum><header>Funding</header><text display-inline="yes-display-inline">There is authorized to be appropriated such sums as may be necessary to carry out this section.
+			 Amounts made available pursuant to this subsection shall remain available
+			 until the termination of the Board.</text>
+				</subsection></section><section id="HDFB1DA5E58054ECF8D774A8281599444"><enum>106.</enum><header>Laboratories for science and technology excellence</header><text display-inline="no-display-inline">The Secretary of Homeland Security shall determine if existing authority allows the agency to make
+			 grants to local education agencies for the purpose of supplying laboratory
+			 facilities at secondary schools to promote the teaching of science,
+			 technology, engineering, and mathematics. If the Secretary determines that
+			 the authority does not exist shall make a report to Congressional
+			 oversight committees detailing the limitation in agency authority to
+			 conduct activity under this section and make recommendations on the
+			 benefits if any should the agency have the authority to engage in the
+			 activity outlined in this section.</text>
+			</section></title><title id="H49F5D22C3DF7452BAC81557C60B54338"><enum>II</enum><header>Post-Secondary Computer and Information Security Education</header>
+			<section id="HB880F0B087B54D32A100C719FF58848A"><enum>201.</enum><header>Computing and Information Research Working Group</header>
+				<subsection id="HDC76FB618CEB45C9B27B6A0ABA5368B0"><enum>(a)</enum><header>Establishment</header><text display-inline="yes-display-inline">There is hereby established the Department of Homeland Security the Computing and Information
+			 Security Post-Secondary Education Working Group, hereafter in this section
+			 referred to as the <quote>Working Group</quote>.</text>
+				</subsection><subsection id="HC82575E4918948D180959C33E1C1BD2F"><enum>(b)</enum><header>Responsibilities</header><text display-inline="yes-display-inline">The Working Group shall conduct research and—</text>
+					<paragraph id="H22E7BF1258E14F3A9B5C991B5F307586"><enum>(1)</enum><text display-inline="yes-display-inline">assist the Secretary in developing voluntary guidelines that could serve as guidance to Federal
+			 civil agency training programs, computer and information security
+			 certification authorities, and accreditation bodies seeking guidance on
+			 developing, enhancing, or sustaining competitive information security; and</text>
+					</paragraph><paragraph id="HBE5641AD226C42F4BDB021B727092161"><enum>(2)</enum><text>make recommendations to the Secretary regarding—</text>
+						<subparagraph id="HCC6C56004A69415192483C86DFF6E218"><enum>(A)</enum><text>the state of the computing and information security workforce development;</text>
+						</subparagraph><subparagraph id="HDC3A35DD3D324960AA96AF7FA536542F"><enum>(B)</enum><text>evaluations and reports on the advantages, disadvantages, and approaches to professionalizing the
+			 Nation’s computing and information security workforce;</text>
+						</subparagraph><subparagraph id="H50D710F238D0469382B14250BF0C8D2D"><enum>(C)</enum><text>criteria that can be used to identify which, if any, specialty areas may require
+			 professionalization;</text>
+						</subparagraph><subparagraph id="H778843841E1E44E49928DA8AB256E697"><enum>(D)</enum><text>criteria for evaluating different approaches and tools for professionalization;</text>
+						</subparagraph><subparagraph id="H424006B3DE494AA99CA11DB64CDFADC9"><enum>(E)</enum><text>techniques that enhance the efficiency and effectiveness of computing and information security
+			 workers;</text>
+						</subparagraph><subparagraph id="H114F3A01D1D34696BEBE5FF6DB7437D8"><enum>(F)</enum><text>better tools and approaches for risk identification and assessment;</text>
+						</subparagraph><subparagraph id="H3BC5A37B0A584A02A9FAFAA1066AE8F5"><enum>(G)</enum><text>improved system design and development;</text>
+						</subparagraph><subparagraph id="HF5B7D8BCDDB640CDB8696A1115B339FA"><enum>(H)</enum><text>creation of better incentives for deployment of better computing and information security
+			 technologies;</text>
+						</subparagraph><subparagraph id="HC74979D1FFAC42E88C301207B35D1B87"><enum>(I)</enum><text>improvements in end user behaviors through training and better coordination among network managers;</text>
+						</subparagraph><subparagraph id="HAF2E3917C27B463EAA4E9C5404031011"><enum>(J)</enum><text>core curriculum requirements for computing and information security training;</text>
+						</subparagraph><subparagraph id="H2D5967B340F541C383F14193EBA24BF8"><enum>(K)</enum><text>efficacy and efficiencies of taxonomy and definitions for computer and information security;</text>
+						</subparagraph><subparagraph id="H30DAF7A8DBD3499BB8C9098B3CEF9B82"><enum>(L)</enum><text>guidelines for accreditations and certification of computing and information security college and
+			 university programs;</text>
+						</subparagraph><subparagraph id="H97F5F63F8DB14FF4BEEBCC534DDA4F3A"><enum>(M)</enum><text>identify the role of mentors in the retention of students enrolled in computing and technology
+			 programs at institutions of higher education who complete degree programs;</text>
+						</subparagraph><subparagraph id="HD34B02BFECA74512A7AFD6AB273A7178"><enum>(N)</enum><text>remote access to computing and information security education and training through the Internet;
+			 and</text>
+						</subparagraph><subparagraph id="H482A7BC9CA0943AEA6E2973B208F2440"><enum>(O)</enum><text>institution of higher education funding and research needs.</text>
+						</subparagraph></paragraph></subsection><subsection id="H9EBFCD6564484EE79DAF3BAF7D106D9F"><enum>(c)</enum><header>Deadline for submittal of research funding and recommendations</header>
+					<paragraph id="H714AA480EC22432ABA7561D5041CB76D"><enum>(1)</enum><header>Initial research</header><text display-inline="yes-display-inline">The Working Group shall submit to the Secretary an initial research plan that will guide the work
+			 of the Working Group.</text>
+					</paragraph><paragraph commented="no" id="H747903B0DBC444709F41642BEE8A3012"><enum>(2)</enum><header>Other research recommendations</header><text>The Working Group shall provide the Secretary a list of other areas that require research to
+			 accomplish the purpose of the agency’s goal of providing cyber security
+			 protection for the agency. The Working Group shall provide a description
+			 of the proposed research and the purpose of the research as it relates to
+			 the goals of cybersecurity of the agency.</text>
+					</paragraph><paragraph id="H29A754727304407FA597FE559280D335"><enum>(3)</enum><header>Initial recommendations</header><text>The Working Group shall submit to the Secretary initial recommendations under this section by not
+			 later than nine months after the date on which all of the members of the
+			 Working Group are appointed.</text>
+					</paragraph><paragraph id="H528DAB02B48A4E21BFB4920C322EBFCF"><enum>(4)</enum><header>Other recommendations</header><text display-inline="yes-display-inline">Not later than six months after all members of the Working Group are appointed, the Working Group
+			 shall submit to the Secretary research and recommendations on the
+			 effectiveness of Federal civil agency computer and information security
+			 training programs, including an evaluation of certification authorities
+			 and their role in providing work ready staff to fill positions with the
+			 agency.</text>
+					</paragraph><paragraph id="HD128E2C5A43C4373919665114198EBBF"><enum>(5)</enum><header>Subsequent research and recommendations</header><text display-inline="yes-display-inline">Not later than one year after the date of the submittal of the initial research and recommendations
+			 under paragraph (1), and annually thereafter, the Working Group shall
+			 submit to the Secretary subsequent research and recommendations under this
+			 section and an update on the progress made toward a well trained and
+			 sustainable Department computer and information workforce.</text>
+					</paragraph></subsection><subsection id="HEB763E07FD274B8B9C3193EBFF43181F"><enum>(d)</enum><header>Membership</header>
+					<paragraph id="H6EF7C564638942E4A2BD759F524DCF39"><enum>(1)</enum><header>Chair</header><text>The Chair of the Working Group shall be the Director of the National Institute of Standards and
+			 Technology or the Director’s designee.</text>
+					</paragraph><paragraph commented="no" id="HCB95949C080C4DB1BA49A0F4195E396B"><enum>(2)</enum><header>Other members</header><text display-inline="yes-display-inline">The Working Group shall be composed of 21 members, who are appointed by the Secretary of Homeland
+			 Security in consultation with the Director of NIST and the head of the
+			 entity represented by the member.</text>
+					</paragraph><paragraph id="H1FB5F5EAC995455F86B89FAB7CF64E35"><enum>(3)</enum><header>Appointment</header><text>All appointments are for a term of 2 years with one reappointment for an additional 2 years.</text>
+					</paragraph><paragraph id="H84F3D06F4DE049C19B35E803080DAE79"><enum>(4)</enum><header>Quorum</header><text display-inline="yes-display-inline">A majority of the members of the Working Group shall constitute a quorum.</text>
+					</paragraph></subsection><subsection id="H91A678118CBF45579A04F29462B21B6A"><enum>(e)</enum><header>No compensation for service</header><text display-inline="yes-display-inline">While away from their homes or regular places of business in the performance of services for the
+			 Commission, members of the Commission shall be allowed travel expenses,
+			 including per diem in lieu of subsistence, in the same manner as persons
+			 employed intermittently in the Government service are allowed expenses
+			 under <external-xref legal-doc="usc" parsable-cite="usc/5/5703">section 5703(b)</external-xref> of title 5, United States Code.</text>
+				</subsection><subsection id="H74242233C30844FF8CD035BA84167833"><enum>(f)</enum><header>Technical support from the Department of Homeland Security</header><text display-inline="yes-display-inline">At the request of the Working Group, the Secretary of Homeland Security shall provide the Working
+			 Group with technical support necessary for the Working Group to carry out
+			 its duties under this section.</text>
+				</subsection><subsection id="HAF063DC0276E4FF080C05E1868DE5298"><enum>(g)</enum><header>Intellectual property rights</header><text display-inline="yes-display-inline">No private-sector individual or entity shall obtain any intellectual property rights to any
+			 guidelines or recommendations nor the contents of any guideline (or any
+			 modification to any guideline) adopted by the Secretary under this
+			 section.</text>
+				</subsection><subsection id="H7544AA4BC29E4CB7A35888468E734D53"><enum>(h)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than one year after the date of the enactment of this Act, the Working Group shall submit
+			 to the Secretary a report containing researching findings, an outline for
+			 other areas requiring research and why as well as recommendations of the
+			 Working Group.</text>
+				</subsection><subsection id="H5154C264B07846C8B07F5D79C51E1643"><enum>(i)</enum><header>Submittal of recommendations to Congress</header><text display-inline="yes-display-inline">Not later than 18 months after the date of the enactment of this Act, the Secretary shall submit to
+			 the Committee on Homeland Security of the House of Representatives and the
+			 Committee on Homeland Security and Governmental Affairs of the Senate a
+			 report on the research findings, an outline of other areas requiring
+			 research and why and recommendations for furthering the cybersecurity of
+			 the agency.</text>
+				</subsection><subsection id="HC9C17D566F23472D99D8D3E37A8CF541"><enum>(j)</enum><header>Treatment of recommendations</header><text display-inline="yes-display-inline">The Secretary has the benefit of the Working Group’s work which the Secretary may accept, reject,
+			 or modify. The Secretary shall not be bound by the recommendations of the
+			 Working Group.</text>
+				</subsection><subsection id="HD5B9AC20B68E4110B5206756EF2D29E8"><enum>(k)</enum><header>Publication of recommendations in Federal Register</header><text display-inline="yes-display-inline">The Secretary shall approve the publication of grant application guidelines in the Federal Register
+			 by not later than 90 days after receiving the report submitted under
+			 subsection (h).</text>
+				</subsection><subsection commented="no" id="H3D42876E5A644789984E33139FB3CE50"><enum>(l)</enum><header>Applicability of FACA</header><text display-inline="yes-display-inline">Nothing in the Federal Advisory Committee Act (5 U.S.C. App.; relating to the termination of
+			 advisory committees) shall apply to the Working Group.</text>
+				</subsection></section><section id="H05E31A2426A64FEBB8AC71DE0888D625"><enum>202.</enum><header>Process for adoption research and a best practices voluntary guidelines for laboratory facilities</header>
+				<subsection id="H781A86F9DCD246E3AE77BD9CBA82AFE3"><enum>(a)</enum><header>Establishment of the Post-Secondary Laboratory Development Task Force</header><text display-inline="yes-display-inline">The Secretary of Homeland Security shall establish a <quote>Post-Secondary Laboratory Research Development Task Force</quote> (hereinafter in this section referred to as the <quote>Development Task Force</quote>).</text>
+				</subsection><subsection id="H3799CC679984493481EF3459040F7B2C"><enum>(b)</enum><header>Responsibilities</header><text display-inline="yes-display-inline">The Development Task Force shall conduct research for and make recommendations to the Secretary
+			 regarding best practices voluntary guidelines for college and university
+			 laboratory facilities for education and research purposes related to
+			 information assurance, cybersecurity and computing security. Such research
+			 on what baseline equipment, capacity, skilled instruction, and
+			 certification may be needed for a set of best practices voluntary
+			 guidelines for colleague or university laboratories and make
+			 recommendations on the best methods of assuring that the greatest number
+			 of institutions have access to facilities that meet the baseline best
+			 practices regarding—</text>
+					<paragraph id="H5703000269D04144B39F6446C773FE39"><enum>(1)</enum><text display-inline="yes-display-inline">qualifications for laboratories for the purpose of providing education or instruction in computing
+			 security, computer networks, enterprises, informatics, and other systems
+			 designated by the Secretary;</text>
+					</paragraph><paragraph id="HF4D68F025A2246C1B69F94F709019DE6"><enum>(2)</enum><text>types of software;</text>
+					</paragraph><paragraph id="H7B64B15C28034312AA7F0CFCE92C54BC"><enum>(3)</enum><text>types of hardware;</text>
+					</paragraph><paragraph id="H52EE7BB690BF42CCAED8906DDED61E91"><enum>(4)</enum><text>types of firmware;</text>
+					</paragraph><paragraph id="H286FA6B89D7D4795AEA29C7B8009CCFE"><enum>(5)</enum><text>security applications, including firewalls, whole hat hackers, red teams, and blue teams;</text>
+					</paragraph><paragraph id="HCF6D83ACFD99456783BF4F5DCD3C0B48"><enum>(6)</enum><text>security protocols needed to protect the physical and computer resources of the laboratory;</text>
+					</paragraph><paragraph id="HAEE9C37549704F869CB2751B420CFF77"><enum>(7)</enum><text>accreditation and certification of college and university computer and information security
+			 laboratories;</text>
+					</paragraph><paragraph id="H084ED2EE47614F3981898BE0DFD5D829"><enum>(8)</enum><text>best practices for—</text>
+						<subparagraph id="H3F1B6A5C51CC4797B4EADD4B563D9EFF"><enum>(A)</enum><text>public-private collaborations to support secondary and post-secondary laboratory facilities for
+			 computer or information security;</text>
+						</subparagraph><subparagraph id="HCEB1BB7EA45F4256946DCC3DAF234FF2"><enum>(B)</enum><text>visiting guest lecture programs for business and Government information technology security
+			 experts; and</text>
+						</subparagraph><subparagraph id="H95A9957902C04FF1ACA5B41D1CEF4339"><enum>(C)</enum><text>developing real world laboratory exercise and proficiency measures; and</text>
+						</subparagraph></paragraph><paragraph id="HFDFC8AA50F6046E7B42F2C40456C4DD4"><enum>(9)</enum><text display-inline="yes-display-inline">how best to recruit and retain instructors with requisite degrees to teach computer and information
+			 security courses to undergraduate and graduate students.</text>
+					</paragraph></subsection><subsection id="H119B003FDB114AE6B089C4A78D63B1E7"><enum>(c)</enum><header>Membership</header>
+					<paragraph id="HB20BA16AF1694DCB8F040A59CB3594B1"><enum>(1)</enum><header>Members</header><text display-inline="yes-display-inline">The Development Task Force shall be composed of 19 members, including the Chair. The Secretary of
+			 Homeland Security, in consultation with the head of the entity represented
+			 by the member agencies, shall appoint members. The Secretary shall appoint
+			 a chair from among the members of the Development Task Force. Such members
+			 shall consist of one representative of each of the following agencies:</text>
+						<subparagraph id="HA96279A0A0F84CED8C1D59A68C28FF51"><enum>(A)</enum><text display-inline="yes-display-inline">The White House Office of Science and Technology Policy.</text>
+						</subparagraph><subparagraph id="HBB707A58CCDC4B4594EEC33CED66385E"><enum>(B)</enum><text>The Office of the Director of National Intelligence.</text>
+						</subparagraph><subparagraph id="H118E2812205540D9B0EBE70C5E203153"><enum>(C)</enum><text>The Department of Energy.</text>
+						</subparagraph><subparagraph id="H41A20BB194424FC6A26B70C04B11853C"><enum>(D)</enum><text>The Defense Advanced Research Projects Agency.</text>
+						</subparagraph><subparagraph id="H0577E724F8B947529474021DEB767A1C"><enum>(E)</enum><text>The Department of Commerce.</text>
+						</subparagraph><subparagraph id="HDFFD8894555F42BBB92E943CE22BE099"><enum>(F)</enum><text>The National Institutes of Health.</text>
+						</subparagraph><subparagraph id="HBBADCA1E703B4A84B584CE4B679E8A1A"><enum>(G)</enum><text>The National Institute of Science and Technology.</text>
+						</subparagraph><subparagraph id="H93040E4666314EC1B040D007460F69A6"><enum>(H)</enum><text>The National Science Foundation.</text>
+						</subparagraph><subparagraph id="H140779DED797437CB3413D5ACB8F2B41"><enum>(I)</enum><text>The Director of the Office of Personnel Management.</text>
+						</subparagraph></paragraph><paragraph id="H0C507E2DA90649C3A7E4AE10104FCF23"><enum>(2)</enum><header>Other members</header><text display-inline="yes-display-inline">The Secretary shall consider for the other members of the Development Task Force representatives
+			 from organizations that advocate and promote professional development of
+			 professional and academic under represented areas and organizations with
+			 the mission of promoting professional development and academic excellence
+			 in information assurance, cybersecurity and computing security:</text>
+						<subparagraph id="H8B943AFA3413431FA5B62EA8C70BF1EB"><enum>(A)</enum><text>Organizations with the mission of advancing computing as a science and profession.</text>
+						</subparagraph><subparagraph id="HC58404CD27EF4D528F6549251D5B4FBB"><enum>(B)</enum><text>Organizations that promote information system security education.</text>
+						</subparagraph><subparagraph id="HC1DDB64A7BC644649497F7865D7B7F45"><enum>(C)</enum><text>Professional associations that are well established and broadly recognized for the advancement of
+			 technology.</text>
+						</subparagraph><subparagraph id="H3A08D904C37247DD9DE5668CD3503882"><enum>(D)</enum><text>Professional associations that represent professionals and academics referred to in section 226 of
+			 the Homeland Security Act of 2002, as added by section 101.</text>
+						</subparagraph><subparagraph id="H768A372E886540F3877CBFE09F4F02F1"><enum>(E)</enum><text>K–12 science and technology programs that conduct successful after school and summer programs for
+			 under represented populations, rural communities and serve communities
+			 where unemployment is at least two percent higher than the national
+			 average.</text>
+						</subparagraph><subparagraph id="HDD2F00796909437DABCBF41A19EA4B52"><enum>(F)</enum><text>Organizations that promote education of Native Americans or other indigenous peoples of the United
+			 States or its territories.</text>
+						</subparagraph><subparagraph id="HBCF91353EE9147AAB956B97F6E9569EA"><enum>(G)</enum><text>Regional diversity of public and private school districts that excel at science and technology
+			 education.</text>
+						</subparagraph></paragraph><paragraph id="HF8537DE59D7A44DA875D3EF816F1B281"><enum>(3)</enum><header>Quorum</header><text display-inline="yes-display-inline">A majority of the members of the Development Task Force shall constitute a quorum.</text>
+					</paragraph><paragraph id="H9A946B8513954C4D924035C617010FC8"><enum>(4)</enum><header>Voting</header><text>Proxy voting shall be allowed on behalf of a member of the Development Task Force.</text>
+					</paragraph><paragraph id="HDB048115EC8843E89CDCADA7DC7B7540"><enum>(5)</enum><header>Rules of procedure</header><text>The Development Task Force may establish rules for the conduct of the Development Task Force’s
+			 business, if such rules are not inconsistent with this section or other
+			 applicable law.</text>
+					</paragraph></subsection><subsection id="H3744FCB573354F1E8DE0CA488700692C"><enum>(d)</enum><header>Powers</header>
+					<paragraph id="H95BE508EDC1047788F628069EC8149CB"><enum>(1)</enum><header>Hearings and evidence</header><text>The Development Task Force or, on the authority of the Development Task Force, or any subcommittee
+			 or member thereof, may, for the purpose of carrying out this section hold
+			 such hearings and sit and act at such times and places, take such
+			 testimony, receive such evidence, and administer such oaths.</text>
+					</paragraph><paragraph id="HBDD3DE74A6A24D0989E6BCC0CABADF24"><enum>(2)</enum><header>Contract authority</header><text display-inline="yes-display-inline">After giving notice to the Secretary who may substitute agency staff with the requisite skills to
+			 fill a position needed by the Board at no additional cost to the Board.
+			 After 10 working days following notice to the Secretary the Development
+			 Task Force may enter into contracts to such extent and in such amounts as
+			 necessary for the Development Task Force to discharge its duties under
+			 this section.</text>
+					</paragraph><paragraph id="H4F4A644EC96442058E42A672252FDBD5"><enum>(3)</enum><header>Information from federal agencies</header>
+						<subparagraph id="H2874422170F14C16AF8B2274FA0C456B"><enum>(A)</enum><header>In general</header><text>The Development Task Force is authorized to secure directly from any executive department, bureau,
+			 agency, board, office, independent establishment, or instrumentality of
+			 the Government information, suggestions, estimates, and statistics for the
+			 purposes of this section. Each department, bureau, agency, board, office,
+			 independent establishment, or instrumentality shall, to the extent
+			 authorized by law, furnish such information, suggestions, estimates, and
+			 statistics directly to the Board, upon request made by the chairman, the
+			 chairman of any subcommittee created by a majority of the Board, or any
+			 member designated by a majority of the Board.</text>
+						</subparagraph><subparagraph id="H5234874B7A7B4873A4750E34B1D345EA"><enum>(B)</enum><header>Receipt, handling, storage, and dissemination</header><text>Information shall only be received, handled, stored, and disseminated by members of the Board and
+			 its staff consistent with all applicable statutes, regulations, and
+			 Executive orders.</text>
+						</subparagraph></paragraph><paragraph id="H9F945F07D76944F6A0ECA18470F4C0DC"><enum>(4)</enum><header>Assistance from federal agencies</header>
+						<subparagraph id="H6F34747232AD47FA85E1598F0FD1CFA4"><enum>(A)</enum><header>General services administration</header><text>The Administrator of General Services shall provide to the Development Task Force on a reimbursable
+			 basis administrative support and other services for the performance of the
+			 Board’s functions.</text>
+						</subparagraph><subparagraph id="HC7BF5CA2341548F1B7F2C1C4DD139B2A"><enum>(B)</enum><header>Other departments and agencies</header><text>In addition to the assistance prescribed in subparagraph (A), departments and agencies of the
+			 United States may provide to the Board such services, funds, facilities,
+			 staff, and other support services as they may determine advisable and as
+			 may be authorized by law.</text>
+						</subparagraph><subparagraph id="HDE71BF4F1B3E41B8A2E1586EC329881E"><enum>(C)</enum><header>Postal services</header><text>The Development Task Force may use the United States mails in the same manner and under the same
+			 conditions as departments and agencies of the United States.</text>
+						</subparagraph></paragraph></subsection><subsection id="HDF039AD085C6481AA1590C35F8E88F5D"><enum>(e)</enum><header>Staff</header>
+					<paragraph id="H4B7F04D176B04603A9BD8FEB8AB2F8B8"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">While away from their homes or regular places of business in the performance of services for the
+			 Commission, members of the Commission shall be allowed travel expenses,
+			 including per diem in lieu of subsistence, in the same manner as persons
+			 employed intermittently in the Government service are allowed expenses
+			 under <external-xref legal-doc="usc" parsable-cite="usc/5/5703">section 5703(b)</external-xref> of title 5, United States Code.</text>
+					</paragraph><paragraph id="H68E05F9D925F443492B9C72B51199BA3"><enum>(2)</enum><header>Personnel as federal employees</header>
+						<subparagraph id="HFD3AA85EB9B744FAA0408A6D588C2FD0"><enum>(A)</enum><header>In general</header><text>The executive director and any personnel of the Development Task Force who are employees shall be
+			 employees under <external-xref legal-doc="usc" parsable-cite="usc/5/2105">section 2105</external-xref> of title 5, United States Code, for purposes
+			 of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.</text>
+						</subparagraph><subparagraph id="H94E4F4D848AF42788F4DC8C2E0AC412E"><enum>(B)</enum><header>Members of the development task force</header><text>Subparagraph (A) shall not be construed to apply to members of the Development Task Force.</text>
+						</subparagraph></paragraph><paragraph id="H719048367FA1414A82F095C9400635A6"><enum>(3)</enum><header>Detailees</header><text>Any Federal Government employee may be detailed to the Board without reimbursement from the
+			 Development Task Force, and such detailee shall retain the rights, status,
+			 and privileges of his or her regular employment without interruption.</text>
+					</paragraph></subsection><subsection id="HA0BF8EF62CFA440ABC8B42BB4E6D098F"><enum>(f)</enum><header>No compensation for service</header><text display-inline="yes-display-inline">Members of the Development Task Force shall not receive any compensation for their service, but
+			 shall be paid travel expenses, including per diem in lieu of subsistence,
+			 at rates authorized for employees of agencies under subchapter I of
+			 <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/57">chapter 57</external-xref> of title 5, United States Code, while away from their homes or
+			 regular places of business in the performance of services for the
+			 Development Task Force.</text>
+				</subsection><subsection id="H36CECDB64FBA41DB9FB0E886845482BA"><enum>(g)</enum><header>Prohibition of consultant or contracting work</header><text>No member of the Development Task Force while serving in this capacity or for 1 year following
+			 departure from the Development Task Force may work as a consultant or
+			 contract worker for the Department of Homeland Security in a position
+			 related to the work of the Development Task Force to or member agency that
+			 participates as a member of the Development Task Force.</text>
+				</subsection><subsection commented="no" id="HCDEE3BC2AABA4D3B8FBBB055DD71534A"><enum>(h)</enum><header>Report</header><text display-inline="yes-display-inline">The Development Task Force shall submit a report to the Secretary of Homeland Security a report on
+			 research findings, best practices voluntary guidelines and recommendations
+			 to the Secretary. The report shall be in unclassified form but may include
+			 a classified annex.</text>
+				</subsection><subsection id="H8D5F8059F08341F9BC6A9E5B8A1206D9"><enum>(i)</enum><header>Secretary of Homeland Security report</header><text display-inline="yes-display-inline">The Secretary shall submit to Congress a report on the work of the Development Task Force’s,
+			 research into best practices voluntary guidelines, areas that require
+			 additional study and a set of recommendations. The Secretary indicate to
+			 the Congress which Development Task Force recommendations have been
+			 implement, which will be implement, or which will be rejected and why.</text>
+				</subsection><subsection id="HC32DA0CAD17B49D1ACFDA56AF48C00CA"><enum>(j)</enum><header>Technical support from the Department</header><text display-inline="yes-display-inline">At the request of Development Task Force the Secretary of Homeland Security shall provide the
+			 Development Task Force with technical support necessary for the
+			 Development Task Force to carry out its duties under this section.</text>
+				</subsection><subsection id="H269963FF74EC4FFBB635400F25E099B8"><enum>(k)</enum><header>Intellectual property</header><text display-inline="yes-display-inline">No private-sector individual or entity serving on the Development Task Force shall obtain any
+			 intellectual property rights to any guidelines or recommendations the
+			 derive from the work of the Development Task Force or any guidelines (or
+			 any modification to any guidelines) base on the work of the Development
+			 Task Force.</text>
+				</subsection><subsection id="HB1AB255D16214F64938CF9C53AFEC650"><enum>(l)</enum><header>Prohibition of consultant or contracting work</header><text>No member of the Development Task Force while serving in this capacity or for 1 year following
+			 departure from the Development Task Force may work as a consultant or
+			 contract worker in a position related to the direct work of the
+			 Development Task Force to the Department of Homeland Security or member
+			 agency that participates as a member of the Development Task Force.</text>
+				</subsection></section><section id="H29EEE05C30624616B0E8B69164299121"><enum>203.</enum><header>Computing and information security mentoring programs for college students</header>
+				<subsection id="H783F55F4F1C04C489ACDA5261B70A0E8"><enum>(a)</enum><header>Office of Cybersecurity and Information Security Professional’s Mentoring Program</header>
+					<paragraph id="HBB6147832EC145D6819502C42FFF40F1"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Subtitle C of title II of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/141">6 U.S.C. 141 et seq.</external-xref>) is further
+			 amended by adding at the end the following new section:</text>
+						<quoted-block display-inline="no-display-inline" id="HB1E73110DD0840108E1ACB046BACC624" style="OLC">
+							<section id="H768B044BA4FE466092D1641427072312"><enum>227.</enum><header>Office of Computing and Information Security Professional’s Mentoring Program</header>
+								<subsection id="H36C0D194FAC44322A60FED861F5DE7EE"><enum>(a)</enum><header>Establishment</header><text display-inline="yes-display-inline">There is in the Department an Office of Computing and Information Security Professional’s Mentoring
+			 Program. The head of the office is the Mentoring Coordinator, who shall be
+			 appointed by the Secretary.</text>
+								</subsection><subsection id="HC5166C9C16AE42E0B9373B4C0A5339E3"><enum>(b)</enum><header>Responsibilities</header><text display-inline="yes-display-inline">The Mentoring Coordinator shall be responsible for working with outreach to institution of higher
+			 education, critical infrastructure owners, and the heads of Federal
+			 departments and agencies to develop and promote the participation of
+			 professionals as volunteer mentors to—</text>
+									<paragraph id="H45C3A75D3A4B49119B5EAED9D8042278"><enum>(1)</enum><text display-inline="yes-display-inline">undergraduate students at institutions of higher education who are enrolled in the third or fourth
+			 year of a program of education leading to a degree in computing or
+			 information security;</text>
+									</paragraph><paragraph id="H2B58FF7FD0304DA9B712A07F5AF1D47D"><enum>(2)</enum><text>students enrolled in a program of education leading to a doctoral degree in computing or
+			 information security; and</text>
+									</paragraph><paragraph id="H67CA33E1AC9845319D5F59661DE9F713"><enum>(3)</enum><text>new employees of Federal departments and agencies whose primary responsibilities relate to
+			 computing or information security.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph><paragraph id="H28FF6854C96F4830BCBEAAE2EFEF15E9"><enum>(2)</enum><header>Clerical amendment</header><text>The table of contents in section 1(b) of such Act is further amended by inserting after the item
+			 relating to section 226 the following new item:</text>
+						<quoted-block display-inline="no-display-inline" id="H8A16D78F4E4440B5B03BC9B785241E57" style="OLC">
+							<toc regeneration="no-regeneration">
+								<toc-entry level="section">Sec. 227. Office of Computing and Information Security Professional’s Mentoring Program.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection id="H99845337FFB14757924EC2792D646696"><enum>(b)</enum><header>Grant program</header>
+					<paragraph id="H4C995B4C9FF24BFB91F87B4D2DED184B"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Homeland Security shall determine existing authority to make grants to covered
+			 institutions of higher learning for the establishment of mentoring
+			 programs for undergraduates enrolled in programs or courses of education
+			 in information assurance, cybersecurity or computing security programs.</text>
+					</paragraph><paragraph id="H718BDE114AF44D89AEA4C4E6E2916392"><enum>(2)</enum><header>Covered institutions of higher learning</header><text display-inline="yes-display-inline">For purposes of this subsection, the term <quote>covered institution of higher learning</quote> means those institutions as defined in section 371 of the Higher Education Act of 1965 and listed
+			 in section 101 of this bill.</text>
+					</paragraph></subsection></section><section id="HD60996326F4A4A29B852BDA58B71A902"><enum>204.</enum><header>Grants for computer equipment</header>
+				<subsection id="H8CE53E50296E4210A6DA6E946EA824CE"><enum>(a)</enum><header>Grants</header><text display-inline="yes-display-inline">The Secretary of Homeland Security may make grants to post-secondary institutions that offer
+			 courses or degrees in computing or information security to be used to
+			 establish or equip a computer laboratory to be made available to students
+			 and faculty for both teaching and research purposes.</text>
+				</subsection><subsection commented="no" id="H067834DFA1644AE983BF0427179A3F24"><enum>(b)</enum><header>Technical support</header><text display-inline="yes-display-inline">The Secretary shall ensure that each recipient of a grant under this section also receives
+			 technical support on the use and proper function of equipment and
+			 software.</text>
+				</subsection><subsection id="HB17B60F5178B4A8F8822C1CDCEA5514E"><enum>(c)</enum><header>Publication in Federal Register</header><text display-inline="yes-display-inline">The Secretary shall publish the name of each institution of higher education that receives a grant
+			 under this section and the amount of such grant.</text>
+				</subsection><subsection id="HB0297CA80CF6416BB55B5EC5ECCED81A"><enum>(d)</enum><header>Qualification</header><text display-inline="yes-display-inline">In making grants under this section, the Secretary—</text>
+					<paragraph id="H04BA7594F80F44B281C174D0729AAEAB"><enum>(1)</enum><text>shall take into consideration whether more than 50 percent of the students at an institution are
+			 taking online or distance learning computer science and information
+			 security courses; and</text>
+					</paragraph><paragraph id="HDB3B4F4983644B809E8859D05C92EBB1"><enum>(2)</enum><text>may establish guidance to institutions for entering into laboratory facilities sharing agreements
+			 to allow institutions to qualify for grants under this section.</text>
+					</paragraph></subsection></section><section id="H204EADAD0A254F1788332B1901F516B7"><enum>205.</enum><header>Centers of Academic Computing and Information Assurance</header>
+				<subsection id="H5C4BAF94E27A4CE7A08DAA2758A879F4"><enum>(a)</enum><header>Program established</header><text display-inline="yes-display-inline">The Secretary of Homeland Security shall establish a program for Centers of Academic Computer and
+			 Information Assurance Distinction.</text>
+				</subsection><subsection id="H23CA3BDFEED34C98A30F5B62E2A380BA"><enum>(b)</enum><header>Designation of Centers</header>
+					<paragraph id="HA03223DBFED3477CB6EBC2B081E8649B"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary may designate five colleges or universities as Centers of Distinction for Academic
+			 Computing and Information Security Assurance each year with no limit to
+			 the total number of such Centers that may be established. The Secretary
+			 may make public the Centers for Distinction in Academic Computing and
+			 Information Security Assurance.</text>
+					</paragraph><paragraph id="HDEDE6E031C78430A8DDD0D8CE61EE79A"><enum>(2)</enum><header>Revocation of designations</header><text display-inline="yes-display-inline">The Secretary may revoke the designation of a Center of Distinction for Academic Computing and
+			 Information Security Assurance.</text>
+					</paragraph><paragraph id="H6495909489FD44289B63F8C5275B1534"><enum>(3)</enum><header>Criteria</header><text display-inline="yes-display-inline">The Secretary shall make available information regarding the criteria for designating an
+			 institution as a Center of Distinction for Academic Computing and
+			 Information Security Assurance under this section.</text>
+					</paragraph><paragraph id="HAD6BC43F0B47436DB982B8C284F84EA1"><enum>(4)</enum><header>Distance learning</header><text display-inline="yes-display-inline">In designating Centers under this section, the Secretary shall consider the number of students who
+			 are enrolled in distance learning computer or information security courses
+			 and whether collaborations for in laboratory instruction through shared
+			 arrangements with established information assurance, cybersecurity
+			 computing security programs at secondary education programs that
+			 laboratory facilities that meet best practices as outlined by the
+			 Secretary would be sufficient to meet the requirements established under
+			 this section.</text>
+					</paragraph></subsection><subsection id="H89E315FE529A4F44870B9BA4FB868B7A"><enum>(c)</enum><header>Outreach</header><text display-inline="yes-display-inline">The Secretary shall identify and report on the success of efforts to reach under represented
+			 populations in the field of computing and information security through
+			 work with institutions as defined under section 371 of the Higher
+			 Education Act of 1965 listed in section 101 of this bill.</text>
+				</subsection><subsection id="H4ED615E7CA42481FAFDFB826C7A43D91"><enum>(d)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than 220 days after the date of the enactment of this Act, the Secretary shall submit to
+			 Congress recommendations regarding distance learning computer and
+			 information security programs for meeting the cybersecurity professional
+			 requirements of the agency.</text>
+				</subsection><subsection id="HABF85FC0670042EA8D64D82756EE54D8"><enum>(e)</enum><header>Consideration of programs</header><text>The Secretary may consider the following when making grants to postsecondary education institutions
+			 and private sector entities who are contracted, provided grants or funds
+			 to conduct research on information assurance, cybersecurity and computing
+			 security to advance the agency’s cybersecurity capacity:</text>
+					<paragraph id="HB1AF2D3B30F548F9A05517C98C5A532C"><enum>(1)</enum><text>Institutions designated as Center of Distinction for Academic Computing and Information Security
+			 Assurance.</text>
+					</paragraph><paragraph id="H803165F5D4334F16944CD38343A973B2"><enum>(2)</enum><text>Institutions who have established academic mentoring and program development partnerships related
+			 to information assurance, cybersecurity, and computing security academic
+			 programs with institutions defined under section 371 of the Higher
+			 Education Act of 1965 listed in section 101 of this bill.</text>
+					</paragraph></subsection></section></title><title id="HCD356E28AB664E9698D7F5658C57F30D"><enum>III</enum><header>Federal Workforce Computer and Information Security Professional Development</header>
+			<section commented="no" id="H9D61A14B933C49848E2282FED16B3F48"><enum>301.</enum><header>Lifelong learning in computer and information security study</header>
+				<subsection commented="no" id="H36565AFDDC5641A09CE33C262FB71BF1"><enum>(a)</enum><header>Establishment</header><text display-inline="yes-display-inline">The Secretary of Homeland Security shall establish a program to be known as the <quote>Lifelong Computer and Information Security Study</quote>. Such program shall be designed to promote computer and information security professionals among
+			 Federal civilian agencies, critical infrastructure, and the general public
+			 by supporting post-employment education and training.</text>
+				</subsection><subsection commented="no" id="HD4BC61E119804788AE0069EFA2C6768E"><enum>(b)</enum><header>Discretion of Secretary</header><text display-inline="yes-display-inline">The Secretary shall have the discretion to determine the best methods for accomplishing the
+			 objective of this section.</text>
+				</subsection><subsection commented="no" id="HBFCB7076B06F4665B5601E573E5AE667"><enum>(c)</enum><header>Reports</header><text>The Secretary shall periodically submit to Congress a report on the implementation of this section.</text>
+				</subsection></section><section id="HFE420FF0F38D4CE6BE70CC5152C33964" section-type="subsequent-section"><enum>302.</enum><header>Computer and information security job opportunities program</header>
+				<subsection id="H1F252978FC1A49739CF34DF554F548C2"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Homeland Security, acting through the Deputy Assistant Secretary for Cybersecurity
+			 Education and Awareness, shall establish, in conjunction with the National
+			 Science Foundation, a program to award grants to institutions of higher
+			 education (and consortia thereof) for—</text>
+					<paragraph id="H0D4424CEDFEB4449A8733F28C4E93555"><enum>(1)</enum><text>the establishment or expansion of computer and information security professional development
+			 programs;</text>
+					</paragraph><paragraph id="HF4460778B86E4ED09FEECEE41CFFEBCA"><enum>(2)</enum><text>the establishment or expansion (or both) of associate degree programs in computer and information
+			 security; and</text>
+					</paragraph><paragraph id="HE68EC34008804D87B78147C9CCCD9230"><enum>(3)</enum><text>the purchase of equipment to provide training in computer and information security for either
+			 professional development programs or degree programs.</text>
+					</paragraph></subsection><subsection id="H4FD64D21E82341A3A5FF84202C59AD43"><enum>(b)</enum><header>Goals and criteria</header><text display-inline="yes-display-inline">The Secretary, acting through the Deputy Assistant Secretary and in consultation with the Working
+			 Group established under section 201, shall establish the goals for the
+			 program under this section and the criteria for awarding grants.</text>
+				</subsection><subsection id="HDE3963D520844568AC0457E1CA6133FF"><enum>(c)</enum><header>Awards</header>
+					<paragraph commented="no" id="H258FBC58433D43E1800F3A3BEE8C181C"><enum>(1)</enum><header>Peer review</header><text>All awards under this section shall be provided on a competitive, merit-reviewed basis. The peer
+			 review process shall be published in the Federal Register. Those serving
+			 in a peer review role shall do so for 2 years with an option for 1
+			 additional term. Applicants in the event of a denial of an award shall be
+			 provided with a detailed explanation for the denial.</text>
+					</paragraph><paragraph id="H289F228B4F9A47F0AF774236FFDC7A25"><enum>(2)</enum><header>Focus</header><text>In making awards under this section, the Deputy Assistant Secretary shall, to the extent
+			 practicable, ensure geographic diversity and the participation of women
+			 and under represented minorities.</text>
+					</paragraph><paragraph id="HAFAD021E748044A48E02F26CC025F9C0"><enum>(3)</enum><header>Preference</header><text display-inline="yes-display-inline">In making awards under this section, the Deputy Assistant Secretary shall—</text>
+						<subparagraph id="H8C4E4A65E3F144CCB7BAB01ECD34923E"><enum>(A)</enum><text>give preference to applications submitted by consortia of institutions, to encourage as many
+			 students and professionals as possible to benefit from the program
+			 established under this section;</text>
+						</subparagraph><subparagraph id="H1146B2C0E8F4481EB927D1B68EF8B568"><enum>(B)</enum><text display-inline="yes-display-inline">give preference to any application submitted by a consortium of institutions that includes at least
+			 one institution that is eligible to receive funds under title III or V of
+			 the Higher Education Act of 1965; and</text>
+						</subparagraph><subparagraph id="H75F5E77CBE914DDF94D415191F0B16E4"><enum>(C)</enum><text display-inline="yes-display-inline">consider the enrollment of students in online and distance learning courses.</text>
+						</subparagraph></paragraph></subsection><subsection commented="no" id="H0B6DE96E40F24CE2BFF2C66CA985FAF2"><enum>(d)</enum><header>Institution of higher education defined</header><text>In this section the term <term>institution of higher education</term> has the meaning given that term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C.
+			 1001(a)).</text>
+				</subsection></section><section id="HA869855832CD41368EF96E2357011297" section-type="subsequent-section"><enum>303.</enum><header>Department of Homeland Security Cybersecurity training programs and equipment</header>
+				<subsection id="HB7CB0AC2E0E5419ABD6AAC4BEB92CA0F"><enum>(a)</enum><header>In general</header><text>The Secretary of Homeland Security, acting through the Assistant Secretary of Cybersecurity, shall
+			 establish, in conjunction with the National Science Foundation, a program
+			 to award grants to institutions of higher education (and consortia
+			 thereof) for—</text>
+					<paragraph id="HD6922F1DAF274AE6B8BE5C7E41796AC3"><enum>(1)</enum><text>the establishment or expansion of cybersecurity professional development programs;</text>
+					</paragraph><paragraph id="H877E1146395E49D38E6FFDEF1183190C"><enum>(2)</enum><text>the establishment or expansion (or both) of associate degree programs in cybersecurity; and</text>
+					</paragraph><paragraph id="HDC8FA15B237D4F1F81B75AF9DE4C02EF"><enum>(3)</enum><text>the purchase of equipment to provide training in cybersecurity for either professional development
+			 programs or degree programs.</text>
+					</paragraph></subsection><subsection id="H90AA9916CA764734A9EA74B93D121519"><enum>(b)</enum><header>Roles</header>
+					<paragraph id="H8B8E885039224999B4A2158E38FAE749"><enum>(1)</enum><header>Department of Homeland Security</header><text>The Secretary, acting through the Assistant Secretary and in consultation with the Director of the
+			 National Science Foundation, shall establish the goals for the program
+			 established under this section and the criteria for awarding grants.</text>
+					</paragraph><paragraph id="HA78BA505355B426A9FE0253A87F5237C"><enum>(2)</enum><header>National Science Foundation</header><text>The Director of the National Science Foundation shall operate the program established under this
+			 section consistent with the goals and criteria established under paragraph
+			 (1), including soliciting applicants, reviewing applications, and making
+			 and administering awards. The Director may consult with the Assistant
+			 Secretary in selecting awardees.</text>
+					</paragraph><paragraph id="H3366AD7C057E4FE6AFC0998B2AD65F1F"><enum>(3)</enum><header>Funding</header><text>The Secretary shall transfer to the National Science Foundation the funds necessary to carry out
+			 this section.</text>
+					</paragraph></subsection><subsection id="H50FDB3049CDD4C99857798D7F515F73F"><enum>(c)</enum><header>Awards</header>
+					<paragraph id="H8FCADBA0F5ED41D788F24E7C7E9818A3"><enum>(1)</enum><header>Peer review</header><text>All awards under this section shall be provided on a competitive, merit-reviewed basis.</text>
+					</paragraph><paragraph id="HEDAF137A1FC14905B273080FCEFBB819"><enum>(2)</enum><header>Focus</header><text>In making awards under this section, the Director shall, to the extent practicable, ensure
+			 geographic diversity and the participation of women and under represented
+			 minorities.</text>
+					</paragraph><paragraph id="H7529927764194FE7801BF7C2C5ECB2DC"><enum>(3)</enum><header>Preference</header><text>In making awards under this section, the Director—</text>
+						<subparagraph id="H023367DA397442C2874F11C50178EFD4"><enum>(A)</enum><text>shall give preference to applications submitted by consortia of institutions, to encourage as many
+			 students and professionals as possible to benefit from the program
+			 established under this section; and</text>
+						</subparagraph><subparagraph id="HA1CD032749A5498EA1D6B525116F1C82"><enum>(B)</enum><text display-inline="yes-display-inline">shall give preference to any application submitted by a consortium of institutions that includes at
+			 least one institution that is eligible to receive funds under title III or
+			 V of the Higher Education Act of 1965.</text>
+						</subparagraph></paragraph></subsection><subsection id="HA5E5E0F438EA49288AE44C5A9A0D4F04"><enum>(d)</enum><header>Institution of higher education defined</header><text>In this section the term <quote>institution of higher education</quote> has the meaning given that term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C.
+			 1001(a)).</text>
+				</subsection><subsection id="H3214D6B7505D43A8931BEC31F4526CE5"><enum>(e)</enum><header>Authorization of appropriations</header><text>There is authorized to be appropriated to the Secretary for carrying out this section $3,700,000
+			 for each of fiscal years 2016 and 2017.</text>
+				</subsection></section><section display-inline="no-display-inline" id="H3B70984C1BF545DEB4F8966192E1A3B9" section-type="subsequent-section"><enum>304.</enum><header>E-Security Fellows Program</header>
+				<subsection id="H4307A1FB52714DACA680CBD0924AD41E"><enum>(a)</enum><header>Establishment of program</header><text>Subtitle C of title II of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/121">6 U.S.C. 121 et seq.</external-xref>) is further
+			 amended by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="HA7A1F4ACF69544E2BB1DDA8049FE04D7" style="OLC">
+						<section id="H7E3004B36D3840AB9E638404387CAFAF"><enum>228.</enum><header>E-Security Fellows Program</header>
+							<subsection id="HBF6FC1F038584DED9D27294039B1A5C6"><enum>(a)</enum><header>Establishment</header>
+								<paragraph id="HFD5BB057D9B74E5DB2B447A4F6792E3B"><enum>(1)</enum><header>In general</header><text>The Secretary shall establish a fellowship program in accordance with this section for the purpose
+			 of bringing State, local, tribal, and private sector officials to
+			 participate in the work of the National Cybersecurity Division in order to
+			 become familiar with the Department’s stated cybersecurity missions and
+			 capabilities, including but not limited to—</text>
+									<subparagraph id="H4F6CD39CA04B4358B4945CC83CFD49A9"><enum>(A)</enum><text>enhancing Federal, State, local, and tribal government cybersecurity;</text>
+									</subparagraph><subparagraph id="H8978EF61BB264A29877B03A132AC8AC2"><enum>(B)</enum><text>developing partnerships with other Federal agencies, State, local, and tribal governments, and the
+			 private sector;</text>
+									</subparagraph><subparagraph id="H2DA6BB75E70441079AFAFBACCD1A1DF7"><enum>(C)</enum><text>improving and enhancing public/private information sharing involving cyber attacks, threats, and
+			 vulnerabilities;</text>
+									</subparagraph><subparagraph id="H51A08C9264FF4C4F9B364B260C5C719F"><enum>(D)</enum><text>providing and coordinating incident response and recovery planning efforts; and</text>
+									</subparagraph><subparagraph id="HA399D490709C4EE481F85E18998B9BBB"><enum>(E)</enum><text>fostering training and certification.</text>
+									</subparagraph></paragraph><paragraph id="H37F2EA121F714E4E85AE75E0C53F0C2D"><enum>(2)</enum><header>Program name</header><text>The program under this section shall be known as the E-Security Fellows Program.</text>
+								</paragraph></subsection><subsection id="H1ED85AB0642E48588EE778FE6673C789"><enum>(b)</enum><header>Eligibility</header><text>In order to be eligible for selection as a fellow under the program, an individual must—</text>
+								<paragraph id="H62565C1B9B884689B42F74A93656037E"><enum>(1)</enum><text>have cybersecurity-related responsibilities; and</text>
+								</paragraph><paragraph id="HABDDB72BB8144346BCBADABC13838AC4"><enum>(2)</enum><text>be eligible to possess an appropriate national security clearance.</text>
+								</paragraph></subsection><subsection id="H7B5B74FB5F8E492F865EA8F1142B477A"><enum>(c)</enum><header>Limitations</header><text>The Secretary—</text>
+								<paragraph id="H754AFAAD2F3B45548BE270DD0D9CF43C"><enum>(1)</enum><text>may conduct up to 2 iterations of the program each year, each of which shall be 180 days in
+			 duration; and</text>
+								</paragraph><paragraph id="H82C49D47ACFA4BF48BF251B82B746289"><enum>(2)</enum><text>shall ensure that the number of fellows selected for each iteration does not impede the activities
+			 of the Division.</text>
+								</paragraph></subsection><subsection id="HB0C626618209472DBA398BBDDD23F450"><enum>(d)</enum><header>Condition</header><text>As a condition of selecting an individual as a fellow under the program, the Secretary shall
+			 require that the individual’s employer agree to continue to pay the
+			 individual’s salary and benefits during the period of the fellowship.</text>
+							</subsection><subsection id="HC697B21E38C84654837FC14C6E73B54E"><enum>(e)</enum><header>Stipend</header><text>During the period of the fellowship of an individual under the program, the Secretary shall,
+			 subject to the availability of appropriations, provide to the individual a
+			 stipend to cover the individual’s reasonable living expenses during the
+			 period of the fellowship.</text>
+							</subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="HF2C5C5DB10964263AB35FDC94FA54222"><enum>(b)</enum><header>Clerical amendment</header><text>The table of contents in section 1(b) of such Act is amended by adding at the end of the items
+			 relating to such subtitle the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H9331763D5A9A480392096CE8BC1C557B" style="OLC">
+						<toc container-level="quoted-block-container" idref="HA7A1F4ACF69544E2BB1DDA8049FE04D7" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+							<toc-entry idref="H7E3004B36D3840AB9E638404387CAFAF" level="section">Sec. 228. E-Security Fellows Program.</toc-entry>
+						</toc>
+						<after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection></section></title><title id="H45DC7B913D6F4B558A9E715BBF90DF27"><enum>IV</enum><header>Research</header>
+			<section id="H8DF4889BA43345C6B14D462ED09F62F6"><enum>401.</enum><header>National Science Foundation study on science and technology student retention</header>
+				<subsection id="H5F5280ED0CDF4451AEFA294182C1C50C"><enum>(a)</enum><header>Study</header><text display-inline="yes-display-inline">The National Science Foundation shall conduct a study on the causes of the high dropout rates of
+			 women and minority students enrolled in programs of education leading to
+			 degrees in science, technology, engineering, and mathematics and the
+			 effects of such dropout rates on the cost of education for such students
+			 and the shortage of workers qualified for jobs in science and technology.</text>
+				</subsection><subsection id="H60E1AE8355354CEA935FB5CB1FE6080E"><enum>(b)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this Act, the National Science
+			 Foundation shall submit to Congress a report on the study conducted under
+			 subsection (a) together with any recommendations of the National Science
+			 Foundation.</text>
+				</subsection></section><section id="HFEFCC5927F4D4C8DBEE2AF1E27E64C2A"><enum>402.</enum><header>Challenge Grants</header>
+				<subsection id="HC26F6840E38B4F3D9E00FF3B27A37055"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Homeland Security shall make grants to the Center of Distinction for Academic
+			 Computing and Information Security Assurance, which shall be known as <quote>Challenge Grants</quote>. The recipient of a grant under this section shall use the grant to form a partnership with
+			 section 226 of the Homeland Security Act of 2002, as added by section 101
+			 to assist in improving the computing programs of such colleges and
+			 universities and meeting the requirements to become a Center of
+			 Distinction for Academic Computing and Information Security. The Secretary
+			 shall ensure that the institutions that receive assistance under this
+			 subsection are the institutions as defined under section 371 of the Higher
+			 Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1067q">20 U.S.C. 1067q</external-xref>).</text>
+				</subsection><subsection id="H496771F4EA31437E9B2934208F335D1C"><enum>(b)</enum><header>Report</header><text display-inline="yes-display-inline">The Secretary shall submit to Congress a report on the outcomes of the partnerships funded by
+			 grants under this section and shall include in such report the
+			 recommendations of the Secretary regarding improving the access of the
+			 population served by the institutions of higher education described in
+			 subsection (a).</text>
+				</subsection></section><section display-inline="no-display-inline" id="HA70FE770A63846D7BA862B5A391683F1" section-type="subsequent-section"><enum>403.</enum><header>E-Security Fellows Program</header>
+				<subsection id="H7647F5C31D5C4D7784962A4F667791F2"><enum>(a)</enum><header>Establishment of program</header><text>Subtitle C of title II of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/121">6 U.S.C. 121 et seq.</external-xref>) is further
+			 amended by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H7FA2A7014DE14DDBACF0B162B5B17C4C" style="OLC">
+						<section id="HB3A1BBDC382A48B198AEF063D02432A1"><enum>228.</enum><header>E-Security Fellows Program</header>
+							<subsection id="HF7592C2FFF68473C8FC019EA24E83AF8"><enum>(a)</enum><header>Establishment</header>
+								<paragraph id="HF57F99B2B2C64D61AD84A8192B3926C0"><enum>(1)</enum><header>In general</header><text>The Secretary shall establish a fellowship program in accordance with this section for the purpose
+			 of bringing State, local, tribal, and private sector officials to
+			 participate in the work of the National Cybersecurity Division in order to
+			 become familiar with the Department’s stated cybersecurity missions and
+			 capabilities, including but not limited to—</text>
+									<subparagraph id="H42952A6DE2E849D1BEA837EFD6EC2FC3"><enum>(A)</enum><text>developing partnerships with other Federal agencies, State, local, and tribal governments, and the
+			 private sector; and</text>
+									</subparagraph><subparagraph id="H3C6CF7BF6EFA40DEA2C9E36251BED969"><enum>(B)</enum><text>fostering training and certification.</text>
+									</subparagraph></paragraph><paragraph id="HB88869A6B985423DA42D8BCA1BC73631"><enum>(2)</enum><header>Program name</header><text>The program under this section shall be known as the <quote>E-Security Fellows Program</quote>.</text>
+								</paragraph></subsection><subsection id="H89582D42D21847459D45562EB53FD083"><enum>(b)</enum><header>Eligibility</header><text>In order to be eligible for selection as a fellow under the program, an individual must—</text>
+								<paragraph id="H50A10276A7A947E3AE6D72AC0B67FA89"><enum>(1)</enum><text>have computer and information security-related responsibilities; and</text>
+								</paragraph><paragraph id="H9D3717BC4B6B40AC86165E895F9A6469"><enum>(2)</enum><text>be eligible to possess an appropriate national security clearance.</text>
+								</paragraph></subsection><subsection id="H5AE4EFDC29DC44F58F91085DE58A38BC"><enum>(c)</enum><header>Limitations</header><text>The Secretary—</text>
+								<paragraph id="HDADBF31087E145B888102E34D4D0FC2E"><enum>(1)</enum><text>may conduct up to 2 iterations of the program each year, each of which shall be 180 days in
+			 duration; and</text>
+								</paragraph><paragraph id="HECF49D9B821C48A997A1BFF559BD3278"><enum>(2)</enum><text>shall ensure that the number of fellows selected for each iteration does not impede the activities
+			 of the Division.</text>
+								</paragraph></subsection><subsection id="H7D39FD53EB8C4A65BD5C9225FE149F88"><enum>(d)</enum><header>Condition</header><text>As a condition of selecting an individual as a fellow under the program, the Secretary shall
+			 require that the individual’s employer agree to continue to pay the
+			 individual’s salary and benefits during the period of the fellowship.</text>
+							</subsection><subsection id="HFFE03CF9F5F84AB6B123E926B8EC181B"><enum>(e)</enum><header>Stipend</header><text>During the period of the fellowship of an individual under the program, the Secretary shall,
+			 subject to the availability of appropriations, provide to the individual a
+			 stipend to cover the individual’s reasonable living expenses during the
+			 period of the fellowship.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="H1933350B1EFE483F84C6BBD9966D8DAD"><enum>(b)</enum><header>Clerical amendment</header><text>The table of contents in section 1(b) of such Act is further amended by adding at the end of the
+			 items relating to such subtitle the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H1A5755B63F124E45952BB8E523A1C55C" style="OLC">
+						<toc container-level="quoted-block-container" idref="H7FA2A7014DE14DDBACF0B162B5B17C4C" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+							<toc-entry idref="HB3A1BBDC382A48B198AEF063D02432A1" level="section">Sec. 228. E-Security Fellows Program.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection></section></title></legis-body>
+</bill>
+
+

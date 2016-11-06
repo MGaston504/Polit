@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H06B07E462CE34983A8A9724EA9C4975A" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 298 IH: Medical Testing Availability Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 298</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150113">January 13, 2015</action-date>
+			<action-desc><sponsor name-id="B001248">Mr. Burgess</sponsor> (for himself and <cosponsor name-id="S001175">Ms. Speier</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend chapter V of the Federal Food, Drug, and Cosmetic Act to permit the sale of, and access
+			 to, <quote>research use only</quote> products.</official-title>
+	</form>
+	<legis-body id="H9FAC8C2AABBF49AD9143D75C33E28A2C" style="OLC">
+ <section id="H3C334B2E614945FFB99A2B9251C2CDC7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medical Testing Availability Act of 2015</short-title></quote>.</text> </section><section id="HE377DA56B4C649CFAFBF218A4587F4B8"><enum>2.</enum><header>Clarification regarding research use only products</header><text display-inline="no-display-inline">Section 520 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360j">21 U.S.C. 360j</external-xref>) is amended by adding at the end the following subsection:</text>
+			<quoted-block id="HB110FDAAE8034AA78639DA1264369813" style="OLC">
+				<subsection id="HB7BF8A79A8294275AC0A940C8B13B64B"><enum>(o)</enum><header>Products with research use only labeling</header>
+ <paragraph id="HBFACC41B28D3458DBBBE850FBF8D1EA8"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">A product whose labeling bears the statement described in section 809.10(c)(2)(i) of title 21, Code of Federal Regulations, as in effect on the date of the enactment of this subsection, may not be deemed to be adulterated or misbranded under this Act on the basis that the manufacturer or distributor of the product—</text>
+ <subparagraph commented="no" id="HE86B3C55D00640608590DFFA87EF8B61"><enum>(A)</enum><text display-inline="yes-display-inline">sells the product to an end user who uses the product in a manner inconsistent with such statement; or</text>
+ </subparagraph><subparagraph id="H61AD33F23FE74BF8BB3A5B0A0AA18D7C"><enum>(B)</enum><text>engages in business communications regarding the product with an end user of the product.</text> </subparagraph></paragraph><paragraph id="HE203D21A77E44CB3B747EC568D44C08B"><enum>(2)</enum><header>Business communications defined</header><text display-inline="yes-display-inline">In this subsection, the term <term>business communications</term>, with respect to a product with labeling described in paragraph (1)—</text>
+ <subparagraph id="H9FF2D1BC20DC4F68A3CB02BC85A347DC"><enum>(A)</enum><text>means oral, written, or electronic contact between a manufacturer or distributor of such product and an end user regarding the functioning of such product; and</text>
+ </subparagraph><subparagraph id="H285A4E2D79F14833A5B92C04D97D6D1F"><enum>(B)</enum><text>includes any such contact consisting of technical support, customer service, assistance with the installation of such product, communication relating to ensuring the performance of the product, and other similar contacts.</text>
+ </subparagraph></paragraph><paragraph id="H2405C5226FC3418DA816A9BDA67045F7"><enum>(3)</enum><header>Sunset</header><text>This subsection shall cease to be effective on the last day of the five-year period beginning on the date of enactment of this section.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

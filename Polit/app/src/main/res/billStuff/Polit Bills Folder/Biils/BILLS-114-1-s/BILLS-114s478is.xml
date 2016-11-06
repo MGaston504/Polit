@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S478 IS: Career Ready Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-02-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 478</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150212">February 12, 2015</action-date>
+			<action-desc><sponsor name-id="S362">Mr. Kaine</sponsor> (for himself, <cosponsor name-id="S354">Ms. Baldwin</cosponsor>, and <cosponsor name-id="S349">Mr. Portman</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To promote career readiness indicators and career counseling for students.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Career Ready Act of 2015</short-title></quote>.</text>
+		</section><section id="id87841DBDD9EB49AB97C3D4EE9777C88A"><enum>2.</enum><header>Career readiness indicators</header>
+ <subsection id="id19C4623B368D4C8C907268559BF95212"><enum>(a)</enum><header>Adequate yearly progress</header><text>Section 1111(b)(2)(C)(vii) of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/6311">20 U.S.C. 6311(b)(2)(C)(vii)</external-xref>) is amended—</text>
+ <paragraph id="id23609E9949EC4104AEC3C7B832224B41"><enum>(1)</enum><text>by striking <quote>include other academic indicators</quote> and inserting <quote>include other college and career ready indicators</quote>; and</text> </paragraph><paragraph id="idADDCA5F78EAE4039BA629CFFF9005C4D"><enum>(2)</enum><text>by striking <quote>such as achievement on</quote> and all that follows through the end of the clause and inserting</text>
+					<quoted-block display-inline="yes-display-inline" id="id2304883ABF4940349A83806FAA28DC27" style="OLC">
+ <text>such as—</text><subclause id="id802D35409C4B425A90928F685F098A60"><enum>(I)</enum><text>achievement on additional State or locally administered assessments;</text> </subclause><subclause id="idAAB5FFAE55D941CBBBA3B21E8DE0D68F"><enum>(II)</enum><text>decreases in grade-to-grade retention rates;</text>
+ </subclause><subclause id="id20E7F8FDD29E4AC1ACE06E4868A82FF1"><enum>(III)</enum><text>attendance rates and rates of chronic absenteeism;</text> </subclause><subclause id="idEF615F4D36D343078D40E4D3B6CD7F1E"><enum>(IV)</enum><text>the number and percentage of students attaining recognized postsecondary credentials, as defined by the Workforce Innovation and Opportunity Act, while in secondary school;</text>
+ </subclause><subclause id="id255178DD2D5C45CBAD39D339C23F15BD"><enum>(V)</enum><text>the number and percentage of students attaining State and local adjusted levels of performance, as defined in section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006, and reported by the State in a manner consistent with section 113(c) of such Act;</text>
+ </subclause><subclause id="idD74792B883514C4FBBAD8A57579A7233"><enum>(VI)</enum><text>measures that integrate preparation for postsecondary education and the workforce, including measures of performance in coursework sequences that include rigorous academics, work-based learning, and career and technical education;</text>
+ </subclause><subclause id="idFE95B9856586424AAE7A474E312C160D"><enum>(VII)</enum><text>performance on assessments of career readiness;</text> </subclause><subclause id="id9358184504BE46D9809F35A3E7A88177"><enum>(VIII)</enum><text>rates of enrollment, remediation, persistence, and completion of postsecondary education; and</text>
+ </subclause><subclause id="id4085A483361B4204ACAA474BFFE6FCBB"><enum>(IX)</enum><text>the number, percentage, and changes in the percentages of students completing gifted and talented, advanced placement, and college preparatory courses.</text></subclause><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="id655F0079DEA2416A985F3FEE3FD96F59"><enum>(b)</enum><header>State report card optional information</header><text display-inline="yes-display-inline">Section 1111(h)(1)(D) of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/6311">20 U.S.C. 6311(h)(1)(D)</external-xref>) is amended—</text>
+ <paragraph id="idED26535B450341D5A9D08D1D409E32D2"><enum>(1)</enum><text display-inline="yes-display-inline">in clause (vi), by striking <quote>and</quote> after the semicolon;</text> </paragraph><paragraph id="idB5857DBC6EA3487CB50E8AC5902E22B6"><enum>(2)</enum><text display-inline="yes-display-inline">in clause (vii), by striking the period at the end and inserting a semicolon; and</text>
+ </paragraph><paragraph id="id454ABE36DB7547BF80F4933270D08141"><enum>(3)</enum><text display-inline="yes-display-inline">by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="idD2DF043DECD74F2F855A3AE787C65981" style="OLC"> <clause id="id6947F3795A8D43C69FAF1BD59413ACD1"><enum>(viii)</enum><text>the number and percentage of students enrolled in each public secondary school in the State who attain State and local adjusted levels of performance, as defined in section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006, and reported by the State in a manner consistent with section 113(c) of such Act;</text>
+ </clause><clause id="id723D1C1409A6415ABF54E699E03EF39D"><enum>(ix)</enum><text>the number and percentage of students enrolled in each public secondary school in the State that attain a recognized postsecondary credential, as defined in section 3 of the Workforce Innovation and Opportunity Act, while in secondary school; and</text>
+ </clause><clause id="idE48DCAFDEF164504AB5FAD33AA2712C4"><enum>(x)</enum><text>for high schools—</text> <subclause id="id69801B7C8ACC4D2D84224392E41E1EED"><enum>(I)</enum><text>the high school graduation rate; and</text>
+ </subclause><subclause id="idBA6830F2B71E4038B08E49901020FAD4"><enum>(II)</enum><text>rates of enrollment, remediation, persistence, and completion of postsecondary education for students.</text></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection></section><section id="id8804F75EC7054689A5C188A0102294D8"><enum>3.</enum><header>Career guidance and counseling</header><text display-inline="no-display-inline">Section 5421 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7245">20 U.S.C. 7245</external-xref>) is amended—</text> <paragraph id="id3021F86D60B8460BA89DA4924186F8C2"><enum>(1)</enum><text>in subsection (a)(2)(B), by striking <quote>for initiating or expanding school counseling</quote> and inserting <quote>for initiating, enriching, or expanding school counseling and career guidance</quote>;</text>
+ </paragraph><paragraph id="idAEBBF9F54F134091B4C631515D3294C5"><enum>(2)</enum><text>in subsection (b)(2)—</text> <subparagraph id="id9B05AFAC77244FB88F1E3BD00A5E8B4C"><enum>(A)</enum><text>in subparagraph (D)—</text>
+ <clause id="id9A4353139DF34100989C46B758BD616B"><enum>(i)</enum><text>by inserting <quote>local workforce development board described in section 107 of the Workforce Opportunity and Investment Act (<external-xref legal-doc="usc" parsable-cite="usc/29/3122">29 U.S.C. 3122</external-xref>), regional economic development agencies, area career and technical education schools (as defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006), local businesses and industries, organizations offering apprenticeship programs, tribal organizations, labor organizations, programs leading to a recognized postsecondary credential,</quote> after <quote>social service agencies,</quote>; and</text>
+ </clause><clause id="id6F5DA2EE9EC143B7B0B50358BBA71E26"><enum>(ii)</enum><text>by inserting <quote>, where appropriate in the case of secondary school applications</quote> after <quote>school-linked services integration</quote>;</text> </clause></subparagraph><subparagraph id="idF132439A20474928B478B2E1742EBB2E"><enum>(B)</enum><text>in subparagraph (G), by striking and after the semicolon;</text>
+ </subparagraph><subparagraph id="idC66AE043F9D24D9CA312F6E379541582"><enum>(C)</enum><text>in subparagraph (H) by striking the period at the end and inserting <quote>; and</quote>; and</text> </subparagraph><subparagraph id="id45FD498AC17F4FB08561347A2F4955C4"><enum>(D)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id43883F79CEFF43E082E7F6F78BA9B4DD" style="OLC">
+ <subparagraph id="idF50C095C1BF149AB98524386819AD4CE"><enum>(I)</enum><text>describe how the local educational agency will provide college and career awareness and exploration activities, which may begin prior to a student entering high school; and</text>
+ </subparagraph><subparagraph id="id76A0FD33CEEA4AC797FDA2FD292052EE"><enum>(J)</enum><text>describe how the local educational agency will provide students with comprehensive and timely school counseling that addresses both college and career planning needs.</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="id4E1C5AC67CA048F594C9F07016CDB057"><enum>(3)</enum><text>in subsection (c)(2)—</text> <subparagraph id="idEDEDBA9592D64EB69D7ED09A9D06D9E0"><enum>(A)</enum><text>in subparagraph (K) by striking <quote>and</quote> after the semicolon;</text>
+ </subparagraph><subparagraph id="id9812D1F0F5D14E66B222387D3CE9A2DE"><enum>(B)</enum><text>in subparagraph (L) by striking the period at the end and inserting <quote>; and</quote>; and</text> </subparagraph><subparagraph id="id46FF41A4BB034E85AAB83A45C14B3C0C"><enum>(C)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id7DD8D17C6A9049F0A25BD39A229F19DA" style="OLC">
+ <subparagraph id="id7645AA95502F431891433939B1DB37C8"><enum>(M)</enum><text>develop and implement comprehensive school counseling programs that align with the local educational agency's application;</text>
+ </subparagraph><subparagraph id="id8F02F85C37BF45DE8D80DCF05726D300"><enum>(N)</enum><text>in the case of a program serving secondary schools, identify regional workforce trends in collaboration with entities with expertise in identifying such trends, such as local workforce development boards described in section 107 of the Workforce Opportunity and Investment Act (<external-xref legal-doc="usc" parsable-cite="usc/29/3122">29 U.S.C. 3122</external-xref>) and regional economic development organizations;</text>
+ </subparagraph><subparagraph id="idE2F8CFF404254BE397B9D1D8CD7729FE"><enum>(O)</enum><text>in the case of a program serving secondary schools, train counselors to effectively provide students with labor market information;</text>
+ </subparagraph><subparagraph id="idC44E2D50ABE14A57BB430715A8423D5A"><enum>(P)</enum><text>in the case of a program serving secondary schools, develop and implement a process for school counselors and school counselor programs to access the information regarding the regional workforce trends identified in paragraph (N);</text>
+ </subparagraph><subparagraph id="idD7460C4B39354A2E97076C283FB37726"><enum>(Q)</enum><text>where appropriate, develop and implement integrated, job-embedded, and ongoing professional development programs for counselors and other educators involved in preparing students for postsecondary opportunities and careers; and</text>
+ </subparagraph><subparagraph id="id0945EF3A9232481F8785C6CBCD5AE221"><enum>(R)</enum><text>where appropriate, develop personalized learning plans for each student that map a defined program of study based on the student’s academic and career goals.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subparagraph></paragraph></section></legis-body>
+</bill>
+
+

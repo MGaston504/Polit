@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H4B7F1BFC3D0B4131AE0A0832ECDE4F2C" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3626 IH: Ensuring Affordable Energy Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3626</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150928">September 28, 2015</action-date>
+			<action-desc><sponsor name-id="P000592">Mr. Poe of Texas</sponsor> (for himself, <cosponsor name-id="D000615">Mr. Duncan of South Carolina</cosponsor>, <cosponsor name-id="J000255">Mr. Jones</cosponsor>, <cosponsor name-id="W000796">Mr. Westmoreland</cosponsor>, <cosponsor name-id="C001096">Mr. Cramer</cosponsor>, <cosponsor name-id="O000168">Mr. Olson</cosponsor>, <cosponsor name-id="B001274">Mr. Brooks of Alabama</cosponsor>, <cosponsor name-id="S000244">Mr. Sensenbrenner</cosponsor>, <cosponsor name-id="B001273">Mrs. Black</cosponsor>, <cosponsor name-id="G000552">Mr. Gohmert</cosponsor>, and <cosponsor name-id="L000566">Mr. Latta</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prohibit funding for the Environmental Protection Agency to be used to implement or enforce a
+			 cap-and-trade program for greenhouse gases, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HD6653C8ABADA497EA649ACDF7C1046E1" style="OLC">
+ <section id="HDC2C97A62E904FECABF084818E7C07AF" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ensuring Affordable Energy Act</short-title></quote>.</text> </section><section id="H048F49713C564B719E4348AAE834B7FC"><enum>2.</enum><header>Prohibition of funding for cap-and-trade program, and other requirements, for greenhouse gases</header> <subsection id="HFE8745C3AD624633A20C9AE4EFC1C0E7"><enum>(a)</enum><header>Prohibition</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, no funds appropriated or otherwise available for the Administrator of the Environmental Protection Agency may be used to implement or enforce—</text>
+ <paragraph id="H552EDEF5075D402F94DCFE7A332A97FE"><enum>(1)</enum><text>a cap-and-trade program; or</text> </paragraph><paragraph commented="no" id="H231A389C12CC4CD6B191D6A11B5BABA9"><enum>(2)</enum><text display-inline="yes-display-inline">any statutory or regulatory requirement pertaining to emissions of one or more greenhouse gases from stationary sources that is issued or becomes applicable or effective after the date of enactment of this Act, including—</text>
+ <subparagraph commented="no" display-inline="no-display-inline" id="HB8DD6ED627B54BFB9F8E402125A52450"><enum>(A)</enum><text display-inline="yes-display-inline">any such requirement under section 111 of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7411">42 U.S.C. 7411</external-xref>) or part C of title I of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7470">42 U.S.C. 7470 et seq.</external-xref>), including the final rule entitled <quote>Carbon Pollution Emission Guidelines for Existing Stationary Sources: Electric Utility Generating Units</quote> signed by the Administrator of the Environmental Protection Agency on August 3, 2015, and any requirement for a State to adopt or submit a plan, or for a State or entity within a State to become subject to a Federal plan, pursuant to such final rule; and</text>
+ </subparagraph><subparagraph commented="no" id="H34035EF84B3D4476AAA8834543C0A98B"><enum>(B)</enum><text>any such permitting requirement under the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7401">42 U.S.C. 7401 et seq.</external-xref>).</text> </subparagraph></paragraph></subsection><subsection id="H14E9C84489CB4289A1D1D91BD0548866"><enum>(b)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this Act:</text>
+ <paragraph id="H31482DC7B42A4C9FB2D2BA29C36541BE"><enum>(1)</enum><text display-inline="yes-display-inline">The term <term>cap-and-trade program</term> means any regulatory program established after the date of enactment of this Act that provides for the sale, auction, or other distribution of a limited amount of allowances that permit the emission of one or more greenhouse gases.</text>
+ </paragraph><paragraph id="H251521A2687A4FDEA287EF31566AA8D1"><enum>(2)</enum><text display-inline="yes-display-inline">The term <term>greenhouse gas</term> includes, with respect to a cap-and-trade program under subsection (a)(1) or a requirement under subsection (a)(2), any of the following:</text>
+ <subparagraph id="H1BD806EAEFD04BE794B2626125127DAD"><enum>(A)</enum><text>Carbon dioxide.</text> </subparagraph><subparagraph id="H2A877FB35E854B95A9377EEBDBF94AB5"><enum>(B)</enum><text>Methane.</text>
+ </subparagraph><subparagraph id="H49B19C6E6F7140C09F21CAD00C9E86E5"><enum>(C)</enum><text>Nitrous oxide.</text> </subparagraph><subparagraph id="HDE76A63C634540749C7151029AB2B269"><enum>(D)</enum><text display-inline="yes-display-inline">Sulfur hexafluoride.</text>
+ </subparagraph><subparagraph id="H13258AE96E174605A5135CED912DE66B"><enum>(E)</enum><text>Hydrofluorocarbons.</text> </subparagraph><subparagraph id="HBF9FDFEC95DB4D9EBB59243FEE13971E"><enum>(F)</enum><text>Perfluorocarbons.</text>
+ </subparagraph><subparagraph id="HCE8FD3F50F2E46FE9BF0068BA29F3834"><enum>(G)</enum><text>Any other anthropogenic gas designated as a greenhouse gas for purposes of such cap-and-trade program or such requirement.</text>
+ </subparagraph></paragraph><paragraph id="H7666CDC61D6E4DD88E2DE9AAA552E782"><enum>(3)</enum><text>The term <term>stationary source</term> has the meaning given such term in section 111(a)(3) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7411">42 U.S.C. 7411(a)(3)</external-xref>).</text> </paragraph></subsection></section></legis-body> </bill> 
+

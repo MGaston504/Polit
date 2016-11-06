@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H7C57872399594B9C92223A0BD26916A3" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1463 IH: SEC Revolving Door Restriction Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1463</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150319">March 19, 2015</action-date>
+			<action-desc><sponsor name-id="L000562">Mr. Lynch</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Securities Exchange Act of 1934 to provide for a one-year employment restriction for
+			 ex-employees of the Securities and Exchange Commission seeking to work for
+			 companies against which the Commission brought enforcement actions that
+			 were participated on by such ex-employees, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HB5A4B81CC1B349CE978CAB0646D8BBB4" style="OLC">
+ <section id="HAD32EAC423E94C4F81F3F52F09EBBACF" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>SEC Revolving Door Restriction Act of 2015</short-title></quote>.</text> </section><section id="H7B2A4D85F41A48628B4D82AD8856AC50"><enum>2.</enum><header>One-year employment restriction related to enforcement matters</header> <subsection id="HE2D01AED32B44E07BB1F19F1D49570D9"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78a">15 U.S.C. 78a et seq.</external-xref>) is amended by inserting after section 4E the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="H09A3250B048F4DA387E098989FC91627" style="OLC">
+					<section id="H90FFCF0EC99E4FF3B04672E49C419922"><enum>4F.</enum><header>One-year employment restriction related to enforcement matters and required ethics opinions</header>
+ <subsection id="HF780A599560A4BF486C5A1BE440E33DA"><enum>(a)</enum><header>One-Year employment restriction</header><text>Any person who is an employee of the Commission and who, within 1 year after the termination of such employment with the Commission, works for any company or individual against whom the Commission brought an enforcement action, where such action (or a waiver related to such action) was brought within the previous 18 months and was participated on by such person, shall be subject to the same penalties as provided for in section 216 of title 18, United States Code, for offenses described in that section.</text>
+						</subsection><subsection id="HD9AFF91AF5214E1C925A30217DE284C2"><enum>(b)</enum><header>Required ethics opinion</header>
+ <paragraph id="HB5BBE8031D904BD2AF50206B8379CC56"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Any person who is an employee of the Commission and who, within 1 year after the termination of such employment with the Commission, seeks to work for any company or individual against whom the Commission brought an enforcement action (or issued a waiver related to such action) where such action (or waiver) was participated on by such person, shall first receive an ethics opinion from the Commission.</text>
+							</paragraph><paragraph id="HA1029ADD64BC41F1B3201303DEB93A42"><enum>(2)</enum><header>Ethics opinion</header>
+ <subparagraph id="HB6EDCCBCD78E418E904F4284F12F8E90"><enum>(A)</enum><header>Content</header><text display-inline="yes-display-inline">The ethics opinion described in paragraph (1) shall include a determination of whether such person should be permitted to work for such company or individual.</text>
+ </subparagraph><subparagraph id="H23CB3648A6B54AE1A03698326E7E7749"><enum>(B)</enum><header>Determination requirements</header><text>The Commission may not determine, under subparagraph (A), that such person should be permitted to work for such company or individual unless the Commission finds that—</text>
+ <clause id="H8D4BC6FB0EEE496DB260F3C0CB79DA83"><enum>(i)</enum><text display-inline="yes-display-inline">there would be no appearance of impropriety for such person to work for such company or individual;</text> </clause><clause id="H02BA124F602547009B3F5B4A0FC9940A"><enum>(ii)</enum><text>no material advantage would be gained by such company or individual because such person participated on an enforcement action (or a waiver related to such action); and</text>
+ </clause><clause id="H12A5839DC6414FBB85A4C85F5760D328"><enum>(iii)</enum><text display-inline="yes-display-inline">the integrity of any ongoing enforcement action participated on by such person is not diminished by such person going to work for such company or individual.</text>
+ </clause></subparagraph><subparagraph id="H76187FC21E9E4F0586C34C2C3389BA80"><enum>(C)</enum><header>Regulations</header><text display-inline="yes-display-inline">The Chairman of the Commission shall provide for regulations for the issuance of ethics opinions under this subsection.</text>
+ </subparagraph></paragraph><paragraph id="H337332266CF2423EAD65AA78D91585D5"><enum>(3)</enum><header>Penalties</header><text display-inline="yes-display-inline">A person shall be subject to the same penalties as provided for in section 216 of title 18, United States Code, for offenses described in that section, if such person—</text>
+ <subparagraph id="H43ECCAC83EAF496C9571128E726F6B83"><enum>(A)</enum><text>receives an ethics opinion under paragraph (1), where such ethics opinion states that such person should not be permitted to work for a particular company or individual; and</text>
+ </subparagraph><subparagraph id="H617EE64680504EEDBB8FD1AD1C8A6910"><enum>(B)</enum><text>within 1 year after the termination of such person’s employment with the Commission, the person works for such company or individual.</text>
+ </subparagraph></paragraph></subsection><subsection id="H83E7C640775B481A92B0A3794AEC1165"><enum>(c)</enum><header>Exception for non-Professional staff</header><text>The provisions of this section shall not apply to a person who is a non-professional staff employee of the Commission.</text>
+ </subsection><subsection id="HC013DE0BBC5B4F2797452BAA8EF241F1"><enum>(d)</enum><header>Definitions</header><text>For purposes of this section:</text> <paragraph id="HD52DCE4E4F4F4D19A80C5F719F476CB8"><enum>(1)</enum><header>Enforcement action</header><text>The term <quote>enforcement action</quote> means such court actions, administrative proceedings, Commission opinions, and other actions, as the Commission may determine appropriate.</text>
+ </paragraph><paragraph id="HEE814D303F954ABFA3EC6A52DC7315AC"><enum>(2)</enum><header>Participated on</header><text display-inline="yes-display-inline">With respect to an enforcement action (or a waiver related to such action) and a person, the term <quote>participated on</quote> means the person either—</text> <subparagraph id="H26250D6484DD4D1DAA9A7FD512805D63"><enum>(A)</enum><text display-inline="yes-display-inline">participated personally in the enforcement action (or waiver related to such action); or</text>
+ </subparagraph><subparagraph id="H7DD7AD964860477B9FDE8775C0FD8FDD"><enum>(B)</enum><text display-inline="yes-display-inline">knew or reasonably should have known that the enforcement action (or waiver related to such action) was under his or her official responsibility as an employee of the Commission.</text>
+ </subparagraph></paragraph><paragraph id="HCB9E97815D904BE0AC747BA52E7D84D3"><enum>(3)</enum><header>Work for</header><text display-inline="yes-display-inline">The term <quote>work for</quote> means—</text> <subparagraph id="H37E6505607F140DBA0F1660EC15116DB"><enum>(A)</enum><text>employed by;</text>
+ </subparagraph><subparagraph id="HE99D97906E6E415D9AAB48FB7D1315CC"><enum>(B)</enum><text>volunteers for;</text> </subparagraph><subparagraph id="HA73E3A704BD14E4C9F1E882A42977842"><enum>(C)</enum><text>lobbies on behalf of; or</text>
+ </subparagraph><subparagraph id="HA6FCB694A1C449DAA3B62863C0A0C9E8"><enum>(D)</enum><text>consults for.</text> </subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="H91D32BAE0CF24D6E9675D1C594C2A570"><enum>(b)</enum><header>Report</header><text display-inline="yes-display-inline">One year after the date of the enactment of this Act, the Chairman of the Securities and Exchange Commission shall submit a report to the Congress analyzing the impact that the provisions of this Act have had on recruitment and retention of employees by the Securities and Exchange Commission.</text>
+ </subsection><subsection id="HB83E751B412D4F0290EFFB269F01581B"><enum>(c)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall take effect 60 days after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

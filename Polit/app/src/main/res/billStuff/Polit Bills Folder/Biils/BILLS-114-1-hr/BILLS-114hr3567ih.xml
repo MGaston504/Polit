@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8A5307AC5DC74D26A74ABCE0A9145358" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3567 IH: HMDA Repeal Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3567</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150918">September 18, 2015</action-date>
+			<action-desc><sponsor name-id="B001290">Mr. Brat</sponsor> (for himself and <cosponsor name-id="C000266">Mr. Chabot</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To repeal the Home Mortgage Disclosure Act of 1975, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H8C940DF82465458B81DEA56D51115C08" style="OLC">
+ <section id="H9AE96A17F87E4D038F7FCA7CFE94CD6E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>HMDA Repeal Act of 2015</short-title></quote>.</text> </section><section id="HE0A5D26464E24F9093FEA4ED2535F29D" section-type="subsequent-section"><enum>2.</enum><header>Repeal of the Home Mortgage Disclosure Act of 1975</header> <subsection id="H68E9581CF90441A2B4A5482F8F665C9E"><enum>(a)</enum><header>Repeal</header><text display-inline="yes-display-inline">The Home Mortgage Disclosure Act of 1975 (<external-xref legal-doc="usc" parsable-cite="usc/12/2801">12 U.S.C. 2801 et seq.</external-xref>) is repealed.</text>
+			</subsection><subsection id="HDAAA9440B4064C01BFDC3776C7F2E61F"><enum>(b)</enum><header>Conforming amendments</header>
+ <paragraph id="H6089DE8F0276439F9D52C10A0639A450"><enum>(1)</enum><header>Federal Home Loan Bank Act</header><text display-inline="yes-display-inline">Section 10(k)(1) of the Federal Home Loan Bank Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1430">12 U.S.C. 1430(k)(1)</external-xref>) is amended by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B).</text>
+ </paragraph><paragraph id="H87043CE1F57945E6A133C51F9297596C"><enum>(2)</enum><header>Housing and Community Development Act of 1992</header><text display-inline="yes-display-inline">The Housing and Community Development Act of 1992 (<external-xref legal-doc="usc" parsable-cite="usc/12/4501">12 U.S.C. 4501 et seq.</external-xref>) is amended—</text> <subparagraph id="H983FF372E63A4FA296DBE11721EB1701"><enum>(A)</enum><text>in section 1323(a), by striking paragraph (2) (relating to <quote>Census tract level reporting</quote>);</text>
+ </subparagraph><subparagraph id="H32CD6B0530894427BE396864A67C7086"><enum>(B)</enum><text>in section 1326, by amending subsection (d) to read as follows:</text> <quoted-block display-inline="no-display-inline" id="HBB5DD3564E4E4B17BC283510E9BAAC72" style="OLC"> <subsection id="H8DF426A2654746939AC0E89B0702D0AD"><enum>(d)</enum><header>Mortgage information</header><text display-inline="yes-display-inline">Subject to privacy considerations, the Director shall, by regulation or order, provide that certain information relating to single family mortgage data of the enterprises shall be disclosed to the public, in order to make available to the public information collected by the Director under section 1324(b)(6).</text></subsection><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </subparagraph><subparagraph id="H123733BC2CAA4DD983CC5C4AB68F117F"><enum>(C)</enum><text>in section 1332(e)—</text> <clause id="H68251287B6AF47C68B0A9BD1D024BCDB"><enum>(i)</enum><text>in paragraph (2)(A)—</text>
+ <subclause id="H39B5964E2F07487FBC0A2731D1FBB239"><enum>(I)</enum><text display-inline="yes-display-inline">by striking <quote>and for which information under the Home Mortgage Disclosure Act of 1975 is publicly available</quote>;</text> </subclause><subclause id="H9F30CABB741C4BB887C53447659BFCB7"><enum>(II)</enum><text>in clause (i), by striking <quote>, or</quote> and inserting <quote>; or</quote>;</text>
+ </subclause><subclause id="HBEB73889FEDB465484D48CEE9EAB5BCB"><enum>(III)</enum><text>in clause (ii), by striking the comma at the end and inserting a period; and</text> </subclause><subclause id="HB177318916C44C3DB1ACCCF7B8D5D0B0"><enum>(IV)</enum><text>by striking the matter after and below clause (ii); and</text>
+ </subclause></clause><clause id="H9B8C8F235ABA404DA9B882BB7CC3B8B8"><enum>(ii)</enum><text>by striking paragraphs (4) and (5).</text> </clause></subparagraph></paragraph><paragraph id="H00599F5DFA3449888B6B70A5E37856FD"><enum>(3)</enum><header>Dodd-Frank Wall Street Reform and Consumer Protection Act</header><text display-inline="yes-display-inline">The Dodd-Frank Wall Street Reform and Consumer Protection Act (<external-xref legal-doc="usc" parsable-cite="usc/12/5301">12 U.S.C. 5301 et seq.</external-xref>) is amended—</text>
+ <subparagraph id="H241B9B41984941FCB8D223E1A95D93C7"><enum>(A)</enum><text>in section 1002(12)—</text> <clause id="HFB112FC42F4C424895A42F0520FD30E6"><enum>(i)</enum><text>by striking subparagraph (K); and</text>
+ </clause><clause id="H2B59BB406D474D0499CCBF29BB392B74"><enum>(ii)</enum><text>by redesignating subparagraphs (L) through (R) as subparagraphs (K) through (Q), respectively; and</text> </clause></subparagraph><subparagraph id="HA8B8DC2BCB8340889AD11AE637B8282A"><enum>(B)</enum><text>in section 1013(c)(2)(A), by striking <quote>and the Home Mortgage Disclosure Act</quote>.</text>
+					</subparagraph></paragraph></subsection></section></legis-body>
+</bill>
+
+

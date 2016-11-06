@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1723 IS: Promoting Renewable Energy with Shared Solar Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-07-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1723</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150709">July 9, 2015</action-date>
+			<action-desc><sponsor name-id="S359">Mr. Heinrich</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Public Utility Regulatory Policies Act of 1978 to promote safe and reliable
+			 interconnection and net billing for community solar facilities.</official-title>
+	</form>
+	<legis-body>
+ <section id="id28CB32AB94CE47C39E65E5DDF1D5A4B6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Promoting Renewable Energy with Shared Solar Act of 2015</short-title></quote>.</text> </section><section id="id623C4F5066CD442E851D12C9ADA905DF" section-type="subsequent-section"><enum>2.</enum><header>Provision of interconnection service and net billing service for community solar facilities</header> <subsection id="id2A9B8739467A41EEA6F7A27C81B360B4"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2621">16 U.S.C. 2621(d)</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="ida2931e98eab94a32a3f4a0ac1479ee56" style="OLC">
+					<paragraph id="id41a4f4a0d00948148cc065e160e9d5c0"><enum>(20)</enum><header>Community solar facilities</header>
+ <subparagraph id="id8E86FD6D528C46ED9B9A057074B9013E"><enum>(A)</enum><header>Definitions</header><text>In this paragraph:</text> <clause id="idDF602F3EA0224464A6D3E9E91C541361"><enum>(i)</enum><header>Community solar facility</header><text>The term <term>community solar facility</term> means a solar photovoltaic system that—</text>
+ <subclause id="idE8953F921D0E4C29AB047733D1548D12"><enum>(I)</enum><text>allocates electricity to multiple individual electric consumers of an electric utility;</text> </subclause><subclause id="id7304B50E8093405E928075FC79F5AFCF"><enum>(II)</enum><text>has a nameplate rating of 2 megawatts or less; and</text>
+ </subclause><subclause id="idF3221DFA2D844650899D2C466E65F227"><enum>(III)</enum><text>is—</text> <item id="ida5582c3f1a8e4b8498358344c79342f6"><enum>(aa)</enum><text>owned by the electric utility, jointly owned, or third-party-owned;</text>
+ </item><item id="id8dfe59aedbd647a0b6167496f68d643c"><enum>(bb)</enum><text>connected to a local distribution facility of the electric utility; and</text> </item><item id="id6789626e417f44d3a9f868fb6b85482c"><enum>(cc)</enum><text>located on or off the property of a consumer of the electricity.</text>
+ </item></subclause></clause><clause id="id2614d6392875433abf5c403e626f533b"><enum>(ii)</enum><header>Interconnection service</header><text>The term <term>interconnection service</term> means a service provided by an electric utility to an electric consumer, in accordance with the standards described in paragraph (15), through which a community solar facility is connected to an applicable local distribution facility.</text>
+ </clause><clause id="id0f4f3e6e3e1f4845bf128f3c60d84c8b"><enum>(iii)</enum><header>Net billing service</header><text>The term <term>net billing service</term> means a service provided by an electric utility to an electric consumer through which electric energy generated for that electric consumer from a community solar facility may be used to offset electric energy provided by the electric utility to the electric consumer during the applicable billing period.</text>
+ </clause></subparagraph><subparagraph id="idDDC4B952E250455CB19988A5CDEB9D0F"><enum>(B)</enum><header>Requirement</header><text>On receipt of a request of an electric consumer served by the electric utility, each electric utility shall make available to the electric consumer interconnection service and net billing service for a community solar facility.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="id85caee621b0343b8aa137f1b073ea30d"><enum>(b)</enum><header>Compliance</header>
+ <paragraph id="idc2f51dd14eee4e0ab74284ed748a4ac8"><enum>(1)</enum><header>Time limitations</header><text>Section 112(b) of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2622">16 U.S.C. 2622(b)</external-xref>) is amended by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="idc097ca0e018f4cc59f42c5dad0002852" style="OLC">
+ <paragraph id="id713f1b2caba545a7849a6f9fc72c4a1f"><enum>(7)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="id1CB08B63844E4462AFBACBAB9280354C"><enum>(A)</enum><text>Not later than 1 year after the date of enactment of this paragraph, each State regulatory authority (with respect to each electric utility for which the State has ratemaking authority) and each nonregulated utility shall commence consideration under section 111, or set a hearing date for consideration, with respect to the standard established by paragraph (20) of section 111(d).</text>
+ </subparagraph><subparagraph id="id8ba0c07fa6724ba681d960b2f77d7362" indent="up1"><enum>(B)</enum><text>Not later than 2 years after the date of enactment of this paragraph, each State regulatory authority (with respect to each electric utility for which the State has ratemaking authority), and each nonregulated electric utility shall complete the consideration and make the determination under section 111 with respect to the standard established by paragraph (20) of section 111(d).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="id7f29a4a292044ea380d74decb9adbe0b"><enum>(2)</enum><header>Failure to comply</header>
+ <subparagraph id="id7882BF19DF5C4BC7A2C352C9DF31BB1E"><enum>(A)</enum><header>In general</header><text>Section 112(c) of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2622">16 U.S.C. 2622(c)</external-xref>) is amended—</text>
+ <clause id="id67A9F576DECF4B879464457E7C8C56B7"><enum>(i)</enum><text>by striking <quote>such paragraph (14)</quote> and all that follows through <quote>paragraphs (16)</quote> and inserting <quote>such paragraph (14). In the case of the standard established by paragraph (15) of section 111(d), the reference contained in this subsection to the date of enactment of this Act shall be deemed to be a reference to the date of enactment of that paragraph (15). In the case of the standards established by paragraphs (16)</quote>; and</text>
+ </clause><clause id="id578CD8EB63424E8E8E3983E3751197F8"><enum>(ii)</enum><text>by adding at the end the following: <quote>In the case of the standard established by paragraph (20) of section 111(d), the reference contained in this subsection to the date of enactment of this Act shall be deemed to be a reference to the date of enactment of that paragraph (20).</quote>.</text>
+						</clause></subparagraph><subparagraph id="id773258DBBEDD46CBA5B8004C953D17E6"><enum>(B)</enum><header>Technical correction</header>
+ <clause id="idC78897E3418A4D7E80FFDB090AB71D2C"><enum>(i)</enum><header>In general</header><text>Section 1254(b) of the Energy Policy Act of 2005 (<external-xref legal-doc="public-law" parsable-cite="pl/109/58">Public Law 109–58</external-xref>; 119 Stat. 971) is amended by striking paragraph (2).</text>
+ </clause><clause id="id5F7562780602448D91BCC0E70BB0212B"><enum>(ii)</enum><header>Treatment</header><text>The amendment made by paragraph (2) of section 1254(b) of the Energy Policy Act of 2005 (<external-xref legal-doc="public-law" parsable-cite="pl/109/58">Public Law 109–58</external-xref>; 119 Stat. 971) (as in effect on the day before the date of enactment of this Act) is void, and section 112(d) of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2622">16 U.S.C. 2622(d)</external-xref>) shall be in effect as if those amendments had not been enacted.</text>
+						</clause></subparagraph></paragraph><paragraph id="id3a92a0b025aa40ffba674bb76ce39f0a"><enum>(3)</enum><header>Prior State actions</header>
+ <subparagraph id="id61e46c6fe1d74351bd10474ee10955fd"><enum>(A)</enum><header>In general</header><text>Section 112 of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2622">16 U.S.C. 2622</external-xref>) is amended by adding at the end the following:</text>
+						<quoted-block display-inline="no-display-inline" id="idb8244d31fe204baebda03d399217b60c" style="OLC">
+ <subsection id="id6c7f3d01ab8144bcabca572d0b0dd9b1"><enum>(g)</enum><header>Prior State actions</header><text>Subsections (b) and (c) shall not apply to the standard established by paragraph (20) of section 111(d) in the case of any electric utility in a State if, before the date of enactment of this subsection—</text>
+ <paragraph id="id8903fc0055bc4f7eaf074dba36c8bb97"><enum>(1)</enum><text>the State has implemented for the electric utility the standard (or a comparable standard);</text> </paragraph><paragraph id="id0e413e5e0624400897ca23407da95ba7"><enum>(2)</enum><text>the State regulatory authority for the State or the relevant nonregulated electric utility has conducted a proceeding to consider implementation of the standard (or a comparable standard) for the electric utility; or</text>
+ </paragraph><paragraph id="id98d50f35229e4fb59845ea1f8cc7501a"><enum>(3)</enum><text>the State legislature has voted on the implementation of the standard (or a comparable standard) for the electric utility.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subparagraph><subparagraph id="idf623881e6efc41a8874c3b8120ed6f7c"><enum>(B)</enum><header>Cross-reference</header><text>Section 124 of the Public Utility Regulatory Policy Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2634">16 U.S.C. 2634</external-xref>) is amended by adding at the end the following: <quote>In the case of the standard established by paragraph (20) of section 111(d), the reference contained in this subsection to the date of enactment of this Act shall be deemed to be a reference to the date of enactment of that paragraph (20).</quote>.</text>
+					</subparagraph></paragraph></subsection></section></legis-body>
+</bill>
+
+

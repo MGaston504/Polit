@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H3FC373888A564D3EB536B1F7DE59F466" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2505 IH: Medicare Advantage Coverage Transparency Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2505</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150521">May 21, 2015</action-date>
+			<action-desc><sponsor name-id="K000376">Mr. Kelly of Pennsylvania</sponsor> (for himself, <cosponsor name-id="B001257">Mr. Bilirakis</cosponsor>, and <cosponsor name-id="K000188">Mr. Kind</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to require the annual reporting of data on
+			 enrollment in Medicare Advantage plans.</official-title>
+	</form>
+	<legis-body id="H2C43477C6CD046CD8592AC0FEB175535" style="OLC">
+ <section id="HE3BAEB56DAB74E969756212D45CD806F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medicare Advantage Coverage Transparency Act of 2015</short-title></quote>.</text> </section><section id="HC2DDF1A811F8467D9E580973A2328CC5" section-type="subsequent-section"><enum>2.</enum><header>Requirement for enrollment data reporting for Medicare Advantage</header><text display-inline="no-display-inline">Section 1859 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-28">42 U.S.C. 1395w–28</external-xref>) is amended by adding at the end the following new subsection:</text>
+			<quoted-block display-inline="no-display-inline" id="HCC0CEFA2A0CD4D8BAA12B9406131257C" style="OLC">
+				<subsection id="H51407B6801024672866860BE8D29FDB3"><enum>(h)</enum><header>Requirement for enrollment data reporting</header>
+ <paragraph id="H272D074A91414596B0EB030B0AD9A9BF"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than May 1 of each year (beginning with 2016), the Secretary shall submit to the Committees on Ways and Means and Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate a report on enrollment data of the plan year ending before January 1 of such year. Such enrollment data shall be presented—</text>
+ <subparagraph id="HC985B3E16CA84F7496CFF8BC848332F1"><enum>(A)</enum><text>by zip code, congressional district, and State; and</text> </subparagraph><subparagraph id="H188E4BCF95594EB89CD23439FAC3E7EA"><enum>(B)</enum><text>in a manner that provides for such data for each MA–PD plan and for each MA plan that is not an MA–PD plan.</text>
+ </subparagraph></paragraph><paragraph id="HAF6AD1FFEEE94B488796ADD4F4B19F52"><enum>(2)</enum><header>Delay of deadline</header><text>If the Secretary is unable to submit a report under paragraph (1) by May 1 of year for data of the plan year ending before January 1 of such year, the Secretary shall, not later than April 30 of such year notify the committees described in such paragraph of—</text>
+ <subparagraph id="HEB3517C152994987BF59859B1F70F6A0"><enum>(A)</enum><text>such inability, including an explanation for such inability; and</text> </subparagraph><subparagraph id="HBC9CF65D9AC340D9ADDD07DCAB1EC66B"><enum>(B)</enum><text>the date by which the Secretary will provide such report, which shall be not later than June 1 of such year.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

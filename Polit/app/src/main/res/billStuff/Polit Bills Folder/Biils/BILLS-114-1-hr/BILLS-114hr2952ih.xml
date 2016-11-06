@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HFDFBFF1F491140A591C135C01F12B80C" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2952 IH: Improving Employment Outcomes of TANF Recipients Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2952</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150707">July 7, 2015</action-date>
+			<action-desc><sponsor name-id="B001255">Mr. Boustany</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide payments to States for increasing the employment, job retention, and earnings of former
+			 TANF recipients.</official-title>
+	</form>
+	<legis-body id="H237882678C8C4EA7AE2EF0DE3327DA26" style="OLC">
+ <section id="HFCBC0DBE894D41D0BFA1834FB8FC35A7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Improving Employment Outcomes of TANF Recipients Act</short-title></quote>.</text> </section><section id="H0DD66DDD8C634F7EB4E62426AD5B1B63"><enum>2.</enum><header>Increasing economic mobility of TANF recipients</header> <subsection id="H52371857FB0C417985DFF9E833A0AA78"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 403(a)(4) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/603">42 U.S.C. 603(a)(4)</external-xref>) is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="H1595DA8DC60D4CE19574F575E654A677" style="OLC">
+					<paragraph id="H7E0E09E638DF4CFFAED85BE2034FAFE0"><enum>(4)</enum><header>Increasing economic mobility of TANF recipients</header>
+ <subparagraph id="HAD446A2420E64800869383D72F9D0A3D"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary shall make a grant under this paragraph to each State, with respect to each fiscal year for which the State achieves the requisite level of performance with respect to an indicator described in subparagraph (C)(ii), in the immediately succeeding fiscal year.</text>
+						</subparagraph><subparagraph id="H12F431FF922A4D60A4B53206515C7148"><enum>(B)</enum><header>Amount of grant</header>
+ <clause id="HAF4401A07687418C81C43F049CA6B3E5"><enum>(i)</enum><header>In general</header><text>The amount of the grant payable to a State with respect to a fiscal year for which the State achieves the requisite level of performance with respect to an indicator described in subparagraph (C)(ii) shall be the following:</text>
+ <subclause id="HA6F124AA1C2A46AF992E10F6FCA7A9C7"><enum>(I)</enum><text display-inline="yes-display-inline">40 percent of the available amount with respect to the State for the fiscal year, if the indicator is described in subparagraph (C)(ii)(I).</text>
+ </subclause><subclause id="HF2F01121042F476DB842588B5768CE8B"><enum>(II)</enum><text display-inline="yes-display-inline">30 percent of the available amount with respect to the State for the fiscal year, if the indicator is described in subparagraph (C)(ii)(II).</text>
+ </subclause><subclause id="HB0AABB8AFF1B4035A6989262F96F18C5"><enum>(III)</enum><text display-inline="yes-display-inline">30 percent of the available amount with respect to the State for the fiscal year, if the indicator is described in subparagraph (C)(ii)(III).</text>
+ </subclause></clause><clause id="HDEA48A8DD02B4D259B1B1037B71C45E7"><enum>(ii)</enum><header>Available amount defined</header><text display-inline="yes-display-inline">In clause (i), the term ‘available amount’ means, with respect to a State and a fiscal year, the amount (if any) by which—</text>
+ <subclause id="HE44508B89E6E41D1ABB4DC825833AD8A"><enum>(I)</enum><text display-inline="yes-display-inline">the State family assistance grant that would be payable to the State for the fiscal year in the absence of this paragraph; exceeds</text>
+ </subclause><subclause id="HF7508B4240E24355900A9BB6F1ACF9FB"><enum>(II)</enum><text display-inline="yes-display-inline">the State family assistance grant actually payable to the State for the fiscal year.</text> </subclause></clause></subparagraph><subparagraph id="H7D9D5C863A6B453C8C9B6C1F5B928ACA"><enum>(C)</enum><header>Measuring State performance</header> <clause id="HB2999135F9804AC4B7A9EC8AEE9424C6"><enum>(i)</enum><header>In general</header><text>Each State, in consultation with the Secretary, shall establish levels of performance for each indicator described in clause (ii), for fiscal year 2017 and each fiscal year thereafter.</text>
+ </clause><clause id="HB279FEDEC663462398B28194FFD7D464"><enum>(ii)</enum><header>Indicators</header><text display-inline="yes-display-inline">The indicators described in this clause are the following:</text> <subclause id="H9F37684799FE4B9AA16894D810B88DB1"><enum>(I)</enum><text display-inline="yes-display-inline">The percentage of former adult recipients of assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i)) who, while such recipients, were required to be engaged in work in accordance with section 407, and are in unsubsidized employment during the 2nd quarter after exiting from the program.</text>
+ </subclause><subclause id="H53128A0F3D4946A2B63195BEA86BC1E2"><enum>(II)</enum><text display-inline="yes-display-inline">The percentage of former recipients of such assistance who are in unsubsidized employment during the 4th quarter after exiting from the program.</text>
+ </subclause><subclause id="HE54BAAC42D0142A19E87D2D508F02140"><enum>(III)</enum><text display-inline="yes-display-inline">The percentage change in median earnings of former recipients of such assistance who are in unsubsidized employment in the 4th quarter after exiting from the program compared with the median earnings of former recipients who are in unsubsidized employment in the 2nd quarter after exiting from the program.</text>
+								</subclause></clause><clause id="H65C1F0064FE34213B6C5A0630FCC13C7"><enum>(iii)</enum><header>Agreement on requisite performance level for each indicator</header>
+ <subclause id="H42CE94F779BF49E7A62F9AF15085AC39"><enum>(I)</enum><header>Fiscal years 2017 and 2018</header><text display-inline="yes-display-inline">Each State shall reach agreement with the Secretary on the requisite level of performance for each indicator described in clause (ii), for each of fiscal years 2017 and 2018.</text>
+ </subclause><subclause id="H0DF08C6F128B43F4AFAC308359A47396"><enum>(II)</enum><header>Fiscal years 2019 and 2020</header><text display-inline="yes-display-inline">Each State shall reach agreement with the Secretary, before fiscal year 2019, on the requisite level of performance with respect to each indicator described in clause (ii), for each of fiscal years 2019 and 2020.</text>
+								</subclause></clause></subparagraph><subparagraph id="HF5BB25885C2746E1AB522912531B67C1"><enum>(D)</enum><header>Report on State performance</header>
+ <clause id="HFDBBDAEB0BE944E89C4AC357CA71A5EC"><enum>(i)</enum><header>In general</header><text>Not later than October 1, 2016, the Secretary shall develop a template which each State shall use to report on outcomes achieved under the State program funded under this part.</text>
+ </clause><clause id="H3FF282A267A841D69D0458797CC00B70"><enum>(ii)</enum><header>Contents</header><text>Each such report shall include—</text> <subclause id="H2710FF4EE57C40DA8C05D468D3C9D403"><enum>(I)</enum><text display-inline="yes-display-inline">the number of individuals who exited the program during the year;</text>
+ </subclause><subclause id="H11F89E4BA3F84774A1EB41D9F75D50D7"><enum>(II)</enum><text display-inline="yes-display-inline">the characteristics of the individuals who exited the program during the year, including information on the length of time for which the individual received assistance under the program; and</text>
+ </subclause><subclause id="H47643427F749453D9B80E3175263EF06"><enum>(III)</enum><text display-inline="yes-display-inline">information specifying the levels of performance achieved with respect to each indicator described in subparagraph (C)(ii).</text>
+ </subclause></clause><clause id="H52DE698A60954C04BF201C72B722D029"><enum>(iii)</enum><header>Publication</header><text display-inline="yes-display-inline">Not later than September 30 of fiscal year 2019 and of each succeeding fiscal year, the Secretary shall make available to the public electronically each report submitted under this subparagraph during the fiscal year.</text>
+							</clause></subparagraph><subparagraph id="H1E3C41F7765A4066A7BC8842A200CF73"><enum>(E)</enum><header>State failure to meet performance measures</header>
+ <clause id="H574E28B3EC524182B65E659389877FB2"><enum>(i)</enum><header>Reservation of funds; required State spending</header><text display-inline="yes-display-inline">If a State fails to achieve the requisite level of performance with respect to an indicator described in subparagraph (C)(ii) of this paragraph and a fiscal year—</text>
+ <subclause id="H0D6A930DCCAB44D49F24EBECD90CD765"><enum>(I)</enum><text display-inline="yes-display-inline">the Secretary shall reserve the funds that would have been payable to the State under this paragraph if the State had achieved the level; and</text>
+ </subclause><subclause id="HD51F77101BF54F4C9FFB2CF7ADFFE29D"><enum>(II)</enum><text display-inline="yes-display-inline">the level of State expenditures otherwise required to avoid a penalty under section 409(a)(7) in the succeeding fiscal year shall be increased by the amount so reserved.</text>
+ </subclause></clause><clause id="H83D57F682C5D4ED6BD073B5201E418AE"><enum>(ii)</enum><header>Corrective action</header><text display-inline="yes-display-inline">The Secretary shall award to a State all funds reserved under clause (i) for the fiscal year with respect to the State, an indicator, and a fiscal year, in the immediately succeeding fiscal year, if, in the immediately succeeding fiscal year, the State—</text>
+ <subclause id="H0E8BAEA8AC5C4B239B936F47919F7573"><enum>(I)</enum><text display-inline="yes-display-inline">achieves the requisite level of performance for the State with respect to the indicator; or</text> </subclause><subclause id="H0B479222D7864C958C889F53E9088468"><enum>(II)</enum><text display-inline="yes-display-inline">improves the State’s level of performance with respect to the indicator by at least half of the amount by which the State’s requisite level of performance with respect to the indicator in the fiscal year exceeded the actual level of performance achieved by the State with respect to the indicator in the fiscal year.</text>
+ </subclause></clause></subparagraph><subparagraph id="H1623D3E4103C456598576E5BDCD034A0"><enum>(F)</enum><header>Funding</header><text display-inline="yes-display-inline">The following percentages of the amounts appropriated under paragraph (1)(C) for the following fiscal years are reserved for grants under this paragraph for the fiscal years:</text>
+ <clause id="HD522C2962DCB4DD7BB80522516FDAFBC"><enum>(i)</enum><text>4 percent, in the case of fiscal year 2018.</text> </clause><clause id="H3C386B519D6B486492BBECCE999F5228"><enum>(ii)</enum><text>10 percent, in the case of each of fiscal years 2019 and 2020.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H6552C54781D94C499969FA25B92F1854"><enum>(b)</enum><header>Conforming amendment</header><text display-inline="yes-display-inline">Section 403(a)(1)(B) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/603">42 U.S.C. 603(a)(1)(B)</external-xref>) is amended by inserting <quote>, reduced by the percentage (if any) specified in paragraph (4)(F) with respect to the fiscal year,</quote> before <quote>as the amount</quote>.</text> </subsection><subsection id="H30C6B023604347F994172752BAECE588"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this Act shall take effect on October 1, 2015.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

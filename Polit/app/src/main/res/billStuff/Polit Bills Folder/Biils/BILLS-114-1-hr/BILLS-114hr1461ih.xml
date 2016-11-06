@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5D5F7C626B7D41B097D041D0B8BEFF01" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1461 IH: DRIVE Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1461</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150319">March 19, 2015</action-date> 
+<action-desc><sponsor name-id="M001184">Mr. Massie</sponsor> (for himself, <cosponsor name-id="A000367">Mr. Amash</cosponsor>, <cosponsor name-id="B001283">Mr. Bridenstine</cosponsor>, <cosponsor name-id="B001297">Mr. Buck</cosponsor>, and <cosponsor name-id="J000289">Mr. Jordan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To repeal certain provisions of titles 23 and 49, United States Code, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HBA03B5B75D3F4D4DB165A24352E79BB0" style="OLC"> 
+<section id="H6944D6F39DBF44A6B99175D235B9AD9B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Developing Roadway Infrastructure for a Vibrant Economy Act of 2015</short-title></quote> or the <quote>DRIVE Act of 2015</quote>.</text></section> <section id="HFF6959447BFF49AE94595D26C5D2425E"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+<paragraph id="H4CF9F15E317B40B0BF670C451D408E53"><enum>(1)</enum><text display-inline="yes-display-inline">A robust national highway system is critical to the Nation’s economy.</text></paragraph> <paragraph id="HB423D970FBFF493293349DEC9B887725"><enum>(2)</enum><text display-inline="yes-display-inline">Diverting user fees, such as the fuel tax, away from funding projects for the construction of roads, bridges, and other critical national infrastructure has jeopardized the solvency of the Highway Trust Fund.</text></paragraph>
+<paragraph id="H8D52DC6E9E08420AA67E6FE9007E7192"><enum>(3)</enum><text display-inline="yes-display-inline">Projects for the construction of mass transit facilities, bike paths, and other non-highway infrastructure should be funded from revenue sources other than the Highway Trust Fund.</text></paragraph></section> <section id="HA256ACCCDD924D6B9B5244EF6CF3ADE6" commented="no"><enum>3.</enum><header>Repeal of Mass Transit Account</header><text display-inline="no-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/9503">Section 9503(e)(2)</external-xref> of the Internal Revenue Code of 1986 is amended—</text> 
+<paragraph id="HCDD5F84DD1824569BB248919EAC1C003" commented="no"><enum>(1)</enum><text>by inserting <quote>, and before October 1, 2015</quote> after <quote>March 31, 1983</quote>; and</text></paragraph> <paragraph id="H7CFF8CACCFC449709E2E14F4B509B0FB" commented="no"><enum>(2)</enum><text>by adding at the end the following:</text> 
+<quoted-block display-inline="no-display-inline" id="HA93368EDDFB54C6BBC094E6EAFFF4B9D" style="OLC"> 
+<paragraph id="H78F54FE8441D461D9D868B6FD6EF387C"><enum>(6)</enum><header>Transfer to Highway Account</header><text display-inline="yes-display-inline">On October 1, 2015, the Secretary shall transfer all amounts in the Mass Transit Account to the Highway Account.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> <section id="H42B1ED9E478241F4BD518EA1B49FFD13"><enum>4.</enum><header>Repeal of transportation alternatives program</header><text display-inline="no-display-inline">Section 213 of title 23, United States Code, and the item relating to that section in the analysis for chapter 2 of that title, are repealed.</text> </section> 
+<section id="H218EC668EA7042F9887E4CA89D382F2C"><enum>5.</enum><header>Repeal of authorizations for pedestrian and bicycle programs</header> 
+<subsection id="HAD2FD56181454C84AF5C3544A2B31185"><enum>(a)</enum><header>Repeal of protection of nonmotorized transportation traffic requirement</header><text>Section 109(m) of title 23, United States Code, is repealed.</text></subsection> <subsection id="H36B98BE8C9FA4BC2ABC2FAA2E848B545"><enum>(b)</enum><header>Definition of transportation alternatives</header><text>Section 101(a)(29) of title 23, United States Code, is amended to read as follows:</text> 
+<quoted-block id="H6A06BA3806034964982FD84B51A371CB" style="OLC"> 
+<paragraph id="HA00CF055B9F5452B8A87FB5CB4658E6D"><enum>(29)</enum><header>Transportation alternatives</header><text>The term <quote>transportation alternatives</quote> means any of the following activities when carried out as part of any program or project authorized or funded under this title, or as an independent program or project related to surface transportation:</text> <subparagraph id="H41E2A59408814E5E8CE42A19A032EC41"><enum>(A)</enum><text>Construction, planning, and design of transportation projects to achieve compliance with the Americans with Disabilities Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/42/12101">42 U.S.C. 12101 et seq.</external-xref>).</text></subparagraph> 
+<subparagraph id="H530EC07103B24C679850982DA016E26D"><enum>(B)</enum><text>Construction, planning, and design of infrastructure-related projects and systems that will provide safe routes for nondrivers, including children, older adults, and individuals with disabilities to access daily needs.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H208652034DAE4AB297557189CDBD74DB"><enum>(c)</enum><header>Repeal of bicycle transportation and pedestrian walkways authorizations and requirements</header><text>Section 217 of title 23, United States Code, and the item relating to that section in the analysis for chapter 2 of that title, are repealed.</text></subsection> 
+<subsection id="H2CA95C1198F349CDA068DF9D7E81F6C8"><enum>(d)</enum><header>Planning requirements</header> 
+<paragraph id="H8546E9C34E234E40922A11FBAAD1F960"><enum>(1)</enum><header>General requirements</header><text>Sections 134(c)(2) and 135(a)(2) of title 23, United States Code, and sections 5303(c)(2) and 5304(a)(2) of title 49, United States Code, are amended by striking <quote>(including accessible pedestrian walkways and bicycle transportation facilities)</quote>.</text></paragraph> <paragraph id="H83D5CCD0D7704562BCF162A4EE756FB0"><enum>(2)</enum><header>Participation by interested parties</header><text>Sections 134(i)(6)(A) and 135(f)(3)(A)(ii) of title 23, United States Code, and sections 5303(i)(6)(A) and 5304(f)(3)(A)(ii) of title 49, United States Code, are amended by striking <quote>representatives of users of pedestrian walkways and bicycle transportation facilities,</quote>.</text> </paragraph></subsection></section> 
+<section id="HE589B150420E4B519F57B9ED9F62217D"><enum>6.</enum><header>Repeal of set-aside requirement for funding of bridges not on Federal-aid highways</header><text display-inline="no-display-inline">Section 133(g) of title 23, United States Code, is repealed.</text> </section> <section id="H4599680E6005411AA0D7B1161EEB7884"><enum>7.</enum><header>Applicability</header><text display-inline="no-display-inline">This Act, and the amendments and repeals made by this Act, shall apply to fiscal years beginning after September 30, 2015.</text></section> 
+</legis-body> 
+</bill> 
+

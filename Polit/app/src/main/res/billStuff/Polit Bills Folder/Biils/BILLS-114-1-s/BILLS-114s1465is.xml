@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1465 IS: Furthering Access to Stroke Telemedicine Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1465</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150522">May 22, 2015</action-date>
+			<action-desc><sponsor name-id="S339">Mr. Kirk</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to expand access to stroke telehealth services
+			 under the Medicare program.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Furthering Access to Stroke Telemedicine Act</short-title></quote> or the <quote><short-title>FAST Act</short-title></quote>.</text>
+		</section><section id="idE65FDB3C36E842D5B99AB8EF5F598FE9"><enum>2.</enum><header>Expanding access to stroke telehealth services under the Medicare program</header>
+ <subsection id="id1B9AC168FDA447DC85A0EFB74A2541D8"><enum>(a)</enum><header>In general</header><text>Section 1834(m)(4)(C) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m">42 U.S.C. 1395m(m)(4)(C)</external-xref> is amended—</text> <paragraph id="id2C4DC0A0E62E4F20864E1053915380A1"><enum>(1)</enum><text>in clause (i), by striking <quote>The term</quote> and inserting <quote>Subject to clause (iii), the term</quote>; and</text>
+ </paragraph><paragraph id="id3900FD74F6064A418D61329603C7CE08"><enum>(2)</enum><text>by adding at the end the following new clause:</text> <quoted-block display-inline="no-display-inline" id="idEB2865E9687F417890DCA1696642F5A3" style="traditional"> <clause id="id36D2ACEB027947E0B7A167E84009FA97"><enum>(iii)</enum><header>Stroke telehealth services</header><text>With respect to services related to the evaluation or treatment of an acute stroke that are provided within the evidence-based window of treatment, the term <term>originating site</term> means any site at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system, regardless of where the site is located.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="id0D1B5512ED144A3991646A0232387C75"><enum>(b)</enum><header>No originating site facility fee for new sites</header><text>Section 1834(m)(2)(B) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m">42 U.S.C. 1395m(m)(2)(B)</external-xref>) is amended, in the matter preceding clause (i), by inserting <quote>(other than an originating site that is only described in clause (iii) of paragraph (4)(C), and does not meet the requirement for an originating site under clause (i) of such paragraph)</quote> after <quote>the originating site</quote>.</text>
+ </subsection><subsection id="idB8DD47CBD0774B4984C3A170569699C1"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to services furnished on or after the date that is 1 year after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

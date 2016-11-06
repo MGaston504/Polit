@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA1616049BDF2438185C7622C993CFFB7" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2379 IH: To prohibit the transportation of certain volatile crude oil by rail.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2379</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150515">May 15, 2015</action-date>
+			<action-desc><sponsor name-id="L000480">Mrs. Lowey</sponsor> (for herself and <cosponsor name-id="G000559">Mr. Garamendi</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prohibit the transportation of certain volatile crude oil by rail.</official-title>
+	</form>
+	<legis-body id="HA911E603DF32409F8FEF7F1B9CE043AF" style="OLC">
+		<section id="HA24501E29F3342FB8A8B95B06E1427B4" section-type="section-one"><enum>1.</enum><header>Transportation of crude oil by rail</header>
+ <subsection id="HC0EAA778561846C2B02093FEB6A0825C"><enum>(a)</enum><header>Amendment</header><text display-inline="yes-display-inline">Subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/201">chapter 201</external-xref> of title 49, United States Code, is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="H49244279427B4901974F030FD19B7D11" style="USC">
+					<section id="H94BC37FBA42F4E038CE1D6AF07941485"><enum>20168.</enum><header>Transportation of crude oil.</header>
+ <subsection id="H5C98093F20FA4801B26DD122C134D211"><enum>(a)</enum><header>Initial rule</header><text display-inline="yes-display-inline">Effective on the date of enactment of this section, no crude oil with a Reid vapor pressure level greater than 8.5 psi may be transported by rail in interstate commerce.</text>
+ </subsection><subsection id="HCC676E800FA2491086B2EB3F19A7E388"><enum>(b)</enum><header>Maximum volatility standard</header><text display-inline="yes-display-inline">The Secretary of Transportation, in consultation with the Secretary of Energy, shall establish an appropriate national standard for the maximum volatility of crude oil to be permitted to be shipped by rail.</text>
+ </subsection><subsection id="H0A2675833F204E1E8EA7E56476DBB938"><enum>(c)</enum><header>Subsequent rule</header><text display-inline="yes-display-inline">After a standard is established under subsection (b), no crude oil with a volatility level greater than that standard may be transported by rail in interstate commerce, and the rule under subsection (a) shall expire.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H0755D4C265AA4795A29C9BBDA36B5968"><enum>(b)</enum><header>Conforming amendment</header><text display-inline="yes-display-inline">The table of sections of such subchapter is amended by adding after the item relating to section 20167 the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H6263948BA360437B88B1F02EEB4633EB" style="USC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">20168. Transportation of crude oil.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

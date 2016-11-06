@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1741 IS: TESR Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-07-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1741</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150709">July 9, 2015</action-date>
+			<action-desc><sponsor name-id="S293">Mr. Graham</sponsor> (for himself, <cosponsor name-id="S318">Mr. Wicker</cosponsor>, and <cosponsor name-id="S307">Mr. Brown</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To establish tire fuel efficiency minimum performance standards, improve tire registration, help
+			 consumers identify recalled tires, and for other purposes. </official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Tire Efficiency, Safety, and Registration Act of 2015</short-title></quote> or the <quote>TESR Act</quote>.</text>
+ </section><section id="id5DE7E71B07CD4A08BEA31F94CBAE8685"><enum>2.</enum><header>Tire fuel efficiency minimum performance standards</header><text display-inline="no-display-inline">Section 32304A of title 49, United States Code, is amended—</text> <paragraph id="idfdd9cf5319b444f09a15a5ba9826d8f9"><enum>(1)</enum><text>in the section heading, by inserting <quote><header-in-text level="section" style="OLC">and standards</header-in-text></quote> after <quote><header-in-text level="section" style="OLC">Consumer tire information</header-in-text></quote>;</text>
+ </paragraph><paragraph id="idb91b0503074742e9b95571e9df7dac41"><enum>(2)</enum><text>in subsection (a)—</text> <subparagraph id="id038F4FFB514B446C9D19D80D23A8ACF1"><enum>(A)</enum><text>in the heading, by striking <quote><header-in-text level="subsection" style="OLC">Rulemaking</header-in-text></quote> and inserting <quote><header-in-text level="subsection" style="OLC">Consumer tire information</header-in-text></quote>; and</text>
+ </subparagraph><subparagraph id="idDA0BDCCA7B044187B6DB774AF592F465"><enum>(B)</enum><text>in paragraph (1), by inserting <quote>(referred to in this section as the <quote>Secretary</quote>)</quote> after <quote>Secretary of Transportation</quote>;</text> </subparagraph></paragraph><paragraph id="id93ECB6FEC1164B7288F718240D95A4DC"><enum>(3)</enum><text>by redesignating subsections (b) through (e) as subsections (e) though (h), respectively; and</text>
+ </paragraph><paragraph id="idbed1e67ccc424984924f2394609438b3"><enum>(4)</enum><text>by inserting after subsection (a) the following:</text> <quoted-block display-inline="no-display-inline" id="id3E478585C03D4EE3BFE563FE84D5763A" style="OLC"> <subsection id="id2fa83742493e45589efd4db7816fceba"><enum>(b)</enum><header>Promulgation of regulations for tire fuel efficiency minimum performance standards</header> <paragraph id="id35118ebc368e441d920a3bfc0ef3ea52"><enum>(1)</enum><header>In general</header><text>The Secretary, after consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, shall promulgate regulations for tire fuel efficiency minimum performance standards for—</text>
+ <subparagraph id="id99da9c803ea34b619c341e8c847e1d3f"><enum>(A)</enum><text>passenger car tires with a maximum speed capability equal to or less than 149 miles per hour or 240 kilometers per hour; and</text>
+ </subparagraph><subparagraph id="idf35b5e0b05f0432985e5026feb5d9a75"><enum>(B)</enum><text>passenger car tires with a maximum speed capability greater than 149 miles per hour or 240 kilometers per hour.</text>
+							</subparagraph></paragraph><paragraph id="ide3197677a6c441f7b9c7d0ef588a8097"><enum>(2)</enum><header>Tire fuel efficiency minimum performance standards</header>
+ <subparagraph id="id8efe45198a1946d8acda6e78236bfdb9"><enum>(A)</enum><header>Standard basis and test procedures</header><text>The minimum performance standards promulgated under paragraph (1) shall be expressed in terms of the rolling resistance coefficient measured using the test procedure specified in section 575.106 of title 49, Code of Federal Regulations (as in effect on the date of enactment of this Act).</text>
+ </subparagraph><subparagraph id="id291ba4d1542643cb88a567160a066911"><enum>(B)</enum><header>No disparate effect on high performance tires</header><text>The Secretary shall ensure that the minimum performance standards promulgated under paragraph (1) will not have a disproportionate effect on passenger car high performance tires with a maximum speed capability greater than 149 miles per hour or 240 kilometers per hour.</text>
+							</subparagraph><subparagraph id="id9a1a9c245bf946818448f14584a4c38f"><enum>(C)</enum><header>Applicability</header>
+ <clause id="idB59C602BEDF9442D9ED3B0F9BE934914"><enum>(i)</enum><header>In general</header><text>This subsection applies to new pneumatic tires for use on passenger cars.</text> </clause><clause id="id6D8D6F237D91476FBF5A57E04EC82F7E"><enum>(ii)</enum><header>Exceptions</header><text>This subsection does not apply to light truck tires, deep tread tires, winter-type snow tires, space-saver or temporary use spare tires, or tires with nominal rim diameters of 12 inches or less.</text>
+								</clause></subparagraph></paragraph></subsection><subsection id="id0243d8576b3c4b04bebbd4691a0afe6f"><enum>(c)</enum><header>Promulgation of regulations for tire wet traction minimum performance standards</header>
+ <paragraph id="idb4cfd084a58249178e6aed23485afe2f"><enum>(1)</enum><header>In general</header><text>The Secretary shall promulgate regulations for tire wet traction minimum performance standards to ensure that passenger tire wet traction capability is not reduced to achieve improved tire fuel efficiency.</text>
+						</paragraph><paragraph id="idb006a55c6e534513ab24eb2625de2b13"><enum>(2)</enum><header>Tire wet traction minimum performance standards</header>
+ <subparagraph id="idf7f828ef61124ce7a4a26a527e1fc187"><enum>(A)</enum><header>Basis of standard</header><text>The minimum performance standards promulgated under paragraph (1) shall be expressed in terms of peak coefficient of friction.</text>
+ </subparagraph><subparagraph id="idf20c1fa01d8e40bbba6bdeb7dae69a61"><enum>(B)</enum><header>Test procedures</header><text>Any test procedure promulgated under this subsection shall be consistent with any test procedure promulgated under subsection (a).</text>
+ </subparagraph><subparagraph id="id9f9100c95d0a4bbda658416f54477728"><enum>(C)</enum><header>Benchmarking</header><text>The Secretary shall conduct testing to benchmark the wet traction performance of tire models available for sale in the United States as of the date of enactment of this Act to ensure that the minimum performance standards promulgated under paragraph (1) are tailored to—</text>
+ <clause id="id7ABD2F72BF1F4592A666483A763F8B61"><enum>(i)</enum><text>tires sold in the United States; and</text>
+ </clause><clause id="id459AA0A33EF0469AACC5C029305BFB8E"><enum>(ii)</enum><text>the needs of consumers in the United States.</text> </clause></subparagraph><subparagraph id="id9b8c935154264265ad89dc3e02a13a53"><enum>(D)</enum><header>Applicability</header> <clause id="idE60B769122664ABB9D8EFE8853E15471"><enum>(i)</enum><header>In general</header><text>This subsection applies to new pneumatic tires for use on passenger cars.</text>
+ </clause><clause id="idE760282992004E78A336E9E6E384526B"><enum>(ii)</enum><header>Exceptions</header><text>This subsection does not apply to light truck tires, deep tread tires, winter-type snow tires, space-saver or temporary use spare tires, or tires with nominal rim diameters of 12 inches or less.</text>
+								</clause></subparagraph></paragraph></subsection><subsection id="id4608ee426f844d36a1350951b038a10a"><enum>(d)</enum><header>Coordination among regulations</header>
+ <paragraph id="ide81132a884334e859c365413eda874e2"><enum>(1)</enum><header>Compatibility</header><text>The Secretary shall ensure that the test procedures and requirements promulgated under subsections (a), (b), and (c) are compatible and consistent.</text>
+ </paragraph><paragraph id="idd637cff827d44925a699ed2bfca0b979"><enum>(2)</enum><header>Combined effect of rules</header><text>The Secretary shall evaluate the regulations promulgated under subsections (b) and (c) to ensure that compliance with the minimum performance standards promulgated under subsection (b) will not diminish wet traction performance of affected tires.</text>
+ </paragraph><paragraph id="id7922e16d1c4f4d15b910507d781c48b8"><enum>(3)</enum><header>Rulemaking deadlines</header><text>The Secretary shall promulgate —</text> <subparagraph id="idAC842E9214664823B20C2BA2F0D47A1A"><enum>(A)</enum><text>the regulations under subsections (b) and (c) not later than 24 months after the date of enactment of this Act; and</text>
+ </subparagraph><subparagraph id="id4A1BF61309924DF9BF43D15E3EC3753B"><enum>(B)</enum><text>the regulations under subsection (c) not later than the date of promulgation of the regulations under subsection (b).</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></section><section id="id35C0C471EF9545C5A65C6A63E336940B"><enum>3.</enum><header>Tire registration by independent sellers</header><text display-inline="no-display-inline">Section 30117(b) of title 49, United States Code, is amended by striking paragraph (3) and inserting the following:</text>
+			<quoted-block display-inline="no-display-inline" id="idAC1709C009BC4916B56E079E3CA30BD4" style="OLC">
+				<paragraph id="id233d90bbfea34178a5f9afe9a65adb15"><enum>(3)</enum><header>Rulemaking</header>
+ <subparagraph id="id2E9A1D9CE9DB450AA413C0842B25B2BB"><enum>(A)</enum><header>In general</header><text>The Secretary shall initiate a rulemaking to require a distributor or dealer of tires that is not owned or controlled by a manufacturer of tires to maintain records of—</text>
+ <clause id="id6501408A51E84F669F444BDD074A07F9"><enum>(i)</enum><text>the name and address of tire purchasers and lessors and information identifying the tire that was purchased or leased; and</text>
+ </clause><clause id="idBCED1B8BA6764A36B331099DA1483248"><enum>(ii)</enum><text>any additional records the Secretary considers appropriate.</text> </clause></subparagraph><subparagraph id="id02DF7262DB4640E5A35B432835B58795"><enum>(B)</enum><header>Electronic transmission</header><text>The rulemaking carried out under subparagraph (A) shall require a distributor or dealer of tires that is not owned or controlled by a manufacturer of tires to electronically transmit the records described in clauses (i) and (ii) of subparagraph (A) to the manufacturer of the tires or the designee of the manufacturer by secure means at no cost to tire purchasers or lessors.</text>
+ </subparagraph><subparagraph id="idb994c5c0f82c41ec88c240ea1edc75e7"><enum>(C)</enum><header>Satisfaction of requirements</header><text>A regulation promulgated under subparagraph (A) may be considered to satisfy the requirements of paragraph (2)(B).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="id51423D246FFB45BFA22FBD953485FBB8"><enum>4.</enum><header>Tire recall database</header>
+ <subsection id="id815AB22719ED430EB8CAB5C83B9918EA"><enum>(a)</enum><header>In general</header><text>The Secretary of Transportation shall establish a publicly available and searchable electronic database of tire recall information that is reported to the Administrator of the National Highway Traffic Safety Administration.</text>
+ </subsection><subsection id="id9B34A24EEF1C4A8AB8B69262C099F9DB"><enum>(b)</enum><header>Tire Identification Number</header><text>The database established under subsection (a) shall be searchable by Tire Identification Number (TIN) and any other criteria that assists consumers in determining whether a tire is subject to a recall.</text></subsection></section></legis-body></bill>
+
+

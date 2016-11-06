@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6B5CAA50939140AFBE0FFC80F5DF3DC2" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3334 IH: Families Flying Together Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3334</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150729">July 29, 2015</action-date>
+			<action-desc><sponsor name-id="D000619">Mr. Rodney Davis of Illinois</sponsor> (for himself and <cosponsor name-id="N000002">Mr. Nadler</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To direct the Secretary of Transportation to issue regulations with respect to ensuring families
+			 are able to sit together on flights, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H8B15B5E3D28F4A6FA11CB15F5501977B" style="OLC">
+ <section id="H7BCC807F71DB4F718D444E64D11C724C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Families Flying Together Act of 2015</short-title></quote>.</text> </section><section id="H70B34798B59D4C81A816F9005D079A0F"><enum>2.</enum><header>Findings</header> <text display-inline="no-display-inline">Congress finds the following:</text>
+ <paragraph id="H4288C61E7BB2410F9400C21E6E22D1F7"><enum>(1)</enum><text display-inline="yes-display-inline">Airlines need to prioritize seating families traveling with small children together.</text> </paragraph><paragraph id="H5C9FF4881BAF4391A57C953B410DF662"><enum>(2)</enum><text>The Department of Transportation continues to receive <quote>unsatisfactory seat assignment</quote> complaints from parents whose seat assignments were separate from their small children.</text>
+			</paragraph></section><section id="H31CE21236D6A4074AE9D01DB8F2C0956"><enum>3.</enum><header>Seating families together on flights</header>
+ <subsection id="H064CCBE39C584132A52E0446CB66280E"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 180 days after the date of enactment of this Act, the Secretary of Transportation shall issue regulations directing each air carrier to—</text>
+ <paragraph id="H4506989C16384F5CAF433BDC7C0C0928"><enum>(1)</enum><text>establish a policy to ensure, to the extent practicable, that a family that purchases tickets for a flight with that air carrier is seated together during that flight; and</text>
+ </paragraph><paragraph id="HAD328AE558FB41CDA04318BB12B87213"><enum>(2)</enum><text>make the policy described in paragraph (1) available to the public on an appropriate Internet Web site of the air carrier.</text>
+ </paragraph></subsection><subsection id="H44B2DF58B8054915A45A75960C01D6BE"><enum>(b)</enum><header>Definitions</header><text>In this section, the following definitions apply:</text> <paragraph id="H6476104DC0994CAEB1D2D8E6C726628F"><enum>(1)</enum><header>Air carrier</header><text>The term <term>air carrier</term> has the meaning given that term in section 40102(a) of title 49, United States Code.</text>
+ </paragraph><paragraph id="H783661A65EA24D50AED2DDD302E27888"><enum>(2)</enum><header>Family</header><text>The term <term>family</term> means a grouping of individuals that includes, at a minimum—</text> <subparagraph id="H04A43F03FCE54FC995DD19183493A12D"><enum>(A)</enum><text>a child who is 12 years of age or younger; and</text>
+ </subparagraph><subparagraph id="H5BB4B481A3FF4A8FB19E316D58C4AD32"><enum>(B)</enum><text display-inline="yes-display-inline">an individual who is—</text> <clause id="H29DCE3D1075C4C198A9637769BB9E03F"><enum>(i)</enum><text>18 years of age or older; and</text>
+ </clause><clause id="H19D8A82E9B07438A8B2151A2A6A45DEE"><enum>(ii)</enum><text>responsible for accompanying that child, including a parent or legal guardian of that child.</text> </clause></subparagraph></paragraph></subsection></section><section id="H58027025BEB140868C2017D317C1CB8D"><enum>4.</enum><header>Families traveling together</header><text display-inline="no-display-inline">Section 41712 of title 49, United States Code, is amended by adding at the end the following:</text>
+			<quoted-block id="H21FC0F7D47CA4E66B195A7FED7BB45AF" style="USC">
+				<subsection id="H138B5132709349E7A6CEBFB829A2BCBA"><enum>(d)</enum><header>Families traveling together</header>
+ <paragraph id="HEF0B081874FD4985B598A9ADA583ADA8"><enum>(1)</enum><header>In general</header><text>It shall be an unfair or deceptive practice under subsection (a) for any ticket agent, air carrier, foreign air carrier, or other person offering to sell tickets for air transportation to fail to disclose, whether verbally in oral communication or in writing in written or electronic communication, prior to an individual’s purchase of more than one ticket for a covered flight, the notification in paragraph (2), if such purchase includes a ticket for a minor.</text>
+ </paragraph><paragraph id="HC6C6B97C93D345169CD3F86FB83543FC"><enum>(2)</enum><header>Notification</header><text>The notification required under paragraph (1) shall include the following statement: <quote>It is not possible to assign 2 or more seats together on at least 1 of the flights you have selected. Please be advised that you may not be able to sit next to other members of your travel party, even if you are traveling with a minor.</quote>.</text>
+ </paragraph><paragraph id="H8D69A7307E124BC3B5F7B195249029D0"><enum>(3)</enum><header>Covered flight</header><text>For purposes of this section, a <quote>covered flight</quote> is a flight of an air carrier or foreign air carrier in air transportation or foreign air transportation as to which—</text>
+ <subparagraph id="HB5AAB0B01E5C41CD91300E6473D9094D"><enum>(A)</enum><text>a purchaser of a ticket may specify an advance seat assignment, with or without the assessment of any charge or fee; and</text>
+ </subparagraph><subparagraph id="H12881FADF629401098CF351AD9303A13"><enum>(B)</enum><text>2 or more laterally adjacent seats are not available on the flight for advance assignment.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block> </section></legis-body> </bill> 
+

@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1818 IS: Principled Rulemaking Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-07-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1818</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150721">July 21, 2015</action-date>
+			<action-desc><sponsor name-id="S378">Mr. Lankford</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 5, United States Code, to reform the rule making process of agencies.
+			</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Principled Rulemaking Act of 2015</short-title></quote>.</text> </section><section id="id9FCB4BD52B04411C895363EB8D2283D4"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act—</text>
+ <paragraph id="id65ADF14F365E43939D3A9B3367513294"><enum>(1)</enum><text>the terms <term>agency</term>, <term>rule</term>, and <term>rule making</term> have the meanings given those terms in section 551 of title 5, United States Code; and</text> </paragraph><paragraph id="id899946C93C2241D7B862E98A6D065090"><enum>(2)</enum><text>the term <term>regulatory action</term> means any substantive action by an agency (normally published in the Federal Register) that promulgates or is expected to lead to the promulgation of a final regulation, including notices of inquiry, advance notices of proposed rule making, and notices of proposed rule making.</text>
+ </paragraph></section><section id="idCD37296C2ED742E0A6AB20175EB32BA4"><enum>3.</enum><header>Rule making considerations</header><text display-inline="no-display-inline">Section 553 of title 5, United States Code, is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="idB6070198877141228C573E2F9B1924EC" style="OLC"> <subsection id="id15029443B6354F9DBE8EA8A47FC67E47"><enum>(f)</enum><header>Rule making considerations</header> <paragraph id="idEC502B8B50FC4DC49CAC379898EC4D36"><enum>(1)</enum><header>In general</header><text>An agency shall only promulgate a rule under this section that is—</text>
+ <subparagraph id="id7CC5034CE8C54C74AB14316C18DCB449"><enum>(A)</enum><text>required by law;</text> </subparagraph><subparagraph id="id5BF85F4304D04927929BF9EAD1822364"><enum>(B)</enum><text>necessary to interpret a law; or</text>
+ </subparagraph><subparagraph id="idD5798B5E140546D08FDFF2D950C82DDD"><enum>(C)</enum><text>made necessary by compelling public need, such as a material failure of the private markets to protect or improve the health and safety of the public, the environment, or the wellbeing of the people of the United States.</text>
+ </subparagraph></paragraph><paragraph id="idD25ADC0A4DC043A98047E6B1E07A9B12"><enum>(2)</enum><header>Considerations</header><text>Before promulgating a rule under this section, an agency shall—</text> <subparagraph id="idf486012ce8c9413cbae9569da9042c0c"><enum>(A)</enum><text>identify and assess the significance of the problem that the agency intends to address with the rule, including, where applicable, the failures of private markets or public institutions that warrant new agency action;</text>
+ </subparagraph><subparagraph id="id2320571EDEE04C1D936589D45545CA3F"><enum>(B)</enum><text>consider the legal authority under which the rule may be proposed, including whether a rule making is required by statute, and if so, whether by a specific date, or whether the agency has discretion to commence a rule making;</text>
+ </subparagraph><subparagraph id="id3ba76326a1e14d30a65d5f54b3dfa9f2"><enum>(C)</enum><text>examine whether existing rules or other laws—</text> <clause id="id11700A0FFA8540549651C9D78D1B6830"><enum>(i)</enum><text>have created or contributed to the problem identified under subparagraph (A); and</text>
+ </clause><clause id="idE781DB48AAC44D8088DB7002FFF83ACC"><enum>(ii)</enum><text>should be modified to achieve the intended regulatory objective more effectively;</text> </clause></subparagraph><subparagraph id="ida64909370ec5455ea9c49727d683a076"><enum>(D)</enum><text>identify and assess available alternatives to direct regulation, including by providing—</text>
+ <clause id="idB1C43BE934FA475EA16CCFB4F20F7192"><enum>(i)</enum><text>economic incentives to encourage the desired behavior, such as user fees or marketable permits; or</text> </clause><clause id="idC51C2E187E0F42C3A45C0DE84DDCB7FD"><enum>(ii)</enum><text>information upon which choices may be made by the public;</text>
+ </clause></subparagraph><subparagraph id="id34f43f01d4b14dba93a32a9de59f6f36"><enum>(E)</enum><text>consider, to the extent reasonable, the degree and nature of the risks posed by various substances or activities within the jurisdiction of the agency;</text>
+ </subparagraph><subparagraph id="id7f997a3ec0d54e3cb2b44d1ab4100e7b"><enum>(F)</enum><text>if after determining that a rule is the best available method of achieving the regulatory objective, design the rule in the most cost-effective manner to achieve the regulatory objective;</text>
+ </subparagraph><subparagraph id="idBE49BC290F33422AADBC3ED336854022"><enum>(G)</enum><text>in carrying out subparagraph (F), consider—</text>
+ <clause id="idB280489B01F24785961F8B2045457539"><enum>(i)</enum><text>incentives for innovation, consistency, predictability, flexibility, distributive impacts, and equity; and</text>
+ </clause><clause id="id55E0D0AC0F5740A7BD6FF3C8164E81DE"><enum>(ii)</enum><text>the costs of enforcement and compliance to the Federal Government, regulated entities, and the public;</text>
+ </clause></subparagraph><subparagraph id="id3249f7354d044f0d820294874828a8d6"><enum>(H)</enum><text>assess the costs and the benefits of the intended rule and, recognizing that some costs and benefits (including quantifable and qualitative measures) are difficult to quantify—</text>
+ <clause id="id0A7506550AF44F158A7958E3C1944306"><enum>(i)</enum><text>propose or adopt a rule only upon a reasoned determination that the benefits of the intended rule justify the costs of the rule; and</text>
+ </clause><clause id="idF4C10552320D4764B081D316074CDAA9"><enum>(ii)</enum><text>select approaches that maximize net benefits, unless a statute requires another regulatory approach;</text>
+ </clause></subparagraph><subparagraph id="id7661e598e5a94d7db445469291e4b2bd"><enum>(I)</enum><text>base decisions on the best reasonably obtainable scientific, technical, economic, and other information concerning the need for, and consequences of, the intended rule;</text>
+ </subparagraph><subparagraph id="id17129cdfaff44b12a33839f16dba7dae"><enum>(J)</enum><text>identify and assess alternative forms of regulation and, to the extent feasible, specify performance objectives, and not the behavior or manner of compliance that regulated entities are required to adopt;</text>
+ </subparagraph><subparagraph id="id85f0541f05304078b547cfe3ae2d245b"><enum>(K)</enum><text>seek views of appropriate State, local, and tribal officials before imposing regulatory requirements that may significantly or uniquely affect those governmental entities;</text>
+ </subparagraph><subparagraph id="id9E625448A46E45708330D888A95559AD"><enum>(L)</enum><text>assess the effects of rules on State, local, and tribal governments, including specifically the availability of resources to carry out those mandates, and seek to minimize those burdens that uniquely or significantly affect those governmental entities, consistent with achieving the regulatory objective of the agency;</text>
+ </subparagraph><subparagraph id="id92AFDE12E88444E3B4274E13930D5037"><enum>(M)</enum><text>as appropriate, seek to harmonize agency action with related State, local, and tribal regulatory and other governmental functions;</text>
+ </subparagraph><subparagraph id="id5f78be8e50b44db8b03b72e67973f50d"><enum>(N)</enum><text>avoid the promulgation of a rule that is inconsistent, incompatible, or duplicative with other rules of the agency or those of other agencies;</text>
+ </subparagraph><subparagraph id="ide76dd74364e24b4399af332f0852e6b0"><enum>(O)</enum><text>tailor the rule—</text> <clause id="idF2DA6DCC462A4ABBBA512CFE4BB581D0"><enum>(i)</enum><text>to impose the least burden on society, including individuals, businesses of differing sizes, and other entities, including small communities and governmental entities; and</text>
+ </clause><clause id="idCDB8CABEF156456893FC2091E9AB0A30"><enum>(ii)</enum><text>in a manner that is consistent with obtaining the regulatory objective, taking into account, and to the extent practicable, the costs of cumulative rules; and</text>
+ </clause></subparagraph><subparagraph id="id633dbcf17f564296a882693c5a6ff068"><enum>(P)</enum><text>in order to minimize the potential for uncertainty and litigation arising from such uncertainty, draft the rule in a manner that is simple and easy to understand.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="id6A2A55E2268E488DB1922EF1D0FD1B30"><enum>4.</enum><header>Public participation</header>
+ <subsection id="idC149FD5AB3204558A118A6E8524E8CC3"><enum>(a)</enum><header>In general</header><text>To promote an open exchange with the public, each agency shall, consistent with section 553 of title 5, United States Code, and other applicable requirements, issue rules through a process that involves public participation, including—</text>
+ <paragraph id="idC84A6369955F4EDAB0FCC7C5771722D5"><enum>(1)</enum><text>providing the public with an opportunity to participate in the regulatory process; and</text> </paragraph><paragraph id="id95BDA209DB1B443098606488457AF1B2"><enum>(2)</enum><text>to the extent feasible—</text>
+ <subparagraph id="id4F46FBBB51774B06A33803400F832D51"><enum>(A)</enum><text>affording the public a meaningful opportunity to submit comments through the Internet on any proposed rule for a period of not less than 60 days;</text>
+ </subparagraph><subparagraph id="id7A45B8E5B3244DC5B6F7BE13484A06CC"><enum>(B)</enum><text>providing, for both proposed and final rules, timely online access to the rule making docket of the agency on an easily accessible Federal website, including relevant scientific and technical findings, in an open, searchable, and downloadable format; and</text>
+ </subparagraph><subparagraph id="idB16B44BD1E48465A8FA25FA177FC3E64"><enum>(C)</enum><text>providing an opportunity for public comment on all pertinent parts of the proposed rule making docket of the agency, including relevant scientific and technical findings.</text>
+ </subparagraph></paragraph></subsection><subsection id="idA94341073E9F4CD4B94925CAB656C689"><enum>(b)</enum><header>Comments from affected parties</header><text>Before issuing a notice of proposed rule making, each agency shall, when feasible and appropriate, seek the views of those who are likely to be affected by the rule, including those who are likely to benefit from and those who are potentially subject to the rule.</text>
+ </subsection></section><section id="id24E82C6043334721A881B31B9A3E1FBD"><enum>5.</enum><header>Integration and innovation</header><text display-inline="no-display-inline">In developing regulatory actions and identifying appropriate approaches, each agency shall—</text> <paragraph id="id2342B0DDF27B491184D7E131ABFF0D91"><enum>(1)</enum><text>attempt to promote coordination, simplification, and harmonization; and</text>
+ </paragraph><paragraph id="id817AB7E41AEF424A81AB8C0AAA998C67"><enum>(2)</enum><text>seek to identify, as appropriate, means to achieve regulatory goals that are designed to promote innovation.</text>
+ </paragraph></section><section id="id43A6C1E140A24CDBB9C4468882372F59"><enum>6.</enum><header>Flexible approaches</header><text display-inline="no-display-inline">Where relevant, feasible, and consistent with regulatory objectives, and to the extent permitted by law, each agency shall identify and consider regulatory approaches that—</text>
+ <paragraph id="id33E539F909D343B69C5E89DD802A64F6"><enum>(1)</enum><text>reduce burdens and maintain flexibility and freedom of choice for the public;</text> </paragraph><paragraph id="idFE4928C0628D493CB145E1078B286DE6"><enum>(2)</enum><text>include warnings, appropriate default rules, and disclosure requirements; and</text>
+ </paragraph><paragraph id="id8830DF3424D5493293BE328EE0A4C48F"><enum>(3)</enum><text>provide information to the public in a form that is clear and intelligible.</text> </paragraph></section><section id="id199a442dc1f248ec8d6a50145fbcfc3a"><enum>7.</enum><header>Science</header><text display-inline="no-display-inline">Each agency shall ensure the objectivity of any scientific and technological information and processes used to support each regulatory action of the agency.</text>
+		</section></legis-body>
+</bill>
+
+

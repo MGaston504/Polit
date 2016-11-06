@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1764 IS: Protecting American Citizens Together Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-07-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1764</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150714">July 14, 2015</action-date>
+			<action-desc><sponsor name-id="S348">Mr. Paul</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prohibit certain Federal funds from being made available to sanctuary cities and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting American Citizens Together Act</short-title></quote> or the <quote><short-title>PACT Act</short-title></quote>.</text>
+		</section><section id="id4CD8C2F233464552AE2BD32DFB6E39DC"><enum>2.</enum><header>Limitation on Federal funds to sanctuary cities</header>
+ <subsection id="id14A715FB197A43A88E7576845132C8EF"><enum>(a)</enum><header>In general</header><text>Section 642 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1373">8 U.S.C. 1373</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id480633C8565F4AC4A78E489200D226D3" style="OLC">
+					<subsection id="id3C88E582E56A47C4AD565C5DD07EEBA5"><enum>(d)</enum><header>Limitation on Federal funds to sanctuary cities</header>
+ <paragraph id="idD4E92C39834D4BB09B71D4094422264A"><enum>(1)</enum><header>Sanctuary city defined</header><text>In this section, the term <quote>sanctuary city</quote> means a State or subdivision of a State that the Attorney General determines—</text> <subparagraph id="id4460E7A0B3F14877AE771FBE49380A8A"><enum>(A)</enum><text>has in effect a statute, policy, or practice that is not in compliance with subsection (a) or (b); or</text>
+ </subparagraph><subparagraph id="id0CEBBA040B90431A8E32EBE0C9230FA6"><enum>(B)</enum><text>does not have a statute, policy, or practice that requires law enforcement officers—</text> <clause id="id5D1F300C8F0A46AB856D3B146902F8E1"><enum>(i)</enum><text>to notify the U.S. Immigration and Customs Enforcement if the State or unit has custody of an alien without lawful status in the United States and detain the alien for no more than six hours for no other purpose than to determine whether or not U.S. Immigration and Customs Enforcement will issue a detainer request; and</text>
+ </clause><clause id="idB0734120EB6C4719BEA079DD80A6FA9E"><enum>(ii)</enum><text>to maintain custody of such an alien for a period of not less than 48 hours (excluding Saturdays, Sundays, and holidays) if U.S. Immigration and Customs Enforcement issues a detainer for such alien.</text>
+ </clause></subparagraph></paragraph><paragraph id="id73221DAD1A20438AB4EF6435E2E3D48C"><enum>(2)</enum><header>Limitation on grants</header><text>A sanctuary city shall not be eligible to receive, for a minimum period of at least 1 year, any funds pursuant to—</text>
+ <subparagraph id="idDFD1D1AC5EFB4E139EA8EB8C1D9B59EA"><enum>(A)</enum><text>the Edward Byrne Memorial Justice Assistance Grant Program established pursuant to subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/42/3750">42 U.S.C. 3750 et seq.</external-xref>);</text>
+ </subparagraph><subparagraph id="idCD610B225D2F4D919E0D707AC0AAE426"><enum>(B)</enum><text>the <quote>Cops</quote> program under part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/42/3796dd">42 U.S.C. 3796dd et seq.</external-xref>);</text>
+ </subparagraph><subparagraph id="idA8858809460A44F395E7A8B066DFA29A"><enum>(C)</enum><text>the Urban Area Security Initiative authorized under section 2003 of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/604">6 U.S.C. 604</external-xref>);</text>
+ </subparagraph><subparagraph id="id575FF6207B61460A85BEE41D4A6D3FAB"><enum>(D)</enum><text>the State Homeland Security Grant Program authorized under section 2004 of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/605">6 U.S.C. 605</external-xref>);</text>
+ </subparagraph><subparagraph id="id81046BD15BFB48249EE7E2D41E3DDDBB"><enum>(E)</enum><text>the port security grant program authorized under section 70107 of title 46, United States Code;</text> </subparagraph><subparagraph id="idAB6C30155F194D17B5E84F94337F4624"><enum>(F)</enum><text>the State Criminal Alien Assistance Program under section 241(i) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1231">8 U.S.C. 1231(i)</external-xref>); or</text>
+ </subparagraph><subparagraph id="idDFB3E99BD26E4060AEAC341D2EB5E906"><enum>(G)</enum><text>any other non-disaster preparedness grant program administered by the Federal Emergency Management Agency.</text>
+ </subparagraph></paragraph><paragraph id="idC4964B0FD59E4625BE4FBBCBFA4685CB"><enum>(3)</enum><header>Termination of ineligibility</header><text>A jurisdiction that is found to be a sanctuary city shall only become eligible to receive funds under a program set out under paragraph (1) after the Attorney General certifies that the jurisdiction is no longer a sanctuary city.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="idDE4451C575444DA5AB7E4328897F31F6"><enum>(b)</enum><header>Clerical amendments</header><text>Section 642 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1373">8 U.S.C. 1373</external-xref>) is amended by striking “Immigration and Naturalization Service” each place that term appears and inserting “Department of Homeland Security”.</text>
+			</subsection></section><section id="id1F0AED08468B4128AB642BFE601E966B"><enum>3.</enum><header>Transfer of aliens from Bureau of Prisons custody</header>
+ <subsection id="idB089715881DF4FAEB4B8F975FFD5024B"><enum>(a)</enum><header>Transfer to U.S. Immigration and Customs Enforcement</header><text display-inline="yes-display-inline">The Attorney General shall prioritize a request from the Secretary of Homeland Security to transfer a covered alien to the custody of U.S. Immigration and Customs Enforcement before a request from the appropriate official of a State or a subdivision of a State to transfer the covered alien to the custody of such State or subdivision.</text>
+ </subsection><subsection id="id5501A5217E6E48919197E69548E91331"><enum>(b)</enum><header>Covered alien defined</header><text display-inline="yes-display-inline">In this section, the term <quote>covered alien</quote> means an alien who—</text> <paragraph id="id19BAAFA2870B48AD9BBFFA5A86547EE1"><enum>(1)</enum><text display-inline="yes-display-inline">is without lawful status in the United States; and</text>
+ </paragraph><paragraph id="id9AEFF8A5057F47F1A50FC1721591A7EA"><enum>(2)</enum><text display-inline="yes-display-inline">is in the custody of the Bureau of Prisons.</text></paragraph></subsection></section></legis-body>
+</bill>
+
+

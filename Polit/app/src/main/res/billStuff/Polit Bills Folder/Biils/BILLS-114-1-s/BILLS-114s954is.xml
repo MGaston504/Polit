@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S954 IS: FDA Accountability for Public Safety Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-04-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 954</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150415">April 15, 2015</action-date>
+			<action-desc><sponsor name-id="S338">Mr. Manchin</sponsor> (for himself, <cosponsor name-id="S299">Mr. Vitter</cosponsor>, <cosponsor name-id="S372">Mrs. Capito</cosponsor>, and <cosponsor name-id="S362">Mr. Kaine</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To establish procedures regarding the approval of opioid drugs by the Food and Drug Administration.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>FDA Accountability for Public Safety Act</short-title></quote>.</text>
+		</section><section id="idDDB01F4AE41B4BBEAA2695EA69CEDE2C"><enum>2.</enum><header>Approval of opioid drugs</header>
+ <subsection id="idA513831DF992458CA5DE05660256329E"><enum>(a)</enum><header>In General</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, the Commissioner of Food and Drugs (referred to in this Act as <quote>the Commissioner</quote>) shall ensure that, with respect to each application for an opioid drug submitted under section 505 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/355">21 U.S.C. 355</external-xref>)—</text>
+ <paragraph id="id605CFC2697C84099BB316380EC05C9F6"><enum>(1)</enum><text display-inline="yes-display-inline">an advisory committee of the Center for Drug Evaluation and Research of the Food and Drug Administration evaluates the application and issues a recommendation regarding approval of such drug prior to a final decision to approve such drug; and</text>
+ </paragraph><paragraph id="idB540B7A1D7B944B5BD029B2B9F2568C6"><enum>(2)</enum><text display-inline="yes-display-inline">if a final decision to approve such drug is inconsistent with the recommendation under paragraph (1), such final decision shall be made by the Commissioner and shall not be delegated.</text>
+ </paragraph></subsection><subsection id="id775EB27004EE4F3988CAA4815EE62D4B"><enum>(b)</enum><header>Reports to Congress</header><text display-inline="yes-display-inline">If the advisory committee recommends under subsection (a)(1) that the Commissioner not approve an opioid drug under section 505 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/355">21 U.S.C. 355</external-xref>), and the Commissioner approves that drug under subsection (a)(2), the Commissioner shall—</text>
+ <paragraph id="id5DB28A36051142FAAE486AE26F437486"><enum>(1)</enum><text display-inline="yes-display-inline">submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, and to any member of Congress that requests the report, that includes—</text>
+ <subparagraph id="id58F0F6BFAE3944928C8C4EDC2DF5B8A0"><enum>(A)</enum><text display-inline="yes-display-inline">medical and scientific evidence regarding patient safety that clearly supports the Commissioner's decision to approve the opioid drug against the recommendation of the advisory committee; and</text>
+ </subparagraph><subparagraph id="id6E61E5856212423487D7B6971999726B"><enum>(B)</enum><text display-inline="yes-display-inline">a disclosure of any potential conflicts of interest that may exist regarding any official of the Food and Drug Administration who was involved in the decision to approve the drug prior to the Commissioner's final decision under subsection (a)(2); and</text>
+ </subparagraph></paragraph><paragraph id="idD6725CD8398140E1AED9A522768EA9DA"><enum>(2)</enum><text>at the request of the Committee on Health, Education, Labor, and Pensions of the Senate or the Committee on Energy and Commerce of the House of Representatives, testify before that committee regarding the Commissioner's decision to approve the opioid drug against the recommendation of the advisory committee.</text>
+ </paragraph></subsection><subsection id="id84BC4E2F40F64D74B76310169543B0AF"><enum>(c)</enum><header>Prohibition on marketing</header><text display-inline="yes-display-inline">A drug described in subsection (b) shall not be introduced or delivered for introduction into interstate commerce until the report described in subsection (b)(1) has been submitted to Congress.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

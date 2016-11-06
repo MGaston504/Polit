@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H876065FE3CD5482495095F1F1A3E7FD6" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2233 IH: End Warrantless Surveillance of Americans Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2233</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150505">May 5, 2015</action-date>
+			<action-desc><sponsor name-id="P000592">Mr. Poe of Texas</sponsor> (for himself, <cosponsor name-id="L000397">Ms. Lofgren</cosponsor>, and <cosponsor name-id="M001184">Mr. Massie</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="">Select Committee on Intelligence (Permanent Select)</committee-name>, and in addition to the Committee on the <committee-name committee-id="HJU00">Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Foreign Intelligence Surveillance Act of 1978 to clarify the prohibition on
+			 warrantless searching of collections of communications for United States
+			 persons, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H1A831CD238354A71A5FA827199F2F3ED" style="OLC">
+ <section id="H63192194610B4410A36C1F9CE4BB9643" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>End Warrantless Surveillance of Americans Act</short-title></quote>.</text> </section><section id="HECBA508A02AD4A819F9933C6D4FFC1FA"><enum>2.</enum><header>Clarification on prohibition on warrantless searching of collections of communications for the communications of United States persons</header><text display-inline="no-display-inline">Section 702(b) of the Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1881a">50 U.S.C. 1881a(b)</external-xref>) is amended—</text>
+ <paragraph id="HE5DA0416F51B4B448C99D4DC4425F14D"><enum>(1)</enum><text>by redesignating paragraphs (1) through (5) as subparagraphs (A) through (E), respectively, and indenting such subparagraphs, as so redesignated, an additional two ems from the left margin;</text>
+ </paragraph><paragraph id="H3E3A60D0A80D451FA61A03D2EA7622CF"><enum>(2)</enum><text>by striking <quote>the purpose</quote> and inserting <quote>a purpose</quote>;</text> </paragraph><paragraph id="H449E2D5872A5409A9A9E9405A8DFAFCB"><enum>(3)</enum><text>by striking <quote>an acquisition</quote> and inserting the following: <quote>(1) <header-in-text level="paragraph" style="OLC">In general.—</header-in-text>In acquisition</quote>; and</text>
+ </paragraph><paragraph id="H81D0530A68AF41AFAECFD13A6CD628E2"><enum>(4)</enum><text>by adding at the end the following new paragraph:</text> <quoted-block id="HD8902EE737B343E289A98F06659180E5" style="OLC"> <paragraph id="H301B5D3E1A8543BB9E4ED97AEFABC169"><enum>(2)</enum><header>Clarification on prohibition on searching of collections of communications of united states persons</header> <subparagraph id="HFC645EE6539E42819599F647CA48771C"><enum>(A)</enum><header>In general</header><text>Except as provided in subparagraph (B), no officer or employee of the United States may conduct a search of a collection of communications acquired under this section in an effort to find communications of a particular United States person (other than a corporation).</text>
+ </subparagraph><subparagraph id="HC1157E81EFEE4B9B9A134F6599F849BD"><enum>(B)</enum><header>Concurrent authorization and exception for emergency situations</header><text>Subparagraph (A) shall not apply to a search for communications related to a particular United States person if—</text>
+ <clause id="H34997D006AB3485492E136148D6A64AB"><enum>(i)</enum><text>such United States person is the subject of an order or emergency authorization authorizing electronic surveillance or physical search under section 105, 304, 703, 704, or 705, or title 18, United States Code, for the effective period of that order;</text>
+ </clause><clause id="H2C830DDC06DD4100B822D9C83869BC0F"><enum>(ii)</enum><text>the entity carrying out the search has a reasonable belief that the life or safety of such United States person is threatened and the information is sought for the purpose of assisting that person; or</text>
+ </clause><clause id="HA4732CB0F459440394872CA6DE31717A"><enum>(iii)</enum><text>such United States person has consented to the search.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></section><section id="H41541FAAC0F74ECAB9E47F4A9E145DCC"><enum>3.</enum><header>Prohibition on warrantless searching of collections of communications collected under executive order for the communications of United States persons</header> <subsection id="HA33C7E8D873245B8921CDAA962200267"><enum>(a)</enum><header>In general</header><text>Section 309 of the Intelligence Authorization Act for Fiscal Year 2015 is amended by adding at the end the following new subparagraph:</text>
+				<quoted-block id="H1821D66A30C4473EB0B875968D2F72B0" style="OLC">
+					<subparagraph id="HBB004FDE7D4B4806B045AC04900F5A83"><enum>(C)</enum><header>Clarification on prohibition on searching of collections of communications of united states persons</header>
+ <clause id="H187CD25BC4784D599B935154F66DBAF2"><enum>(i)</enum><header>In general</header><text>Except as provided in clause (ii), no officer or employee of the United States may conduct a search of retained covered communications for a particular United States person (other than a corporation).</text>
+ </clause><clause id="HD8A41C01565E49308F3A71CCD7E7680F"><enum>(ii)</enum><header>Exception for emergency situations</header><text>Clause (i) shall not apply to a search for communications related to a particular United States person if—</text>
+ <subclause id="H14DC9BCE2F414E1EA9BEB565181802A7"><enum>(I)</enum><text>such United States person is the subject of an order or emergency authorization authorizing electronic surveillance or physical search under section 105, 304, 703, 704, or 705, or title 18, United States Code, for the effective period of that order;</text>
+ </subclause><subclause id="H7B9A770C221B4B96A88C295DF2A78E7D"><enum>(II)</enum><text>the entity carrying out the search has a reasonable belief that the life or safety of such United States person is threatened and the information is sought for the purpose of assisting that person; or</text>
+ </subclause><subclause id="H3146373108554D61A4E51856A5B7FDB3"><enum>(III)</enum><text>such United States person has consented to the search.</text></subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="H2B2E4764AFD641F0A82326023190EA68"><enum>(b)</enum><header>Conforming Amendments</header><text>Section 309(b)(3)(A) is amended by striking <quote>subparagraph (B).</quote> and inserting <quote>subparagraphs (B) and (C).</quote>.</text>
+			</subsection></section><section id="H93D1D9B842694972B99BE524596D04D1"><enum>4.</enum><header>Prohibition on data security vulnerability mandates</header>
+ <subsection id="HC78DF54D28C9463589F47EB52512E3C7"><enum>(a)</enum><header>In general</header><text>Except as provided in subsection (b), no agency may mandate or request that a manufacturer, developer, or seller of covered products design or alter the security functions in its product or service to allow the surveillance of any user of such product or service, or to allow the physical search of such product, by any agency.</text>
+ </subsection><subsection id="H14970B5411514FA8A03C0899392E2397"><enum>(b)</enum><header>Exception</header><text>Subsection (a) shall not apply to mandates authorized under the Communications Assistance for Law Enforcement Act (<external-xref legal-doc="usc" parsable-cite="usc/47/1001">47 U.S.C. 1001 et seq.</external-xref>).</text>
+ </subsection><subsection id="HE4C011A3D0244140B8D143A5272B4D3A"><enum>(c)</enum><header>Definitions</header><text>In this section—</text> <paragraph id="H68756C3CF32E4A109A0919A1D4C5EEEA"><enum>(1)</enum><text>the term <term>agency</term> has the meaning given the term in section 3502 of title 44, United States Code; and</text>
+ </paragraph><paragraph id="H2A15F37133EA4A39939A42AC05D7BA58"><enum>(2)</enum><text>the term <term>covered product</term> means any computer hardware, computer software, or electronic device that is made available to the general public.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

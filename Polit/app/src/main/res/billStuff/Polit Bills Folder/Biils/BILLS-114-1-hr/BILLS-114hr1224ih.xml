@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H72F94174929A4ED2AC7AB19524843CD6" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1224 IH: Freddie Mac REMIC Reform Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1224</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150303">March 3, 2015</action-date> 
+<action-desc><sponsor name-id="P000593">Mr. Perlmutter</sponsor> (for himself and <cosponsor name-id="S001183">Mr. Schweikert</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To require the exercise of clean-up call options under securities issued by the Federal Home Loan Mortgage Corporation and to prohibit any new mortgage-backed securities issued by such Corporation or the Federal National Mortgage Association from containing provisions for a clean-up call option, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HAB3A02502D134D12BA28387D829CC30A" style="OLC"> 
+<section id="H4FBF94F795EE47B88DE2568E1C547060" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Freddie Mac REMIC Reform Act of 2015</short-title></quote>.</text></section> <section id="H7D2E315FC1724576AEF0C337CA76B9C6"><enum>2.</enum><header>Exercise of clean-up call options</header><text display-inline="no-display-inline">Subtitle B of title XIII of the Housing and Community Development Act of 1992 (<external-xref legal-doc="usc" parsable-cite="usc/12/4611">12 U.S.C. 4611 et seq.</external-xref>) is amended by adding at the end the following new section:</text>
+<quoted-block display-inline="no-display-inline" id="HB84427D64F0B4F25BD7380FF309E39C8" style="OLC">
+<section id="H4FD95B98BF4C436AA1FBAF62329A4A5B"><enum>1369F.</enum><header>Exercise of clean-up call options</header>
+<subsection id="H11CE2E1ED7C1432BB32AAB3856D2958D"><enum>(a)</enum><header>Requirement</header><text display-inline="yes-display-inline">In complying with any restriction under law, regulation, order, or agreement with the Director or the Secretary of the Treasury on the mortgage-backed securities issued by the Federal Home Loan Mortgage Corporation, such Corporation or, during the term of any conservatorship or receivership of such enterprise pursuant to section 1367, the Director, shall in the case of any mortgage-backed security with a clean-up call option (as such term is defined in subsection (d) of this section) that is issued by such Corporation, exercise any option under which the residual holder is willing to share not less than 50 percent of any excess proceeds resulting from exercise of such option or right with the Agency as conservator or receiver of such Corporation, if such proceeds benefit the taxpayers of the United States.</text></subsection> <subsection id="HA7352C40BA8F48E7B84190A7683B9476"><enum>(b)</enum><header>Prohibition regarding issuance of new securities</header><text display-inline="yes-display-inline">The Director shall prohibit the Federal Home Loan Mortgage Corporation and the Federal National Mortgage Association from issuing, after the date of the enactment of this section, any mortgage-backed security with a clean-up call option.</text></subsection>
+<subsection id="HE77E5B0D63194A9180F4904EE6505DA6"><enum>(c)</enum><header>Use of proceeds To reduce deficit</header><text display-inline="yes-display-inline">The Director shall ensure that any excess proceeds received as a result of the exercise of any clean-up call option shall be used only to reduce the budget deficit of the Federal Government.</text></subsection> <subsection id="H05F98B8996BA45CD97B7E960FC2696D3"><enum>(d)</enum><header>Definitions</header> <paragraph id="H8F2152A63D5044C4AD39AB12F557399E"><enum>(1)</enum><header>Mortgage-backed securities</header><text display-inline="yes-display-inline">The term <term>mortgage-backed securities</term> means debt obligations issued in the form of participation certificates, collateralized mortgage obligations, mortgage-backed commercial paper, and real estate mortgage investment conduits.</text></paragraph>
+<paragraph id="H36C15E116C0C4181B2D96D2920726A49"><enum>(2)</enum><header>Mortgage-backed security with a clean-up call option</header><text display-inline="yes-display-inline">The term <term>mortgage-backed security with a clean-up call option</term> means any mortgage-backed security under which there is an option or right to redeem all remaining classes of such security at such time when the amount of the aggregate remaining principal would be less than the amount of the optional redemption or clean-up call percentage, as defined in the applicable offering circular or offering circular supplement.</text></paragraph> <paragraph id="H8947DCDB08854223825934570F7EA7FE"><enum>(3)</enum><header>Excess proceeds</header><text display-inline="yes-display-inline">The term <term>excess proceeds</term> means, with respect to exercise of any clean-up call option, the excess of the net proceeds from the sale of the collateral underlying the mortgage-backed security with such option, and the redemption price as defined in the applicable offering circular or offering circular supplement.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body> 
+</bill> 
+
+

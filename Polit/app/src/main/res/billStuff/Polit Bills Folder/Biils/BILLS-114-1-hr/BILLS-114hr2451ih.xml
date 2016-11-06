@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB29C5E12696542A3A77B4D3267FFF947" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2451 IH: Buy America Update Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2451</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150519">May 19, 2015</action-date>
+			<action-desc><sponsor name-id="L000563">Mr. Lipinski</sponsor> (for himself, <cosponsor name-id="J000295">Mr. Joyce</cosponsor>, <cosponsor name-id="H001038">Mr. Higgins</cosponsor>, <cosponsor name-id="L000581">Mrs. Lawrence</cosponsor>, <cosponsor name-id="B001286">Mrs. Bustos</cosponsor>, <cosponsor name-id="P000607">Mr. Pocan</cosponsor>, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, and <cosponsor name-id="D000624">Mrs. Dingell</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 23 and title 49, United States Code, to strengthen domestic content standards, and
+			 for other purposes.</official-title>
+	</form>
+	<legis-body id="HAE3654DEA3854F7AA5D3F371E98D17C8" style="OLC">
+ <section id="H3B3538D9BA144A4880D0E30D5037C87E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Buy America Update Act</short-title></quote>.</text> </section><section id="H06004B67540448AF881BBB67B6A4833B"><enum>2.</enum><header>FHWA domestic content standards improvement</header> <subsection id="HC0D8E7BA45A2437E84A94253049E026B"><enum>(a)</enum><header>CMAQ Loophole</header><text display-inline="yes-display-inline">Section 313(b) of title 23, United States Code, is amended—</text>
+ <paragraph id="HAD0A5ADD02E34ABA889947B3A5F83027"><enum>(1)</enum><text>by redesignating paragraph (3) as paragraph (4);</text> </paragraph><paragraph id="H8ADA5257C88A4A4681003AF088B8CEDC"><enum>(2)</enum><text>in paragraph (2) by striking <quote>or</quote>; and</text>
+ </paragraph><paragraph id="HE3C8C5BC8C3E4500ABF85A67B04C4DFA"><enum>(3)</enum><text>by inserting after paragraph (2) the following:</text> <quoted-block display-inline="no-display-inline" id="HDEFF501937EC4A22BF198962A574DC1F" style="USC"> <paragraph id="H6F914222558B4AE99A5D58D660DB8944"><enum>(3)</enum><text>that when procuring rolling stock under this chapter—</text>
+ <subparagraph id="H85E2C78B82394A97BD244CB35C57EAE9"><enum>(A)</enum><text>the cost of components and subcomponents produced in the United States is more than 60 percent of the cost of all components of the rolling stock; and</text>
+ </subparagraph><subparagraph id="H0094205128E64D97954962B5F5BD8649"><enum>(B)</enum><text>final assembly of the rolling stock has occurred in the United States; or</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></subsection><subsection id="H9AF1EDD6569A47AE823C530249C2C47E"><enum>(b)</enum><header>Rule reevaluation</header><text>Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation shall review the regulations found in section 635.410 of title 23, Code of Federal Regulations, or any similar successor regulations, to determine whether manufactured products other than those containing steel and iron should be considered for the purposes of domestic content preferences.</text>
+			</subsection></section><section id="H16A59DBCDB1446F492E9B61AB8D10BCC"><enum>3.</enum><header>Component requirements and verification</header>
+			<subsection id="H489BFBB8725A46F49F8B7B10E907444D"><enum>(a)</enum><header>Auditing and certification modernization</header>
+ <paragraph id="H6957A8C7E26B417882FE73F4AAFE5BD4"><enum>(1)</enum><text>Not later than 6 months after the date of enactment of this Act, the Secretary of Transportation shall—</text>
+ <subparagraph id="H6EE549A136A541039DC008AC1D4FF74F"><enum>(A)</enum><text display-inline="yes-display-inline">initiate a rulemaking to develop audit procedures for the agency to review offeror and recipient compliance with domestic content provisions; and</text>
+ </subparagraph><subparagraph id="H31B61D31890F4621AC59DCB5B345C0CE"><enum>(B)</enum><text>issue guidance on best practices for pre-award and post-delivery audits by recipients under section 5323(m) of title 49, United States Code.</text>
+ </subparagraph></paragraph><paragraph id="H81CAF4BED463426CBB99AEC64B5721C8"><enum>(2)</enum><text>In developing the guidance required under paragraph (1)(B), the Secretary shall consider best practices for—</text>
+ <subparagraph id="H2793B310E326457A95A82ED5857011AB"><enum>(A)</enum><text display-inline="yes-display-inline">proper and sufficient documentation requests from bidders by recipients under section 5323(m) of such title to support certification of compliance;</text>
+ </subparagraph><subparagraph id="H003241D4E15044ED8818E8FA9DDA8BC0"><enum>(B)</enum><text display-inline="yes-display-inline">proper and sufficient documentation requests from bidders by recipients under section 5323(m) of such title to support pre-award and post-delivery audits;</text>
+ </subparagraph><subparagraph id="HD277D623AC694268AC11B3CE6CEA8267"><enum>(C)</enum><text>determining the timing and requirements for post-delivery audit; and</text> </subparagraph><subparagraph id="H2A58450C9555479EBAC78FA739C0EA90"><enum>(D)</enum><text>verifying the origin of supplier components and subcomponents.</text>
+ </subparagraph></paragraph></subsection><subsection id="HCFF4C3162AFE44168C295C23B5D03B5E"><enum>(b)</enum><header>Component guidance</header><text>Not later than 6 months after the date of enactment of this Act, the Secretary shall initiate a rulemaking to further develop standards under section 5323(j) of title 49, United States Code, for measuring the percentage value of a component relative to the entire procurement.</text>
+			</subsection></section><section commented="no" id="HA189AF0FA3384648A8DC021892B4E718"><enum>4.</enum><header>Rail Buy America modernization</header>
+ <text display-inline="no-display-inline">Section 24305(f) of title 49, United States Code, is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H7A2D28395B324F33B10F46A6C6EA4AD4" style="USC"> <paragraph commented="no" id="H1EC2CB180E25426DA5B1A0D454970E7A" indent="up1"><enum>(5)</enum><text display-inline="yes-display-inline">Before seeking a waiver request under paragraph (4), Amtrak shall contract with the National Institute of Standards and Technology to conduct a supplier scouting process for domestic suppliers that can provide the compliant products for which a waiver will be sought. Upon conclusion of the supplier scouting process for a particular component, material, or subcomponent, Amtrak shall submit to the Secretary a scouting report along with the waiver request. The Secretary shall consider the results of the supplier scouting before making a decision on Amtrak’s waiver. If the Secretary decides to grant the waiver, the Secretary shall publish in the Federal Register a summary of the Scouting report and the reasons for the Secretary’s decision.</text>
+				</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section commented="no" id="HB2F5C82386F54C07AAB3F607E245280C"><enum>5.</enum><header>FAA Buy America modernization</header>
+ <text display-inline="no-display-inline">Section 50101 of title 49, United States Code, is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H311AA1D1899E48DCA63C3338ABCDD37C" style="USC"> <subsection commented="no" id="H584D050F5A1843968EC564D3410928CD"><enum>(d)</enum><header>Supplier scouting</header><text display-inline="yes-display-inline">Before issuing a waiver under subsection (b), the Secretary shall—</text>
+ <paragraph commented="no" id="HA04AEF587C8C4EBD932657935618B059"><enum>(1)</enum><text>consult with the National Institute of Standards and Technology; and</text> </paragraph><paragraph commented="no" id="HD138CB22C1424BD3ADF9AE90BFCEA622"><enum>(2)</enum><text display-inline="yes-display-inline">begin a supplier scouting process for domestic suppliers that can provide for those compliant products for which a waiver will be sought.</text>
+ </paragraph></subsection><subsection id="H92DB0EF689894806BF8FF02216994222"><enum>(e)</enum><header>Publication required</header><text>Upon conclusion of the supplier scouting process required under subsection (d)(2) for a particular component, material, or subcomponent, the Secretary make the results of the supplier scouting available to the public.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="HF8D565B859C84DA482C5A5AAFC8FEE7C"><enum>6.</enum><header>Application of buy America requirements to projects financed with passenger facility charges</header>
+ <subsection commented="no" id="HFA77B272EB3B4FECB30740AB16E0DB9D"><enum>(a)</enum><header>In general</header><text>Section 50101(a) of title 49, United States Code, is amended by inserting <quote>, and may approve a project under section 40117,</quote> before <quote>only if steel</quote>.</text> </subsection><subsection id="HF10E2EAC39B3453D96E462E48F1402C6"><enum>(b)</enum><header>Applicability</header><text>The amendment made by subsection (b) shall apply to an application submitted pursuant to section 40177(c) of title 49, United States Code, after the date of enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

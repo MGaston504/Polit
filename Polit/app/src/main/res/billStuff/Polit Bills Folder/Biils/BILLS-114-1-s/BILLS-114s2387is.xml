@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2387 IS: Protection of Social Security Benefits Restoration Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-12-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2387</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151210">December 10, 2015</action-date>
+			<action-desc><sponsor name-id="S247">Mr. Wyden</sponsor> (for himself, <cosponsor name-id="S307">Mr. Brown</cosponsor>, <cosponsor name-id="S316">Mr. Whitehouse</cosponsor>, <cosponsor name-id="S331">Mrs. Gillibrand</cosponsor>, <cosponsor name-id="S311">Ms. Klobuchar</cosponsor>, <cosponsor name-id="S313">Mr. Sanders</cosponsor>, <cosponsor name-id="S366">Ms. Warren</cosponsor>, and <cosponsor name-id="S322">Mr. Merkley</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To restore protections for Social Security, Railroad retirement, and Black Lung benefits from
+			 administrative offset.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protection of Social Security Benefits Restoration Act</short-title></quote>.</text>
+		</section><section id="id53F8E1192FB3438AAD38F597014F6CFD"><enum>2.</enum><header>Protecting Social Security, Railroad retirement, and Black Lung benefits from administrative offset</header>
+			<subsection id="idA2B98D74F1F4409CBE5149458DC993DA"><enum>(a)</enum><header>Prohibition on administrative offset authority</header>
+ <paragraph id="id5C4EB368CFCE47C1A009689641D3AF2C"><enum>(1)</enum><header>Assignment under Social Security Act</header><text>Section 207 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/407">42 U.S.C. 407</external-xref>) is amended by adding at the end the following new subsection:</text>
+					<quoted-block display-inline="no-display-inline" id="idD6C6ECCCB4054CAE8DB048F14666189C" style="OLC">
+ <subsection id="id9AE270BA8D06450AA44F3B24E6B43234"><enum>(d)</enum><text>Subparagraphs (A), (C), and (D) of section 3716(c)(3) of title 31, United States Code, as such subparagraphs were in effect on the date before the date of enactment of the <short-title>Protection of Social Security Benefits Restoration Act</short-title>, shall be null and void and of no effect.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="idA591818114944C48A34865671A17125B"><enum>(2)</enum><header>Conforming amendments</header>
+ <subparagraph id="idB3761192C7354DB4AA7ED9D104BEC1D1"><enum>(A)</enum><text>Section 14(a) of the Railroad Retirement Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/45/231m">45 U.S.C. 231m(a)</external-xref>) is amended by adding at the end the following: <quote>. The provisions of section 207(d) of the Social Security Act shall apply with respect to this title to the same extent as they apply in the case of title II of such Act.</quote>.</text>
+ </subparagraph><subparagraph id="idFCFE872374E4447C8F225150D0F2351F"><enum>(B)</enum><text>Section 2(e) of the Railroad Unemployment Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/45/352">45 U.S.C. 352(e)</external-xref>) is amended by adding at the end the following: <quote>The provisions of section 207(d) of the Social Security Act shall apply with respect to this title to the same extent as they apply in the case of title II of such Act.</quote></text>
+					</subparagraph></paragraph></subsection><subsection id="id6B1EA733F3774A8DA5084102DA43F43E"><enum>(b)</enum><header>Repeal of administrative offset authority</header>
+ <paragraph id="id208B09AFE6AB4739876634E920177C9D"><enum>(1)</enum><header>In general</header><text>Paragraph (3) of section 3716(c) of title 31, United States Code, is amended—</text> <subparagraph id="id9EDDCD40E4AB4EC285151080E85E864D"><enum>(A)</enum><text>by striking <quote>(3)(A)(i) Notwithstanding</quote> and all that follows through <quote>any overpayment under such program).</quote>;</text>
+ </subparagraph><subparagraph id="id73C3799B4528485B90263730FDB215F3"><enum>(B)</enum><text>by striking subparagraphs (C) and (D); and</text> </subparagraph><subparagraph id="id97B9FC63F344443793BE2FB7518E2A04"><enum>(C)</enum><text>by redesignating subparagraph (B) as paragraph (3).</text>
+ </subparagraph></paragraph><paragraph id="id4223D8D6B1E9449AAAE4D25B02163CD8"><enum>(2)</enum><header>Conforming amendment</header><text>Paragraph (5) of such section is amended by striking <quote>the Commissioner of Social Security and</quote>.</text> </paragraph></subsection><subsection id="idFD9B22BE77ED4F268A027349C3E428A4"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to any collection by administrative offset occurring on or after the date of enactment of this Act of a claim arising before, on, or after the date of enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

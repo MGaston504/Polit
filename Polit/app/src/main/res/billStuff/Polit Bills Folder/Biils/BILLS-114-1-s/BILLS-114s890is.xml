@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S890 IS: Land and Water Conservation Authorization and Funding Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-03-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 890</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150326">March 26, 2015</action-date>
+			<action-desc><sponsor name-id="S275">Ms. Cantwell</sponsor> (for herself, <cosponsor name-id="S247">Mr. Wyden</cosponsor>, <cosponsor name-id="S330">Mr. Bennet</cosponsor>, <cosponsor name-id="S359">Mr. Heinrich</cosponsor>, <cosponsor name-id="S314">Mr. Tester</cosponsor>, and <cosponsor name-id="S326">Mr. Udall</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 54, United States Code, to provide consistent and reliable authority for, and for
+			 the funding of, the Land and Water Conservation Fund to maximize the
+			 effectiveness of the Fund for future generations, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Land and Water Conservation Authorization and Funding Act of 2015</short-title></quote>.</text>
+		</section><section id="idAC92AF23400A4B91B78FDF8E7EDA97BA"><enum>2.</enum><header>Permanent authorization and full funding of the Land and Water Conservation Fund</header>
+ <subsection id="idF439FFC7ECE141B593BC9C4545580CB3"><enum>(a)</enum><header>Authorization</header><text>Section 200302 of title 54, United States Code, is amended—</text> <paragraph id="idf31f461704f246b48641f1b358cf2898"><enum>(1)</enum><text>in subsection (b), in the matter preceding paragraph (1), by striking <quote>During the period ending September 30, 2015, there</quote> and inserting <quote>There</quote>; and</text>
+ </paragraph><paragraph id="id2f4c9be7a3204f7796fe6ee0ee513225"><enum>(2)</enum><text>in subsection (c)(1), by striking <quote>through September 30, 2015</quote>.</text> </paragraph></subsection><subsection id="id8341137A2F184391B9F8641BEA7A6FC8"><enum>(b)</enum><header>Full funding</header> <paragraph id="idC04A3AEA317143F3B7A8A939C20A8411"><enum>(1)</enum><header>In general</header><text>Section 200303 of title 54, United States Code, is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="idEAD665C312AE4D85AB06906504AF9B50" style="USC">
+						<section id="idC963F4A6DDD94F8CBA02CD2B381CEACA"><enum>200303.</enum><header>Availability of funds</header>
+ <subsection id="id485BEC50DC054A8AAFBEE6268A4F5211"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Amounts deposited in the Fund under section 200302 shall be made available for expenditure, without further appropriation or fiscal year limitation, to carry out the purposes of the Fund (including accounts and programs made available from the Fund under the Consolidated and Further Continuing Appropriations Act, 2015 (<external-xref legal-doc="public-law" parsable-cite="pl/113/235">Public Law 113–235</external-xref>)).</text>
+							</subsection><subsection id="id8879077DC3DF464993DD990D0438EE89"><enum>(b)</enum><header>Additional
+ amounts</header><text>Amounts made available under subsection (a) shall be in addition to amounts made available to the Fund under section 105 of the Gulf of Mexico Energy Security Act of 2006 (<external-xref legal-doc="usc" parsable-cite="usc/43/1331">43 U.S.C. 1331</external-xref> note; <external-xref legal-doc="public-law" parsable-cite="pl/109/432">Public Law 109–432</external-xref>) or otherwise appropriated from the Fund.</text>
+							</subsection><subsection id="idaf53800a39e9410bb953f49fb2607836"><enum>(c)</enum><header>Allocation
+		authority</header>
+								<paragraph id="id347fbec36c9d463b925c2e959fae57f5"><enum>(1)</enum><header>Submission of
+ cost estimates</header><text>The President shall submit to Congress detailed account, program, and project allocations to be funded under subsection (a) as part of the annual budget submission of the President.</text>
+								</paragraph><paragraph id="id9403866db0374a99b6e87c6105d09877"><enum>(2)</enum><header>Alternate
+		allocation</header>
+									<subparagraph id="id87AE8B50ECB24D349A0C55A342FD9AC1"><enum>(A)</enum><header>In
+ general</header><text>Appropriations Acts may provide for alternate allocation of amounts made available under subsection (a), including allocations by account and program.</text>
+									</subparagraph><subparagraph id="id4A053ECBD4B94A37BA27516C2E0E8D63"><enum>(B)</enum><header>Allocation by
+		president</header>
+										<clause id="idDEF82306596D46DBA74E534EACB045BE"><enum>(i)</enum><header>No
+ alternate allocations</header><text>If Congress has not enacted legislation establishing alternate allocations by the date that is 120 days after the date on which the applicable fiscal year begins, amounts made available under subsection (a) shall be allocated by the President.</text>
+										</clause><clause id="id76664BEFDAB64DCAA9DD48CF487B46B1"><enum>(ii)</enum><header>Insufficient
+ alternate allocation</header><text>If Congress enacts legislation establishing alternate allocations for amounts made available under subsection (a) that are less than the full amount appropriated under that subsection, the difference between the amount appropriated and the alternate allocation shall be allocated by the President.</text>
+										</clause></subparagraph></paragraph><paragraph id="id0a9e087b45034f139478da37be5491d1"><enum>(3)</enum><header>Annual
+ report</header><text>The President shall submit to Congress an annual report that describes the final allocation by account, program, and project of amounts made available under subsection (a), including a description of the status of obligations and expenditures.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="id0F44E7FE49AC4CF89E91212BBE4B02A6"><enum>(2)</enum><header>Clerical amendment</header><text>The table of sections affected for title 54 is amended by striking the item relating to section 200303 and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="idF64271BEC18348D6AF68BE587EEC69F7" style="OLC"><toc><toc-entry bold="off" level="section">200303. Availability of funds.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="id7ae7f8e97d2645408963d167e61ead59"><enum>(c)</enum><header>Public
+ access</header><text>Section 200306 of title 54, United States Code, is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="idA3207B56B45447A8997334C61436BF43" style="OLC"> <subsection id="id632bc33fe3714c27bd66353daf32279c"><enum>(c)</enum><header>Public access</header><text>Not less than 1.5 percent of the annual authorized funding amount shall be made available each year for projects that secure recreational public access to existing Federal public land for hunting, fishing, or other recreational purposes.</text>
+					</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

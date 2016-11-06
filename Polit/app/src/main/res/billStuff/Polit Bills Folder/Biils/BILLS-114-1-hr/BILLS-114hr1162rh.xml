@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" dms-id="HFF4780EF51984A4AB5F7397FA0C73A77" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1162 RH: Science Prize Competitions Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IB</distribution-code> 
+<calendar display="yes">Union Calendar No. 90</calendar>
+<congress display="yes">114th CONGRESS</congress> <session display="yes">1st Session</session> 
+<legis-num>H. R. 1162</legis-num>
+<associated-doc role="report" display="yes">[Report No. 114–125]</associated-doc> 
+<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150227">February 27, 2015</action-date> 
+<action-desc><sponsor name-id="B001292">Mr. Beyer</sponsor> (for himself, <cosponsor name-id="J000292">Mr. Johnson of Ohio</cosponsor>, <cosponsor name-id="J000126">Ms. Eddie Bernice Johnson of Texas</cosponsor>, and <cosponsor name-id="S000583">Mr. Smith of Texas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HSY00" added-display-style="italic" deleted-display-style="strikethrough">Committee on Science, Space, and Technology</committee-name></action-desc> 
+</action> 
+<action>
+<action-date date="20150519">May 19, 2015</action-date>
+<action-desc>Additional sponsors: <cosponsor name-id="B001278">Ms. Bonamici</cosponsor>, <cosponsor name-id="P000593">Mr. Perlmutter</cosponsor>, <cosponsor name-id="E000293">Ms. Esty</cosponsor>, <cosponsor name-id="E000290">Ms. Edwards</cosponsor>, <cosponsor name-id="L000563">Mr. Lipinski</cosponsor>, <cosponsor name-id="L000397">Ms. Lofgren</cosponsor>, <cosponsor name-id="C001101">Ms. Clark of Massachusetts</cosponsor>, <cosponsor name-id="G000556">Mr. Grayson</cosponsor>, and <cosponsor name-id="W000821">Mr. Westerman</cosponsor></action-desc>
+</action>
+<action>
+<action-date date="20150519">May 19, 2015</action-date>
+<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action-desc>
+<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction>
+<action-instruction>For text of introduced bill, see copy of bill as introduced on February 27, 2015</action-instruction>
+</action>
+<action display="yes">
+<action-desc display="yes"><pagebreak/></action-desc>
+</action>
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To make technical changes to provisions authorizing prize competitions under the Stevenson-Wydler Technology Innovation Act of 1980.<pagebreak/></official-title> 
+</form> 
+<legis-body display-enacting-clause="yes-display-enacting-clause" changed="added" style="OLC" committee-id="HSY00" reported-display-style="italic" id="H35C0C771E51448F7941E5B19CE9ED7A9">
+<section id="HB6E7ECBAA7F145DBAC154EA44F26C6E9" display-inline="no-display-inline" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Science Prize Competitions Act</short-title></quote>. </text></section> <section id="H61E51AB6049048C0A222E097D37AA059"><enum>2.</enum><header>Amendments to prize competitions</header><text display-inline="no-display-inline">Section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (<external-xref legal-doc="usc" parsable-cite="usc/15/3719">15 U.S.C. 3719</external-xref>) is amended—</text>
+<paragraph id="HD3DD9357138C45A7BB768CD7D4701B26"><enum>(1)</enum><text>in subsection (c)—</text> <subparagraph id="H76A0D1D1602D4B58AA4A8039F1F54328"><enum>(A)</enum><text>by inserting <quote>competition</quote> after <quote>section, a prize</quote>;</text></subparagraph>
+<subparagraph id="H823418F53AE64334BCA586D03C6224E6"><enum>(B)</enum><text>by inserting <quote>types</quote> after <quote>following</quote>; and</text></subparagraph> <subparagraph id="H702BCDC9A2AA440EB33C695AE9BB276A"><enum>(C)</enum><text>in paragraph (4), by striking <quote>prizes</quote> and inserting <quote>prize competitions</quote>;</text></subparagraph></paragraph>
+<paragraph id="H5D406A01E695410FB1DCB8EDCF77EA95"><enum>(2)</enum><text>in subsection (f)—</text> <subparagraph id="H40188B00131541519BE9C4B472061FED"><enum>(A)</enum><text>by striking <quote>in the Federal Register</quote> and inserting <quote>on a publicly accessible Government website, such as www.challenge.gov,</quote>; and</text></subparagraph>
+<subparagraph id="HF524D0AFC3F14D6D82417BF5ECA84CC7"><enum>(B)</enum><text>in paragraph (4), by striking <quote>prize</quote> and inserting <quote>cash prize purse</quote>;</text></subparagraph></paragraph> <paragraph id="H69D85199E0C844BEA8CBF99F6C3D27AA"><enum>(3)</enum><text>in subsection (g), by striking <quote>prize</quote> and inserting <quote>cash prize purse</quote>;</text></paragraph>
+<paragraph id="HF68CE0F13E5B4D13A765900B3B5F97CD"><enum>(4)</enum><text>in subsection (h), by inserting <quote>prize</quote> before <quote>competition</quote> both places it appears;</text></paragraph> <paragraph id="H8DD319D3D8E245828C7F6CE95CF68B4D" commented="no"><enum>(5)</enum><text>in subsection (i)—</text>
+<subparagraph id="HE8BFFE37CD1B4F1D9D2A0A88E0D70058" commented="no"><enum>(A)</enum><text>in paragraph (1)(B), by inserting <quote>prize</quote> before <quote>competition</quote>;</text></subparagraph> <subparagraph id="HB2020AA60E1742089EADF10DE3BC5279" commented="no"><enum>(B)</enum><text>in paragraph (2)(A), by inserting <quote>prize</quote> before <quote>competition</quote> both places it appears;</text></subparagraph>
+<subparagraph id="HD61DB9C7BCB3484682DE5D4A097ABBBC"><enum>(C)</enum><text>by redesignating paragraph (3) as paragraph (4); and</text></subparagraph> <subparagraph id="H17A6142E2D104068826A14AA0B8EF8EE"><enum>(D)</enum><text>by inserting after paragraph (2) the following new paragraph:</text>
+<quoted-block style="OLC" id="H06EDF0697F344505AC779EE7F24EC41A" display-inline="no-display-inline">
+<paragraph id="H3393FE8F18DF4CD7AE11F00505173A45"><enum>(3)</enum><header>Waiver</header><text display-inline="yes-display-inline">An agency may waive the requirement under paragraph (2). The annual report under subsection (p) shall include a list of such waivers granted during the preceding fiscal year, along with a detailed explanation of the reasons for granting the waivers.</text></paragraph><after-quoted-block>;</after-quoted-block></quoted-block></subparagraph></paragraph> <paragraph id="HEECB47A9FD9F4CEDB27DAD512CE84753"><enum>(6)</enum><text>in subsection (k)—</text>
+<subparagraph id="H1A0E216634914FFC826DE60CA70867A1"><enum>(A)</enum><text>in paragraph (2)(A), by inserting <quote>prize</quote> before <quote>competition</quote>; and</text></subparagraph> <subparagraph id="H893F9559F6EE4FC68B6C9D59EF9A48DD"><enum>(B)</enum><text>in paragraph (3), by inserting <quote>prize</quote> before <quote>competitions</quote> both places it appears;</text></subparagraph></paragraph>
+<paragraph id="H65295287FD3E410CAB07E98545AE07B3"><enum>(7)</enum><text>in subsection (l), by striking all after <quote>may enter into</quote> and inserting <quote>a grant, contract, cooperative agreement, or other agreement with a private sector for-profit or nonprofit entity to administer the prize competition, subject to the provisions of this section.</quote>;</text></paragraph> <paragraph id="HADF5C260126C406D842F381722EE50CD"><enum>(8)</enum><text>in subsection (m)—</text>
+<subparagraph id="H60185E2315CB42AEB3CA42D8836A426F"><enum>(A)</enum><text>by amending paragraph (1) to read as follows:</text> <quoted-block style="OLC" id="H8985A9DC2DE8438D831F5BE3E589756D"> <paragraph id="H575373FBD61042ED9C060E25196055CA"><enum>(1)</enum><header>In general</header><text>Support for a prize competition under this section, including financial support for the design and administration of a prize competition or funds for a cash prize purse, may consist of Federal appropriated funds and funds provided by private sector for-profit and nonprofit entities. The head of an agency may accept funds from other Federal agencies, private sector for-profit entities, and nonprofit entities to support such prize competitions. The head of an agency may not give any special consideration to any private sector for-profit or nonprofit entity in return for a donation.</text></paragraph><after-quoted-block>;</after-quoted-block></quoted-block></subparagraph>
+<subparagraph id="H70A225F81FE14017846DC6685ABBC52D"><enum>(B)</enum><text>in paragraph (2), by striking <quote>prize awards</quote> and inserting <quote>cash prize purses</quote>;</text></subparagraph> <subparagraph id="HD8D64AE7C5704B22A8815FD29F7E3FC0"><enum>(C)</enum><text>in paragraph (3)(A)—</text>
+<clause id="H062F41AE945A4358AD3D286013341DBB"><enum>(i)</enum><text>by striking <quote>No prize</quote> and inserting <quote>No prize competition</quote>; and</text></clause> <clause id="H7B7A76F70EA04A2C8063A80F3F788B0E"><enum>(ii)</enum><text>by striking <quote>the prize</quote> and inserting <quote>the cash prize purse</quote>;</text></clause></subparagraph>
+<subparagraph id="H2F2BA6F49CF4448EA378E0403CD54F3C"><enum>(D)</enum><text>in paragraph (3)(B), by striking <quote>a prize</quote> and inserting <quote>a cash prize purse</quote>;</text></subparagraph> <subparagraph id="H061CFA84302548B5944CC3E5CCFF2A32"><enum>(E)</enum><text>in paragraph (3)(B)(i), by inserting <quote>competition</quote> after <quote>prize</quote>;</text></subparagraph>
+<subparagraph id="H1FC3B0D49A8542A8A94981E34DE46492"><enum>(F)</enum><text>in paragraph (4)(A), by striking <quote>a prize</quote> and inserting <quote>a cash prize purse</quote>; and</text></subparagraph> <subparagraph id="H86188B91C234455F94CC558D9B1FDB87"><enum>(G)</enum><text>in paragraph (4)(B), by striking <quote>cash prizes</quote> and inserting <quote>cash prize purses</quote>;</text></subparagraph></paragraph>
+<paragraph id="H0E7DECE1AD0845BF8A0E8A48B85CC5A2"><enum>(9)</enum><text>in subsection (n), by inserting <quote>for both for-profit and nonprofit entities,</quote> after <quote>contract vehicle</quote>;</text></paragraph> <paragraph id="HDC0277B405AD4DB0BDDC07D988BFD898"><enum>(10)</enum><text>in subsection (o)(1), by striking <quote>or providing a prize</quote> and insert <quote>a prize competition or providing a cash prize purse</quote>; and</text></paragraph>
+<paragraph id="HDBEC36805EA74BA8A39FBA19414B024C"><enum>(11)</enum><text display-inline="yes-display-inline">in subsection (p)(2)—</text> <subparagraph id="H1659868FF4404DFD8E3132B72D8D14C9"><enum>(A)</enum><text>in subparagraph (C), by striking <quote>cash prizes</quote> both places it occurs and inserting <quote>cash prize purses</quote>; and</text></subparagraph>
+<subparagraph id="H0A1D05013F63462689A7C5636C4BF73B"><enum>(B)</enum><text>by adding at the end the following new subparagraph:</text> <quoted-block style="OLC" id="HA97C5D5520AC44D9B1122AA91FCE804F" display-inline="no-display-inline"> <subparagraph id="H87CA8BF0658348F8B6EBD76E1550C78B"><enum>(G)</enum><header>Plan</header><text display-inline="yes-display-inline">A description of crosscutting topical areas and agency-specific mission needs that may be the strongest opportunities for prize competitions during the upcoming 2 fiscal years.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subparagraph></paragraph></section>
+</legis-body> 
+<endorsement display="yes">
+<action-date date="20150519">May 19, 2015</action-date>
+<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action-desc></endorsement>
+</bill> 
+
+

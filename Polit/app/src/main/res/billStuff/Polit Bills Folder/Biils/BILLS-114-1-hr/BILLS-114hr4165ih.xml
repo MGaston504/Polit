@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H405CEED058104558A2B8B6881CE472C4" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4165 IH: Mechanical Insulation Installation Incentive Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4165</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151203">December 3, 2015</action-date>
+			<action-desc><sponsor name-id="D000613">Mr. Dold</sponsor> (for himself and <cosponsor name-id="S001156">Ms. Linda T. Sánchez of California</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to provide a tax incentive for the installation and
+			 maintenance of mechanical insulation property.</official-title>
+	</form>
+	<legis-body id="H142617DBBCFC4FEB906FDAE659469FE2" style="OLC">
+ <section id="H896317C13BEC4EB186778DFCD84F802F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Mechanical Insulation Installation Incentive Act of 2015</short-title></quote>.</text> </section><section id="HE44FF600DE5249B490F6C9FAB1A4C215"><enum>2.</enum><header>Expensing of mechanical insulation property</header> <subsection id="H9A55F6FADBD84124981377000A8CD171"><enum>(a)</enum><header>In general</header><text>Part VI of subchapter B of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 (relating to itemized deductions for individuals and corporations) is amended by inserting after section 179E the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HFCDBDCC442634E2DACCEDA725D110F04" style="OLC">
+					<section id="HBE1BE16B7EEA4732BB89A8F6DE11A69F"><enum>179F.</enum><header>Mechanical insulation property</header>
+ <subsection id="HD54D1B7857D14789AAE56A0D198AE15D"><enum>(a)</enum><header>Treatment as expenses</header><text display-inline="yes-display-inline">In addition to any other deduction in this subtitle, there shall be allowed as a deduction an amount equal to the applicable percentage of the cost of mechanical insulation property placed in service during the taxable year.</text>
+ </subsection><subsection id="HAC28A48AB5A44545B0F4602CC0778D86"><enum>(b)</enum><header>Applicable percentage</header><text>For purposes of subsection (a)—</text> <paragraph id="H7F8F186ACCAE4905BC3B0B3B7A977FB8"><enum>(1)</enum><header>In general</header><text>The term <term>applicable percentage</term> means the lesser of—</text>
+ <subparagraph id="HB51E00784A8C4329931F908C99402AC6"><enum>(A)</enum><text>30 percent, and</text> </subparagraph><subparagraph id="HEAB0102E879D43C6B8EB20D3C5CCB828"><enum>(B)</enum><text display-inline="yes-display-inline">the reduction in energy loss (expressed as a percentage) from the installed mechanical insulation property compared to reference mechanical insulation property which meets the minimum requirements of ASHRAE standard 90.1–2007.</text>
+ </subparagraph></paragraph><paragraph id="H0A79C9AD9FEE4B5A8D6D845320FCBB21"><enum>(2)</enum><header>Special rule relating to maintenance</header><text>In the case of mechanical insulation property placed in service as a replacement for insulation property—</text>
+ <subparagraph id="H641720DC300E47C6A6C0D4C870D97354"><enum>(A)</enum><text display-inline="yes-display-inline">paragraph (1)(B) shall not apply, and</text> </subparagraph><subparagraph id="HEDF0C02B40FB46A3B3F87D38C6F17B60"><enum>(B)</enum><text>the cost of such property shall be treated as an expense for which a deduction is allowed under section 162 instead of being treated as depreciable for purposes of the deduction provided by section 167.</text>
+ </subparagraph></paragraph></subsection><subsection id="H8AFB2088D5314402B3AD3F8E23841A3D"><enum>(c)</enum><header>Definitions</header><text>For purposes of this section—</text> <paragraph id="H3C049F84076047519FEFA8DEC1FC942C"><enum>(1)</enum><header>Mechanical insulation property</header><text display-inline="yes-display-inline">The term <term>mechanical insulation property</term> means insulation materials, facings, and accessory products—</text>
+ <subparagraph id="H5F6C29E500594B9996ECFB7308B6E625"><enum>(A)</enum><text>placed in service in connection with a mechanical system which—</text> <clause id="H1E8159A5811942048C83251F82CE2BAE"><enum>(i)</enum><text>is located in the United States, and</text>
+ </clause><clause id="HD2EB63D36D854249B6F8091B89A69531"><enum>(ii)</enum><text display-inline="yes-display-inline">is of a character subject to an allowance for depreciation, and</text> </clause></subparagraph><subparagraph id="H385E1E3FC9D3455DAFE31DD8C829D71D"><enum>(B)</enum><text display-inline="yes-display-inline">utilized for thermal requirements for mechanical piping and equipment, hot and cold applications, and heating, venting and air conditioning applications which can be used in a variety of facilities.</text>
+ </subparagraph></paragraph><paragraph id="H3590B011D3B34044A778E70141BDE041"><enum>(2)</enum><header>Cost</header><text>The cost of mechanical insulation property includes—</text> <subparagraph id="HCC1AF4E0F3954E3AA58C075021DFA769"><enum>(A)</enum><text display-inline="yes-display-inline">the amounts paid or incurred for the installation of such property for that incremental portion above the minimums in ASHRAE standard 90.1–2007 and the total insulation cost for maintenance applications,</text>
+ </subparagraph><subparagraph id="H47DF7C39227F410FA7191D6C61266E93"><enum>(B)</enum><text>in the case of removal and disposal of the old mechanical insulation property, 10 percent of the cost of the new mechanical insulation property (determined without regard to this subparagraph), and</text>
+ </subparagraph><subparagraph id="H15E2FA6E034C442A83D0DEDD723FE3A9"><enum>(C)</enum><text display-inline="yes-display-inline">expenditures for labor costs properly allocable to the preparation, assembly, and installation of mechanical insulation property.</text>
+ </subparagraph></paragraph></subsection><subsection id="HBA80D8E6EA974B189542FF816A8583F3"><enum>(d)</enum><header>Coordination</header><text>Subsection (a) shall not apply to the cost of mechanical insulation property which is taken into account under section 179D or which, but for subsection (b) of section 179D, would be taken into account under such section.</text>
+ </subsection><subsection id="HE9FB74A514EB4EE6ADD26DD1421C499A"><enum>(e)</enum><header>Allocation of deduction for tax-Exempt property</header><text display-inline="yes-display-inline">In the case of mechanical insulation property installed on or in property owned by an entity described in paragraph (3) or (4) of section 50(b), the person who is the primary contractor for the installation of such property shall be treated as the taxpayer that placed such property in service.</text>
+ </subsection><subsection id="HA6E6BC139FB94A13885DD3B517C2DBBE"><enum>(f)</enum><header>Certification</header><text>For purposes of this section, energy savings shall be certified under regulations or other guidance provided by the Secretary, in consultation with the Secretary of Energy.</text>
+ </subsection><subsection id="H3ECBD9D6A1834EBC86B260ED046C6F24"><enum>(g)</enum><header>Termination</header><text display-inline="yes-display-inline">This section shall not apply to any property placed in service after the end of the 5-year period beginning on the date of the enactment of this section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="H77C68376D79F41F294EB7EDCE0006F8D"><enum>(b)</enum><header>Deduction for capital expenditures</header><text>Section 263(a)(1) of such Code (relating to capital expenditures) is amended by striking <quote>or</quote> at the end of subparagraph (K), by striking the period at the end of paragraph (L) and inserting <quote>, or</quote>, and by adding at the end the following new subparagraph:</text> <quoted-block display-inline="no-display-inline" id="H7CDFEAC6130B4A0DB764A20A7E666CAC" style="OLC"> <subparagraph commented="no" id="H2F8C387E929A4A7688BF2558F7556154"><enum>(M)</enum><text>expenditures for which a deduction is allowed under section 179F.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="H71A98DBA5C9A48309761E6356A794154"><enum>(c)</enum><header>Technical and clerical amendments</header>
+ <paragraph commented="no" id="H94A65F632C484401AF8EB4BE15F7BB09"><enum>(1)</enum><text>Section 312(k)(3)(B) of such Code is amended by striking <quote>or 179E</quote> each place it appears in the text or heading thereof and inserting <quote>179E, or 179F</quote>.</text> </paragraph><paragraph commented="no" id="HE51AFB8E1F9A41249C74AC964ECB0B5B"><enum>(2)</enum><text>Paragraphs (2)(C) and (3)(C) of section 1245(a) of such Code are each amended by inserting <quote>179F,</quote> after <quote>179E,</quote>.</text>
+ </paragraph><paragraph commented="no" id="H068E2B7509AA4AB49166D23801DDF74A"><enum>(3)</enum><text>The table of sections for part VI of subchapter B of chapter 1 of such Code is amended by inserting after the item relating to section 179E the following new item:</text>
+					<quoted-block display-inline="no-display-inline" id="H0F35E0329AB64EE09BE0666F2CCE7041" style="OLC">
+						<toc container-level="quoted-block-container" idref="HFCDBDCC442634E2DACCEDA725D110F04" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+							<toc-entry idref="HBE1BE16B7EEA4732BB89A8F6DE11A69F" level="section">Sec. 179F. Mechanical insulation property.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection commented="no" id="H2E07EB19911048ADAA1A35DA672F3995"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this section shall apply to property placed in service after the date of enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

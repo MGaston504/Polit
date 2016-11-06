@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6E5CF51336A447BAA477E407CDB4945A" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 117 IH: Reclaiming Individual Liberty Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 117</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="G000548">Mr. Garrett</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to repeal the mandate that individuals purchase health
+			 insurance.</official-title>
+	</form>
+	<legis-body id="HB800EA0DA81940539B45533791DFA89F" style="OLC">
+		<section id="HC8B3655C2CA24DBAA0C4BDFAF085494E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Reclaiming Individual Liberty Act</short-title></quote>.</text>
+		</section><section id="HEC826A3ECF884071BFAC879534D88A43"><enum>2.</enum><header>Repeal of individual health insurance mandate</header>
+			<subsection id="H421B4621DF1A4D35A5D8DB521A2BE9E8"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/48">Chapter 48</external-xref> of the Internal Revenue Code of 1986 is hereby repealed.</text>
+			</subsection><subsection id="H22E1E35B85364C8A9D5578F7CB232585"><enum>(b)</enum><header>Conforming amendments to the Internal Revenue Code of 1986</header>
+				<paragraph id="HF0E4634ADBEB4E53AE592AF8C7CBBEDF"><enum>(1)</enum><text>Section 36B(c)(2)(B) of such Code is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="H7D247CF9EC2C433F99091EFBFC71E145" style="OLC">
+						<subparagraph id="H5B7E3902EF0A4D32B3A76B3454F90A8F"><enum>(B)</enum><header>Exception for minimum essential coverage</header><text display-inline="yes-display-inline">The term <term>coverage month</term> shall not include any month with respect to an individual if for such month the individual is
+			 eligible for minimum essential coverage other than eligibility for
+			 coverage described in subsection (g)(1)(C) (relating to coverage in the
+			 individual market).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="HDA8C130DFA764BF9A754686744CBC9B0"><enum>(2)</enum><text>Section 36B(c)(2)(C)(i)(I) of such Code is amended by striking <quote>(as defined in section 5000A(f)(2))</quote>.</text>
+				</paragraph><paragraph id="H786B01F2F595487FA471DFB09F88AEE1"><enum>(3)</enum><text>Section 36B(c)(2)(C)(i)(II) of such Code is amended by striking <quote>(within the meaning of section 5000A(e)(1)(B))</quote>.</text>
+				</paragraph><paragraph id="H6D4167DB8DB645E29EFC9904E88C88DB"><enum>(4)</enum><text>Section 36B(c)(2)(C)(ii) of such Code is amended by striking <quote>(as defined in section 5000A(f)(2))</quote>.</text>
+				</paragraph><paragraph id="HFF354426BACF452D8C70E398C6B473C0"><enum>(5)</enum><text>Section 36B(c)(2) of such Code is amended by adding at the end the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H387E527217AC4F39B217FD5070C0EA10" style="OLC">
+						<subparagraph id="HB04ADE883B1E43CDA50845B32C4681BF"><enum>(D)</enum><header>Required contribution</header><text display-inline="yes-display-inline">For purposes of this paragraph—</text>
+							<clause id="H610F97C575B943BBA8829331CB548E5D"><enum>(i)</enum><header>In general</header><text>the term <term>required contribution</term> means—</text>
+								<subclause id="H878D5C94839047EFAE982987305FFB03"><enum>(I)</enum><text>in the case of an individual eligible to purchase minimum essential coverage consisting of coverage
+			 through an eligible-employer-sponsored plan, the portion of the annual
+			 premium which would be paid by the individual (without regard to whether
+			 paid through salary reduction or otherwise) for self-only coverage, or</text>
+								</subclause><subclause id="H873E10477D2E4DD098F8C80746C9CF78"><enum>(II)</enum><text>in the case of an individual eligible only to purchase minimum essential coverage described in
+			 subsection (g)(1)(C), the annual premium for the lowest cost bronze plan
+			 available in the individual market through the Exchange in the State in
+			 the rating area in which the individual resides (without regard to whether
+			 the individual purchased a qualified health plan through the Exchange),
+			 reduced by the amount of the credit allowable under this section for the
+			 taxable year (determined as if the individual was covered by a qualified
+			 health plan offered through the Exchange for the entire taxable year).</text>
+								</subclause></clause><clause id="H406BD1D8E19B4221BF2976177A2E0460"><enum>(ii)</enum><header>Special rules for individuals related to employees</header><text display-inline="yes-display-inline">For purposes of clause (i)(I), if an individual is eligible for minimum essential coverage through
+			 an employer by reason of a relationship to an employee, the determination
+			 under subparagraph (C)(i)(II) shall be made by reference to required
+			 contribution of the employee.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="H41E41F293F6849AEA8A8B50508A46557"><enum>(6)</enum><text display-inline="yes-display-inline">Section 36B of such Code is amended by redesignating subsection (g) as subsection (h) and by
+			 inserting after subsection (f) the following new subsection:</text>
+					<quoted-block display-inline="no-display-inline" id="HDA862B34F828420AADC937C5CB3C2AD7" style="OLC">
+						<subsection id="HED1F8F4234824FAB836BD60399E8CEA0"><enum>(g)</enum><header>Minimum essential coverage</header><text display-inline="yes-display-inline">For purposes of this section—</text>
+							<paragraph id="H7335AE6E7BFA4F73A25CB5413F3727AF"><enum>(1)</enum><header>In general</header><text>The term <term>minimum essential coverage</term> means any of the following:</text>
+								<subparagraph id="H281D66B3D7C54D80A7081C35DF2C3354"><enum>(A)</enum><header>Government sponsored programs</header><text>Coverage under—</text>
+									<clause id="H4640E1C1BAEC445CAC3ADEC3A2B1E40A"><enum>(i)</enum><text>the Medicare program under part A of title XVIII of the Social Security Act,</text>
+									</clause><clause id="H1741E288D97F493A9A5634E41653F8DD"><enum>(ii)</enum><text>the Medicaid program under title XIX of the Social Security Act,</text>
+									</clause><clause id="HF5834928E27A4298A489D0F9168750EF"><enum>(iii)</enum><text>the CHIP program under title XXI of the Social Security Act,</text>
+									</clause><clause id="H172944333E0047E99E81486B63A19DC6"><enum>(iv)</enum><text>medical coverage under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/10/55">chapter 55</external-xref> of title 10, United States Code, including coverage under the
+			 TRICARE program,</text>
+									</clause><clause id="H53EAA450A23E4FE59CAE81066393EF78"><enum>(v)</enum><text>a health care program under chapter 17 or 18 of title 38, United States Code, as determined by the
+			 Secretary of Veterans Affairs, in coordination with the Secretary of
+			 Health and Human Services and the Secretary,</text>
+									</clause><clause id="HDDBBF4CB4F694A6E9679F41783BA896B"><enum>(vi)</enum><text>a health plan under <external-xref legal-doc="usc" parsable-cite="usc/22/2504">section 2504(e)</external-xref> of title 22, United States Code (relating to Peace Corps
+			 volunteers), or</text>
+									</clause><clause id="HC710BA0B231548BC954F7C0CF2D43C41"><enum>(vii)</enum><text>the Nonappropriated Fund Health Benefits Program of the Department of Defense, established under
+			 section 349 of the National Defense Authorization Act for Fiscal Year 1995
+			 (<external-xref legal-doc="public-law" parsable-cite="pl/103/337">Public Law 103–337</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/10/1587">10 U.S.C. 1587</external-xref> note).</text>
+									</clause></subparagraph><subparagraph id="H206BC467D0DA45B69BE329085726B6C7"><enum>(B)</enum><header>Employer-sponsored plan</header><text>Coverage under an eligible employer-sponsored plan.</text>
+								</subparagraph><subparagraph id="HDEFA2C81B1284CFFA4FCC29608F52A58"><enum>(C)</enum><header>Plans in the individual market</header><text>Coverage under a health plan offered in the individual market within a State.</text>
+								</subparagraph><subparagraph id="H60EEBCA64E2048F0AC34F9CC56576CC2"><enum>(D)</enum><header>Grandfathered health plan</header><text>Coverage under a grandfathered health plan.</text>
+								</subparagraph><subparagraph id="H5D5EE18352724A18A83F48059F7F26D4"><enum>(E)</enum><header>Other coverage</header><text>Such other health benefits coverage, such as a State health benefits risk pool, as the Secretary of
+			 Health and Human Services, in coordination with the Secretary, recognizes
+			 for purposes of this subsection.</text>
+								</subparagraph></paragraph><paragraph id="HBCE62E592F124411809FEE739DE0A6BF"><enum>(2)</enum><header>Eligible employer-sponsored plan</header><text>The term <term>eligible employer-sponsored plan</term> means, with respect to any employee, a group health plan or group health insurance coverage
+			 offered by an employer to the employee which is—</text>
+								<subparagraph id="HE11EE67EC99E4AE4B91B9A652F0E5FAF"><enum>(A)</enum><text>a governmental plan (within the meaning of section 2791(d)(8) of the Public Health Service Act), or</text>
+								</subparagraph><subparagraph id="HB53709B9A75945E18C8B4372B7895F86"><enum>(B)</enum><text>any other plan or coverage offered in the small or large group market within a State.</text></subparagraph><continuation-text continuation-text-level="paragraph">Such term shall include a grandfathered health plan described in paragraph (1)(D) offered in a
+			 group market.</continuation-text></paragraph><paragraph id="H6656DEDB683A4D6F959350DFC8EEEE59"><enum>(3)</enum><header>Excepted benefits not treated as minimum essential coverage</header><text>The term <term>minimum essential coverage</term> shall not include health insurance coverage which consists of coverage of excepted benefits—</text>
+								<subparagraph id="HDBFD128DC82B48A5BD9C153231C56104"><enum>(A)</enum><text>described in paragraph (1) of subsection (c) of section 2791 of the Public Health Service Act, or</text>
+								</subparagraph><subparagraph id="H74294EF13FBD4F69BE5895A39038B478"><enum>(B)</enum><text>described in paragraph (2), (3), or (4) of such subsection if the benefits are provided under a
+			 separate policy, certificate, or contract of insurance.</text>
+								</subparagraph></paragraph><paragraph id="H43FACC0A81B648F9BC9F1D372FCE3F60"><enum>(4)</enum><header>Individuals residing outside United States or residents of territories</header><text>Any applicable individual shall be treated as having minimum essential coverage for any month—</text>
+								<subparagraph id="HF8B41CFB556C410E96230EB2A82D6DE2"><enum>(A)</enum><text>if such month occurs during any period described in subparagraph (A) or (B) of section 911(d)(1)
+			 which is applicable to the individual, or</text>
+								</subparagraph><subparagraph id="H8ED5A57B60094498B051925A8E163D9C"><enum>(B)</enum><text>if such individual is a bona fide resident of any possession of the United States (as determined
+			 under section 937(a)) for such month.</text>
+								</subparagraph></paragraph><paragraph id="H7EF8EEA935C4400A8620183A336A2488"><enum>(5)</enum><header>Insurance-related terms</header><text>Any term used in this section which is also used in title I of the Patient Protection and
+			 Affordable Care Act shall have the same meaning as when used in such
+			 title.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="H669D3261916449509C82C433C7D24D11"><enum>(7)</enum><text>Section 162(m)(6)(C)(i)(II) of such Code is amended by striking <quote>section 5000A(f)</quote> and inserting <quote>section 36B(g)</quote>.</text>
+				</paragraph><paragraph id="H2C42025BE4D44C6BBD5A1728ED6954D9"><enum>(8)</enum><text>Subsections (a)(1) and (b)(1)(A) of section 4980H of such Code are each amended by striking <quote>section 5000A(f)(2)</quote> and inserting <quote>section 36B(g)(2)</quote>.</text>
+				</paragraph><paragraph id="HFAA94AC8D09F48F79C41909BED028A44"><enum>(9)</enum><text>Section 4980I(f)(1)(B) of such Code is amended by striking <quote>section 5000A(f)</quote> and inserting <quote>section 36B(g)</quote>.</text>
+				</paragraph><paragraph id="HCE120058C9BC41CBBFEBC9FB8128F67B"><enum>(10)</enum><text display-inline="yes-display-inline">Section 6055(e) of such Code is amended by striking <quote>section 5000A(f)</quote> and inserting <quote>section 36B(g)</quote>.</text>
+				</paragraph><paragraph id="HFE06EC08E86C4F72B449722DA29F13FD"><enum>(11)</enum><text>Section 6056(b)(2)(B) of such Code is amended by striking <quote>section 5000A(f)(2)</quote> and inserting <quote>section 36B(g)(2)</quote>.</text>
+				</paragraph><paragraph id="HE3CEE6A6BA9E4B319149D42807858461"><enum>(12)</enum><text>The table of chapters for subtitle D of such Code is amended by striking the item relating to
+			 chapter 48.</text>
+				</paragraph></subsection><subsection id="H0C37C9B1E2204C63A4097466A84CA01C"><enum>(c)</enum><header>Conforming amendments to other laws</header>
+				<paragraph id="H536774B987B04525B00715773B8B0A50"><enum>(1)</enum><text>Section 2715(b)(3)(G)(i) of the Public Health Service Act is amended by striking <quote>section 5000A(f)</quote> and inserting <quote>section 36B(g)</quote>.</text>
+				</paragraph><paragraph id="H75BB66B25ED44D71AFD209C1AD23F232"><enum>(2)</enum><text>Section 1251(a)(4)(B)(ii) of the Patient Protection and Affordable Care Act is amended by striking <quote>section 5000A(f)(2)</quote> and inserting <quote>section 36B(g)(2)</quote>.</text>
+				</paragraph><paragraph id="H349A6DA02C104502A3719A1889249F42"><enum>(3)</enum><text>Section 1302(e)(2)(B) of the Patient Protection and Affordable Care Act is amended to read as
+			 follows:</text>
+					<quoted-block display-inline="no-display-inline" id="H9D731B302E474CE6B77FECEB3B00D948" style="OLC">
+						<subparagraph id="H636ED7A73DB24407BE52C6D682F8D8C9"><enum>(B)</enum><text display-inline="yes-display-inline">has a certification in effect for any plan year under this title that—</text>
+							<clause id="H8E436963F48D487581214D4383D2AC0B"><enum>(i)</enum><text display-inline="yes-display-inline">the individual’s required contribution (determined on an annual basis) for coverage for the month
+			 exceeds 8 percent of such individual's household income for the taxable
+			 year described in section 1412(b)(1)(B), or</text>
+							</clause><clause id="HEB762867C5AD4D1BBB5FBB369DFA9AAC"><enum>(ii)</enum><text display-inline="yes-display-inline">the individual has been determined by the Secretary of Health and Human Services under section
+			 1311(d)(4)(H) to have suffered a hardship with respect to the capability
+			 to obtain coverage under a qualified health plan.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="H8A6308BF6DF046DFADF30D17CAA36A04"><enum>(4)</enum><text>Section 1302(e) of the Patient Protection and Affordable Care Act is amended by adding at the end
+			 the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="HC6EDB080E9DE43D98F609932838BCB14" style="OLC">
+						<paragraph id="HF30C6D7C3EC14E43AF8BA272EB62EBCC"><enum>(4)</enum><header>Determination of individual’s required contribution and household income</header><text display-inline="yes-display-inline">For purposes of this subsection—</text>
+							<subparagraph id="HE01687F2FE74407387FECF8E3BF96B29"><enum>(A)</enum><header>Required contribution</header><text display-inline="yes-display-inline">The term <term>required contribution</term> means—</text>
+								<clause id="HECAB49AD778042D3818FC256B9B6DB47"><enum>(i)</enum><text>in the case of an individual eligible to purchase minimum essential coverage consisting of coverage
+			 through an eligible-employer-sponsored plan (as defined in section
+			 36B(g)(2) of the Internal Revenue Code of 1986), the portion of the annual
+			 premium which would be paid by the individual (without regard to whether
+			 paid through salary reduction or otherwise) for self-only coverage, or</text>
+								</clause><clause id="H3F50952106BC46039BED5525300446A8"><enum>(ii)</enum><text>in the case of an individual eligible only to purchase minimum essential coverage described in
+			 <external-xref legal-doc="usc" parsable-cite="usc/26/36B">section 36B(g)(1)(C)</external-xref> of the Internal Revenue Code of 1986, the annual
+			 premium for the lowest cost bronze plan available in the individual market
+			 through the Exchange in the State in the rating area in which the
+			 individual resides (without regard to whether the individual purchased a
+			 qualified health plan through the Exchange), reduced by the amount of the
+			 credit allowable under section 36B of such Code for the taxable year
+			 (determined as if the individual was covered by a qualified health plan
+			 offered through the Exchange for the entire taxable year).</text>
+								</clause></subparagraph><subparagraph id="H5A93082687F549918E14F58ECFACBEA8"><enum>(B)</enum><header>Special rules for individuals related to employees</header><text display-inline="yes-display-inline">For purposes of subparagraph (A)(i), if an individual is eligible for minimum essential coverage
+			 (as defined in <external-xref legal-doc="usc" parsable-cite="usc/26/36B">section 36B(g)</external-xref> of the Internal Revenue Code of 1986)
+			 through an employer by reason of a relationship to an employee, the
+			 determination under paragraph (2)(B)(i) shall be made by reference to
+			 required contribution of the employee.</text>
+							</subparagraph><subparagraph id="HD36ECF974904476C8FB29CE703D245CF"><enum>(C)</enum><header>Indexing</header><text>In the case of plan years beginning in any calendar year after 2014, paragraph (2)(B)(i) shall be
+			 applied by substituting for <quote>8 percent</quote> the percentage the Secretary of Health and Human Services determines reflects the excess of the
+			 rate of premium growth between the preceding calendar year and 2013 over
+			 the rate of income growth for such period.</text>
+							</subparagraph><subparagraph id="H292A4C9651FE41BFADDEC792638FE8EC"><enum>(D)</enum><header>Household income</header><text>For purposes of paragraph (2)(B)(i), the taxpayer's household income shall be increased by any
+			 exclusion from gross income for any portion of the required contribution
+			 made through a salary reduction arrangement.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="H733C401A6084480E9824F20F5CF18D73"><enum>(5)</enum><text>Section 1311(d)(4) of the Patient Protection and Affordable Care Act is amended by striking
+			 subparagraph (H) and by redesignating subparagraphs (I), (J), and (K) as
+			 subparagraphs (H), (I), and (J), respectively.</text>
+				</paragraph><paragraph id="HD32973959DB843AA9F64C8C3ED441F07"><enum>(6)</enum><text display-inline="yes-display-inline">Section 1312(d)(4) of the Patient Protection and Affordable Care Act is amended by striking <quote>section 5000A(f)</quote> and inserting <quote>section 36B(g)</quote>.</text>
+				</paragraph><paragraph id="HAE7F193B5681499C8F25225915E06C34"><enum>(7)</enum><text>Section 1331(e)(1)(C) of the Patient Protection and Affordable Care Act is amended—</text>
+					<subparagraph id="HBBBDF2C30A784FC4B2485DA998D27143"><enum>(A)</enum><text>by striking <quote>section 5000A(f)</quote> and inserting <quote>section 36B(g)</quote>, and</text>
+					</subparagraph><subparagraph id="HB248790316CB4DB9A1AA22421117C582"><enum>(B)</enum><text>by striking <quote>section 5000A(e)(2) of such Code</quote> and inserting <quote>section 1411(a)(4)</quote>.</text>
+					</subparagraph></paragraph><paragraph id="HAACB98FD0D4740DE99794DBC04B90D8A"><enum>(8)</enum><text>Section 1332(a)(2)(D) of the Patient Protection and Affordable Care Act is amended by striking <quote>Sections 36B, 4980H, and 5000A</quote> and inserting <quote>Sections 36B and 4980H</quote>.</text>
+				</paragraph><paragraph id="H98F7F2958B9D48F8A9CABAB91A31F93C"><enum>(9)</enum><text>Section 1401(c)(1)(A)(iii) of the Patient Protection and Affordable Care Act is amended by striking <quote>section 5000A(f)</quote> and inserting <quote>section 36B(g)</quote>.</text>
+				</paragraph><paragraph id="H816B42FF829E4A7D8C7F06D8155C3B30"><enum>(10)</enum><text>Section 1411(a) of the Patient Protection and Affordable Care Act is amended—</text>
+					<subparagraph id="H4962DE273F924EC5B9077FDBE5D1F7F8"><enum>(A)</enum><text>by adding <quote>and</quote> at the end of paragraph (2),</text>
+					</subparagraph><subparagraph id="H50E22DFB8AD5455C88D36ADFA669B2FD"><enum>(B)</enum><text>by striking <quote>sections 36B(c)(2)(C) and 5000A(e)(2); and</quote> in paragraph (3) and inserting <quote>section 36B(c)(2)(C).</quote>, and</text>
+					</subparagraph><subparagraph id="H456017C013974FDEBF216D7959F8A022"><enum>(C)</enum><text>by striking paragraph (4).</text>
+					</subparagraph></paragraph><paragraph id="HC3036DE7557647CC93F7B3C3ABA9D364"><enum>(11)</enum><text display-inline="yes-display-inline">Section 1411(b)(4)(C) of the Patient Protection and Affordable Care Act is amended by striking <quote>section 5000A(e)(1)(B)</quote> and inserting <quote>section 36B(c)(2)(D)</quote>.</text>
+				</paragraph><paragraph id="H3E19DC1B0F664927AFD29E24854E3093"><enum>(12)</enum><text display-inline="yes-display-inline">Section 1411(b) of the Patient Protection and Affordable Care Act is amended by striking paragraph
+			 (5).</text>
+				</paragraph><paragraph id="H35CC10E763074C4D8366E32E33B0158B"><enum>(13)</enum><text display-inline="yes-display-inline">Section 1411(e)(4)(B) of the Patient Protection and Affordable Care Act is amended by striking
+			 clause (iv).</text>
+				</paragraph></subsection><subsection id="H414F94663CD4472FA32EA601440CD0A5"><enum>(d)</enum><header>Effective date</header><text>The amendments and repeal made by this section shall apply to taxable years ending after December
+			 31, 2013.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

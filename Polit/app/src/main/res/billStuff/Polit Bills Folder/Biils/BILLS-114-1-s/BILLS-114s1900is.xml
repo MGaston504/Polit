@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1900 IS: Jumpstart Our Businesses by Supporting Students Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-07-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1900</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150730">July 30, 2015</action-date>
+			<action-desc><sponsor name-id="S362">Mr. Kaine</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Higher Education Act of 1965 to allow the Secretary of Education to award job
+			 training Federal Pell Grants.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Jumpstart Our Businesses by Supporting Students Act of 2015</short-title></quote> or the <quote><short-title>JOBS Act of 2015</short-title></quote>.</text>
+ </section><section id="id31a25fa6264b42b18e6a387d68b08af1"><enum>2.</enum><header>Job training Federal Pell Grants</header><text display-inline="no-display-inline">Section 401 of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1070a">20 U.S.C. 1070a</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="idc8c587e6025b4e88b3ffbd8f09a5e539" style="OLC">
+				<subsection id="id6363669859774756b4d9f99c5be729fd"><enum>(k)</enum><header>Job training Federal Pell Grant program</header>
+ <paragraph id="id932c259fb36940d39ab573cacd2a8936"><enum>(1)</enum><header>In general</header><text>For the award years beginning on July 1, 2016, the Secretary shall carry out a program through which the Secretary shall award job training Federal Pell Grants to students in job training programs. Each job training Federal Pell Grant awarded under this subsection shall have the same terms and conditions, and be awarded in the same manner, as a Federal Pell Grant awarded under subsection (a), except as follows:</text>
+ <subparagraph id="id821b2db4f8d04dbbbfb5338b8fbc0b9a"><enum>(A)</enum><text>A student who is eligible to receive a job training Federal Pell Grant under this subsection is a student who—</text>
+ <clause id="id3963a864863c4f2c80813c50c229f3cf"><enum>(i)</enum><text>has not yet attained a baccalaureate degree or postbaccalaureate degree;</text> </clause><clause id="id7dbc17a558e144d5ac40b02c387b8b3d"><enum>(ii)</enum><text>attends an institution of higher education as defined in section 102;</text>
+ </clause><clause id="ida8ebcd6a5cab4878985f39c1a912d92f"><enum>(iii)</enum><text>is enrolled, or accepted for enrollment, in a job training program at such institution of higher education; and</text>
+ </clause><clause id="id71d72439cba74764babf90ebf473693b"><enum>(iv)</enum><text>meets all other eligibility requirements for a Federal Pell Grant (except with respect to the type of program of study, as provided in clause (iii)).</text>
+ </clause></subparagraph><subparagraph id="id30bb0a64a5054e1797c5dd74d88c05e4"><enum>(B)</enum><text>The amount of a job training Federal Pell Grant for an eligible student shall be determined under subsection (b)(2)(A), except that—</text>
+ <clause id="id4e9607f328cc4af08e77ca78d72fa2fa"><enum>(i)</enum><text>the maximum Federal Pell Grant awarded under this subsection for an award year shall be 50 percent of the maximum Federal Pell Grant awarded under subsection (b) applicable to that award year;</text>
+ </clause><clause id="idfb35ee0519b8410fbd9bf1d14b03bbe4"><enum>(ii)</enum><text>no increase shall be calculated under subsection (b)(7)(B) for a student receiving a job training Federal Pell Grant under this subsection; and</text>
+ </clause><clause id="ideaa6e54cd4f44fdda41cbd8a2970feee"><enum>(iii)</enum><text>subsection (b)(4) shall not apply.</text> </clause></subparagraph></paragraph><paragraph id="idad1eea16a408485689e5d2cc63f225a3"><enum>(2)</enum><header>Inclusion in total eligibility period</header><text>Any period during which a student receives a job training Federal Pell Grant under this subsection shall be included in calculating the student's period of eligibility for Federal Pell Grants under subsection (c), and any regulations under such subsection regarding students who are enrolled in an undergraduate program on less than a full-time basis shall similarly apply to students who are enrolled in a job training program at an eligible institution on less than a full-time basis.</text>
+ </paragraph><paragraph id="idf6fbbaa1eaeb454da18ba5581e18057f"><enum>(3)</enum><header>Definitions</header><text>In this subsection, the following definitions apply:</text> <subparagraph id="idb2d922aff4f0441e9027c5d2bcd79be7"><enum>(A)</enum><header>Eligible career pathways program</header><text>The term <term>eligible career pathway program</term> means a program that is part of a career pathway, as defined under section 3(7) of the Workforce Innovation and Opportunity Act (<external-xref legal-doc="usc" parsable-cite="usc/29/3102">29 U.S.C. 3102(7)</external-xref>), that is a combination of rigorous and high-quality education, training, and other services that—</text>
+ <clause id="idf45f5636f177409db296e8902954b71d"><enum>(i)</enum><text>aligns with the skill needs of industries in the State or regional economy involved;</text>
+ </clause><clause id="id9a90d84d79084577a476d48b625ceb36"><enum>(ii)</enum><text>prepares an individual to be successful in any of a full range of secondary or postsecondary education options, including apprenticeships registered under the Act of August 16, 1937 (commonly known as the <quote>National Apprenticeship Act</quote>; 50 Stat. 664; <external-xref legal-doc="usc" parsable-cite="usc/29/50">29 U.S.C. 50 et seq.</external-xref>);</text>
+ </clause><clause id="id14913093def74feb97500b5355289bf5"><enum>(iii)</enum><text>includes counseling to support an individual in achieving the individual’s education and career goals;</text>
+ </clause><clause id="idd7d3cbdf38084212baed64863332ea2f"><enum>(iv)</enum><text>includes, as appropriate, education offered concurrently with and in the same context as workforce preparation activities and training for a specific occupation or occupational cluster;</text>
+ </clause><clause id="idba24753a4246415bab1481fb44bf881d"><enum>(v)</enum><text>organizes education, training, and other services to meet the particular needs of an individual in a manner that accelerates the educational and career advancement of the individual to the extent practicable;</text>
+ </clause><clause id="idce5da3ffeb32466991756e340c20d6b3"><enum>(vi)</enum><text>enables an individual to attain a secondary school diploma or its recognized equivalent, and at least 1 recognized postsecondary credential; and</text>
+ </clause><clause id="iddf9c8aa4508d463ba207aa3e7e2b2a62"><enum>(vii)</enum><text>helps an individual enter or advance within a specific occupation or occupational cluster.</text> </clause></subparagraph><subparagraph id="idA3B18336A812452D8BDF2592EBBC891B"><enum>(B)</enum><header>Job training program</header><text>The term <term>job training program</term> means a career and technical education program at an institution of higher education that—</text>
+ <clause id="idb30c327dacc04ea3ade9a686deac3b47"><enum>(i)</enum><text>provides not less than 150 clock hours of instructional time over a period of not less than 8 weeks;</text>
+ </clause><clause id="idaab02a869f4844bea5308cc1ee4ccd80"><enum>(ii)</enum><text>provides training aligned with the requirements of employers in the State or local area, which may include in-demand industry sectors or occupations in the State or local area, as defined under section 3(23) of the Workforce Innovation and Opportunity Act (<external-xref legal-doc="usc" parsable-cite="usc/29/3102">29 U.S.C. 3102(23)</external-xref>);</text>
+ </clause><clause id="idd9849e31b0744373a3f86d7f08c8d11f"><enum>(iii)</enum><text>provides a student, upon completion of the program, with a recognized postsecondary credential, as defined under section 3(52) of the Workforce Innovation and Opportunity Act (<external-xref legal-doc="usc" parsable-cite="usc/29/3102">29 U.S.C. 3102(52)</external-xref>), that is recognized by employers in the relevant industry, including credentials recognized by industry or sector partnerships in the State or local area where the industry is located;</text>
+ </clause><clause id="id295c516721884600b28d264bab2ae14d"><enum>(iv)</enum><text>has been determined, by the institution of higher education, to provide academic content, an amount of instructional time, and a recognized postsecondary credential that are sufficient to—</text>
+ <subclause id="idf1fcbe6382f64e9b92db11c4ae83b055"><enum>(I)</enum><text>meet the hiring requirements of potential employers; and</text> </subclause><subclause id="id1d21f2b2e87648f58cc7870bd8c27e4f"><enum>(II)</enum><text>allow the students to apply for any licenses or certifications that may be required to be employed in the field for which the job training is offered;</text>
+ </subclause></clause><clause id="idd4414032a1af464c9d6528df2169a6a7"><enum>(v)</enum><text>may include integrated or basic skills courses; and</text> </clause><clause id="idbe235e3c09b74b59847e0c20926f1198"><enum>(vi)</enum><text>may be offered as part of an eligible career pathways program.</text>
+							</clause></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

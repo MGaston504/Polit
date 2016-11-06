@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA4864B46239649CFA8204A43D63C48B1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4044 IH: To prohibit obligation of Federal funds for admission of refugees from certain countries.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4044</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151117">November 17, 2015</action-date>
+			<action-desc><sponsor name-id="C001102">Mr. Clawson of Florida</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prohibit obligation of Federal funds for admission of refugees from certain countries.</official-title>
+	</form>
+	<legis-body id="H6EB29B430C754E90B784F41BEB1B0BF3" style="OLC">
+		<section id="HB0E39E5CEB584E13A329161C6ADB55CB" section-type="section-one"><enum>1.</enum><header>Prohibition</header>
+ <subsection id="H9269C2E6E1564DC48CA71BD25385F4C7"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Beginning on the date of the enactment of this Act, no Federal funds may be obligated for the admission into the United States under section 207 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1157">8 U.S.C. 1157</external-xref>) as a refugee (as defined in section 101(a)(42) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1101">8 U.S.C. 1101(a)(42)</external-xref>)) of any alien described in subsection (b).</text>
+ </subsection><subsection id="H7BB1ED7CB38B4819A82D22F1A5FC3F8D"><enum>(b)</enum><header>Aliens described</header><text>An alien is described in this subsection if—</text> <paragraph id="H71B44742872D40339E8124343E22483D"><enum>(1)</enum><text display-inline="yes-display-inline">the country of the alien’s nationality is Syria, Iraq, Libya, Afghanistan, or Yemen; or</text>
+ </paragraph><paragraph id="HA31A5C6422384F538A15A8FC5859FD8B"><enum>(2)</enum><text>in the case of an alien having no nationality, the country in which the alien last habitually resided is listed in paragraph (1).</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

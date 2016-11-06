@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1507 IS: Visa Waiver Program Enhanced Security and Reform Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-06-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 1507</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150604">June 4, 2015</action-date><action-desc><sponsor name-id="S182">Ms. Mikulski</sponsor> (for herself and <cosponsor name-id="S339">Mr. Kirk</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend section 217 of the Immigration and Nationality Act to modify the visa waiver program, and
+			 for other purposes.</official-title></form>
+	<legis-body id="H9BF094A235FC42DB93E125F7B2674758" style="OLC">
+ <section id="HF46F0BA6215D4D2D93EC5EA5A78BAC4F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Visa Waiver Program Enhanced Security and Reform Act</short-title></quote>.</text>
+		</section><section id="id21518f0adfe64540bdb468e7e2c4d003"><enum>2.</enum><header>Visa waiver
+			 program enhanced security and reform</header>
+ <subsection id="idfea990746b514712ade6c6f544522d11"><enum>(a)</enum><header>Definitions</header><text>Section 217(c)(1) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(c)(1)</external-xref>) is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="id19cbc5b31ad5437c9691506190337315" style="OLC">
+					<paragraph id="id1a8ca01e2f2d476780aef7a61a4b50b1"><enum>(1)</enum><header>Authority to
+				designate; definitions</header>
+						<subparagraph id="id7b97159b67b64f7daa2f6be1a1f14057"><enum>(A)</enum><header>Authority to
+ designate</header><text>The Secretary of Homeland Security, in consultation with the Secretary of State, may designate any country as a program country if that country meets the requirements under paragraph (2).</text>
+ </subparagraph><subparagraph id="id89ec118baeb24680975731d390c5aea5"><enum>(B)</enum><header>Definitions</header><text>In this subsection:</text>
+							<clause id="id9d857a28561643ffbfe46f451aa98bf1"><enum>(i)</enum><header>Appropriate
+ congressional committees</header><text>The term <term>appropriate congressional committees</term> means—</text>
+ <subclause id="idddc6a9657f0648628363dad0f1f2ba6f"><enum>(I)</enum><text>the <committee-name committee-id="SSFR00">Committee on Foreign Relations of the Senate</committee-name>;</text> </subclause><subclause id="id344590660DF74064A72C4235F3595A94"><enum>(II)</enum><text>the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs of the Senate</committee-name>;</text>
+ </subclause><subclause id="idB3DE70434CB74B0F954D7C5CD34FF5D3"><enum>(III)</enum><text>the <committee-name committee-id="SSJU00">Committee on the Judiciary of the Senate</committee-name>;</text> </subclause><subclause id="id7ee79264da7848a79a8709b466b91500"><enum>(IV)</enum><text>the <committee-name committee-id="">Committee on Foreign Affairs of the House of Representatives</committee-name>;</text>
+ </subclause><subclause id="id532B06BBB5594108B0D038482E5463DB"><enum>(V)</enum><text>the <committee-name committee-id="">Committee on Homeland Security of the House of Representatives</committee-name>; and</text> </subclause><subclause id="idF887FB3BC8644985A9CE84D4E60639A2"><enum>(VI)</enum><text>the <committee-name committee-id="">Committee on the Judiciary of the House of Representatives</committee-name>.</text>
+								</subclause></clause><clause id="idbed7904cefb54af4b12188b4c429cbe6"><enum>(ii)</enum><header>Overstay
+				rate</header>
+								<subclause id="idd9fbc83c80494ea2a81e8d16214757a1"><enum>(I)</enum><header>Initial
+ designation</header><text>The term <term>overstay rate</term> means, with respect to a country being considered for designation in the program, the ratio between—</text>
+ <item id="id0e435f93589043de949b5ad65470ad8f"><enum>(aa)</enum><text>the number of nationals of that country who were admitted to the United States on the basis of a nonimmigrant visa under section 101(a)(15)(B) whose periods of authorized stay ended during a fiscal year but who remained unlawfully in the United States beyond such periods; and</text>
+ </item><item id="id480bace7bc0a4875a98000e7a5eaa3f2"><enum>(bb)</enum><text>the number of nationals of that country who were admitted to the United States on the basis of a nonimmigrant visa under section 101(a)(15)(B) whose periods of authorized stay ended during that fiscal year.</text>
+									</item></subclause><subclause id="id9c392e9ed01b4c90b9e488faf7f40a30"><enum>(II)</enum><header>Continuing
+ designation</header><text>The term <term>overstay rate</term> means, for each fiscal year after initial designation under this section with respect to a country, the ratio between—</text>
+ <item id="idf8a2316362ed428099c743a4910f6dd7"><enum>(aa)</enum><text>the number of nationals of that country who were admitted to the United States under this section or on the basis of a nonimmigrant visa under section 101(a)(15)(B) whose periods of authorized stay ended during a fiscal year but who remained unlawfully in the United States beyond such periods; and</text>
+ </item><item id="id9f97c0bfe0f1497bb1f21e3a7ea1a9a5"><enum>(bb)</enum><text>the number of nationals of that country who were admitted to the United States under this section or on the basis of a nonimmigrant visa under section 101(a)(15)(B) whose periods of authorized stay ended during that fiscal year.</text>
+									</item></subclause><subclause id="id72d49695b93c437ea2ed24e12012b542"><enum>(III)</enum><header>Computation
+ of overstay rate</header><text>In determining the overstay rate for a country, the Secretary of Homeland Security may utilize information from any available databases to ensure the accuracy of such rate.</text>
+								</subclause></clause><clause id="id566b864040ec4aa4bc2caaeb17bce0bd"><enum>(iii)</enum><header>Program
+ country</header><text>The term <term>program country</term> means a country designated as a program country under subparagraph (A).</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="id3d24e652225140f689cf0c312127f8e3"><enum>(b)</enum><header>Technical and
+ conforming amendments</header><text>Section 217 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187</external-xref>), as amended by subsection (a), is further amended—</text>
+ <paragraph id="id9dafb5bb45e944648ae43c2308364e6d"><enum>(1)</enum><text>by striking <quote>Attorney General</quote> each place the term appears (except in subsection (c)(11)(B)) and inserting <quote>Secretary of Homeland Security</quote>; and</text>
+ </paragraph><paragraph id="id11a2061c18eb4ac0acfa9b5c691de4bc"><enum>(2)</enum><text>in subsection (c)—</text>
+ <subparagraph id="id4d6ac82b47a94256b10e38b96e407697"><enum>(A)</enum><text>in paragraph (2)(C)(iii), by striking <quote>Committee on the Judiciary and the Committee on International Relations of the House of Representatives and the Committee on the Judiciary and the Committee on Foreign Relations of the Senate</quote> and inserting <quote>appropriate congressional committees</quote>;</text>
+ </subparagraph><subparagraph id="idb28e93b62b8547d88427fb4619526508"><enum>(B)</enum><text>in paragraph (5)(A)(i)(III), by striking <quote>Committee on the Judiciary, the Committee on Foreign Affairs, and the Committee on Homeland Security, of the House of Representatives and the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate</quote> and inserting <quote>appropriate congressional committees</quote>; and</text>
+ </subparagraph><subparagraph id="id4d05ef86dff14adf96399ddd8399c279"><enum>(C)</enum><text>in paragraph (7), by striking subparagraph (E).</text>
+					</subparagraph></paragraph></subsection><subsection id="id14548b65b7d94a9dae6bc984fe5818d7"><enum>(c)</enum><header>Designation of
+			 program countries based on overstay rates</header>
+				<paragraph id="id4cc95a79473140e8a7b7a00b8cf455d1"><enum>(1)</enum><header>In
+ general</header><text>Section 217(c)(2)(A) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(c)(2)(A)</external-xref>) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="idf8cffb6a2d9745a8b01081353e36b5d6" style="OLC">
+						<subparagraph id="id39842b4671d64691a91366dfacccd04a"><enum>(A)</enum><header>General
+				numerical limitations</header>
+							<clause id="id61056ab31e7844a38be7428097a8137b"><enum>(i)</enum><header>Low
+ nonimmigrant visa refusal rate</header><text>The percentage of nationals of that country refused nonimmigrant visas under section 101(a)(15)(B) during the previous full fiscal year was not more than 3 percent of the total number of nationals of that country who were granted or refused nonimmigrant visas under such section during such year.</text>
+							</clause><clause id="id76e70dc612ac4861b55512bf5162bb32"><enum>(ii)</enum><header>Low
+ nonimmigrant overstay rate</header><text>The overstay rate for that country was not more than 3 percent during the previous fiscal year.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="iddb6f8a652f094fc18a367af0f1415776"><enum>(2)</enum><header>Qualification
+ criteria</header><text>Section 217(c)(3) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(c)(3)</external-xref>) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="idc000ba2c98d54faab20cd33784906a51" style="OLC">
+						<paragraph id="id48674eea1b064d42aee91f4670720eb4"><enum>(3)</enum><header>Qualification
+ criteria</header><text>After designation as a program country under section 217(c)(2), a country may not continue to be designated as a program country unless the Secretary of Homeland Security, in consultation with the Secretary of State, determines, pursuant to the requirements under paragraph (5), that the designation will be continued.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="id2fdb40e5c5a44d62bd96dea61a33a4d9"><enum>(3)</enum><header>Initial
+ period</header><text>Section 217(c) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(c)</external-xref>), as amended by this section, is further amended by striking paragraph (4).</text>
+				</paragraph><paragraph id="ida10e3ffd8ed4455c93c9c34b30f47076"><enum>(4)</enum><header>Continuing
+ designation</header><text>Section 217(c)(5)(A)(i)(II) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(c)(5)(A)(i)(II)</external-xref>) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="idf77a5483b33a401b8c6a005ca4087a36" style="OLC">
+ <subitem id="id24840e2c363446019f27419911fafe87"><enum>(II)</enum><text>shall determine, based upon the results of an evaluation under subclause (I), whether any such designation under subsection (d) or (f), or probation under subsection (f), ought to be continued or terminated;</text></subitem><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="idf79a320c91ac479589bb9672f23df8e6"><enum>(5)</enum><header>Computation of
+ visa refusal rates; judicial review</header><text>Section 217(c)(6) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(c)(6)</external-xref>) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id3fd2f6c42f714057911ec1b8f6c622c1" style="OLC">
+						<paragraph id="id677c97e05dc34b45b13a7212fc33f359"><enum>(6)</enum><header>Computation of
+				visa refusal rates and judicial review</header>
+							<subparagraph id="id799d3586e61a4037acd9bd5b3fbe3cdd"><enum>(A)</enum><header>Computation of
+ visa refusal rates</header><text>For purposes of determining the eligibility of a country to be designated as a program country, the calculation of visa refusal rates shall not include any visa refusals which incorporate any procedures based on, or are otherwise based on, race, sex, or disability, unless otherwise specifically authorized by law or regulation.</text>
+							</subparagraph><subparagraph id="idd134640346ce4cfdbc6f70c2b5c5dca4"><enum>(B)</enum><header>Judicial
+ review</header><text>No court shall have jurisdiction under this section to review any visa refusal, the Secretary of State’s computation of a visa refusal rate, the Secretary of Homeland Security’s computation of an overstay rate, or the designation or nondesignation of a country as a program country.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="idee78ceb1442944fa82f2a1dc9e756fc8"><enum>(6)</enum><header>Visa waiver
+ information</header><text>Section 217(c)(7) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(c)(7)</external-xref>) is amended—</text>
+ <subparagraph id="id4df2f0c028f84740886f83e3c7e1cdb4"><enum>(A)</enum><text>by striking subparagraphs (B), (C), and (D); and</text>
+ </subparagraph><subparagraph commented="no" id="idcb775c7c51a8445b82797b54fbf1bf9f"><enum>(B)</enum><text>by striking <quote><header-in-text level="paragraph" style="OLC">waiver information</header-in-text>.—</quote> and all that follows through <quote>In refusing</quote> and inserting <quote><header-in-text level="paragraph" style="OLC">waiver information</header-in-text>.—In refusing</quote>.</text>
+					</subparagraph></paragraph><paragraph id="idba56eaf396524f9384b31d0dfa4931a7"><enum>(7)</enum><header>Waiver
+ authority</header><text>Section 217(c)(8) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(c)(8)</external-xref>) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="idf688851ac2c947caafdba11b8f182632" style="OLC">
+						<paragraph id="ide3402501a425447d91318e1cfff6b652"><enum>(8)</enum><header>Waiver
+ authority</header><text>The Secretary of Homeland Security, in consultation with the Secretary of State, may waive the application of paragraph (2)(A)(i) for a country if—</text>
+ <subparagraph id="id7a7da45271fa4d6296895da32839feca"><enum>(A)</enum><text>the country meets all other requirements of paragraph (2);</text>
+ </subparagraph><subparagraph id="id7795a3db9acc4023b3a9a78e6bd5df25"><enum>(B)</enum><text>the Secretary of Homeland Security determines that the totality of the country's security risk mitigation measures provide assurance that the country's participation in the program would not compromise the law enforcement, security interests, or enforcement of the immigration laws of the United States;</text>
+ </subparagraph><subparagraph id="id35c73fb84cea4c97aa29a9e89e8a4466"><enum>(C)</enum><text>there has been a general downward trend in the percentage of nationals of the country refused nonimmigrant visas under section 101(a)(15)(B);</text>
+ </subparagraph><subparagraph id="id5ec9b2b949ae4aa9baa97cd09470c8a9"><enum>(D)</enum><text>the country consistently cooperated with the Government of the United States on counterterrorism initiatives, information sharing, preventing terrorist travel, and extradition to the United States of individuals (including the country's own nationals) who commit crimes that violate United States law before the date of its designation as a program country, and the Secretary of Homeland Security and the Secretary of State assess that such cooperation is likely to continue; and</text>
+ </subparagraph><subparagraph id="id7f30a41121a3426aa5128342823275bf"><enum>(E)</enum><text>the percentage of nationals of the country refused a nonimmigrant visa under section 101(a)(15)(B) during the previous full fiscal year was not more than 10 percent of the total number of nationals of that country who were granted or refused such nonimmigrant visas.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="idf3ed11aa12b04d2c8aedac3e7cdea650"><enum>(d)</enum><header>Termination of
+ designation; probation</header><text>Section 217(f) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(f)</external-xref>) is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="id89fb8bc6a1764ede96a3b378b447659f" style="OLC">
+					<subsection id="idc879797be00347d0a6b44a0cb6b190d9"><enum>(f)</enum><header>Termination of
+				designation; probation</header>
+ <paragraph id="id5db2cadbe4a4429c928c9f1a564a4a72"><enum>(1)</enum><header>Definitions</header><text>In this subsection:</text>
+							<subparagraph id="idab8dd1f5300b458593294256fd285429"><enum>(A)</enum><header>Probationary
+ period</header><text>The term <term>probationary period</term> means the fiscal year in which a probationary country is placed in probationary status under this subsection.</text>
+							</subparagraph><subparagraph id="id5649d9df5f9a41f3b47488c89de0c053"><enum>(B)</enum><header>Program
+ country</header><text>The term <term>program country</term> has the meaning given that term in subsection (c)(1)(B).</text>
+							</subparagraph></paragraph><paragraph id="idaa68669833ca4ef7a2708548586e3293"><enum>(2)</enum><header>Determination,
+				notice, and initial probationary period</header>
+							<subparagraph id="iddb85429c5fec444fa5e866a26bd92ea9"><enum>(A)</enum><header>Determination
+ of probationary status and notice of noncompliance</header><text>As part of each program country’s periodic evaluation required by subsection (c)(5)(A), the Secretary of Homeland Security shall determine whether a program country is in compliance with the program requirements under subparagraphs (A)(ii) through (F) of subsection (c)(2).</text>
+							</subparagraph><subparagraph id="id8f01587bcf2c49ea95f2d5109b5ae874"><enum>(B)</enum><header>Initial
+ probationary period</header><text>If the Secretary of Homeland Security determines that a program country is not in compliance with the program requirements under subparagraphs (A)(ii) through (F) of subsection (c)(2), the Secretary of Homeland Security shall place the program country in probationary status for the fiscal year following the fiscal year in which the periodic evaluation is completed.</text>
+							</subparagraph></paragraph><paragraph id="id8355068cb5e74f29bd1830173c7bf22c"><enum>(3)</enum><header>Actions at the
+ end of the initial probationary period</header><text>At the end of the initial probationary period of a country under paragraph (2)(B), the Secretary of Homeland Security shall take one of the following actions:</text>
+							<subparagraph id="id61eb852f9afc40c2a0922e13189a4d01"><enum>(A)</enum><header>Compliance
+ during initial probationary period</header><text>If the Secretary determines that all instances of noncompliance with the program requirements under subparagraphs (A)(ii) through (F) of subsection (c)(2) that were identified in the latest periodic evaluation have been remedied by the end of the initial probationary period, the Secretary shall end the country’s probationary period.</text>
+							</subparagraph><subparagraph id="idc8551d3596f84556a1e81b73a6fc0f0a"><enum>(B)</enum><header>Noncompliance
+ during initial probationary period</header><text>If the Secretary determines that any instance of noncompliance with the program requirements under subparagraphs (A)(ii) through (F) of subsection (c)(2) that were identified in the latest periodic evaluation has not been remedied by the end of the initial probationary period—</text>
+ <clause id="id1922d931dc8a416ca8d7a74fc27d3064"><enum>(i)</enum><text>the Secretary may terminate the country’s participation in the program; or</text>
+ </clause><clause id="id002cb4c6da8d4ae090aea0506ef61c7f"><enum>(ii)</enum><text>on an annual basis, the Secretary may continue the country’s probationary status if the Secretary, in consultation with the Secretary of State, determines that the country’s continued participation in the program is in the national interest of the United States.</text>
+								</clause></subparagraph></paragraph><paragraph id="idffe745a83f5247969d74f67b1654ff04"><enum>(4)</enum><header>Actions at the
+ end of additional probationary periods</header><text>At the end of all probationary periods granted to a country pursuant to paragraph (3)(B)(ii), the Secretary shall take one of the following actions:</text>
+							<subparagraph id="id7b8a6afd93ac45ebb1be300f1f912753"><enum>(A)</enum><header>Compliance
+ during additional period</header><text>The Secretary shall end the country’s probationary status if the Secretary determines during the latest periodic evaluation required by subsection (c)(5)(A) that the country is in compliance with the program requirements under subparagraphs (A)(ii) through (F) of subsection (c)(2).</text>
+							</subparagraph><subparagraph id="idcad3a0e8a5a04355bb5b58320e875a8d"><enum>(B)</enum><header>Noncompliance
+ during additional periods</header><text>The Secretary shall terminate the country's participation in the program if the Secretary determines during the latest periodic evaluation required by subsection (c)(5)(A) that the program country continues to be in noncompliance with the program requirements under subparagraphs (A)(ii) through (F) of subsection (c)(2).</text>
+							</subparagraph></paragraph><paragraph id="idc23d21c90f834de3a76a5b63328e1496"><enum>(5)</enum><header>Effective
+ date</header><text>The termination of a country's participation in the program under paragraph (3)(B) or (4)(B) shall take effect on the first day of the first fiscal year following the fiscal year in which the Secretary determines that such participation shall be terminated. Until such date, nationals of the country shall remain eligible for a waiver under subsection (a).</text>
+						</paragraph><paragraph id="id0dd07217d4b24061bf687e27984cc009"><enum>(6)</enum><header>Treatment of
+ nationals after termination</header><text>For purposes of this subsection and subsection (d)—</text>
+ <subparagraph id="ida4e0a0c1c5324d31853ae745b36ad2ab"><enum>(A)</enum><text>nationals of a country whose designation is terminated under paragraph (3) or (4) shall remain eligible for a waiver under subsection (a) until the effective date of such termination; and</text>
+ </subparagraph><subparagraph id="idd0c950d38f4e4ce88df2903e95f6751c"><enum>(B)</enum><text>a waiver under this section that is provided to such a national for a period described in subsection (a)(1) shall not, by such termination, be deemed to have been rescinded or otherwise rendered invalid, if the waiver is granted prior to such termination.</text>
+							</subparagraph></paragraph><paragraph id="id3f3359a2e86b450a9b15c952dfd3c82a"><enum>(7)</enum><header>Consultative
+ role of the secretary of state</header><text>In this subsection, references to subparagraphs (A)(ii) through (F) of subsection (c)(2) and subsection (c)(5)(A) carry with them the consultative role of the Secretary of State as provided in those provisions.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="id467ec26c6c7644cd86146e9f4c848004"><enum>(e)</enum><header>Review of
+ overstay tracking methodology</header><text>Not later than 180 days after the date of the enactment of this Act, the Comptroller General of the United States shall conduct a review of the methods used by the Secretary of Homeland Security—</text>
+ <paragraph id="id96b992100ba94859b0e9ccda26e59f61"><enum>(1)</enum><text>to track aliens entering and exiting the United States; and</text>
+ </paragraph><paragraph id="id03c2a29882264d3b9b59a7d59b6e3dd4"><enum>(2)</enum><text>to detect any such alien who stays longer than such alien's period of authorized admission.</text>
+				</paragraph></subsection><subsection id="idf40c949f77ef48a8802fadf74714b751"><enum>(f)</enum><header>Evaluation of
+ electronic system for travel authorization</header><text>Not later than 90 days after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to Congress—</text>
+ <paragraph id="idac160a25b33d4462be5fe6c33c023555"><enum>(1)</enum><text>an evaluation of the security risks of aliens who enter the United States without an approved Electronic System for Travel Authorization verification; and</text>
+ </paragraph><paragraph id="id525cdad9ef1a4f00a9107eb640949b48"><enum>(2)</enum><text>a description of any improvements needed to minimize the number of aliens who enter the United States without the verification described in paragraph (1).</text>
+				</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id84ec7579b17a44668c437f18964debe3"><enum>(g)</enum><header>Sense of Congress on
+ priority for review of program countries</header><text>It is the sense of Congress that the Secretary of Homeland Security, in conducting evaluations of countries participating in the visa waiver program under section 217 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187</external-xref>), as amended by this Act, should prioritize the reviews of countries in which circumstances indicate that such a review is necessary or desirable.</text></subsection></section></legis-body></bill>
+
+

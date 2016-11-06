@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2255 IS: Stop Debt Collection Abuse Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-11-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2255</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151105">November 5, 2015</action-date>
+			<action-desc><sponsor name-id="S370">Mr. Booker</sponsor> (for himself and <cosponsor name-id="S346">Mr. Lee</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Fair Debt Collection Practices Act to restrict the debt collection practices of
+			 certain debt collectors.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Debt Collection Abuse Act of 2015</short-title></quote>.</text>
+ </section><section id="idF162B73D4E814FEDB7ABA566D31159DE"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">Section 803 of the Fair Debt Collection Practices Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1692a">15 U.S.C. 1692a</external-xref>) is amended by striking paragraphs (5) and (6) and inserting the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id223743BE32D6486E92E48C178AEB98DD" style="OLC">
+ <paragraph commented="no" display-inline="no-display-inline" id="ID1CACA39E10434225A774CD518762B163"><enum>(5)</enum><text display-inline="yes-display-inline">The term <term>debt</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id50F346F10D3B4C73802CFC792BCF1EBF"><enum>(A)</enum><text display-inline="yes-display-inline">any obligation or alleged obligation of a consumer to pay money arising out of a transaction in which the money, property, insurance, or services which are the subject of the transaction are primarily for personal, family, or household purposes, whether or not such obligation has been reduced to judgment; or</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idECE7E68F8FE64E88AFC0AC3B7E4DDB4E"><enum>(B)</enum><text display-inline="yes-display-inline">any obligation or alleged obligation of a consumer—</text> <clause commented="no" display-inline="no-display-inline" id="id5511C9C47BEF494EBC88A8A29D984FAA"><enum>(i)</enum><text display-inline="yes-display-inline">to pay a loan, an overpayment, a fine, penalty, a fee, or other money to a Federal agency; and</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="id544E7744A85E446DBC5D9F76EF7320F8"><enum>(ii)</enum><text display-inline="yes-display-inline">that is not less than 180 days past due.</text> </clause></subparagraph></paragraph><paragraph id="id03013bccc6a944c7997a14c03f9a093c"><enum>(6)</enum><text>The term <term>debt collector</term> means any person who—</text>
+ <subparagraph id="idE08098F091D245E0B50CB2AC8D6F38AB"><enum>(A)</enum><text>uses any instrumentality of interstate commerce or the mails in any business the principal purpose of which is the collection of any debts;</text>
+ </subparagraph><subparagraph id="id2C8811DF8026458FB9B0886F4C6A878F"><enum>(B)</enum><text>regularly collects or attempts to collect, directly or indirectly, by its own means or by hiring another debt collector, debts owed or due or asserted to be owed or due another or that have been purchased from another; or</text>
+ </subparagraph><subparagraph id="id9A3C86F683A64B48A6826FA5BFE59428"><enum>(C)</enum><text>regularly collects debts owed or allegedly owed to a Federal agency.</text>
+					</subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="id133839BA2DFC473CA684E971587514D0"><enum>3.</enum><header>Debt collection practices for debt collectors hired by government agencies</header><text display-inline="no-display-inline">The Fair Debt Collection Practices Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1692">15 U.S.C. 1692 et seq.</external-xref>) is amended by inserting after section 812 (<external-xref legal-doc="usc" parsable-cite="usc/15/1692j">15 U.S.C. 1692j</external-xref>) the following:</text>
+			<quoted-block display-inline="no-display-inline" id="idA9D5A340A3E24F869D956F1D1852BE0E" style="USC">
+				<section id="id0746114D488A41B6B63D626CCCEA1C23"><enum>812A.</enum><header>Debt collection practices for debt collectors hired by Federal agencies</header>
+ <subsection id="id75A8024E4F3E487797A2D08091B8D5C0"><enum>(a)</enum><header>Limitation on time To turn debt over to debt collector</header><text>A Federal agency that is a creditor may sell or transfer a debt described in section 803(5)(B) to a debt collector not earlier than 180 days after the date on which the obligation or alleged obligation arises.</text>
+					</subsection><subsection id="id26AF0C754C0E45A38029C08ADFF7449E"><enum>(b)</enum><header>Required notice</header>
+ <paragraph id="id15E284B2DB1446D494DE89590A2F6894"><enum>(1)</enum><header>In general</header><text>Before transferring or selling a debt described in section 803(5)(B) to a debt collector or contracting with a debt collector to collect such a debt, a Federal agency shall notify the consumer not fewer than 3 times that the Federal agency will take such action.</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id252D3A9427B64DF2AEB1F3A7ED018C28"><enum>(2)</enum><header>Frequency of notifications</header><text>The second and third notifications described in paragraph (1) shall be made not less than 30 days after the date on which the previous notification is made.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="idD94A0C2CCD17423E845C7FCBEDE244DA"><enum>4.</enum><header>Unfair practices</header><text display-inline="no-display-inline">Section 808 of the Fair Debt Collection Practices Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1692f">15 U.S.C. 1692f</external-xref>) is amended by striking paragraph (1) and inserting the following:</text>
+			<quoted-block display-inline="no-display-inline" id="idD7214F4D9D4A4BA580BD15449A4BD835" style="OLC">
+ <paragraph commented="no" display-inline="no-display-inline" id="IDF046CE0A1EA848A2B254056029F33872"><enum>(1)</enum><text display-inline="yes-display-inline">The collection of any amount (including any interest, fee, charge, or expense incidental to the principal obligation) unless—</text>
+ <subparagraph commented="no" display-inline="no-display-inline" id="id9E6AF9CC9B3441C3B04619AE40303BCA"><enum>(A)</enum><text display-inline="yes-display-inline">such amount is expressly authorized by the agreement creating the debt or permitted by law; or</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idA9175A5478434AC587AB7D42D9FF01D8"><enum>(B)</enum><text display-inline="yes-display-inline">in the case of any amount charged by a debt collector collecting a debt for a Federal agency, such amount is—</text>
+ <clause commented="no" display-inline="no-display-inline" id="id4AA2ECBC9E0B43AA9F65D5A4A4DF7782"><enum>(i)</enum><text>reasonable in relation to the actual costs of the collection;</text> </clause><clause commented="no" display-inline="no-display-inline" id="id8375053F97FC4DDA97F4AE16A2CCB99A"><enum>(ii)</enum><text>authorized by a contract between the debt collector and the Federal agency; and</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="id75C479F64D9448A3BF11688C56BA17AC"><enum>(iii)</enum><text>not greater than 10 percent of the amount collected by the debt collector.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </section><section id="idADEBF4D8191947F985AEFA10F83120B4"><enum>5.</enum><header>GAO study and report</header> <subsection id="id19AB5E949B9D468D8FA7B8C11C689917"><enum>(a)</enum><header>Study</header><text display-inline="yes-display-inline">Not later than 30 days after the date of enactment of this Act, the Comptroller General of the United States shall commence a study on the use of debt collectors by State and local government agencies, including—</text>
+ <paragraph id="id76FFD04A6B184DEB8E2F81C3B6DA3DF1"><enum>(1)</enum><text display-inline="yes-display-inline">the powers given to the debt collectors by State and local government agencies;</text> </paragraph><paragraph id="idD52E0E9F54AB4D9BAC37406F99228C5E"><enum>(2)</enum><text>the contracting process that allows a State or local government agency to award debt collection to a certain company, including the selection process;</text>
+ </paragraph><paragraph id="id10D3F3D1D42D4247A40D4B0BBC5D179F"><enum>(3)</enum><text>any fees charged to debtors in addition to principal and interest on the outstanding debt;</text> </paragraph><paragraph id="id272822698B694F20A83F1E28D1DD56D4"><enum>(4)</enum><text>how the fees described in paragraph (3) vary from State to State;</text>
+ </paragraph><paragraph id="idADD5EE16257C4DC2ADBA25C346056565"><enum>(5)</enum><text>consumer protection at the State level that offer recourse to those whom debts have been wrongfully attributed;</text>
+ </paragraph><paragraph id="id458C825475F84C9C9AD16151E673E974"><enum>(6)</enum><text>the revenues received by debt collectors from State and local government agencies;</text> </paragraph><paragraph id="idE6A83BE001A946BE840FF67EFDC33561"><enum>(7)</enum><text>the amount of any revenue sharing agreements between debt collectors and State and local government agencies;</text>
+ </paragraph><paragraph id="id58A6650E37354ED7925715D0B6B7B96B"><enum>(8)</enum><text>the difference in debt collection procedures across geographic regions, including the extent to which debt collectors pursue court judgments to collect debts; and</text>
+ </paragraph><paragraph id="idB56B2B418EA04A118432E3DAF73DF539"><enum>(9)</enum><text>any legal immunity or other protections given to the debt collectors hired by State and local government agencies, including whether the debt collectors are subject to the Fair Debt Collection Practices Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1692">15 U.S.C. 1692 et seq.</external-xref>).</text>
+ </paragraph></subsection><subsection id="id1C0FFDEA8C0540D6B12DD2FB08D2C40E"><enum>(b)</enum><header>Report</header><text>Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the completed study required under subsection (a).</text></subsection></section></legis-body>
+</bill>
+
+

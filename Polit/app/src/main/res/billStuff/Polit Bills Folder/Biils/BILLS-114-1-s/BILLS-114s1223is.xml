@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1223 IS: Energy Loan Program Improvement Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1223</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150506">May 6, 2015</action-date>
+			<action-desc><sponsor name-id="S288">Ms. Murkowski</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Energy Policy Act of 2005 to improve the loan guarantee program for innovative
+			 technologies, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Energy Loan Program Improvement Act of 2015</short-title></quote>.</text>
+ </section><section id="idf1d66274e71f47c6b67ab31977cdee4a"><enum>2.</enum><header>Borrower payment of subsidy cost</header><text display-inline="no-display-inline">Section 1702 of the Energy Policy Act of 2005 (<external-xref legal-doc="usc" parsable-cite="usc/42/16512">42 U.S.C. 16512</external-xref>) is amended by striking subsection (b) and inserting the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id19201252AD9B4159BF77C5BF5221FD0B" style="OLC">
+ <subsection commented="no" display-inline="no-display-inline" id="id07c58a680daa4eaeb9379d0574bf09c5"><enum>(b)</enum><header>Borrower payment of subsidy cost</header><text>No guarantee shall be made under subsection (a) unless the Secretary has received from the borrower a payment in full for the cost of the guarantee and deposited the payment into the Treasury.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="id10671c786ac541d0b48cde5706c300ed"><enum>3.</enum><header>Prohibition on subordination of debt</header><text display-inline="no-display-inline">Section 1702(d)(3) of the Energy Policy Act of 2005 (<external-xref legal-doc="usc" parsable-cite="usc/42/16512">42 U.S.C. 16512(d)(3)</external-xref>) is amended by striking <quote>is not subordinate</quote> and inserting <quote>(including any reorganization, restructuring, or termination of the obligation) shall not at any time be subordinate</quote>.</text>
+ </section><section id="idff01bc35cd6b40778fa329c326e1e5a8"><enum>4.</enum><header>Loan program transparency</header><text display-inline="no-display-inline">Section 1703 of the Energy Policy Act of 2005 (<external-xref legal-doc="usc" parsable-cite="usc/42/16513">42 U.S.C. 16513</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id47A5A4692E1A4767854E36543D5B5481" style="OLC">
+				<subsection id="idba85718171bc450b825b1b35ba9e3458"><enum>(f)</enum><header>Loan status</header>
+ <paragraph id="id51DEEE422A7840BDAC03FB9CA9D50E63"><enum>(1)</enum><header>Request</header><text>If the Secretary does not make a final decision on an application for a loan guarantee under this section by the date that is 270 days after receipt of the application by the Secretary, on that date and every 90 days thereafter until the final decision is made, the applicant may request that the Secretary provide to the applicant a description of the status of the application.</text>
+ </paragraph><paragraph id="id42BA97C5015046D8A42D6381D73F0EA3"><enum>(2)</enum><header>Response</header><text>Not later than 10 days after receiving a request from an applicant under paragraph (1), the Secretary shall provide to the applicant a response that includes—</text>
+ <subparagraph id="idc4f46b596e1746d1a84ec3670db56867"><enum>(A)</enum><text>a summary of any factors that are delaying a final decision on the application; and</text> </subparagraph><subparagraph id="id9b7ed73a8fab48a49bb84d278f1474d6"><enum>(B)</enum><text>an estimate of when review of the application will be completed.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="id3006704baefa46ab9634222ea3475ac0"><enum>5.</enum><header>Temporary program for rapid deployment of renewable energy and electric power transmission projects</header>
+ <subsection id="id59f893c63eb64abc87df9511d385ff83"><enum>(a)</enum><header>Repeal</header><text>Section 1705 of the Energy Policy Act of 2005 (<external-xref legal-doc="usc" parsable-cite="usc/42/16516">42 U.S.C. 16516</external-xref>) is repealed.</text> </subsection><subsection id="id83a3fdefe3e9437d877da959fb841806"><enum>(b)</enum><header>Rescission</header><text>There is rescinded the unobligated balance of amounts made available to carry out the loan guarantee program established under section 1705 of the Energy Policy Act of 2005 (<external-xref legal-doc="usc" parsable-cite="usc/42/16516">42 U.S.C. 16516</external-xref>) (before the amendment made by subsection (a)).</text>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="id1f191e18a7184711a1f8c4a77df91aa8"><enum>(c)</enum><header>Management</header><text>The Secretary of Energy shall ensure rigorous continued management and oversight of all outstanding loans guaranteed under the program described in subsection (b) until those loans have been repaid in full.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

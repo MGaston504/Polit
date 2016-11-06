@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H84243C7AF7B848EE93CE05ED3C39248E" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1262 IH: Consumer Right to Financial Privacy Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1262</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150304">March 4, 2015</action-date> 
+<action-desc><sponsor name-id="D000614">Mr. Duffy</sponsor> (for himself, <cosponsor name-id="N000182">Mr. Neugebauer</cosponsor>, and <cosponsor name-id="B001282">Mr. Barr</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to require the Bureau of Consumer Financial Protection to notify and obtain permission from consumers before collecting nonpublic personal information about such consumers, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H5767248DEDE4451CBB64EF600F75658B" style="OLC"> 
+<section id="HBA9A3CBA45564C87B3BA78029DB1E2D4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Consumer Right to Financial Privacy Act of 2015</short-title></quote>.</text></section> <section id="HCE0ABEA546774E768D9C4461B1AA34E4"><enum>2.</enum><header>Requirement of the Bureau of Consumer Financial Protection to obtain permission before collecting nonpublic personal information</header> <subsection id="H26894B26CE714A9A8E9465D98957A673"><enum>(a)</enum><header>Required notification and permission</header><text display-inline="yes-display-inline">Section 1022(c)(9)(A) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (<external-xref legal-doc="usc" parsable-cite="usc/12/5512">12 U.S.C. 5512(c)(9)(A)</external-xref>) is amended—</text> 
+<paragraph id="HFB21D6BDFBC141C382BE97F52AF6238C"><enum>(1)</enum><text>by striking <quote>may not obtain from a covered person or service provider</quote> and inserting <quote>may not request, obtain, access, collect, use, retain, or disclose</quote>;</text></paragraph> <paragraph id="H66F583F8E6BD4476A58F89FD2E1BF62A"><enum>(2)</enum><text>by striking <quote>personally identifiable financial</quote> and inserting <quote>nonpublic personal</quote>; and</text></paragraph> 
+<paragraph id="H830EE54CEC1A4643A7B3FB65AB269552"><enum>(3)</enum><text display-inline="yes-display-inline">by striking <quote>from the financial records</quote> and all that follows through the period at the end and inserting</text> <quoted-block display-inline="yes-display-inline" id="H8B74728F6A294D868AF2AF5F9B126936" style="OLC"><text>unless—</text> 
+<clause id="HDC1700602F124330B5A391F6A3CA3B8B"><enum>(i)</enum><text display-inline="yes-display-inline">the Bureau clearly and conspicuously discloses to the consumer, in writing or in an electronic form, what information will be requested, obtained, accessed, collected, used, retained, or disclosed; and</text></clause> <clause id="HC5EE54DE179549C2AB1BAD0DEC4412B6"><enum>(ii)</enum><text display-inline="yes-display-inline">before such information is requested, obtained, accessed, collected, used, retained, or disclosed, the consumer informs the Bureau that such information may be requested, obtained, accessed, collected, used, retained, or disclosed.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="H04D058F9B1DB4E00B075557B3807C378"><enum>(b)</enum><header>Application of requirement to contractors of the Bureau of Consumer Financial Protection</header><text display-inline="yes-display-inline">Section 1022(c)(9)(B) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/12/5512">12 U.S.C. 5512(c)(9)(B)</external-xref>) is amended to read as follows:</text> <quoted-block display-inline="no-display-inline" id="HC0ADEBA279C94D06913EA998B591C245" style="OLC"> <subparagraph id="H74B49503F7D643F0823C3EF01B5DFDEE"><enum>(B)</enum><header>Application of requirement to contractors of the Bureau of Consumer Financial Protection</header><text display-inline="yes-display-inline">Subparagraph (A) shall apply to any person directed or engaged by the Bureau to collect information to the extent such information is being collected on behalf of the Bureau.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="HC22240D004404EF1B99029D58ADECCF0"><enum>(c)</enum><header>Definition of nonpublic personal information</header><text display-inline="yes-display-inline">Section 1022(c)(9) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/12/5512">12 U.S.C. 5512(c)(9)</external-xref>) is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H947F778D9A55421FB2E7EDCBD2318D52" style="OLC"> <subparagraph id="H2AF01FC08D404E00837A55E71B135472"><enum>(C)</enum><header>Definition of nonpublic personal information</header><text display-inline="yes-display-inline">In this paragraph, the term <term>nonpublic personal information</term> has the meaning given the term in section 509 of the Gramm-Leach-Bliley Act (<external-xref legal-doc="usc" parsable-cite="usc/15/6809">15 U.S.C. 6809</external-xref>).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> 
+<section display-inline="no-display-inline" id="H6BF911007F22450588E61038C05A1502" section-type="subsequent-section"><enum>3.</enum><header>Removal of exemption for the Bureau of Consumer Financial Protection from the Right to Financial Privacy Act</header><text display-inline="no-display-inline">Section 1113 of the Right to Financial Privacy Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/12/3413">12 U.S.C. 3413</external-xref>) is amended by striking subsection (r).</text></section> </legis-body> </bill> 
+

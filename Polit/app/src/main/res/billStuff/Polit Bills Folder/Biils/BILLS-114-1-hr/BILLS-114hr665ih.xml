@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HBAE24EDC41D9441DBDE1D4DBACDCDA1C" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 665 IH: To provide for the establishment of the Tick-Borne Diseases Advisory Committee.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 665</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150202">February 2, 2015</action-date>
+			<action-desc><sponsor name-id="S000522">Mr. Smith of New Jersey</sponsor> (for himself and <cosponsor name-id="P000258">Mr. Peterson</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for the establishment of the Tick-Borne Diseases Advisory Committee.</official-title>
+	</form>
+	<legis-body id="H6D9507AC1C2E42EBA28384AB4B303BDB" style="OLC">
+		<section id="H0ADEDB11137E4DEDB8BC35773B298FA4" section-type="section-one"><enum>1.</enum><header>Establishment of a tick-borne diseases advisory committee</header>
+ <subsection id="H009695EC42A245FB8EA0F778EC2D5B68"><enum>(a)</enum><header>Establishment</header><text>Not later than 180 days after the date of the enactment of this Act, the Secretary of Health and Human Services (referred to in this Act as the <quote>Secretary</quote>) shall establish within the Office of the Secretary an advisory committee to be known as the Tick-Borne Diseases Advisory Committee (referred to in this section as the <quote>Committee</quote>).</text>
+ </subsection><subsection id="H48E619F5DF1D4D6D879B150603B6C9AB"><enum>(b)</enum><header>Applicability of FACA</header><text>The Tick-Borne Diseases Advisory Committee shall be treated as an advisory committee subject to the Federal Advisory Committee Act.</text>
+ </subsection><subsection id="H4F01B295D4F147E8A04CC002022D6819"><enum>(c)</enum><header>Duties</header><text>The Committee shall advise the Secretary and the Assistant Secretary for Health regarding the manner in which such officials can—</text>
+ <paragraph id="H9AA07D5ACC364976B153CD2904CE9A5A"><enum>(1)</enum><text>ensure interagency coordination and communication and minimize overlap regarding efforts to address tick-borne diseases;</text>
+ </paragraph><paragraph id="HA9E708A07E894DADB9A7C85511D94C7E"><enum>(2)</enum><text>identify opportunities to coordinate efforts with other Federal agencies and private organizations addressing such diseases;</text>
+ </paragraph><paragraph id="H5190C0FB669E4A23856F4D2FE1CDADBE"><enum>(3)</enum><text>ensure interagency coordination and communication with constituency groups;</text> </paragraph><paragraph id="H7879F795A2774B8CA276D038BC4D4C5E"><enum>(4)</enum><text>ensure that a broad spectrum of scientific viewpoints is represented in public health policy decisions and that information disseminated to the public and physicians is balanced; and</text>
+ </paragraph><paragraph id="H247C85F4D77341D2A8A1AEB6F04670BD"><enum>(5)</enum><text>advise relevant Federal agencies on priorities related to the Lyme and tick-borne diseases.</text> </paragraph></subsection><subsection id="HDA4EAB0241514BC296598DE96D52FCC1"><enum>(d)</enum><header>Membership</header> <paragraph id="HBC5313449BFB41B3967A1BCB870C669E"><enum>(1)</enum><header>Appointed members</header> <subparagraph id="HFE05D88E8F8047ADAEF3E0EE62EF42F3"><enum>(A)</enum><header>In general</header><text>The Secretary shall appoint the voting members of the Committee from among individuals who are not officers or employees of the Federal Government.</text>
+ </subparagraph><subparagraph id="H7D79F7B2156244D5B81A80A9C9C5C5D6"><enum>(B)</enum><header>Groups</header><text>The voting members of the Committee shall include the following:</text> <clause id="H8D9539B5DBC6474C9A82A9883EE19138"><enum>(i)</enum><text>At least 4 members from the scientific community representing the broad spectrum of viewpoints held within the scientific community related to Lyme and other tick-borne diseases.</text>
+ </clause><clause id="H8EA6036745F04E4EACCEDFC8434C5DAC"><enum>(ii)</enum><text>At least 2 representatives of tick-borne disease voluntary organizations.</text> </clause><clause id="HD4207A5615A5430EB16E3B5121BC7088"><enum>(iii)</enum><text>At least 2 health care providers, including at least 1 full-time practicing physician, with relevant experience providing care for individuals with a broad range of acute and chronic tick-borne diseases.</text>
+ </clause><clause id="HFF6AAE9BCE1F42FEB6BD0B62AF2ECBDB"><enum>(iv)</enum><text>At least 2 patient representatives who are individuals who have been diagnosed with a tick-borne disease or who have had an immediate family member diagnosed with such a disease.</text>
+ </clause><clause id="HA410E1C6E29444DA9E7DFC215DBBFA8A"><enum>(v)</enum><text display-inline="yes-display-inline">At least 2 representatives of State and local health departments from States with the highest incidence of Lyme disease or where Lyme disease is recognized as an emerging threat, or national organizations that represent State and local health professionals.</text>
+ </clause></subparagraph><subparagraph id="H89EED89E17B7449C8516E5CF7E9729E5"><enum>(C)</enum><header>Diversity</header><text>In appointing members under this paragraph, the Secretary shall ensure that such members, as a group, represent a diversity of scientific perspectives relevant to the duties of the Committee.</text>
+ </subparagraph></paragraph><paragraph id="H39FBC769CD904D32B3615B7072742162"><enum>(2)</enum><header>Ex officio members</header><text>The Secretary shall designate, as nonvoting, ex officio members of the Committee, representatives overseeing tick-borne disease activities from each of the following Federal agencies:</text>
+ <subparagraph id="H658EBBCA196E475BB90F87A2D310DE4C"><enum>(A)</enum><text>The Centers for Disease Control and Prevention.</text> </subparagraph><subparagraph id="H93646CB4801F49799E404989D40A0048"><enum>(B)</enum><text>The National Institutes of Health.</text>
+ </subparagraph><subparagraph id="H1F5CF024544C4145A63F68681627D847"><enum>(C)</enum><text>The Agency for Healthcare Research and Quality.</text> </subparagraph><subparagraph id="HB5E4756236E145DAA7F54CA4F76451D9"><enum>(D)</enum><text>The Food and Drug Administration.</text>
+ </subparagraph><subparagraph id="HCCC320BFC6F0474DAE58B5F8B48955E6"><enum>(E)</enum><text>The Office of the Assistant Secretary for Health.</text> </subparagraph><subparagraph id="HCB001BAB46CE437EB5B9DEA77112450B"><enum>(F)</enum><text>Such additional Federal agencies as the Secretary determines to be appropriate.</text>
+ </subparagraph></paragraph><paragraph id="HFBC83E4557F34290A48B29EA82B2F0AF"><enum>(3)</enum><header>Co-chairpersons</header><text>The Secretary shall designate the Assistant Secretary for Health as the co-chairperson of the Committee. The appointed members of the Committee shall also elect a public co-chairperson. The public co-chairperson shall serve a 2-year term.</text>
+ </paragraph><paragraph id="HE6BD318BBA0044FAAB17F9BEFE8C2B1A"><enum>(4)</enum><header>Term of appointment</header><text>The term of service for each member of the Committee appointed under paragraph (1) shall be 4 years.</text>
+ </paragraph><paragraph id="HF794EB83D35841ACBFFD58C54B595AF1"><enum>(5)</enum><header>Vacancy</header><text>A vacancy in the membership of the Committee shall be filled in the same manner as the original appointment. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of that term. Members may serve after the expiration of their terms until their successors have taken office.</text>
+ </paragraph></subsection><subsection id="H92E1999B787B474790C27C5EC609DC15"><enum>(e)</enum><header>Meetings</header><text>The Committee shall hold public meetings after providing notice to the public of such meetings, and shall meet at least twice a year with additional meetings subject to the call of the co-chairpersons. Agenda items with respect to such meetings may be added at the request of the members of the Committee, including the co-chairpersons. Meetings shall be conducted, and records of the proceedings shall be maintained, as required by applicable law and by regulations of the Secretary.</text>
+ </subsection><subsection id="HF59DF6BE14F4411AA2FD959430E19063"><enum>(f)</enum><header>Report</header><text>Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the Committee, through the Director of the Centers for Disease Control and Prevention and the Director of the National Institutes of Health, shall submit a report to the Secretary. Each such report shall contain, at a minimum—</text>
+ <paragraph id="H89A6F34F389A438E9D3F70D5624990B2"><enum>(1)</enum><text>a description of the Committee’s functions;</text> </paragraph><paragraph id="H83F70B084626494C855F43B7E7278593"><enum>(2)</enum><text>a list of the Committee’s members and their affiliations; and</text>
+ </paragraph><paragraph id="H1BF8D1C347E5470B8E8C9D6E64B08407"><enum>(3)</enum><text>a summary of the Committee’s activities and recommendations during the previous year, including any significant issues regarding the functioning of the Committee.</text>
+ </paragraph></subsection><subsection id="HD8C3F49851954E60B83682C1981A249A"><enum>(g)</enum><header>Authorization of Appropriations</header><text display-inline="yes-display-inline">Of the amounts made available to the Department of Health and Human Services for general departmental management for fiscal years 2015 through 2019, there is authorized to be appropriated $250,000 for each of such fiscal years to carry out this Act. Amounts made available to carry out this Act shall be used for the expenses and per diem costs incurred by the Committee under this section in accordance with the Federal Advisory Committee Act, except that no voting member of the Committee shall be a permanent salaried employee of the Federal Government.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

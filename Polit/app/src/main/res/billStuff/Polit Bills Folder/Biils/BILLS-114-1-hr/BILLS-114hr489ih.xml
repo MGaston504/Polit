@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HE94DFFEA473C4E028E269D0DBBAA250C" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 489 IH: Taxpayer Conscience Protection Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 489</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150122">January 22, 2015</action-date>
+			<action-desc><sponsor name-id="O000168">Mr. Olson</sponsor> (for himself, <cosponsor name-id="S000250">Mr. Sessions</cosponsor>, <cosponsor name-id="J000255">Mr. Jones</cosponsor>, <cosponsor name-id="R000591">Mrs. Roby</cosponsor>, <cosponsor name-id="N000186">Mr. Nunnelee</cosponsor>, <cosponsor name-id="B000755">Mr. Brady of Texas</cosponsor>, and <cosponsor name-id="P000588">Mr. Pearce</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require States to report information on Medicaid payments to abortion providers.</official-title>
+	</form>
+	<legis-body id="H1E698EC4E0F54253AD1D8098630D9DA5" style="OLC">
+ <section id="HCB3AC254B1BC4FDFBBC31ADD6AA4C891" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Taxpayer Conscience Protection Act of 2015</short-title></quote>.</text> </section><section id="H96362EC1BA024B949D6420A6E56A23CD"><enum>2.</enum><header>Required reporting of medicaid payments to abortion providers</header> <subsection id="H7387A7304248468D99C58BCE84B52B0D"><enum>(a)</enum><header>In general</header><text>Not later than 60 days after the end of fiscal year 2015 and each fiscal year thereafter, each State that makes a Medicaid payment from Federal funds during the fiscal year for any items or services furnished by an abortion provider shall—</text>
+ <paragraph id="H60AAE3CB210942A78301483297BE4576"><enum>(1)</enum><text>submit to the Secretary a report on all such payments; and</text> </paragraph><paragraph id="H905AE482B81D44A49CDF6417726CCC87"><enum>(2)</enum><text>publish the report on a public Internet website of the State.</text>
+ </paragraph></subsection><subsection id="H08A28E053D904872BE9B15CAB2CCEB5E"><enum>(b)</enum><header>Report described</header><text>The report under subsection (a) shall, with respect to each payment, include the following:</text> <paragraph id="HAC2EA63163D642788DFEC656CC470D74"><enum>(1)</enum><text>A specification of the amount of the payment.</text>
+ </paragraph><paragraph id="H486C68BD05DF4F1587A95FEB340FDD91"><enum>(2)</enum><text>A specification of the purposes for which the payment was made.</text> </paragraph><paragraph id="H96FBC65F0690497586E03A19D724C142"><enum>(3)</enum><text>A comparison of the amount of the payment with the amount of any such payment to the provider involved in any prior fiscal year.</text>
+ </paragraph><paragraph id="H3C867DD3717A45549FF8CB5EF36C2781"><enum>(4)</enum><text>A specification of the number of abortions performed during the fiscal year by the provider involved.</text>
+ </paragraph></subsection><subsection id="H6B4B0B610A4E48E8807A1D5393F5C4B5"><enum>(c)</enum><header>Report to congress</header><text>Not later than 90 days after the end of each fiscal year, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and to the Committee on Finance of the Senate, and publish on a public Internet website of the Department of Health and Human Services, a report that—</text>
+ <paragraph id="H9C4E94295A114A59ABC07F551DBB6393"><enum>(1)</enum><text>contains the reports submitted pursuant to subsection (a) for the fiscal year; and</text> </paragraph><paragraph id="H0953E62D9CC74CDEAB3F6A24CCF94B34"><enum>(2)</enum><text>includes a summary of the reports.</text>
+ </paragraph></subsection><subsection id="H52C1070697804EBE9D0E7B60DB9B9F8A"><enum>(d)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="H561B9FC0347B4D1892B602BBC0AEF37F"><enum>(1)</enum><header>Abortion provider</header><text>The term <term>abortion provider</term> means an entity that—</text>
+ <subparagraph id="HD9FF8414F6314EC8A288306332D6F596"><enum>(A)</enum><text>performs (or refers an individual for) an abortion; or</text> </subparagraph><subparagraph id="H3F74234E46DE49629627E88E743D5C99"><enum>(B)</enum><text>controls, is controlled by, or is under common control with, an entity described in subparagraph (A).</text>
+ </subparagraph></paragraph><paragraph id="H67CE647874C64AD3B22BCC6DF1A7445F"><enum>(2)</enum><header>Medicaid payment from Federal funds</header><text>The term <term>Medicaid payment from Federal funds</term> means a payment for which there is Federal financial participation under title XIX of the Social Security Act.</text>
+ </paragraph><paragraph id="H3088D8F636F44FAE8D4585A1A8D37B9A"><enum>(3)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of Health and Human Services.</text> </paragraph><paragraph id="H90C2FBEA2CB64CD4B93C3A54F15888AB"><enum>(4)</enum><header>State</header><text>The term <term>State</term> has the meaning given the term for purposes of title XIX of the Social Security Act.</text>
+ </paragraph></subsection><subsection id="H275E3C5286B5436584773D62737AA951"><enum>(e)</enum><header>Conforming amendments to Social Security Act</header><text>Section 1902(a) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396a">42 U.S.C. 1396a(a)</external-xref>) is amended—</text> <paragraph id="H8DFD3351943B493EB7063B823F1D322D"><enum>(1)</enum><text>by striking <quote>and</quote> at the end of paragraph (80);</text>
+ </paragraph><paragraph id="H3C47365E3D6E429EA959B05F5007CAD5"><enum>(2)</enum><text>by striking the period at the end of paragraph (81) and inserting <quote>; and</quote>; and</text> </paragraph><paragraph id="H94EE712EA8604EC792326E5B6AD38847"><enum>(3)</enum><text>by inserting after paragraph (81) the following:</text>
+					<quoted-block id="HF248A85483F3489FA66DA68D683A8D4A" style="OLC">
+ <paragraph id="HC7AAA5F359B74616B94931A1A68DEC0C"><enum>(82)</enum><text>provide for the submission of reports in accordance with section 2 of the Taxpayer Conscience Protection Act of 2015.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

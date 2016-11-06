@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1950 IS: To amend the National Voter Registration Act of 1993 to provide for online voter registration and for other purposes.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-08-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1950</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150805">August 5, 2015</action-date>
+			<action-desc><sponsor name-id="S270">Mr. Schumer</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSRA00">Committee on Rules and Administration</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the National Voter Registration Act of 1993 to provide for online voter registration and
+			 for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="HCEEF14989BCA4549B06A4357CC23C5E1" section-type="section-one"><enum>1.</enum><header>Federal online voter registration application form</header>
+ <subsection id="HE51596B1DCE647BD9FEB046E321A9494"><enum>(a)</enum><header>In general</header><text>The National Voter Registration Act of 1993 (<external-xref legal-doc="usc" parsable-cite="usc/52/20501">52 U.S.C. 20501 et seq.</external-xref>) is amended by inserting after section 6 the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HAB2454B572D84E78AF4D6AD72A4B5449" style="OLC">
+					<section id="HDF29CAEB69454030A6BBD2EDD1D5CAA7"><enum>6A.</enum><header>Online voter registration</header>
+ <subsection id="H0D933906CF4D43CCA6C6003B3FC2E766"><enum>(a)</enum><header>Development</header><text>The Election Assistance Commission shall, in consultation with chief election officers of the States, develop an online voter registration platform which—</text>
+ <paragraph id="id04CDACF10F0F483D96BB4887AA7A90F2"><enum>(1)</enum><text>contains an online version of the mail voter registration application form prescribed under section 9(a)(2) (in this section referred to as the <quote>online voter registration application form</quote>) that—</text>
+ <subparagraph id="idFBA8CC09CF51486DAD23E069C929BDA1"><enum>(A)</enum><text>meets the requirements of section 9(b) and section 303(a)(4) of the Help America Vote Act of 2002; and</text>
+ </subparagraph><subparagraph id="id517A8456DC2F429D8DA9D38A02E53451"><enum>(B)</enum><text>allows for the applicant to provide—</text> <clause id="id1902E62C4AEB487188BEE0CD12D582B9"><enum>(i)</enum><text>an identification number which the State or jurisdiction in which the applicant is registering may use to identify an existing signature of the applicant on file with such State or jurisdiction; or</text>
+ </clause><clause id="id13BF068A64D54CC4AFAE2101DC300385"><enum>(ii)</enum><text>an electronic signature in such form or by such method as is acceptable by the State or jurisdiction to which the applicant is registering; and</text>
+									</clause></subparagraph></paragraph><paragraph id="id52ECDD221D6740FEB26DD186D7B0DBB7"><enum>(2)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="id1492093BF39A4EADB8E0B23D43C3B852"><enum>(A)</enum>
+ <text>requires an applicant to indicate whether the applicant is currently registered to vote in any other jurisdiction (and, if so, to provide information identifying such other jurisdiction; and</text>
+ </subparagraph><subparagraph id="idC5828C066DE04455977F881B7B82FDAA" indent="up1"><enum>(B)</enum><text>in the case of an applicant who is registered to vote in another jurisdiction, treats submission and acceptance of such application in a new jurisdiction as a request under section 8(a)(3)(A) to cancel registration in such other jurisdiction.</text>
+								</subparagraph></paragraph></subsection><subsection id="idF68AC859FA8548C585FE4430EC1836C4"><enum>(b)</enum><header>Duties of Election Assistance Commission</header>
+ <paragraph id="id0D049361F52740CCAE7B5F90E4A20B94"><enum>(1)</enum><header>Transmission of completed applications and cancellation requests</header><text>The Election Assistance Commission shall automatically forward completed online voter registration application forms and cancellation requests pursuant to subsection (a)(2)(B) to the appropriate chief State election officials and, acting through such officials, to appropriate State and local election officials in the State.</text>
+ </paragraph><paragraph id="id398A315DCAF441A091E46AC70D2229B5"><enum>(2)</enum><header>Registration through State-based platforms</header><text>If the Election Assistance Commission confirms a certification of the chief election official of a State that the State has developed a platform that meets the requirements of subsection (a), the Election Assistance Commission shall automatically connect applicants for registration in that State to such State platform in lieu of the platform developed under subsection (a).</text>
+							</paragraph></subsection><subsection id="HEF115926E2FC4286B5F907F658BC6A7D"><enum>(c)</enum><header>Acceptance of
+ completed applications</header><text>A State shall accept an online voter registration application form transmitted under subsection (b), and ensure that the individual is registered to vote in the State, if the individual meets the same voter registration requirements applicable to individuals who register to vote by mail in accordance with section 6(a)(1) using the mail voter registration application form prescribed by the Election Assistance Commission pursuant to section 9(a)(2).</text>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="idAE33C7FEB80D446C869F86D07AA9C41C"><enum>(d)</enum><header display-inline="yes-display-inline">Procedures if no existing electronic signature</header><text display-inline="yes-display-inline">If a State does not accept an electronic signature for an individual registering online and there is insufficient information to identify an existing signature of the applicant on file with the State or jurisdiction, the State shall allow the individual to finalize the individual's registration by providing a signature at the poll prior to voting for the first time in such jurisdiction after acceptance of the online voter registration application form.</text>
+						</subsection><subsection id="ide20f912577494149b4fc208c8c2b0e22"><enum>(e)</enum><header>First-Time voters</header>
+ <paragraph id="id6845faffe6394df5aa3f7a4457b02e08"><enum>(1)</enum><header>In general</header><text>Subject to paragraph (2), a State may by law require a person to vote in person if—</text> <subparagraph id="idbd917144c90d417395ab76c2c05807d4"><enum>(A)</enum><text>the person registered to vote in a jurisdiction online under this section; and</text>
+ </subparagraph><subparagraph id="id33f9607fbbdf4bc7b6b06de84d74ed51"><enum>(B)</enum><text>the person has not previously voted in that jurisdiction.</text> </subparagraph></paragraph><paragraph id="id49aac2a8828a4f7bbc020d7d7a4912d7"><enum>(2)</enum><header>Exception</header><text>Paragraph (1) does not apply in the case of a person—</text>
+ <subparagraph id="ideb87973ca309431cb4b565de16b48906"><enum>(A)</enum><text>who is entitled to vote by absentee ballot under the Uniformed and Overseas Citizens Absentee Voting Act;</text>
+ </subparagraph><subparagraph id="idd630488898124c52af008872809ca0ca"><enum>(B)</enum><text>who is provided the right to vote otherwise than in person under section 3(b)(2)(B)(ii) of the Voting Accessibility for the Elderly and Handicapped Act;</text>
+ </subparagraph><subparagraph id="id9610ae71fa6e47e880c62fcb0d5b572f"><enum>(C)</enum><text>who has provided sufficient information for the purposes of identifying an existing signature of the applicant on file with such State or jurisdiction; or</text>
+ </subparagraph><subparagraph id="idBAEF97E47A5C4BCFBB0AB9B754C14B6C"><enum>(D)</enum><text>who is entitled to vote otherwise than in person under any other Federal law.</text> </subparagraph></paragraph><paragraph id="id556AC91439D94C58904FB03FBEBCE4C7"><enum>(3)</enum><header>Application to States with all-mail voting</header><text>Nothing in this subsection shall be construed to prevent a State from conducting elections entirely by mail-in ballot.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HD61CDF1F4F3044089DACCE64F96AF619"><enum>(b)</enum><header>Conforming
+			 Amendments</header>
+ <paragraph id="id633C9D199C0B43519382CB5C63F7C696"><enum>(1)</enum><header>State procedures</header><text>Section 4(a) of the National Voter Registration Act of 1993 (<external-xref legal-doc="usc" parsable-cite="usc/52/20503">52 U.S.C. 20503(a)</external-xref>) is amended—</text> <subparagraph id="id6F298C8B2DFD4F91A4EA5FA75653457F"><enum>(A)</enum><text>by striking <quote>and</quote> at the end of paragraph (2);</text>
+ </subparagraph><subparagraph id="id97AB1E7DD8D44AC08E72C31DBF8D6597"><enum>(B)</enum><text>by redesignating paragraph (3) as paragraph (4); and</text> </subparagraph><subparagraph id="idA9A7B6E7AEAF41888B65FF93B036B6C9"><enum>(C)</enum><text>by inserting after paragraph (2) the following new paragraph:</text>
+						<quoted-block display-inline="no-display-inline" id="idCC053EE01A6E4870B1F35C2DC4ACE2D9" style="OLC">
+ <paragraph id="idC4E578B96D7941BBB316945630CEDD4C"><enum>(3)</enum><text>by online application pursuant to section 6A; and</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </subparagraph></paragraph><paragraph id="H39E3D09E11914D4BAC6E0CEE90DA062F"><enum>(2)</enum><header>Timing of registration</header><text>Section 8(a)(1) of the National Voter Registration Act of 1993 (<external-xref legal-doc="usc" parsable-cite="usc/52/20507">52 U.S.C. 20507(a)(1)</external-xref>) is amended—</text>
+ <subparagraph id="H3ABB33C4DBA14D34AA2A3D00F7C1512B"><enum>(A)</enum><text>by striking <quote>and</quote> at the end of subparagraph (C);</text>
+ </subparagraph><subparagraph id="HA951AA1559F2433F910B6603CB38F840"><enum>(B)</enum><text>by redesignating subparagraph (D) as subparagraph (E); and</text>
+ </subparagraph><subparagraph id="HBCB65FA4BC95468BB10094378B447E92"><enum>(C)</enum><text>by inserting after subparagraph (C) the following new subparagraph:</text>
+						<quoted-block display-inline="no-display-inline" id="H8F8684B1888046D8B550EE82375B023B" style="OLC">
+ <subparagraph id="H95FDECEAE49443AAB04B90FDC4B856CC"><enum>(D)</enum><text display-inline="yes-display-inline">in the case of registration online under section 6A, if the valid voter registration application is submitted not later than the lesser of 20 days, or the period provided by State law, before the date of the election (as determined by treating the date on which the application is completed online as the date on which it is submitted); and</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="HF461ED1D91214AFC959F379F6D9D6C05"><enum>(3)</enum><header>Informing
+ applicants of eligibility requirements and penalties</header><text>Section 8(a)(5) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/52/20507">52 U.S.C. 20507(a)(5)</external-xref>) is amended by striking <quote>and 7</quote> and inserting <quote>6A, and 7</quote>.</text>
+ </paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id43660FA0D7B941CEAF18989E89FC186F"><enum>(c)</enum><header>Applicability of online registration</header><text>Section 4(b) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/52/20503">52 U.S.C. 20503(b)</external-xref>) is amended by adding at the end the following new flush sentence:</text>
+				<quoted-block display-inline="no-display-inline" id="idFA8BA460C5484747AD6D02280640CC74" style="OLC">
+					<quoted-block-continuation-text commented="no" quoted-block-continuation-text-level="subsection">Notwithstanding the preceding sentence, subsection (a)(3) and sections 6A and 8(a)(1)(D) shall
+			 continue to apply to
+			 any State described in paragraph (2).</quoted-block-continuation-text><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="idE1B1EC649ABA422CB605C141806BAC8F"><enum>(d)</enum><header>Application of first time voter requirements under Help America Vote Act</header>
+ <paragraph id="id75F6671146F3446FA9FB68B5B3F05C09"><enum>(1)</enum><header>In general</header><text>Section 303(b)(1)(A) of the Help America Vote Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/52/21083">52 U.S.C. 21083(b)(1)(A)</external-xref>) is amended by inserting <quote>or by online application</quote> after <quote>by mail</quote>.</text>
+ </paragraph><paragraph id="idB7E98A1CD17F4AADB56C925D73C3E438"><enum>(2)</enum><header>Exceptions</header><text>Section 303(b)3) of such Act is amended—</text> <subparagraph id="id0A5C47FF25DA4C5C919DEE3A24C2AFC7"><enum>(A)</enum><text>in subparagraph (A), by inserting <quote>or who registers to vote by online application under section 6A of such Act</quote> before <quote>and submits</quote>, and</text>
+ </subparagraph><subparagraph id="idC86652A8F04B414FBFABA668D0B2131B"><enum>(B)</enum><text>in subparagraph (B)(i), by inserting <quote>or who registers to vote by online application under section 6A of such Act</quote> before <quote>and submits</quote>.</text> </subparagraph></paragraph></subsection></section><section commented="no" display-inline="no-display-inline" id="id8356B3D9FF37439799329CB8E66C0D74"><enum>2.</enum><header>Inclusion of online voter registration application in USPS Online Change of Address process</header> <subsection id="id1BFCE2C74FD04F0A851D5236CAE7BE9B"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Postmaster General shall ensure that the United States Postal Service Online Change of Address process—</text>
+ <paragraph id="idBD21711CDED84054AE23FE53A3A2A81D"><enum>(1)</enum><text>incorporates the online voter registration platform developed under section 6A of the National Voter Registration Act of 1993, as added by section 1; and</text>
+ </paragraph><paragraph id="idBE2D13CFCD5F471380ABA0D531763245"><enum>(2)</enum><text>allows individuals to register to vote during the process.</text> </paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="idD98127FE99284140A3FAC9E780820263"><enum>(b)</enum><header>Transmission of completed applications</header><text>The Postmaster General shall coordinate with the Election Assistance Commission to ensure that applications and requests for cancellation through the platform under paragraph (1) are forwarded in accordance with section 6A(b)(1) of the National Voter Registration Act of 1993, as added by section 1.</text>
+ </subsection></section><section commented="no" display-inline="no-display-inline" id="id1A228729B1144ED08F05BADCD98F8D4C"><enum>3.</enum><header>Voter registration deadline</header><text display-inline="no-display-inline">Section 8(a)(1) of the National Voter Registration Act of 1993 (<external-xref legal-doc="usc" parsable-cite="usc/52/20507">52 U.S.C. 20507(a)(1)</external-xref>) is amended by striking <quote>30 days</quote> each place it appears and inserting <quote>28 days</quote>.</text>
+		</section></legis-body>
+</bill>
+
+

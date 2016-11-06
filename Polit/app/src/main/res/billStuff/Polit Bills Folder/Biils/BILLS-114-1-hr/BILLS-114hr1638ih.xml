@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H352DDB256B19496FA9DE68362E15C07E" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1638 IH: Physician Availability Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1638</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150325">March 25, 2015</action-date>
+			<action-desc><sponsor name-id="S001145">Ms. Schakowsky</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To assure that the services of a nonemergency department physician are available to hospital
+			 patients 24 hours a day, seven days a week in all non-Federal hospitals
+			 with at least 100 licensed beds.</official-title>
+	</form>
+	<legis-body id="H632038337DEA4755B686E8A4FEB6CDDA" style="OLC">
+ <section display-inline="no-display-inline" id="HDE59A3B2447F4238944164940A75CA72" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Physician Availability Act of 2015</short-title></quote>.</text> </section><section id="H0115599A0E414E599CA54910F2BC8D8C"><enum>2.</enum><header>Requirement for physician availability in acute care hospitals</header> <subsection id="HF35A5E77E8BA4C2CB885A5E6115A905D"><enum>(a)</enum><header>In General</header><text>Each covered hospital shall have a qualified physician available in the hospital 24 hours a day, seven days a week to attend to the needs of inpatients of the hospital.</text>
+ </subsection><subsection id="H8E614B58B42340EC850CDBBF8340B31D"><enum>(b)</enum><header>Definitions</header><text>For purposes of this section:</text> <paragraph id="H2C7E479A0494445183CB15A80376D698"><enum>(1)</enum><header>Covered hospital</header> <subparagraph id="H66A12DB041B04ED7BAA2F29874308B30"><enum>(A)</enum><header>In general</header><text>Subject to subparagraph (B), the term <term>covered hospital</term> means a subsection (d) hospital (as defined in section 1886(d)(1)(B) of the <act-name parsable-cite="SSA">Social Security Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww(d)(1)(B)</external-xref>)) that—</text>
+ <clause id="HE360C89465784FE195698FEEA598FB5C"><enum>(i)</enum><text>has a participation agreement in effect under section 1866 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395cc">42 U.S.C. 1395cc</external-xref>);</text> </clause><clause id="H5325C7225E084098AE4712DDABFF990F"><enum>(ii)</enum><text>is participating in the program under title XIX of such Act; or</text>
+ </clause><clause id="H064CD2EB861B4ABBB97036AE7A87D223"><enum>(iii)</enum><text>is receiving Federal funds under a grant or cooperative agreement.</text> </clause></subparagraph><subparagraph id="HCC80A4B0581844CD892CE2014C189107"><enum>(B)</enum><header>Exclusion for federal facilities and small hospitals</header><text>Such term does not include a hospital that—</text>
+ <clause id="H40F16AB8ED7C438593068A8E3724B380"><enum>(i)</enum><text>is a facility of the Federal Government; or</text> </clause><clause id="H3624D5EAD5E44244BB8EEFECD3BB2C1E"><enum>(ii)</enum><text>the Secretary of Health and Human Services determines has fewer than 100 licensed beds (as defined by the Secretary).</text>
+						</clause></subparagraph></paragraph><paragraph id="HB309DA04BA5C4880A8853E6439457086"><enum>(2)</enum><header>Physician; qualified physician</header>
+ <subparagraph display-inline="no-display-inline" id="H26A6E2CE779846989AAD863B7A742C4F"><enum>(A)</enum><text>The term <term>physician</term> means, with respect to a hospital, an individual who is a doctor of medicine or osteopathy legally authorized under State law to practice medicine and surgery in that hospital.</text>
+ </subparagraph><subparagraph id="H91091AC1610C43889F139DDD0FDFC4BA"><enum>(B)</enum><text display-inline="yes-display-inline">The term <term>qualified physician</term> means, with respect to a hospital, an individual who is a physician and whose credentials as such a physician have been verified by the administration of the hospital (before providing any services at the hospital) through appropriate means, including verification through the National Practitioner Databank.</text>
+ </subparagraph></paragraph><paragraph id="HD18EBAE6696A4CBDA49293579E767D44"><enum>(3)</enum><header>Physician availability</header><text>A physician is considered to be <quote>available</quote> in a hospital if—</text> <subparagraph id="H5DD8C16F19494854BC4C36AC78A486D4"><enum>(A)</enum><text>the physician is physically present in the hospital;</text>
+ </subparagraph><subparagraph id="HC4A23D2A80C54B898674D31C47611F29"><enum>(B)</enum><text>the physician’s primary responsibility is to be in attendance to serve the needs of the hospital’s inpatients without delay; and</text>
+ </subparagraph><subparagraph id="HCD2B9B538E474B80971AE1E1BD9F7AE7"><enum>(C)</enum><text>the physician is not physically present in, assigned to, serving in, or expected to cover, the hospital’s emergency room or emergency department.</text>
+					</subparagraph></paragraph></subsection><subsection id="HF177B48BFDA549149D9B3CF9C600E07B"><enum>(c)</enum><header>Enforcement</header>
+ <paragraph id="H728A453AAE6C4FAA97EEC7FE5F5716B3"><enum>(1)</enum><header>Warning</header><text>If the Secretary of Health and Human Services (in this section referred to as the <quote>Secretary</quote>) determines that a hospital has violated subsection (a), in the first instance the Secretary shall provide a written warning regarding such violation to the hospital and shall notify the Inspector General of the Department of Health and Human Services (in this section referred to as the <quote>HHS Inspector General</quote>) of such violation. Subsequently, the HHS Inspector General shall monitor the compliance of the hospital with the requirement of subsection (a).</text>
+ </paragraph><paragraph id="H3C4F209C14D345A394FA0859549747D4"><enum>(2)</enum><header>Second violation</header><text>After providing a warning to a hospital under paragraph (1), if the Secretary determines that the hospital subsequently and knowingly violates subsection (a)—</text>
+ <subparagraph id="H9DF693C6771B44F98F2D23682F7B977C"><enum>(A)</enum><text>the hospital is subject to a civil money penalty in an amount not to exceed $100,000; and</text> </subparagraph><subparagraph id="H2D518969FB254D2E9056D185EEB5BE57"><enum>(B)</enum><text>the hospital shall submit to the HHS Inspector General, by not later than 30 days after the date of such a determination, a remedial plan to prevent future violations of the requirement of such subsection.</text>
+					</subparagraph><continuation-text continuation-text-level="paragraph">The provisions of section 1128A of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320a-7a">42 U.S.C. 1320a–7a</external-xref>), other than
+			 subsections (a) and (b) of such section, shall apply to civil money
+			 penalties under subparagraph (A) in the same manner as they apply to a
+ penalty or proceeding under subsection (a) of such section.</continuation-text></paragraph><paragraph id="H832F3D9F56EF415F83C39E300D98A148"><enum>(3)</enum><header>Subsequent violations</header><text>After imposing a civil money penalty under paragraph (2) against a hospital, if the Secretary determines that the hospital subsequently and knowingly violates subsection (a), the Secretary may issue an order disqualifying the hospital from participation in the programs under titles XVIII and XIX of the <act-name parsable-cite="SSA">Social Security Act</act-name> and from receipt of Federal funds under any grant or cooperative agreement for such period as the Secretary specifies and until the Secretary receives satisfactory assurances that the hospital will be in substantial compliance with the requirement of subsection (a).</text>
+ </paragraph><paragraph id="H614109D382884789B14077622E1CB97D"><enum>(4)</enum><header>Failure to submit or comply with remedial plan</header><text>If the Secretary determines, after consultation with the HHS Inspector General, that a hospital has failed to submit a satisfactory remedial plan required under paragraph (2)(B) or is failing to substantially carry out such a plan, the Secretary may suspend payment of funds to the hospital under titles XVIII and XIX of the <act-name parsable-cite="SSA">Social Security Act</act-name> and under Federal grants or cooperative agreements until the Secretary receives satisfactory assurances that such failures will not continue.</text>
+ </paragraph></subsection><subsection id="H912527B3F16C4ADDBA3747670E537C24"><enum>(d)</enum><header>Effective Date</header><text>This section shall take effect on the first day of the first month that begins more than 180 days after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

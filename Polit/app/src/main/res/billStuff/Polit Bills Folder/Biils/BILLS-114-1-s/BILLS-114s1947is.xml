@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="private">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1947 IS: Income-Based Repayment Debt Forgiveness Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-08-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1947</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150805">August 5, 2015</action-date>
+			<action-desc><sponsor name-id="S322">Mr. Merkley</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To exclude the discharge of certain Federal student loans from the calculation of gross income.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Income-Based Repayment Debt Forgiveness Act</short-title></quote>.</text>
+		</section><section id="id102f696e98534292a40adbbdc5d1d0a1"><enum>2.</enum><header>Forgiveness of certain Federal student loans excluded from income tax</header>
+ <subsection id="id84049bdc49e342e18e4c91b6ba681c94"><enum>(a)</enum><header>In General</header><text>Paragraph (1) of <external-xref legal-doc="usc" parsable-cite="usc/26/108">section 108(f)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>any student loan if</quote> and all that follows and inserting “any student loan if—</text>
+				<quoted-block display-inline="no-display-inline" id="idf2b851e517804877ad13ae4e9e3eca21" style="OLC">
+ <subparagraph id="id66a9f848f81d4940bb20ada31395b208"><enum>(A)</enum><text>such discharge was pursuant to a provision of such loan under which all or part of the indebtedness of the individual would be discharged if the individual worked for a certain period of time in certain professions for any of a broad class of employers, or</text>
+ </subparagraph><subparagraph id="idd9dd945f7b144a7a90355efedbb8bf48"><enum>(B)</enum><text>in the case of a loan made by the United States or an instrumentality or agency thereof, such discharge was pursuant to any Federal program or provision of Federal law which provides for income contingent or income-based repayment of such loan.</text>
+					</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id72e8df791be64812a9c03278a64ae3ee"><enum>(b)</enum><header>Effective Date</header><text>The amendment made by subsection (a) shall apply to discharges of loans that occur on or after July 1, 2016.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

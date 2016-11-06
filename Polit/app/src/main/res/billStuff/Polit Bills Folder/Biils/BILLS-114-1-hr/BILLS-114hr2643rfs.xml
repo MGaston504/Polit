@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Referred-in-Senate" bill-type="olc" dms-id="HED61381C6DC34AF598E96F95758C9FCF" public-private="public" stage-count="1">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2643 : State Licensing Efficiency Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IIB</distribution-code>
+		<congress display="yes">114th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>H. R. 2643</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action><action-date>October 29, 2015</action-date><action-desc>Received; read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc></action><legis-type>AN ACT</legis-type>
+		<official-title display="yes">To direct the Attorney General to provide State officials with access to criminal history
+			 information with respect to certain financial service providers required
+			 to undergo State criminal background checks, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H7AEC62081C5B460EAC35841BAD24DF0E" style="OLC">
+ <section id="HD2932E088FC749AF87F5E9BCB8C26553" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>State Licensing Efficiency Act of 2015</short-title></quote>.</text> </section><section id="H498B047FDAE34DF3B54C094590D7C345"><enum>2.</enum><header>Background checks</header><text display-inline="no-display-inline">Section 1511(a) of the S.A.F.E. Mortgage Licensing Act of 2008 (<external-xref legal-doc="usc" parsable-cite="usc/12/5110">12 U.S.C. 5110(a)</external-xref>) is amended—</text>
+ <paragraph id="H7A7055787F25482E935B0AD9F2EEFDBA"><enum>(1)</enum><text>by inserting after <quote>State-licensed loan originators</quote> the following: <quote>and other financial service providers</quote>; and</text> </paragraph><paragraph id="H908E7D99C7D94CF2B0A1470EF503C00A"><enum>(2)</enum><text>by inserting before the period the following: <quote>or other financial service providers</quote>.</text>
+			</paragraph></section></legis-body>
+	<attestation><attestation-group><attestation-date chamber="House" date="20151028">Passed the House of Representatives October 28, 2015.</attestation-date><attestor display="yes">Karen L. Haas,</attestor><role>Clerk</role></attestation-group></attestation>
+</bill>
+
+

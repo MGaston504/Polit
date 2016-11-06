@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD90EB3BD36194BA8AA2C6B58273C0BDE" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1936 IH: Improving the Integrity of Disability Evidence Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1936</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150422">April 22, 2015</action-date>
+			<action-desc><sponsor name-id="J000174">Mr. Sam Johnson of Texas</sponsor> (for himself, <cosponsor name-id="K000376">Mr. Kelly of Pennsylvania</cosponsor>, <cosponsor name-id="Y000064">Mr. Young of Indiana</cosponsor>, <cosponsor name-id="R000585">Mr. Reed</cosponsor>, <cosponsor name-id="B001273">Mrs. Black</cosponsor>, and <cosponsor name-id="M001158">Mr. Marchant</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title II of the Social Security Act to exclude certain medical sources of evidence in
+			 making disability determinations.</official-title>
+	</form>
+	<legis-body id="HEC3402917CCF46E9A3867F5AB413DC74" style="OLC">
+ <section id="HE492BB6DF2CC4C52AD2984D5D45FBE3D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Improving the Integrity of Disability Evidence Act</short-title></quote>.</text> </section><section display-inline="no-display-inline" id="H8FEDFC9197EA489B9CB9E6CCA873132E"><enum>2.</enum><header>Exclusion of certain medical sources of evidence</header> <subsection id="H32842C2B0D3C4E9BB2BD81CDA4405795"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 223(d)(5) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/423">42 U.S.C. 423(d)(5)</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H602BDCF25FEB499E89375FAFD54E2CB0" style="OLC">
+					<subparagraph id="HF81D67986B0245D09C0D85755949A938" indent="up2"><enum>(C)</enum>
+ <clause commented="no" display-inline="yes-display-inline" id="HED3FC7239AA0427A8188C370C22B31A8"><enum>(i)</enum><text display-inline="yes-display-inline">In making any determination with respect to whether an individual is under a disability or continues to be under a disability, the Commissioner of Social Security may not consider (except for good cause as determined by the Commissioner) any evidence furnished by—</text>
+ <subclause id="H78B69F17E6A544E897E109F7830718AE" indent="up1"><enum>(I)</enum><text display-inline="yes-display-inline">any individual or entity who has been convicted of a felony under section 208 or under section 1632;</text>
+ </subclause><subclause id="HACEC7EF2D0FB46D893D7B639DA877BBF" indent="up1"><enum>(II)</enum><text>any individual or entity who has been excluded from participation in any Federal health care program under section 1128; or</text>
+ </subclause><subclause id="H750F1B5E5CB94FD7B6669EEA20C6A441" indent="up1"><enum>(III)</enum><text>any person with respect to whom a civil money penalty or assessment has been imposed under section 1129 for the submission of false evidence.</text>
+ </subclause></clause><clause display-inline="no-display-inline" id="H8A3555DD0F74441E890DF19503EBCFC5" indent="up1"><enum>(ii)</enum><text display-inline="yes-display-inline">To the extent and at such times as is necessary for the effective implementation of clause (i) of this subparagraph—</text>
+ <subclause id="HFA4BA3D078EA4DEDAED20DADA0DA1CA6"><enum>(I)</enum><text>the Inspector General of the Social Security Administration shall transmit to the Commissioner information relating to persons described in subclause (I) or (III) of clause (i);</text>
+ </subclause><subclause display-inline="no-display-inline" id="H221F278E2AA24707979948FF1CEE55BC"><enum>(II)</enum><text>the Secretary of Health and Human Services shall transmit to the Commissioner information relating to persons described in subclause (II) of clause (i); and</text></subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H9EFA6095CBE54971B730E81473B6EFA9"><enum>(b)</enum><header>Regulations</header><text display-inline="yes-display-inline">Not later than 1 year after the date of the enactment of this Act, the Commissioner of Social Security shall issue regulations to carry out the amendment made by subsection (a).</text>
+ </subsection><subsection id="HE171BB72FDD44EB4AEF38E7D9AD3FD55"><enum>(c)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall apply with respect to determinations of disability made on or after the earlier of—</text>
+ <paragraph id="HEA44D95E815F4C199B426AC5C405AD2E"><enum>(1)</enum><text>the effective date of the regulations issued by the Commissioner under subsection (b); or</text> </paragraph><paragraph id="HA3435547CF254E7188813E8002CDA256"><enum>(2)</enum><text>one year after the date of the enactment of this Act.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

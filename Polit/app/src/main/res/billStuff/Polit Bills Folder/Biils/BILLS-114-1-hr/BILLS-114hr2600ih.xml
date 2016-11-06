@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H52E22926FFBC426E9885D3ADAC7D361F" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2600 IH: Too Big To Fail, Too Big To Exist Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2600</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150601">June 1, 2015</action-date>
+			<action-desc><sponsor name-id="S000344">Mr. Sherman</sponsor> (for himself and <cosponsor name-id="G000556">Mr. Grayson</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To address the concept of <quote>Too Big To Fail</quote> with respect to certain financial entities.</official-title>
+	</form>
+	<legis-body id="H7CF20F928EDE48B8B502AA09AD53D2FE" style="OLC">
+ <section id="H6E74269E27A2427C9AD7238E46904DF0" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Too Big To Fail, Too Big To Exist Act</short-title></quote>.</text> </section><section id="HE62FAEFA5A1449DD99B14F84E8B5F0F2"><enum>2.</enum><header>Compilation and report on institutions that are too big to fail</header> <subsection id="HAEE3031E1C57402CB38EE6D75EA6A419"><enum>(a)</enum><header>Compilation</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, not later than 90 days after the date of enactment of this Act, the Financial Stability Oversight Council shall compile and submit to the Secretary of the Treasury a list of entities that it deems Too Big To Fail, which shall include, but is not limited to, any United States bank holding companies that have been identified as systemically important banks by the Financial Stability Board (in this Act referred to as the <quote>Too Big To Fail List</quote>).</text>
+ </subsection><subsection id="HA85A3796B14D4925A70F89E90AFFF11F"><enum>(b)</enum><header>Submission to Congress and the President</header><text display-inline="yes-display-inline">Upon receipt of the Too Big To Fail List, the Secretary of the Treasury shall submit the List to Congress and the President.</text>
+			</subsection></section><section id="HA21B9B0756F94FCAA438D3565E552C44"><enum>3.</enum><header>Breaking up too big to fail institutions</header>
+ <subsection id="HE95EE17278F447CFA1DEB27933F2B3F5"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, but not later than 1 year after the date of enactment of this Act, the Secretary of the Treasury shall break up entities included on the Too Big To Fail List, so that their failure would no longer cause a catastrophic effect on the United States or global economy without a taxpayer bailout.</text>
+ </subsection><subsection id="HC51538EE41654A63A31E716D8E33E1B4"><enum>(b)</enum><header>Consultation with other regulators</header><text>In carrying out the requirement of subsection (a), the Secretary of the Treasury shall consult with the primary financial regulatory agency of the entity to be broken up.</text>
+ </subsection></section><section id="HC035DE70E01543008EC804BA11691C03"><enum>4.</enum><header>Prohibition against use of Federal Reserve financing</header><text display-inline="no-display-inline">Notwithstanding any other provision of law (including regulations), any entity included on the Too Big To Fail List may not use or otherwise have access to advances from any Federal Reserve credit facility, the Federal Reserve discount window, or any other program or facility made available under the Federal Reserve Act (<external-xref legal-doc="usc" parsable-cite="usc/12/221">12 U.S.C. 221 et seq.</external-xref>), including any asset purchases, temporary or bridge loans, Government investments in debt or equity, or capital injections from any Federal institution.</text>
+		</section><section id="H15553E468A7F4838982FB1290A434969"><enum>5.</enum><header>Prohibition on use of insured deposits</header>
+ <subsection id="HF176F8EB2EFC4BD1A1ED0D15D7452943"><enum>(a)</enum><header>In general</header><text>Any entity included on the Too Big To Fail List that is an insured depository institution, or owns such an institution, may not use any insured deposit amounts to fund—</text>
+ <paragraph id="H9170BCFDD1F2414A83D6611847474C98"><enum>(1)</enum><text display-inline="yes-display-inline">any activity relating to hedging that is not directly related to commercial banking activity at the insured bank;</text>
+ </paragraph><paragraph id="H9EE5C5A0D686454D89123D9A249BB083"><enum>(2)</enum><text display-inline="yes-display-inline">any use of derivatives for speculative purposes;</text> </paragraph><paragraph id="H57E8421C59474A2FB918A01B3C1B3D02"><enum>(3)</enum><text display-inline="yes-display-inline">any activity related to the dealing of derivatives; or</text>
+ </paragraph><paragraph id="HD9E439A0A8024297B05AE20B7117584E"><enum>(4)</enum><text display-inline="yes-display-inline">any other form of speculative activity that regulators specify.</text> </paragraph></subsection><subsection id="H5CFB217FB51B4D67894805C7CA7D96B4"><enum>(b)</enum><header>Risk of loss</header><text>An entity included on the Too Big To Fail List may not conduct any activity listed in subsection (a) in such a manner that—</text>
+ <paragraph id="HD788A3FB00134450A8EE19FF2C7BDAED"><enum>(1)</enum><text>puts insured deposits at risk; or</text> </paragraph><paragraph id="H1143677642AF4AEB9F46AC9F75F02D68"><enum>(2)</enum><text>creates a risk of loss to the Deposit Insurance Fund.</text>
+ </paragraph></subsection></section><section id="H29566B84C73A4F1FB3B75421758AF829"><enum>6.</enum><header>Definitions</header><text display-inline="no-display-inline">For purposes of this Act—</text> <paragraph id="H64A63A89BB784C51BC642E231A23915B"><enum>(1)</enum><text display-inline="yes-display-inline">the term <quote>primary financial regulatory agency</quote> has the same meaning as in section 2(12) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (<external-xref legal-doc="usc" parsable-cite="usc/12/5301">12 U.S.C. 5301(12)</external-xref>); and</text>
+ </paragraph><paragraph id="HD9ED6E682AEC43B7B8B4BE47D2F02249"><enum>(2)</enum><text display-inline="yes-display-inline">the term <term>Too Big To Fail</term> means any entity whose failure, due to its size, exposure to counterparties, liquidity position, interdependencies, role in critical markets, or other characteristics or factors, would have a catastrophic effect on the stability of either the financial system or the United States economy without substantial Government assistance.</text>
+			</paragraph></section></legis-body>
+</bill>
+
+

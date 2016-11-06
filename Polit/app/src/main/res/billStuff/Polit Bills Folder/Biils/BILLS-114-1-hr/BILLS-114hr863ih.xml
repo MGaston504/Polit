@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC0FF97AEBFD14422A71E8B3C90189438" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 863 IH: STARS Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 863</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150211">February 11, 2015</action-date>
+			<action-desc><sponsor name-id="R000586">Mr. Renacci</sponsor> (for himself, <cosponsor name-id="S001180">Mr. Schrader</cosponsor>, <cosponsor name-id="J000290">Ms. Jenkins of Kansas</cosponsor>, and <cosponsor name-id="C001059">Mr. Costa</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to simplify the treatment of seasonal positions for
+			 purposes of the employer shared responsibility requirement.</official-title>
+	</form>
+	<legis-body id="H37ACA625F1E248188DFBCD1528DE5174" style="OLC">
+ <section id="H017C2AE5089548D5A356452F5340BCB7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Simplifying Technical Aspects Regarding Seasonality Act of 2015</short-title></quote> or the <quote>STARS Act</quote>.</text> </section><section id="H17DE7E94EEDF4D3FA27FAFC06A7A5D69"><enum>2.</enum><header>Simplification of seasonal rules for purposes of employer shared responsibility requirement</header> <subsection id="H621ACDCD159B4855BE95E74CCF7F3709"><enum>(a)</enum><header>Full-Time employee exception for determining assessable payment</header> <paragraph id="H6B4F08D9771C48A0AF7897BEBF8338BF"><enum>(1)</enum><header>In general</header><text>Section 4980H(c)(4) of such Code is amended by redesignating subparagraph (B) as subparagraph (C) and by inserting after subparagraph (A) the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="HCC8A218D09EB485AB567E3DF50FD7641" style="OLC">
+ <subparagraph id="HA0A96ACDC9984BB5822993296091A895"><enum>(B)</enum><header>Exception for seasonal employees</header><text display-inline="yes-display-inline">Such term shall not include any seasonal employee.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph><paragraph id="HCA800DC4FF604307A9478BC66FF810E1"><enum>(2)</enum><header>Seasonal employee defined</header><text>Section 4980H(c) of such Code is amended by redesignating paragraphs (5), (6), and (7) as paragraphs (6), (7), and (8), respectively and by inserting after paragraph (4) the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H4B05D2CB337942D585708A4787A2ED02" style="OLC">
+ <paragraph id="H92A90921EB644758984586C7A211923F"><enum>(5)</enum><header>Seasonal employee</header><text>The term <quote>seasonal employee</quote> means an employee who is employed in a position for which the customary annual employment is not more than 6 months and which requires performing labor or services which are ordinarily performed at certain seasons or periods of the year.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="HCD67EF3B6B15458F8E793494288145B9"><enum>(b)</enum><header>Applicable large employer determination exception</header><text display-inline="yes-display-inline">Section 4980H(c)(2)(B) of such Code is amended to read as follows:</text> <quoted-block display-inline="no-display-inline" id="HFC315B5FED6B4A4EAC7E08F8DF5C18F6" style="OLC"> <subparagraph id="HFDEC76A6D9B1414B8E9A09A28A49E1EA"><enum>(B)</enum><header>Exception for seasonal employees</header><text display-inline="yes-display-inline">For purposes of subparagraph (A), seasonal employees shall not be taken into account.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H1EEA7ABF394748FE9F903380257396B0"><enum>(c)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by this section shall take effect as if included in section 1513 of the Patient Protection and Affordable Care Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

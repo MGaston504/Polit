@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA51671C712F44835B2521373191F1E13" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3814 IH: Asylum Seeker Work Authorization Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3814</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151022">October 22, 2015</action-date>
+			<action-desc><sponsor name-id="P000597">Ms. Pingree</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To permit aliens seeking asylum to be eligible for employment in the United States and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="HF7C0AAD78CA24CF2A8E1B18DE6DE107A" style="OLC">
+ <section id="H686C0F8354F94D8D849408B99323E9D2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Asylum Seeker Work Authorization Act of 2015</short-title></quote>.</text> </section><section id="HAE9AC2709D614BEDB2AC3D301F5A66D2"><enum>2.</enum><header>Employment authorization for aliens seeking asylum</header><text display-inline="no-display-inline">Paragraph (2) of section 208(d) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1158">8 U.S.C. 1158(d)</external-xref>) is amended to read as follows:</text>
+			<quoted-block display-inline="no-display-inline" id="H941B98D6F16540B0819E6649733BF230" style="OLC">
+				<paragraph id="H2EDE0E4008694A99891122FFBE774B6B"><enum>(2)</enum><header>Employment authorization</header>
+ <subparagraph id="HAF74DA09C7C24D0FB4C11FAB6E326903"><enum>(A)</enum><header>Eligibility</header><text>The Secretary of Homeland Security shall authorize employment for an applicant for asylum who is not in detention and whose application for asylum has not been determined frivolous.</text>
+ </subparagraph><subparagraph id="HAE8EA3E2CBD7442F9AB1DE80971DD7B2"><enum>(B)</enum><header>Application</header><text>An applicant for asylum who is not otherwise eligible for employment authorization shall not be granted such authorization prior to 30 days after the date of filing of the application for asylum.</text>
+ </subparagraph><subparagraph id="H73B4CA3295A5467B9554CBDDF6080F1F"><enum>(C)</enum><header>Term</header><text>Employment authorization for an applicant for asylum—</text> <clause id="HB9D90DD1C64745559159A6E9F524BF91"><enum>(i)</enum><text>shall be for a period of 1 year; and</text>
+ </clause><clause id="H38D563A3F2724245A631E7B174A874CD"><enum>(ii)</enum><text>shall be renewable for additional 1-year periods for the entire continuous period necessary to adjudicate the applicant’s asylum claim, including administrative or judicial review.</text></clause></subparagraph></paragraph><after-quoted-block>. </after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

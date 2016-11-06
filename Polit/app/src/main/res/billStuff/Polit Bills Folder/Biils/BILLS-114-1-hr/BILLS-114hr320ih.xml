@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6FAE99A598C14CFAB6114D15E776F203" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 320 IH: Rapid DNA Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 320</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150113">January 13, 2015</action-date>
+			<action-desc><sponsor name-id="S000244">Mr. Sensenbrenner</sponsor> (for himself and <cosponsor name-id="S001193">Mr. Swalwell of California</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To establish a system for integration of Rapid DNA instruments for use by law enforcement to reduce
+			 violent crime and reduce the current DNA analysis backlog.</official-title>
+	</form>
+	<legis-body id="HE5477A2E5C7444608E30FB5BCA8F8CCF" style="OLC">
+ <section id="H16B6CCB13CCD4E78939DA1A091D39825" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Rapid DNA Act of 2015</short-title></quote>.</text> </section><section id="HD33BD6B302544647A6A941349A54DB89"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">The DNA Identification Act of 1994 (<external-xref legal-doc="usc" parsable-cite="usc/42/14132">42 U.S.C. 14132</external-xref>) is amended by inserting at the end the following:</text>
+			<quoted-block id="HF3E3028303EE4152B57D28C79B641295" style="OLC">
+				<section id="HAB09524701214524A44D9D0F60F6841E"><enum>__.</enum><header>Definitions</header>
+ <paragraph id="HD56D3DE7389C43EABC448FEF364C213F"><enum>(1)</enum><text>The term <quote>reference DNA sample</quote> means a tissue, fluid, or other bodily sample of an individual on which a DNA analysis can be carried out.</text>
+ </paragraph><paragraph id="H2B902A7278FA4D9EB401F5D353C0F836"><enum>(2)</enum><text>The term <quote>DNA analysis</quote> means analysis of the deoxyribonucleic acid (DNA) identification information from a bodily sample.</text> </paragraph><paragraph id="HE16800287F21477CA32B8ED6660572A8"><enum>(3)</enum><text>The term <quote>sample-to-answer DNA analysis systems</quote> means fully automated systems that after input of a DNA sample can perform all necessary sample preparation and analysis with no operator intervention.</text>
+ </paragraph><paragraph id="H4F33883A387C4A1EAE41CB62BB5CB97A"><enum>(4)</enum><text>The term <quote>qualified agencies</quote> means booking stations, jails, prisons, detention centers, other law enforcement organizations, and facilities outside of forensic laboratories that can perform DNA analysis using sample-to-answer DNA systems on subjects meeting current legislative guidelines.</text>
+ </paragraph><paragraph id="H8EACDD73AC1441EC932C4E625F5FCEF8"><enum>(5)</enum><text>The term <quote>operators</quote> means persons trained to operate a sample-to-answer DNA system.</text></paragraph></section><after-quoted-block>. </after-quoted-block></quoted-block> </section><section id="H5927F766867F430CAE3134714A1B9616"><enum>3.</enum><header>Revised quality assurance and proficiency testing standards</header><text display-inline="no-display-inline">Section 210303 of the DNA Identification Act of 1994 (<external-xref legal-doc="usc" parsable-cite="usc/42/14131">42 U.S.C. 14131</external-xref>) is amended—</text>
+ <paragraph id="H7AC8C7084D334764806D7086B3298C55"><enum>(1)</enum><text>in subsection (a)(1)(B), by inserting after <quote>Technology</quote> the following: <quote>, and members from Federal, State, and local law enforcement agencies.</quote>;</text> </paragraph><paragraph id="H0BE95E4BE8D24E99BA4DD6E64EFAF6DB"><enum>(2)</enum><text>in subsection (a)(1)(C), by inserting after <quote>DNA</quote> the following: <quote>and separate standards for testing the proficiency of qualified agencies, and operators, in conducting analyses of DNA samples using sample-to-answer DNA analysis systems.</quote>;</text>
+ </paragraph><paragraph id="HA02C6B605D8E495F914E775057BE8051"><enum>(3)</enum><text>in subsection (a)(2), by inserting after <quote>DNA</quote> the following: <quote>DNA and separate standards for testing the proficiency of qualified agencies, and operators, in conducting analyses of DNA samples using sample-to-answer DNA analysis systems.</quote>;</text>
+ </paragraph><paragraph id="HA39816849E9643A992A3967EF43E716F"><enum>(4)</enum><text>in subsection (a)(3), by inserting after <quote>used by forensic laboratories</quote> the following: <quote>and by qualified agencies conducting analyses of DNA samples using sample-to-answer DNA analysis systems.</quote>; and by inserting after <quote>determine whether a laboratory</quote> the following: <quote>, or agency,</quote>;</text>
+ </paragraph><paragraph id="HE512CFC89C4C4466AD0AD001E8BC38F4"><enum>(5)</enum><text>in subsection (a)(4), by inserting after <quote>for purposes of this section</quote> the following: <quote>, and for qualified agencies the quality assurance guidelines recommended by the scientific working group on DNA analysis methods.</quote>;</text>
+ </paragraph><paragraph id="H2CD4645767E74D60B426E3C2B2F299F5"><enum>(6)</enum><text>in subsection (c)(1)(A), by inserting after <quote>forensic DNA analyses</quote> the following: <quote>; and qualified agencies conducting analyses of DNA samples using sample-to-answer DNA analysis systems.</quote>;</text>
+ </paragraph><paragraph id="H3E67706994884677A3A9638D87C286D1"><enum>(7)</enum><text>in subsection (c)(1)(B), by inserting after <quote>forensic DNA analyses</quote> the following: <quote>; and for qualified agencies conducting analyses of DNA samples using sample-to-answer DNA analysis systems.</quote>;</text>
+ </paragraph><paragraph id="H71C4F8C1B4B34C2186DEEC064CA83E78"><enum>(8)</enum><text>in subsection (c)(1)(C), by inserting after <quote>forensic DNA analyses</quote> the following: <quote>; and qualified agencies conducting analyses of DNA samples using sample-to-answer DNA analysis systems.</quote>; and</text>
+ </paragraph><paragraph id="HC76901FB3D8B4AFCBA1ABB3EF8A32152"><enum>(9)</enum><text>in subsection (c)(2), by inserting after <quote>routine evidence</quote> the following: <quote>; and for qualified agencies the term <quote>blind external proficiency test</quote> means a test that is presented to qualified agencies through a second agency and appears to the operator to involve routine DNA samples for sample-to-answer DNA analysis systems.</quote>.</text>
+ </paragraph></section><section id="H64464ED4169C40C5ABD2764FF5978AAB"><enum>4.</enum><header>Qualifying agencies</header><text display-inline="no-display-inline">Section 210304 of the DNA Identification Act of 1994 (<external-xref legal-doc="usc" parsable-cite="usc/42/14132">42 U.S.C. 14132</external-xref>) is amended—</text> <paragraph id="H1CF4B5C48F3946D093CB4698A8407C30"><enum>(1)</enum><text>in subsection (b)(2), by inserting after <quote>laboratories</quote> the following: <quote>or qualified agencies</quote>;</text>
+ </paragraph><paragraph id="H58F077BE23B048FF80B27B4F0CFAD164"><enum>(2)</enum><text>in subsection (b)(2)(A), by striking <quote>; and</quote> at the end and inserting a semicolon; and</text> </paragraph><paragraph id="H359033621FA0476A9AC116EEE6BF504E"><enum>(3)</enum><text>in subsection (b)(2), by inserting the following new subparagraph:</text>
+				<quoted-block id="H0244E3C425F34D7095B9219F14CF8BBA" style="OLC">
+ <subparagraph id="H08B51923B4204A48B80A6070E06B5909"><enum>(C)</enum><text>are a qualifying agency engaged in the intake, processing, booking, detention, or incarceration of individuals charged or convicted of qualifying offenses and the analysis of DNA samples is conducted on a sample-to-answer DNA analysis system; and</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></section><section id="HEECDC1939C1D40C88958883D2AD844B8"><enum>5.</enum><header>District of Columbia DNA analysis</header><text display-inline="no-display-inline">Section ____ of the DNA Identification Act of 1994 (<external-xref legal-doc="usc" parsable-cite="usc/42/14135b">42 U.S.C. 14135b</external-xref>) is amended in subsection (b), by inserting after <quote>the DNA shall be analyzed</quote> the following: <quote>on a sample-to-answer DNA analysis system</quote>.</text>
+		</section></legis-body>
+</bill>
+
+

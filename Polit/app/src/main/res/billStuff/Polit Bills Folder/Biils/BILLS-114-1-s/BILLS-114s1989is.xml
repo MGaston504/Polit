@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1989 IS: Primary Care Enhancement Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-08-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1989</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150805">August 5, 2015</action-date>
+			<action-desc><sponsor name-id="S373">Mr. Cassidy</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To improve access to primary care services.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Primary Care Enhancement Act of 2015</short-title></quote>.</text>
+		</section><section commented="no" display-inline="no-display-inline" id="id1C268EA5A5D947C596E49E8B216517B0"><enum>2.</enum><header>Treatment of
+			 direct primary care service arrangements</header>
+			<subsection commented="no" display-inline="no-display-inline" id="id190AAA4E88B34E8B886D18D55FB049F6"><enum>(a)</enum><header>In
+ general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/223">Section 223(c)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="id49670C1B846F4168959196D13EEA0A72" style="OLC">
+					<paragraph commented="no" display-inline="no-display-inline" id="idA871AB2114DC47B1AC7A0199E1E5E59F"><enum>(6)</enum><header>Treatment of
+ direct primary care service arrangements</header><text>An arrangement under which an individual is provided ongoing primary care services in exchange for a fixed periodic fee which is not billed to any third party on a fee for service basis—</text>
+ <subparagraph commented="no" display-inline="no-display-inline" id="idA9E446DD9EF3490E92BBEAE35F4E2B95"><enum>(A)</enum><text>shall not be treated as a health plan for purposes of paragraph (1)(A)(ii), and</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id6AC29D933302413FA5B1AE3A80E6ADA3"><enum>(B)</enum><text>shall not be treated as insurance for purposes of subsection (d)(2)(B).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="id431636E8AD69434BB17AF3511C05593D"><enum>(b)</enum><header>Effective
+ date</header><text>The amendment made by this section shall apply to taxable years beginning after the date of the enactment of this Act.</text>
+			</subsection></section><section commented="no" id="ID39b8a109b27a4b6582631ab1aa1144d7"><enum>3.</enum><header>Certain
+			 provider fees to be treated as medical care</header>
+			<subsection commented="no" id="IDefef4384712b4c22973d171796a3df0e"><enum>(a)</enum><header>In
+ general</header><text>Subsection (d) of <external-xref legal-doc="usc" parsable-cite="usc/26/213">section 213</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="idD7862452DCAE4F9BAB4E2227CD7D9308" style="OLC">
+					<paragraph commented="no" id="IDd5f0339f1e8e43359f6539b030357a84"><enum>(12)</enum><header>Periodic
+ provider fees</header><text>The term <term>medical care</term> shall include periodic fees paid to a primary care physician for a defined set of medical services on an as-needed basis.</text>
+					</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="IDcccb47c345374db6982f54f054fa3b1f"><enum>(b)</enum><header>Effective
+ date</header><text display-inline="yes-display-inline">The amendment made by this section shall apply to taxable years beginning after the date of the enactment of this Act.</text>
+ </subsection></section><section id="ide586f00ab0a24ee198d9ccb3fccb097a"><enum>4.</enum><header>Medicare primary care medical home demonstration program</header><text display-inline="no-display-inline">Section 1115A of title XI of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1315a">42 U.S.C. 1315a</external-xref>) is amended—</text>
+ <paragraph id="id06d4de95253147bebe286da8e2eb74bf"><enum>(1)</enum><text>in subsection (b)(2)(A), in the last sentence, by inserting <quote>, and shall include the model described in subsection (h)</quote> before the period at the end; and</text> </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id55CE660BC95044478A0CB1C13DA64724"><enum>(2)</enum><text>by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="idB9755885F0A04C96A2900433FE52C484" style="OLC">
+					<subsection commented="no" display-inline="no-display-inline" id="id7DE5DBC0F315414B8D0744741DB55F7C"><enum>(h)</enum><header display-inline="yes-display-inline">Primary care medical home model</header>
+						<paragraph commented="no" display-inline="no-display-inline" id="id4BE7CC8E525E4E3A93CBA20CE79D0035"><enum>(1)</enum><header>Model</header>
+ <subparagraph commented="no" display-inline="no-display-inline" id="id4A0A8AC2E2D54966B7CC1E18F49B6F3B"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">The model described in this subsection is a model under which qualified direct primary care medical home practices are reimbursed a periodic fee for furnishing services to an individual enrolled under part B of title XVIII.</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idAA5F1AE48DFA492EBE3C5089F1F1DB49"><enum>(B)</enum><header>Qualified direct primary care medical home practice</header><text>In this subsection, the term <quote>qualified direct primary care medical home practice</quote> means a qualified direct primary care medical home practice described in section 1301(a)(3) of the Patient Protection and Affordable Care Act (as amended by section 10104(a) of such Act).</text>
+							</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id82A95447C3C342FF99ADD5E447E817BA"><enum>(2)</enum><header>Periodic fee</header>
+ <subparagraph commented="no" display-inline="no-display-inline" id="id3C0FEB84B75C4730B7E0A03F6AD69DBF"><enum>(A)</enum><header>In general</header><text>Subject to the succeeding provisions of this paragraph, the Secretary shall establish the periodic fee to be paid to qualified direct primary care medical home practices participating in the model under this subsection for each individual enrolled in the practice.</text>
+ </subparagraph><subparagraph id="ide1ef5fcfe073432a9b0503c6e315ff6c"><enum>(B)</enum><header>Affordable primary care</header><text>In no case may a monthly equivalent of the periodic fee established by the Secretary under subparagraph (A) exceed an amount equal to twenty percent of the average per capita monthly amount that the Secretary estimates will be payable from the Federal Hospital Insurance Trust Fund under section 1817 and from the Federal Supplementary Medical Insurance Trust Fund for services and related administrative costs for an individual under parts A and B of title XVIII.</text>
+							</subparagraph><subparagraph id="ide71192657ed54abb84984a54b6aeff07"><enum>(C)</enum><header>Adjustment to periodic fee</header>
+ <clause id="id2042B530BAA64BE9A56E9AC15DFED8B1"><enum>(i)</enum><header>Performance benchmark</header><text>The Secretary shall establish a performance benchmark for a year using the ACO quality measures in the Medicare shared savings program under section 1899.</text>
+ </clause><clause id="id7B5A4839BF424C2CBDA7470C3CF22326"><enum>(ii)</enum><header>Adjustment</header><text>Beginning with the second year the model under this subsection is conducted, in the case of a qualified direct primary care medical home practice participating in the model under this subsection—</text>
+ <subclause id="id89F8FBB99CFA47B1A849CF235C8BD3D4"><enum>(I)</enum><text>that meets or exceeds the performance benchmark for the year under clause (i), the periodic fee paid to the practice for each individual enrolled in the practice shall be increased by 5 percent; and</text>
+ </subclause><subclause id="idE95D17318F6A431A975EE5A8404851DD"><enum>(II)</enum><text>that does not meet the performance benchmark for the year under clause (i), the periodic fee paid to the practice for each individual enrolled in the practice shall be reduced by 5 percent.</text>
+ </subclause></clause></subparagraph></paragraph><paragraph id="id102E66377E51472AB1599DDC755EDA19"><enum>(3)</enum><header>Termination if performance benchmark not net for 2 consecutive years</header><text>The Secretary shall terminate the participation of a qualified direct primary care medical home practice in the model under this subsection if the practice would otherwise be subject to the adjustment under paragraph (2)(C)(ii)(II) for 2 consecutive years.</text>
+ </paragraph><paragraph id="id4019b0a45d13468bae2bcab5f3675d5f"><enum>(4)</enum><header>Scope of services</header><text>Each qualified direct primary care medical home practice shall employ the following activities and functions associated with direct primary care medical homes:</text>
+ <subparagraph id="idae263359f09f4e3a86be9592f7a23166"><enum>(A)</enum><text>Preventive care.</text> </subparagraph><subparagraph id="idf22ce67c3fb64410bdafb4b909e581de"><enum>(B)</enum><text>Wellness counseling.</text>
+ </subparagraph><subparagraph id="idbda4fbdc713442179f3fbd2d513dc0ac"><enum>(C)</enum><text>Primary care.</text> </subparagraph><subparagraph id="id6fcafce36ae942e88e82301d3c1f6ea5"><enum>(D)</enum><text>Coordination of primary care with specialty and hospital care.</text>
+ </subparagraph><subparagraph id="idfcee9c9b9f0843f08c182d8fde83a4a1"><enum>(E)</enum><text>Availability of ongoing care appointments 7 days per week.</text> </subparagraph><subparagraph id="id1ebc02864e1c4b8098f27ae0b7e2fc6f"><enum>(F)</enum><text>Secure e-mail and telephone consultation.</text>
+ </subparagraph><subparagraph id="id7efd1bc5a2f644e4a15fbe662bdeb475"><enum>(G)</enum><text>Availability of telephone access for ongoing care consultation on a 7-day-per-week, 24-hour-per-day basis.</text>
+ </subparagraph><subparagraph id="idcb6ca98d545d44ba914fa0a9a9dcddef"><enum>(H)</enum><text>Use of a primary care provider panel size that promotes the ability of participating providers to appropriately provide the scope of services described in this paragraph.</text>
+							</subparagraph></paragraph><paragraph id="idd4f968a0c48c4da499bf6a68f792e5d3"><enum>(5)</enum><header>Priority</header>
+ <subparagraph id="id1ECD651E7BBA46DA84BCC09392AB701A"><enum>(A)</enum><header>In general</header><text>In selecting qualified direct primary care medical home practices to participate under this subsection, the Secretary shall provide priority to practices that seek to enroll individuals who are dual eligible individuals.</text>
+ </subparagraph><subparagraph id="idA0EFA569CDB3416CB5FE471099DDEBAF"><enum>(B)</enum><header>Dual eligible individual</header><text>In subparagraph (A), the term <term>dual eligible individual</term> means an individual who is—</text> <clause id="id908FDE4936D44A9E84D3D3C36A18F809"><enum>(i)</enum><text>enrolled under part B of title XVIII; and</text>
+ </clause><clause id="idB053E2E891F74DDCB1CDFD8F8BD749F8"><enum>(ii)</enum><text>described in subparagraph (A)(ii) of section 1935(c)(6) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396u-5">42 U.S.C. 1396u–5(c)(6)</external-xref>), taking into account the application of subparagraph (B) of such section.</text>
+ </clause></subparagraph></paragraph><paragraph id="id5335cc2d8cec4b9e9baf2f137f17b694"><enum>(6)</enum><header>Not insurance</header><text>Care provided in a qualified direct primary care medical home practice participating in the model under this subsection shall not be considered an insurance product and shall not be subject to regulation as an insurance product or health maintenance organization by State insurance commissioners.</text>
+ </paragraph><paragraph id="id05a52edc041a48b2a1c2612905bb578c"><enum>(7)</enum><header>Reporting to Secretary</header><text>A qualified direct primary care medical home practice participating in the model under this subsection shall submit to the Secretary an annual report on—</text>
+ <subparagraph id="id3790F636825447C2B60BCB18BB874FFB"><enum>(A)</enum><text>the progress, of individuals enrolled in the practice with one or more chronic conditions, on the following:</text>
+ <clause id="ide956e0dbe54b45278b2b89a2986916ad"><enum>(i)</enum><text>Emergency room visits.</text> </clause><clause id="idab366dfb48e849cf9c1884139892a84f"><enum>(ii)</enum><text>Hospitalizations.</text>
+ </clause><clause id="id86bcfdc8f3d243d28ef521ebe9b9f943"><enum>(iii)</enum><text>Surgeries (including type of surgery).</text> </clause><clause id="id343ff504ab804490be729291f8d111a6"><enum>(iv)</enum><text>Specialist visits.</text>
+ </clause><clause id="id1834ecea6f724810a96ef1602133fd0b"><enum>(v)</enum><text>Use of advanced radiology (other than mammograms and DEXA scans); and</text> </clause></subparagraph><subparagraph id="id6B1EFEB8B1CE4E0FAF4B6A2E8B24CBC5"><enum>(B)</enum><text>such other areas determined appropriate by the Secretary.</text>
+ </subparagraph></paragraph><paragraph id="id7d2f0f58d6ee4020930cddc8620ad802"><enum>(8)</enum><header>Provision of data to practices</header><text>The Secretary shall provide qualified direct primary care medical home practices participating in the model under this subsection with all necessary and relevant patient data, including any prior claims data, needed for clinical purposes and for the purpose of providing an evaluation of such the model under this subsection.</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="id911E20020A7943D293EE6147C8F96856"><enum>(9)</enum><header display-inline="yes-display-inline">Providers currently opted out of Medicare</header><text display-inline="yes-display-inline">Notwithstanding section 1802(b), a physician or practitioner who has currently opted out of the Medicare program under such section may participate in a qualified direct primary care medical home practice participating in the model under this subsection and payment may be made under this title with respect to items and services furnished by such physician or practitioner under such model to Medicare beneficiaries with whom the physician or practitioner has in effect a private contract under such section.</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="idab619df306384a4d91bce06c994f2e90"><enum>(10)</enum><header>Fraud</header><text>A physician or practitioner who has been excluded from participation in a Federal health care program (as defined in section 1128C(f)) shall not be permitted to participate in a qualified direct primary care medical home practice under the model under this subsection.</text>
+ </paragraph><paragraph id="id520C3922580E4D58AD6DCF7489A8A15F"><enum>(11)</enum><header>Duration</header><text>Subject to subsection (b)(3), the Secretary shall conduct the model under this subsection for a period of not less than 3 years.</text>
+ </paragraph><paragraph id="idB5839086C63946B7A423F719FB9A18CD"><enum>(12)</enum><header>Expansion</header><text>Notwithstanding subsection (c), if the Secretary determines, after the third year that the model under this subsection is conducted, that—</text>
+ <subparagraph id="id35ED88B134594D21B2AF2EB421796C2B"><enum>(A)</enum><text>a qualified direct primary care medical home practice participating in the model under this subsection meets the requirements under paragraphs (1), (2), and (3) of such subsection, such practice shall continue permanently as long as it continues to meet such requirements and the other requirements of this subsection; and</text>
+ </subparagraph><subparagraph id="id743D1387472240B6AA9B77357193719C"><enum>(B)</enum><text>a majority of qualified direct primary care medical home practice participating in the model under this subsection meet the requirements under paragraphs (1), (2), and (3) of such subsection, the Secretary shall expand the model on a nationwide basis.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="id59d9e64fb89a446cac592defe4f58360"><enum>5.</enum><header>Use of direct primary care medical homes under the Medicare Advantage program</header>
+ <subsection id="idB69099535EC24BC5815E6BC07AC8CBF1"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Nothing in title XVIII of the Social Security Act or any other provision of law shall be construed to prohibit a Medicare Advantage organization offering a Medicare Advantage plan under part C of such title from—</text>
+ <paragraph id="idEF83B75D60474AFEB567853F27DD72E8"><enum>(1)</enum><text display-inline="yes-display-inline">contracting with a qualified direct primary care medical home practice to offer primary care services under such plan; or</text>
+ </paragraph><paragraph id="idC82625B1C2304C1EBB4190651CBAA40B"><enum>(2)</enum><text>including in such contract provisions for shared savings agreed upon between the Medicare Advantage organization and the the qualified direct primary care medical home practice.</text>
+ </paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id4B87206180384B92A8B7BE862E7EC0ED"><enum>(b)</enum><header display-inline="yes-display-inline">Qualified direct primary care medical home practice</header><text display-inline="yes-display-inline">In this section, the term <quote>qualified direct primary care medical home practice</quote> means a qualified direct primary care medical home practice described in section 1301(a)(3) of the Patient Protection and Affordable Care Act (as amended by section 10104(a) of such Act).</text></subsection></section></legis-body>
+</bill>
+
+

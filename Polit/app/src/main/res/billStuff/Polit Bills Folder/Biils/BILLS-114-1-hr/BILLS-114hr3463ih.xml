@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2B6E26BB6D8D4DA1AD2D5812DB76087E" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3463 IH: Aligning Children’s Dental Coverage Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3463</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150909">September 9, 2015</action-date>
+			<action-desc><sponsor name-id="G000568">Mr. Griffith</sponsor> (for himself and <cosponsor name-id="D000197">Ms. DeGette</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XXVII of the Public Health Service Act to clarify the treatment of pediatric dental
+			 coverage in the individual and group markets outside of Exchanges
+			 established under the Patient Protection and Affordable Care Act, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body id="HE5140D6DA8DB402E963B3934DD9E687E" style="OLC">
+ <section id="H05A62EC1A3094EEFA99B9FAE136B734D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Aligning Children’s Dental Coverage Act</short-title></quote>.</text> </section><section id="HEEBD525610724BE9BB617FD5611AFE19"><enum>2.</enum><header>Treatment of pediatric dental coverage outside of ACA Exchanges</header> <subsection id="H8A0326638E774F919B32EC4BD2A3DD94"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 2707 of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300gg-6">42 U.S.C. 300gg–6</external-xref>) is amended—</text>
+ <paragraph id="H184785361BE74EDBB93C0F889A93D1D8"><enum>(1)</enum><text>in subsection (a), by striking <quote>A health</quote> and inserting <quote>Subject to subsection (e), a health</quote>;</text> </paragraph><paragraph id="HA421D6C83D204854BFFE75229D4451BA"><enum>(2)</enum><text>in subsection (d), by striking <quote>section 1302(d)(2)(B)(ii)(I)</quote> and inserting <quote>section 1311(d)(2)(B)(ii) of the Patient Protection and Affordable Care Act</quote>; and</text>
+ </paragraph><paragraph id="HF040FEF800AA4D5BA33389CB50968FB9"><enum>(3)</enum><text>by adding at the end the following new subsection:</text> <quoted-block display-inline="no-display-inline" id="HB73F52E6C9354E478ED8CAE2895B22C0" style="OLC"> <subsection id="H2E9CA968EB3D4EA784F54DFB291D14DC"><enum>(e)</enum><header>Treatment of pediatric dental coverage</header><text display-inline="yes-display-inline">If a plan described in section 1311(d)(2)(B)(ii) of the Patient Protection and Affordable Care Act (relating to standalone dental benefits) is offered in the individual or small group market in a State and the issuer of such plan certifies to the State that the plan offers pediatric dental benefits meeting the requirements of section 1302(b)(1)(J) of the Patient Protection and Affordable Care Act, any other health insurance coverage or group health plan offered in such market in such State shall not fail to be treated as satisfying the requirements of subsection (a) solely because the coverage or health plan does not offer coverage of benefits offered through the standalone plan that are otherwise required under such section 1302(b)(1)(J).</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="HF6D9CA82FB66408E8E1DF69070A351C8"><enum>(b)</enum><header>Technical correction to treatment of ACA Exchanges coverage</header><text display-inline="yes-display-inline">Section 1302(b)(4)(F) of the Patient Protection and Affordable Care Act (42 U.S.C.18022(b)(4)(F)) is amended—</text>
+ <paragraph id="HFE802E49F4E14CE7ADEF47635D02C113"><enum>(1)</enum><text>by striking <quote>section 1311(b)(2)(B)(ii)</quote> and inserting <quote>section 1311(d)(2)(B)(ii)</quote>; and</text> </paragraph><paragraph commented="no" id="H8FB11100BC8B4A0B841530AB1112AE16"><enum>(2)</enum><text>by striking <quote>is offered through an Exchange, another health plan offered through such Exchange</quote> and inserting <quote>is offered through an Exchange (or in the case of a plan not offered through an Exchange, offered in the individual or small group market in a State), another health plan offered through such Exchange (or, in such individual or small group market in the State, as applicable)</quote>.</text>
+ </paragraph></subsection><subsection id="H23F1964D707C4E49B80C85EDCBFB97BA"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply as if included in the enactment of the Patient Protection and Affordable Care Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC113612269EC4EE695DDD64BA3D9AAF0" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1113 IH: Portfolio Lending and Mortgage Access Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1113</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150226">February 26, 2015</action-date> 
+<action-desc><sponsor name-id="B001282">Mr. Barr</sponsor> (for himself, <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>, <cosponsor name-id="N000182">Mr. Neugebauer</cosponsor>, <cosponsor name-id="F000458">Mr. Fincher</cosponsor>, <cosponsor name-id="D000613">Mr. Dold</cosponsor>, <cosponsor name-id="T000470">Mr. Tipton</cosponsor>, <cosponsor name-id="H001072">Mr. Hill</cosponsor>, <cosponsor name-id="L000491">Mr. Lucas</cosponsor>, <cosponsor name-id="R000598">Mr. Rothfus</cosponsor>, <cosponsor name-id="L000569">Mr. Luetkemeyer</cosponsor>, <cosponsor name-id="S001187">Mr. Stivers</cosponsor>, <cosponsor name-id="K000210">Mr. King of New York</cosponsor>, <cosponsor name-id="H001059">Mr. Hultgren</cosponsor>, <cosponsor name-id="D000614">Mr. Duffy</cosponsor>, <cosponsor name-id="S001188">Mr. Stutzman</cosponsor>, <cosponsor name-id="G000570">Mr. Guinta</cosponsor>, and <cosponsor name-id="R000587">Mr. Ribble</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Truth in Lending Act to provide a safe harbor from certain requirements related to qualified mortgages for residential mortgage loans held on an originating insured depository institution’s portfolio, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H57AAAD58C5EB4DB4BBDA106AF1868CB1" style="OLC"> 
+<section id="H14B0D3C201134E4591E911AC5962420D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Portfolio Lending and Mortgage Access Act</short-title></quote>. </text></section> <section id="H92F4DA1F57724D4AA2DF4C859F82C4FC"><enum>2.</enum><header>Safe harbor for certain loans held on portfolio</header> <subsection id="HA4FD82930D2B43B3B019CF5BD66EE2B6"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 129C of the Truth in Lending Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1639c">15 U.S.C. 1639c</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block style="OLC" id="H6B815F8C259D42909B6DE64F7DB204E0" display-inline="no-display-inline"> 
+<subsection id="HA1D8B49E2AA44457823CFAA79F59730E"><enum>(j)</enum><header>Safe harbor for certain loans held on portfolio</header> 
+<paragraph id="H22D4C2947DF649B3BC5809D6049B5493"><enum>(1)</enum><header>Safe harbor for creditors that are insured depository institutions</header> 
+<subparagraph id="H54DBA4FC55A046819CA8FF2395CBEE7A"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">A creditor that is an insured depository institution shall not be subject to suit for failure to comply with subsection (a), (c)(1), or (f)(2) of this section or section 129H with respect to a residential mortgage loan, and the banking regulators shall treat such loan as a qualified mortgage, if—</text> <clause id="HDAEB7EC4319E481E9F036DE1F20CDC0D"><enum>(i)</enum><text>the creditor has, since the origination of the loan, held the loan on the balance sheet of the creditor; and</text></clause> 
+<clause id="HCD259A3FCEA14F82A3242F5634457847"><enum>(ii)</enum><text>all prepayment penalties with respect to the loan comply with the limitations described under subsection (c)(3).</text></clause></subparagraph> <subparagraph id="HECEA83326061457B95CD32E2D6486C91"><enum>(B)</enum><header>Exception for certain transfers</header><text>In the case of an insured depository institution that transfers a loan originated by that institution to another insured depository institution by reason of the bankruptcy or failure of the originating insured depository institution or the purchase of the originating insured depository institution, the insured depository institution transferring such loan shall be deemed to have complied with the requirement under subparagraph (A)(i).</text> </subparagraph> </paragraph> 
+<paragraph id="H7768F836410F4855A2600800D9DCBA58"><enum>(2)</enum><header>Safe harbor for mortgage originators</header><text display-inline="yes-display-inline">A mortgage originator shall not be subject to suit for a violation of section 129B(c)(3)(B) for steering a consumer to a residential mortgage loan if—</text> <subparagraph id="HB8427F7DCB1548AA9BDBE23E14CC344F"><enum>(A)</enum><text>the creditor of such loan is an insured depository institution and has informed the mortgage originator that the creditor intends to hold the loan on the balance sheet of the creditor for the life of the loan; and</text></subparagraph> 
+<subparagraph id="H6666EA6AB5E743109CFEA8BD36FDCAC0"><enum>(B)</enum><text display-inline="yes-display-inline">the mortgage originator informs the consumer that the creditor intends to hold the loan on the balance sheet of the creditor for the life of the loan.</text></subparagraph></paragraph> <paragraph id="HE34D9A64819E4BC19B23098BD89941B3"><enum>(3)</enum><header>Definitions</header><text display-inline="yes-display-inline">For purposes of this subsection:</text> 
+<subparagraph id="H5336D498E51043D6ADAEBB70153DF3FE"><enum>(A)</enum><header>Banking regulators</header><text>The term <quote>banking regulators</quote> means the Federal banking agencies and the Bureau.</text></subparagraph> <subparagraph id="HBC4DF175976946749EB2171291D11901"><enum>(B)</enum><header>Other terms</header><text display-inline="yes-display-inline">The terms <quote>Federal banking agencies</quote> and <quote>insured depository institution</quote> have the meaning given those terms, respectively, under section 3 of the Federal Deposit Insurance Act.</text> </subparagraph></paragraph> </subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="HFCD1155392E040368169EC5D1DEE65A4"><enum>(b)</enum><header>Rule of construction</header><text display-inline="yes-display-inline">Nothing in the amendment made by this Act may be construed as preventing a balloon loan from qualifying for the safe harbor provided under section 129C(j) of the Truth in Lending Act if the balloon loan otherwise meets all of the requirements under such subsection (j), regardless of whether the balloon loan meets the requirements described under clauses (i) through (iv) of section 129C(b)(2)(E) of such Act.</text></subsection></section> </legis-body> </bill> 
+

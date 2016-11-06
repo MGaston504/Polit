@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC4B224B067E345FCA221950FCE39209C" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3673 IH: To amend the Internal Revenue Code of 1986 to require the Secretary of the Treasury to mail paper forms to any individual who filed a paper return for the preceding taxable year.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3673</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151001">October 1, 2015</action-date>
+			<action-desc><sponsor name-id="B001271">Mr. Benishek</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to require the Secretary of the Treasury to mail paper
+			 forms to any individual who filed a paper return for the preceding taxable
+			 year.</official-title>
+	</form>
+	<legis-body id="HB773D707D7C345E6BE5009B89978E1B7" style="OLC">
+ <section id="H7E55D488B4C54A6C8D690B1694465E8D" section-type="section-one"><enum>1.</enum><header>Paper forms mailed to individuals filing paper return for preceding taxable year</header><text display-inline="no-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/6011">Section 6011(e)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+			<quoted-block display-inline="no-display-inline" id="HF8E679E36A184DC787E786F178FEF8CF" style="OLC">
+ <paragraph id="H31BC6A709B6E4098B5869B1D775823CD"><enum>(5)</enum><header>Mailing of paper returns</header><text display-inline="yes-display-inline">In the case of an individual who for a taxable year files on paper forms a return of tax imposed by subtitle A, the Secretary shall, not later than 31 days after the close of the taxpayer’s next taxable year, mail to such taxpayer the paper forms (and related instructions) necessary for filing such return of tax for such next taxable year.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

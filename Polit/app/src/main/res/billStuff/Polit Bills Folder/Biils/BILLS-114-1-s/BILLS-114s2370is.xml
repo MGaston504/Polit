@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2370 IS: Protecting Charitable Contributions Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-12-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2370</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151208">December 8, 2015</action-date>
+			<action-desc><sponsor name-id="S260">Mr. Roberts</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prohibit the Internal Revenue Service from modifying or amending the standards and regulations
+			 governing the substantiation of charitable contributions.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Charitable Contributions Act of 2015</short-title></quote>.</text>
+		</section><section id="id5516019e655a4848b74730d6ce88b2c2"><enum>2.</enum><header>Prohibition of IRS modification of standards and regulations for substantiation of charitable
+			 contributions</header>
+ <subsection id="id794d2d9dd0544044b8e0905cb65fb56a"><enum>(a)</enum><header>In general</header><text>The definitions and regulations in effect on January 1, 2015, under <external-xref legal-doc="usc" parsable-cite="usc/26/170">section 170(f)(8)</external-xref> of the Internal Revenue Code of 1986 (relating to the substantiation of charitable contributions in excess of $250) shall apply on and after the date of the enactment of this Act.</text>
+ </subsection><subsection id="idd0b0ab709b39437a99cf09d2422ebcec"><enum>(b)</enum><header>Prohibition of any modification</header><text>The Secretary of the Treasury shall not issue, revise, or finalize any regulation (including the proposed regulations published in the Federal Register on September 17, 2015 (80 Fed. Reg. 55802)), revenue ruling, or other guidance not limited to a particular taxpayer relating to the definitions and regulations specified in subsection (a).</text>
+			</subsection></section></legis-body>
+</bill>
+
+

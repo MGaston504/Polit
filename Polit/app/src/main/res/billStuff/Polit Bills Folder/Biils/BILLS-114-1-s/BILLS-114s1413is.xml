@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1413 IS: Higher Education Tax Benefit Compliance Improvement Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1413</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150521">May 21, 2015</action-date>
+			<action-desc><sponsor name-id="S212">Mr. Coats</sponsor> (for himself and <cosponsor name-id="S118">Mr. Hatch</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to improve compliance in higher education tax benefits.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Higher Education Tax Benefit Compliance Improvement Act</short-title></quote>.</text>
+		</section><section id="id1732622331424074A509DF4E04E3C404"><enum>2.</enum><header>Waiver of penalties for certain failures relating to information returns for higher education
+			 tuition and related expenses</header>
+ <subsection id="idCD669CF94C0D4F11BF15D1455EA6EEB1"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/6724">Section 6724</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="id64ABD9CCB32C4D3EA2B10049753E924F" style="OLC">
+ <subsection id="id3F44211CB881479CBCAC0BD26A366B43"><enum>(f)</enum><header>Special rules for returns related to higher education tuition and related expenses</header><text>Section 6721 shall not apply to any failure by an eligible educational institution (as defined in section 25A) to provide the TIN of an individual described in section 6050S(b)(2)(A) on any information return described in subsection (d)(1)(B)(xii) if the person required to file the return certifies under penalty of perjury that such person has complied with standards promulgated by the Secretary for obtaining the individual's TIN, unless it is shown that such certification is materially untrue.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id432C9373BA5D448FBE40F9AEBA5AD12D"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to returns filed after the date of the enactment of this Act.</text>
+			</subsection></section><section id="id9FE626C1675943F28EAAA1B315ACCBC2"><enum>3.</enum><header>Payee statement required to claim certain education tax benefits</header>
+			<subsection id="idAC7D65D5C0814F6FAF930C87C3D05E96"><enum>(a)</enum><header>American Opportunity credit, Hope Scholarship Credit, and Lifetime Learning Credit</header>
+ <paragraph id="id7D678A81B4514EF782106452352B019A"><enum>(1)</enum><header>In general</header><text>Subsection (g) of <external-xref legal-doc="usc" parsable-cite="usc/26/25A">section 25A</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="id6B74046683B34D4DBFF4678230208566" style="OLC">
+ <paragraph id="id7DDBC989A69141A093A369CB386A9883"><enum>(8)</enum><header>Payee statement requirement</header><text>No credit shall be allowed under this section for any qualified tuition and related expenses paid by the taxpayer unless—</text>
+ <subparagraph id="id3373BB4B0F124CFD9EC48C0EB79365A8"><enum>(A)</enum><text>the taxpayer has received a statement provided under section 6050S(d) which contains the TIN of the individual for whom a payment of qualified tuition and related expenses was made, or</text>
+ </subparagraph><subparagraph id="idC295E956405A422D9E7DF8224C745F7B"><enum>(B)</enum><text>in any case in which—</text> <clause id="idA86F509F39E24E3998E1AA918DC213AB"><enum>(i)</enum><text>the qualified tuition and related expenses are for a course for which academic credit is not offered by the eligible educational institution, or</text>
+ </clause><clause id="id4769000B948D400AB248BEBA85CEBA6E"><enum>(ii)</enum><text>the eligible educational institution does not provide the taxpayer with a statement described in subparagraph (A) with respect to such qualified tuition and related expenses,</text>
+								</clause><continuation-text continuation-text-level="subparagraph">the taxpayer maintains a record, in such form and manner as prescribed by the Secretary, showing
+			 the date and
+			 amount of the expenses.</continuation-text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="id7A52A964BC5342428FAD9F2DE55C8B32"><enum>(2)</enum><header>Conforming amendment</header><text>Paragraph (3) of section 25A(g) of such Code is amended by adding at the end the following flush sentence:</text>
+					<quoted-block display-inline="no-display-inline" id="id7E98D5B1371A4FD18DE8814D02CDAF6F" style="OLC">
+						<quoted-block-continuation-text quoted-block-continuation-text-level="paragraph">For purposes of paragraph (8), a statement described in paragraph (8)(A) which is received by such
+			 individual shall be treated as received by such other taxpayer.</quoted-block-continuation-text><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="id8D00FE5000934C56B9340AB2695CA56D"><enum>(b)</enum><header>Deduction for qualified tuition and related expenses</header>
+ <paragraph id="idCF6970BAF10340B5917FB6F2CF1D3A05"><enum>(1)</enum><header>In general</header><text>Subsection (d) of <external-xref legal-doc="usc" parsable-cite="usc/26/222">section 222</external-xref> of the Internal Revenue Code of 1986 is amended by redesignating paragraph (6) as paragraph (7) and by inserting after paragraph (5) the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="idF49BD0DF1D4A40CCB6679CA2FFD0BD92" style="OLC">
+						<paragraph id="id41DD9ECFF3EA4785B609A16FBCC72148"><enum>(6)</enum><header>Payee statement requirement</header>
+ <text>No deduction shall be allowed under this section for any qualified tuition and related expenses paid by the taxpayer unless—</text>
+ <subparagraph id="id94B17E25231546E38D1924FEC278E8C3"><enum>(A)</enum><text>the taxpayer has received a statement provided under section 6050S(d) which contains the TIN of the individual to whom a payment of qualified tuition and related expenses was made, or</text>
+ </subparagraph><subparagraph id="id0D02787D4129408799595F7B4285DC16"><enum>(B)</enum><text>in any case in which—</text> <clause id="id09216AC6B4954DA1A6A011B2AF189A5B"><enum>(i)</enum><text>the qualified tuition and related expenses are for a course for which academic credit is not offered by the eligible educational institution, or</text>
+ </clause><clause id="idF7FE258300D0497894130A33CD6EAA6E"><enum>(ii)</enum><text>the eligible educational institution does not provide the taxpayer with a statement described in subparagraph (A) with respect to such qualified tuition and related expenses,</text>
+								</clause><continuation-text continuation-text-level="subparagraph">the taxpayer maintains a record, in such form and manner as prescribed by the Secretary, showing
+			 the date and
+			 amount of the expenses.</continuation-text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="idD72947FC73D04ECA8597D414F6E38798"><enum>(2)</enum><header>Conforming amendment</header><text>Paragraph (3) of section 222(c) of such Code is amended by adding at the end the following sentence: <quote>For purposes of paragraph (6), a statement described in paragraph (6)(A) which is received by such individual shall be treated as received by such other taxpayer.</quote>.</text>
+ </paragraph></subsection><subsection id="id5662A0AAE0C94471BB545D57A3E0C2AB"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

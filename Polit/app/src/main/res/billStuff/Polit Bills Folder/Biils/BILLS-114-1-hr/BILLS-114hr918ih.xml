@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H925C9E62F0FB49B4BE6E9B20C1297D3F" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 918 IH: Social Security Disability Insurance and Unemployment Benefits Double Dip Elimination Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 918</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150212">February 12, 2015</action-date> 
+<action-desc><sponsor name-id="J000174">Mr. Sam Johnson of Texas</sponsor> (for himself, <cosponsor name-id="Y000064">Mr. Young of Indiana</cosponsor>, <cosponsor name-id="K000376">Mr. Kelly of Pennsylvania</cosponsor>, <cosponsor name-id="T000462">Mr. Tiberi</cosponsor>, <cosponsor name-id="B001273">Mrs. Black</cosponsor>, <cosponsor name-id="R000578">Mr. Reichert</cosponsor>, <cosponsor name-id="B001255">Mr. Boustany</cosponsor>, <cosponsor name-id="S001172">Mr. Smith of Nebraska</cosponsor>, <cosponsor name-id="R000586">Mr. Renacci</cosponsor>, <cosponsor name-id="R000585">Mr. Reed</cosponsor>, <cosponsor name-id="S001179">Mr. Schock</cosponsor>, and <cosponsor name-id="R000570">Mr. Ryan of Wisconsin</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend title II of the Social Security Act to prevent concurrent receipt of unemployment benefits and Social Security disability insurance, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H8A5F5297B67448449478E55D088E6219" style="OLC"> 
+<section id="H6930604D0750444FB7E7F11A57F2B749" section-type="section-one"><enum>1.</enum><header>Short Title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Social Security Disability Insurance and Unemployment Benefits Double Dip Elimination Act</short-title></quote>.</text></section> <section id="H5105AA6B7F6D471AB486EE301D9FF55C"><enum>2.</enum><header>Disqualification on receipt of disability insurance benefits in a month for which unemployment compensation is received</header> <subsection id="HDD9811321E4045DB831C54C9B717CDEE"><enum>(a)</enum><header>In general</header><text>Section 223(d)(4) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/423">42 U.S.C. 423(d)(4)</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block id="H829A19B4340849FD8FF42DBF42965090" style="OLC"> 
+<subparagraph id="HA6728B52B77C4040AF163EEF764D3519" indent="up2"><enum>(C)</enum> 
+<clause commented="no" display-inline="yes-display-inline" id="H693164E749AF4534B241C61F8B19D847"><enum>(i)</enum><text display-inline="yes-display-inline">If for any week in whole or in part within a month an individual is paid or determined to be eligible for unemployment compensation, such individual shall be deemed to have engaged in substantial gainful activity for such month.</text></clause> <clause id="HE152D92C864B48C59D3D5B5BD1C70D29" indent="up1"><enum>(ii)</enum><text display-inline="yes-display-inline">For purposes of clause (i), the term <quote>unemployment compensation</quote> means—</text> 
+<subclause id="H9896F442333847DFBFF9B8ABFAE491BD"><enum>(I)</enum><text><quote>regular compensation</quote>, <quote>extended compensation</quote>, and <quote>additional compensation</quote> (as such terms are defined by section 205 of the Federal-State Extended Unemployment Compensation Act (<external-xref legal-doc="usc" parsable-cite="usc/26/3304">26 U.S.C. 3304</external-xref> note)); and</text></subclause> <subclause id="HB0AC75228239479295DA6C56F679ECCB"><enum>(II)</enum><text display-inline="yes-display-inline">trade adjustment assistance under title II of the Trade Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/19/2251">19 U.S.C. 2251 et seq.</external-xref>).</text></subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="HA89F17F6B8CC48A484AD4C811C07F758"><enum>(b)</enum><header>Trial work period</header><text display-inline="yes-display-inline">Section 222(c) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/422">42 U.S.C. 422(c)</external-xref>) is amended by adding at the end the following:</text> <quoted-block id="H220317A02C40403498B2AE616E483CE3" style="OLC"> <paragraph id="HE45FDD834E584802BF0B6E92D4C53F3B" indent="up1"><enum>(6)</enum> <subparagraph commented="no" display-inline="yes-display-inline" id="H31D701E28D964B1F857200EB240AEEF2"><enum>(A)</enum><text>For purposes of this subsection, an individual shall be deemed to have rendered services in a month if the individual is entitled to unemployment compensation for such month.</text></subparagraph> 
+<subparagraph id="H94696776299347C1AA13AEEEB6820BE4" indent="up1"><enum>(B)</enum><text>For purposes of subparagraph (A), the term <quote>unemployment compensation</quote> means—</text> <clause id="H93185F8B54064FB9B09F71697D4D565F"><enum>(i)</enum><text><quote>regular compensation</quote>, <quote>extended compensation</quote>, and <quote>additional compensation</quote> (as such terms are defined by section 205 of the Federal-State Extended Unemployment Compensation Act (<external-xref legal-doc="usc" parsable-cite="usc/26/3304">26 U.S.C. 3304</external-xref> note)); and</text></clause> 
+<clause id="H0602E93CEE944281A077832EB39D817A"><enum>(ii)</enum><text>trade adjustment assistance under title II of the Trade Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/19/2251">19 U.S.C. 2251 et seq.</external-xref>).</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H52BC5551381041D4ACB644CD3F6A3193"><enum>(c)</enum><header>Data matching</header><text>The Commissioner of Social Security shall implement the amendments made by this section using appropriate electronic data.</text></subsection> 
+<subsection id="HC9FB152DDF064A429EDC555B88B38FB2"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this section shall apply with respect to individuals who initially apply for disability insurance benefits on or after January 1, 2016.</text></subsection></section> </legis-body> </bill> 
+

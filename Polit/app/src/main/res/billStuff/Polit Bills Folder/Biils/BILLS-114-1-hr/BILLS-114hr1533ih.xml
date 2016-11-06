@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H22576637A8AF440B8403770F1EECD7BD" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1533 IH: Medical Device Tax Elimination Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1533</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150323">March 23, 2015</action-date>
+			<action-desc><sponsor name-id="A000370">Ms. Adams</sponsor> (for herself, <cosponsor name-id="T000465">Ms. Tsongas</cosponsor>, <cosponsor name-id="C001090">Mr. Cartwright</cosponsor>, <cosponsor name-id="H001038">Mr. Higgins</cosponsor>, and <cosponsor name-id="P000598">Mr. Polis</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to repeal the excise tax on medical devices, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body id="H5033EF6904594F4FA1CF62D1E1BFCEF1" style="OLC">
+ <section id="H7F8EA03B91F74FEC899D34E5E78549A9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medical Device Tax Elimination Act</short-title></quote>.</text> </section><section display-inline="no-display-inline" id="HB8D66BDF51914A07963F1EE7D5BEEDE2"><enum>2.</enum><header>Repeal of medical device excise tax</header> <subsection id="H0C9378E145F947E4A7EF94DCCB21820C"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/32">Chapter 32</external-xref> of the Internal Revenue Code of 1986 is amended by striking subchapter E.</text>
+			</subsection><subsection id="HBD35925C250341CD85EB72805018940C"><enum>(b)</enum><header>Conforming amendments</header>
+ <paragraph id="HDA73F78B6C704C08B22B559537A673A9"><enum>(1)</enum><text>Section 4221(a) of such Code is amended by striking the last sentence.</text> </paragraph><paragraph id="H9A5CC7BAFC634FD19A42A003CD58E34A"><enum>(2)</enum><text>Section 6416(b)(2) of such Code is amended by striking the last sentence.</text>
+ </paragraph></subsection><subsection id="HDF37150232F6486F8AA3F93FB0DA37AA"><enum>(c)</enum><header>Clerical amendment</header><text>The table of subchapters for chapter 32 of such Code is amended by striking the item relating to subchapter E.</text>
+ </subsection><subsection id="H3E964AD842D346B2B501B35F8EC44A6E"><enum>(d)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by this section shall apply to sales after the date of the enactment of this Act.</text>
+			</subsection></section><section id="HA57203BDCB6C45A6B427D06A79901214"><enum>3.</enum><header>Limitation on section <enum-in-header>199</enum-in-header> deduction attributable to oil, natural gas, or primary products thereof</header>
+ <subsection id="H02893FB8532A407DABD8B79FE963DA5B"><enum>(a)</enum><header>Denial of deduction</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/199">Section 199(c)(4)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:</text>
+				<quoted-block id="H9F09C1F3298F44639CAC8796AE0848A1" style="OLC">
+ <subparagraph id="H5F67B28C3F854EFDA5E31DEF3C32E9CF"><enum>(E)</enum><header>Special rule for certain oil and gas income</header><text>In the case of any taxpayer who is a major integrated oil company (as defined in section 167(h)(5)(B)) for the taxable year, the term <term>domestic production gross receipts</term> shall not include gross receipts from the production, transportation, or distribution of oil, natural gas, or any primary product (within the meaning of subsection (d)(9)) thereof.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H132934B0368B4CF998811317CE006BF1"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to taxable years beginning after December 31, 2014.</text> </subsection></section><section id="H7F3D702FD31D49DA9A39F87CB3B74CE8"><enum>4.</enum><header>Prohibition on using last-in, first-out accounting for major integrated oil companies</header> <subsection id="HD80E771FB61B456BBFE8883FDD798E62"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/472">Section 472</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:</text>
+				<quoted-block id="HA9D8B8DD5062428C8629DD9CEE6D48EF" style="OLC">
+ <subsection id="H0FFCBD9ACD2F41708550769996085DA0"><enum>(h)</enum><header>Major integrated oil companies</header><text>Notwithstanding any other provision of this section, a major integrated oil company (as defined in section 167(h)(5)(B)) may not use the method provided in subsection (b) in inventorying of any goods.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H31D526733B474987A8EB2EBE268EB0B8"><enum>(b)</enum><header>Effective date and special rule</header>
+ <paragraph id="H2AEB4F94EB174CF8AB289DEBD785339E"><enum>(1)</enum><header>In general</header><text>The amendment made by subsection (a) shall apply to taxable years beginning after December 31, 2014.</text>
+ </paragraph><paragraph id="H2081ED1515574F62996FAB859AA2F47C"><enum>(2)</enum><header>Change in method of accounting</header><text>In the case of any taxpayer required by the amendment made by this section to change its method of accounting for its first taxable year beginning after December 31, 2014—</text>
+ <subparagraph id="H660BFD7001E94C0EA11B4505317D0B80"><enum>(A)</enum><text>such change shall be treated as initiated by the taxpayer,</text> </subparagraph><subparagraph id="H2BC475AB73264812B27328BAAC7C1FF9"><enum>(B)</enum><text>such change shall be treated as made with the consent of the Secretary of the Treasury, and</text>
+ </subparagraph><subparagraph id="H502DFA25389F4B17A9284942D2D44010"><enum>(C)</enum><text>the net amount of the adjustments required to be taken into account by the taxpayer under <external-xref legal-doc="usc" parsable-cite="usc/26/481">section 481</external-xref> of the Internal Revenue Code of 1986 shall be taken into account ratably over a period (not greater than 8 taxable years) beginning with such first taxable year.</text>
+					</subparagraph></paragraph></subsection></section><section id="HDA31295DBB2242D58C05B5F792E413A9"><enum>5.</enum><header>Modifications of foreign tax credit rules applicable to major integrated oil companies which are
+			 dual capacity taxpayers</header>
+ <subsection id="H918441DA75604323B51102C21533F601"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/901">Section 901</external-xref> of the Internal Revenue Code of 1986 is amended by redesignating subsection (n) as subsection (o) and by inserting after subsection (m) the following new subsection:</text>
+				<quoted-block id="H0E4D0BEEF33446A3B24AA8FE0671B7E1" style="OLC">
+					<subsection id="H8E546E3B7F1A47CD94ABFC99183D8224"><enum>(n)</enum><header>Special rules relating to major integrated oil companies which are dual capacity taxpayers</header>
+ <paragraph id="H050BED9B34D2434DB5EBCD3378611D68"><enum>(1)</enum><header>General rule</header><text>Notwithstanding any other provision of this chapter, any amount paid or accrued by a dual capacity taxpayer which is a major integrated oil company (as defined in section 167(h)(5)(B)) to a foreign country or possession of the United States for any period shall not be considered a tax—</text>
+ <subparagraph id="H5CC6CDB383A84532886EFA74B9428B75"><enum>(A)</enum><text>if, for such period, the foreign country or possession does not impose a generally applicable income tax, or</text>
+ </subparagraph><subparagraph id="H2769EE863F71437084810CAF8C13D523"><enum>(B)</enum><text>to the extent such amount exceeds the amount (determined in accordance with regulations) which—</text> <clause id="H3CF237F456F04171851750C6B142252C"><enum>(i)</enum><text>is paid by such dual capacity taxpayer pursuant to the generally applicable income tax imposed by the country or possession, or</text>
+ </clause><clause id="HA4D9723CE6A74B428F7F4617A7C4E190"><enum>(ii)</enum><text>would be paid if the generally applicable income tax imposed by the country or possession were applicable to such dual capacity taxpayer.</text>
+								</clause><continuation-text continuation-text-level="subparagraph">Nothing in this paragraph shall be construed to imply the proper treatment of any such amount not
+ in excess of the amount determined under subparagraph (B).</continuation-text></subparagraph></paragraph><paragraph id="H112C32F7EB9548AC8E183894ADD5C4FA"><enum>(2)</enum><header>Dual capacity taxpayer</header><text>For purposes of this subsection, the term <quote>dual capacity taxpayer</quote> means, with respect to any foreign country or possession of the United States, a person who—</text> <subparagraph id="H6215E3E28D424227A66A643989A9AA55"><enum>(A)</enum><text>is subject to a levy of such country or possession, and</text>
+ </subparagraph><subparagraph id="HF2C89B93CF9945C09EF86BE19AC29AF4"><enum>(B)</enum><text>receives (or will receive) directly or indirectly a specific economic benefit (as determined in accordance with regulations) from such country or possession.</text>
+ </subparagraph></paragraph><paragraph id="H70263CFFC09A41B4AEF3B5BD8D8C36E2"><enum>(3)</enum><header>Generally applicable income tax</header><text>For purposes of this subsection—</text> <subparagraph id="HCA749A01EDCD4ED7A5068AD4327FA7E1"><enum>(A)</enum><header>In general</header><text>The term <quote>generally applicable income tax</quote> means an income tax (or a series of income taxes) which is generally imposed under the laws of a foreign country or possession on income derived from the conduct of a trade or business within such country or possession.</text>
+ </subparagraph><subparagraph id="HAE05A9B9713740E4A5B329095E3C6726"><enum>(B)</enum><header>Exceptions</header><text>Such term shall not include a tax unless it has substantial application, by its terms and in practice, to—</text>
+ <clause id="H6E55FBEF780F4E7DB838AE8E74CE8BA2"><enum>(i)</enum><text>persons who are not dual capacity taxpayers, and</text> </clause><clause id="HE2B70E8863264833AB153966DA355D9A"><enum>(ii)</enum><text>persons who are citizens or residents of the foreign country or possession.</text></clause></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H7ACA4B2F745F43BCB199002FF0FC79E5"><enum>(b)</enum><header>Effective date</header>
+ <paragraph id="H39B6EB2B734D4172B89A19F667EB9453"><enum>(1)</enum><header>In general</header><text>The amendments made by this section shall apply to taxes paid or accrued in taxable years beginning after December 31, 2014.</text>
+ </paragraph><paragraph id="H011769844F2C4D2C87188917F97A5035"><enum>(2)</enum><header>Contrary treaty obligations upheld</header><text>The amendments made by this section shall not apply to the extent contrary to any treaty obligation of the United States.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

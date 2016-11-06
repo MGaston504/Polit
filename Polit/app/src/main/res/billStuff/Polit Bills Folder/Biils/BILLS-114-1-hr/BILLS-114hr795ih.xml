@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H11819CE103E64FB38A6D2944379E8659" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 795 IH: Medicare Payment Rate Disclosure Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 795</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150205">February 5, 2015</action-date>
+			<action-desc><sponsor name-id="H001058">Mr. Huizenga of Michigan</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to make publicly available on the official Medicare
+			 Internet site Medicare payment rates for frequently reimbursed hospital
+			 inpatient procedures, hospital outpatient procedures, and physicians’
+			 services.</official-title>
+	</form>
+	<legis-body id="H8BF096D0D7EF4FA086C824D550B81615" style="OLC">
+ <section id="H8A597A58CDDE40F9A5929C19D7A9359F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medicare Payment Rate Disclosure Act of 2015</short-title></quote>.</text> </section><section id="H86FE27CF430B4343B657C25EDD0118AE"><enum>2.</enum><header>Public Internet availability of Medicare payment rates for frequently reimbursed procedures and services</header><text display-inline="no-display-inline">Title XVIII of the Social Security Act is amended by adding at the end the following new section:</text>
+			<quoted-block id="H6AA0EC2E1F39481BB29F7FD9BBB55047" style="OLC">
+				<section id="H44A73287695F445C8F1A97BCECFF2127"><enum>1899C.</enum><header>Public Internet availability of Medicare payment rates for frequently reimbursed procedures and
+			 services</header>
+					<subsection id="H90BFAE17BB1D4EC2AB8EA3FD8EC4902B"><enum>(a)</enum><header>In general</header>
+ <paragraph id="HA694B5CD0390406BAC61060B38327F1F"><enum>(1)</enum><header>Initial posting</header><text>During the initial period beginning on a date not later than 120 days after the date of the enactment of this section and ending on the date that is 240 days after such starting date, the Secretary shall make publicly available on the official Medicare Internet site the following:</text>
+ <subparagraph id="H13036DCD8C094FCA969D12489F9B8416"><enum>(A)</enum><header>Payment rates for hospital inpatient procedures</header><text>For each procedure selected under subsection (b)(1)(A)(i) and for each Metropolitan Statistical Area or other payment area used for purposes of section 1886(d), the average rate of payment under such section for the procedure, determined without regard to the application of any deduction or coinsurance amount or any adjustment under subparagraph (B), (D), (F), or (G) of paragraph (5) of such section.</text>
+ </subparagraph><subparagraph id="H93888B6C373F436CB2EF3322042C9F7A"><enum>(B)</enum><header>Payment rates for hospital outpatient procedures</header><text>For each procedure selected under subsection (b)(1)(A)(ii) and for each county or other payment area used for purposes of section 1833(t), the average rate of payment under such section for the procedure, determined without regard to the application of any deductible or coinsurance.</text>
+ </subparagraph><subparagraph id="HDBC7632318DA486A9C26D9BFEFC35E61"><enum>(C)</enum><header>Physician payment rates for physicians’ services</header><text>For each physicians’ service selected under subsection (b)(1)(A)(iii) and for each fee schedule area under section 1848, the average payment amount determined under the fee schedule under such section for the service, determined without regard to the application of any deductible or coinsurance.</text>
+ </subparagraph><subparagraph id="H6FB40E5164A54961A4FF0820811D969C"><enum>(D)</enum><header>Period for which payment rates are applicable</header><text>A description of the period for which each payment rate or amount under subparagraph (A), (B), or (C) is applicable.</text>
+ </subparagraph><subparagraph id="H0D00B746E197498295948388F7E43A7D"><enum>(E)</enum><header>Services included in procedures</header><text>A description of the items and services included in each procedure selected under clauses (i) and (ii) of subsection (b)(1)(A).</text>
+ </subparagraph><subparagraph id="HDE6976FDCEDF4E039A16398D037772E5"><enum>(F)</enum><header>Notice</header><text>A statement that the average payment rates and average payment amounts described in subparagraphs (A) through (C) are only applicable to the Medicare program under this title and may not be available for an individual who is not purchasing such a procedure or service under such program.</text>
+ </subparagraph></paragraph><paragraph id="H267F67382F1D4413BE5B35560FD36612"><enum>(2)</enum><header>Posting of expanded selection</header><text>During the period beginning on the date that is one day after the last day of the initial period described in paragraph (1), the Secretary shall make publicly available on the official Medicare Internet site the following:</text>
+ <subparagraph id="HACB98ECB99EC48FAB7FCEE8A2CDECD56"><enum>(A)</enum><header>Payment rates for hospital inpatient procedures</header><text>For each procedure selected under subsection (b)(1)(B)(i) and for each Metropolitan Statistical Area or other payment area used for purposes of section 1886(d), the average rate of payment described in paragraph (1)(A) for the procedure.</text>
+ </subparagraph><subparagraph id="HF1473B71C03843AB9DE063B2458535A9"><enum>(B)</enum><header>Payment rates for hospital outpatient procedures</header><text>For each procedure selected under subsection (b)(1)(B)(ii) and for each county or other payment area used for purposes of section 1833(t), the average rate of payment described in paragraph (1)(B) for the procedure.</text>
+ </subparagraph><subparagraph id="H39019BDD01DB43F9A9876BFEED3540A0"><enum>(C)</enum><header>Physician payment rates for physicians’ services</header><text>For each physicians’ service selected under subsection (b)(1)(B)(iii) and for each fee schedule area under section 1848, the average payment amount described in paragraph (1)(C) for the physicians’ service.</text>
+ </subparagraph><subparagraph id="HBF221358DE6C45CB9367BFEC0AD74629"><enum>(D)</enum><header>Period for which payment rates are applicable</header><text>A description of the period for which each payment rate or amount under subparagraph (A), (B), or (C) is applicable.</text>
+ </subparagraph><subparagraph id="H3AFAEB3D6F86461DB864DA21A34B84E5"><enum>(E)</enum><header>Services included in procedures</header><text>A description of the items and services included in each procedure selected under clauses (i) and (ii) of subsection (b)(1)(B).</text>
+ </subparagraph><subparagraph id="HD8FBF08E04A94145A90AF25C8FF6CFB4"><enum>(F)</enum><header>Notice</header><text>A statement that the average payment rates and average payment amounts described in subparagraphs (A) through (C) are only applicable to the Medicare program under this title and may not be available for an individual who is not purchasing such a procedure or service under such program.</text>
+							</subparagraph></paragraph></subsection><subsection id="HC4DF918029A8459EBAC832606714AC84"><enum>(b)</enum><header>Selection of procedures and services</header>
+						<paragraph id="H64CB7FF7F81A4D69AA7234CB8CB3BD8B"><enum>(1)</enum><header>In general</header>
+ <subparagraph id="H8F71774530634197A518B4C15714AA83"><enum>(A)</enum><header>Initial selection</header><text>For purposes of subsection (a)(1) and based on the most recent national data available, the Secretary shall select the following:</text>
+ <clause id="H2FE4735E397A4A1AAB4308E0FF64873B"><enum>(i)</enum><text>At least the 30 hospital inpatient procedures for which payment is most frequently provided under section 1886(d).</text>
+ </clause><clause id="HB6049AC538534C759DE586A390F2C7B5"><enum>(ii)</enum><text>At least the 30 hospital outpatient procedures for which payment is most frequently provided under section 1833(t).</text>
+ </clause><clause id="H35552D55615248ABB2883FD187CA61AE"><enum>(iii)</enum><text>At least the 30 physicians’ services (as defined in section 1861(q)) for which payment is most frequently provided under section 1848.</text>
+ </clause></subparagraph><subparagraph id="HA5A38940E3394CF5AA25476BFA7BF9A6"><enum>(B)</enum><header>Expanded selection</header><text>For purposes of subsection (a)(2) and based on the most recent national data available, the Secretary shall select the following:</text>
+ <clause id="HD792CBDB52B84D198BB260E660E8275B"><enum>(i)</enum><text>At least the 100 hospital inpatient procedures for which payment is most frequently provided under section 1886(d).</text>
+ </clause><clause id="H9324584110D94832A42D5874F7E7440F"><enum>(ii)</enum><text>At least the 100 hospital outpatient procedures for which payment is most frequently provided under section 1833(t).</text>
+ </clause><clause id="H4659159AE927428AAB3BB57F08EF9F06"><enum>(iii)</enum><text>At least the 100 physicians’ services (as defined in section 1861(q)) for which payment is most frequently provided under section 1848.</text>
+ </clause></subparagraph></paragraph><paragraph id="H17829CAF01D84CAE81F3BB63125C4FE0"><enum>(2)</enum><header>Updating expanded selection</header><text>The Secretary shall periodically update the procedures and services selected under paragraph (1)(B).</text>
+ </paragraph><paragraph id="HDC44C76666CA4BB2AA7FD4F60045410F"><enum>(3)</enum><header>Further expansion of selection</header><text>The Secretary shall expand the number of procedures and services selected under paragraph (1)(B) to include as many procedures and services as may be useful for an individual not entitled to benefits under part A or enrolled under part B in the purchase of such procedures and services.</text>
+ </paragraph></subsection><subsection id="HCB366C2FA06D4268A7D19543E4F68E54"><enum>(c)</enum><header>Authority To post additional information</header><text>The Secretary may make publicly available on the official Medicare Internet site such information on the payment rate or payment amount under this title for a procedure, item, or service not selected under subsection (b) as may be useful for an individual not entitled to benefits under part A or enrolled under part B in the purchase of the procedure, item, or service. To the extent practicable, such information shall be provided for each payment area involved.</text>
+					</subsection><subsection id="H4F6CAD7B965847EEADBD5ADC7CF739EB"><enum>(d)</enum><header>Administrative provisions</header>
+ <paragraph id="H9B402B0B1DDC4C2B93034325B37723A6"><enum>(1)</enum><header>Use of most recent national data</header><text>The information described in paragraph (1) of subsection (b) and subsection (c) shall be based on the most recent national data available.</text>
+ </paragraph><paragraph id="H75417F519BC948EA9A320EB187BAD1E6"><enum>(2)</enum><header>Accessibility by zip code</header><text>Such information for an applicable payment area shall be accessible by any zip code included in such area.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

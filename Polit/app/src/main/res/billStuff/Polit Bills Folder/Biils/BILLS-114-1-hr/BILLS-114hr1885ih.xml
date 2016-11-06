@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0A12913B8FC7449491A06BAA7FB49459" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1885 IH: Securing Access to Rural Postal Services Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1885</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150416">April 16, 2015</action-date> 
+<action-desc><sponsor name-id="S001172">Mr. Smith of Nebraska</sponsor> (for himself and <cosponsor name-id="G000565">Mr. Gosar</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend title 39, United States Code, to cap rural post office closures at no more than 5 percent of total closures in any given year, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H000266CAE3EC4D97A8A9122FC5912357" style="OLC"> 
+<section id="H1266C0C361734654A48BF4BC918CEF75" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Securing Access to Rural Postal Services Act of 2015</short-title></quote>.</text></section> <section id="HA9F092FBC398409192BBCD89B625DBD5" section-type="subsequent-section"><enum>2.</enum><header>Treatment of closures and consolidations</header> <subsection id="H5C6B036E89B44FCD9A2D0A796B53BE10"><enum>(a)</enum><header>Rural post office annual closure limitation</header> <paragraph id="H40D37D2E581949238D1BB0DBDDCBC683"><enum>(1)</enum><header>In general</header><text>Section 404a(a) of title 39, United States Code, is amended—</text>
+<subparagraph id="HBE578C5579384ED7AD1E67DAD4B610C4"><enum>(A)</enum><text>in paragraph (2), by striking <quote>or</quote> at the end;</text></subparagraph> <subparagraph id="HA56C7E90197E4A8C92E4C5E5DD4F6FA7"><enum>(B)</enum><text>in paragraph (3), by striking the period and inserting <quote>; or</quote>; and</text></subparagraph>
+<subparagraph id="HBE563AE3734B47B4A55AA6B1D01AE519"><enum>(C)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="HC780DC27C9134B49BD0D4EC6DA15A907" style="USC"> <paragraph id="H23817AF3A3894A398B5330D7263FF11B"><enum>(4)</enum><text display-inline="yes-display-inline">in any calendar year, close, consolidate, or suspend the operations of more than 5 percent of the postal facilities that—</text>
+<subparagraph id="H78E328C55A0F4A24ACC0055792A6133F"><enum>(A)</enum><text>were operating as of the first day of such calendar year; and</text></subparagraph> <subparagraph id="HA28E5DA5322F48B4A44F029429F3CCD1"><enum>(B)</enum><text>were within the K or L cost ascertainment grouping as of June 23, 2011.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subparagraph></paragraph>
+<paragraph id="H9E2168DE599E40F9B597DD4CA7C7DFAF"><enum>(2)</enum><header>Definition</header><text>Section 404a of title 39, United States Code, is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H02D583D4B7DC4962A8E27AE5C0ED09DC" style="USC"> <subsection id="H6D748F4D1EB34CD5A3E12222882E532B"><enum>(d)</enum><text display-inline="yes-display-inline">For purposes of subsection (a)(4), the term <term>postal facility</term> means a post office, post office branch, post office classified station, or other facility which is operated by the Postal Service, and the primary function of which is to provide retail postal services.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection>
+<subsection id="H2D0F41FE152E49B28A8BE325CB9164D7"><enum>(b)</enum><header>Alternative postal access choice</header><text>Section 404(d) of title 39, United States Code, is amended by striking all that precedes paragraph (2) and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="H08248612A13E4DB1804C9FC3AC987289" style="USC"> <subsection id="H9A4AC63F23A544D0A36CC05819FC51BA"><enum>(d)</enum> <paragraph commented="no" display-inline="yes-display-inline" id="H437ED8E7BC26402EBE10D0D3687DE154"><enum>(1)</enum><text display-inline="yes-display-inline">The Postal Service, prior to making a determination under subsection (a)(3) as to the necessity for the closing or consolidation or any post office, shall—</text>
+<subparagraph id="H558CCAF4DAB2473D93D02F565AF441F6" indent="up1"><enum>(A)</enum><text display-inline="yes-display-inline">provide adequate notice of its intention to close or consolidate such post office at least 60 days prior to the proposed date of such closing or consolidation to postal customers served by such post office;</text></subparagraph> <subparagraph id="H9C12FADDC82C450BA0AC636355D954B9" indent="up1"><enum>(B)</enum><text display-inline="yes-display-inline">conduct a nonbinding survey on the proposed closing or consolidation to allow postal customers served by such post office an opportunity to indicate their preference between or among—</text>
+<clause id="HBCB4DD957C3A4D8C9571DF5A49176B93"><enum>(i)</enum><text>the closing or consolidation; and</text></clause> <clause id="HFC0A638BBD804265ADAC57A0F885694E"><enum>(ii)</enum><text>1 or more alternative options; and</text></clause></subparagraph>
+<subparagraph id="HC6198326B6174B2CBF282F736B9930FA" indent="up1"><enum>(C)</enum><text display-inline="yes-display-inline">ensure that—</text> <clause id="HA930246CDBFB49D384033978CCF2447E"><enum>(i)</enum><text>should the closure or consolidation of a post office be deemed necessary, it shall be the policy of the Postal Service to provide alternative access to postal services to those served by the post office by—</text>
+<subclause id="HBB80E7CBC9194ECC80714AEF06B059FF"><enum>(I)</enum><text>the alternative option under subparagraph (B)(ii); or</text></subclause> <subclause id="HA2F38F35D6D54AF79201B8CCBC0864B4"><enum>(II)</enum><text>if more than one, the option under subparagraph (B)(ii) preferred by the greatest number of survey respondents; and</text></subclause></clause>
+<clause id="HF5ABC7F0BEDE4F5085DC053D56C37D84"><enum>(ii)</enum><text>if the Postal Service is unable to provide alternative access through the option described in clause (i) or if such option would be cost prohibitive, the Postal Service—</text> <subclause id="H9690CE0BB9D547D29DDE06BEE78FDB27"><enum>(I)</enum><text>may provide alternative access through a different means; and</text></subclause>
+<subclause id="H64F0F6EE4CAB4D8283B0A0F71E30C4BC"><enum>(II)</enum><text>shall provide written notice to postal customers served by the post office identifying and explaining why the option identified by clause (i) was not possible or cost prohibitive, as the case may be.</text></subclause></clause></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> </legis-body> </bill> 
+

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2112 IS: Walter Scott Notification Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-09-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2112</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150930">September 30, 2015</action-date>
+			<action-desc><sponsor name-id="S365">Mr. Scott</sponsor> (for himself and <cosponsor name-id="S153">Mr. Grassley</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require law enforcement agencies to report the use of lethal force, and for other purposes. </official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Walter Scott Notification Act of 2015</short-title></quote>.</text>
+ </section><section id="id6A52D5C8C8CD485C968950277E8B25E7"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act—</text> <paragraph commented="no" id="idC66682EC9D3544F2A73C40E5B5157E6A"><enum>(1)</enum><text display-inline="yes-display-inline">the term <term>law enforcement officer</term> has the meaning given the term in section 3673 of title 18, United States Code; and</text>
+ </paragraph><paragraph id="id40AF35CE26384CF4A61C4179C158F3BD"><enum>(2)</enum><text>the term <term>State</term> has the meaning given the term in section 901(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/42/3791">42 U.S.C. 3791(a)</external-xref>).</text>
+			</paragraph></section><section id="id7057B9203B994837B6238B2A366174E3"><enum>3.</enum><header>State information regarding use of lethal force by law enforcement officers</header>
+ <subsection id="idA7E3EA3B762A40CFA24731419A6A31B1"><enum>(a)</enum><header>In general</header><text>For each fiscal year in which a State receives funds for a program described in subsection (c), the State shall report to the Attorney General, on an annual basis and pursuant to guidelines established by the Attorney General, information regarding any discharge of a firearm by a law enforcement officer which results in the death of a civilian.</text>
+ </subsection><subsection id="id1A942DD0861640679B9CC569C323CC77"><enum>(b)</enum><header>Information required</header><text>The report required under subsection (a) shall contain information that, at a minimum, includes—</text> <paragraph id="id105c2a09cbdf44a1b0a75cfcd905bd96"><enum>(1)</enum><text>the number of decedents and the number of law enforcement officers who discharged a firearm;</text>
+ </paragraph><paragraph id="id0B4AFFD8C5AE455F8633ADFCFC84D66E"><enum>(2)</enum><text>the age, sex, race, and ethnicity of each decedent;</text> </paragraph><paragraph id="id97F6B10948A34D1E91DBD1C5EDD2D6AC"><enum>(3)</enum><text>any mental health issue of a decedent that was observed or reported;</text>
+ </paragraph><paragraph id="id5E08B8E2B2CD4013B4796F7D6808B189"><enum>(4)</enum><text>the age, sex, race, and ethnicity of each law enforcement officer;</text> </paragraph><paragraph id="id1646CD6DE6CD4554B6060A7B40EDF061"><enum>(5)</enum><text>a brief description of the event;</text>
+ </paragraph><paragraph id="id81dfbebe2c8d460a99e3e80e0e7d81d0"><enum>(6)</enum><text>the alleged criminal activity of each decedent prior to the use of force;</text> </paragraph><paragraph id="idFFD155ED3A04410596EEE6756B9066E1"><enum>(7)</enum><text>whether each decedent was armed and the type of weapon the decedent had;</text>
+ </paragraph><paragraph id="idF476A1D56C4043DB9165046DD41FF3B9"><enum>(8)</enum><text>a description of the weapon used by each law enforcement officer;</text> </paragraph><paragraph id="id288b9d14207e46cab8c495166f410dfb"><enum>(9)</enum><text>a brief description of any injury sustained by a law enforcement officer;</text>
+ </paragraph><paragraph id="idcde674163e31403f9569e778cccd19a1"><enum>(10)</enum><text>a brief description of the finding of the law enforcement agency as to whether the use of deadly force was justified or unjustified; and</text>
+ </paragraph><paragraph id="id7b7a04a763694df5a42b299a3ca1c2d6"><enum>(11)</enum><text>the case disposition, including whether—</text> <subparagraph id="id0E0087086C064DB39BFAC65635B42DE1"><enum>(A)</enum><text>the case was cleared by departmental review or referred to a prosecuting authority;</text>
+ </subparagraph><subparagraph id="id67914FF9C7434E6AADB55D00E35D27CC"><enum>(B)</enum><text>criminal charges were filed;</text> </subparagraph><subparagraph id="id503802E96E0A4122B3D981FA3E65A32A"><enum>(C)</enum><text>prosecution was declined;</text>
+ </subparagraph><subparagraph id="idCAFAAC78DDBA460AA9E5C82B2BDC7EA1"><enum>(D)</enum><text>a grand jury returned a No True Bill; or</text> </subparagraph><subparagraph id="id751F7F2BAF9A4BF3802ABBB5E0A65A8C"><enum>(E)</enum><text>a court entered an acquittal or a conviction.</text>
+					</subparagraph></paragraph></subsection><subsection id="id071EDC51C75B44989E3EFECF94174B3C"><enum>(c)</enum><header>Compliance</header>
+ <paragraph id="idB42DB62692B64C97B7BBC2D3F09265D7"><enum>(1)</enum><header>Ineligibility for funds</header><text>For any fiscal year beginning after the date of enactment of this Act, a State that fails to comply with subsection (a), shall be subject to a 10-percent reduction of the funds that would otherwise be allocated for that fiscal year to the State under subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/42/3750">42 U.S.C. 3750 et seq.</external-xref>), whether characterized as the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, the Local Government Law Enforcement Block Grants Program, the Edward Byrne Memorial Justice Assistance Grant Program, or otherwise.</text>
+ </paragraph><paragraph commented="no" id="id00C3812630864DF6B59F3D76FED62812"><enum>(2)</enum><header>Reallocation</header><text>Amounts not allocated under a program referred to in paragraph (1) to a State for failure to comply with subsection (a) shall be reallocated under the program to States that have complied with subsection (a).</text>
+ </paragraph></subsection><subsection id="idE08383C10BE34DA4ABE7AF087862C770"><enum>(d)</enum><header>Preferential consideration</header><text>Section 1701 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/42/3796dd">42 U.S.C. 3796dd</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idB7B2C212E61F4BF0A35C9E97E5B9D704" style="OLC">
+					<subsection id="id97AED797C926479FA46AE5D80C6A20C5"><enum>(l)</enum><header>Use of force reporting</header>
+ <paragraph id="id306E4C3856C64CF9984E7F1CD2C1ABA7"><enum>(1)</enum><header>Preferential consideration</header><text>For the first fiscal year beginning after the date of enactment of this subsection and the 3 fiscal years thereafter, the Attorney General may give preferential consideration, where feasible, to an application from an applicant in a State that is in full compliance with section 3(a) of the <short-title>Walter Scott Notification Act of 2015</short-title>.</text>
+ </paragraph><paragraph id="id514C645EF580438DBA726529B06B43F0"><enum>(2)</enum><header>Reduction of grant amounts</header><text>Beginning in the fifth fiscal year beginning after the date of enactment of this subsection, a State that fails to comply with section 3(a) of the <short-title>Walter Scott Notification Act of 2015</short-title> shall be subject to a 20-percent reduction of the funds that would otherwise be allocated for the fiscal year to the State under this part.</text>
+ </paragraph><paragraph id="id2565B17790B840F48B243C9CDC7D08FB"><enum>(3)</enum><header>Reallocation</header><text>Amounts not allocated under this part to a State for failure to comply with section 3(a) of the <short-title>Walter Scott Notification Act of 2015</short-title> shall be reallocated to States that have complied with such section.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="idd7e63d10880a4006ab3acad139a48bb5"><enum>(e)</enum><header>Independent audit and review</header><text>Not later than 1 year after the date of enactment of this Act, and each year thereafter, the Attorney General shall conduct an audit and review of the information provided under subsection (a) to determine whether each State receiving funds under section 505(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/42/3755">42 U.S.C. 3755(a)</external-xref>) or under part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/42/3796dd">42 U.S.C. 3796dd et seq.</external-xref>) unless the State has ensured, to the satisfaction of the Attorney General, that the State is in substantial compliance with the requirements of this section.</text>
+			</subsection><subsection id="ide4aa374cfe464cca855d45fbc8303430"><enum>(f)</enum><header>Public availability of data</header>
+ <paragraph id="ide3e111c6ba5e48099b5780eedd0dadcd"><enum>(1)</enum><header>In general</header><text>Not later than 1 year after the date of enactment of this Act, and each year thereafter, the Attorney General shall publish, and make available to the public, a report containing the data reported to the Attorney General under subsection (a).</text>
+ </paragraph><paragraph id="id251e015c7d884ec7acd54e099cf1ea1c"><enum>(2)</enum><header>Privacy protections</header><text>Nothing in this subsection shall be construed to supersede the requirements or limitations under section 552a of title 5, United States Code (commonly known as the <quote>Privacy Act of 1974</quote>).</text>
+ </paragraph></subsection><subsection id="idcb0d5c35aca645a3a5a232816df67dfb"><enum>(g)</enum><header>Guidance</header><text>Not later than 180 days after the date of enactment of this Act, the Attorney General, in coordination with the Director of the Federal Bureau of Investigation, shall issue guidance on best practices relating to establishing standard data collection systems that capture the information required to be reported under subsection (a), which shall include standard and consistent definitions for terms.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

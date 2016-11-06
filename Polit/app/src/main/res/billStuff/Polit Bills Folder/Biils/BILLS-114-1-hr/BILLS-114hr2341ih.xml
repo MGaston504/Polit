@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H109926FC3B074836BADBA505646EF8FB" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2341 IH: No Adding, No Padding Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2341</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150514">May 14, 2015</action-date> 
+<action-desc><sponsor name-id="S001180">Mr. Schrader</sponsor> (for himself, <cosponsor name-id="R000585">Mr. Reed</cosponsor>, <cosponsor name-id="L000579">Mr. Lowenthal</cosponsor>, <cosponsor name-id="C000754">Mr. Cooper</cosponsor>, <cosponsor name-id="R000587">Mr. Ribble</cosponsor>, <cosponsor name-id="Y000064">Mr. Young of Indiana</cosponsor>, <cosponsor name-id="D000613">Mr. Dold</cosponsor>, <cosponsor name-id="B001286">Mrs. Bustos</cosponsor>, <cosponsor name-id="P000608">Mr. Peters</cosponsor>, <cosponsor name-id="N000127">Mr. Nolan</cosponsor>, <cosponsor name-id="C001106">Mr. Costello of Pennsylvania</cosponsor>, <cosponsor name-id="J000290">Ms. Jenkins of Kansas</cosponsor>, <cosponsor name-id="D000619">Mr. Rodney Davis of Illinois</cosponsor>, <cosponsor name-id="G000571">Ms. Gabbard</cosponsor>, and <cosponsor name-id="C001077">Mr. Coffman</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBU00">Committee on the Budget</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend title 31, United States Code, to provide that the President’s annual budget submission to Congress list the current fiscal year spending level for each proposed program and a separate amount for any proposed spending increases, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H4A51AC75519A4746BEB8A5523F286E77" style="OLC"> 
+<section id="HCFAF208AF7D7448F8B34C32A1ADAACF9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Adding, No Padding Act</short-title></quote>. </text></section> <section id="H8100299ACAAD4509B7540F60C40DDB46"><enum>2.</enum><header>Current service level budgeting amendments</header> <subsection id="H59B4688CC96F4146AC4F75E26DC54E3A"><enum>(a)</enum><header>President’s budget submission</header><text display-inline="yes-display-inline">Section 1105 of title 31, United States Code, is amended as follows:</text> 
+<paragraph id="H10EDF037C09149F0BB13F2CC1F01A2C4"><enum>(1)</enum><text>In subsection (a)—</text> <subparagraph id="H543F95AA4BE2412F906F74FA89869B93"><enum>(A)</enum><text>by striking <quote>(37) the list</quote> and inserting <quote>(39) the list</quote>; and</text></subparagraph> 
+<subparagraph id="H70C4821E806043B8A483452C9965AD52"><enum>(B)</enum><text>by adding at the end the following:</text> <quoted-block style="USC" id="H0B436A47E09F4DC79F3246DC48000195" display-inline="no-display-inline"> <paragraph id="H69FA3CFF4D444DEEB3E5E9313FD64E72"><enum>(40)</enum><text display-inline="yes-display-inline">a list of each program, and the proposed funding level for such program, that will be a one-time expense for the fiscal year for which the budget is submitted.</text></paragraph> 
+<paragraph id="HCCB3112E217346E29FB0DEA9E45E30EF"><enum>(41)</enum><text display-inline="yes-display-inline">in addition to the performance standards requirements of paragraph (28), a proposal, by budget function and agency, for spending reductions in spending for each of the 4 fiscal years after the fiscal year for which the budget is submitted.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subparagraph></paragraph> <paragraph id="H3C97DA98C17F477EBA6C07F2A42EAC51"><enum>(2)</enum><text>By adding at the end the following:</text> 
+<quoted-block style="USC" id="H15312351716042D4829EEBEB1314C537" display-inline="no-display-inline"> 
+<subsection id="H6F98271A36004A98A47C1145ECD14C71"><enum>(i)</enum> 
+<paragraph id="HB9D5132B1BA44A348C8B9AE1260A9501" display-inline="yes-display-inline"><enum>(1)</enum><text>Notwithstanding any other provision of this chapter, with respect to each item in the budget submitted under this section that is being conducted in the current fiscal year, the President shall provide the following:</text> <subparagraph id="H9C0470631E4A4896AE6AEDE45B5B97B6" indent="up1"><enum>(A)</enum><text>The amount appropriated or otherwise made available for such item in such year.</text></subparagraph> 
+<subparagraph id="H5C318CB1F6FA4290BA421D8581A98A42" indent="up1"><enum>(B)</enum><text>The amount (if any) of a proposed adjustment in the funding level for such item and the justification for such change.</text></subparagraph></paragraph> <paragraph id="H0FB7C8D485EB45169824952F9E91CE25" indent="up1"><enum>(2)</enum><text>If the President proposes an adjustment under paragraph (1)(B) that will result in an increase in funding with respect to an item in the budget, the President shall include with such proposal the following:</text> 
+<subparagraph id="HB4AB69DC019E4F888D0DC101A60AC418"><enum>(A)</enum><text>The amount of such adjustment which is a result of inflation.</text></subparagraph> <subparagraph id="HF1EA29B10A934181AE8326237B45F71F"><enum>(B)</enum><text>The amount of such adjustment that is a result of an increase in salaries or benefits for employees.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="H803B0A6EFB334004BCF425EABD96E14F"><enum>(b)</enum><header>Current programs and activities estimates</header><text display-inline="yes-display-inline">Section 1109 of title 31, United States Code, is amended as follows:</text> <paragraph id="H673716141B07445CA94DECE4C606F9F1"><enum>(1)</enum><text>In subsection (a)—</text> 
+<subparagraph id="HD263FC92E1F24750A6EAC504081677F7"><enum>(A)</enum><text display-inline="yes-display-inline">in the first sentence, by striking <quote>were carried</quote> and all that follows through <quote>change in policy</quote> and inserting <quote>received the same amount of budget authority as provided in the current fiscal year</quote>; and </text></subparagraph> <subparagraph id="HC22305DF055542B8B6A7CE234D36AFFC"><enum>(B)</enum><text>in the third sentence, by striking <quote>The President</quote> and inserting <quote>Consistent with the requirements of subsection (c), the President</quote>.</text></subparagraph></paragraph> 
+<paragraph id="H8EDF464D3CAD42D2BBADF74E62C138CA"><enum>(2)</enum><text>By adding at the end the following:</text> <quoted-block style="USC" id="HE50A557A6DE9421695FA552D6D1817EB" display-inline="no-display-inline"> <subsection id="H090309BA646A4AF7805C5533744E0AA5"><enum>(c)</enum><text display-inline="yes-display-inline">With respect to each program listed under subsection (a), the President shall provide—</text> 
+<paragraph id="H2352D7840EEE4E4E939CD67C3C6A169E"><enum>(1)</enum><text>the amount appropriated or otherwise made available for such program in the current fiscal year; and </text></paragraph> <paragraph id="H967A044B7BC74F0F9E6AC71AC5ABB4FC"><enum>(2)</enum><text>a separate amount (if any) of the expected increase in the following fiscal year for such program due to inflation, pay increases, or benefit increases.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section> 
+</legis-body> 
+</bill> 
+
+

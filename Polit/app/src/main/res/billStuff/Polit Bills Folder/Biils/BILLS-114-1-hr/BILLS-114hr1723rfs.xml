@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Referred-in-Senate" bill-type="olc" dms-id="HE50A7C0714AB4E21A5423AD2DBF890A3" public-private="public" stage-count="1">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1723 : Small Company Simple Registration Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IIB</distribution-code>
+		<congress display="yes">114th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>H. R. 1723</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action><action-date date="20150715">July 15, 2015</action-date><action-desc>Received; read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc></action><legis-type>AN ACT</legis-type>
+		<official-title display="yes">To direct the Securities and Exchange Commission to revise Form S–1 so as to permit smaller
+			 reporting companies to use forward incorporation by reference for such
+			 form.</official-title>
+	</form>
+	<legis-body id="HF3E9C01249634132A03EBEADA218F5F2" style="OLC">
+ <section id="H611CCC2965A9410D9290963C2D8FFA6F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Company Simple Registration Act of 2015</short-title></quote>.</text> </section><section commented="no" id="HE60B099665984148B15E3C22410E47CC"><enum>2.</enum><header>Forward incorporation by reference for Form S–1</header><text display-inline="no-display-inline">Not later than 45 days after the date of the enactment of this Act, the Securities and Exchange Commission shall revise Form S–1 so as to permit a smaller reporting company (as defined in section 230.405 of title 17, Code of Federal Regulations) to incorporate by reference in a registration statement filed on such form any documents that such company files with the Commission after the effective date of such registration statement.</text>
+		</section></legis-body>
+	<attestation><attestation-group><attestation-date chamber="House" date="20150714">Passed the House of Representatives July 14, 2015.</attestation-date><attestor display="yes">Karen L. Haas,</attestor><role>Clerk</role></attestation-group></attestation>
+</bill>
+
+

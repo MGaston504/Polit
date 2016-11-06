@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2365 IS: Protecting American Jobs Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-12-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2365</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151208">December 8, 2015</action-date>
+			<action-desc><sponsor name-id="S282">Mr. Nelson</sponsor> (for himself and <cosponsor name-id="S261">Mr. Sessions</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Immigration and Nationality Act to protect American jobs, and for other purposes</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting American Jobs Act</short-title></quote>.</text>
+		</section><section id="idA2FB9F4CED2A4F26812B3886D62B3255"><enum>2.</enum><header>Numerical limitation on nonimmigrant visas</header>
+ <subsection id="idC4B62B41B7BE4EF1A3DA5314059DAD7A"><enum>(a)</enum><header>Reduction of numerical limitation</header><text>Section 214(g)(1)(A)(vii) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1184">8 U.S.C. 1184(g)(1)(A)(vii)</external-xref>) is amended by striking <quote>65,000</quote> and inserting <quote>50,000</quote>.</text>
+ </subsection><subsection id="id8253c0b73cb3456282bf022468c79b4a"><enum>(b)</enum><header>Priority for admission</header><text>Section 214(g) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1184">8 U.S.C. 1184(g)</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id604aee9c4b1b486d964dcfbe051b4f3f" style="OLC">
+ <paragraph id="idebcb81b533ef414487b5a111f31fe260" indent="up1"><enum>(12)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="idBA18600EC8C34CEABF9BE1D87CB7311D"><enum>(A)</enum><text>If for a fiscal year petitions are filed seeking a number of nonimmigrant workers under section 101(a)(15)(H)(i)(b) that exceeds the numerical limitation set out in paragraph (1)(A) for such fiscal year, the Secretary of Homeland Security shall allocate the available visas for the petitions seeking such workers who will earn the highest wages.</text>
+ </subparagraph><subparagraph id="id7bc25b6dab774803812336c2f1e3b26d" indent="up1"><enum>(B)</enum><text>If for a fiscal year petitions are filed seeking a number of nonimmigrant workers under paragraph (5)(C) that exceeds the numerical limitation set out in such paragraph, the Secretary of Homeland Security shall allocate the available visas for the petitions seeking such workers who will earn the highest wages.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

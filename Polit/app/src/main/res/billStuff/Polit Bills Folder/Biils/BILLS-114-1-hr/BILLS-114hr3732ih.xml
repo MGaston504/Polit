@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H25A2215BB24A48C8879E09C0D03A879D" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3732 IH: Philanthropic Enterprise Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-10-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3732</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151009">October 9, 2015</action-date>
+			<action-desc><sponsor name-id="R000578">Mr. Reichert</sponsor> (for himself, <cosponsor name-id="L000557">Mr. Larson of Connecticut</cosponsor>, <cosponsor name-id="T000462">Mr. Tiberi</cosponsor>, <cosponsor name-id="N000015">Mr. Neal</cosponsor>, and <cosponsor name-id="P000594">Mr. Paulsen</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to exempt private foundations from the tax on excess
+			 business holdings in the case of certain philanthropic enterprises which
+			 are independently supervised, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H0D87FCE16C7D4826805693F0D2624215" style="OLC">
+ <section id="H378642A157A141CD813F993AD4BC6522" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Philanthropic Enterprise Act of 2015</short-title></quote>.</text> </section><section id="H6D16ACF4155E4B94B9E08D5C9FE91CB4"><enum>2.</enum><header>Exception from private foundation excess business holding tax for certain philanthropic business holdings</header> <subsection id="H657D24CBD14A4015B03D5A4DEE11EF2E"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/4943">Section 4943</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="HCC8AE879F8C74C2AA1D0C8FA55E2B345" style="OLC">
+					<subsection id="HF14249C402744743A823F53619D06875"><enum>(g)</enum><header>Exception for certain philanthropic business holdings</header>
+ <paragraph id="HECDA6A0306C94260808C7EE933E0C503"><enum>(1)</enum><header>In general</header><text>Subsection (a) shall not apply with respect to the holdings of a private foundation in any business enterprise which for the taxable year meets—</text>
+ <subparagraph id="H98D020640D5645AAA835EAC9F40706B1"><enum>(A)</enum><text>the exclusive ownership requirements of paragraph (2),</text> </subparagraph><subparagraph id="H56249B2931A9499CB4ECAE3B4A8B4B27"><enum>(B)</enum><text>the all profits to charity distribution requirement of paragraph (3), and</text>
+ </subparagraph><subparagraph id="HF614D96E279A433AA9109F820A869E31"><enum>(C)</enum><text>the independent operation requirements of paragraph (4).</text> </subparagraph></paragraph><paragraph id="HEB5E381707494B0AB8E80AEFB99AF774"><enum>(2)</enum><header>Exclusive ownership</header><text>The exclusive ownership requirements of this paragraph are met if—</text>
+ <subparagraph id="HD988CF5CD89245E1BCF4048EFF5B4D92"><enum>(A)</enum><text>all ownership interests in the business enterprise are held by the private foundation at all times during the taxable year, and</text>
+ </subparagraph><subparagraph id="H9AB66FF6546848A0B4A32A72ACA298A0"><enum>(B)</enum><text display-inline="yes-display-inline">all the private foundation’s ownership interests in the business enterprise were acquired under the terms of a will or trust upon the death of the testator or settlor, as the case may be.</text>
+							</subparagraph></paragraph><paragraph id="HE4903804CEF74FA8B38C2EB921A04FFD"><enum>(3)</enum><header>All profits to charity</header>
+ <subparagraph id="H4D9BE8EA797D4674AF63FCDD3DF92D8D"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">The all profits to charity distribution requirement of this paragraph is met if the business enterprise, not later than 120 days after the close of the taxable year, distributes an amount equal to its net operating income for such taxable year to the private foundation.</text>
+ </subparagraph><subparagraph id="H21AD2BAE8834487EBEC042BA435D6B82"><enum>(B)</enum><header>Net operating income</header><text>For purposes of this paragraph, the net operating income of any business enterprise for any taxable year is an amount equal to the gross income of the business enterprise for the taxable year, reduced by the sum of—</text>
+ <clause commented="no" id="H351D34FD409A4BD7A560E393FEEBDF94"><enum>(i)</enum><text>the deductions allowed by chapter 1 for the taxable year which are directly connected with the production of such income,</text>
+ </clause><clause id="HE54FF0DC9FA24139B43CB0BBB1167B01"><enum>(ii)</enum><text>the tax imposed by chapter 1 on the business enterprise for the taxable year, and</text> </clause><clause id="HD0018296DF00449DB04AAFF3F5C1DC8C"><enum>(iii)</enum><text display-inline="yes-display-inline">an amount for a reasonable reserve for working capital and other business needs of the business enterprise.</text>
+ </clause></subparagraph></paragraph><paragraph id="H3E5D8423ABE14BA3B0BA2D2B47010BEC"><enum>(4)</enum><header>Independent operation</header><text>The independent operation requirements of this paragraph are met if, at all times during the taxable year—</text>
+ <subparagraph id="H72AAA92478954959917FDF3DC8914467"><enum>(A)</enum><text>no substantial contributor (as defined in section 4958(c)(3)(C)) to the private foundation, or family member of such a contributor (determined under section 4958(f)(4)) is a director, officer, trustee, manager, employee, or contractor of the business enterprise (or an individual having powers or responsibilities similar to any of the foregoing),</text>
+ </subparagraph><subparagraph id="H83E725427C5B4A1F9C7F8A2814DAE6F8"><enum>(B)</enum><text display-inline="yes-display-inline">at least a majority of the board of directors of the private foundation are not—</text> <clause id="H9CAE4EB008E0413E9212CBDA390B8647"><enum>(i)</enum><text>also directors or officers of the business enterprise, or</text>
+ </clause><clause id="HF94AC5CF39144D02BEB58EB9442B2F3B"><enum>(ii)</enum><text>members of the family (determined under section 4958(f)(4)) of a substantial contributor (as defined in section 4958(c)(3)(C)) to the private foundation, and</text>
+ </clause></subparagraph><subparagraph id="H7B09503B10044FC98DA13DC9E168D9A2"><enum>(C)</enum><text display-inline="yes-display-inline">there is no loan outstanding from the business enterprise to a substantial contributor (as so defined) to the private foundation or a family member of such contributor (as so determined).</text>
+ </subparagraph></paragraph><paragraph id="H0473163E13154EBC9427ADA3D72B78C8"><enum>(5)</enum><header>Certain deemed private foundations excluded</header><text>This subsection shall not apply to—</text> <subparagraph id="H13441EB9DB7E41C1A46E42B766FF912C"><enum>(A)</enum><text>any fund or organization treated as a private foundation for purposes of this section by reason of subsection (e) or (f),</text>
+ </subparagraph><subparagraph id="HD997201EE99E49858F792530B0665F01"><enum>(B)</enum><text>any trust described in section 4947(a)(1) (relating to charitable trusts), and</text> </subparagraph><subparagraph id="HA9B78A1DBDE94B48AAC75F51A79B8E98"><enum>(C)</enum><text>any trust described in section 4947(a)(2) (relating to split-interest trusts).</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HAD783AE7CDFA464B8C0D86B848AEABD5"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2014.</text> </subsection></section><section id="H3A9CC97076DC4F1B85FB47A3A800BC23"><enum>3.</enum><header>Exception to unrelated business tax on specified payments from certain controlled entities</header> <subsection id="HCD34F8C73EBE490C8316116D77699E0C"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Paragraph (13) of <external-xref legal-doc="usc" parsable-cite="usc/26/512">section 512(b)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="HEF1A1539200B4F898C9AFFC8E62353EB" style="OLC">
+ <subparagraph id="H2EAE34A7087741759A04FD4BBFD235B2"><enum>(G)</enum><header>Subparagraph not to apply to payments from certain philanthropic controlled entities</header><text display-inline="yes-display-inline">Subparagraph (A) shall not apply to any payment not in excess of fair market value to a private foundation from an entity which is a business enterprise described in section 4943(g)(1) with respect to such foundation.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H29B9C86D57F04EB9BF7649E460915487"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2014.</text> </subsection></section></legis-body> </bill> 
+

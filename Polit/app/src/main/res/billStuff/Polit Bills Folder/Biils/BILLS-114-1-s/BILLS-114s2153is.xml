@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2153 IS: Provider Payment Sunshine Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-10-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2153</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151007">October 7, 2015</action-date>
+			<action-desc><sponsor name-id="S153">Mr. Grassley</sponsor> (for himself and <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XI of the Social Security Act to require applicable manufacturers to include
+			 information regarding payments made to physician assistants, nurse
+			 practitioners, and other advance practice nurses in transparency reports
+			 submitted under section 1128G of such Act.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Provider Payment Sunshine Act</short-title></quote>.</text>
+		</section><section id="idDAC44ACB8FC8489DB4371B6CE6F52CA4"><enum>2.</enum><header>Inclusion of information regarding payments to advance practice nurses in transparency reports</header>
+ <subsection id="id29CC3437AB414BB488851408A16EA662"><enum>(a)</enum><header>In general</header><text>Section 1128G(e)(6) of the Social Security Act (42 U.S.C. 1320a–7h(e)(6)) is amended—</text> <paragraph id="id0DF9B12BF7DC4CCBA3FF2D00AC58575E"><enum>(1)</enum><text>in subparagraph (A), by adding at the end the following new clauses:</text>
+					<quoted-block act-name="" id="idDD26480B5C8741B9B172AE8872C4CDF6" style="OLC">
+ <clause id="id554C9FCC5DB54DEA91829439B8853787"><enum>(iii)</enum><text>A physician assistant, nurse practitioner, or clinical nurse specialist (as such terms are defined in section 1861(aa)(5)).</text>
+ </clause><clause id="id6F71A4C75A0F40559EE6ADC061B35CC5"><enum>(iv)</enum><text>A certified registered nurse anesthetist (as defined in section 1861(bb)(2)).</text> </clause><clause id="id1958B2F1E4DB4090AA2BCF144DD05107"><enum>(v)</enum><text>A certified nurse-midwife (as defined in section 1861(gg)(2)).</text></clause><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="id542F87E18D944013989EDB385E7AFCAD"><enum>(2)</enum><text>in subparagraph (B), by inserting <quote>, physician assistant, nurse practitioner, clinical nurse specialist, certified nurse anesthetist, or certified nurse-midwife</quote> after <quote>physician</quote>.</text>
+ </paragraph></subsection><subsection id="id27AC2DAC676B449980A350803BDCB3A2"><enum>(b)</enum><header>Effective date</header><text>The amendments made by subsection (a) shall apply with respect to information required to be submitted under section 1128G of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320a-7h">42 U.S.C. 1320a–7h</external-xref>) on the 90th day of each calendar year beginning with 2017.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

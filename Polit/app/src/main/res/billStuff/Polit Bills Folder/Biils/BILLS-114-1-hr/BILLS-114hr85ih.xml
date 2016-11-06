@@ -1,0 +1,486 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB3C20282631A492094DFF36A29608897" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 85 IH: Terrorism Prevention and Critical Infrastructure Protection Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 85</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="J000032">Ms. Jackson Lee</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To codify the objective of Presidential Policy Directive 21 to improve critical infrastructure
+			 security and resilience, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H510243E69AD34E04AA475A778D5B1665" style="OLC">
+		<section id="H32E0E5769F49411886A06581FA0A4906" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Terrorism Prevention and Critical Infrastructure Protection Act of 2015</short-title></quote>.</text>
+		</section><section id="H12A9183F352349BFB506F7280271C6FB"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">The Congress finds the following:</text>
+			<paragraph id="H21AD1097B1654EFFA459D17AE1414017"><enum>(1)</enum><text>The Nation’s critical infrastructure provides the essential services that underpin American
+			 society. Proactive and coordinated efforts are necessary to strengthen and
+			 maintain secure, functioning, and resilient critical infrastructure,
+			 including assets, networks, and systems, that are vital to public
+			 confidence and the Nation’s safety, prosperity, and well-being.</text>
+			</paragraph><paragraph id="H50DF74DCEB2649D2ABFFE4DD524214DA"><enum>(2)</enum><text>The Nation’s critical infrastructure is diverse and complex. It includes distributed networks,
+			 varied organizational structures and operating models (including
+			 multinational ownership), interdependent functions and systems in both the
+			 physical space and cyber space, and governance constructs that involve
+			 multilevel authorities, responsibilities, and regulations. Critical
+			 infrastructure owners and operators are uniquely positioned to manage
+			 risks to their individual operations and assets, and to determine
+			 effective strategies to make them more secure and resilient.</text>
+			</paragraph><paragraph id="H5E07443DE2A544E8826F1312058DD93C"><enum>(3)</enum><text>Critical infrastructure must be secured against terrorist attacks, and must be designed and
+			 maintained in such a way as to withstand and recover quickly in the event
+			 of an attack. Achieving this will require integration with the national
+			 preparedness system across prevention, protection, mitigation, response,
+			 and recovery efforts.</text>
+			</paragraph></section><section id="H4AE351B8D68047F78C61048BB0529F57"><enum>3.</enum><header>Policy</header>
+			<subsection commented="no" id="H671A52BE425E4913A1270986C3F5FD12"><enum>(a)</enum><header>Security and resilience</header><text>The Secretary of Homeland Security shall work with critical infrastructure owners and operators and
+			 SLTTs to take proactive steps to manage risk and strengthen the security
+			 and resilience of the Nation’s critical infrastructure against terrorist
+			 attacks that could have a debilitating impact on national security,
+			 economic stability, public health and safety, or any combination thereof.
+			 Such efforts shall seek to reduce vulnerabilities, minimize consequences,
+			 identify and disrupt terrorism threats, and hasten response and recovery
+			 efforts related to critical infrastructure.</text>
+			</subsection><subsection commented="no" id="HDC5350A3E7914B13A11C9588F3F6AC9F"><enum>(b)</enum><header>International partners</header><text>The Secretary shall, in consultation with appropriate Federal agencies, establish terrorism
+			 prevention policy to engage with international partners to strengthen the
+			 security and resilience of domestic critical infrastructure and critical
+			 infrastructure located outside of the United States on which the Nation
+			 depends.</text>
+			</subsection><subsection commented="no" id="HFB6608D2BE3E42C5AB2B088D4DDF5D81"><enum>(c)</enum><header>Integrated, holistic approach</header>
+				<paragraph id="HF3C1A6B7AF034A39B1FFB0F9958F6BBC"><enum>(1)</enum><header>Research task force</header><text display-inline="yes-display-inline">The Secretary shall establish a research task force to conduct research into the best means and
+			 methods to address the security and resilience of critical infrastructure
+			 in an integrated, holistic manner to reflect critical infrastructure’s
+			 interconnectedness and interdependency.</text>
+				</paragraph><paragraph id="H32469D7445E243D9B084266199E9FCD1"><enum>(2)</enum><header>Duties of the research task force</header><text>The research task force shall provide the Secretary with—</text>
+					<subparagraph id="H3AA4595700B2416E9B6280849CCEE256"><enum>(A)</enum><text>a list of critical infrastructure;</text>
+					</subparagraph><subparagraph id="H1E4EC15A2EC740DAACD346B0C9F83D9B"><enum>(B)</enum><text>the degree the critical infrastructure is reliant upon other infrastructure;</text>
+					</subparagraph><subparagraph id="H95E2FFD4A096405EB615AC4C4DDEC7E6"><enum>(C)</enum><text>the cyber preparedness of suppliers, contractors, or service providers of critical infrastructure;</text>
+					</subparagraph><subparagraph id="HDB9AB6C2A54E407CB78108D730FA2666"><enum>(D)</enum><text>programs, projects, or professional development for persons responsible for the security and
+			 operation of critical infrastructure; and</text>
+					</subparagraph><subparagraph id="HE5A74344B7A4437A90A8EF4C94731CB0"><enum>(E)</enum><text>vulnerabilities and threats that are found in software systems, firewalls, applications, and
+			 methods of accessing systems.</text>
+					</subparagraph></paragraph><paragraph id="H6DF016DAECA4482A948BDED4137870B1"><enum>(3)</enum><header>Membership</header><text>The research task force shall consist of 19 members appointed by the Secretary. The Secretary shall
+			 appoint one member to represent each of—</text>
+					<subparagraph id="H89B501E2E47A4674A6492E28572564A0"><enum>(A)</enum><text>the National Institutes of Standards and Technology;</text>
+					</subparagraph><subparagraph id="HCCBA9F6407FE4CDFBA06A9A0B0932DFE"><enum>(B)</enum><text>the Association of Computing Machinery;</text>
+					</subparagraph><subparagraph id="H2C772F8AC3C243E998C1DE5C02F8C41F"><enum>(C)</enum><text display-inline="yes-display-inline">IEEE (formerly the Institute of Electrical and Electronic Engineers);</text>
+					</subparagraph><subparagraph id="H32A79E9658A742AB85C61A1862D22A82"><enum>(D)</enum><text>Carnegie Mellon Cylabs;</text>
+					</subparagraph><subparagraph id="HA9C29E90BB2A4653ADD3B9A9CAAD06AA"><enum>(E)</enum><text>the Edison Electric Institute;</text>
+					</subparagraph><subparagraph id="H849F6C7489A7491495FBAD4B9C690019"><enum>(F)</enum><text>the National Telecommunication and Information Administration;</text>
+					</subparagraph><subparagraph id="H986613E872F24043B2F1C5E2CDA6D983"><enum>(G)</enum><text>the Utilities Telecom Council;</text>
+					</subparagraph><subparagraph id="H07AF92DEE25F4015AC0205D56D996D98"><enum>(H)</enum><text>the US Oil and Gas Association;</text>
+					</subparagraph><subparagraph id="H08AAB83EE1B44112A63CD0617CF2848E"><enum>(I)</enum><text>the American Chemistry Council;</text>
+					</subparagraph><subparagraph id="HC52966815D254B6CABAEE358689CDF5F"><enum>(J)</enum><text>the American Fuel and Petrochemical Manufacturers;</text>
+					</subparagraph><subparagraph id="H3418BA1E67C44FABAB1A0AEA5BABDB37"><enum>(K)</enum><text>the Pharmaceutical Research Manufacturers of America; and</text>
+					</subparagraph><subparagraph id="H4A6D828C0D1B4E859F98D74046BB9817"><enum>(L)</enum><text display-inline="yes-display-inline">the National Oceanic and Atmospheric Administration.</text>
+					</subparagraph></paragraph><paragraph id="HCE25A94ACF5340FDBBA8C3709A4A0D79"><enum>(4)</enum><header>Report</header><text>The research task force shall provide a research report to the Secretary on its findings and
+			 recommendations 180 days after its establishment.</text>
+				</paragraph><paragraph id="H3A5B36965A234E1CBCE63AA10C652906"><enum>(5)</enum><header>Critical infrastructure defined</header><text>In this subsection, the term <term>critical infrastructure</term> means infrastructure of—</text>
+					<subparagraph id="HB7CE4086D433412C9A2054E9A34404E9"><enum>(A)</enum><text>energy capture, refining, manufacturing, and delivery systems;</text>
+					</subparagraph><subparagraph id="H9058187EEA124A61AF065C81BD28D906"><enum>(B)</enum><text>transportation and transportation systems;</text>
+					</subparagraph><subparagraph id="H06773A91B24945489956615FF4737444"><enum>(C)</enum><text>water and sewer capture, processing, and delivery systems;</text>
+					</subparagraph><subparagraph id="HB116BAEB10024FF7BC2A5A5D1F013A54"><enum>(D)</enum><text>healthcare systems, with respect to preventing threats to the quality and safety of medicines,
+			 medical devices, and delivery of life-saving health care services;</text>
+					</subparagraph><subparagraph id="H6AAD0239379E4794B788F772C2FAB735"><enum>(E)</enum><text>food production, processing, and delivery systems;</text>
+					</subparagraph><subparagraph id="H294F34F419444483A6DC1302E768A4B6"><enum>(F)</enum><text>virtual and physical communication systems;</text>
+					</subparagraph><subparagraph id="HACEA3CAF483F41D6A516BBB758118B45"><enum>(G)</enum><text>financial systems; and</text>
+					</subparagraph><subparagraph id="HBD7953D988C74EE7835906B2775671D8"><enum>(H)</enum><text>the electricity grid.</text>
+					</subparagraph></paragraph></subsection><subsection commented="no" id="H1F1A40B9CC6F40A39D3460276EF82159"><enum>(d)</enum><header>Strategic imperatives</header>
+				<paragraph id="H866DD4236EFE4C179BD20C41F89F9DFD"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary shall establish the Strategic Research Imperatives Program, which shall have the
+			 responsibility of leading the Department of Homeland Security’s Federal
+			 civilian agency approach to strengthen critical infrastructure security
+			 and resilience.</text>
+				</paragraph><paragraph id="H74E9C572D45C42C3A39BFF56C6D7CE37"><enum>(2)</enum><header>Duties</header><text>The duties of the program are the following:</text>
+					<subparagraph commented="no" id="H9CFC4BBFA8144441B296F86FA99347B5"><enum>(A)</enum><text>Collect data, refine and clarify functional relationships across the Federal Government to advance
+			 the national unity of effort to strengthen critical infrastructure,
+			 terrorism prevention, security, and resilience.</text>
+					</subparagraph><subparagraph commented="no" id="HDFB20181159C4C90BCDE9997CE845872"><enum>(B)</enum><text>Investigate effective measures that support information exchange by identifying baseline data and
+			 systems requirements for the Federal Government.</text>
+					</subparagraph><subparagraph commented="no" id="H704B4F56597F4656BDC4609543F2ACBA"><enum>(C)</enum><text>Recommend methods to implement an integration and analysis function to inform planning and
+			 operations decisions regarding the protection of critical infrastructure
+			 from terrorist threats.</text>
+					</subparagraph></paragraph></subsection><subsection id="H44D307748EF64EFD9B081EA5D07B6F36"><enum>(e)</enum><header>Guidance</header><text>The Secretary of Homeland Security shall make available research findings and guidance to Federal
+			 civilian department and agency heads (or their designees) for the
+			 identification, prioritization, assessment, remediation, and security of
+			 their respective internal critical infrastructure to assist in the
+			 prevention, mediation, and recovery from terrorism events.</text>
+			</subsection></section><section id="HCF5A365136BD41E48F0498F54E652556"><enum>4.</enum><header>Roles and responsibilities</header>
+			<subsection commented="no" id="H9C874254CA1945EF94C455A6ADD47352"><enum>(a)</enum><header>Unity of effort</header>
+				<paragraph id="H726B0E1DE7B040C9ABE8230BB510D873"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary shall establish and appoint a research working group that shall—</text>
+					<subparagraph id="HB1EBDCFF14E543E6B4F6E8A89B57D3FC"><enum>(A)</enum><text>study and make recommendations on how best to achieve and implement national unity of effort to
+			 protect against terrorism threats, through investigation of strategic
+			 guidance from existing laws, Presidential policy directives, and Executive
+			 orders; and</text>
+					</subparagraph><subparagraph id="HF88FD0FDAACD4FAABF75FDAC01CEF0CD"><enum>(B)</enum><text>investigate the security and resilience of the Nation’s information assurance components that
+			 provide protection against terrorism threats.</text>
+					</subparagraph></paragraph><paragraph id="H70104F6A1C5C4DDCA0A63C6F3CE1ADF0"><enum>(2)</enum><header>In-depth approach</header><text>The research working group shall also consider research by subject-matter experts on cyber security
+			 in-depth approaches that study the following, and make recommendations
+			 thereon to the Secretary:</text>
+					<subparagraph id="HADE4E6DEA9CB41D886484BB6FB309DD9"><enum>(A)</enum><text display-inline="yes-display-inline">The program of the Department of Homeland Security to secure Federal agencies and critical
+			 infrastructure to create resilient secure computer systems and networks.</text>
+					</subparagraph><subparagraph id="H31C28AB93B7540CB971AD6908DC1CF5D"><enum>(B)</enum><text display-inline="yes-display-inline">Cyber security preparedness of vendors, contractors, or nongovernment agency entities that provide
+			 computer-related support or services to critical infrastructure owners and
+			 operators as well as government agencies charged with securing them.</text>
+					</subparagraph><subparagraph id="HEF2FE230E8894D9BA367B334E7955968"><enum>(C)</enum><text>Investigation of the feasibility of developing industry- or sector-specific computer emergency
+			 rapid response teams.</text>
+					</subparagraph><subparagraph id="H2B9A59BE01144A99A2EC92F6204A9492"><enum>(D)</enum><text>The feasibility of the agency developing a guest visiting security researchers program to provide
+			 instruction to private sector and civilian agency personnel responsible
+			 for cyber security.</text>
+					</subparagraph></paragraph><paragraph id="HEC03F23ED1D1400CA121002BAC2655E9"><enum>(3)</enum><header>Membership</header><text>The research working group shall be comprised of individuals with expertise and day-to-day
+			 engagement from the sector-specific agency terrorism prevention,
+			 remediation, and response experts, as well as the specialized or support
+			 terrorism prevention capabilities of other Federal departments and
+			 agencies, as well as experts who engage in strong collaboration with
+			 critical infrastructure owners and operators and SLTTs, and academic
+			 researchers with in-depth knowledge in computing security.</text>
+				</paragraph></subsection><subsection id="H06A540E6AE3D4E1C8EE87D0291CEC812"><enum>(b)</enum><header>Secretary of homeland security</header>
+				<paragraph id="HC92DC7C16ED548FAAF9A5C39DD12623B"><enum>(1)</enum><header>In general</header><text>The Secretary of Homeland Security shall establish a research program to provide strategic
+			 guidance, promote a national unity of effort, and coordinate the overall
+			 Federal effort to promote the security and resilience of the Nation’s
+			 critical infrastructure from terrorist threats.</text>
+				</paragraph><paragraph id="HC97D192667F04DAC9E7C4A6F589E13F6"><enum>(2)</enum><header>Additional roles and responsibilities</header><text>Additional roles and responsibilities for the Secretary of Homeland Security include the following:</text>
+					<subparagraph id="HFE09E51FA971417BB37085825A6A5172"><enum>(A)</enum><text>Identify and prioritize critical infrastructure, considering physical and cyber threats,
+			 vulnerabilities, and consequences of terrorist attacks, in coordination
+			 with SSAs and other Federal departments and agencies.</text>
+					</subparagraph><subparagraph id="H9F307CA7C2584E52A11ABC2E6DDFAA13"><enum>(B)</enum><text>Maintain national terrorism critical infrastructure centers that shall provide a situational
+			 awareness capability that includes integrated, actionable information
+			 about potential terrorist trends, imminent terrorist threats, and the
+			 status of terrorist incidents that may impact critical infrastructure.</text>
+					</subparagraph><subparagraph id="H0C76E16DEFCA4064B0DFCE6787478C2A"><enum>(C)</enum><text>In coordination with SSAs and other Federal departments and agencies, provide analysis, expertise,
+			 and other technical assistance to critical infrastructure owners and
+			 operators on terrorism prevention security protocols and facilitate access
+			 to and exchange of information and intelligence necessary to strengthen
+			 the security and resilience of critical infrastructure.</text>
+					</subparagraph><subparagraph id="H8E6C3A82D1944F45A379FD45074F46AA"><enum>(D)</enum><text>Conduct comprehensive assessments of the vulnerabilities of the Nation’s critical infrastructure in
+			 coordination with the SSAs and in collaboration with SLTTs and critical
+			 infrastructure owners and operators.</text>
+					</subparagraph><subparagraph id="H1A57B75891654674BBE4194E1D9C7352"><enum>(E)</enum><text>Coordinate Federal Government responses to cyber or physical terrorism incidents affecting critical
+			 infrastructure consistent with statutory authorities.</text>
+					</subparagraph><subparagraph id="H14FF73B1BE094ED68605FBD9DD53EFD8"><enum>(F)</enum><text>Support the Attorney General and law enforcement agencies with their responsibilities to
+			 investigate and prosecute threats to and terrorist attacks against
+			 critical infrastructure.</text>
+					</subparagraph><subparagraph id="HB3AC19FA0F9B4432B5B88D278AC1B77A"><enum>(G)</enum><text>Coordinate with and utilize the expertise of SSAs and other appropriate Federal departments and
+			 agencies to map geospatially, image, analyze, and sort critical
+			 infrastructure by employing commercial satellite and airborne systems, as
+			 well as existing capabilities within other departments and agencies.</text>
+					</subparagraph><subparagraph id="HEEF71BE2C46D459F9B41327C51117F22"><enum>(H)</enum><text display-inline="yes-display-inline">Report annually to Congress on the status of national critical infrastructure efforts to meet the
+			 objectives of this section.</text>
+					</subparagraph></paragraph></subsection><subsection id="H8877ED5F61954F379FC7DDA3915EAAC9"><enum>(c)</enum><header>Sector-Specific agencies</header><text>Recognizing existing statutory or regulatory authorities of specific Federal departments and
+			 agencies, and leveraging existing sector familiarity and relationships,
+			 the head of each SSA shall carry out the following roles and
+			 responsibilities for their respective sectors:</text>
+				<paragraph id="HD3023175DF1649D99E09B90C50CE2469"><enum>(1)</enum><text display-inline="yes-display-inline">Serve as a day-to-day Federal interface for the dynamic prioritization and coordination of
+			 sector-specific activities related to cyber security critical
+			 infrastructure protection from terrorism.</text>
+				</paragraph><paragraph id="H1FF601D4625E43039AC8266E7D9B52F7"><enum>(2)</enum><text>Carry out terrorism incident management responsibilities consistent with statutory authority and
+			 other appropriate policies, directives, or regulations.</text>
+				</paragraph><paragraph id="H7CB5443BF4E2464E886668AB236D44B6"><enum>(3)</enum><text>Provide, support, or facilitate technical assistance and consultations for such sectors to identify
+			 vulnerabilities and help mitigate terrorism incidents, as appropriate.</text>
+				</paragraph></subsection><subsection id="H74E4BC23AD1349CCB3DC20A505C84F68"><enum>(d)</enum><header>Research and report on best practices for coordinating</header><text display-inline="yes-display-inline">The Secretary shall conduct research and submit a report to Congress not later than 180 days after
+			 the date of the enactment of this Act on the best practices for
+			 coordinating with civilian agencies, private sector critical
+			 infrastructure owners, local, State, tribal, and territorial agencies,
+			 other relevant Federal departments and agencies, where appropriate with
+			 independent regulatory agencies, and SLTTs, as appropriate, to implement
+			 this Act.</text>
+			</subsection></section><section id="H11FDE4132606485DB087E4635109854F"><enum>5.</enum><header>Strategic imperatives</header>
+			<subsection id="HF7D1AE16EFB647DA95F5C4E9DB150185"><enum>(a)</enum><header>Research and report on the most efficient means for information exchange by identifying baseline
+			 data and systems requirements for the federal government</header><text display-inline="yes-display-inline">The Secretary shall facilitate the timely exchange of terrorism threat and vulnerability
+			 information as well as information that allows for the development of a
+			 situational awareness capability for Federal civilian agencies during
+			 terrorist incidents. The goal of such facilitation is to enable efficient
+			 information exchange through the identification of requirements for data
+			 and information formats and accessibility, system interoperability, and
+			 redundant systems and alternate capabilities should there be a disruption
+			 in the primary systems.</text>
+			</subsection><subsection id="HEA410CCAAC0543DBB3628AE6EE63A468"><enum>(b)</enum><header>Implementation of an integration and analysis function To inform planning and operational decisions
+			 regarding the protection of critical infrastructure from terrorism events</header><text>The Secretary of Homeland Security shall implement an integration and analysis function for
+			 critical infrastructure that includes operational and strategic analysis
+			 on terrorism incidents, threats, and emerging risks. Such function shall
+			 include establishment by the Secretary of 2 national centers to accomplish
+			 the following:</text>
+				<paragraph id="H6EE62E9274B34389BA150EA6BA01EA08"><enum>(1)</enum><text>Implement a capability to collate, assess, and integrate vulnerability and consequence information
+			 with threat streams and hazard information to—</text>
+					<subparagraph id="HE85AABA2AC3E449499C7C5EC8C815F91"><enum>(A)</enum><text>aid in prioritizing assets and managing risks to critical infrastructure;</text>
+					</subparagraph><subparagraph id="HD586623D0C4C433683762C5DA4ADA586"><enum>(B)</enum><text>determine the staffing and professional need for cyber security critical infrastructure protection;</text>
+					</subparagraph><subparagraph id="HE5FAAD6ABBD641B8AE411E4FFE31EBF9"><enum>(C)</enum><text>determine the agency staffing needed and to support cyber security critical infrastructure
+			 protection and report the findings to Congress;</text>
+					</subparagraph><subparagraph id="H184EE2C6A18E4B7A8D7B6DF7168D7D55"><enum>(D)</enum><text>research and report findings regarding the feasibility of exploring terrorist incident correlations
+			 between critical infrastructure damage, destruction, and diminished
+			 capacity, and what occurs during certain natural disasters;</text>
+					</subparagraph><subparagraph id="H43BB58F2CA0F4D9CBA60C917D00AE40A"><enum>(E)</enum><text>anticipate interdependencies and cascading impacts related to cyber telecommunications failures;</text>
+					</subparagraph><subparagraph id="HEFD8FE8F5A05407AAC0CCE6DF9A4E2AB"><enum>(F)</enum><text>recommend security and resilience measures for critical infrastructure prior to, during, and after
+			 a terrorism event or incident;</text>
+					</subparagraph><subparagraph id="H4B6B30A125954EC9B8DEC34CD7858C49"><enum>(G)</enum><text>support post-terrorism incident management and restoration efforts related to critical
+			 infrastructure; and</text>
+					</subparagraph><subparagraph id="HB769C517C9F04243857ABE0A18EAE879"><enum>(H)</enum><text>make recommendations on preventing the collapse or serious degrading of the telecommunication
+			 capability in an area impacted by a terrorism event.</text>
+					</subparagraph></paragraph><paragraph id="HB34EB296CA43484BB2B37BBC3A7EB201"><enum>(2)</enum><text>Support the Department of Homeland Security’s ability to maintain and share, as a common Federal
+			 service, a near real-time situational awareness capability for critical
+			 infrastructure that includes actionable information about imminent
+			 terrorist threats, significant trends, and awareness of incidents that may
+			 affect critical infrastructure.</text>
+				</paragraph></subsection></section><section id="H55D18F44923046ADA11857B2F79EDEB7"><enum>6.</enum><header>Protection of privacy and civil liberties</header>
+			<subsection id="H92359E2ED5424CB0968D94E2B4EBAFEA"><enum>(a)</enum><header>In General</header><text display-inline="yes-display-inline">The Secretary of Homeland Security shall support greater terrorism cyber security information
+			 sharing by civilian Federal agencies with the private sector that protects
+			 constitutional privacy and civil liberties rights. The heads of Federal
+			 departments and agencies shall ensure that all existing privacy
+			 principles, policies, and procedures are implemented consistent with
+			 applicable law and policy and shall include senior agency officials for
+			 privacy in their efforts to govern and oversee terrorism program
+			 information sharing properly.</text>
+			</subsection><subsection id="H1856C60721C246BB83C3442A3BB166ED"><enum>(b)</enum><header>Ensuring independence of privacy officer</header>
+				<paragraph id="HFF0F3B53FF4F4079BE1EAE7856D6E2BA"><enum>(1)</enum><header>In general</header><text>Section 222 of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/142">6 U.S.C. 142</external-xref>) is amended—</text>
+					<subparagraph id="H39C71959531449A3A171D88B7BB45DE0"><enum>(A)</enum><text>in subsection (a), by striking so much as precedes paragraph (1) and inserting the following:</text>
+						<quoted-block display-inline="no-display-inline" id="H59E3BC38E11D4BA3BCBC3086AFB9243F" style="OLC">
+							<subsection id="H5C796E53A9154D959FBAEFB0B3E7C1F0"><enum>(a)</enum><header>In general</header><text>There shall be in the Department a Privacy Officer who shall be appointed by the President, by and
+			 with the advice and consent of the Senate. The Privacy Officer shall
+			 report directly to the Secretary, and shall have primary responsibility in
+			 the Department for privacy policy, including—</text></subsection><after-quoted-block>;</after-quoted-block></quoted-block>
+					</subparagraph><subparagraph id="H0B1A82D39BBD44FE804A4A4E576EE857"><enum>(B)</enum><text>by striking <quote>senior official appointed under subsection (a)</quote> each place it appears and inserting <quote>Privacy Officer</quote>;</text>
+					</subparagraph><subparagraph id="HCF175804967345359EE4C7D52FE52844"><enum>(C)</enum><text>in subsection (b)(1)(A), by striking <quote>senior official</quote> and inserting <quote>Privacy Officer</quote>;</text>
+					</subparagraph><subparagraph id="HA874FC9B5D70459E90C9FD74EE44872D"><enum>(D)</enum><text>in subsection (b)(1)(B), by striking <quote>senior official’s</quote> and inserting <quote>Privacy Officer’s</quote>;</text>
+					</subparagraph><subparagraph id="H8A431E037A6E4BCABD79275D13F2731D"><enum>(E)</enum><text>in subsection (b)(1)(C), by striking <quote>senior official</quote> and inserting <quote>Privacy Officer</quote>;</text>
+					</subparagraph><subparagraph id="H6901CD1F153E470D95154B1ED58A8C57"><enum>(F)</enum><text>in subsection (b)(1)(D), by striking <quote>senior official</quote> and inserting <quote>Privacy Officer</quote>;</text>
+					</subparagraph><subparagraph id="H2CFEA3EE5C284AE798A7EC8D4F709B26"><enum>(G)</enum><text>in subsection (c)(2)(B), by striking <quote>senior official</quote> each place it appears and inserting <quote>Privacy Officer</quote>;</text>
+					</subparagraph><subparagraph id="H4338C3430BBD4165818999FDED4BFA38"><enum>(H)</enum><text>in the heading for subsection (c)(2)(B)(iii), by striking <quote><header-in-text level="clause" style="OLC">by senior official</header-in-text></quote>;</text>
+					</subparagraph><subparagraph id="HE56D837A3FC94BC580EC1824F1E69006"><enum>(I)</enum><text>in subsection (d), by striking <quote>the senior official appointed under subsection (a) or transfers that senior official to another
+			 position or location within the Department</quote> and inserting <quote>individual appointed as Privacy Officer</quote>;</text>
+					</subparagraph><subparagraph id="HFCF516974EF148178FF06C2EC4B93C76"><enum>(J)</enum><text display-inline="yes-display-inline">in the heading for subsection (e), by striking “<header-in-text level="subsection" style="OLC">by Senior Official</header-in-text>”; and</text>
+					</subparagraph><subparagraph id="H189E744B196A416C845EF125B2A15672"><enum>(K)</enum><text>in subsection (e)—</text>
+						<clause id="H9EEF5577854A457898F50A752A8765DD"><enum>(i)</enum><text>by striking <quote>senior official</quote> and inserting <quote>Privacy Officer</quote>; and</text>
+						</clause><clause id="HB42A786387E343F298D049F258E8F06B"><enum>(ii)</enum><text>by striking <quote>senior official’s</quote> each place it appears and inserting <quote>Privacy Officer</quote>.</text>
+						</clause></subparagraph></paragraph><paragraph id="HF10AB51DC49A4327BFE17EE9E8296431"><enum>(2)</enum><header>Continued service</header><text>The senior official serving as the Privacy Officer of the Department of Homeland Security
+			 immediately before the enactment of this Act may continue to act as the
+			 Privacy Officer until a successor is appointed in accordance with the
+			 amendments made by this subsection.</text>
+				</paragraph></subsection></section><section id="H6EF332B235934D81A16BC681CC6E3105"><enum>7.</enum><header>Innovation and research and development</header><text display-inline="no-display-inline">The Secretary of Homeland Security may consult with other Federal departments and agencies to
+			 produce and submit to congressional oversight committees a report on how
+			 best to align federally funded research and development activities that
+			 seek to strengthen the security and resilience of the Nation’s critical
+			 infrastructure, including—</text>
+			<paragraph id="H685F3190215A465B9F9145DFB11CC096"><enum>(1)</enum><text>promoting research and development to enable the secure and resilient design and construction of
+			 critical infrastructure and more secure accompanying cyber technology;</text>
+			</paragraph><paragraph id="H7E25E88F6E524FF09ED26059CC53CBAB"><enum>(2)</enum><text>enhancing modeling capabilities to determine potential impacts on critical infrastructure of an
+			 incident or threat scenario, and cascading effects on other sectors;</text>
+			</paragraph><paragraph id="H4FBDEC6366FA42C2B4B34C3BD1372C72"><enum>(3)</enum><text>facilitating initiatives to incentivize cyber security investments and the adoption of critical
+			 infrastructure design features that strengthen all-hazards security and
+			 resilience; and</text>
+			</paragraph><paragraph id="H2DBD4158241244D8A36DC9C74E23D344"><enum>(4)</enum><text>prioritizing efforts to support the strategic guidance issued by the Secretary of Homeland
+			 Security.</text>
+			</paragraph></section><section id="HEEE23CF83E5045FF93D804FB55C6A9A6"><enum>8.</enum><header>Implementation by Department of Homeland Security</header>
+			<subsection id="HB9A8DAD0AD0247E5B0E1B5B10B9A1BE9"><enum>(a)</enum><header>Critical infrastructure terrorism prevention security and computer network resilience functional
+			 relationships</header>
+				<paragraph id="HA2FA63933AC74794B2394F62EC8551B1"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Within 120 days after the date of the enactment of this Act, the Secretary of Homeland Security
+			 shall conduct research and develop a description of the functional
+			 relationships within the Department of Homeland Security and across the
+			 Federal Government related to critical infrastructure security and
+			 resilience. The description shall—</text>
+					<subparagraph id="H8A4FFACBFF474F6988403AF41A9F253D"><enum>(A)</enum><text>include the roles and functions of the 2 national critical infrastructure centers and a discussion
+			 of the analysis and integration function;</text>
+					</subparagraph><subparagraph id="H0164AF0882734760984182126149CBF9"><enum>(B)</enum><text>serve as a roadmap for critical infrastructure owners and operators and SLTTs to navigate the
+			 Federal Government’s functions and primary points of contact assigned to
+			 those functions for critical infrastructure security and resilience
+			 against both physical and cyber threats; and</text>
+					</subparagraph><subparagraph id="H5FE4408814A949B8803468E7FA47CE08"><enum>(C)</enum><text>include identification of every contact within the Federal Government for critical infrastructure
+			 protection security and resilience, by company and industry.</text>
+					</subparagraph></paragraph><paragraph id="HA1C9336A107242249E4D20D75F458EE5"><enum>(2)</enum><header>Coordination</header><text>The Secretary shall prepare a report on efforts to coordinate this effort with the SSAs and other
+			 relevant Federal departments and agencies.</text>
+				</paragraph><paragraph id="HA1B7740F31DD44DF80A478152B407C0D"><enum>(3)</enum><header>Provision to president</header><text>The Secretary shall provide the description, supported by agency-conducted research, to the
+			 President through the Assistant to the President for Homeland Security and
+			 Counterterrorism, and to the relevant congressional homeland security
+			 oversight committees.</text>
+				</paragraph></subsection><subsection id="H14682D7CE64D42FABD8A47ADBAC419DA"><enum>(b)</enum><header>Evaluation of the existing public-Private partnership model</header>
+				<paragraph id="H0BFD2B89EE0E447B86255EC15CD1DA9F"><enum>(1)</enum><header>In general</header><text>Within 150 days after the date of the enactment of this Act, the Secretary of Homeland Security, in
+			 coordination with the SSAs, other relevant Federal departments and
+			 agencies, SLTTs, and critical infrastructure owners and operators, shall
+			 conduct an analysis of the existing public-private partnership model,
+			 evaluate its effectiveness, and recommend options for improving the
+			 effectiveness of the partnership in both the physical and cyber space.</text>
+				</paragraph><paragraph id="H4FD9B0F2E013474CABB3327FEEC7E611"><enum>(2)</enum><header>Contents</header><text>The research and recommendations shall—</text>
+					<subparagraph id="H0F2AC4E72A8D4FB792A4D2F8933EDAD1"><enum>(A)</enum><text>consider options to streamline or automate (or both) processes for collaboration and exchange of
+			 terrorism-related information and to minimize duplication of effort;</text>
+					</subparagraph><subparagraph id="HBDCBF482777943A49ACB23751B1B9F5A"><enum>(B)</enum><text>consider how the model for terrorism information exchange can be flexible and adaptable to meet the
+			 unique needs of individual critical infrastructure sectors while providing
+			 a focused, disciplined, and effective approach for the Federal Government
+			 to coordinate with the critical infrastructure owners and operators and
+			 with SLTTs governments; and</text>
+					</subparagraph><subparagraph id="HF2211B2B671D4F1D9DF0CEE91CAEEA18"><enum>(C)</enum><text>result in recommendations to enhance partnerships to be approved for implementation by the
+			 President.</text>
+					</subparagraph></paragraph></subsection><subsection id="HAB3D17C5AE8D41ACA6BEC4609A1659E7"><enum>(c)</enum><header>Identification of baseline data and systems requirements for the federal government To enable
+			 efficient information exchange</header>
+				<paragraph id="HA66C09706C834883B16D4E17F479C2BC"><enum>(1)</enum><header>In general</header><text>Within 18 months after the date of the enactment of this Act, the Secretary of Homeland Security,
+			 in coordination with the SSAs and other Federal departments and agencies,
+			 shall convene a team of researchers to identify baseline data and systems
+			 requirements—</text>
+					<subparagraph id="H00837126BB1646D7AD09779A1A9773FC"><enum>(A)</enum><text>to enable the efficient exchange of terrorism information and intelligence relevant to
+			 strengthening the security and resilience of critical infrastructure; and</text>
+					</subparagraph><subparagraph id="H830055ACB62A4DDD8A462B876342B4D7"><enum>(B)</enum><text>for sharing of data and interoperability of systems to enable the timely exchange of terrorism or
+			 terrorist threat data and information to secure critical infrastructure
+			 and make it more resilient.</text>
+					</subparagraph></paragraph><paragraph id="H28A4AA3DC10D4EE48FD35B2AC9C3F96B"><enum>(2)</enum><header>Experts included</header><text>The experts shall include representatives from—</text>
+					<subparagraph id="HB4D4735B97244EA6A65DC12DF02D1AC0"><enum>(A)</enum><text>those entities that routinely possess information important to critical infrastructure security and
+			 resilience;</text>
+					</subparagraph><subparagraph id="HD187827FF2514F0AB62EC4220E3FCC8A"><enum>(B)</enum><text>those entities that determine and manage information technology systems used to exchange
+			 information; and</text>
+					</subparagraph><subparagraph id="HEF9447872949477CBF0AFFFF1EE26BEF"><enum>(C)</enum><text>those entities responsible for the security of information being exchanged.</text>
+					</subparagraph></paragraph><paragraph id="H7F5F5ADFC3964D2EAD6E8EF779C39FF7"><enum>(3)</enum><header>Analysis</header><text>Analysis by such team of experts shall include—</text>
+					<subparagraph id="H0E5F55470C69453C929DC3F5AD5D64A9"><enum>(A)</enum><text>interoperability with critical infrastructure partners;</text>
+					</subparagraph><subparagraph id="HF89100F615FE429A8B23A9DC2D6D99C8"><enum>(B)</enum><text>identification of key data and the information requirements of key Federal, SLTT, and private
+			 sector entities;</text>
+					</subparagraph><subparagraph id="H86495FA4EC7F4405B16052F065ADFD1D"><enum>(C)</enum><text>availability, accessibility, and formats of data;</text>
+					</subparagraph><subparagraph id="H20121B1A1581449EA38DB635DB517905"><enum>(D)</enum><text>the ability to exchange various classifications of information;</text>
+					</subparagraph><subparagraph id="H7BB664A8DBEE46859E5DCE6A90428067"><enum>(E)</enum><text>the security of those systems to be used; and</text>
+					</subparagraph><subparagraph id="H0224438BDEE746BB97D47AC157AC1573"><enum>(F)</enum><text>appropriate protections for individual privacy and civil liberties.</text>
+					</subparagraph></paragraph><paragraph id="HBF6E76A06472470D9F6587FA5698C7D2"><enum>(4)</enum><header>Provision to president</header><text>The Secretary shall provide such analysis to the President through the Assistant to the President
+			 for Homeland Security and Counterterrorism, and to congressional homeland
+			 security oversight committees.</text>
+				</paragraph></subsection><subsection id="HE07660F9259E4A5485DAD6536B4C0927"><enum>(d)</enum><header>Develop a research program To inform the agency of a situational awareness capability for critical
+			 infrastructure</header><text>Within 2 years after the date of the enactment of this Act, the Secretary of Homeland Security
+			 shall demonstrate a near real-time situational awareness, research-based
+			 pilot project for critical infrastructure that—</text>
+				<paragraph id="HDA3D7C29F58D4DCCBAFF720E82F17EDE"><enum>(1)</enum><text>includes threat streams and all-hazards information as well as vulnerabilities;</text>
+				</paragraph><paragraph id="HBD35E87AB7D8436C8C605EE6618D28A5"><enum>(2)</enum><text>provides the status of critical infrastructure and potential cascading effects;</text>
+				</paragraph><paragraph id="H2E364D944EA84C48BA4A810AE5F2F80E"><enum>(3)</enum><text>supports decisionmaking;</text>
+				</paragraph><paragraph id="HC54E918C47A340148BDE77698DDE4210"><enum>(4)</enum><text>disseminates critical information that may be needed to save or sustain lives, mitigate damage, or
+			 reduce further degradation of a critical infrastructure capability
+			 throughout an incident; and</text>
+				</paragraph><paragraph id="HD044261FABDD4E8482EEB7F3710A02E3"><enum>(5)</enum><text>is available for and covers physical and cyber elements of critical infrastructure, and enables an
+			 integration of information as necessitated by an incident.</text>
+				</paragraph></subsection><subsection id="H6EAE55A6577E42D68503C29075A07A3A"><enum>(e)</enum><header>Update to national infrastructure protection plan</header>
+				<paragraph id="HFB997AD3BBB9452DA656A31407A8DF57"><enum>(1)</enum><header>In general</header><text>Within 18 months after the date of the enactment of this Act, the Secretary of Homeland Security
+			 shall provide to the President, through the Assistant to the President for
+			 Homeland Security and Counterterrorism and the congressional homeland
+			 security oversight committees, a research report that outlines the
+			 National Infrastructure Protection Plan to address the implementation of
+			 this Act, the requirements of title II of the Homeland Security Act of
+			 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/121">6 U.S.C. 121 et seq.</external-xref>), and alignment with the National Preparedness
+			 Goal and System required by Presidential Policy Directive 8.</text>
+				</paragraph><paragraph id="H3CB75A3192B445A88BB94ABEA0852920"><enum>(2)</enum><header>Contents</header><text>The plan shall include—</text>
+					<subparagraph id="H593F809B6B054D9A8A789F2D022DD2E3"><enum>(A)</enum><text>identification of a risk management framework to be used to strengthen the security and resilience
+			 of critical infrastructure against terrorist threats;</text>
+					</subparagraph><subparagraph id="H1970E9CC6B1B4E7B83B83934CD4A3E81"><enum>(B)</enum><text>the methods to be used to prioritize critical infrastructure in the event of a terrorism event that
+			 impacts multiple infrastructure systems;</text>
+					</subparagraph><subparagraph id="H5DEDD7A4C67B45439BDC4A16C5A5F057"><enum>(C)</enum><text>the protocols to be used to synchronize communication and actions within the Federal Government to
+			 effectively respond to critical infrastructure terrorist threats or
+			 events; and</text>
+					</subparagraph><subparagraph id="H6751D2FA60104A51987FA54F60DFBE62"><enum>(D)</enum><text>a metrics and analysis process to be used to measure the Nation’s ability to manage and reduce
+			 terrorism risks to critical infrastructure.</text>
+					</subparagraph></paragraph><paragraph id="H915DD7F89D6040BEBE5095CB305148D9"><enum>(3)</enum><header>Relationship to other provisions</header><text>The plan shall reflect the terrorism threat identification, prevention, mediation, and recovery
+			 relationships within the Department of Homeland Security and across the
+			 Federal Government identified under this Act and the updates to the
+			 public-private partnership model under this Act.</text>
+				</paragraph><paragraph id="HF5BF2751B5A9426EA0D295A274518219"><enum>(4)</enum><header>Energy and communication systems</header><text>The plan shall consider sector dependencies on energy and communications systems during a terrorism
+			 event, and identify pre-event and mitigation measures or alternate
+			 capabilities during disruptions to those systems.</text>
+				</paragraph><paragraph id="H585E81697DE948EF88FFBB902BF3E24E"><enum>(5)</enum><header>Coordination</header><text>The Secretary shall coordinate activities under this subsection with the SSAs, other relevant
+			 Federal departments and agencies, SLTTs, and critical infrastructure
+			 owners and operators.</text>
+				</paragraph><paragraph id="H2DB6E56BCDAB4150BEC928577C7632CF"><enum>(6)</enum><header>Response plans</header><text>The plan shall include an analysis of the feasibility of developing terrorism response plans, based
+			 on research conducted on the resilience of critical infrastructure when
+			 faced with terrorism threats, that focus on action plans to achieve a
+			 level of function and eventual recovery of full operability of critical
+			 infrastructure post-cyber attack.</text>
+				</paragraph></subsection><subsection id="H3D1D04148CBC427A96A6F62E15021EDE"><enum>(f)</enum><header>National critical infrastructure security and resilience R&amp;D plan</header><text>Within 2 years after the date of the enactment of this Act, the Secretary of Homeland Security, in
+			 coordination with the Office of Science and Technology Policy, the SSAs,
+			 the Department of Commerce, and other Federal departments and agencies,
+			 shall provide to the President, through the Assistant to the President for
+			 Homeland Security and Counter­terrorism, a National Critical
+			 Infrastructure
+			 Security and Resilience Research and Development Plan that takes into
+			 account the evolving threat landscape, annual metrics, and other relevant
+			 information to identify priorities and guide research and development
+			 requirements and investments. The Secretary shall reissue the plan every 4
+			 years after its initial issuance, and make interim updates as needed.</text>
+			</subsection><subsection id="H7A039A4FFB8149358EE73CF291800892"><enum>(g)</enum><header>Consistency in PPD–1</header><text>Policy coordination, dispute resolution, and periodic in-progress reviews for the implementation of
+			 this Act shall be carried out consistent with Presidential Policy
+			 Directive 1, including the use of interagency policy committees
+			 coordinated by the national security staff.</text>
+			</subsection><subsection id="HF512758F7B454BC39FC099F9E63B9367"><enum>(h)</enum><header>Relationship to other authorities</header><text>Nothing in this Act alters, supersedes, or impedes the authorities of Federal departments and
+			 agencies, including independent regulatory agencies, to carry out their
+			 functions and duties consistent with applicable legal authorities and
+			 other Presidential guidance and directives, including the designation of
+			 critical infrastructure under such authorities.</text>
+			</subsection></section><section id="H49B08368580C47ABB0872DC6209E7F41"><enum>9.</enum><header>Designation of critical infrastructure sectors and sector-specific agencies</header>
+			<subsection id="HB4151BDBE67346ADBB152513197300F5"><enum>(a)</enum><header>Designation</header>
+				<paragraph id="H3BB2572BBB1A44B595D276599D67A939"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">For purposes of this Act, the Secretary of Homeland Security shall determine which critical
+			 infrastructure sectors and sector specific agencies for such sectors
+			 should be engaged in efforts to detect, deter, mitigate, and lead recovery
+			 efforts related to terrorist incidents.</text>
+				</paragraph><paragraph id="H971ECB8980224D80908800EF5B6F2C0B"><enum>(2)</enum><header>Cultivation of relationships</header><text>The Secretary shall evaluate the appropriate relationships among Federal agencies, SSAs, SLTTs, and
+			 critical infrastructure owners and operators to establish the most
+			 effective defense against terrorist attacks.</text>
+				</paragraph></subsection><subsection commented="no" id="HC85AE934F48C401BA0100F321365B574"><enum>(b)</enum><header>Function</header><text display-inline="yes-display-inline">The Secretary shall provide institutional knowledge and specialized expertise to lead, facilitate,
+			 or support security and resilience programs and associated terrorism
+			 prevention activities with respect to sectors designated under subsection
+			 (a)(1).</text>
+			</subsection><subsection id="HC1699EDFF58D4B8CBDC216334E7B9DC9"><enum>(c)</enum><header>Changes</header><text>The Secretary of Homeland Security shall periodically evaluate the need for and make changes to
+			 plans and evaluations made under this section. The Secretary shall consult
+			 with the Assistant to the President for Homeland Security and
+			 Counterterrorism and congressional homeland security oversight committees
+			 before changing the designation of a critical infrastructure sector or SSA
+			 for a sector.</text>
+			</subsection><subsection id="H4A2143A5BA444AB7AE20BA5A2CC3ED88"><enum>(d)</enum><header>Reports</header><text>The Secretary of Homeland Security shall seek periodic research reports on critical infrastructure
+			 protection from Federal agencies as considered necessary by the Secretary.</text>
+			</subsection></section><section id="HA0DC8341693A4599A9380AEF181CBB07"><enum>10.</enum><header>Evaluation of achievement of objectives</header>
+			<subsection id="H35AA270142F44F0FA718B47886469D05"><enum>(a)</enum><header>In general</header><text>The National Research Council, beginning 12 months after the date of enactment of this Act, shall
+			 evaluate how well the Department of Homeland Security is meeting the
+			 objectives of this Act.</text>
+			</subsection><subsection id="H4D20C50C3D3043E0B4A848A272287F57"><enum>(b)</enum><header>Included subjects</header><text>The review shall include evaluation of—</text>
+				<paragraph id="H116AD89B128B4F1581085DA97EC12ABD"><enum>(1)</enum><text>cyber security threats to critical infrastructure;</text>
+				</paragraph><paragraph id="HEB7334C076634199BF0CACDEFAE71E80"><enum>(2)</enum><text>the success of Department programs in implementing section 8; and</text>
+				</paragraph><paragraph id="H8CCFF5875AF04379BBEEE7AAA129434A"><enum>(3)</enum><text>the long-term vulnerabilities faced by the Department, other Federal agencies, and critical
+			 infrastructure managers and owners.</text>
+				</paragraph></subsection><subsection id="H2D7F1970B99F49A3B1D09902AAE2D724"><enum>(c)</enum><header>Completion</header><text>The Council shall complete the review by not later than the end of the 18-month period beginning on
+			 the date of enactment of this Act, except that the Secretary of Homeland
+			 Security may extend such period.</text>
+			</subsection><subsection id="H0C21364ACB2D4B04A30A7B569BF2C836"><enum>(d)</enum><header>Report</header><text>Upon the completion of the review, the Council shall submit to the Secretary a report on the
+			 findings of the review, including recommendations based on such findings.</text>
+			</subsection></section><section id="H0015AC6266B34AC6A7A000FC2EE08348"><enum>11.</enum><header>Definitions</header><text display-inline="no-display-inline">For purposes of this Act:</text>
+			<paragraph id="HD2BA36B8724C4B25A315AA4B0A06C1B8"><enum>(1)</enum><header>All hazards</header><text>The term <term>all hazards</term> means a threat or an incident, natural or manmade, that warrants action to protect life, property,
+			 the environment, and public health or safety, and to minimize disruptions
+			 of government, social, or economic activities. The term includes natural
+			 disasters, cyber incidents, industrial accidents, pandemics, acts of
+			 terrorism, sabotage, and destructive criminal activity targeting critical
+			 infrastructure.</text>
+			</paragraph><paragraph id="H261361AC26204EC49A3639089322208E"><enum>(2)</enum><header>Collaboration</header><text>The term <term>collaboration</term> means the process of working together to achieve shared goals.</text>
+			</paragraph><paragraph id="H48B2EE25BB1A4FDEAD9B34EFDDDADFDE"><enum>(3)</enum><header>Critical infrastructure</header><text>The term <term>critical infrastructure</term> means systems and assets, whether physical or virtual, so vital to the United States that the
+			 incapacity or destruction of such systems and assets would have a
+			 debilitating impact on security, national economic security, national
+			 public health or safety, or any combination of those matters.</text>
+			</paragraph><paragraph id="H601B14C7B9A94C9688B88A39248EDB3A"><enum>(4)</enum><header>Federal departments and agencies</header><text>The term <term>Federal departments and agencies</term> means any authority of the United States that is an <quote>agency</quote> under <external-xref legal-doc="usc" parsable-cite="usc/44/3502">section 3502(1)</external-xref> of title 44, United States Code, other than those considered to be
+			 independent regulatory agencies as defined in section 3502(5) of such
+			 title.</text>
+			</paragraph><paragraph id="H0F48D51AE56C48E9A83E486627A7AD01"><enum>(5)</enum><header>National essential functions</header><text>The term <term>national essential functions</term> means that subset of Government functions that are necessary to lead and sustain the Nation during
+			 a catastrophic emergency.</text>
+			</paragraph><paragraph id="HB05A1F0F57EE43479ECA6A51ADAA739F"><enum>(6)</enum><header>Primary mission essential functions</header><text>The term <term>primary mission essential functions</term> means those Government functions that must be performed in order to support or implement the
+			 performance of the national essential functions before, during, and in the
+			 aftermath of an emergency.</text>
+			</paragraph><paragraph id="HDC7CE5C7907E44288E51C6AA22751800"><enum>(7)</enum><header>Resilience</header><text>The term <term>resilience</term> means the ability to prepare for and adapt to changing conditions and withstand and recover
+			 rapidly from disruptions. The term includes the ability to withstand and
+			 recover from deliberate attacks, accidents, or naturally occurring threats
+			 or incidents.</text>
+			</paragraph><paragraph id="HFC4DA5C341414D46A51FE2AAA063815D"><enum>(8)</enum><header>Sector-specific agency; SSA</header><text>The terms <term>sector-specific agency</term> and <term>SSA</term> mean the Federal department or agency designated under this Act for a critical infrastructure
+			 sector.</text>
+			</paragraph><paragraph id="H27B2FEDB247642EE9ACD2FB19A602B43"><enum>(9)</enum><header>Secure; security</header><text>The terms <term>secure</term> and <term>security</term> mean reducing the risk to critical infrastructure by physical means or defense cyber measures to
+			 intrusions, attacks, or the effects of natural or manmade disasters.</text>
+			</paragraph><paragraph id="HDCA6652A41D545639E6B009B989CA2B9"><enum>(10)</enum><header>SLTT</header><text>The term <term>SLTT</term> means State, local, tribal, and territorial entities.</text>
+			</paragraph></section></legis-body>
+</bill>
+
+

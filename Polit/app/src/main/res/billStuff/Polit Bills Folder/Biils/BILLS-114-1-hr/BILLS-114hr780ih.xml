@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HE4C177A1B67B4A09A281C047AB2D13A6" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 780 IH: To amend the Internal Revenue Code of 1986 to provide for offsetting certain past-due local tax debts against income tax overpayments.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 780</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150205">February 5, 2015</action-date>
+			<action-desc><sponsor name-id="C001078">Mr. Connolly</sponsor> (for himself and <cosponsor name-id="B001292">Mr. Beyer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to provide for offsetting certain past-due local tax
+			 debts against income tax overpayments.</official-title>
+	</form>
+	<legis-body id="HE757EA0089D74F88A1BF1C2EC5574825" style="OLC">
+		<section id="HBF21246B27BE4AE38FE581BCFC61F9E5" section-type="section-one"><enum>1.</enum><header>Offsetting past-due, legally enforceable local tax obligations</header>
+ <subsection id="HEA9CA3C4245A440EA163C49755A22783"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subsection (e) of <external-xref legal-doc="usc" parsable-cite="usc/26/6402">section 6402</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H10DC6CBC316F4D11B3481CF3C14331A6" style="OLC">
+					<paragraph id="H5F1A607A7C6342529143487FD18F56F9"><enum>(8)</enum><header>Past-due, legally enforceable local tax obligations</header>
+ <subparagraph id="H64D188A2326446468664C459A5DF413B"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">A State may, on behalf of a local government located within the State, submit a notice of past-due, legally enforceable local tax obligation for offset under this subsection.</text>
+ </subparagraph><subparagraph id="HBCCB16A1941D4999B9997C2C3AE05B7D"><enum>(B)</enum><header>Special rules</header><text>Such submission and offset shall be made with respect to any past-due, legally enforceable local tax obligation under rules similar to the rules of this subsection (other than this paragraph), except—</text>
+ <clause id="HD4B765083DF84130844D196CC2A35A74"><enum>(i)</enum><text>under paragraph (3)(A), any reduction attributable to a past-due, legally enforceable local tax obligation shall be made (in addition to reductions specified in such subparagraph) after the overpayment is reduced pursuant to—</text>
+ <subclause id="H701F78745ED94CAC9DA31540138DBA98"><enum>(I)</enum><text>this subsection with respect to any past-due, legally enforceable State income tax obligation; and</text> </subclause><subclause id="H17CE13F2FAB447A98B970FEB9CBCFA29"><enum>(II)</enum><text>subsection (f) with respect to any covered unemployment compensation debt; and</text>
+ </subclause></clause><clause id="HD205816F49764F9D8645CEA904F563BC"><enum>(ii)</enum><text>the local government on whose behalf a State is submitting shall certify to the State that the requirements of paragraph (4) have been met by the local government.</text>
+ </clause></subparagraph><subparagraph id="H6488874D93934F31972F32E6677F504E"><enum>(C)</enum><header>Past-due, legally enforceable local tax obligation</header><text>For purposes of this subsection, the term <term>past-due, legally enforceable local tax obligation</term> means any debt—</text> <clause id="H842529533C484A099442AFDAFFAA8761"><enum>(i)</enum> <subclause commented="no" display-inline="yes-display-inline" id="HE25CA647945D4AFDA09FF36F95EBB709"><enum>(I)</enum><text>which resulted from a judgment rendered by a court of competent jurisdiction, or a determination after an administrative hearing, which has determined an amount of tax to be due to a local government; and</text>
+ </subclause><subclause id="H18C8A0D9E7F649D9B3CA2A7A848D1EFC" indent="up1"><enum>(II)</enum><text>which is no longer subject to judicial review; or</text> </subclause></clause><clause id="HD6D519E039CF4298AB8365897131DC41"><enum>(ii)</enum><text>which resulted from a tax imposed by a local government which has been assessed but not collected, the time for redetermination of which has expired, and which has not been delinquent for more than 10 years.</text>
+ </clause><continuation-text continuation-text-level="subparagraph">Such term shall not include any local income tax described in the second sentence of paragraph (5).</continuation-text></subparagraph><subparagraph id="HF310EE98FAAC452897F016E6F1CF1860"><enum>(D)</enum><header>Regulations</header><text>The Secretary shall issue such regulations, and modify any such regulations under paragraph (6), as may be necessary to carry out the purposes of this paragraph.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H8840C3D29F7B4FE9A3F0916F023A7142"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall apply to refunds payable after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

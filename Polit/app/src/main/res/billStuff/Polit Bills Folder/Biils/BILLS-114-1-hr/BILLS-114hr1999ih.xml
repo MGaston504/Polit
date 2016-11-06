@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA6DEAB87AA064F349884CA50E2B68349" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1999 IH: Protecting the Rights of Musicians Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1999</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150423">April 23, 2015</action-date>
+			<action-desc><sponsor name-id="B001243">Mrs. Blackburn</sponsor> (for herself and <cosponsor name-id="E000215">Ms. Eshoo</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Communications Act of 1934 to deny the right to grant retransmission consent to a
+			 television broadcast station if an AM or FM radio broadcast station
+			 licensed to the same licensee transmits a sound recording without
+			 providing compensation for programming and to prohibit the Federal
+			 Communications Commission from imposing radio tuner mandates for mobile
+			 devices.</official-title>
+	</form>
+	<legis-body id="H01E1C2C9249F44358D9478127A596994" style="OLC">
+ <section id="H19B4E46799CF4336BBBECA81646C185E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting the Rights of Musicians Act</short-title></quote>.</text> </section><section id="HA93526A3BA88436BB88B49427E43F3DD"><enum>2.</enum><header>Effect of certain radio transmissions on right to grant television retransmission consent</header><text display-inline="no-display-inline">Section 325(b)(2) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/325">47 U.S.C. 325(b)(2)</external-xref>) is amended—</text>
+ <paragraph id="H00486230914449C8A6D7535C66293120"><enum>(1)</enum><text>in subparagraph (D), by striking <quote>or</quote> at the end;</text> </paragraph><paragraph id="H3A31CD0BB604427EAE8B9B85FD8C8F55"><enum>(2)</enum><text>in subparagraph (E), by striking the period at the end and inserting <quote>; or</quote>; and</text>
+ </paragraph><paragraph id="HEB079719AEF84F19AFB50752EB919FB5"><enum>(3)</enum><text>by inserting after subparagraph (E) the following:</text> <quoted-block display-inline="no-display-inline" id="H6573D99DFABA4F1DA86E78ABCFFD6FC7" style="OLC"> <subparagraph id="H615BE4A9F3D8426EA08B75B0F67BBAF8" indent="up1"><enum>(F)</enum><text display-inline="yes-display-inline">to retransmission of the signal of a television broadcast station if the licensee of such station is also the licensee of an AM or FM radio broadcast station and, during the term of the license for such television broadcast station in which such retransmission occurs, such licensee has transmitted a sound recording over such radio station without providing compensation for all programming carried over the signal.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></section><section id="HCF10C668D6D34406B63AF629DFD2E0AB"><enum>3.</enum><header>Prohibition on radio tuner mandates for mobile devices</header><text display-inline="no-display-inline">Part I of title III of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/301">47 U.S.C. 301 et seq.</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HD17A6010A8F340B1BA0C983005490682" style="OLC">
+				<section id="H2DCC71669C24445EBE39C7E8E62DF5FD"><enum>343.</enum><header>Prohibition on radio tuner mandates for mobile devices</header>
+ <subsection id="H25F08770FF2A433BA88320E4FD1BB32F"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Commission may not require a mobile device to be equipped with a tuner for receiving the signals of AM or FM radio broadcast stations.</text>
+ </subsection><subsection id="HA5A493DF094649808C2EB3CC57D2CE50"><enum>(b)</enum><header>Mobile device defined</header><text>In this section, the term <quote>mobile device</quote> means—</text> <paragraph id="H2CA7EF31CB1F4CC29409B70FC9F5F8A1"><enum>(1)</enum><text display-inline="yes-display-inline">a device that—</text>
+ <subparagraph id="H1B4EF266F97E434698554F912867F2EE"><enum>(A)</enum><text>is designed to be carried on the person of the user or to be reasonably portable;</text> </subparagraph><subparagraph id="HCEF9B6841667490D83559B939C94BF6B"><enum>(B)</enum><text>provides computing and communications functionality; and</text>
+ </subparagraph><subparagraph id="H6962AF2CD0324815AD1BB189EEDF3D56"><enum>(C)</enum><text>is capable of providing access to commercial mobile service (as defined in section 332) or commercial mobile data service (as defined in section 6001 of the Middle Class Tax Relief and Job Creation Act of 2012 (<external-xref legal-doc="usc" parsable-cite="usc/47/1401">47 U.S.C. 1401</external-xref>)); or</text>
+ </subparagraph></paragraph><paragraph id="HBEEE30B7FA13403CA6E48CF4C8E206FA"><enum>(2)</enum><text>a device that is comparable to a device described in paragraph (1), except for lacking the capability described in subparagraph (C) of such paragraph.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8E56CB60D96A4B908D6F78D2DF664CED" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3191 IH: To amend the Consolidated and Further Continuing Appropriations Act, 2015 with respect to funding available for fiscal year 2015 for certain general business loans authorized under the Small Business Act, to amend the Small Business Act to modify loan limitations, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3191</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150723">July 23, 2015</action-date>
+			<action-desc><sponsor name-id="C000266">Mr. Chabot</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HSM00">Committee on Small Business</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Consolidated and Further Continuing Appropriations Act, 2015 with respect to funding
+			 available for fiscal year 2015 for certain general business loans
+			 authorized under the Small Business Act, to amend the Small Business Act
+			 to modify loan limitations, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HBEE0FB53510C4FBDB261DFB54BDCFB70" style="OLC">
+		<section id="H3BFE2AB993DC4A93B74889BE7D28C075" section-type="section-one"><enum>1.</enum><header>Amendments to funding available to the Small Business Administration to make section 7<enum-in-header>(a)</enum-in-header> loans</header>
+ <subsection id="H0ABD69FDCC9949B5A92A1CB67115F878"><enum>(a)</enum><header>Section 7<enum-in-header>(a)</enum-in-header> loan funding levels</header><text display-inline="yes-display-inline">The third proviso under the heading <quote>Small Business Administration—Business Loans Program Account</quote> in title V of division E of the Consolidated and Further Continuing Appropriations Act, 2015 (<external-xref legal-doc="public-law" parsable-cite="pl/113/235">Public Law 113–235</external-xref>; 128 Stat. 2371) is amended by striking <quote>$18,750,000,000</quote> and inserting <quote>$23,500,000,000</quote>.</text>
+ </subsection><subsection id="H786E2810BE1E4217B2ABC0812E902751"><enum>(b)</enum><header>Loan limitations</header><text>Section 7(a)(1) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)(1)</external-xref>) is amended—</text> <paragraph id="H84C577B50F114AEEA3D4754C8F43ECF0"><enum>(1)</enum><text>in subparagraph (A)—</text>
+ <subparagraph id="HA67218FF1CB7478B8FD376F4C517E121"><enum>(A)</enum><text>by striking <quote>No financial assistance</quote> and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="H02203ED429D1466988C601EB93DF5016" style="OLC"> <clause id="H8DFB068920D7469692066D47443AA667"><enum>(i)</enum><header>In general</header><text>No financial assistance</text></clause><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </subparagraph><subparagraph id="H7E7ED8D05E73495C9CD8CDE0CCE66D83"><enum>(B)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="HF2700FF6C2684D61B9C3CA92FCC08AAD" style="OLC"> <clause commented="no" display-inline="no-display-inline" id="H695D6F72729E404A9514AB01AB6B53BD"><enum>(ii)</enum><header display-inline="yes-display-inline">Liquidity</header><text display-inline="yes-display-inline">On and after October 1, 2015, the Administrator may not guarantee a loan under this subsection if the lender determines that the borrower is unable to obtain credit elsewhere solely because the liquidity of the lender depends upon the guaranteed portion of the loan being sold on the secondary market.</text></clause><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="H1086E97534484903832DD092BFEE13EC"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H19E341EE092644D481F021191DCB411B" style="OLC"> <subparagraph id="H49B8BE28FC3B482C87288F54DB0D07D0"><enum>(C)</enum><header>Lending limits of lenders</header><text>On and after October 1, 2015, the Administrator may not guarantee a loan under this subsection if the sole purpose for requesting the guarantee is to allow the lender to exceed the legal lending limit of the lender.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="H3EC0E04E2F894A0C8E7A11932CF34A00"><enum>(c)</enum><header>Reporting</header>
+ <paragraph id="HDAA73A0EDB3246609A28003BF1C1B5CA"><enum>(1)</enum><header>Definitions</header><text>In this subsection—</text> <subparagraph id="HACACA18BF5DA44749CE740B252701A99"><enum>(A)</enum><text>the term <term>Administrator</term> means the Administrator of the Small Business Administration;</text>
+ </subparagraph><subparagraph id="H4477002063B4448F9ECFC3AD0622C478"><enum>(B)</enum><text>the term <term>business loan</term> means a loan made or guaranteed under section 7(a) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)</external-xref>);</text> </subparagraph><subparagraph id="HFF92D77C770F47FB81F3331EFD5923F8"><enum>(C)</enum><text>the term <term>cancellation</term> means that the Administrator approves a proposed business loan, but the prospective borrower determines not to take the business loan; and</text>
+ </subparagraph><subparagraph id="HA9749B1B71D44BA995DFE798A916B0BA"><enum>(D)</enum><text>the term <term>net dollar amount of business loans</term> means the difference between the total dollar amount of business loans and the total dollar amount of cancellations.</text>
+ </subparagraph></paragraph><paragraph id="H3002623D8BBE4D96ADC56AEF969F703B"><enum>(2)</enum><header>Requirement</header><text>During the 3-year period beginning on the date of enactment of this Act, the Administrator shall submit to Committee on Small Business and Entrepreneurship and the Committee on Appropriations of the Senate and the Committee on Small Business and the Committee on Appropriations of the House of Representatives a quarterly report regarding the loan programs carried out under section 7(a) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)</external-xref>), which shall include—</text>
+ <subparagraph id="HE2A411E3266844ED9EF8F07C12FB6584"><enum>(A)</enum><text>for the fiscal year during which the report is submitted and the 3 fiscal years before such fiscal year—</text>
+ <clause id="H4BD5AB7964474F57BB7149035C559D4A"><enum>(i)</enum><text>the weekly total dollar amount of business loans;</text> </clause><clause id="HECC8E6CB6CB64ECCB6FE06B4E2411BCD"><enum>(ii)</enum><text>the weekly total dollar amount of cancellations; and</text>
+ </clause><clause id="H248C919ED2FA4F92B52C6753DACAF530"><enum>(iii)</enum><text>the weekly net dollar amount of business loans—</text> <subclause id="H322595ABA0234589924D7111E0F3C278"><enum>(I)</enum><text>for all business loans; and</text>
+ </subclause><subclause id="H5937C7A19D9645DC892997AA61448A92"><enum>(II)</enum><text>for each category of loan amount described in clause (i), (ii), or (iii) of section 7(a)(18) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)(18)</external-xref>);</text>
+ </subclause></clause></subparagraph><subparagraph id="HD7EC661D895441B88753B9333892B304"><enum>(B)</enum><text>for the fiscal year during which the report is submitted—</text> <clause id="H071FF7AC96E84DEF87A608DE22D60A7D"><enum>(i)</enum><text>the amount of remaining authority for business loans, in dollar amount and as a percentage; and</text>
+ </clause><clause id="H4A8A09B330194D37A8FBB1F77AAE9FFD"><enum>(ii)</enum><text>estimates of the date on which the net dollar amount of business loans will reach the maximum for such business loans based on daily net lending volume and extrapolations based on year-to-date net lending volume, quarterly net lending volume, and quarterly growth trends;</text>
+ </clause></subparagraph><subparagraph id="H45CD2F1BBD404D69B2E7981B86EE15FD"><enum>(C)</enum><text>the number of early defaults (as determined by the Administrator) during the quarter covered by the report;</text>
+ </subparagraph><subparagraph id="H550F06907A3B4E65A02E8381C61D0B3B"><enum>(D)</enum><text>the total amount paid by borrowers in early default during the quarter covered by the report, as of the time of purchase of the guarantee;</text>
+ </subparagraph><subparagraph id="H9A00856723C24FF7B53C847B8F0F501A"><enum>(E)</enum><text>the number of borrowers in early default that are franchisees;</text> </subparagraph><subparagraph id="H00D59CD939234184910F1376121FF971"><enum>(F)</enum><text>the total amount of guarantees purchased by the Administrator during the quarter covered by the report; and</text>
+ </subparagraph><subparagraph id="H0E77B15548CD4360862C31691B0377AF"><enum>(G)</enum><text>a description of the actions the Administrator is taking to combat early defaults administratively and any legislative action the Administrator recommends to address early defaults.</text>
+					</subparagraph></paragraph></subsection></section></legis-body>
+</bill>
+
+

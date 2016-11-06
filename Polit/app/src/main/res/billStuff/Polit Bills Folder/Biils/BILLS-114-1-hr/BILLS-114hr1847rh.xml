@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="H73541EA001AD430494A797000B980318" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1847 RH: Swap Data Repository and Clearinghouse Indemnification Correction Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IB</distribution-code>
+		<calendar display="yes">Union Calendar No. 151</calendar>
+		<congress display="yes">114th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>H. R. 1847</legis-num>
+		<associated-doc display="yes" role="report">[Report No. 114–202, Part I]</associated-doc>
+		<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150416">April 16, 2015</action-date>
+			<action-desc><sponsor name-id="C001087">Mr. Crawford</sponsor> (for himself, <cosponsor name-id="M001185">Mr. Sean Patrick Maloney of New York</cosponsor>, <cosponsor name-id="H001058">Mr. Huizenga of Michigan</cosponsor>, and <cosponsor name-id="M001160">Ms. Moore</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name>, and in addition to the Committee on <committee-name added-display-style="italic" committee-id="HBA00" deleted-display-style="strikethrough">Financial Services</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<action>
+			<action-date>July 14, 2015</action-date>
+			<action-desc>Reported from the Committee on <committee-name added-display-style="italic" committee-id="HBA00" deleted-display-style="strikethrough">Financial Services</committee-name> with an amendment</action-desc>
+			<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction>
+		</action>
+		<action display="yes">
+			<action-date>July 14, 2015</action-date><action-desc>The <committee-name committee-id="HAG00">Committee on Agriculture</committee-name> discharged; committed to the Committee of the Whole House on the State of the Union and ordered to
+			 be printed</action-desc><action-instruction>For text of introduced bill, see copy of bill as introduced on April 16, 2015</action-instruction><action-desc display="yes"><pagebreak></pagebreak></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend the Securities Exchange Act of 1934 and the Commodity Exchange Act to repeal the
+			 indemnification requirements for regulatory authorities to obtain access
+			 to swap data required to be provided by swaps entities under such Acts.<pagebreak></pagebreak></official-title>
+	</form>
+	<legis-body changed="added" committee-id="HBA00" display-enacting-clause="yes-display-enacting-clause" id="H82F427E8605447099216865EBB969E11" reported-display-style="italic" style="OLC">
+ <section id="HA543C18AD944402095BF69F3C20DB1BD" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Swap Data Repository and Clearinghouse Indemnification Correction Act of 2015</short-title></quote>.</text> </section><section id="H7C8805A8C9DC4924874611E9BCA55080"><enum>2.</enum><header>Repeal of indemnification requirements</header> <subsection id="HA4FBAEAB1C904C11B73665EA5CE5F760"><enum>(a)</enum><header>Derivatives clearing organizations</header><text display-inline="yes-display-inline">Section 5b(k)(5) of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/7a-1">7 U.S.C. 7a–1(k)(5)</external-xref>) is amended to read as follows:</text>
+				<quoted-block changed="added" committee-id="HBA00" display-inline="no-display-inline" id="H8708AFBC44694F54A06548A28603799F" reported-display-style="italic" style="OLC">
+ <paragraph id="H794B9402AF214A0A800F9E92C2A183D9"><enum>(5)</enum><header>Confidentiality agreement</header><text display-inline="yes-display-inline">Before the Commission may share information with any entity described in paragraph (4), the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 8 relating to the information on swap transactions that is provided.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HDB776D2183234C429D5157D9ACA950D4"><enum>(b)</enum><header>Swap data repositories</header><text>Section 21(d) of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/24a">7 U.S.C. 24a(d)</external-xref>) is amended to read as follows:</text> <quoted-block changed="added" committee-id="HBA00" display-inline="no-display-inline" id="H56EA05D465344ABD8D42EC060A640A55" reported-display-style="italic" style="OLC"> <subsection id="H14E4E8AA3AE041D6B6B8F0A1E1C94701"><enum>(d)</enum><header>Confidentiality agreement</header><text display-inline="yes-display-inline">Before the swap data repository may share information with any entity described in subsection (c)(7), the swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 8 relating to the information on swap transactions that is provided.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H6E7E08067C2146E9BE54AD8D4C794563"><enum>(c)</enum><header>Security-Based swap data repositories</header><text>Section 13(n)(5)(H) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78m">15 U.S.C. 78m(n)(5)(H)</external-xref>) is amended to read as follows:</text>
+				<quoted-block changed="added" committee-id="HBA00" display-inline="no-display-inline" id="H01A803B46E4248E3BB760CF82CFB3E91" reported-display-style="italic" style="OLC">
+ <subparagraph id="HACB79F115A274E1097C46C7488047FDB"><enum>(H)</enum><header>Confidentiality agreement</header><text display-inline="yes-display-inline">Before the security-based swap data repository may share information with any entity described in subparagraph (G), the security-based swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 24 relating to the information on security-based swap transactions that is provided.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H3D77224E44A94E8EA84FC9831ABBA943"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this Act shall take effect as if enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act (<external-xref legal-doc="public-law" parsable-cite="pl/111/203">Public Law 111–203</external-xref>) on July 21, 2010.</text>
+ </subsection></section><section id="H05C4D7EDF70846F2850C06C11BEAF21E"><enum>3.</enum><header>Security-based swap data repositories</header><text display-inline="no-display-inline">Section 13(n)(5)(G) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78m">15 U.S.C. 78m(n)(5)(G)</external-xref>) is amended by striking <quote>all</quote> and inserting <quote>security-based swap</quote>.</text>
+		</section></legis-body>
+	<endorsement display="yes">
+		<action-date>July 14, 2015</action-date>
+		<action-desc>Reported from the Committee on <committee-name added-display-style="italic" committee-id="HBA00" deleted-display-style="strikethrough">Financial Services</committee-name> with an amendment</action-desc><action-date>July 14, 2015</action-date><action-desc>The <committee-name committee-id="HAG00">Committee on Agriculture</committee-name> discharged; committed to the Committee of the Whole House on the State of the Union and ordered to
+			 be printed</action-desc></endorsement>
+</bill>
+
+

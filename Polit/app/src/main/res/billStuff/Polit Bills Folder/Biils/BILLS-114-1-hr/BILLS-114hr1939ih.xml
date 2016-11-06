@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H4077546C77484E9AB22956137A216DD9" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1939 IH: NADA Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1939</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150422">April 22, 2015</action-date>
+			<action-desc><sponsor name-id="B001248">Mr. Burgess</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the FAA Modernization and Reform Act of 2012 to establish prohibitions to prevent the use
+			 of an unmanned aircraft system as a weapon while operating in the national
+			 airspace system, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H15A52B68034641069C452B3F79C379EA" style="OLC">
+ <section id="H7472A92AF6EB46F68C0A41FE20B991C9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Armed Drones Act of 2015</short-title></quote> or the <quote>NADA Act of 2015</quote>.</text> </section><section id="H6ACC7184397F41B1B6A88610625D0151"><enum>2.</enum><header>Unmanned aircraft systems</header> <subsection id="H9532114B4C274CEEAFE86D18AAA9604A"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subtitle B of title III of the FAA Modernization and Reform Act of 2012 (126 Stat. 72; <external-xref legal-doc="usc" parsable-cite="usc/49/40101">49 U.S.C. 40101</external-xref> note) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H1DB5BB6A80E94B7C8247633968E74820" style="OLC">
+					<section id="H057FB946488A4F8185454748118BC488"><enum>337.</enum><header>Prohibition to prevent use of unmanned aircraft systems as weapons while operating in national
+			 airspace system</header>
+ <subsection id="H3A144918E72D4987BA331EF93D47B130"><enum>(a)</enum><header>Prohibition</header><text display-inline="yes-display-inline">The Secretary of Transportation may not authorize a person to operate an unmanned aircraft system in the national airspace system for the purpose, in whole or in part, of using the unmanned aircraft system as a weapon or to deliver a weapon against a person or property.</text>
+ </subsection><subsection id="H9F364944FDBE41389E7987DAAD3F4A23"><enum>(b)</enum><header>General exceptions</header><text display-inline="yes-display-inline">The Secretary may establish exceptions to the prohibition in subsection (a) for operations of unmanned aircraft systems related to—</text>
+ <paragraph id="H4128173CDF2F4990BE3973E1DA46D76F"><enum>(1)</enum><text>recreational hunting;</text> </paragraph><paragraph id="H00E4665C154846E6A895AE5A3346FAC9"><enum>(2)</enum><text>animal control; and</text>
+ </paragraph><paragraph id="H42244B67F7804FDABB2100907F4C8684"><enum>(3)</enum><text>such other purposes as the Secretary determines appropriate.</text> </paragraph></subsection><subsection id="H4677C684CA364BDA90D7F0DDEF68ED1C"><enum>(c)</enum><header>Exceptions for operations of public unmanned aircraft systems</header><text display-inline="yes-display-inline">The Secretary may establish exceptions to the prohibition in subsection (a) for operations of public unmanned aircraft systems related to—</text>
+ <paragraph id="H14B3421273654CDD85BD360786F8951A"><enum>(1)</enum><text>operations conducted by U.S. Customs and Border Protection;</text> </paragraph><paragraph id="H712059E6178248D89EEA4F9057C419E2"><enum>(2)</enum><text>operations conducted by the Department of Defense, including establishing areas of airspace for such operations under section 40103(b)(3) of title 49, United States Code; and</text>
+ </paragraph><paragraph id="H972E088491C94368A5457524575638AF"><enum>(3)</enum><text>operations conducted by a governmental entity described in the definition of <quote>public aircraft</quote> in section 40102(a) of such title for national defense purposes or in response to a terrorist event.</text>
+ </paragraph></subsection><subsection id="H68C0AD7D12FA4D95910DD628908E3EAF"><enum>(d)</enum><header>Procedures To protect public safety</header><text>In authorizing operations pursuant to subsections (b) and (c), the Secretary shall implement procedures to ensure that reasonable precautions are taken to protect public safety.</text>
+ </subsection><subsection id="H941ACE899EB841929D74B19DC9DA5C7C"><enum>(e)</enum><header>Definitions</header><text>In this section, the following definitions apply:</text> <paragraph id="HFBFB94A8EDDC45E4A80F676F33F02A64"><enum>(1)</enum><header>Person</header><text display-inline="yes-display-inline">The term <term>person</term>, in addition to its meaning under section 1 of title 1, United States Code, includes a governmental authority and a trustee, receiver, assignee, and other similar representative.</text>
+ </paragraph><paragraph id="H682581C285AD4E388E3F28CD2E2D49FE"><enum>(2)</enum><header>Weapon</header><text display-inline="yes-display-inline">The term <term>weapon</term> includes lethal and nonlethal weapons.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="H0E1153AAD3AD4C8FA66F131C95976459"><enum>(b)</enum><header>Clerical amendment</header><text>The table of contents contained in section 1(b) of such Act is amended by inserting after the item relating to section 336 the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H9952929150B148468500B656FE75C414" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">Sec. 337. Prohibitions to prevent use of unmanned aircraft systems as weapons while operating in
+			 national airspace system.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

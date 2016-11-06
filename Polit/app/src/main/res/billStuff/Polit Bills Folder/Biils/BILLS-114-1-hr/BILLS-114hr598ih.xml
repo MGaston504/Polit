@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HBA4F1D4D015B4B0B94C49444E42467D2" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 598 IH: Taxpayers Right-To-Know Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 598</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150128">January 28, 2015</action-date>
+			<action-desc><sponsor name-id="W000798">Mr. Walberg</sponsor> (for himself, <cosponsor name-id="C000754">Mr. Cooper</cosponsor>, <cosponsor name-id="B001295">Mr. Bost</cosponsor>, <cosponsor name-id="K000376">Mr. Kelly of Pennsylvania</cosponsor>, and <cosponsor name-id="L000576">Mr. Long</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide taxpayers with an annual report disclosing the cost and performance of Government
+			 programs and areas of duplication among them, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H33A0F72D4E8F4EC08EDE8867FB1172FF" style="OLC">
+ <section id="HDD89BF55B8194437A390D130A537771D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Taxpayers Right-To-Know Act</short-title></quote>.</text> </section><section id="HDD2345F533AC4DA581BFDD29DA200035"><enum>2.</enum><header>Cost and performance of Government programs</header> <subsection id="H4B3CA724C4124FD89E92357DA7C3C5F3"><enum>(a)</enum><header>In general</header><text>Section 1122(a) of title 31, United States Code, is amended—</text>
+ <paragraph id="H6390895ACBB240B1A48D7F1089FFA04F"><enum>(1)</enum><text>by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively;</text> </paragraph><paragraph id="H1D734CBA17874299BC81CF5B5D9878E5"><enum>(2)</enum><text>by inserting before paragraph (2), as so redesignated, the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H95C8CCCBBEB0496B8A5E03EA3BF5A2B8" style="OLC">
+ <paragraph commented="no" display-inline="no-display-inline" id="H641BB36ECB27431DB6D6F08EFFFF9CFE"><enum>(1)</enum><header display-inline="yes-display-inline">Definition of program</header><text display-inline="yes-display-inline">For purposes of this subsection, the term <term>program</term> means an organized set of activities by 1 or more agencies directed toward a common purpose or goal.</text></paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="HAE35443BA0704E3788E7C379783C588F"><enum>(3)</enum><text>in paragraph (2), as so redesignated—</text> <subparagraph id="H54D4C780627E4F67A3567A8F00B52BB6"><enum>(A)</enum><text>by striking <quote><header-in-text level="paragraph" style="USC">In general</header-in-text>.—Not later than October 1, 2012, the Office of Management and Budget shall</quote> and inserting <quote><header-in-text level="paragraph" style="USC">Website and program inventory</header-in-text>.—The Director of the Office of Management and Budget shall</quote>; and</text>
+ </subparagraph><subparagraph id="H8649A94576754C8D82B1B8D9516C7C8F"><enum>(B)</enum><text>by striking subparagraph (C) and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="HED4661427B324D52AD78C46C648368CF" style="OLC"> <subparagraph id="HC2B0416C89374ED39136CCDC57A407A6"><enum>(C)</enum><text>include on the website—</text>
+ <clause id="HE6F19A4C4D2E447CB244D022EB49A038"><enum>(i)</enum><text>a program inventory that shall identify each program of the Federal Government, which shall include—</text>
+ <subclause id="H10D7BC695AAD48E692D711577738534E"><enum>(I)</enum><text>any activity that is commonly referred to as a program;</text> </subclause><subclause id="HC7DD2F05997C4C62BEEC2F16AD12AA7E"><enum>(II)</enum><text>any activity specifically created by law, or referenced in law, as a program;</text>
+ </subclause><subclause id="H498261E4B38E425AAFE704AA84D351A2"><enum>(III)</enum><text>each program that has an application process;</text> </subclause><subclause id="H16BAEAA744044D38B0E9A3E81AA9449F"><enum>(IV)</enum><text>each program for which financial awards are made on a competitive basis; and</text>
+ </subclause><subclause id="H183D91223B5B4628B46FB4948A09D194"><enum>(V)</enum><text>any activity identified as a program activity in a budget request; and</text> </subclause></clause><clause id="H5A2B1E6954664391941E8B303C18A832"><enum>(ii)</enum><text>for each program identified in the program inventory, the information required under paragraph (3).</text></clause></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="H2BD722EC85764266BDB0E8EA6D476C61"><enum>(4)</enum><text>in paragraph (3), as so redesignated—</text> <subparagraph id="HAD34317545FB4BEB82AC945E3A46D43E"><enum>(A)</enum><text>in the matter preceding subparagraph (A), by striking <quote>described under paragraph (1)</quote> and inserting <quote>identified in the program inventory required under paragraph (2)</quote>;</text>
+ </subparagraph><subparagraph id="H4D4FA99F5C5D4A8EB05282BE922E87B9"><enum>(B)</enum><text>by striking subparagraph (A) and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="HF02110DB2CE54E02982ABF2D70FC59FC" style="OLC"> <subparagraph id="HF8723508B9C64797B898C43C45A6DF13"><enum>(A)</enum><text>the program activities that are considered a program by the agency;</text></subparagraph><after-quoted-block>;</after-quoted-block></quoted-block>
+ </subparagraph><subparagraph id="HEBF77EC3FD0545059F1918EE3772E160"><enum>(C)</enum><text>in subparagraph (B), by striking <quote>and</quote> at the end;</text> </subparagraph><subparagraph id="HE9CE6204A38041F28B1FC849DF70C7A5"><enum>(D)</enum><text>in subparagraph (C), by striking the period at the end and inserting a semicolon; and</text>
+ </subparagraph><subparagraph id="H44630D81726343C4BB18CEE2058777CD"><enum>(E)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H0C06D1A6D4494C2A8CEEEFA3DC6E5BEA" style="OLC"> <subparagraph commented="no" id="H67154A587A644C9CA48A21AE3E66BE24"><enum>(D)</enum><text>an identification of the specific statute that authorizes the program and any regulations specific to the program;</text>
+ </subparagraph><subparagraph id="H7089AEC6D16B4709BD31E500E4CBC665"><enum>(E)</enum><text>for any program that provides grants or other financial assistance to individuals or entities, for the most recent fiscal year—</text>
+ <clause id="HD080E2446FBE468CB678C5B7BB93879C"><enum>(i)</enum><text>an estimate of the number of individuals served by the program and beneficiaries who received financial assistance under the program; and</text>
+ </clause><clause id="HA0F62584F26040CBA5B41C75269DBDDE"><enum>(ii)</enum><text>an estimate of—</text> <subclause id="HE0029D3C87AE46FBAE83E0ED89E3F17D"><enum>(I)</enum><text>the number of full-time equivalents who administer the program; and</text>
+ </subclause><subclause id="H98EA7272541948CB91EFB9341122FB90"><enum>(II)</enum><text>the number of full-time equivalents whose salary is paid in part or full by the Federal Government through a grant, contract, cooperative agreement, or another form of financial award or assistance who administer or assist in any way in administering the program;</text>
+ </subclause></clause></subparagraph><subparagraph id="H13D27529C8C440039E68E726858726C4"><enum>(F)</enum><text>links to any evaluation, assessment, or program performance reviews by the agency, an Inspector General, or the Government Accountability Office (including program performance reports required under section 1116) released during the preceding 5 years; and</text>
+ </subparagraph><subparagraph id="H6AB60060A3594A58AB52EFB5DE2A6B34"><enum>(G)</enum><text>to the extent available, financial information for each program required to be reported under section 3(b) of the Federal Funding Accountability and Transparency Act of 2006 (<external-xref legal-doc="usc" parsable-cite="usc/31/6101">31 U.S.C. 6101</external-xref> note), or a direct link to such information for a specific program on the website established under section 2 of that Act.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subparagraph></paragraph></subsection><subsection id="H08B5F8295D604E64BECC5F1E62BAB911"><enum>(b)</enum><header>Guidance</header><text>Not later than 1 year after the date of enactment of this Act, the Director of the Office of Management and Budget—</text>
+ <paragraph id="H76A5D974B4F24E4FB6A1AA2152631E63"><enum>(1)</enum><text>shall issue guidance to agencies to identify how the program activities used in budget or appropriations accounts correspond with programs identified in the program inventory required under section 1122(a)(2)(A) of title 31, United States Code, as amended by subsection (a); and</text>
+ </paragraph><paragraph id="H96E9CA9E903F4CE6B60CE70DD33EE431"><enum>(2)</enum><text>may issue guidance to agencies on more closely aligning program activities to the programs in the program inventory for purposes of the budget of the President submitted to Congress under section 1105(a) of title 31, United States Code.</text>
+ </paragraph></subsection><subsection id="H2695EE9E92D648A5AEC4C6B69C123516"><enum>(c)</enum><header>Expired grant funding</header><text display-inline="yes-display-inline">Not later than February 1 of each fiscal year, the Director of the Office of Management and Budget shall publish on the public website of the Office of Management and Budget the total amount of undisbursed grant funding remaining in grant accounts for which the period of availability to the grantee has expired.</text>
+			</subsection></section><section id="HB2FFAF939F58483285699CEF33D52442"><enum>3.</enum><header>Regulations and implementation</header>
+ <subsection id="HDD9052D37D5B4D2DA5FBFCD1BBC54A98"><enum>(a)</enum><header>Regulations</header><text>Not later than 120 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall prescribe regulations or other guidance to implement this Act, and the amendments made by this Act.</text>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="HF3E4C7E9E56C4F78B7CD4128EE5439BC"><enum>(b)</enum><header>Implementation</header><text>This Act, and the amendments made by this Act, shall be implemented not later than 1 year after the date of enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

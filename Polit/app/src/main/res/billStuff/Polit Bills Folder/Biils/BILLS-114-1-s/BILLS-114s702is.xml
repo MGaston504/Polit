@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S702 IS: Stop Illegal Insider Trading Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-03-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 702</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150311">March 11, 2015</action-date>
+			<action-desc><sponsor name-id="S259">Mr. Reed</sponsor> (for himself and <cosponsor name-id="S306">Mr. Menendez</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To strengthen the prohibitions on insider trading, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+ <section id="id8C4247FE4762412F9289C1C561EBAF06" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Illegal Insider Trading Act</short-title></quote>.</text> </section><section id="id1D02DA5287874BFCA79AB9CFA5A3C140" section-type="subsequent-section"><enum>2.</enum><header>Strengthening the prohibition on insider trading</header><text display-inline="no-display-inline">Section 10 of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78j">15 U.S.C. 78j</external-xref>) is amended—</text>
+ <paragraph id="idC5CE464440FB46CBB1D5FE19983EAB63"><enum>(1)</enum><text display-inline="yes-display-inline">in the matter immediately preceding the flush text at the end of the section, by inserting at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idC60115C2291B4662BC7D6F6E8B73A0A7" style="OLC">
+ <subsection id="id43F336295C484F658B8CDA376C9A0494"><enum>(d)</enum><paragraph commented="no" display-inline="yes-display-inline" id="id1392001C1EBC4B529F6BE6DD42433451"><enum>(1)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="id64E13ACDC21740E783FF41DB285124D7"><enum>(A)</enum><text>To purchase, sell, or cause the purchase or sale of any security on the basis of material information that the person knows or has reason to know is not publicly available.</text>
+ </subparagraph><subparagraph id="id735333982E92490189733F752A086AEF" indent="up2"><enum>(B)</enum><text>To knowingly or recklessly communicate material information that the person knows or has reason to know is not publicly available to any other person under circumstances in which it is reasonably foreseeable that such communication is likely to result in a violation of subparagraph (A).</text>
+ </subparagraph></paragraph><paragraph id="idD1904F79C7D44CAE9742374C6E91E96E" indent="up1"><enum>(2)</enum><text>For purposes of this subsection, the term <quote>not publicly available</quote> shall not include information that the person has independently developed from publicly available sources.</text>
+ </paragraph><paragraph id="id41BC25E85B4A4720B878ABCCFA4E6B1B" indent="up1"><enum>(3)</enum><text>The Commission may, by rule, exempt any person, transaction, or communication, or any class of persons, transactions, or communications from the prohibitions under this subsection, if the Commission determines that such exemption is necessary or appropriate in the public interest and consistent with the protection of investors.</text>
+ </paragraph><paragraph id="idD5D0D999C2C843B590AF77BAA1E62FA5" indent="up1"><enum>(4)</enum><text>Nothing in this subsection shall be construed to affect liability under subsection (b).</text> </paragraph></subsection><after-quoted-block>; and</after-quoted-block></quoted-block> </paragraph><paragraph id="idDC87144525094E7CBE84BA823B6CBB39"><enum>(2)</enum><text>in the flush text at the end of the section—</text>
+ <subparagraph id="id6A0B732A6B4C462FA6E9D88B0D91AE86"><enum>(A)</enum><text>by striking <quote>Rules promulgated</quote> and inserting <quote>Subsection (d) and rules promulgated</quote>; and</text> </subparagraph><subparagraph id="id0E282EBDA0D74C76AE2445C69933B545"><enum>(B)</enum><text>by inserting <quote>or subsection (d)</quote> after <quote>subsection (b)</quote> each place that term appears.</text></subparagraph></paragraph></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="H617B0CF586AF42E5A0E6AD25D8903B3D" public-private="public"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1634 RH: Border Security Technology Accountability Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IB</distribution-code> 
+<calendar display="yes">Union Calendar No. 171</calendar> 
+<congress display="yes">114th CONGRESS</congress> <session display="yes">1st Session</session> 
+<legis-num>H. R. 1634</legis-num> 
+<associated-doc role="report" display="yes">[Report No. 114–226]</associated-doc> 
+<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150325">March 25, 2015</action-date> 
+<action-desc><sponsor name-id="M001197">Ms. McSally</sponsor> (for herself, <cosponsor name-id="M001157">Mr. McCaul</cosponsor>, <cosponsor name-id="K000386">Mr. Katko</cosponsor>, <cosponsor name-id="H001073">Mr. Hurd of Texas</cosponsor>, <cosponsor name-id="C001103">Mr. Carter of Georgia</cosponsor>, <cosponsor name-id="W000819">Mr. Walker</cosponsor>, <cosponsor name-id="L000583">Mr. Loudermilk</cosponsor>, and <cosponsor name-id="R000601">Mr. Ratcliffe</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHM00" added-display-style="italic" deleted-display-style="strikethrough">Committee on Homeland Security</committee-name></action-desc> 
+</action> 
+<action>
+<action-date date="20150727">July 27, 2015</action-date>
+<action-desc>Additional sponsors: <cosponsor name-id="R000604">Mr. Russell</cosponsor>, <cosponsor name-id="K000210">Mr. King of New York</cosponsor>, <cosponsor name-id="B001257">Mr. Bilirakis</cosponsor>, <cosponsor name-id="M001150">Mrs. Miller of Michigan</cosponsor>, <cosponsor name-id="G000565">Mr. Gosar</cosponsor>, and <cosponsor name-id="H001036">Mr. Hensarling</cosponsor></action-desc>
+</action>
+<action> 
+<action-date date="20150727">July 27, 2015</action-date> 
+<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action-desc> 
+<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction> 
+<action-instruction>For text of introduced bill, see copy of bill as introduced on March 25, 2015</action-instruction> 
+</action> 
+<action display="yes"> 
+<action-desc display="yes"><pagebreak/></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To strengthen accountability for deployment of border security technology at the Department of Homeland Security, and for other purposes.<pagebreak/></official-title> 
+</form> 
+<legis-body display-enacting-clause="yes-display-enacting-clause" changed="added" style="OLC" committee-id="HHM00" reported-display-style="italic" id="H3D513A7DA57141CC955ABC8CF870AF98"> 
+<section id="H09279979EC394CADBB9443E1601E7FB7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Border Security Technology Accountability Act of 2015</short-title></quote>.</text></section> <section id="H11A22CFAC5B44C9A9A04D633EF1EEF8D"><enum>2.</enum><header>Border security technology accountability</header> <subsection id="H41164CA3B95E4D94833D97CDAF73F5D6"><enum>(a)</enum><header>In general</header><text>Subtitle C of title IV of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/231">6 U.S.C. 231 et seq.</external-xref>) is amended by adding at the end the following new section:</text> 
+<quoted-block id="H5E999E2A982A47AB96F820420EF4FEC8" style="OLC"> 
+<section id="H7C8342F7776D4BB7BAD4715C3AF66EC8"><enum>434.</enum><header>Border security technology program management</header> 
+<subsection id="H00C0D8D6618D4C77B0C2033787590FAD"><enum>(a)</enum><header>Planning documentation</header><text>For each border security technology acquisition program of the Department that is determined to be a major acquisition program, the Secretary shall—</text> <paragraph id="H05FEFEA8D3334EF0B4424E7784898E4C"><enum>(1)</enum><text>ensure that each such program has a written acquisition program baseline approved by the relevant acquisition decision authority;</text></paragraph> 
+<paragraph id="H76320D1110744C108FFAA80E0BC40AF5"><enum>(2)</enum><text>document that each such program is meeting cost, schedule, and performance thresholds as specified in such baseline, in compliance with relevant departmental acquisition policies and the Federal Acquisition Regulation; and</text></paragraph> <paragraph id="H5F22C331585A454CB5B72A1CAE55B4B6"><enum>(3)</enum><text>have a plan for meeting program implementation objectives by managing contractor performance.</text></paragraph></subsection> 
+<subsection id="HCF9DD3B4E14E476EB83050AE69310C1A"><enum>(b)</enum><header>Adherence to standards</header><text>The Secretary, acting through the Under Secretary for Management and the Commissioner of U.S. Customs and Border Protection, shall ensure border security technology acquisition program managers who are responsible for carrying out this section adhere to relevant internal control standards identified by the Comptroller General of the United States. The Commissioner shall provide information, as needed, to assist the Under Secretary in monitoring proper program management of border security technology acquisition programs under this section.</text></subsection> <subsection id="H4E71A3840EF74E98BB6EBCBDA0795D67"><enum>(c)</enum><header>Plan</header><text display-inline="yes-display-inline">The Secretary, acting through the Under Secretary for Management, in coordination with the Under Secretary for Science and Technology and the Commissioner of U.S. Customs and Border Protection, shall submit to the appropriate congressional committees a plan for testing and evaluation, as well as the use of independent verification and validation resources, for border security technology so that new border security technologies are evaluated through a series of assessments, processes, and audits to ensure compliance with relevant departmental acquisition policies and the Federal Acquisition Regulation, as well as the effectiveness of taxpayer dollars.</text></subsection> 
+<subsection id="H5E973A1EA5264628B1F3836A4B9F88F6"><enum>(d)</enum><header>Major acquisition program defined</header><text display-inline="yes-display-inline">In this section, the term <quote>major acquisition program</quote> means a Department acquisition program that is estimated by the Secretary to require an eventual total expenditure of at least $300,000,000 (based on fiscal year 2015 constant dollars) over its life cycle cost. </text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HE49BBA5CF37E4883859F6574D6BB0634"><enum>(b)</enum><header>Clerical amendment</header><text>The table of contents of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 433 the following new item:</text> 
+<quoted-block display-inline="no-display-inline" id="HEDBF2EC4A310489693D9F43B21745D27" style="OLC"> 
+<toc regeneration="no-regeneration"> 
+<toc-entry level="section">Sec. 434. Border security technology program management.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> 
+<section id="H40F244DF128F46C6BFEE850440580500"><enum>3.</enum><header>Prohibition on additional authorization of appropriations</header><text display-inline="no-display-inline">No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act. This Act and such amendments shall be carried out using amounts otherwise available for such purposes.</text></section> </legis-body> <endorsement display="yes"> <action-date date="20150727">July 27, 2015</action-date> <action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action-desc></endorsement> </bill> 
+

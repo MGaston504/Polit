@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S813 IS: Military Sequester Flexibility Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-03-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 813</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150319">March 19, 2015</action-date>
+			<action-desc><sponsor name-id="S348">Mr. Paul</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSAS00">Committee on Armed Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide the Secretary of Defense with authority to transfer funds in order to mitigate the
+			 effects on the Department of Defense of a sequestration of funds available
+			 to the Department of Defense, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+ <section id="id9A5117ADFC8C4BDA85EC0D5413F9A264" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Military Sequester Flexibility Act</short-title></quote>.</text> </section><section id="id7E267E069ACD419C944D24EC607A326F" section-type="subsequent-section"><enum>2.</enum><header>Transfer authority for Department of Defense funds to mitigate the effects on the Department of Defense of a sequestration of funds</header> <subsection id="ida28189711c344fbb8f2119b0de7933b8"><enum>(a)</enum><header>Authority To transfer authorizations</header> <paragraph id="idfcb42d4f241d4d48916289070affc2fc"><enum>(1)</enum><header>Authority</header><text>The Secretary of Defense may transfer amounts of authorizations made available to the Department of Defense for a fiscal year between any such authorizations for that fiscal year (or any subdivisions thereof) if the Secretary determines that the transfer—</text>
+ <subparagraph id="id7A2E6AD0D77243E5AC91E8AB619CD478"><enum>(A)</enum><text>is necessary to mitigate the effects on the Department of Defense of a reduction in the discretionary spending limit or the sequestration of direct spending under section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/2/901a">2 U.S.C. 901a</external-xref>) or a sequestration under section 251(a)(1) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/2/901">2 U.S.C. 901(a)(1)</external-xref>); and</text>
+ </subparagraph><subparagraph id="idD39F590A6F9A40319DBEAF3FD02B79DE"><enum>(B)</enum><text>is necessary in the national interest.</text> </subparagraph></paragraph><paragraph id="id57e5e5b2cc80486fba80c6b9e0d3d625"><enum>(2)</enum><header>Limitation</header><text>Except as provided in paragraph (3), the total amount of authorizations that the Secretary may transfer under the authority of this section in a fiscal year may not exceed $50,000,000,000.</text>
+				</paragraph><paragraph id="id9525078f8b1f4c26860ae1265f644d45"><enum>(3)</enum><header>Exception for
+ transfers between military personnel authorizations</header><text>A transfer of funds between military personnel authorizations shall not be counted toward the dollar limitation in paragraph (2).</text>
+ </paragraph><paragraph id="idF118EBC1E00B48ADAE4DF52CAACC42F4"><enum>(4)</enum><header>Treatment of amounts transferred</header><text>Amounts of authorizations transferred pursuant to paragraph (1) shall be merged with and be available for the same purposes as the authorization to which transferred.</text>
+ </paragraph></subsection><subsection id="id9e7d937209034e0fa0818a5adf414e61"><enum>(b)</enum><header>Limitations</header><text>The authority provided by subsection (a) to transfer authorizations—</text>
+ <paragraph id="idd6e59782ec694fe78d7ae8c21c89b720"><enum>(1)</enum><text>may only be used to provide authority for items that have a higher priority than the items from which authority is transferred;</text>
+ </paragraph><paragraph id="id997e2effe1844a59868c8691610a03b9"><enum>(2)</enum><text>may not be used to provide authority for an item that has been denied authorization by Congress; and</text>
+ </paragraph><paragraph id="idA4F109EF949741D1AFA23C7FAF123511"><enum>(3)</enum><text>may not reduce the amount authorized for the fiscal year concerned for an item by an amount in excess of the amount equal to 50 percent of the amount otherwise authorized to be appropriated for that fiscal year for that item.</text>
+ </paragraph></subsection><subsection id="id970DC09EC81A470D88DC5552CECF56F4"><enum>(c)</enum><header>Notice to Congress</header><text>The Secretary of Defense shall notify Congress of each proposed use of the transfer authority in subsection (a).</text>
+ </subsection><subsection id="idB3C5D5F0F1E64B24B360865275EF037A"><enum>(d)</enum><header>Congressional disapproval</header><text>A transfer may not occur under the authority in subsection (a) if Congress enacts a joint resolution disapproving the transfer within the 30-day period beginning on the notice to Congress of the transfer pursuant to subsection (c).</text>
+			</subsection><subsection id="idfbdfab9761aa4b62bebd257a45d551b0"><enum>(e)</enum><header>Effect on
+ authorization amounts</header><text>A transfer made from one account to another under the authority of this section shall be deemed to increase the amount authorized for the account to which the amount is transferred by an amount equal to the amount transferred.</text>
+ </subsection><subsection id="id042686FD6D024469ABC4A59944C272AE"><enum>(f)</enum><header>Construction of authority</header><text>The authority to transfer funds under this section in addition to any other authority available to the Secretary of Defense to transfer funds for the Department of Defense under any other provision of law.</text>
+ </subsection><subsection id="idC51F04F54FFC4DD59AE11E362E2F32FE"><enum>(g)</enum><header>Sunset</header><text>The authority to transfer funds under this section shall expire on September 30, 2023.</text> </subsection></section></legis-body> </bill> 
+

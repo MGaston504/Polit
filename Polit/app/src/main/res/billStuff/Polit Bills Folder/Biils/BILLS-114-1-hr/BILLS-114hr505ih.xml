@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HAB3511086F764150A0DFED732E192B18" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 505 IH: Developing Standards for Electronic Shipping Papers Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 505</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150122">January 22, 2015</action-date>
+			<action-desc><sponsor name-id="L000563">Mr. Lipinski</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To establish a Hazardous Materials Information Advisory Committee to develop standards for the use
+			 of electronic shipping papers for the transportation of hazardous
+			 materials, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H9533842FBE324636989EEE3E120D2FA4" style="OLC">
+ <section id="HA5263DB78E884B1BAFC81F2AB58787C4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Developing Standards for Electronic Shipping Papers Act of 2015</short-title></quote>.</text> </section><section id="HEB8DC16D75B5444CB6C030A9001D7B61"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+ <paragraph id="H61307992230543D991D72B30CDF91F08"><enum>(1)</enum><text>The impacts of hazardous materials transportation incidents can be mitigated by effective response strategies, equipment, and training.</text>
+ </paragraph><paragraph id="HB380A70F6F8741F5B085B68547B926CC"><enum>(2)</enum><text>Shipping papers and manifests are essential tools for responding to incidents involving hazardous materials as they provide the disclosures needed to determine the proper response strategy.</text>
+ </paragraph><paragraph id="H348B1D277B1E4868BA42DD52B8BB4BEA"><enum>(3)</enum><text>While physical shipping papers must continue to be required under law in order to ensure that redundancies are in place to protect the safety of first responders, there should be efforts to modernize how hazardous materials information is disseminated.</text>
+ </paragraph><paragraph id="H972E241557BB42E28855D9D20C00C6F6"><enum>(4)</enum><text>The HM–ACCESS Program authorized in section 33005 of MAP–21 (<external-xref legal-doc="usc" parsable-cite="usc/49/5121">49 U.S.C. 5121</external-xref> note) is an important step for developing additional, innovative methods for disseminating hazardous material information electronically, but the pilot tests will not be completed until October 2015.</text>
+ </paragraph><paragraph id="H91154852FBA84094BC23B877ADA8E300"><enum>(5)</enum><text>As transporters of hazardous materials in commerce deploy these innovative technologies on their own, efforts should be undertaken to ensure that best practices and voluntary standards are available until the HM–ACCESS pilot and subsequent rulemakings are completed so that transporters of hazardous materials will have guidelines to assist with their modernization effort while ensuring that first responders will have access to standardized information platforms and systems.</text>
+ </paragraph></section><section id="H4936ADE818C447CF98BB7EFB91D3FFF3"><enum>3.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> <paragraph id="HD7E770D297564A79BAE6E2E41645760A"><enum>(1)</enum><header>Commerce and hazardous material</header><text>The terms <quote>commerce</quote> and <quote>hazardous material</quote> have the meanings given such terms in section 5102 of title 49, United States Code.</text>
+ </paragraph><paragraph id="HB8624180540B4DF89DC427A7C6C87166"><enum>(2)</enum><header>Electronic shipping paper</header><text>The term <quote>electronic shipping paper</quote> means an electronic version of the physical shipping paper that is—</text> <subparagraph id="HA01561AF3B484001B0F0F60D3B0F5714"><enum>(A)</enum><text>designed to convey the most current available hazard information required to be disclosed under section 5110(a) of title 49, United States Code; and</text>
+ </subparagraph><subparagraph id="H667F80F8F5D04A5585A50E71AA7107E2"><enum>(B)</enum><text>capable of being accessed instantaneously by emergency responders during an incident involving hazardous material being transported in commerce.</text>
+				</subparagraph></paragraph></section><section id="HD24ADDB105BE45D4B557DD2C64F3F516"><enum>4.</enum><header>Hazardous Materials Information Advisory Committee</header>
+ <subsection id="HD92AB78291574056A435C853E08D7089"><enum>(a)</enum><header>In general</header><text>Not later than 30 days after the date of enactment of this Act, the Secretary of Transportation shall establish a Hazardous Materials Information Advisory Committee composed of members appointed by the Secretary.</text>
+ </subsection><subsection id="H5393B1287B394F688A7C380691A609F9"><enum>(b)</enum><header>Membership</header><text>Members appointed by the Secretary under subsection (a) shall represent the following individuals and entities:</text>
+ <paragraph id="HD99612908C264368B6F0871609A7DECD"><enum>(1)</enum><text>Fire services personnel and management.</text> </paragraph><paragraph id="H60180CDEF7AD43BE9F2A55147CE3D2D9"><enum>(2)</enum><text>Law enforcement and other appropriate enforcement personnel.</text>
+ </paragraph><paragraph id="H00994D6CA5ED45BFA7281DB794779DB2"><enum>(3)</enum><text>Other emergency response providers.</text> </paragraph><paragraph id="H63D536CA4E654537AAB1850689B2B892"><enum>(4)</enum><text>Persons who transport hazardous material by air, highway, rail, or water.</text>
+ </paragraph><paragraph id="H7B064D2A4AF445108BB161B7F840FB03"><enum>(5)</enum><text>Persons who offer hazardous material in commerce for transport by air, highway, rail, or water.</text> </paragraph><paragraph id="H2102C05D1D504416B234FDF41209EC41"><enum>(6)</enum><text>Employees of persons who transport or offer for transportation hazardous material in commerce by air, highway, rail, or water.</text>
+ </paragraph><paragraph id="H72182906ABD74E70B70EEEFB37613A67"><enum>(7)</enum><text>The Coast Guard and other relevant agencies.</text> </paragraph><paragraph id="HD892ECF73539454EB63C63B9562D2171"><enum>(8)</enum><text>Other individuals and entities determined appropriate by the Secretary.</text>
+ </paragraph></subsection><subsection id="H52559339B94D49108BF1AEF58BDC4CEB"><enum>(c)</enum><header>Duties</header><text>Not later than 120 days after the establishment of the Hazardous Materials Information Advisory Committee under subsection (a), the Committee shall—</text>
+ <paragraph id="H6DDA90C13D63409EBB43AD3C08D97B91"><enum>(1)</enum><text>develop a voluntary standard for the use of electronic shipping papers until a rulemaking has been completed;</text>
+ </paragraph><paragraph id="H3CF70812FFEA4CB884A5032A8BDB4FC8"><enum>(2)</enum><text>establish a standardized curriculum for training first responders and enforcement officials in the use of electronic shipping papers and other alternative means of communicating hazardous materials information;</text>
+ </paragraph><paragraph id="H6F7FD8722BF84B97BC2EC147E8D92D0B"><enum>(3)</enum><text>provide recommendations and best practices for the use of electronic shipping papers by first responders in varying circumstances and locations;</text>
+ </paragraph><paragraph id="H0E10F6E08EEB4ABDB69B24F53DC869B4"><enum>(4)</enum><text>provide recommendations and best practices to assist persons transporting hazardous materials in commerce in implementing electronic shipping papers; and</text>
+ </paragraph><paragraph id="H16256B741BC745C1BF287FBA0680AD3F"><enum>(5)</enum><text>assess potential issues during deployment phases, including first responder training, technology procurement issues and budget limitations, and biometrics.</text>
+ </paragraph></subsection><subsection id="H4D0A88B1DF544A3D8DD44FBE353DA452"><enum>(d)</enum><header>Requirements</header><text>In developing the best practices, standards, and findings under subsection (c), the Hazardous Materials Information Advisory Committee shall take into consideration—</text>
+ <paragraph id="H7A0A35FA37B54286AF8F6E6F1F1AE7F1"><enum>(1)</enum><text>the scalability of information in its presentation to determine the most efficient means of conveying necessary information for emergency response personnel while allowing access to ancillary information relating to the transport of hazardous materials in order to ensure that information conveyed fits the intended need and the varying levels of first responder training;</text>
+ </paragraph><paragraph id="H5BFAA92C2FC8465CB4F8A86222EDB041"><enum>(2)</enum><text>access issues and spectrum issues for rural responders;</text> </paragraph><paragraph id="HBA6F993CB94A41A787078EDD4F4221D3"><enum>(3)</enum><text>standardization of information to equipment to ensure consistency across modes;</text>
+ </paragraph><paragraph id="H6E1308704F5049499430DF96268D1B3D"><enum>(4)</enum><text>providing data security and protection from unwanted manipulation in order to preserve the integrity of data entered by transporters of hazardous materials and accessed by bona fide first responders;</text>
+ </paragraph><paragraph id="H96C569F9EB554DE0AA140498E08D7511"><enum>(5)</enum><text>the need to develop a National Deployment Standard on biometrics and identifiers to ensure secure access for first responders;</text>
+ </paragraph><paragraph id="HEF563303709345BABC78F271AED100F3"><enum>(6)</enum><text>the potential for the deployment of fail-safe redundancies linked to State, regional, and local 911 emergency centers;</text>
+ </paragraph><paragraph id="HE94D175A30EF44D48C39DCA1467BCC67"><enum>(7)</enum><text>the timing of implementation and methods for funding the implementation of electronic shipping papers devices and training;</text>
+ </paragraph><paragraph id="H0ADAEB42A52A4EF4B1FDFC80C7ED87C3"><enum>(8)</enum><text>updates and revisions to the Emergency Response Guidebooks;</text> </paragraph><paragraph id="HDCA3C14568734EF8AFA5D43402BD76EC"><enum>(9)</enum><text>existing technologies that are employed voluntarily by persons who transport hazardous materials in commerce by air, highway, rail, and water; and</text>
+ </paragraph><paragraph id="H73DDBB216FED4003BE621C85D926EA0E"><enum>(10)</enum><text>the results of pilot tests being conducted in accordance with section 33005 of MAP–21 (<external-xref legal-doc="usc" parsable-cite="usc/49/5121">49 U.S.C. 5121</external-xref> note) and any interim recommendations issued by the persons administering such pilot tests.</text>
+ </paragraph></subsection><subsection id="H65FE4A1085A147E281376852C43B9EDD"><enum>(e)</enum><header>Travel expenses</header><text>The Secretary may provide travel expenses, including per diem in lieu of subsistence, to a member appointed under subsection (b)(1), (b)(2), or (b)(3) in accordance with applicable provisions under subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/57">chapter 57</external-xref> of title 5, United States Code.</text>
+ </subsection><subsection id="HC23DBCB8154F474A9A00D4D666E84C2D"><enum>(f)</enum><header>Report</header><text>Not later than 120 days after the date of enactment of this Act, the Hazardous Materials Information Advisory Committee shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, a report listing the best practices, standards, and findings developed under subsection (c).</text>
+			</subsection></section></legis-body>
+</bill>
+
+

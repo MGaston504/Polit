@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB60F91DD169A4F888D22130EF618DEDC" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2592 IH: To amend the Communications Act of 1934 to require the Federal Communications Commission to publish on the website of the Commission documents to be voted on by the Commission.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2592</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150601">June 1, 2015</action-date>
+			<action-desc><sponsor name-id="K000378">Mr. Kinzinger of Illinois</sponsor> (for himself and <cosponsor name-id="A000372">Mr. Allen</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Communications Act of 1934 to require the Federal Communications Commission to publish
+			 on the website of the Commission documents to be voted on by the
+			 Commission.</official-title>
+	</form>
+	<legis-body id="H88FE6B5B5BDA4B249A3AAA25D468E01D" style="OLC">
+		<section id="H2F296A497C814568B2A878B03BF3E757" section-type="section-one"><enum>1.</enum><header>Publication of documents in advance of FCC voting</header>
+ <subsection id="HE2FB3BD6034C4BF6B9B399CB5C89BCDE"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 4 of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/154">47 U.S.C. 154</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H48C021280A394E809343CBFF8C7AA51B" style="OLC">
+					<subsection id="H4A9D160F0F5B4601A1C96DFDADA9740E"><enum>(p)</enum>
+ <paragraph commented="no" display-inline="yes-display-inline" id="HCD1293253FBB4EC38DC32F2036039CB5"><enum>(1)</enum><text>The Commission may not adopt any order, decision, report, or action by vote of the Commission, unless the Chairman causes the Commission to publish on the Internet website of the Commission the text of such order, decision, report, or action—</text>
+ <subparagraph id="H21811D2FE3C340BABDFDCED66D8B5180" indent="up1"><enum>(A)</enum><text>not later than 24 hours after the time such text is placed on circulation for review by the Commissioners; or</text>
+ </subparagraph><subparagraph commented="no" id="H4A694CE946BA4A82845E3FDD409DD317" indent="up1"><enum>(B)</enum><text display-inline="yes-display-inline">not later than 21 days before the date on which the vote is to occur.</text> </subparagraph></paragraph><paragraph id="H2F9454FF13504D0689BCF5D8B3049D26" indent="up1"><enum>(2)</enum><text>The text published pursuant to paragraph (1) shall be the text intended at the time of the publishing to be subject to a vote. Nothing in this subsection may be construed to prevent the Commission from making changes to the text after the publishing.</text>
+ </paragraph><paragraph id="H642343C51BD24F65B73F3E552947F2AC" indent="up1"><enum>(3)</enum><text>This subsection shall not apply to a portion of any order, decision, report, or action if the publishing of such portion is likely to lead to a result described in a paragraph of section 552b(c) of title 5, United States Code.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H86E6699DBF034DF393EB2646FD9BEBB3"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply with respect to an order, decision, report, or action the text of which is placed on circulation after the date that is 90 days after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

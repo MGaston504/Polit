@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Referred-in-Senate" bill-type="olc" dms-id="HD0C0730012F84E6280F4A483B45470F1" public-private="public" stage-count="1">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2146 : Defending Public Safety Employees’ Retirement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IIB</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2146</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action><action-date date="20150513">May 13, 2015</action-date><action-desc>Received; read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc></action><legis-type>AN ACT</legis-type>
+		<official-title display="yes">To amend the Internal Revenue Code of 1986 to allow Federal law enforcement officers, firefighters,
+			 and air traffic controllers to make penalty-free withdrawals from
+			 governmental plans after age 50, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H0EB3083E67204B439FA571C589BB5CD1" style="OLC">
+ <section id="H3BF2F7E04027418DA0BD9654425F635E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Defending Public Safety Employees’ Retirement Act</short-title></quote>.</text> </section><section id="HF5B21BF4FF6745FF8661C07F1352E6BD"><enum>2.</enum><header>Early retirement distributions to Federal law enforcement officers, firefighters, and air traffic controllers in governmental plans</header> <subsection id="H78640C2E01C247D59B6FE70CC5F20277"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/72">Section 72(t)(10)(B)</external-xref> of the Internal Revenue Code of 1986 is amended—</text>
+ <paragraph id="H2FC7F278F355411392F251E2A5248C0A"><enum>(1)</enum><text>by striking the period at the end and inserting <quote>, or</quote>;</text> </paragraph><paragraph id="H01908523915C44B18A415F06BA2495CA"><enum>(2)</enum><text>by striking <quote>means any employee</quote> and inserting the following:</text>
+					<quoted-block display-inline="yes-display-inline" id="HBA0A2A63D9D14F419952E5880546B662" style="OLC">
+ <text>means—</text><clause id="H7C2B8BD98F914871BFF151CB203EE0E0"><enum>(i)</enum><text display-inline="yes-display-inline">any employee</text></clause><after-quoted-block>; and</after-quoted-block></quoted-block> </paragraph><paragraph id="H6AA13CFFB0BE423EA77278A4F418100C"><enum>(3)</enum><text>by adding at the end the following new clause:</text>
+					<quoted-block display-inline="no-display-inline" id="HB3C8135651024EBBA730DC87F2F2D81B" style="OLC">
+ <clause id="H337D6E970E344E9D9527BEB63D71242B"><enum>(ii)</enum><text display-inline="yes-display-inline">any Federal law enforcement officer described in section 8331(20) or 8401(17) of title 5, United States Code, any Federal customs and border protection officer described in section 8331(31) or 8401(36) of such title, any Federal firefighter described in section 8331(21) or 8401(14) of such title, or any air traffic controller described in 8331(30) or 8401(35) of such title.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H8B37D1CC2C8E4C8C97060A14DF369401"><enum>(b)</enum><header>Application to defined contribution plans</header><text>Section 72(t)(10)(A) of such Code is amended by striking <quote>which is a defined benefit plan</quote>.</text> </subsection><subsection id="H427823FF2BA44858A77678BF3935EC77"><enum>(c)</enum><header>Distributions not treated as modification of substantially equal payments</header><text>Section 72(t)(4)(A)(ii) of such Code is amended by inserting <quote>or a distribution to which paragraph (10) applies</quote> after <quote>other than by reason of death or disability</quote>.</text>
+ </subsection><subsection id="H83073735B9DC417CBC392BB3C641D993"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this section shall apply to distributions after December 31, 2014.</text> </subsection></section><section id="H756D8378DBAD4CA898E2A1C807065E1B"><enum>3.</enum><header>Budgetary effects</header><text display-inline="no-display-inline">The budgetary effects of this Act shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010.</text>
+		</section></legis-body>
+	<attestation><attestation-group><attestation-date chamber="House" date="20150512">Passed the House of Representatives May 12, 2015.</attestation-date><attestor display="yes">Karen L. Haas,</attestor><role>Clerk</role></attestation-group></attestation>
+</bill>
+
+

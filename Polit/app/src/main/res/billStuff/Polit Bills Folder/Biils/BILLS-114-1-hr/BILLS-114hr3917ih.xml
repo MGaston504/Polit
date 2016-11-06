@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEF137CF002CD47C0BF663493E9341092" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3917 IH: CARS Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3917</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151103">November 3, 2015</action-date>
+			<action-desc><sponsor name-id="Y000064">Mr. Young of Indiana</sponsor> (for himself, <cosponsor name-id="S001156">Ms. Linda T. Sánchez of California</cosponsor>, <cosponsor name-id="N000181">Mr. Nunes</cosponsor>, <cosponsor name-id="T000462">Mr. Tiberi</cosponsor>, <cosponsor name-id="R000578">Mr. Reichert</cosponsor>, <cosponsor name-id="K000376">Mr. Kelly of Pennsylvania</cosponsor>, <cosponsor name-id="R000586">Mr. Renacci</cosponsor>, <cosponsor name-id="P000594">Mr. Paulsen</cosponsor>, <cosponsor name-id="R000580">Mr. Roskam</cosponsor>, <cosponsor name-id="R000585">Mr. Reed</cosponsor>, <cosponsor name-id="B001255">Mr. Boustany</cosponsor>, <cosponsor name-id="N000184">Mrs. Noem</cosponsor>, <cosponsor name-id="B001273">Mrs. Black</cosponsor>, <cosponsor name-id="K000188">Mr. Kind</cosponsor>, <cosponsor name-id="T000460">Mr. Thompson of California</cosponsor>, <cosponsor name-id="L000557">Mr. Larson of Connecticut</cosponsor>, <cosponsor name-id="N000015">Mr. Neal</cosponsor>, <cosponsor name-id="R000053">Mr. Rangel</cosponsor>, <cosponsor name-id="D000096">Mr. Danny K. Davis of Illinois</cosponsor>, <cosponsor name-id="P000096">Mr. Pascrell</cosponsor>, and <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to modify the substantiation rules for the donation of
+			 vehicles valued between $500 and $2,500.</official-title>
+	</form>
+	<legis-body id="HD649FE14128648C6B1B5B220F54DB2CE" style="OLC">
+ <section id="H3F9189F7057F4CDD9632BB770EC930D1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Charitable Automobile Red-Tape Simplification Act of 2015</short-title></quote> or as the <quote>CARS Act of 2015</quote>.</text> </section><section id="HCC854BF8D93B41BEA63EDB8D0F3869E1"><enum>2.</enum><header>Modification of substantiation rules for the donation of certain vehicles</header> <subsection id="H2DD0E13F144242D99D550170F2C935C0"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/170">Section 170(f)(12)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="H80F8448D175D4AE28CAE3BDD300D735F" style="OLC">
+					<paragraph id="HCB9CE166AADB4334B583C5277E7A317D"><enum>(12)</enum><header>Contributions of used motor vehicles, boats, and airplanes exceeding $500 but not $2,500</header>
+ <subparagraph display-inline="no-display-inline" id="HC7802738E4E642068616F638FB2FC371"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">In the case of a contribution of a qualified vehicle the claimed value of which exceeds $500 but not $2,500, paragraph (8) shall not apply and no deduction shall be allowed under subsection (a) for such contribution unless the taxpayer attaches to the return for the taxable year—</text>
+ <clause id="H0F46DF406B6444D7AEC18EC193C2309F"><enum>(i)</enum><text display-inline="yes-display-inline">a statement that includes—</text> <subclause id="H3888D506F2E44EA3AED664BAA849784A"><enum>(I)</enum><text>the make, model, year of manufacture, and condition of the qualified vehicle at time of donation, and</text>
+ </subclause><subclause id="H2A2D894CF10B4B3E838107F3BA8C857F"><enum>(II)</enum><text>a good faith estimate of the value of the qualified vehicle at time of donation based on a widely available used vehicle pricing guide (as determined by the Secretary) which takes into account unusual equipment, unusual mileage, and physical condition of the vehicle, and</text>
+ </subclause></clause><clause id="HE2752383D7C448C1B09ECAA2E674FB45"><enum>(ii)</enum><text>a contemporaneous written acknowledgment of the contribution by the donee organization which includes the following information:</text>
+ <subclause id="H40735AC0CE9249BE8F19473F26B2FE5B"><enum>(I)</enum><text>The name and taxpayer identification number of the donor.</text> </subclause><subclause id="H357F799D0E8740A4AB9D360766643418"><enum>(II)</enum><text>The vehicle identification number or similar number.</text>
+ </subclause><subclause id="H7640102F9A724046854C47DF0A3B42BA"><enum>(III)</enum><text>The condition of the donated vehicle, including any engine trouble, body damage, high mileage, and any excessive wear and tear.</text>
+ </subclause><subclause id="H1E6A87910FBE4AA9ABCE133972BD3B7B"><enum>(IV)</enum><text>Whether the donee organization provided any goods or services in consideration, in whole or in part, for the qualified vehicle.</text>
+ </subclause><subclause id="H1F42B1DCEB5F471C9074DE8FE9FA1109"><enum>(V)</enum><text>A description and good faith estimate of the value of any goods or services referred to in subclause (IV) or, if such goods or services consist solely of intangible religious benefits (as defined in paragraph (8)(B)), a statement to that effect.</text>
+								</subclause></clause></subparagraph><subparagraph id="HFEA6A65E7ECF437B90F7ADD494D83C72"><enum>(B)</enum><header>Estimates to be based on trade-in value</header>
+ <clause id="HC60C16FF688349A681E45734FE2FBCE2"><enum>(i)</enum><header>In general</header><text>Any estimate made under subparagraph (A)(i)(II) based on a used vehicle pricing guide shall be made on the basis of the trade-in value of the vehicle or such similar valuation as the Secretary may specify.</text>
+ </clause><clause id="H53689003F779439180ADBA75993DB480"><enum>(ii)</enum><header>Trade-in value</header><text>For purposes of this subparagraph, the term <quote>trade-in value</quote> means a valuation based the acquisition of comparable vehicles by dealers from private parties.</text> </clause></subparagraph><subparagraph id="H7FFCCB0EC36B4AF9BCD3105515F4895F"><enum>(C)</enum><header>Information to secretary</header><text>A donee organization required to provide an acknowledgment under this paragraph shall provide to the Secretary the information contained in the acknowledgment. Such information shall be provided at such time and in such manner as the Secretary may prescribe.</text>
+ </subparagraph><subparagraph id="H67FBBF39E8264668BBCF55718408F76E"><enum>(D)</enum><header>Qualified vehicle</header><text>For purposes of this paragraph, the term <quote>qualified vehicle</quote> means any—</text> <clause id="HDE2F9D54D5324EE3A652E198E4454098"><enum>(i)</enum><text>motor vehicle manufactured primarily for use on public streets, roads, and highways,</text>
+ </clause><clause id="H6471FC999B274E88B813B829D0D81DDD"><enum>(ii)</enum><text>boat, or</text> </clause><clause id="HE6C2DB05486A4598AFDEEE9F67F97498"><enum>(iii)</enum><text>airplane.</text>
+ </clause><continuation-text continuation-text-level="subparagraph">Such term shall not include any property which is described in section 1221(a)(1).</continuation-text></subparagraph><subparagraph id="H80841173004247A7829ED3C44933F280"><enum>(E)</enum><header>Regulations or other guidance</header><text>The Secretary shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this paragraph.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H3031E0C1895041A1938CAE0291A9A19D"><enum>(b)</enum><header>Coordination with appraisal requirements</header>
+ <paragraph id="HD93DB71B12D84C4C8D2145BF9CE9630B"><enum>(1)</enum><header>In general</header><text>Section 170(f)(11)(A)(ii)(I) of such Code is amended—</text> <subparagraph id="HC966FF0584944C309DBE794E4DE1D483"><enum>(A)</enum><text>by inserting <quote>and</quote> before <quote>publicly</quote>, and</text>
+ </subparagraph><subparagraph id="H319003EE2EF54EFE9754C7AE4A43692B"><enum>(B)</enum><text>by striking <quote>and any qualified vehicle described in paragraph (12)(A)(ii) for which an acknowledgment under paragraph (12)(B)(iii) is provided</quote>.</text>
+ </subparagraph></paragraph><paragraph id="H15580F22A5A24A37973F0437B0ED0421"><enum>(2)</enum><header>Coordination of dollar limitations</header><text>Section 170(f)(11)(C) of such Code—</text> <subparagraph id="HA9AE697E983946EB866B7B9CC57C846A"><enum>(A)</enum><text>is amended by inserting <quote>($2,500 in the case of a qualified vehicle as defined in paragraph (12))</quote> after <quote>$5,000</quote>, and</text>
+ </subparagraph><subparagraph id="HFF981D3DED454C60B6C7C7D7909144EA"><enum>(B)</enum><text>by striking <quote><header-in-text level="subparagraph" style="OLC">contributions of more than <enum-in-header>$5,000</enum-in-header></header-in-text></quote> in the heading thereof and inserting <quote><header-in-text level="subparagraph" style="OLC">certain contributions</header-in-text></quote>.</text> </subparagraph></paragraph></subsection><subsection id="H6BA8A2F157B64D7CA5858E0BCE16946D"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2015.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H73541EA001AD430494A797000B980318" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1847 IH: Swap Data Repository and Clearinghouse Indemnification Correction Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1847</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150416">April 16, 2015</action-date>
+			<action-desc><sponsor name-id="C001087">Mr. Crawford</sponsor> (for himself, <cosponsor name-id="M001185">Mr. Sean Patrick Maloney of New York</cosponsor>, <cosponsor name-id="H001058">Mr. Huizenga of Michigan</cosponsor>, and <cosponsor name-id="M001160">Ms. Moore</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name>, and in addition to the Committee on <committee-name committee-id="HBA00">Financial Services</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Securities Exchange Act of 1934 and the Commodity Exchange Act to repeal the
+			 indemnification requirements for regulatory authorities to obtain access
+			 to swap data required to be provided by swaps entities under such Acts.</official-title>
+	</form>
+	<legis-body id="H56C31EF5543E43C98A5BCB932FE2A8D3" style="OLC">
+ <section id="H9CE19632FDF141E793873BAF8B07F44E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Swap Data Repository and Clearinghouse Indemnification Correction Act of 2015</short-title></quote>.</text> </section><section id="H934337527A0A4773805DAFA54481D48C"><enum>2.</enum><header>Repeal of indemnification requirements</header> <subsection id="H1CDC4B212A54495EB65FDF7122E94A24"><enum>(a)</enum><header>Derivatives clearing organizations</header><text display-inline="yes-display-inline">Section 5b(k)(5) of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/7a-1">7 U.S.C. 7a–1(k)(5)</external-xref>) is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="H209C83ABE2CB4726B066D62493844880" style="OLC">
+ <paragraph id="H8109AF7912C441CB92EDACA875456D3A"><enum>(5)</enum><header>Confidentiality agreement</header><text display-inline="yes-display-inline">Before the Commission may share information with any entity described in paragraph (4), the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 8 relating to the information on swap transactions that is provided.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HD2B1569D36E24E18A241F84BC76CAF3E"><enum>(b)</enum><header>Swap data repositories</header><text>Section 21(d) of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/24a">7 U.S.C. 24a(d)</external-xref>) is amended to read as follows:</text> <quoted-block display-inline="no-display-inline" id="H436B431FA3EE49EE98F281C8D8A66C7A" style="OLC"> <subsection id="H6524FC53EE2045FCBB176B9DB781894A"><enum>(d)</enum><header>Confidentiality agreement</header><text display-inline="yes-display-inline">Before the swap data repository may share information with any entity described in subsection (c)(7), the swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 8 relating to the information on swap transactions that is provided.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HBCFBF81443C84F43902A3D438EC01396"><enum>(c)</enum><header>Security-Based swap data repositories</header><text>Section 13(n)(5)(H) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78m">15 U.S.C. 78m(n)(5)(H)</external-xref>) is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="HEF5800157BDC47F383E55FE77451F392" style="OLC">
+ <subparagraph id="HF1446084150F49EC841D3A79C0D24602"><enum>(H)</enum><header>Confidentiality agreement</header><text display-inline="yes-display-inline">Before the security-based swap data repository may share information with any entity described in subparagraph (G), the security-based swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 24 relating to the information on security-based swap transactions that is provided.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H685432D7250B4F04BC01A2D71A0C9E05"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this Act shall take effect as if enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act (<external-xref legal-doc="public-law" parsable-cite="pl/111/203">Public Law 111–203</external-xref>) on July 21, 2010.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

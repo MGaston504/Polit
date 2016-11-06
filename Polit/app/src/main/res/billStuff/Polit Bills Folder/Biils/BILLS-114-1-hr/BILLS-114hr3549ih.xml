@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8D20550706E949A4B7BC9FF56CB6F1CF" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3549 IH: VA Billing Accountability Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3549</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150917">September 17, 2015</action-date>
+			<action-desc><sponsor name-id="K000363">Mr. Kline</sponsor> (for himself, <cosponsor name-id="P000258">Mr. Peterson</cosponsor>, <cosponsor name-id="E000294">Mr. Emmer of Minnesota</cosponsor>, and <cosponsor name-id="P000594">Mr. Paulsen</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to waive the
+			 requirement of certain veterans to make copayments for hospital care and
+			 medical services in the case of an error by the Department of Veterans
+			 Affairs, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HFCC21DA97434401BA2DE7753B6020D32" style="OLC">
+ <section id="H15A411D5AFD14096B06765017F23CAE7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>VA Billing Accountability Act</short-title></quote>.</text> </section><section id="H4C97CACF4B294AE58F9A8FA18A8A87B0" section-type="subsequent-section"><enum>2.</enum><header>Authority of Secretary of Veterans Affairs to waive requirement of certain veterans to make copayments for care and services in the case of Department of Veterans Affairs error</header> <subsection id="HCA41D18B2B8747398428567D55A37FEE"><enum>(a)</enum><header>Hospital care, nursing home care, and medical services</header><text display-inline="yes-display-inline">Section 1710(f)(3) of title 38, United States Code, is amended by adding at the end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H5C5A58789D5342E1AD251D6AFA901B6A" style="USC">
+ <subparagraph id="H601A079AE53A4297A4314C1EDD010F57" indent="up2"><enum>(G)</enum><text display-inline="yes-display-inline">The Secretary may waive the requirement of a veteran to make a payment under this subsection or subsection (g) if—</text>
+ <clause id="H2B999CBEECB2428EB2F28A92171B534C"><enum>(i)</enum><text>an error committed by the Department or an employee of the Department was the cause of delaying notification sent to the veteran of the requirement to make the payment; and</text>
+ </clause><clause id="H7046F7B7F1F0476193C86982675865B2"><enum>(ii)</enum><text display-inline="yes-display-inline">the veteran received such notification later than 120 days after the date on which the veteran received the care or services for which the payment was required.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H05A120D9E0034D84B93932734F059AEF"><enum>(b)</enum><header>Medications</header><text>Section 1722A of such title is amended—</text> <paragraph id="HB491C64CE2FB4072BEA2FD2F37281D3B"><enum>(1)</enum><text>by redesignating subsection (c) as subsection (d); and</text>
+ </paragraph><paragraph id="H7A7288F552BC473FB3A19CB4E80647B7"><enum>(2)</enum><text>by inserting after subsection (b) the following new subsection (c):</text> <quoted-block display-inline="no-display-inline" id="HBD737C80F37845D0BDA1F86885F905BE" style="USC"> <subsection id="H86981A5C778C4B74842F09C8699A5890"><enum>(c)</enum><text display-inline="yes-display-inline">The Secretary may waive the requirement of a veteran to make a payment under this section if—</text>
+ <paragraph id="HD8BF82F5A5D74ACCB5D21F10469115EE"><enum>(1)</enum><text>an error committed by the Department or an employee of the Department was the cause of delaying notification sent to the veteran of the requirement to make the payment; and</text>
+ </paragraph><paragraph id="H8A4A5DAF800945789C0FCD5ED5945917"><enum>(2)</enum><text display-inline="yes-display-inline">the veteran received such notification later than 120 days after the date on which the veteran received the medication for which the payment was required.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="H6579E02D7F5F49BC8800A5EA8CBEC50C"><enum>(c)</enum><header>Billing procedures</header>
+ <paragraph id="H18E1DA5552A94514BC2573DDC3AB2FD2"><enum>(1)</enum><header>In general</header><text>Subchapter I of chapter 17 of such title is amended by adding at the end the following new section:</text> <quoted-block display-inline="no-display-inline" id="HBFC1ABD1F1804285AB26197F25BD3A6E" style="USC"> <section id="HCF72656E389B487B8927555AA5BEAD4A"><enum>1709C.</enum><header>Procedures for copayments</header> <subsection id="H7EEE1D4EEC3949A2B05076A8E4EEDA14"><enum>(a)</enum><header>Care at Department facility</header> <paragraph commented="no" display-inline="yes-display-inline" id="H893B090A193842208A67FBC187A0F5D6"><enum>(1)</enum><text>In requiring a veteran to make a payment for care or services provided at a medical facility of the Department pursuant to this chapter, including sections 1710 and 1722A, the Secretary shall provide to such veteran a notification of such required payment by not later than 120 days after the date on which the veteran receives the care or services for which payment is required.</text>
+ </paragraph><paragraph id="HA2891E90D6364B11A49EF3DE1E10B8C9" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">If the Secretary does not provide to a veteran a notification of the required payment by the date required under paragraph (1), the Secretary may not collect such payment, including through a third-party entity, unless the Secretary provides the veteran the following:</text>
+ <subparagraph id="HD021FA12740045E18109455D24977D8F"><enum>(A)</enum><text>Information regarding how to apply for a waiver described in section 1710(f)(3)(G) or section 1722A(c) of this title, as appropriate.</text>
+ </subparagraph><subparagraph id="H2D10E8C7BB644A8083B17F6AB0FC8BF5"><enum>(B)</enum><text>Information regarding how to establish a payment plan with the Secretary.</text> </subparagraph><subparagraph id="HC21C576704584A7EA43ACF1063C663E8"><enum>(C)</enum><text>Opportunity to make such a waiver or establish such a payment plan.</text>
+									</subparagraph></paragraph></subsection><subsection id="HB4D43A58BB234F52B1BA809182D2DDFF"><enum>(b)</enum><header>Care at non-Department facility</header>
+ <paragraph commented="no" display-inline="yes-display-inline" id="H957134E1BCFC4B56952F311E014522C0"><enum>(1)</enum><text>In requiring a veteran to make a payment for care or services provided at a non-Department facility pursuant to this chapter or other provision of law, the Secretary shall provide to such veteran a notification of such required payment by not later than 18 months after the date on which the veteran receives the care or services for which payment is required.</text>
+ </paragraph><paragraph id="HB172471D76C048648512DD7BEAE2FF87" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">If the Secretary does not provide to a veteran a notification of the required payment by the date required under paragraph (1), the Secretary may not collect such payment, including through a third-party entity, unless the Secretary provides the veteran the following:</text>
+ <subparagraph id="H2620F996CC164C53939C354409CE2333"><enum>(A)</enum><text>Information regarding how to apply for a waiver described in paragraph (3).</text> </subparagraph><subparagraph id="H2F0F2428E2554519BB59635C7E29EEAC"><enum>(B)</enum><text>Information regarding how to establish a payment plan with the Secretary.</text>
+ </subparagraph><subparagraph id="H818D02F68A9C4560A6878F8DD1AFC7D0"><enum>(C)</enum><text>Opportunity to make such a waiver or establish such a payment plan.</text> </subparagraph></paragraph><paragraph id="H427C051C3F38434497BF6A14990E979F" indent="up1"><enum>(3)</enum><text display-inline="yes-display-inline">The Secretary may waive the requirement of a veteran to make a payment for care or services provided at a non-Department facility pursuant to this chapter or other provision of law if—</text>
+ <subparagraph id="H8C3919F126C042A099F89A900BB8B6BB"><enum>(A)</enum><text display-inline="yes-display-inline">an error committed by the Department, an employee of the Department, or a non-Department facility was the cause of delaying the notification sent to the veteran of the requirement to make the payment; and</text>
+ </subparagraph><subparagraph id="H6FA6D918A7084F02A9AA9AE70F8707BD"><enum>(B)</enum><text display-inline="yes-display-inline">the veteran received such notification after the period described in paragraph (1).</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph><paragraph id="H2DE61F6C73CB48F59229D9E372D7E004"><enum>(2)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1709B the following new item:</text>
+					<quoted-block display-inline="no-display-inline" id="H20CCBE67CFFA462286A89EAA148D09DB" style="USC">
+						<toc regeneration="no-regeneration">
+							<toc-entry level="section">1709C. Procedures for copayments.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H215D9F971FE94932B9CB9A392D3F212E"><enum>(d)</enum><header>Improvement of procedures</header><text>Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall—</text>
+ <paragraph id="HB3237D7DC9D541FBB0F3450CB6AD6E00"><enum>(1)</enum><text>review the copayment billing internal controls and notification procedures of the Department of Veterans Affairs; and</text>
+ </paragraph><paragraph id="HED2BE5F799CF49DFA192B0991ABEC389"><enum>(2)</enum><text>improve such controls and procedures, including pursuant to the amendments made by this Act.</text> </paragraph></subsection></section></legis-body> </bill> 
+

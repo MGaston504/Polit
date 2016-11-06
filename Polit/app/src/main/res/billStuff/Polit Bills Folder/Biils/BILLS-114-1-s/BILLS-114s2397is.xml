@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2397 IS: To amend the Child Abuse Prevention and Treatment Act to authorize the Secretary of Health and Human Services to make grants to States that extend or eliminate unexpired statutes of limitations applicable to laws involving child sexual abuse.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-12-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2397</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151210">December 10, 2015</action-date>
+			<action-desc><sponsor name-id="S198">Mr. Reid</sponsor> (for himself, <cosponsor name-id="S332">Mr. Franken</cosponsor>, <cosponsor name-id="S314">Mr. Tester</cosponsor>, <cosponsor name-id="S057">Mr. Leahy</cosponsor>, <cosponsor name-id="S370">Mr. Booker</cosponsor>, <cosponsor name-id="S354">Ms. Baldwin</cosponsor>, and <cosponsor name-id="S270">Mr. Schumer</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Child Abuse Prevention and Treatment Act to authorize the Secretary of Health and
+			 Human Services to make grants to States that extend or eliminate unexpired
+			 statutes of limitations
+			 applicable to laws involving child sexual abuse.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Child abuse prevention and treatment</header>
+ <subsection id="id0F46B36F659E4F54A10049095B5426EE"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Child Abuse Prevention and Treatment Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5101">42 U.S.C. 5101 et seq.</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id3A4AB0FBF87849EEB3C383CE72400D27" style="OLC">
+					<title id="id4499B9BA270D4D3596B7131D8D567C39" style="OLC"><enum>III</enum><header>Grants for the prevention of child sexual abuse</header>
+ <section id="id74404D4BFA3C40B99B7FB602D0C95B8D"><enum>301.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds that—</text> <paragraph id="idEF623D068D494C4ABFA4831439C6449E"><enum>(1)</enum><text display-inline="yes-display-inline">child sexual abuse is a pernicious crime perpetrated through threats of violence, intimidation, manipulation, and abuse of power;</text>
+ </paragraph><paragraph id="id2F6BB983F1F64424B7D73CB4207565BC"><enum>(2)</enum><text display-inline="yes-display-inline">due to the subversive nature of this crime, the average age of disclosure of incestuous child sexual abuse does not occur until a victim is over 25 years old;</text>
+ </paragraph><paragraph id="id7BC79170DCDE4F9D9A1A2A34690404B2"><enum>(3)</enum><text>because many State statutes of limitations applicable to laws involving child sexual abuse fail to give victims adequate time to come forward and report their abuse, numerous victims are unable to seek fair and just remediation against their abusers; and</text>
+ </paragraph><paragraph id="idedad011fbc4148d89a5ddc260aecdc13"><enum>(4)</enum><text>due to the especially heinous nature of child sexual abuse, it is imperative that perpetrators of this crime are punished, prevented from reoffending, and victims have the opportunity to see their abusers brought to justice.</text>
+ </paragraph></section><section id="id3C7BC386868841F68119C0A26CB852D3"><enum>302.</enum><header>Definitions</header><text display-inline="no-display-inline">In this title—</text> <paragraph id="idC56A1E2E39EA428690CCBCB564E08B3B"><enum>(1)</enum><text display-inline="yes-display-inline">the term <term>eligible State</term> means a State or Indian tribe that, not later than September 30 of the preceding fiscal year does not have any statute of limitations applicable to laws involving child sexual abuse; and</text>
+ </paragraph><paragraph id="idE64E0314CD0946FE92730006FF6D1B99"><enum>(2)</enum><text>the term <term>Indian tribe</term> means a tribe identified in the list published by the Secretary of the Interior in the Federal Register pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (<external-xref legal-doc="usc" parsable-cite="usc/25/479a-1">25 U.S.C. 479a–1</external-xref>).</text>
+ </paragraph></section><section id="id3C3FBE148A6C4EF08DD858FF5F042DAF"><enum>303.</enum><header>Grant program</header><text display-inline="no-display-inline">The Secretary, in consultation with the Attorney General, is authorized to make grants to eligible States for the purpose of assisting eligible States in developing, establishing, and operating programs designed to improve—</text>
+ <paragraph id="ID789A6A8034014DFFBCC28D1EB1458B54"><enum>(1)</enum><text>the assessment and investigation of suspected child sexual abuse cases, in a manner that limits additional trauma to the child and the family of the child;</text>
+ </paragraph><paragraph id="IDA31C4BDAC3FC4FDAA4187066835F9E78"><enum>(2)</enum><text>the investigation and prosecution of cases of child sexual abuse; and</text> </paragraph><paragraph id="IDD938EE49558844F2986B380BA79231A1"><enum>(3)</enum><text>the assessment and investigation of cases involving children with disabilities or serious health-related problems who are suspected victims of child sexual abuse.</text>
+ </paragraph></section><section id="id63FEB8895B664F53B9F285676BF5C3A7"><enum>304.</enum><header>Authorization of appropriations</header><text display-inline="no-display-inline">There is authorized to be appropriated to carry out this title $40,000,000 for each of fiscal years 2016 through 2025.</text></section></title><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="id6E486E2EB27C460AAB179C264196E93E"><enum>(b)</enum><header>Effective date</header><text>The amendments made by subsection (a) shall apply to any violation of a law involving child sexual abuse committed before the date of the enactment of this Act if the statute of limitations applicable to that law had not run as of the date of enactment of this Act.</text></subsection></section></legis-body>
+</bill>
+
+

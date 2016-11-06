@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1622 IS: FDA Device Accountability Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-06-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1622</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150618">June 18, 2015</action-date>
+			<action-desc><sponsor name-id="S300">Mr. Burr</sponsor> (for himself and <cosponsor name-id="S332">Mr. Franken</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Food, Drug, and Cosmetic Act with respect to devices.</official-title>
+	</form>
+	<legis-body>
+ <section id="idC66D89603CA942EEA284B23C64CD19D5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>FDA Device Accountability Act of 2015</short-title></quote>.</text> </section><section id="id755E6E2400D14C91AC73FDD4B9CDF2F6"><enum>2.</enum><header>Ensuring least burdensome means of evaluating devices</header> <subsection commented="no" id="id325CD130D1DD46D2BC0DBD8A393F25B0"><enum>(a)</enum><header>Training and oversight of least burdensome requirements</header><text>Section 513 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360c">21 U.S.C. 360c</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id209AFF94E748436FB2C1B306ED6AFB52" style="OLC">
+					<subsection id="id243FA21A41E945C6A06F4F58EC373ECA"><enum>(j)</enum><header>Training and oversight of least burdensome requirements</header>
+ <paragraph id="id66CF73B58F00460D924CA1842E27E1A4"><enum>(1)</enum><header>Training and assessment</header><text>The Secretary shall—</text> <subparagraph id="idA04A65338223456289F35C232EAC1B0D"><enum>(A)</enum><text>ensure that each employee of the Food and Drug Administration who is involved in the review of premarket submissions, including supervisors, receives training regarding the meaning and implementation of the least burdensome requirements under subsections (a)(3)(D) and (i)(1)(D) and section 515(c)(5); and</text>
+ </subparagraph><subparagraph id="idF2384A6054EF4409945B8EA9B3727D43"><enum>(B)</enum><text>periodically assess the implementation of the least burdensome requirements, including the employee training under subparagraph (A) to ensure that the least burdensome requirements are fully and consistently applied.</text>
+ </subparagraph></paragraph><paragraph id="id203CFDF2122344E3A64847E9E8498827"><enum>(2)</enum><header>Ombudsman audit</header><text>Not later than 180 calendar days after the date of enactment of the <short-title>FDA Device Accountability Act of 2015</short-title>, the ombudsman for any organizational unit of the Food and Drug Administration responsible for the premarket review of devices shall—</text>
+ <subparagraph id="id84F6ECCE15604471A500EED9D40FECD1"><enum>(A)</enum><text>conduct an audit of the training described in paragraph (1)(A);</text> </subparagraph><subparagraph id="idD4D580E833DA47A6B457B86223C3F952"><enum>(B)</enum><text>include in such audit interviews of persons who are representatives of the device industry regarding their experience in the device premarket review process, including with respect to the application of least burdensome concepts to premarket review and the application of postmarket requirements to facilitate premarket decisionmaking;</text>
+ </subparagraph><subparagraph id="idF0344B0A9B2D46EAB878A60F1AEB0F1F"><enum>(C)</enum><text>include in such audit an assessment of the measurement tools the Secretary uses to assess the implementation of the least burdensome requirements, including the effectiveness of such tools and the effectiveness of the implementation of the least burdensome requirements; and</text>
+ </subparagraph><subparagraph id="idFE05125C77564017B02DE24DF3EBEE03"><enum>(D)</enum><text>within 30 calendar days of completion of the audit, make such audit available—</text> <clause id="idB6FD651FC4924293BF00A5CE70851FEF"><enum>(i)</enum><text>to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives; and</text>
+ </clause><clause id="idA1A25B2790F848ACA875E11507A82D0F"><enum>(ii)</enum><text>on the Internet website of the Food and Drug Administration.</text></clause></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection commented="no" id="idD1A05F440B714E188F6318C19E27A674"><enum>(b)</enum><header>Premarket applications</header><text>Section 515(c) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360e">21 U.S.C. 360e(c)</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id7397273CD4794DD58592EC602C9390C1" style="OLC">
+ <paragraph id="idECB1B74346BB4554AE4D16D9E4F8CDA2" indent="up1"><enum>(5)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="id48442256B5AD4F5798ACC8500DF5E2D7"><enum>(A)</enum><text>In requesting additional information with respect to an application under this section, the Secretary shall consider the least burdensome appropriate means necessary to demonstrate a reasonable assurance of device safety and effectiveness.</text>
+ </subparagraph><subparagraph id="id72F67B958B584F278955563856357460" indent="up1"><enum>(B)</enum><text>For purposes of subparagraph (A) the term <quote>necessary</quote> means the minimum required information that would support a determination by the Secretary that an application provides a reasonable assurance of the safety and effectiveness of the device.</text>
+ </subparagraph><subparagraph id="id452F264796C1458FB4E83233E6660F00" indent="up1"><enum>(C)</enum><text>Nothing in this paragraph alters the standards for premarket approval of a device.</text> </subparagraph><subparagraph commented="no" id="id5316C7FA4696460A948305605FC72422" indent="up1"><enum>(D)</enum><text>For purposes of this paragraph, the Secretary shall consider whether the least burdensome means of demonstrating a reasonable assurance of device safety and effectiveness would be achieved through reliance on postmarket information.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection commented="no" id="id34F889660D574E4D856C8588117C6B97"><enum>(c)</enum><header>Rationale for significant decisions regarding devices</header><text display-inline="yes-display-inline">Section 517A(a) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360g-1">21 U.S.C. 360g–1(a)</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id4AFC6E604C0245D7A7639838AA3BE29E" style="OLC">
+ <paragraph id="id00DD7E68FFE045D4804F2E2BDB36B16F"><enum>(3)</enum><header>Application of least burdensome requirements</header><text>The substantive summary required under this subsection shall include an explanation of how the least burdensome requirements were considered and applied consistent with section 513(i)(1)(D) and section 513(a)(3)(D) and section 515(c)(5), as applicable.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section commented="no" id="id91EAD614C6804E8AB22324458FEDA857"><enum>3.</enum><header>Permitting non-local institutional review boards</header>
+ <subsection id="HAFFA1D685F444340AF8939559B9651ED"><enum>(a)</enum><header>In general</header><text>Section 520 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360">21 U.S.C. 360(j)</external-xref>) is amended—</text> <paragraph id="HB4419223E92243339F994E178B538578"><enum>(1)</enum><text>in subsection (g)(3)—</text>
+ <subparagraph id="H04D3319F18664DF5B9B07A59F3CE6F0F"><enum>(A)</enum><text>by striking <quote>local</quote> each place it appears; and</text> </subparagraph><subparagraph id="HB438046CC3BB4C68AE1C5F9669C5166E"><enum>(B)</enum><text>in subparagraph (A)(i), by striking <quote>which has been</quote>; and</text>
+ </subparagraph></paragraph><paragraph id="HAC89AA2AF5814E22B21D166B41EE3318"><enum>(2)</enum><text>in subsection (m)(4)—</text> <subparagraph id="HAFF0AAA0266146F78402165FC9CFB950"><enum>(A)</enum><text>by striking <quote>local</quote> each place it appears; and</text>
+ </subparagraph><subparagraph id="HF1F1D0A1B9624F0991A3A34A6265B083"><enum>(B)</enum><text>by amending subparagraph (A) to read as follows:</text> <quoted-block id="H2483D48D21AF43FAB73999CCBC2C9970" style="OLC"> <subparagraph id="H312B88A8DE3D447E90728A2DAD30B000" indent="up1"><enum>(A)</enum><text>in facilities in which clinical testing of devices is supervised by an institutional review committee established in accordance with the regulations of the Secretary; and</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subparagraph></paragraph></subsection><subsection id="HFEF2ABB320E2439BABE82BD91A508F91"><enum>(b)</enum><header>Regulations</header><text>Not later than 1 year after the date of the enactment of this Act, the Secretary of Health and Human Services shall revise or issue such regulations or guidance as may be necessary to carry out the amendments made by subsection (a).</text>
+			</subsection></section><section commented="no" id="idED2392756293458CA9B9C66FD943254A"><enum>4.</enum><header>Clarifying CLIA waiver study design guidance for in vitro diagnostics</header>
+ <subsection id="H7EC58D83DB484099B504043A2FC8D67E"><enum>(a)</enum><header>Draft revised guidance</header><text>Not later than 1 year after the date of the enactment of this Act, the Secretary of Health and Human Services shall publish a draft guidance that—</text>
+ <paragraph id="HAEF209873AEF4C4DB8BB7CA67040A4CC"><enum>(1)</enum><text>revises section <quote>V. Demonstrating Insignificant Risk of an Erroneous Result</quote> – <quote>Accuracy</quote> of the guidance entitled <quote>Recommendations for Clinical Laboratory Improvement Amendments of 1988 (CLIA) Waiver Applications for Manufacturers of In Vitro Diagnostic Devices</quote> and dated January 30, 2008; and</text>
+ </paragraph><paragraph id="H22D199A558BA4F308833733090D54907"><enum>(2)</enum><text>includes guidance on the appropriate use of comparable performance between a waived user and a moderately complex laboratory user to demonstrate accuracy.</text>
+ </paragraph></subsection><subsection id="HAF918308B17946098B47147F5A3AE0BD"><enum>(b)</enum><header>Final revised guidance</header><text>The Secretary of Health and Human Services shall finalize the draft guidance published under subsection (a) not later than 1 year after the comment period for such draft guidance closes.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6DB0A61B7A654EA9BC37FB3C72873F06" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1018 IH: Patient Access to Disposable Medical Technology Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1018</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150220">February 20, 2015</action-date>
+			<action-desc><sponsor name-id="E000291">Mrs. Ellmers of North Carolina</sponsor> (for herself, <cosponsor name-id="B001251">Mr. Butterfield</cosponsor>, and <cosponsor name-id="B001243">Mrs. Blackburn</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to provide coverage of certain disposable medical
+			 technologies under the Medicare program, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HAFBEDC80FF354D3B889773327B91470B" style="OLC">
+ <section id="idED2A94B178D2488E9CA2FF53D51C76C9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Patient Access to Disposable Medical Technology Act of 2015</short-title></quote>.</text></section><section id="HB336B4F20DFC42F2A9751F17A0DA12E2" section-type="subsequent-section"><enum>2.</enum><header>Coverage of certain disposable medical technologies under the Medicare program</header> <subsection id="H6C2B56A85FB2429E90793A1A6996BD14"><enum>(a)</enum><header>Coverage</header><text display-inline="yes-display-inline">Section 1861 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x</external-xref>) is amended by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="H5923430B2F004033B3968AF5410E69BD" other-style="archaic" style="other">
+ <subsection id="H398A57ABCC3044C686570A08682A8774"><enum>(iii)</enum><header>Substitute disposable medical technology</header><text display-inline="yes-display-inline">The term <quote>substitute disposable medical technology</quote> means medical equipment that—</text> <paragraph id="HB967ECA86E4D49DE99B056F439F4CFAE"><enum>(1)</enum><text>is primarily and customarily used to serve a medical purpose;</text>
+ </paragraph><paragraph id="HF270143719B044E4A9AC22001413D65D"><enum>(2)</enum><text display-inline="yes-display-inline">would otherwise be covered as durable medical equipment under this title but for the fact that such equipment is not durable (as defined by the Secretary for purposes of coverage of durable medical equipment under this title); and</text>
+ </paragraph><paragraph id="H6575C5857C974209874232118AEF37B4"><enum>(3)</enum><text display-inline="yes-display-inline">the Secretary determines substitutes for durable medical equipment.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="HB7A8CAA89C5F40BC861856DB5D0306E7"><enum>(b)</enum><header>Payment provisions</header><text display-inline="yes-display-inline">Section 1834(a) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m">42 U.S.C. 1395m(a)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H0D36B469A9304833943968D9551082E0" style="OLC">
+ <paragraph id="HADD8F5870B8649D3B4A9887F5412BB36"><enum>(23)</enum><header>Special payment rule for substitute disposable medical technologies</header><text display-inline="yes-display-inline">Notwithstanding the preceding provisions of this subsection, the Secretary shall determine the payment amount under this subsection for a substitute disposable medical technology (as defined in section 1861(iii)), and for any services and supplies used in conjunction with such technology, in accordance with the following:</text>
+ <subparagraph id="H32CB4BE57F4B42E5B1FE66CDA2DA4C17"><enum>(A)</enum><header>Single payment amount</header><text display-inline="yes-display-inline">The Secretary shall determine a single payment amount that shall be paid for a substitute disposable medical technology and for any services and supplies used in conjunction with such technology. A payment for such a technology and for any such services and supplies that is made in the amount of such single payment amount shall constitute full payment under this title for such technology and such services and supplies.</text>
+ </subparagraph><subparagraph id="HCB7D01558D5B476B9658DF02D123B283"><enum>(B)</enum><header>Calculation of payment amount</header><text display-inline="yes-display-inline">The single payment amount described in subparagraph (A) for a substitute disposable medical technology and for any services and supplies used in conjunction with such technology shall be calculated by—</text>
+ <clause id="H2AB4F0BC86634966B8FC1981A25D6882"><enum>(i)</enum><text display-inline="yes-display-inline">calculating the sum of the amounts of payment that otherwise would be made under this section for—</text> <subclause id="H71EBDCEBE30042CABE8185236C7E8638"><enum>(I)</enum><text>the item of durable medical equipment for which the Secretary determines, pursuant to section 1861(iii)(3), that such substitute disposable medical technology substitutes; and</text>
+ </subclause><subclause id="HE17769B1D9054D7391EC5EDFF42D6895"><enum>(II)</enum><text>all services and supplies used in conjunction with such item of durable medical equipment;</text> </subclause></clause><clause id="H3A2192BD3E6B4CFDA37747C92DE718B1"><enum>(ii)</enum><text>calculating the amount that is 95 percent of the sum calculated under clause (i); and</text>
+ </clause><clause id="H3D58D6908C434CE6874FF3E03D22DA58"><enum>(iii)</enum><text display-inline="yes-display-inline">calculating the single payment amount for the substitute disposable medical technology and for any services and supplies used in conjunction with such technology such that the sum of the payments under this subsection for—</text>
+ <subclause id="H625CCFB48083468F8A59890EB398A3E6"><enum>(I)</enum><text>all substitute disposable medical technologies that the Secretary determines, pursuant to section 1861(iii)(3), will be necessary to provide a substitute for the item of durable medical equipment described in clause (i)(I); and</text>
+ </subclause><subclause id="H86C248DA93754A0C9EAC3E57433E4F7C"><enum>(II)</enum><text>any services and supplies used in conjunction with such technologies;</text> </subclause><continuation-text continuation-text-level="clause">is equal to the amount calculated under clause (ii).</continuation-text></clause></subparagraph><subparagraph id="H55D465CCFD43423E987F2498175B4F16"><enum>(C)</enum><header>Lump-sum payment</header><text display-inline="yes-display-inline">The single payment amount described in subparagraph (A) for a substitute disposable medical technology and for any services and supplies used in conjunction with such technology shall be made in a lump-sum amount.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H581FB4554CD14F1E93CD3CC27AF38CE2"><enum>(c)</enum><header>Nonapplication of competitive acquisition</header><text display-inline="yes-display-inline">Section 1847(a)(7)(B) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-3">42 U.S.C. 1395w–3(a)(7)(B)</external-xref>) is amended—</text> <paragraph id="HCE345DEECC144CF2952BD02D444678AB"><enum>(1)</enum><text>in clause (i), by striking <quote>and</quote> at the end;</text>
+ </paragraph><paragraph id="H4549A6BB66E74AF2A785CC70AC5174AA"><enum>(2)</enum><text>in clause (ii), by striking the period at the end and inserting <quote>; and</quote>; and</text> </paragraph><paragraph id="HD20499704355417AB09D1B5F02EADCC5"><enum>(3)</enum><text>by adding at the end the following new clause:</text>
+					<quoted-block display-inline="no-display-inline" id="H58A6B083D3A1406F865194AD31A285DA" style="OLC">
+ <clause id="H9EECF490F8D2410DA072B459CDB5CE8A"><enum>(iii)</enum><text display-inline="yes-display-inline">that are substitute disposable medical technologies (as defined in section 1861(n)(2)(B)).</text></clause><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></subsection><subsection id="H262D3DDBA64949DE9D6A5B04E0702EDA"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this section shall apply with respect to items and services furnished on or after the date that is one year after the date of the enactment of this section.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

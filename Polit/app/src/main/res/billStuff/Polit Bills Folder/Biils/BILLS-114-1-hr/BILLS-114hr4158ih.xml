@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H4760AF9769B1430E8A4C954B37ED02D9" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4158 IH: RISE Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4158</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151202">December 2, 2015</action-date>
+			<action-desc><sponsor name-id="G000564">Mr. Gibson</sponsor> (for himself and <cosponsor name-id="L000551">Ms. Lee</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Higher Education Act of 1965 to reinstate the ability-to-benefit eligibility.</official-title>
+	</form>
+	<legis-body id="H47A72EB5E9284A3EADBE9DBB8ABBB326" style="OLC">
+ <section id="H8403AD0A64FB46C49F2FDB5C1CEEF693" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Restoring Investment in ATB Student Education Act</short-title></quote> or the <quote>RISE Act</quote>.</text> </section><section id="HB3B8F288748E4366BC74F8CF9145673B"><enum>2.</enum><header>Ability-to-benefit eligibility</header> <subsection id="H359B5D1DD47A4D7AAA5F79B73603AB86"><enum>(a)</enum><header>In general</header><text>Section 484(d) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1091">20 U.S.C. 1091(d)</external-xref>) is amended to read as follows:</text>
+				<quoted-block id="H062C6C3F0053428098CC9DD64ECC2B7F" style="OLC">
+ <subsection id="H135EC2D8CAD647908D22B174882D96E8"><enum>(d)</enum><header>Students who are not high school graduates</header><text>In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, D, and E of this title, the student shall meet one of the following standards:</text>
+ <paragraph id="HBD62CE75965A404289CF268822D166C7"><enum>(1)</enum><text>The student shall take an independently administered examination and shall achieve a score, specified by the Secretary, demonstrating that such student can benefit from the education or training being offered. Such examination shall be approved by the Secretary on the basis of compliance with such standards for development, administration, and scoring as the Secretary may prescribe in regulations.</text>
+ </paragraph><paragraph id="HA384C1AD8A5D49C79AE35E74B4044FE9"><enum>(2)</enum><text>The student shall be determined as having the ability to benefit from the education or training in accordance with such process as the State shall prescribe. Any such process described or approved by a State for the purposes of this section shall be effective 6 months after the date of submission to the Secretary unless the Secretary disapproves such process. In determining whether to approve or disapprove such process, the Secretary shall take into account the effectiveness of such process in enabling students without high school diplomas or the equivalent thereof to benefit from the instruction offered by institutions utilizing such process, and shall also take into account the cultural diversity, economic circumstances, and educational preparation of the populations served by the institutions.</text>
+ </paragraph><paragraph id="HAC2C39E181E74B5EB9CCCC14CF8B0350"><enum>(3)</enum><text>The student has completed a secondary school education in a home school setting that is treated as a home school or private school under State law.</text>
+ </paragraph><paragraph id="H249AEEB255C34E2D8821961204137035"><enum>(4)</enum><text>The student shall be determined by the institution of higher education as having the ability to benefit from the education or training offered by the institution of higher education upon satisfactory completion of six credit hours or the equivalent clock hours that are applicable toward a degree or certificate offered by the institution of higher education.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HAE286C0585F849E49A63DE3253FD9989"><enum>(b)</enum><header>Conforming amendment</header><text>Section 401(b)(2)(A)(ii) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1070a">20 U.S.C. 1070a(b)(2)(A)(ii)</external-xref>) is amended by striking <quote>484(d)(1)(A)</quote> and inserting <quote>484(d)</quote>.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

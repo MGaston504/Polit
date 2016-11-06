@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF3D8496A6DDD40328C2DE501377B18A5" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2427 IH: To amend the Federal Food, Drug, and Cosmetic Act with respect to advisory committee process.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2427</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150519">May 19, 2015</action-date> 
+<action-desc><sponsor name-id="S000364">Mr. Shimkus</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Federal Food, Drug, and Cosmetic Act with respect to advisory committee process.</official-title> 
+</form> 
+<legis-body id="HD2C435832DD94D6B91CC74AC5830CBD2" style="OLC"> 
+<section id="H7C859C67678B4ED2A2E4E1C0B38FA488" section-type="section-one"><enum>1.</enum><header>Advisory committee process</header> 
+<subsection id="H8F6E0B68C5904B2BB12F87964F01A830"><enum>(a)</enum><header>Classification panels</header><text>Paragraph (5) of section 513(b) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360c">21 U.S.C. 360c(b)</external-xref>) is amended—</text> <paragraph id="HE346CCBB71904F4AA7A90E12B6E52BD7"><enum>(1)</enum><text>by striking <quote>(5)</quote> and inserting <quote>(5)(A)</quote>; and</text></paragraph> 
+<paragraph id="HA6EE2BA31BB24FAFBAD648D40785BA92"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block id="H37B73843C6484C9694C64D6851F05B9B" style="OLC"> <subparagraph id="H8FA9476D6AF341709B1B3E6908624B60"><enum>(B)</enum><text display-inline="yes-display-inline">For review by a classification panel of a premarket submission for a device, the Secretary shall—</text> 
+<clause id="H14272CEEFEFF4FF4AD30CAF121329C40"><enum>(i)</enum><text display-inline="yes-display-inline">provide an opportunity for the person whose premarket submission is subject to panel review to provide recommendations on the expertise needed among the voting members of the panel; and</text></clause> <clause id="H8B850EF2E38C4F18AB9AD04A95455F46"><enum>(ii)</enum><text display-inline="yes-display-inline">give due consideration to such recommendations and ensure that adequate expertise is represented on advisory panels to assess—</text> 
+<subclause id="H5F71FAAA2D774BE4B739C772727473E9"><enum>(I)</enum><text display-inline="yes-display-inline">the disease or condition for which the device is intended to cure, treat, mitigate, prevent, or diagnose; and</text></subclause> <subclause id="HFD090A9C79924D5CA58F5B7B402DA31B"><enum>(II)</enum><text display-inline="yes-display-inline">the technology of the device.</text></subclause></clause></subparagraph> 
+<subparagraph id="H5F9E8E7474564E078544C343A8BFEF47"><enum>(C)</enum><text>For purposes of subparagraph (B)(ii), the term <quote>adequate expertise</quote> means that the membership of the classification panel reviewing a premarket submission includes—</text> <clause id="HC646F114CD2C4E15BB4448A7A39779BD"><enum>(i)</enum><text>two or more voting members, with a specialty or other expertise clinically relevant to the device under review; and</text></clause> 
+<clause id="H468CDB9C5F2847DEB915E96A961DDC43"><enum>(ii)</enum><text>at least one voting member who is knowledgeable about the technology of the device.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="H1E5001C337C94D6290ED153FE7F6D9EF"><enum>(b)</enum><header>Panel review process</header><text>Section 513(b)(6) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360c">21 U.S.C. 360c(b)(6)</external-xref>) is amended—</text> 
+<paragraph id="H892BBD51181148AF8D9E45842C38CF87"><enum>(1)</enum><text>in subparagraph (A)(iii), by inserting before the period at the end <quote>, including by designating a representative who will be provided a time during the panel meeting to address the panel individually (or accompanied by experts selected by such representative) for the purpose of correcting misstatements of fact or providing clarifying information, subject to the discretion of panel chairperson.</quote>.</text></paragraph> <paragraph id="HABE203B1004448FFB8AAFB0ED3C1F1A2"><enum>(2)</enum><text>by striking subparagraph (B) and inserting the following new subparagraph:</text> 
+<quoted-block id="HF73FA11B95A14CC191CABF08F45BAE0F" style="OLC"> 
+<subparagraph id="H56E40BAB28CA4465873F030B82C9EEB7"><enum>(B)</enum> 
+<clause id="H3D6D9DADA6EE4CF2AEE1C338949357E4" display-inline="yes-display-inline"><enum>(i)</enum><text>Any meeting of a classification panel with respect to the review of a premarket submission for a device shall—</text> <subclause id="HCF25CE84FA6046E2AE5BCA11830B89BD" indent="up1"><enum>(I)</enum><text>provide adequate time for initial presentations by the person whose premarket submission is specifically the subject of such review and by the Secretary; and</text></subclause> 
+<subclause id="H943553C6554E4D2296906379994B7429" indent="up1"><enum>(II)</enum><text>encourage free and open participation by all interested persons.</text></subclause></clause> <clause id="H95AAB9F484FA42788E8F203054B49233" indent="up1"><enum>(ii)</enum><text>Following the initial presentations described in clause (i), the panel may—</text> 
+<subclause id="H9868F0F521CF44F2898E4CA5A01B472B"><enum>(I)</enum><text>pose questions to a designated representative described in subparagraph (A)(iii); and</text></subclause> <subclause id="HEF080AED96D84055B117D77D33894C28"><enum>(II)</enum><text>consider the responses to such questions in the panel’s review of the premarket submission.</text></subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section> 
+</legis-body> 
+</bill> 
+

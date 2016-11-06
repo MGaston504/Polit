@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H041D35820D0245BC93CFDCCFE95CA500" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4023 IH: Clean Up the Code Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4023</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151117">November 17, 2015</action-date>
+			<action-desc><sponsor name-id="C000266">Mr. Chabot</sponsor> (for himself, <cosponsor name-id="G000289">Mr. Goodlatte</cosponsor>, <cosponsor name-id="C000714">Mr. Conyers</cosponsor>, <cosponsor name-id="J000032">Ms. Jackson Lee</cosponsor>, and <cosponsor name-id="F000445">Mr. Forbes</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To eliminate unused sections of the United States Code, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HB32B2BBFE27047588BF4303017B3009C" style="OLC">
+ <section id="HBA9808581340467EB0C29AAA2AC8E4B9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Clean Up the Code Act of 2015</short-title></quote>.</text> </section><section id="H8B9B5D7FFEA340A3AB843FAC326635BF"><enum>2.</enum><header>Repeals</header><text display-inline="no-display-inline">The following provisions of title 18, United States Code, are repealed:</text>
+ <paragraph id="HA9D05A08414946E48FFCBFC5E4192520"><enum>(1)</enum><text display-inline="yes-display-inline">Section 46 relating to transportation of water hyacinths.</text> </paragraph><paragraph id="HF8630CE42EB24F25ABA8F14593A6CD02"><enum>(2)</enum><text display-inline="yes-display-inline">Section 511A relating to unauthorized application of theft prevention decal or device.</text>
+ </paragraph><paragraph id="H3FBF710807D7424181053E1A302FD6DA"><enum>(3)</enum><text display-inline="yes-display-inline">Section 707 relating to 4-H club emblem fraudulently used.</text> </paragraph><paragraph id="H352186F41EF14664A5F7A2C20B4A57D1"><enum>(4)</enum><text display-inline="yes-display-inline">Section 708 relating to Swiss Confederation coat of arms.</text>
+ </paragraph><paragraph id="HF5DBE0EEE355428AB6FB011FDA044BA2"><enum>(5)</enum><text display-inline="yes-display-inline">Section 711 relating to <quote>Smokey Bear</quote> character or name.</text> </paragraph><paragraph id="H9BDD60DF19AE4600AD67CB349CED9B30"><enum>(6)</enum><text display-inline="yes-display-inline">Section 711a relating to <quote>Woodsy Owl</quote> character, name, or slogan.</text>
+ </paragraph><paragraph id="H21D4F3DB4E694D1B85787A3AE9EBBC31"><enum>(7)</enum><text display-inline="yes-display-inline">Section 715 relating to <quote>The Golden Eagle Insignia</quote>.</text> </paragraph><paragraph commented="no" id="H461EEF5CD3354E60BBBF23BD3C8F62F6"><enum>(8)</enum><text>Chapter 89—Professions and Occupations.</text>
+ </paragraph><paragraph id="H33244343E97C493FB666A8CE15B3DC34"><enum>(9)</enum><text display-inline="yes-display-inline">Section 1921 relating to receiving Federal employees’ compensation after marriage.</text> </paragraph></section><section id="H58C98BD4571C45F5A6740E4D04C51D3A"><enum>3.</enum><header>Clerical amendments</header> <subsection id="H4F814F5FB19F4A749DB738FBEF6769E5"><enum>(a)</enum><header>Table of chapters for title 18</header><text>The table of chapters for title 18, United States Code, is amended by striking the item relating to chapter 89.</text>
+ </subsection><subsection id="H072FE3149CD94AF497AA89DABE93C480"><enum>(b)</enum><header>Table of sections for chapter 3</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/3">chapter 3</external-xref> of title 18, United States Code, is amended by striking the item relating to section 46.</text>
+ </subsection><subsection id="H1E0AA17F65944BEBA4E00F00F537790D"><enum>(c)</enum><header>Table of sections for chapter 25</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/25">chapter 25</external-xref> of title 18, United States Code, is amended by striking the item relating to section 511A.</text>
+ </subsection><subsection id="HCFF5DC251FD94A66860DD2D70D8E4BAD"><enum>(d)</enum><header>Table of sections for chapter 33</header><text display-inline="yes-display-inline">The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/33">chapter 33</external-xref> of title 18, United States Code, is amended—</text> <paragraph id="HFE5A755069A04CB0BE3C7F23C19D9637"><enum>(1)</enum><text display-inline="yes-display-inline">by striking the item relating to section 707;</text>
+ </paragraph><paragraph id="H9F318649484F47FF9705545D66DE2119"><enum>(2)</enum><text>by striking the item relating to section 708;</text> </paragraph><paragraph id="H4E07BFE178774BA29DEA7F86248D301E"><enum>(3)</enum><text>by striking the item relating to section 711;</text>
+ </paragraph><paragraph id="HF4571A3539AD44E5BDDFE178AA599E3E"><enum>(4)</enum><text>by striking the item relating to section 711a; and</text> </paragraph><paragraph id="H29D6B5BA3A904933A53D72DA7AE1A925"><enum>(5)</enum><text>by striking the item relating to section 715.</text>
+ </paragraph></subsection><subsection id="H5441A1CCCDB74B2B925057917B9DFBC5"><enum>(e)</enum><header>Table of sections for chapter 39</header><text display-inline="yes-display-inline">The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/93">chapter 93</external-xref> of title 18, United States Code, is amended by striking the item relating to section 1921.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

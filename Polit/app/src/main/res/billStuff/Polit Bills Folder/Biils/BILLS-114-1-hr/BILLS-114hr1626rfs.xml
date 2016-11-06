@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Referred-in-Senate" bill-type="olc" dms-id="H617E8D8AF6074F66AF3CC7489B002792" public-private="public" stage-count="1">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1626 : DHS IT Duplication Reduction Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IIB</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1626</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action><action-date date="20150624">June 24, 2015</action-date><action-desc>Received; read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc></action><legis-type>AN ACT</legis-type>
+		<official-title display="yes">To reduce duplication of information technology at the Department of Homeland Security, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body id="HBAFC2F3CE40B462691F41E2266A87A33" style="OLC">
+ <section id="HF911B36FE2D64297B5E6039BA3F8EAFA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>DHS IT Duplication Reduction Act of 2015</short-title></quote>.</text> </section><section id="H96297D9182CA43AA9DF74074E6E17840"><enum>2.</enum><header>DHS information technology duplication reduction</header> <subsection id="H0939C20EE61A4C9E879E4632FAF89810"><enum>(a)</enum><header>Information technology duplication reduction</header><text>Not later than 90 days after the date of the enactment of this Act, the Chief Information Officer of the Department of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes the following:</text>
+ <paragraph id="H2BF741F4AF274603968B5DB33F265AE2"><enum>(1)</enum><text>The number of information technology systems at the Department of Homeland Security.</text> </paragraph><paragraph id="H428DCF82FA4840899621DD1A90BBF800"><enum>(2)</enum><text display-inline="yes-display-inline">An assessment of the number of such systems exhibiting duplication or fragmentation.</text>
+ </paragraph><paragraph id="HC256FE6D8FD84C53BD53B01230042CAC"><enum>(3)</enum><text>A strategy for reducing such duplicative systems, including an assessment of potential cost savings or cost avoidance as a result of such reduction.</text>
+ </paragraph><paragraph id="H6BAC731B895B49B3B98CF659D5A7F534"><enum>(4)</enum><text>A methodology for determining which system should be eliminated when there is duplication or fragmentation.</text>
+ </paragraph></subsection><subsection id="HBF93E75210AB439DB37365D9134FC1A5"><enum>(b)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this Act:</text> <paragraph id="HE4894603F73A4DBEA692C1CC8CB40384"><enum>(1)</enum><text display-inline="yes-display-inline">The term <quote>duplication or fragmentation</quote> of information technology systems means two or more systems or programs that deliver similar functionality to similar user populations.</text>
+ </paragraph><paragraph id="HE5A708273D7F41E3BFB178E77A2284A4"><enum>(2)</enum><text>The term <quote>information technology</quote> has the meaning given such term in section 11101 of title 40, United States Code.</text> </paragraph></subsection><subsection id="H1D2FAEC5AAFD4B399A07475AA7EEACE9"><enum>(c)</enum><header>No new authorization of funding</header><text>This section shall be carried out using amounts otherwise appropriated or made available to the Department of Homeland Security. No additional funds are authorized to be appropriated to carry out this section.</text>
+			</subsection></section></legis-body>
+	<attestation><attestation-group><attestation-date chamber="House" date="20150623">Passed the House of Representatives June 23, 2015.</attestation-date><attestor display="yes">Karen L. Haas,</attestor><role>Clerk</role></attestation-group></attestation>
+</bill>
+
+

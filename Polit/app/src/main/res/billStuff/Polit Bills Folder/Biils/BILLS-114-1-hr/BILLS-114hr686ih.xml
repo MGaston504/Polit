@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H78501F74157448E4B41EB10496E8BE9B" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 686 IH: Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 686</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150203">February 3, 2015</action-date>
+			<action-desc><sponsor name-id="H001058">Mr. Huizenga of Michigan</sponsor> (for himself, <cosponsor name-id="H001038">Mr. Higgins</cosponsor>, and <cosponsor name-id="P000599">Mr. Posey</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Securities Exchange Act of 1934 to exempt from registration brokers performing
+			 services in connection with the transfer of ownership of smaller privately
+			 held companies.</official-title>
+	</form>
+	<legis-body id="HD5B780D93DCC41619C2249744B2E86F3" style="OLC">
+ <section id="H669C5B6F614643B88EA2578857E7B7AE" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2015</short-title></quote>.</text> </section><section id="HDFA6AC100847458E9F3A256B232EAABB"><enum>2.</enum><header>Registration exemption for merger and acquisition brokers</header><text display-inline="no-display-inline">Section 15(b) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78o">15 U.S.C. 78o(b)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HFEB8DE78D95640C58DBA27144E8B8E90" style="OLC">
+				<paragraph id="H51E765B270464620BA411BBAE8412A9B"><enum>(13)</enum><header>Registration exemption for merger and acquisition brokers</header>
+ <subparagraph id="H38B872D5FFA8478EBB2DB9B880198FAB"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Except as provided in subparagraph (B), an M&amp;A broker shall be exempt from registration under this section.</text> </subparagraph><subparagraph id="H5DCD56454C874F52B33D69CEE5D2C6FB"><enum>(B)</enum><header>Excluded activities</header><text display-inline="yes-display-inline">An M&amp;A broker is not exempt from registration under this paragraph if such broker does any of the following:</text>
+ <clause id="H55837D7488964E7F8B3D4F05A8DF8486"><enum>(i)</enum><text>Directly or indirectly, in connection with the transfer of ownership of an eligible privately held company, receives, holds, transmits, or has custody of the funds or securities to be exchanged by the parties to the transaction.</text>
+ </clause><clause id="H1B5F12790DC44FFD8E0A8AEDFB191699"><enum>(ii)</enum><text>Engages on behalf of an issuer in a public offering of any class of securities that is registered, or is required to be registered, with the Commission under section 12 or with respect to which the issuer files, or is required to file, periodic information, documents, and reports under subsection (d).</text>
+ </clause></subparagraph><subparagraph id="H8264EA1A81154904BB55C11C67D0AB9B"><enum>(C)</enum><header>Rule of construction</header><text display-inline="yes-display-inline">Nothing in this paragraph shall be construed to limit any other authority of the Commission to exempt any person, or any class of persons, from any provision of this title, or from any provision of any rule or regulation thereunder.</text>
+ </subparagraph><subparagraph id="H1BD50C90A5F24C6F810AC04C6B2BB489"><enum>(D)</enum><header>Definitions</header><text>In this paragraph:</text> <clause id="H8D389C411EBD4276B7F8C3E3B819519E"><enum>(i)</enum><header>Control</header><text display-inline="yes-display-inline">The term <quote>control</quote> means the power, directly or indirectly, to direct the management or policies of a company, whether through ownership of securities, by contract, or otherwise. There is a presumption of control for any person who—</text>
+ <subclause id="H1156056AA5494FF5ADE142EFF9621B63"><enum>(I)</enum><text>is a director, general partner, member or manager of a limited liability company, or officer exercising executive responsibility (or has similar status or functions);</text>
+ </subclause><subclause id="HB4AE9492C49B4296B0C0A0C4096FAB2E"><enum>(II)</enum><text>has the right to vote 20 percent or more of a class of voting securities or the power to sell or direct the sale of 20 percent or more of a class of voting securities; or</text>
+ </subclause><subclause id="H56B7A3137AAF487BAF2C77CE82AE3D8C"><enum>(III)</enum><text>in the case of a partnership or limited liability company, has the right to receive upon dissolution, or has contributed, 20 percent or more of the capital.</text>
+ </subclause></clause><clause id="H87F5F804A3864B1D9F0F256AE49B18B5"><enum>(ii)</enum><header>Eligible privately held company</header><text>The term <quote>eligible privately held company</quote> means a company that meets both of the following conditions:</text> <subclause id="H7357B3FA4DFE4116B19A440EBE34EF2C"><enum>(I)</enum><text>The company does not have any class of securities registered, or required to be registered, with the Commission under section 12 or with respect to which the company files, or is required to file, periodic information, documents, and reports under subsection (d).</text>
+ </subclause><subclause id="H689E335101CF43F0AAD224F6AB4F5786"><enum>(II)</enum><text display-inline="yes-display-inline">In the fiscal year ending immediately before the fiscal year in which the services of the M&amp;A broker are initially engaged with respect to the securities transaction, the company meets either or both of the following conditions (determined in accordance with the historical financial accounting records of the company):</text>
+ <item id="HA7B9A505B0E943569AB1A00A4A765BE4"><enum>(aa)</enum><text>The earnings of the company before interest, taxes, depreciation, and amortization are less than $25,000,000.</text>
+ </item><item id="H425835B06A2F4B6FA7D908C8D7BBEF40"><enum>(bb)</enum><text>The gross revenues of the company are less than $250,000,000.</text> </item></subclause></clause><clause commented="no" id="HDEE5760BC49747BDBF20454B6D90BA4F"><enum>(iii)</enum><header>M&amp;A broker</header><text>The term <quote>M&amp;A broker</quote> means a broker, and any person associated with a broker, engaged in the business of effecting securities transactions solely in connection with the transfer of ownership of an eligible privately held company, regardless of whether the broker acts on behalf of a seller or buyer, through the purchase, sale, exchange, issuance, repurchase, or redemption of, or a business combination involving, securities or assets of the eligible privately held company, if the broker reasonably believes that—</text>
+ <subclause commented="no" id="HBA4DE0D6A9B348BA95BCC028DCFDDC08"><enum>(I)</enum><text display-inline="yes-display-inline">upon consummation of the transaction, any person acquiring securities or assets of the eligible privately held company, acting alone or in concert, will control and, directly or indirectly, will be active in the management of the eligible privately held company or the business conducted with the assets of the eligible privately held company; and</text>
+ </subclause><subclause commented="no" id="HDEAB6E5D1D16466DBF7E510E8446B00E"><enum>(II)</enum><text display-inline="yes-display-inline">if any person is offered securities in exchange for securities or assets of the eligible privately held company, such person will, prior to becoming legally bound to consummate the transaction, receive or have reasonable access to the most recent year-end balance sheet, income statement, statement of changes in financial position, and statement of owner’s equity of the issuer of the securities offered in exchange, and, if the financial statements of the issuer are audited, the related report of the independent auditor, a balance sheet dated not more than 120 days before the date of the offer, and information pertaining to the management, business, results of operations for the period covered by the foregoing financial statements, and material loss contingencies of the issuer.</text>
+							</subclause></clause></subparagraph><subparagraph id="HD6F3A6B396C24229A92A15F95689A7C4"><enum>(E)</enum><header>Inflation adjustment</header>
+ <clause id="H081DA9B482E04FE4900A6C34B6B41F10"><enum>(i)</enum><header>In general</header><text display-inline="yes-display-inline">On the date that is 5 years after the date of the enactment of the <short-title>Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2015</short-title>, and every 5 years thereafter, each dollar amount in subparagraph (D)(ii)(II) shall be adjusted by—</text>
+ <subclause id="HFD60EE449F8142ACAC1DB40E4AB2F1F7"><enum>(I)</enum><text display-inline="yes-display-inline">dividing the annual value of the Employment Cost Index For Wages and Salaries, Private Industry Workers (or any successor index), as published by the Bureau of Labor Statistics, for the calendar year preceding the calendar year in which the adjustment is being made by the annual value of such index (or successor) for the calendar year ending December 31, 2012; and</text>
+ </subclause><subclause id="HB5FF0D848F3E4BEAA7F2120EEB5798C9"><enum>(II)</enum><text>multiplying such dollar amount by the quotient obtained under subclause (I).</text> </subclause></clause><clause id="H81E6C3C5D45A4678A0FA07CDB4402F7B"><enum>(ii)</enum><header>Rounding</header><text>Each dollar amount determined under clause (i) shall be rounded to the nearest multiple of $100,000.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="H477B65A04D6E41DC970CB34C349D9E5C"><enum>3.</enum><header>Effective date</header><text display-inline="no-display-inline">This Act and any amendment made by this Act shall take effect on the date that is 90 days after the date of the enactment of this Act.</text>
+		</section></legis-body>
+</bill>
+
+

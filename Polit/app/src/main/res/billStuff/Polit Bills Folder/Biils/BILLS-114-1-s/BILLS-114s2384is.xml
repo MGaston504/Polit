@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2384 IS: Ratepayer Fairness Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-12-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2384</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151210">December 10, 2015</action-date>
+			<action-desc><sponsor name-id="S358">Mr. Flake</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Public Utility Regulatory Policies Act of 1978 to provide for the consideration by
+			 State regulatory authorities and nonregulated electric utilities of
+			 whether subsidies should be provided for
+			 the deployment, construction, maintenance, or operation of a customer-side
+			 technology.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ratepayer Fairness Act of 2015</short-title></quote>.</text>
+		</section><section id="id7594DBA6AAAE4166BA0D268CB7E19AAC"><enum>2.</enum><header>Cross-Subsidization of Customer-Side Technology</header>
+ <subsection id="idCE4FCFD27DD846AD84AE53C727364506"><enum>(a)</enum><header>Consideration of impact from cross-Subsidization of customer-Side technology</header><text display-inline="yes-display-inline">Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2621">16 U.S.C. 2621(d)</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idf122f8d838fd4e80908c12445763bd55" style="OLC">
+					<paragraph id="id74a232490cec403cbf02389097cb4c06"><enum>(20)</enum><header>Consideration of impact from cross-subsidization of customer-side technology</header>
+ <subparagraph id="id746682ab267f466b98a9d61f9ee77ddb"><enum>(A)</enum><header>Definition of customer-side technology</header><text>In this paragraph, the term <term>customer-side technology</term> means a device connected to the electricity distribution system—</text> <clause id="id107fa4a6f77e4a57b98eacf7f28076d3"><enum>(i)</enum><text>at, or on the customer side of, the meter; or</text>
+ </clause><clause id="id64f28e475d444bfcb25127db1fff0c41"><enum>(ii)</enum><text>that, if owned or operated by, or on behalf of, an electric utility, would otherwise be at, or on the customer side of, the meter.</text>
+ </clause></subparagraph><subparagraph id="idc5578f8a81e24f659be3d9a502e26d81"><enum>(B)</enum><header>Consideration</header><text>Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall consider, to the extent a State regulatory authority or nonregulated electric utility allows rates charged by any electric utility to include any cost, fee, or charge that directly or indirectly subsidizes the deployment, construction, maintenance, or operation of customer-side technology, whether subsidizing the deployment, construction, maintenance, or operation of a customer-side technology would—</text>
+ <clause id="idb8725ffe9f944591a09de43b7e81642d"><enum>(i)</enum><text>result in benefits predominately enjoyed by only the users of the customer-side technology;</text> </clause><clause id="id45e0f6ce83a149d4ae47611cce5e287e"><enum>(ii)</enum><text>shift costs of a customer-side technology to electricity consumers that do not use the customer-side technology, particularly in cases in which disparate economic or resource conditions exist among the electricity consumers cross-subsidizing the customer-side technology;</text>
+ </clause><clause id="idfb6ad32e0f4349ec8a41b596d88168a0"><enum>(iii)</enum><text>negatively affect resource utilization, fuel diversity, grid reliability, or grid security;</text> </clause><clause id="idffb75c031a2b4b40a5878688d5336f0a"><enum>(iv)</enum><text>provide any unfair competitive advantage to market the customer-side technology, including an analysis of whether the State regulatory authority or other State authority has uncovered any fraudulent customer-side technology marketing practices within the State; and</text>
+ </clause><clause id="id7664a630635b44c59e74f84a28df919b"><enum>(v)</enum><text>be necessary to fulfill an obligation to serve electric consumers.</text> </clause></subparagraph><subparagraph id="idbda8d25f96314cfdbe0f230ae3a22ce4"><enum>(C)</enum><header>Public notice</header><text>At least 90 days before the date on which a State regulatory authority or nonregulated electric utility holds a proceeding that would consider the cross-subsidization of a customer-side technology, the State regulatory authority or nonregulated electric utility shall make available to the public the results of the evaluation conducted under subparagraph (B).</text></subparagraph></paragraph><after-quoted-block>. </after-quoted-block></quoted-block>
+			</subsection><subsection id="id63499cd2b92f4f7c9911d224ead8e7b2"><enum>(b)</enum><header>Compliance</header>
+ <paragraph id="idd5d303decefa4a5ebe8648c7294c39ab"><enum>(1)</enum><header>Time limitations</header><text>Section 112(b) of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2622">16 U.S.C. 2622(b)</external-xref>) is amended by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id0654b8de7b9d4877a5c3700a205e0804" style="OLC">
+ <paragraph id="id0310969a609e43df8a29f092e638e099"><enum>(7)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="idA525A67E8AED4793AC6E20CCA93A4652"><enum>(A)</enum><text>Not later than 1 year after the date of enactment of this paragraph, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility shall, with respect to the standard established by paragraph (20) of section 111(d)—</text>
+ <clause id="id1FDBC72D3AD942538FAB256A57508825" indent="up1"><enum>(i)</enum><text>commence the consideration referred to in section 111; or</text> </clause><clause id="id14E48E879EE94F4CAAF3227CFC53BDA8" indent="up1"><enum>(ii)</enum><text>set a hearing date for the consideration.</text>
+ </clause></subparagraph><subparagraph id="id74666CDD3F93401790E7A4F0B82A0301" indent="up1"><enum>(B)</enum><text>Not later than 2 years after the date of enactment of this paragraph, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall—</text>
+ <clause id="idCF55E7B184814699A5B72C6342C1635A"><enum>(i)</enum><text>complete the consideration required under subparagraph (A); and</text> </clause><clause id="id2DBB00955D5C4105AF60996307ABA7F2"><enum>(ii)</enum><text>make the determination referred to in section 111 with respect to the standard established by paragraph (20) of section 111(d).</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="ida4029b6a205a404b908d24221060316e"><enum>(2)</enum><header>Failure to comply</header><text>Section 112(c) of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2622">16 U.S.C. 2622(c)</external-xref>) is amended by adding at the end the following: <quote>In the case of the standard established by paragraph (20) of section 111(d), the reference contained in this subsection to the date of enactment of this Act shall be deemed to be a reference to the date of enactment of that paragraph.</quote>.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

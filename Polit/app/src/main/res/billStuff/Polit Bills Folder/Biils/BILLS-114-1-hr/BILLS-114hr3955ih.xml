@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5B2B1D26AA6B44848EF5BF87B4714725" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3955 IH: Small Municipality Flood Relief Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3955</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151105">November 5, 2015</action-date>
+			<action-desc><sponsor name-id="B001294">Mr. Blum</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to authorize the
+			 Administrator of the Federal Emergency Management Agency to release a
+			 local government from certain land restrictions imposed under the hazard
+			 mitigation program, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H6214A331757B4F92989E422F0E75D681" style="OLC">
+ <section id="HBDA53EB776B9496EB27A10119CC13107" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Municipality Flood Relief Act of 2015</short-title></quote>.</text> </section><section id="H5278D2ED4B2D4AE598273A7C3AA0356D"><enum>2.</enum><header>Hazard mitigation program</header><text display-inline="no-display-inline">Section 404(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5170c">42 U.S.C. 5170c(b)</external-xref>) is amended—</text>
+ <paragraph id="H4300F78128C449869BFD8CEDC52CC581"><enum>(1)</enum><text>by redesignating paragraph (3) as paragraph (4); and</text> </paragraph><paragraph id="H3A0682AB1C1A4160B35C7358A1347EE7"><enum>(2)</enum><text>by inserting after paragraph (2) the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H0BD47D092DA7414B85E68085AA07DA33" style="OLC">
+ <paragraph id="H62915F05412D4AC381433899A2714463"><enum>(3)</enum><header>Authority to remove grant conditions</header><text display-inline="yes-display-inline">A recipient of assistance for an acquisition or relocation project shall be released from any restriction imposed with respect to a parcel of property under an agreement entered into under paragraph (2)(B) if—</text>
+ <subparagraph id="HEE08FDBB98FC45CEA0706986D631FB8C"><enum>(A)</enum><text display-inline="yes-display-inline">the local government that has jurisdiction over the property submits to the State a request for the release;</text>
+ </subparagraph><subparagraph id="H8A4E1B1EA8684CEEBC8012E1B9DB0A19"><enum>(B)</enum><text display-inline="yes-display-inline">the request is made more than 5 years after the date of the closeout of the acquisition or relocation project;</text>
+ </subparagraph><subparagraph id="H7D0F5E26840D479ABEF79F5E510EA733"><enum>(C)</enum><text display-inline="yes-display-inline">on the date of the request, the parcel is not in an area designated by the Administrator, for purposes of the National Flood Insurance Program, as an area having special flood hazards;</text>
+ </subparagraph><subparagraph id="H946CFD23E24C46418FA2485DF7BBCF25"><enum>(D)</enum><text display-inline="yes-display-inline">the local government certifies that no coercion took place against the original property owner in acquiring the parcel;</text>
+ </subparagraph><subparagraph id="H7AC8EA9CDAAD46F8876910D2F921B8AC"><enum>(E)</enum><text display-inline="yes-display-inline">the State in which the parcel is located approves the request and submits to the Administrator, not later than 60 days after the date of receipt of the request, a recommendation for approval of the request;</text>
+ </subparagraph><subparagraph id="H6F790AA584A742729355F8ED9D633A5E"><enum>(F)</enum><text>the local government—</text> <clause id="H81286B2A03824176A846E4523FC664E4"><enum>(i)</enum><text display-inline="yes-display-inline">repays to the Administrator the amount of hazard mitigation assistance received from the Federal Government under paragraph (1) for the acquisition or relocation project; or</text>
+ </clause><clause id="H4F50FFF969C64EA59291354561D7E699"><enum>(ii)</enum><text display-inline="yes-display-inline">substitutes for the property a different parcel of property that—</text> <subclause id="H1D87269A4AD44DC0BD4AA2E19038713F"><enum>(I)</enum><text>has at least 2 times the acreage of the original property;</text>
+ </subclause><subclause id="H77E1DF2FCC49416F9A80533B80CB02DD"><enum>(II)</enum><text display-inline="yes-display-inline">is subject to the same restrictions imposed under paragraph (2)(B);</text> </subclause><subclause id="H2C250A1D899F4E5984549E02F99ACA5A"><enum>(III)</enum><text>will not be subject to the authority to remove the grant conditions provided under paragraph (3); and</text>
+ </subclause><subclause id="H0433D9C0A497415AA06F5D26BD3F95F0"><enum>(IV)</enum><text>is determined to be as cost-effective; and</text> </subclause></clause></subparagraph><subparagraph id="H615CDBD9CEF648B2AAA3097F82772B06"><enum>(G)</enum><text>the Administrator gives final approval to the request.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

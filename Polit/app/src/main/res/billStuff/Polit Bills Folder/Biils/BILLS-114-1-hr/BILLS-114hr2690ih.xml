@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H74310B1626624EB289B557DD5BF2DB04" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2690 IH: Including Families in Mental Health Recovery Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-06-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2690</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150609">June 9, 2015</action-date>
+			<action-desc><sponsor name-id="M001163">Ms. Matsui</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To direct the Secretary of Health and Human Services to promulgate regulations clarifying the
+			 circumstances under which, consistent with the standards governing the
+			 privacy and security of individually identifiable health information
+			 promulgated by the Secretary under sections 262(a) and 264 of the Health
+			 Insurance Portability and Accountability Act of 1996, health care
+			 providers and covered entities may disclose the protected health
+			 information of patients with a mental illness, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HB8BACAEAF794435DB2E5CB0A1037E0DA" style="OLC">
+ <section id="HC2CAD922E4BC439A93BD1554484B0038" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Including Families in Mental Health Recovery Act of 2015</short-title></quote>.</text> </section><section id="HE7A0E16803994ED0BA2642E7A29B5413"><enum>2.</enum><header>Clarification of circumstances under which disclosure of protected health information of mental illness patients is permitted</header> <text display-inline="no-display-inline">The HITECH Act (title XIII of division A of <external-xref legal-doc="public-law" parsable-cite="pl/111/5">Public Law 111–5</external-xref>) is amended by adding at the end of subtitle D of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/17921">42 U.S.C. 17921 et seq.</external-xref>) the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H69175305C5F84F62B735AC6DC572D095" style="OLC">
+				<part id="H6ACF934F1E534B1A8B7F48FDB64E463E"><enum>3</enum><header>Improved privacy and security provisions for mental illness patients</header>
+					<section id="H7FF4F2D94F504D8790F9311322E88D88"><enum>13431.</enum><header>Clarification of circumstances under which disclosure of protected health information is permitted</header>
+ <subsection id="HA50C89198D1F472A908F16C6CFC5146B"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than one year after the date of enactment of the <short-title>Including Families in Mental Health Recovery Act of 2015</short-title>, the Secretary shall promulgate final regulations clarifying the circumstances under which, consistent with the standards governing the privacy and security of individually identifiable health information promulgated by the Secretary under sections 262(a) and 264 of the Health Insurance Portability and Accountability Act of 1996, health care providers and covered entities may disclose the protected health information of patients with a mental illness, including for purposes of—</text>
+ <paragraph id="H0C4901E9AF0145C28EF31CF64D2E7763"><enum>(1)</enum><text display-inline="yes-display-inline">communicating with a patient’s family, caregivers, friends, or others involved in the patient’s care, including communication about treatments, side effects, risk factors, and the availability of community resources;</text>
+ </paragraph><paragraph id="H4647D1633B9B49BF97182BB095053F5E"><enum>(2)</enum><text>communicating with family or caregivers when the patient is an adult;</text> </paragraph><paragraph id="H3AB8F229D70B4EFD9F1617DC4D2F8ABE"><enum>(3)</enum><text>communicating with the parent or caregiver of a patient who is a minor;</text>
+ </paragraph><paragraph id="H36D00ED25FA84FC8B041B925FB338ED6"><enum>(4)</enum><text>considering the patient’s capacity to agree or object to the sharing of their information;</text> </paragraph><paragraph commented="no" id="H8C2E50A634F54501B0B56EC000ACD2AE"><enum>(5)</enum><text display-inline="yes-display-inline">communicating and sharing information with a patient’s family or caregivers when—</text>
+ <subparagraph commented="no" id="HF97F96BBD6624B878FC9B3012936A0CD"><enum>(A)</enum><text>the patient consents; or</text> </subparagraph><subparagraph commented="no" id="HE8EEE138474C4B14A692FC31E638B936"><enum>(B)</enum><text display-inline="yes-display-inline">the patient does not consent, but the patient lacks the capacity to agree or object and the communication or sharing of information is in the patient's best interest;</text>
+ </subparagraph></paragraph><paragraph id="H8F72463F41C24825B3EE1E9E2721C313"><enum>(6)</enum><text display-inline="yes-display-inline">involving a patient’s family members, friends, or caregivers, or others involved in the patient’s care in the patient’s care plan, including treatment and medication adherence, in dealing with patient failures to adhere to medication or other therapy;</text>
+ </paragraph><paragraph id="HA759E3ACA2334729A1178DC54A1CBDA4"><enum>(7)</enum><text>listening to or receiving information from family members or caregivers about their loved ones receiving mental illness treatment;</text>
+ </paragraph><paragraph id="H0CE571A61F1D423FA5D62AD5640B5450"><enum>(8)</enum><text>communicating with family members, caregivers, law enforcement, or others when the patient presents a serious and imminent threat of harm to self or others; and</text>
+ </paragraph><paragraph id="HF6D07CE5101748D9BCE359B91CB1D501"><enum>(9)</enum><text display-inline="yes-display-inline">communicating to law enforcement and family members or caregivers about the admission of a patient to receive care at a facility or the release of a patient who was admitted to a facility for an emergency psychiatric hold or involuntary treatment.</text>
+ </paragraph></subsection><subsection id="HB298CE18D338447B91CC28B02E01391D"><enum>(b)</enum><header>Coordination</header><text display-inline="yes-display-inline">The Secretary shall carry out this section in coordination with the Director of the Office for Civil Rights within the Department of Health and Human Services.</text>
+ </subsection><subsection id="H91D0F21643424279901B9DC993D09FDE"><enum>(c)</enum><header>Consistency with guidance</header><text display-inline="yes-display-inline">The Secretary shall ensure that the regulations under this section are consistent with the guidance entitled <quote>HIPAA Privacy Rule and Sharing Information Related to Mental Health</quote>, issued by the Department of Health and Human Services on February 20, 2014.</text>
+						</subsection></section></part><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="H598E1662E1354797882CDA4B14BF88E2"><enum>3.</enum><header>Development and dissemination of model training programs</header>
+ <subsection id="H6112B46614F54322AD8A92FABE6C6466"><enum>(a)</enum><header>Initial programs and materials</header><text display-inline="yes-display-inline">Not later than one year after promulgating final regulations under section 13431 of the HITECH Act, as added by section 2, the Secretary of Health and Human Services (in this section referred to as the <quote>Secretary</quote>) shall develop and disseminate—</text>
+ <paragraph id="H481E9A99635649D186779D9DF4E4AA2F"><enum>(1)</enum><text display-inline="yes-display-inline">a model program and materials for training health care providers (including physicians, emergency medical personnel, psychologists, counselors, therapists, behavioral health facilities and clinics, care managers, and hospitals) regarding the circumstances under which, consistent with the standards governing the privacy and security of individually identifiable health information promulgated by the Secretary under sections 262(a) and 264 of the Health Insurance Portability and Accountability Act of 1996, the protected health information of patients with a mental illness may be disclosed with and without patient consent;</text>
+ </paragraph><paragraph id="H59365E7B6A6A49A8A4F84E9BD721955F"><enum>(2)</enum><text>a model program and materials for training lawyers and others in the legal profession on such circumstances; and</text>
+ </paragraph><paragraph id="H784F2109E0BD4D43937044DB3C53D1FC"><enum>(3)</enum><text display-inline="yes-display-inline">a model program and materials for training patients and their families regarding their rights to protect and obtain information under the standards specified in paragraph (1).</text>
+ </paragraph></subsection><subsection id="H671F7D38A47E4326A27BB68921319EDA"><enum>(b)</enum><header>Periodic updates</header><text>The Secretary shall—</text> <paragraph id="H2EBF88F995214CEA8117A05D0D939D62"><enum>(1)</enum><text>periodically review and update the model programs and materials developed under subsection (a); and</text>
+ </paragraph><paragraph id="HC7697FB83FA04B1381487D715CBF53D8"><enum>(2)</enum><text>disseminate the updated model programs and materials.</text> </paragraph></subsection><subsection id="H0981A95FB0944B0A98AF1C99159687CB"><enum>(c)</enum><header>Contents</header><text display-inline="yes-display-inline">The programs and materials developed under subsection (a) shall address the guidance entitled <quote>HIPAA Privacy Rule and Sharing Information Related to Mental Health</quote>, issued by the Department of Health and Human Services on February 20, 2014.</text>
+ </subsection><subsection id="HEFA4608A4E15458093813379ACDF479C"><enum>(d)</enum><header>Coordination</header><text display-inline="yes-display-inline">The Secretary shall carry out this section in coordination with the Director of the Office for Civil Rights within the Department of Health and Human Services, the Administrator of the Substance Abuse and Mental Health Services Administration, the Administrator of the Health Resources and Services Administration, and the heads of other relevant agencies within the Department of Health and Human Services.</text>
+ </subsection><subsection id="H3F934810478A4A809299D52B444FFABD"><enum>(e)</enum><header>Input of certain entities</header><text>In developing the model programs and materials required by subsections (a) and (b), the Secretary shall solicit the input of relevant national, State, and local associations, medical societies, and licensing boards.</text>
+ </subsection><subsection id="H3F39B8330452485B8CE40BEA5929D57E"><enum>(f)</enum><header>Funding</header><text display-inline="yes-display-inline">There is authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2016 and $25,000,000 for the period of fiscal years 2017 through 2022.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

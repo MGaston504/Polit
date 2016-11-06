@@ -1,0 +1,988 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2254 IS: Hardrock Mining and Reclamation Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-11-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 2254</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20151105">November 5, 2015</action-date><action-desc><sponsor name-id="S326">Mr. Udall</sponsor> (for himself, <cosponsor name-id="S359">Mr. Heinrich</cosponsor>, <cosponsor name-id="S330">Mr. Bennet</cosponsor>, <cosponsor name-id="S247">Mr. Wyden</cosponsor>, and <cosponsor name-id="S369">Mr. Markey</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To modify the requirements applicable to locatable minerals on public domain land, and for other
+			 purposes.</official-title></form>
+	<legis-body>
+		<section display-inline="no-display-inline" id="HB8107368D5D942609393CB4EAC40C2C" section-type="section-one"><enum>1.</enum><header>Short title; table of
+			 contents</header>
+			<subsection id="H45015DE55AED454A97B4275DF1EBCC8F"><enum>(a)</enum><header>Short
+ title</header><text>This Act may be cited as the <quote><short-title>Hardrock Mining and Reclamation Act of 2015</short-title></quote>.</text> </subsection><subsection id="HB39E9EC778E84B7C9580913D5B7B6EF8"><enum>(b)</enum><header>Table of contents</header><text>The table of contents of this Act is as follows:</text><toc><toc-entry idref="HB8107368D5D942609393CB4EAC40C2C" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="HAD2D6759933344F59B031480AD806C67" level="section">Sec. 2. Definitions.</toc-entry>
+					<toc-entry idref="id89746D8939424899805E78F1E2C6AAF7" level="title">TITLE I—Locatable mineral deposits</toc-entry>
+					<toc-entry idref="H807052406BA3440800857C00F9F220C8" level="section">Sec. 101. Limitation on patents.</toc-entry>
+					<toc-entry idref="id5E34B084AECD473488FCB55F36B89357" level="section">Sec. 102. Fees.</toc-entry>
+					<toc-entry idref="id6E00D47CC6CC45539E80EFB18BB7FCEE" level="section">Sec. 103. Limitations.</toc-entry>
+					<toc-entry idref="idD133EED454E948C194D881FFA01FE9D5" level="title">TITLE II—Royalties</toc-entry>
+					<toc-entry idref="id9709cd1a3f194c7fab7703f8b31a3e05" level="section">Sec. 201. Royalty.</toc-entry>
+					<toc-entry idref="id311A3F2AD4C64794A18B0A9E76C99A60" level="section">Sec. 202. Royalty relief.</toc-entry>
+					<toc-entry idref="ID8ff09ce4a2b648aa894274582e321f25" level="section">Sec. 203. Enforcement.</toc-entry>
+					<toc-entry idref="ID29b05e1b4b04450b9662b4b543301bbe" level="section">Sec. 204. Review.</toc-entry>
+					<toc-entry idref="H6ABEEDA292B7408800765C102DCEBF7" level="title">TITLE III—Mineral activities</toc-entry>
+					<toc-entry idref="H0940C82503EA434485496200C2DF62DA" level="section">Sec. 301. Permits.</toc-entry>
+					<toc-entry idref="H8CA439A615284EC88CD5C9AB00C63E76" level="section">Sec. 302. Exploration permits.</toc-entry>
+					<toc-entry idref="idE3E34968C4DE418193074566F61E770B" level="section">Sec. 303. Mining permits.</toc-entry>
+					<toc-entry idref="ID2703bfd1e9a14064a84c9f4800860092" level="section">Sec. 304. Financial assurances.</toc-entry>
+					<toc-entry idref="ID6ca5c92525914b5fadac252aaa71c8da" level="section">Sec. 305. Transfer, assignment, or sale of right.</toc-entry>
+					<toc-entry idref="H3FC784E2362C468DACA3F0CEF072DB60" level="section">Sec. 306. Operation and reclamation.</toc-entry>
+					<toc-entry idref="H445C0565F07D4ED200AABE89DE07A2B8" level="section">Sec. 307. Land open to location.</toc-entry>
+					<toc-entry idref="idE0ABE98B8FB44D039EF4FAE6E13FC50C" level="section">Sec. 308. State law.</toc-entry>
+					<toc-entry idref="id096AB6B84A184E2B88309C9A0EF3A185" level="section">Sec. 309. Inspection and monitoring.</toc-entry>
+					<toc-entry idref="H4C311C9203784B73A13802B7C79C3115" level="title">TITLE IV—Hardrock Minerals Reclamation Fund</toc-entry>
+					<toc-entry idref="HB9C48332F4C14DB7A9A675FC769C1D4" level="section">Sec. 401. Establishment of Fund.</toc-entry>
+					<toc-entry idref="H0ED9F722D317474B9BF600030532D1B4" level="section">Sec. 402. Use and objectives of the Fund.</toc-entry>
+					<toc-entry idref="idE7DDCFD136A640C784227F2F43D2092E" level="section">Sec. 403. Abandoned mine land reclamation fee.</toc-entry>
+					<toc-entry idref="id8D0D8DB32FF64F64ADEFBF2E14ACEE9E" level="title">TITLE V—Transition rules, administrative provisions, and miscellaneous provisions</toc-entry>
+					<toc-entry idref="HC65341AC9DFA444EB5786FF0FC319448" level="section">Sec. 501. Transition rules.</toc-entry>
+					<toc-entry idref="id6079309C417D45A7BD84391901BFEEC0" level="section">Sec. 502. Enforcement.</toc-entry>
+					<toc-entry idref="idBEF951E21F7D47459BA6075AAD299307" level="section">Sec. 503. Judicial review.</toc-entry>
+					<toc-entry idref="idE4410138A24D43D48787D5B8AA45763B" level="section">Sec. 504. Uncommon varieties.</toc-entry>
+					<toc-entry idref="id6489B698CA3844E19EA03E687EC05985" level="section">Sec. 505. Review of uranium development on Federal land.</toc-entry>
+					<toc-entry idref="id62147163D1AE4F5BB3AE6872892C3521" level="section">Sec. 506. Effect.</toc-entry>
+				</toc>
+ </subsection></section><section id="HAD2D6759933344F59B031480AD806C67"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> <paragraph id="IDc3448b8631af453aa91dfb9bc17500cc"><enum>(1)</enum><header>Abandoned hardrock mine State</header><text>The term <term>abandoned hardrock mine State</term> means each of the States of Alaska, Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, North Dakota, Oregon, South Dakota, Utah, Washington, and Wyoming.</text>
+ </paragraph><paragraph id="HDA7F12BCA6594185B42E74B62CCCDFAD"><enum>(2)</enum><header>Applicant</header><text>The term <term>applicant</term> means any person that applies for—</text>
+ <subparagraph id="id2FE41D3027994313B45110CD8428E7BA"><enum>(A)</enum><text>a permit under this Act; or</text>
+ </subparagraph><subparagraph id="idDF2B5460B77C475CAA22A2D7381F4DAD"><enum>(B)</enum><text>a modification to, or a renewal of, a permit issued under this Act.</text>
+ </subparagraph></paragraph><paragraph id="H0D791B97016C4B34BBE2A1D76D981007"><enum>(3)</enum><header>Beneficiation</header><text>The term <term>beneficiation</term> means—</text>
+ <subparagraph id="id32A608193D124E1EB2C05708C7A91487"><enum>(A)</enum><text>the crushing and grinding of locatable mineral ore; and</text>
+ </subparagraph><subparagraph id="idCE10E734D9CE4B3E89EB3332B028D3D2"><enum>(B)</enum><text>any processes that are employed to free the mineral from other constituents, including physical and chemical separation techniques.</text>
+				</subparagraph></paragraph><paragraph id="HCA32F488530740A181A3DA1E89BB0F0"><enum>(4)</enum><header>Casual
+			 use</header>
+				<subparagraph id="id96577D4355AE4A3CA96E0A9367AB0834"><enum>(A)</enum><header>In
+ general</header><text>The term <term>casual use</term> means mineral activities that ordinarily result in no or negligible disturbance of Federal land or resources.</text>
+ </subparagraph><subparagraph id="id8D23549709E34826972E3455DC3CBF27"><enum>(B)</enum><header>Inclusions</header><text>The term <term>casual use</term> includes the collection of geochemical, rock, soil, or mineral specimens using hand tools, hand panning, or nonmotorized sluicing.</text>
+ </subparagraph><subparagraph id="idB0F25AD3A94C4BCB94BB6C72EED06215"><enum>(C)</enum><header>Exclusions</header><text>The term <term>casual use</term> does not include—</text>
+ <clause id="H9ED3A21836AC4BAABE8F8CAA2371006C"><enum>(i)</enum><text>the use of mechanized earth-moving equipment, suction dredging, or explosives;</text>
+ </clause><clause id="H6ABA73A441A94EAB89C00096ABD67370"><enum>(ii)</enum><text>the use of motor vehicles in areas closed to off-road vehicles;</text>
+ </clause><clause id="HB474042B4F634E0F9680774BEFC04B6"><enum>(iii)</enum><text>the construction of roads or drill pads; or</text>
+ </clause><clause id="H989A6D83AE2B4D4D93B9531388008870"><enum>(iv)</enum><text>the use of toxic or hazardous materials or explosives.</text>
+					</clause></subparagraph></paragraph><paragraph id="HF876790F1D7D4BD300F6AEF07F63ABC"><enum>(5)</enum><header>Claim
+ holder</header><text>The term <term>claim holder</term> means a person holding a mining claim, millsite, or tunnel site that is—</text>
+ <subparagraph id="id21A16C95AC2E46A7AA8C4366AF30D8C4"><enum>(A)</enum><text>located under the general mining laws; and</text>
+ </subparagraph><subparagraph id="idBD202A5435E04C999934065ADCE4D59F"><enum>(B)</enum><text>maintained in compliance with the general mining laws and this Act.</text>
+ </subparagraph></paragraph><paragraph id="H7E25DD9ADBA947BEAE65967EE7BF6F27"><enum>(6)</enum><header>Control</header><text>The term <term>control</term> means having the ability to determine the manner in which an entity conducts mineral activities.</text>
+			</paragraph><paragraph id="H360D972AA5A449B982EFF54EAEEB4CFD"><enum>(7)</enum><header>Exploration</header>
+				<subparagraph id="idCA7256FA84F94A7DA1B5D9EBD7853FB3"><enum>(A)</enum><header>In
+ general</header><text>The term <term>exploration</term> means creating a surface disturbance (other than casual use) to evaluate the type, extent, quantity, or quality of minerals present.</text>
+ </subparagraph><subparagraph id="id016DC8A7DEDC4A44922209C2DA9466C1"><enum>(B)</enum><header>Inclusions</header><text>The term <term>exploration</term> includes mineral activities associated with sampling, drilling, or developing surface or underground workings to evaluate locatable mineral values.</text>
+ </subparagraph><subparagraph id="id6EDB0B9E9AE143698DAF0CC16E7F4942"><enum>(C)</enum><header>Exclusions</header><text>The term <term>exploration</term> does not include the extraction of mineral material for commercial use or sale.</text>
+				</subparagraph></paragraph><paragraph id="HE4C9F4BF4C6A46A40015A21EF471D8E"><enum>(8)</enum><header>Federal
+ land</header><text display-inline="yes-display-inline">The term <term>Federal land</term> means any land and any interest in land that is—</text>
+ <subparagraph id="idA85735B063064BA7A6AB3E483BA1AA65"><enum>(A)</enum><text display-inline="yes-display-inline">owned by the United States; and</text> </subparagraph><subparagraph id="idA5B40616A2444F27B73D914947B1023C"><enum>(B)</enum><text display-inline="yes-display-inline">open to location of mining claims under the general mining laws and this Act.</text>
+ </subparagraph></paragraph><paragraph id="idC7294307DA154DB5B6F27B2058E58031"><enum>(9)</enum><header>Fund</header><text>The term <term>Fund</term> means the Hardrock Minerals Reclamation Fund established by section 401(a).</text>
+			</paragraph><paragraph id="IDc3a8f82441ff491c9380e98d07027030"><enum>(10)</enum><header>Hardrock
+ mineral</header><text>The term <term>hardrock mineral</term> has the meaning given the term <term>locatable mineral</term> except that—</text>
+ <subparagraph id="id954E140FD831402880C65E048001F14F"><enum>(A)</enum><text>legal and beneficial title to the mineral need not be held by the United States; and</text>
+ </subparagraph><subparagraph id="id9697B4878C1149B3A3CEDBC36FE97B96"><enum>(B)</enum><text>paragraph (13)(B) does not apply to this paragraph.</text>
+				</subparagraph></paragraph><paragraph id="HA1BF782F5B4B4CBCA8B3CCCCF3CE6994"><enum>(11)</enum><header>Indian
+ land</header><text>The term <term>Indian land</term> means land that is—</text> <subparagraph id="idF8C154A4BC4F4C9AB6E5421F88FB8952"><enum>(A)</enum><text>held in trust for the benefit of an Indian tribe or member of an Indian tribe; or</text>
+ </subparagraph><subparagraph id="id4117C45A434A4CF48832C26D9CDADB0E"><enum>(B)</enum><text>held by an Indian tribe or member of an Indian tribe, subject to a restriction by the United States against alienation.</text>
+				</subparagraph></paragraph><paragraph id="H1768AF7F881F47C600F384EAC2CEADA6"><enum>(12)</enum><header>Indian
+ tribe</header><text>The term <term>Indian tribe</term> has the meaning given the term in section 4 of the <act-name parsable-cite="ISDA">Indian Self-Determination and Education Assistance Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/25/450b">25 U.S.C. 450b</external-xref>).</text>
+			</paragraph><paragraph id="H9CB168933B6845F08204F7FC23621DF"><enum>(13)</enum><header>Locatable
+			 mineral</header>
+				<subparagraph id="id62C7C299F390410A85F35592FB3B56E5"><enum>(A)</enum><header>In
+ general</header><text>The term <term>locatable mineral</term> means any mineral—</text>
+ <clause id="idF1D8C4E1B89A424B87165E21A6096987"><enum>(i)</enum><text>the legal and beneficial title to which remains in the United States; and</text>
+ </clause><clause id="id93AF96B1D7AB4B09B35F207E1256C5C1"><enum>(ii)</enum><text>that is not subject to disposition under—</text>
+ <subclause id="HA48ECE92938A47B8A8A4022F7544F2B9"><enum>(I)</enum><text display-inline="yes-display-inline">the Mineral Leasing Act (<external-xref legal-doc="usc" parsable-cite="usc/30/181">30 U.S.C. 181 et seq.</external-xref>);</text>
+ </subclause><subclause id="H0A46A0C3A8A642B2005D0011F066BB67"><enum>(II)</enum><text display-inline="yes-display-inline">the Geothermal Steam Act of 1970 (<external-xref legal-doc="usc" parsable-cite="usc/30/1001">30 U.S.C. 1001 et seq.</external-xref>);</text>
+ </subclause><subclause id="HB882F0CB361C4C63BD6EDD47DC05FA46"><enum>(III)</enum><text display-inline="yes-display-inline">the Act of July 31, 1947 (commonly known as the <quote>Materials Act of 1947</quote>) (<external-xref legal-doc="usc" parsable-cite="usc/30/601">30 U.S.C. 601 et seq.</external-xref>); or</text>
+ </subclause><subclause id="H57AF51461D5B4CF7B06635CC1AFF91C"><enum>(IV)</enum><text display-inline="yes-display-inline">the Act of August 7, 1947 (commonly known as the <quote>Mineral Leasing Act for Acquired Lands</quote>) (<external-xref legal-doc="usc" parsable-cite="usc/30/351">30 U.S.C. 351 et seq.</external-xref>).</text>
+ </subclause></clause></subparagraph><subparagraph id="idEF9DC591F5634DC09F236751C732FA94"><enum>(B)</enum><header>Exclusions</header><text>The term <term>locatable mineral</term> does not include any mineral that is—</text>
+ <clause id="idA8009E7853B2454A9A87EE4FE1B420A5"><enum>(i)</enum><text>subject to a restriction against alienation imposed by the United States; and</text>
+ </clause><clause id="id2C2CD57464B94110ABFBF1C2D9D46794"><enum>(ii)</enum><text>held in trust by the United States for, or owned by, any Indian tribe or member of an Indian tribe, as defined in section 2 of the Indian Mineral Development Act of 1982 (<external-xref legal-doc="usc" parsable-cite="usc/25/2101">25 U.S.C. 2101</external-xref>).</text>
+					</clause></subparagraph></paragraph><paragraph id="HA953DE2259A3402DA067D15F00D18486"><enum>(14)</enum><header>Mineral
+ activity</header><text>The term <term>mineral activity</term> means any activity on a mining claim, millsite, or tunnel site, or Federal land used in conjunction with the activity, for, relating to, or incidental to, mineral exploration, mining, beneficiation, processing, or reclamation activities for any locatable mineral.</text>
+			</paragraph><paragraph id="H2DC6431726D24E1E8204F8FDA7E1B8D"><enum>(15)</enum><header>National
+ Conservation System Unit</header><text>The term <term>National Conservation System unit</term> means—</text>
+ <subparagraph id="id0230E02F69914FE5A27B3935CAB0080C"><enum>(A)</enum><text>any unit of—</text>
+ <clause id="idB433EC3A66AA418C80E4FEB921068F21"><enum>(i)</enum><text>the National Park System;</text>
+ </clause><clause id="idCFD5CF39E3B64A33AA2F0A6F11E47BBE"><enum>(ii)</enum><text>the National Wildlife Refuge System; or</text>
+ </clause><clause id="id602282077C0846AE8EA8855913FCC51D"><enum>(iii)</enum><text>the National Wild and Scenic Rivers System;</text>
+ </clause></subparagraph><subparagraph id="id475470F723414C20ADCAB90348B74C4D"><enum>(B)</enum><text>a National Monument; or</text>
+ </subparagraph><subparagraph id="IDafc9fab4770b4c169b92d97f1cd3ffdc"><enum>(C)</enum><text>a National Conservation Area.</text>
+ </subparagraph></paragraph><paragraph id="H1A9458C01ECB49CF905BF77FC1C7F100"><enum>(16)</enum><header>Operator</header><text>The term <term>operator</term> means—</text>
+ <subparagraph id="idCE3F7C7C67094826B42EBB8271DCB11D"><enum>(A)</enum><text>any person proposing, or authorized by a permit, to conduct mineral activities under this Act; and</text>
+ </subparagraph><subparagraph id="id6DF280FAC7D24D8384233647C9BDC995"><enum>(B)</enum><text>any agent of a person described in subparagraph (A).</text>
+ </subparagraph></paragraph><paragraph id="H64A46CA453DB4943B06FC9BE5C145123"><enum>(17)</enum><header>Person</header><text>The term <term>person</term> means—</text>
+ <subparagraph id="id73063F9D02344A568D91210E55A6AC86"><enum>(A)</enum><text>an individual, Indian tribe, partnership, association, society, joint venture, joint stock company, firm, company, corporation, cooperative, trust, consortium, or other organization; and</text>
+ </subparagraph><subparagraph id="id668B75C523DA4B16AC73D77E62C7C1CD"><enum>(B)</enum><text>any instrumentality of a State or local government, including any publicly owned utility or publicly owned corporation of a State or local government.</text>
+				</subparagraph></paragraph><paragraph id="H2A4E53F61BFD43C0A906E7E2007617CE"><enum>(18)</enum><header>Processing</header>
+				<subparagraph id="id1E3C4F477C0B4491B6CA1AFCF64B4A28"><enum>(A)</enum><header>In
+ general</header><text>The term <term>processing</term> means processes downstream of beneficiation used to prepare locatable mineral ore into the final marketable product.</text>
+ </subparagraph><subparagraph id="idF3806D6605994B8EB44AA0AF64AD134B"><enum>(B)</enum><header>Inclusions</header><text>The term <term>processing</term> includes smelting and electrolytic refining.</text>
+ </subparagraph></paragraph><paragraph id="ID715b4971e4924268994246977af47d71"><enum>(19)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of the Interior.</text>
+			</paragraph><paragraph id="IDc63de0e5cd93429e9a0ffe4d73ae3564"><enum>(20)</enum><header>Secretary
+ concerned</header><text>The term <term>Secretary concerned</term> means—</text> <subparagraph id="ID17253c38386244a597c098ee68a08606"><enum>(A)</enum><text>the Secretary of Agriculture (acting through the Chief of the Forest Service), with respect to National Forest System land; and</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID9234733361414244b213e27c83adac14"><enum>(B)</enum><text>the Secretary of the Interior (acting through the Director of the Bureau of Land Management), with respect to land managed by the Bureau of Land Management or other Federal land.</text>
+				</subparagraph></paragraph><paragraph id="H73ABEF9970764C01B6FD00E73CF2A300"><enum>(21)</enum><header>Temporary
+ cessation</header><text>The term <term>temporary cessation</term> means a halt in mine related production activities for a continuous period of not longer than 5 years.</text>
+ </paragraph><paragraph id="idd52a2a7c4ad4405cb24377501b6eb23f"><enum>(22)</enum><header>Undue degradation</header><text>The term <term>undue degradation</term> means irreparable harm to significant scientific, cultural, or environmental resources on public land that cannot be effectively mitigated.</text>
+			</paragraph></section><title id="id89746D8939424899805E78F1E2C6AAF7"><enum>I</enum><header>Locatable mineral
+			 deposits</header>
+			<section id="H807052406BA3440800857C00F9F220C8"><enum>101.</enum><header>Limitation on
+			 patents</header>
+				<subsection id="HC178B50DF5B4415BA3BC8B584D916ED0"><enum>(a)</enum><header>Determinations
+ required</header><text>No patent shall be issued by the United States for any mining claim, millsite, or tunnel site located under the general mining laws unless the Secretary determines that—</text>
+ <paragraph id="H8F26093942924F2E8DD49BC2770837F8"><enum>(1)</enum><text>a patent application was filed with the Secretary with respect to the claim not later than September 30, 1994; and</text>
+ </paragraph><paragraph id="H71C53ACC39B14E14B6E852207B14BA86"><enum>(2)</enum><text>all requirements applicable to the patent application under law were fully complied with by the date described in paragraph (1).</text>
+					</paragraph></subsection><subsection id="HE6DFDB2047E14F8B83C51B06EBA6E6C3"><enum>(b)</enum><header>Right to
+			 patent</header>
+					<paragraph id="idF6CFC5604DFD4565B912829225EB0FC7"><enum>(1)</enum><header>In
+ general</header><text>Subject to paragraph (2) and notwithstanding subsection (c), if the Secretary makes the determinations under paragraphs (1) and (2) of subsection (a) with respect to a mining claim, millsite, or tunnel site, the claim holder shall be entitled to the issuance of a patent in the same manner and degree to which the claim holder would have been entitled to a patent before the date of enactment of this Act.</text>
+ </paragraph><paragraph id="id45949BF5EE1D4A4ABA15EF80E780897C"><enum>(2)</enum><header>Withdrawal</header><text>The claim holder shall not be entitled to the issuance of a patent if the determinations under paragraphs (1) and (2) of subsection (a) are withdrawn or invalidated by the Secretary or, on review, by a court of the United States.</text>
+ </paragraph></subsection><subsection id="id7766A08083574144BA9FE5851C97941A"><enum>(c)</enum><header>Repeal</header><text>Section 2325 of the Revised Statutes (<external-xref legal-doc="usc" parsable-cite="usc/30/29">30 U.S.C. 29</external-xref>) is repealed.</text>
+				</subsection></section><section id="id5E34B084AECD473488FCB55F36B89357"><enum>102.</enum><header>Fees</header>
+				<subsection id="id226B7D4DD8B74193B623E82491337E1F"><enum>(a)</enum><header>Claim
+			 maintenance fees</header>
+					<paragraph id="id4A24755419B849A39A6DCC56EC5E4EFB"><enum>(1)</enum><header>In
+ general</header><text>Not later than August 31, 2016, and each August 31 thereafter, the holder of each unpatented mining claim, millsite, or tunnel site shall pay to the Secretary a maintenance fee of $150 for each claim, millsite, or tunnel site.</text>
+ </paragraph><paragraph id="id92F58E4E54D849129C2ED139178C9BD6"><enum>(2)</enum><header>Requirements</header><text>The maintenance fees required under paragraph (1) shall be in lieu of—</text>
+ <subparagraph id="id4F8EA3BA2E3C4372A08724DCF8402CC1"><enum>(A)</enum><text>the assessment work requirements under the general mining laws; and</text>
+ </subparagraph><subparagraph id="id2D4C47CC127748C0B514C4A2DDD91053"><enum>(B)</enum><text>the related filing requirements under subsections (a) and (c) of section 314 of the Federal Land Policy and Management Act of 1976 (<external-xref legal-doc="usc" parsable-cite="usc/43/1744">43 U.S.C. 1744</external-xref>).</text>
+						</subparagraph></paragraph><paragraph id="IDad39c25f166b4253909c6b9a52b3d2e1"><enum>(3)</enum><header>Timing of
+ initial payment</header><text>Notwithstanding paragraph (1), the maintenance fee payable for the initial assessment year in which the location is made shall be paid at the time the location notice is recorded with the Bureau of Land Management.</text>
+					</paragraph><paragraph id="H4A1CB051CA7F4217938FEFA8322F241D"><enum>(4)</enum><header>Claim
+			 relocation</header>
+						<subparagraph id="H0333C0728D054E0EB94BADFF1EBCAD5B"><enum>(A)</enum><header>Definition of
+ related party</header><text>In this paragraph and paragraph (5), the term <term>related party</term> means—</text>
+ <clause id="H9AB872232FF04C0E9C1BFE3028AC3100"><enum>(i)</enum><text>the spouse and qualifying child (as defined in <external-xref legal-doc="usc" parsable-cite="usc/26/152">section 152</external-xref> of the Internal Revenue Code of 1986) of the claim holder; and</text>
+ </clause><clause id="HB473358280974E039643A77FDBD5157"><enum>(ii)</enum><text>a person affiliated with the claim holder, including—</text>
+ <subclause id="HF2BD27A9F57D4DCAA765DB648F475500"><enum>(I)</enum><text>a person controlled by, controlling, or under common control with, the claim holder; or</text>
+ </subclause><subclause commented="no" display-inline="no-display-inline" id="HA2950A563A1244D894CA44FFB47022C2"><enum>(II)</enum><text>a subsidiary, parent company, partner, director, or officer of the claim holder.</text>
+								</subclause></clause></subparagraph><subparagraph id="IDa8e2e93d0fdc4b3bbfcb9a6226590ed0"><enum>(B)</enum><header>Limits on
+			 relocation</header>
+							<clause id="id8DB537E3B5CE4A4FB95E5C68E907503C"><enum>(i)</enum><header>In
+ general</header><text>No claim, millsite, or tunnel site, or portion of a claim or site, may be relocated by a person or related party if the person or related party held the claim or site and subsequently relinquished the claim or site or allowed the claim or site to become null and void.</text>
+ </clause><clause id="id61DED37E4944446EA9D4C2E250566C99"><enum>(ii)</enum><header>Duration</header><text>The prohibition on relocation shall extend for a period of 10 years beginning on the date the claim or site was relinquished or became null and void.</text>
+ </clause></subparagraph></paragraph><paragraph id="idD39344D72B4B493B8E787D1560176CC6"><enum>(5)</enum><header>Waiver</header><text>The maintenance fee required under paragraph (1) shall be waived for a claim holder who certifies in writing to the Secretary that on the date the maintenance fee was due, the claim holder and all related parties—</text>
+ <subparagraph id="H78727A8FA94A4CC882D970E7E2CD677B"><enum>(A)</enum><text>held not more than 10 mining claims, millsites, tunnel sites, or any combination of claims and sites on Federal land; and</text>
+ </subparagraph><subparagraph id="H9B13DEFCA7C047E1B3E8F1AAEDB8787"><enum>(B)</enum><text>can demonstrate that the claim holder and all related parties have performed assessment work required under section 2324 of the Revised Statutes (<external-xref legal-doc="usc" parsable-cite="usc/30/28">30 U.S.C. 28</external-xref>) to maintain the mining claims and sites held by the claim holder and all related parties for the assessment year ending on noon of September 1 of the calendar year in which payment of the maintenance fee was due.</text>
+						</subparagraph></paragraph><paragraph id="H4A8C0AC66D1546E68D394E4D5334C09F"><enum>(6)</enum><header>Adjustment</header>
+						<subparagraph id="HB10CBFDA92764F339640021013C340E"><enum>(A)</enum><header>In
+ general</header><text>Subject to subparagraph (B), beginning on the date that is 5 years after the date of enactment of this Act and every 5 years thereafter, the Secretary shall adjust the amount of maintenance fees required under paragraph (1) to reflect changes in the Consumer Price Index for all urban consumers published by the Department of Labor.</text>
+						</subparagraph><subparagraph id="id22550CB1F69A4BDA9896E969CAA74E94"><enum>(B)</enum><header>More frequent
+ adjustments</header><text>The Secretary may adjust the amount of the maintenance fees more frequently than specified in subparagraph (A) to reflect changes in the Consumer Price Index for all urban consumers published by the Department of Labor if the Secretary determines an adjustment to be reasonable.</text>
+ </subparagraph><subparagraph id="HAFCA705AD2794DBF8CCA27611494FA52"><enum>(C)</enum><header>Notice</header><text>Not later than July 1 of any year in which an adjustment is made under this paragraph, the Secretary shall provide claim holders notice of the adjustment.</text>
+ </subparagraph><subparagraph id="H1828BEEFF1CE4F30BEFB00FC2717E727"><enum>(D)</enum><header>Application</header><text>An adjustment under this paragraph shall apply beginning in the first calendar year after the calendar year in which the adjustment is made.</text>
+						</subparagraph></paragraph><paragraph id="H183DF79121954912B92D8C005C4345C7"><enum>(7)</enum><header>Applicable
+ law</header><text display-inline="yes-display-inline">The co-ownership provisions of section 2324 of the Revised Statutes (<external-xref legal-doc="usc" parsable-cite="usc/30/28">30 U.S.C. 28</external-xref>) shall remain in effect, except that the annual maintenance fee, as applicable, shall replace applicable assessment requirements and expenditures.</text>
+					</paragraph><paragraph display-inline="no-display-inline" id="HC37044384B1744B89BCCA53CE464512"><enum>(8)</enum><header>Use and occupancy
+ of claims</header><text display-inline="yes-display-inline">Timely performance of required assessment work or payment of the maintenance fee under this subsection satisfies any obligation the claim holder has under the pedis possessio doctrine for any claim properly located in accordance with the general mining laws and applicable State law.</text>
+					</paragraph></subsection><subsection id="H5D6968602CC046798BDEA971C6483DF6"><enum>(b)</enum><header>Location
+			 fees</header>
+					<paragraph id="H495C0A4DCA7C4FA9B198BBEB357227AA"><enum>(1)</enum><header>In
+ general</header><text>Subject to paragraph (2) and notwithstanding any other provision of law, for each unpatented mining claim, millsite, or tunnel site located after the date of enactment of this Act, the locator shall, at the time the location notice is recorded with the Bureau of Land Management, pay to the Secretary a location fee of $50 for each claim for each location notice recorded with the Bureau of Land Management.</text>
+					</paragraph><paragraph id="id2232100099034B5193E3D98D1C091C88"><enum>(2)</enum><header>Adjustment</header>
+						<subparagraph id="idEFF211B52A284EB8835853432835FD44"><enum>(A)</enum><header>In
+ general</header><text>Subject to subparagraph (B), beginning on the date that is 5 years after the date of enactment of this Act and every 5 years thereafter, the Secretary shall adjust the amount of location fees required under paragraph (1) to reflect changes in the Consumer Price Index for all urban consumers published by the Department of Labor.</text>
+						</subparagraph><subparagraph id="id9BFE1C332F0F47AC8CCCCE0AB359F2C2"><enum>(B)</enum><header>More frequent
+ adjustments</header><text>The Secretary may adjust the amount of the location fees more frequently than specified in subparagraph (A) to reflect changes in the Consumer Price Index for all urban consumers published by the Department of Labor if the Secretary determines an adjustment to be reasonable.</text>
+ </subparagraph><subparagraph id="id3575CFE239D2461185CE2267726A4A61"><enum>(C)</enum><header>Notice</header><text>Not later than July 1 of any year in which an adjustment is made under this paragraph, the Secretary shall provide claim holders notice of the adjustment.</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id425DF4B225DE4D0CBDD738B9CDB8F613"><enum>(D)</enum><header>Application</header><text>An adjustment under this paragraph shall apply beginning in the first calendar year after the calendar year in which the adjustment is made.</text>
+						</subparagraph></paragraph><paragraph id="id00B0153BAAD544769DDA7C6C66ABA168"><enum>(3)</enum><header>Effect on
+ maintenance fee</header><text>The location fee required under paragraph (1) shall be in addition to the maintenance fee required under subsection (a).</text>
+					</paragraph></subsection><subsection id="id64996DB427BC41A2BD7F75C4F04CC1FD"><enum>(c)</enum><header>Disposition of
+			 funds</header>
+					<paragraph id="id8301D0E30699456986072C018E35E431"><enum>(1)</enum><header>In
+ general</header><text>Any amounts received under this section shall be used to pay the costs of administering program operations under sections 2318 through 2352 of the Revised Statutes (commonly known as the <quote>Mining Law of 1872</quote>) (<external-xref legal-doc="usc" parsable-cite="usc/30/21">30 U.S.C. 21 et seq.</external-xref>) and this Act, without further appropriation.</text>
+					</paragraph><paragraph id="id3692B10A99A8405EA2A39A20AD0F8EC8"><enum>(2)</enum><header>Excess
+ amounts</header><text>Any amounts in excess of the costs described in paragraph (1) for any fiscal year shall be deposited in the Fund.</text>
+					</paragraph></subsection><subsection id="HC650D03E448C48AEAF5DAD0945C7E505"><enum>(d)</enum><header>Effect of
+ section</header><text>Nothing in this section changes or modifies—</text> <paragraph id="idFB618FC3D68541BE8BED78FF374F24A7"><enum>(1)</enum><text>section 314(b) of the Federal Land Policy and Management Act of 1976 (<external-xref legal-doc="usc" parsable-cite="usc/43/1744">43 U.S.C. 1744(b)</external-xref>); or</text>
+ </paragraph><paragraph id="id1D312ABF74BD4C9D9E8607CC0ACED901"><enum>(2)</enum><text>the provisions of subsection (c) of section 314 of the Federal Land Policy and Management Act of 1976 (<external-xref legal-doc="usc" parsable-cite="usc/43/1744">43 U.S.C. 1744</external-xref>) relating to filings required by subsection (b) of that section.</text>
+					</paragraph></subsection><subsection id="H25F43421C82D4929A6328EAF6B6FCB1E"><enum>(e)</enum><header>Amendment to
+ Revised Statutes</header><text>Section 2324 of the Revised Statutes (<external-xref legal-doc="usc" parsable-cite="usc/30/28">30 U.S.C. 28</external-xref>) is amended by inserting <quote>or section 102(a)(5) of the <short-title>Hardrock Mining and Reclamation Act of 2015</short-title></quote> after <quote>Omnibus Budget Reconciliation Act of 1993</quote>.</text>
+				</subsection></section><section display-inline="no-display-inline" id="id6E00D47CC6CC45539E80EFB18BB7FCEE" section-type="subsequent-section"><enum>103.</enum><header>Limitations</header>
+				<subsection display-inline="no-display-inline" id="id4891896B1BE14AADB542FC2672ED61FE"><enum>(a)</enum><header>Failure To
+			 comply</header>
+					<paragraph display-inline="no-display-inline" id="id245E0D6F228F4889B5AE5BBCFDF26E7E"><enum>(1)</enum><header>In
+ general</header><text display-inline="yes-display-inline">The failure of the claim holder to perform assessment work or to pay a maintenance fee if required under section 102(a), to pay a location fee under section 102(b), or to file a timely notice of location shall—</text>
+ <subparagraph display-inline="no-display-inline" id="id9E0DCEB39FC649EDAC4D1D4AF7ACDF5A"><enum>(A)</enum><text display-inline="yes-display-inline">conclusively constitute a forfeiture of the mining claim, millsite, or tunnel site; and</text>
+ </subparagraph><subparagraph display-inline="no-display-inline" id="idEB4E2578DAAF4DB589B128D8A0E51389"><enum>(B)</enum><text display-inline="yes-display-inline">make the claim or site null and void by operation of law.</text>
+ </subparagraph></paragraph><paragraph display-inline="no-display-inline" id="idA1572C8D7DEC4B56A40DCE58528819AD"><enum>(2)</enum><header>Effect</header><text display-inline="yes-display-inline">Forfeiture under paragraph (1) shall not relieve any person of any obligation under this Act and applicable regulations, including reclamation, and other applicable law.</text>
+					</paragraph></subsection><subsection display-inline="no-display-inline" id="id85E54B6B3844432AB3F3AF3D4D093933"><enum>(b)</enum><header>Relinquishment</header>
+					<paragraph display-inline="no-display-inline" id="idDAAF7937AA9F4A70A59655B7C4F4F068"><enum>(1)</enum><header>In
+ general</header><text>A claim holder deciding not to pursue mineral activities on a mining claim, millsite, or tunnel site, may relinquish the claim or site by notifying the Secretary of the intent to relinquish the claim or site.</text>
+ </paragraph><paragraph display-inline="no-display-inline" id="idB938C9009DCF425696775F490340F716"><enum>(2)</enum><header>Effect</header><text>A claim holder relinquishing a claim, millsite, or tunnel site under paragraph (1) shall be responsible for any obligation under this Act and applicable regulations, including reclamation, and other applicable law.</text>
+					</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="idB6073728736D4E75BFA78F96F34DB18B"><enum>(c)</enum><header>Use of mining
+			 claim</header>
+					<paragraph commented="no" display-inline="no-display-inline" id="idE19A23B6D3194587AD8056D122B91B16"><enum>(1)</enum><header>In
+ general</header><text>The continued use, occupancy, and retention of any mining claim, millsite, or tunnel site subject to this Act shall be exclusively for mineral activities as authorized under this Act.</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idD1500D2B82A94B16BED9A5C7879AD8C5"><enum>(2)</enum><header>Failure to use
+ for mineral activities</header><text>If the claim holder cannot demonstrate to the Secretary that the mining claim, millsite, or tunnel site has been used exclusively for mineral activities, the Secretary shall declare the claim, millsite, or tunnel site null and void.</text>
+					</paragraph></subsection></section></title><title id="idD133EED454E948C194D881FFA01FE9D5"><enum>II</enum><header>Royalties</header>
+			<section id="id9709cd1a3f194c7fab7703f8b31a3e05"><enum>201.</enum><header>Royalty</header>
+ <subsection id="id73e209da02904e1ca923cb1fed872347"><enum>(a)</enum><header>In general</header><text>Subject to subsection (c) and section 202, production of all locatable minerals from any mining claim located under the general mining laws and maintained in compliance with this Act shall be subject to a royalty established by the Secretary by regulation of not less than 2 percent, and not more than 5 percent, of the gross income from mining for production of all locatable minerals.</text>
+ </subsection><subsection id="idfb31f3fc71b7495c90d8e176a914a14f"><enum>(b)</enum><header>Royalty Rate</header><text>The regulation shall establish a reasonable royalty rate for each locatable mineral subject to a royalty under this section that may vary based on the locatable mineral concerned.</text>
+ </subsection><subsection id="idefa6fd5ef5d04edbb880272696fe272b"><enum>(c)</enum><header>No Royalty for Federal Land Subject to Existing Permit</header><text>No royalty under subsection (a) shall be required for production on Federal land that—</text> <paragraph id="ida8950cbcd565445e99916768f3d3368c"><enum>(1)</enum><text>is subject to an approved plan of operations or an operations permit on the date of the enactment of this Act; and</text>
+ </paragraph><paragraph id="idc5a107a1e6e04bd1ae204a72fe512765"><enum>(2)</enum><text>produces valuable locatable minerals in commercial quantities on the date of enactment of this Act.</text> </paragraph></subsection><subsection id="idb85d0e59cd834546a0cd23b11fc6b5f9"><enum>(d)</enum><header>Federal Land Not Subject to Existing Operations Permit</header><text>Production from any Federal land not specifically approved for mineral extraction under a plan of operations or an operations permit in existence on the date of enactment of this Act shall be subject to the royalty described in subsection (a).</text>
+ </subsection><subsection id="id6d341a9506d942c8b53145e1612012dc"><enum>(e)</enum><header>Deposit</header><text>Amounts received by the United States as royalties under this section shall be deposited in the Fund.</text>
+				</subsection></section><section id="id311A3F2AD4C64794A18B0A9E76C99A60"><enum>202.</enum><header>Royalty
+			 relief</header>
+				<subsection id="id46A65DB27D964A3AB2B30E3BFDC6E285"><enum>(a)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Subject to subsection (b), in order to promote the greatest ultimate recovery pursuant to a mining permit or a plan of operations under which production in commercial quantities has occurred and in the interest of conservation of natural resources, the Secretary may reduce any royalty otherwise required for all or part of a mining operation, on a showing by clear and convincing evidence by the person conducting mineral activities under the operations or mining permit or plan of operations that, without the reduction in royalty, production would not occur.</text>
+				</subsection><subsection id="id89C88CC2FEAA4386AA4E4E5C3005F8E3"><enum>(b)</enum><header>Effective
+ date</header><text display-inline="yes-display-inline">Any reduction in a royalty provided for by this section shall not be effective until 60 days after the date on which the Secretary—</text>
+ <paragraph id="idA50F3B22EA42452999408FDB5E3DAEF0"><enum>(1)</enum><text display-inline="yes-display-inline">publishes public notice of the royalty reduction; and</text>
+ </paragraph><paragraph id="idC80F6FF184D149D69C003162F0D04C8F"><enum>(2)</enum><text display-inline="yes-display-inline">submits to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives notice and a statement of the reasons for granting the royalty reduction.</text>
+					</paragraph></subsection></section><section commented="no" id="ID8ff09ce4a2b648aa894274582e321f25"><enum>203.</enum><header>Enforcement</header>
+				<subsection commented="no" id="ID06d43d99c32e4de7b3a61c8dad0e04b1"><enum>(a)</enum><header>Duties of the
+			 Secretary</header>
+					<paragraph commented="no" id="ID31745616a5f14b1daf8ca4580e1a3b55"><enum>(1)</enum><header>In
+ general</header><text>The Secretary shall establish a comprehensive inspection, collection, fiscal, and production accounting and auditing system—</text>
+ <subparagraph commented="no" id="idAAD765F5377040DF8741F3CC0A92A72E"><enum>(A)</enum><text>to accurately determine royalties, interest, fines, penalties, fees, deposits, and other payments owed under this title and section 403; and</text>
+ </subparagraph><subparagraph commented="no" id="idF2600F95341240A484936F8B5CA85C0D"><enum>(B)</enum><text>to collect and account for such payments in a timely manner.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="IDc38a47605b86424e8164170596915c75"><enum>(2)</enum><header>Inspections</header><text>The Secretary shall establish procedures to ensure that authorized and properly identified representatives of the Secretary will inspect at least once annually each mining claim that—</text>
+ <subparagraph commented="no" id="idDF539C6A2DD14683A776051DA4662760"><enum>(A)</enum><text>is producing or expected to produce a significant quantity of locatable minerals in any year; or</text>
+ </subparagraph><subparagraph commented="no" id="idB1834F56B6C64ADCA8E5943B2B7BADDC"><enum>(B)</enum><text>has a history of noncompliance with this Act.</text>
+						</subparagraph></paragraph></subsection><subsection commented="no" id="ID4bd0cf7ade174641b19b36d6f11b61bd"><enum>(b)</enum><header>Duties of claim
+			 holders, operators, and transporters</header>
+					<paragraph commented="no" id="idE1EB30C9DEBA4EFFBA48612B83CE6F67"><enum>(1)</enum><header>Payment of
+			 royalties</header>
+						<subparagraph commented="no" id="ID10bd8afd13434c94afc67b9ac85714d2"><enum>(A)</enum><header>In
+ general</header><text>A person who is required to make any royalty or other payment under this title or section 403 shall make payment to the United States at such times and in such manner as the Secretary may by rule prescribe.</text>
+						</subparagraph><subparagraph id="ID01bd88ced8ea4b85b900db70e1930c65"><enum>(B)</enum><header>Liability for
+			 payments</header>
+ <clause id="idA3C8F7D61ADB45F997D92C1001FF83CA"><enum>(i)</enum><header>Designees</header><text>Any person who pays, offsets, or credits funds, makes adjustments, requests and receives refunds, or submits reports with respect to payments another person is required to make shall be considered the designee of the other person under this title or section 403.</text>
+ </clause><clause id="idDC71578E49A646B19DF2DFC408C39942"><enum>(ii)</enum><header>Liability</header><text>A designee shall be liable for any payment obligation under this title or section 403 of any person on whose behalf the designee undertakes the activities described in clause (i).</text>
+							</clause><clause id="id53B483DF268A4A69A9DB81FED08843EA"><enum>(iii)</enum><header>Pro rata
+ share</header><text>The person owning an interest in a claim, millsite, or tunnel site, or production from the claim or site, shall be liable for the pro rata share of the person of payment obligations under this title or section 403.</text>
+							</clause></subparagraph></paragraph><paragraph commented="no" id="IDcc79235de9794a72b53fa9e098d67668"><enum>(2)</enum><header>Site
+			 security</header>
+						<subparagraph commented="no" id="idA5BB25C70D7A4485ABCF2CB87B00FE1F"><enum>(A)</enum><header>In
+ general</header><text>A person conducting mineral activities shall develop and comply with the site security provisions in the mining permit designed to protect from theft the locatable minerals that are produced or stored on a mining claim.</text>
+						</subparagraph><subparagraph commented="no" id="id56C596D60265445588134737A4FFBDCC"><enum>(B)</enum><header>Minimum
+ standards</header><text>The provisions shall conform with such minimum standards as the Secretary may prescribe by rule, taking into account the variety of circumstances on mining claims.</text>
+						</subparagraph><subparagraph commented="no" id="IDbd33d426c8f7408a8d291323e1fc662c"><enum>(C)</enum><header>Notification of
+ commencement or resumption of production</header><text>Not later than the fifth business day after production begins in any place on a mining claim or production resumes after more than 90 days after production ceased or was suspended, the person conducting mineral activities shall notify the Secretary, in the manner prescribed by the Secretary, of the date on which the production has begun or resumed.</text>
+						</subparagraph></paragraph></subsection><subsection commented="no" id="ID2608ed26e5324a46ab9f7bbf80c5d977"><enum>(c)</enum><header>Recordkeeping
+			 and reporting requirements</header>
+					<paragraph commented="no" id="id18E4DD7549BD47BFB05AFA2AC3A0F803"><enum>(1)</enum><header>In
+ general</header><text>A claim holder, operator, or other person directly or indirectly involved in developing, producing, processing, transporting, purchasing, or selling locatable or hardrock minerals, subject to this Act, through the point of first sale, the point of royalty or fee computation, or the point of smelting or other processing, whichever is later, shall establish and maintain any records, make any reports, and provide any information that the Secretary may reasonably require for the purposes of implementing this title or section 403 or determining compliance with rules or orders under this title or section 403.</text>
+ </paragraph><paragraph commented="no" id="id3983060FF2E841819289FD7665198AD0"><enum>(2)</enum><header>Access</header><text>On the request of any officer or employee duly designated by the Secretary conducting an audit or investigation pursuant to this section, the appropriate records, reports, or information that may be required by this section shall be made available for inspection and duplication by the officer or employee.</text>
+					</paragraph><paragraph commented="no" id="IDe1b497c7356f4fe381abaa1dcdb607f3"><enum>(3)</enum><header>Duration of
+			 recordkeeping requirement</header>
+						<subparagraph commented="no" id="idC9788999529644CBBA212EB1FD9529BC"><enum>(A)</enum><header>In
+ general</header><text>Records required by the Secretary under this section shall be maintained for 7 years after the records are generated or amended unless the Secretary notifies the claim holder, operator, other person referred to in paragraph (1), or record holder that the Secretary has initiated an audit or investigation involving the records and that the records must be maintained for a longer period.</text>
+						</subparagraph><subparagraph commented="no" id="idC3606E03F977422591C7D4171E72FAD4"><enum>(B)</enum><header>Ongoing audit
+ or investigation</header><text>In any case in which an audit or investigation is underway, records shall be maintained until the Secretary releases the claim holder, operator, other person referred to in paragraph (1), or record holder subject to the recordkeeping and requirements of this Act of the obligation to maintain the records.</text>
+ </subparagraph></paragraph></subsection><subsection commented="no" id="ID2e90ad3cffd14ed689d27d0b976ca53f"><enum>(d)</enum><header>Audits</header><text>The Secretary may conduct such audits of all claim holders, operators, producers, transporters, purchasers, processors, or other persons directly or indirectly involved in the production or sales of locatable or hardrock minerals covered by this Act, as the Secretary considers necessary for the purposes of ensuring compliance with the requirements of this title or section 403.</text>
+				</subsection><subsection commented="no" id="IDabaa73c3bf6b4376b9828ec8c2e9eb83"><enum>(e)</enum><header>Cooperative
+			 agreements</header>
+					<paragraph commented="no" id="idBD51BEDAACB24388A467CBC968070E4D"><enum>(1)</enum><header>In
+ general</header><text>The Secretary may enter into cooperative agreements with the Secretary of Agriculture—</text>
+ <subparagraph commented="no" id="id8CE69CD298CE46D483D3A2B2FBB318FF"><enum>(A)</enum><text>to share information concerning the royalty management of locatable minerals;</text>
+ </subparagraph><subparagraph commented="no" id="id29D0AC7ABE974B7EB1851ED7D297F413"><enum>(B)</enum><text>to carry out inspection, auditing, investigation, or enforcement (not including the collection of royalties, civil or criminal penalties, or other payments) activities under this section in cooperation with the Secretary; and</text>
+ </subparagraph><subparagraph commented="no" id="id4C71D83CDB4D478B9498D8700B772550"><enum>(C)</enum><text>to carry out any other activity described in this section.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="IDd317a044d663492e8d15a291a13386fb"><enum>(2)</enum><header>Access</header><text>Subject to paragraph (3) and pursuant to a cooperative agreement, the Secretary of Agriculture shall, on request, have access to all royalty or fee accounting information in the possession of the Secretary relating to the production, removal, or sale of locatable minerals from claims on Federal land.</text>
+					</paragraph><paragraph commented="no" id="ID5d8ffbd0196c46e1b40a53f2739d445f"><enum>(3)</enum><header>Confidential
+			 information</header>
+						<subparagraph commented="no" id="idB977C89AD85B4A48B848862A3E04E2EB"><enum>(A)</enum><header>In
+ general</header><text>Trade secrets, proprietary information, and other confidential information protected from disclosure under section 552 of title 5, United States Code (commonly known as the <quote>Freedom of Information Act</quote>), shall be made available by the Secretary to other Federal agencies as necessary to ensure compliance with this Act and other Federal laws.</text>
+						</subparagraph><subparagraph commented="no" id="idF6F9B40B344B4985B5204C505494C2E1"><enum>(B)</enum><header>Protection by
+ other Federal officials</header><text>The Secretary, the Secretary of Agriculture, and other Federal officials shall ensure that information described in subparagraph (A) is provided protection in accordance with section 552 of title 5, United States Code.</text>
+						</subparagraph></paragraph></subsection><subsection commented="no" id="ID35c3f66ddb6e4661a71af5511dc2b938"><enum>(f)</enum><header>Interest</header>
+					<paragraph commented="no" id="IDfda530c3ddd1482494929372119d0d55"><enum>(1)</enum><header>Definition of
+ underpayment</header><text>In this subsection, the term <term>underpayment</term> means the difference between the royalty on the value of the production or the fee under section 403 that should have been received by the Secretary and the royalty on the value of the production or the fee under section 403 that was received by the Secretary, if the royalty or fee that should have been received is greater than the royalty or fee that was received.</text>
+					</paragraph><paragraph commented="no" id="idE3BC83DADA6D43F4B142B3199ACBC965"><enum>(2)</enum><header>Nonpayment and
+			 underpayment</header>
+ <subparagraph commented="no" id="id2BCDD0A35D1D46A098AF0FA5300983D2"><enum>(A)</enum><header>Nonpayment</header><text>In the case of mining claims or operations with respect to which royalty payments or the fee under section 403 are not received by the Secretary by the date that the payments are due, the Secretary shall charge interest on the nonpayment at the rate specified under subparagraph (C).</text>
+ </subparagraph><subparagraph id="ID868c08c7a3be4dd88c2cb877d5df4ce6"><enum>(B)</enum><header>Underpayment</header><text>In the case of an underpayment, interest shall be computed and charged only on the amount of the deficiency and not on the total amount, at the rate specified under subparagraph (C).</text>
+						</subparagraph><subparagraph id="IDeae907d987414eeaa96c582bda840131"><enum>(C)</enum><header>Interest
+ rate</header><text>In the case of nonpayment or underpayment, interest shall be charged at the rate applicable under <external-xref legal-doc="usc" parsable-cite="usc/26/6621">section 6621(a)(2)</external-xref> of the Internal Revenue Code of 1986.</text>
+						</subparagraph></paragraph></subsection><subsection commented="no" id="ID749598ebcb3843dda11a5dce873d4faf"><enum>(g)</enum><header>Expanded
+ royalty obligations</header><text>Each person liable for royalty payments under this section shall be jointly and severally liable for royalty on all locatable minerals lost or wasted from a mining claim located under the general mining laws and maintained in compliance with this Act if the loss or waste is due to negligence on the part of any such person or due to the failure to comply with any rule, regulation, or order issued under this section.</text>
+				</subsection><subsection commented="no" id="ID3cdf44c15d894d9ebdfbc1d3b1360361"><enum>(h)</enum><header>Hearings and
+ investigations</header><text>In carrying out this title and section 403, the Secretary may—</text>
+ <paragraph commented="no" id="idA9D39126A3CE4B54B461F2F3F9F56A22"><enum>(1)</enum><text>conduct any investigation or other inquiry necessary and appropriate;</text>
+ </paragraph><paragraph commented="no" id="id5AD25A6D22864F8E9CA99DBC277FC6D2"><enum>(2)</enum><text>conduct, after notice, any necessary and appropriate hearing or audit under rules prescribed by the Secretary; and</text>
+ </paragraph><paragraph commented="no" id="idBB7765F4C2B84B49A3B015E3CDF20F43"><enum>(3)</enum><text>administer oaths and issue subpoenas in conducting such proceedings.</text>
+					</paragraph></subsection><subsection commented="no" id="id021B4A471A6746A6B9C0A7CB4A043D28"><enum>(i)</enum><header>Civil
+			 penalties</header>
+					<paragraph commented="no" display-inline="no-display-inline" id="ID8D30DD13B0954EE6B80E9FCFC0C30534"><enum>(1)</enum><header>Failure to
+			 comply with applicable law, rules or regulations, or to permit
+			 inspection</header>
+						<subparagraph commented="no" id="IDb4c25fe8e07843158d23a33a850a0db8"><enum>(A)</enum><header>In
+ general</header><text>Except as provided in subparagraph (B), a person shall be liable for a penalty of up to $500 per violation for each day the violation continues, dating from the date of the notice or report, if the person—</text>
+ <clause commented="no" id="ID57B3C1ED6A024FA09A640A923EFF1C9F"><enum>(i)</enum><text>after due notice of violation or after the violation has been reported under subparagraph (B)(i), fails or refuses to comply with any requirement of this title or section 403 or any rule or regulation under this title or section 403; or</text>
+ </clause><clause commented="no" id="ID50D24BE0A2F347D8B69616B2D4CB04BE"><enum>(ii)</enum><text>fails or refuses to permit inspection authorized under this title.</text>
+ </clause></subparagraph><subparagraph commented="no" id="idEF19DA31764D4823B6EECF08D239F62E"><enum>(B)</enum><header>Exceptions</header><text>A penalty under this paragraph may not be applied to any person who is otherwise liable for a violation of subparagraph (A) if—</text>
+ <clause commented="no" id="ID2A9BB2113A4E4EBB8D1A2B491B24CB74"><enum>(i)</enum><text>the violation was discovered and reported to the Secretary or the authorized representative of the Secretary by the liable person and corrected within 20 days after the report (or such longer period to which the Secretary may agree); or</text>
+ </clause><clause commented="no" id="ID98E5104122F147E29FD67F26A50DAE85"><enum>(ii)</enum><text>after the due notice of violation required under subparagraph (A)(i) has been given to the person by the Secretary or the authorized representative of the Secretary, the person has corrected the violation within 20 days of the notification (or such longer period to which the Secretary may agree).</text>
+							</clause></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID63E0CA574CC64A1F9C9E6F5E4F2C1E10"><enum>(2)</enum><header>Failure to take
+ corrective action</header><text>If corrective action is not taken within 40 days (or a longer period to which the Secretary may agree), after due notice or submission of a report referred to in paragraph (1)(A)(i), the person shall be liable for a civil penalty of not more than $5,000 per violation for each day the violation continues, dating from the date of the notice or report.</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID535C3C8270ED479EAFC88B1ABF787D4B"><enum>(3)</enum><header>Failure to make
+ payment or to permit lawful entry, inspection, or audit</header><text>A person shall be liable for a penalty of up to $10,000 per violation for each day the violation continues if the person—</text>
+ <subparagraph commented="no" id="IDB55C85741CB441A6AC1A1C2D560F236F"><enum>(A)</enum><text>knowingly or willfully fails to make any payment of any royalty under this title or fee under section 403 by the date as specified by law (including regulation or order);</text>
+ </subparagraph><subparagraph commented="no" id="ID617D1BF7372C4059B3D3C6958E13B6BA"><enum>(B)</enum><text>fails or refuses to permit lawful entry, inspection, or audit; or</text>
+ </subparagraph><subparagraph id="ID723c51512db94f07b4458dc643f64cc7"><enum>(C)</enum><text>knowingly or willfully fails to comply with subsection (b)(2)(C).</text>
+						</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID7BA2FF034E314E7584469C21163757E7"><enum>(4)</enum><header>False
+ information; unauthorized removal of locatable mineral</header><text>A person shall be liable for a penalty of up to $25,000 per violation for each day the violation continues in any case in which the person, in violation of this title or section 403—</text>
+ <subparagraph commented="no" id="IDCA2A2E7BD08C4534B7285BC0369C12ED"><enum>(A)</enum><text>knowingly or willfully prepares, maintains, or submits false, inaccurate, or misleading reports, notices, affidavits, records, data, or other written information;</text>
+ </subparagraph><subparagraph commented="no" id="ID5FA4750D6B0047A3822C1CDE654B3CA0"><enum>(B)</enum><text>knowingly or willfully takes or removes, transports, uses or diverts any locatable mineral from any land covered by a mining claim without having valid legal authority to do so; or</text>
+ </subparagraph><subparagraph commented="no" id="IDCF0BA49943714E26BD8B04772BD990C2"><enum>(C)</enum><text>purchases, accepts, sells, transports, or conveys to another, any locatable mineral knowing or having reason to know that the locatable mineral was stolen or unlawfully removed or diverted.</text>
+ </subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDFA20043812A64470BAFEB758DE6312A3"><enum>(5)</enum><header>Hearing</header><text>No penalty under this subsection shall be assessed until the person charged with a violation has been given the opportunity for a hearing on the record.</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID7E5BC1B2AC1F476F9A0405A964CE8F82"><enum>(6)</enum><header>Deduction of
+ penalty from sums owed by United States</header><text>The amount of any penalty under this subsection, as finally determined, may be deducted from any sums owed by the United States to the person charged.</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID32C995EC563D4D3CADA3D2A143B34732"><enum>(7)</enum><header>Compromise or
+ reduction of penalties</header><text>On a case-by-case basis, the Secretary may compromise or reduce civil penalties under this subsection.</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDD098B07654974E65ABF6548655C3C480"><enum>(8)</enum><header>Notice</header>
+						<subparagraph commented="no" display-inline="no-display-inline" id="id97D568BA63184C0D81E22550B2ED1B1C"><enum>(A)</enum><header>In
+ general</header><text>Notice under this subsection shall be by personal service by an authorized representative of the Secretary or by registered mail.</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idFB3512ABDCAC4E5AA3CCC14A1C73429E"><enum>(B)</enum><header>Designee for
+ receipt of notice</header><text>Any person may, in the manner prescribed by the Secretary, designate a representative to receive any notice under this subsection.</text>
+						</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDBAD757BF3EE04014B5650B2F17B506C7"><enum>(9)</enum><header>Reasons on
+ record for amount of penalty</header><text>In determining the amount of the penalty under this subsection, whether the penalty should be remitted or reduced, and by what amount, the Secretary shall state on the record the reasons for the determinations of the Secretary.</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID8769DF5351E84520A0BBB7A14BE628D6"><enum>(10)</enum><header>Review</header>
+						<subparagraph commented="no" display-inline="no-display-inline" id="id4E14ECAA490A41CB95BEB9E86F02B1B1"><enum>(A)</enum><header>In
+ general</header><text>Any person who has requested a hearing in accordance with paragraph (5) within the time the Secretary has prescribed for such a hearing and who is aggrieved by a final order of the Secretary under this subsection may seek review of the order in the United States district court for the judicial district in which the violation allegedly took place.</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id7F42ACFD9513453FBBAD75306ADB9099"><enum>(B)</enum><header>Basis for
+ review</header><text>Review by the district court shall be only on the administrative record and not de novo.</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id1CC33F6DD41046F9AEB312407D232328"><enum>(C)</enum><header>Deadline</header><text>An action under this paragraph shall be barred unless the action is filed not later than the date that is 90 days after the date of issuance of the final order of the Secretary.</text>
+						</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID20966D57B5594059B095E3862E16739B"><enum>(11)</enum><header>Failure to pay
+			 penalty</header>
+						<subparagraph commented="no" display-inline="no-display-inline" id="idBA575BBB46A847DDBBE4AB90FE4B092A"><enum>(A)</enum><header>In
+ general</header><text>Subject to subparagraphs (B) and (C), if any person fails to pay an assessment of a civil penalty under this Act, the court shall have jurisdiction to award the amount assessed plus interest from the date of the expiration of the 90-day period referred to in paragraph (10)(C).</text>
+ </subparagraph><subparagraph commented="no" id="id448F7C1BACBD4663A3FC212D13830FC2"><enum>(B)</enum><header>Application</header><text>Subparagraph (A) applies—</text>
+ <clause commented="no" id="IDAE18967144C242E6954360BF877D8966"><enum>(i)</enum><text>after the order making the assessment has become a final order and if the person does not file a petition for judicial review of the order in accordance with paragraph (10); or</text>
+ </clause><clause commented="no" id="ID97BFD19EA5F340399A946B9808AA0E1E"><enum>(ii)</enum><text>after a court in an action brought under paragraph (10) has entered a final judgment in favor of the Secretary.</text>
+							</clause></subparagraph><subparagraph commented="no" id="id1C1C97E3CAC94F59969872C84A5D9F56"><enum>(C)</enum><header>Order to
+ pay</header><text>Judgment by the court shall include an order to pay.</text> </subparagraph></paragraph></subsection><subsection commented="no" id="IDfaecd1a0f63b44acb90ec5b6e47846ef"><enum>(j)</enum><header>Criminal penalties</header><text>Any person who commits an act for which a civil penalty is provided under subsection (i)(4) shall, on conviction, be punished by a fine of not more than $50,000 or by imprisonment for not more than 2 years, or both.</text>
+				</subsection><subsection commented="no" id="IDb87854c80ac84665bd19d058157816df"><enum>(k)</enum><header>Effective
+			 date</header>
+					<paragraph commented="no" id="id4FD1C097979C4C4F82CD8FEE7A360BC6"><enum>(1)</enum><header>In
+ general</header><text>Except as provided in section 201(b) with respect to the payment of royalties, the royalty required under section 201 or fee required under section 403 shall take effect with respect to the production of minerals on or after the date of enactment of this Act.</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idB793E4A4103B49D89D429F91F9E625C1"><enum>(2)</enum><header>Initial
+ production</header><text>Any royalty payments or fee payments under section 403 attributable to production during the 1-year period beginning on the date of enactment of this Act shall be payable at the expiration of the 1-year period, together with interest at the rate required under subsection (f)(2)(C).</text>
+					</paragraph></subsection><subsection id="ID2beacb91810644218a0ca54961d38d39"><enum>(l)</enum><header>Injunction and
+			 specific enforcement authority</header>
+					<paragraph id="IDadb46fe5f05a4ff3a7b85e2cf2f11045"><enum>(1)</enum><header>Civil action by
+ attorney general</header><text>In addition to any other remedy under law, the Attorney General or the designee of the Attorney General may bring a civil action in a district court of the United States, which shall have jurisdiction over such actions—</text>
+ <subparagraph id="ID07ef371fa0784d7295f24e8de5432ca4"><enum>(A)</enum><text>to restrain any violation of this title or section 403; or</text>
+ </subparagraph><subparagraph id="ID26b0b360f8374e7ba99ec56339b8adf5"><enum>(B)</enum><text>to compel the taking of any action required by or under this title or section 403.</text>
+ </subparagraph></paragraph><paragraph id="ID72f72822e1104e16ae6e17abb34a7923"><enum>(2)</enum><header>Venue</header><text>A civil action described in paragraph (1) may be brought only in the United States district court for the judicial district in which the act, omission, or transaction constituting a violation under this title or section 403 occurred, or in which the defendant is found or transacts business.</text>
+					</paragraph></subsection></section><section id="ID29b05e1b4b04450b9662b4b543301bbe"><enum>204.</enum><header>Review</header>
+				<subsection id="id973F81EF3AA345D69F5672FB0F264001"><enum>(a)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Not later than 5 years after the date of enactment of this Act and every 5 years thereafter, the Secretary shall complete a review and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report addressing collections and impacts of the royalty and fees provided for by this Act.</text>
+ </subsection><subsection id="id539D47EA5C8F42EB86FA74E05D690891"><enum>(b)</enum><header>Topics</header><text display-inline="yes-display-inline">The report shall address—</text> <paragraph id="ID8c70afe21c3842689778f52ec8c38ed5"><enum>(1)</enum><text>the total revenues received (by category) on an annual basis as—</text>
+ <subparagraph id="id9ADC4C0EC2AB460999835C8166BFC10C"><enum>(A)</enum><text>claim maintenance fees;</text>
+ </subparagraph><subparagraph id="id371CF39A1E2342DE95003C6EA0AEE935"><enum>(B)</enum><text>location fees;</text>
+ </subparagraph><subparagraph id="id521BFB9EA2A94B2DB0978349FB48FD89"><enum>(C)</enum><text>land use fees;</text>
+ </subparagraph><subparagraph id="id25647E8353C8482CA998691B447C1C98"><enum>(D)</enum><text>royalties and related payments; and</text>
+ </subparagraph><subparagraph id="idF287BCC6F52B4C358F39BAD49E4419EB"><enum>(E)</enum><text>abandoned mine land fees;</text>
+ </subparagraph></paragraph><paragraph id="IDae2c1ab08ad24659ad2758010714d0fd"><enum>(2)</enum><text>the disposition of the fees and royalties, including—</text>
+ <subparagraph id="IDe0d036e9140a4cbdbc8efa40a1f2f102"><enum>(A)</enum><text>the amount used for mining law program administration; and</text>
+ </subparagraph><subparagraph id="ID8fa34e49ff7b46a0a5899def52434450"><enum>(B)</enum><text>the amount used for abandoned mine land reclamation, including allocation by State and Indian tribe;</text>
+ </subparagraph></paragraph><paragraph id="id6EEDFCB98D8847E7BF6868CB2D3D686B"><enum>(3)</enum><text>the effectiveness of the program under this Act in addressing abandoned mine land problems on Federal and non-Federal land;</text>
+ </paragraph><paragraph id="ID4b6a41033a3c41caa62c7f490d5deffe"><enum>(4)</enum><text>any impact on domestic locatable mineral exploration and production as a result of the fees and royalties; and</text>
+ </paragraph><paragraph id="IDf0022739e2e34a31856c5071a714a009"><enum>(5)</enum><text>any recommendations with respect to changes in Federal law (including regulations) relating to the amount or method of collection (including auditing, compliance, and enforcement) of the fees and royalties.</text>
+					</paragraph></subsection></section></title><title id="H6ABEEDA292B7408800765C102DCEBF7"><enum>III</enum><header>Mineral
+			 activities</header>
+			<section id="H0940C82503EA434485496200C2DF62DA"><enum>301.</enum><header>Permits</header>
+				<subsection id="H88D715A532A74C6F86A7C33BCDF758F"><enum>(a)</enum><header>In
+ general</header><text>Except as provided in section 501(a)(2), no person may engage in mineral activities on Federal land that may cause a disturbance of surface resources, including land, air, water, and fish and wildlife, unless a permit authorizing the activities was issued to the person under this title.</text>
+ </subsection><subsection id="H7F4FC37746E44F5D8704C982ED579DA3"><enum>(b)</enum><header>Exceptions</header><text>Notwithstanding subsection (a), a permit under this title shall not be required for mineral activities that are a casual use of the Federal land.</text>
+				</subsection><subsection id="IDaab152e6bccb40138398dc7eafa7f800"><enum>(c)</enum><header>No
+ modification</header><text>Nothing in this section enlarges, diminishes, establishes, repeals, or otherwise modifies any requirement of law that a mining claim, millsite, or tunnel site be valid in order for mineral activities to be undertaken.</text>
+				</subsection><subsection id="ID8f8ef6cc26124a40884aef2a24809081"><enum>(d)</enum><header>Coordination
+ with NEPA process</header><text>To the maximum extent practicable, the Secretary concerned shall conduct the permit processes under this Act in coordination with the timing and other requirements of section 102 of the National Environmental Policy Act of 1969 (<external-xref legal-doc="usc" parsable-cite="usc/42/4332">42 U.S.C. 4332</external-xref>).</text>
+				</subsection></section><section id="H8CA439A615284EC88CD5C9AB00C63E76"><enum>302.</enum><header>Exploration
+			 permits</header>
+				<subsection id="IDf9e39f4edecc45759fb106e0d42ca564"><enum>(a)</enum><header>In
+ general</header><text>Except as provided in section 501(a)(2), an exploration permit shall be required prior to conducting any exploration activities on Federal land that involve more than the casual use of the Federal land.</text>
+ </subsection><subsection id="id818BE9C8AE5A4CBC84E7DD390A89F22A"><enum>(b)</enum><header>Limitations</header><text>An exploration permit under subsection (a) shall not authorize the person to—</text>
+ <paragraph id="id3710E37F994546F5B8D961DD1E5DD679"><enum>(1)</enum><text>remove any mineral for sale; or</text>
+ </paragraph><paragraph id="idF3B2F8C31B5A4315985BAB4FCA62B2C5"><enum>(2)</enum><text>conduct any activity other than an activity required for—</text>
+ <subparagraph id="idDA4C6BED57974200804A0C88C2FCF9E7"><enum>(A)</enum><text>exploration for locatable minerals; or</text>
+ </subparagraph><subparagraph id="id547E0064CFC04A25B185A608460EE239"><enum>(B)</enum><text>reclamation.</text> </subparagraph></paragraph></subsection><subsection id="idD04FE9F2FFC7428ABEA8303CD71079A6"><enum>(c)</enum><header>Requirements</header><text>To be eligible for an exploration permit, a person shall submit to the Secretary concerned, in a manner prescribed by the Secretary concerned, an application for an exploration permit that contains—</text>
+ <paragraph id="id3441B245BEA3433380747EF69E3E302B"><enum>(1)</enum><text>an exploration plan demonstrating that—</text>
+ <subparagraph commented="no" id="ID02e7d7cb6aaf429cbd5ba73395379ec5"><enum>(A)</enum><text>the applicant will operate in accordance with this Act and applicable regulations;</text>
+ </subparagraph><subparagraph commented="no" id="ID4a1c84dbc003421abb44b68d28014947"><enum>(B)</enum><text>the formation of acid mine drainage will be avoided to the maximum extent practicable; and</text>
+ </subparagraph><subparagraph commented="no" id="IDc98a5260723e43e385fbb94d47dbd57a"><enum>(C)</enum><text>mineral activities will be conducted in a manner that uses best management practices;</text>
+ </subparagraph></paragraph><paragraph commented="no" id="ID18c6377a35f946298fae528877f01a28"><enum>(2)</enum><text>a description of potential impacts to groundwater and surface water, including appropriate hydrological assessments and analyses, as reasonably required by the Secretary;</text>
+ </paragraph><paragraph id="id29F0E9EDCEB84E5BB2AB32A7AEB7ED69"><enum>(3)</enum><text>a reclamation plan for the proposed exploration activity demonstrating that the applicant will conduct reclamation activities in accordance with section 306;</text>
+ </paragraph><paragraph id="idDF2566B3FB6E4FED9CA0C1D37DFE277A"><enum>(4)</enum><text>evidence of adequate financial assurance in accordance with section 304;</text>
+ </paragraph><paragraph id="id5656D4DB70CF4F39AC94DE716621F0D1"><enum>(5)</enum><text>the necessary documentation to demonstrate that the proposed exploration activity will comply with applicable Federal and State environmental laws (including regulations);</text>
+ </paragraph><paragraph id="IDb08e98158fea43c0b316587312d61687"><enum>(6)</enum><text>a monitoring and evaluation plan to ensure compliance with reclamation and other requirements of this Act; and</text>
+ </paragraph><paragraph id="id818D8777D7F845A8BB364FB0E7F82844"><enum>(7)</enum><text>any other relevant information determined by the Secretary to be necessary to satisfy the requirements of this Act and other applicable law.</text>
+					</paragraph></subsection><subsection id="idDF060457BFF240FC8BB275635E73B7BB"><enum>(d)</enum><header>Permit
+			 issuance</header>
+					<paragraph id="id718056C68AF54FF9BD51DA3ED014CAB4"><enum>(1)</enum><header>Approval</header>
+						<subparagraph id="id76C5401DA8CE46DF94F8745230DA2B6E"><enum>(A)</enum><header>In
+ general</header><text>Subject to subparagraph (B), the Secretary concerned shall approve an application and issue an exploration permit if the Secretary concerned determines that the application is in compliance with—</text>
+ <clause id="idAD12D66F9BD8466F8A35FECE0743CC0D"><enum>(i)</enum><text>this Act;</text> </clause><clause id="id0EE99B9B52C7442DAA8E2EA130F658FD"><enum>(ii)</enum><text>any regulations promulgated under this Act; and</text>
+ </clause><clause id="idB7075E43D8804F0BBC285522A08049B1"><enum>(iii)</enum><text>any other applicable laws.</text>
+ </clause></subparagraph><subparagraph id="id4EF88FB804114D06981567459836361E"><enum>(B)</enum><header>Conditions</header><text>The Secretary concerned may reasonably condition the approval of such a permit to satisfy the requirements of this Act and applicable regulations.</text>
+ </subparagraph></paragraph><paragraph id="id063DD782485A4F019F4032883C93C362"><enum>(2)</enum><header>Denial</header><text>The Secretary concerned shall deny the issuance of an exploration permit if the Secretary concerned determines that the permit does not meet the requirements of—</text>
+ <subparagraph id="id55B0F536F47F4033A4132795519A6DC4"><enum>(A)</enum><text>this Act;</text> </subparagraph><subparagraph id="idB8B9D9B5DA6A482CBF85B7DC906AEA9C"><enum>(B)</enum><text>any regulations promulgated under this Act; or</text>
+ </subparagraph><subparagraph id="id6AA58782B7BA4BF2918D0EDB03149E40"><enum>(C)</enum><text>other applicable laws.</text>
+ </subparagraph></paragraph><paragraph id="ID1d300344f0de492d996b7bcd79a5daf6"><enum>(3)</enum><header>Notice</header><text>Before approving or denying an exploration permit under this subsection, the Secretary concerned—</text>
+ <subparagraph id="ID3314af94cc084e72b98897b84c4990e9"><enum>(A)</enum><text>shall provide public notice and an opportunity for written comment; and</text>
+ </subparagraph><subparagraph id="ID9945e500b7314f40bfd047a0cfcb18e3"><enum>(B)</enum><text>may hold a public hearing.</text>
+						</subparagraph></paragraph></subsection><subsection id="ID2328f20e09c845559c493c3ce8e91bba"><enum>(e)</enum><header>Modifications
+			 to permit</header>
+					<paragraph id="id030156D58AA4409AB7F9BA86DF2B400E"><enum>(1)</enum><header>In
+ general</header><text>The permit holder may submit to the Secretary concerned an application to modify an exploration permit.</text>
+					</paragraph><paragraph id="idB0654FD0C41B424F81038D17C8EB367A"><enum>(2)</enum><header>Approval</header>
+						<subparagraph id="idC2FABABD55514A82B2AD466A38C81928"><enum>(A)</enum><header>In
+ general</header><text>In determining whether to approve or disapprove a proposed modification to an exploration permit, the Secretary concerned shall make the same determinations as are required in the case of the original permit.</text>
+ </subparagraph><subparagraph id="id1B3BFF3E732348DBBE074EB8C70E0F4E"><enum>(B)</enum><header>Exceptions</header><text>Subparagraph (A) shall not apply to minor modifications to an exploration permit or instances in which the nature of the modifications make compliance with the requirements unnecessary, as determined by the Secretary concerned.</text>
+						</subparagraph></paragraph><paragraph id="IDb50a1534bffd4e1481c938ef9e9e73e0"><enum>(3)</enum><header>Modifications
+			 from Secretary concerned</header>
+						<subparagraph id="IDea6ce0613b4f4befb2f1ae845496da72"><enum>(A)</enum><header>In
+ general</header><text>The Secretary concerned may require reasonable modification to any permit on a determination that the requirements of this Act or other applicable law cannot be met if the permit is followed as approved.</text>
+						</subparagraph><subparagraph id="ID79563befb86f461b86399ab61d4f3b2d"><enum>(B)</enum><header>Requirements
+ for determination</header><text>A determination under subparagraph (A) shall be—</text>
+ <clause id="IDa5ee734a715d460b90ffb0a738e491ec"><enum>(i)</enum><text>based on a written finding; and</text>
+ </clause><clause id="IDac9c94cb195d4ba9b85e6593b3081799"><enum>(ii)</enum><text>subject to notice and hearing requirements established by the Secretary concerned.</text>
+							</clause></subparagraph></paragraph></subsection></section><section id="idE3E34968C4DE418193074566F61E770B"><enum>303.</enum><header>Mining
+			 permits</header>
+				<subsection id="id8536EEBAB79D461B92C0F3CF2382B4AA"><enum>(a)</enum><header>In
+ general</header><text>Except as provided in section 501(a)(2), a mining permit shall be required prior to conducting mineral activities on Federal land, other than casual use or exploration on the Federal land.</text>
+ </subsection><subsection id="id379A41AF536B4DC7B91757B53CACB8B6"><enum>(b)</enum><header>Requirements</header><text>To be eligible for a mining permit, a person shall submit to the Secretary concerned, in a manner prescribed by the Secretary concerned, an application for a mining permit that contains—</text>
+ <paragraph id="IDe2d9979e20364a87b056abdd212ad0a2"><enum>(1)</enum><text>a description of the condition of the land and water resources of the area before mining activities are initiated;</text>
+ </paragraph><paragraph id="ID68f1a769871c476c95e6fe06e542d0c0"><enum>(2)</enum><text>an operations plan demonstrating that—</text>
+ <subparagraph commented="no" id="id0814A03ED5D44FB38149166F6106B4C9"><enum>(A)</enum><text>the applicant will operate in accordance with this Act and applicable regulations;</text>
+ </subparagraph><subparagraph commented="no" id="ID9f9d4098c00d42b69947d4ab2fb74f7e"><enum>(B)</enum><text>the formation of acid mine drainage will be avoided to the maximum extent practicable; and</text>
+ </subparagraph><subparagraph commented="no" id="ID87f9fb5e2d924a9ba00047be0e6a3f8d"><enum>(C)</enum><text>mineral activities will be conducted in a manner that uses best management practices;</text>
+ </subparagraph></paragraph><paragraph commented="no" id="IDe74afe3f5d5942b4a518e1d6959bb5f1"><enum>(3)</enum><text>a description of potential impacts to groundwater and surface water, including appropriate hydrological assessments and analyses, as reasonably required by the Secretary;</text>
+ </paragraph><paragraph id="IDc3bf5bf308cb4cfb8b17d5e23cd1f589"><enum>(4)</enum><text>a reclamation plan for the proposed mineral activities demonstrating that the applicant will conduct reclamation activities in accordance with section 306;</text>
+ </paragraph><paragraph id="IDccea468035d64a9f9c6d992ccd1391ce"><enum>(5)</enum><text>evidence of adequate financial assurance under section 304, including, if required, a trust fund as required under section 304(i);</text>
+ </paragraph><paragraph id="ID1a5b7c68a77444df8d2bc3b420ba3774"><enum>(6)</enum><text>the necessary documentation to demonstrate that the proposed mineral activities will comply with applicable Federal and State environmental laws (including regulations);</text>
+ </paragraph><paragraph id="IDb5730f9070064825bbd9fca9afae724c"><enum>(7)</enum><text>a monitoring and evaluation plan to ensure compliance with reclamation and other requirements of this Act; and</text>
+ </paragraph><paragraph id="ID6f4a31f2c17047cb94871a31fb3b6977"><enum>(8)</enum><text>any other relevant information determined by the Secretary concerned to be necessary to satisfy the requirements of this Act and other applicable law.</text>
+					</paragraph></subsection><subsection id="H3A4CFBF8136D4957B4441786009DC6E6"><enum>(c)</enum><header>Permit
+			 issuance</header>
+					<paragraph id="id44220238358B4161A5892B71FC7D88B6"><enum>(1)</enum><header>Approval</header>
+						<subparagraph id="id5C04DD9D9F3045BAACD2AC1A0F6B81A6"><enum>(A)</enum><header>In
+ general</header><text>Subject to subparagraph (B), the Secretary concerned shall approve a permit application and issue a mining permit if the Secretary concerned determines that the application is in compliance with—</text>
+ <clause id="id3804B45F650C47E185E6E529C8CBD792"><enum>(i)</enum><text>this Act;</text> </clause><clause id="id2BD308D1C4754FBEBDAF02901F333BF5"><enum>(ii)</enum><text>any regulations promulgated under this Act; and</text>
+ </clause><clause id="idD860C24E4D5F4BF08505407CC873C50B"><enum>(iii)</enum><text>other applicable laws.</text>
+ </clause></subparagraph><subparagraph id="idC46C3E98610545809265A4234C83B91D"><enum>(B)</enum><header>Conditions</header><text>The Secretary concerned may reasonably condition the approval of such a permit to satisfy the requirements of this Act and applicable regulations.</text>
+ </subparagraph></paragraph><paragraph id="id8744412EEFAB46C5B1FED26437150A45"><enum>(2)</enum><header>Denial</header><text>The Secretary concerned shall deny the issuance of a mining permit if the Secretary concerned determines that the permit does not meet the requirements of—</text>
+ <subparagraph id="id6356B5A5726B46AC9A3309E89DB58BE2"><enum>(A)</enum><text>this Act;</text> </subparagraph><subparagraph id="id70B6234BA066400F975FF7B6D10AA81C"><enum>(B)</enum><text>any regulations promulgated under this Act; or</text>
+ </subparagraph><subparagraph id="idD7613247298E41A5B0AE510B1B74D57E"><enum>(C)</enum><text>other applicable laws.</text>
+ </subparagraph></paragraph><paragraph id="id63EC0970786F4C1FA45A6E5DAAF5017A"><enum>(3)</enum><header>Notice</header><text>Before approving or denying a mining permit under this subsection, the Secretary concerned—</text>
+ <subparagraph id="idA50601B683044C62B51EA593CF68894E"><enum>(A)</enum><text>shall provide public notice and an opportunity for written comment; and</text>
+ </subparagraph><subparagraph id="id94F9E5FB3E0C4AF9B473DEA0D163A9B7"><enum>(B)</enum><text>may hold a public hearing.</text>
+						</subparagraph></paragraph></subsection><subsection commented="no" id="IDc62bfdc70160418b87a19bee358bc3c6"><enum>(d)</enum><header>Term of permit;
+			 continuation</header>
+					<paragraph commented="no" id="id214B37E380944031A73A1754BF4F63C7"><enum>(1)</enum><header>In
+ general</header><text display-inline="yes-display-inline">An operations permit shall—</text>
+ <subparagraph commented="no" id="ID11104197fb184dcc92af28440b7a63e8"><enum>(A)</enum><text>be for a term of 30 years; and</text>
+ </subparagraph><subparagraph commented="no" id="IDe50ddb471ed7415db170106d7e66c07c"><enum>(B)</enum><text>continue for so long thereafter as locatable minerals are produced in commercial quantities from the permit area in compliance with the requirements of this Act and other applicable law.</text>
+ </subparagraph></paragraph><paragraph id="IDbe8c9bde2abd4497aab3bb8c14ef57f1"><enum>(2)</enum><header>Continuation</header><text>No permit shall expire because operations or production have ceased pursuant to an approved temporary cessation or been suspended pursuant to any order of, or with the consent of, the Secretary concerned.</text>
+					</paragraph></subsection><subsection id="idA1A997E6F4D74578AC649D5DC69E890B"><enum>(e)</enum><header>Modifications
+			 to permit</header>
+					<paragraph id="id87B910FD3AB0445182798E7FCF32FCF5"><enum>(1)</enum><header>Request from
+			 permit holder</header>
+						<subparagraph id="idC9E709948ABA421FA19ADD45D0181030"><enum>(A)</enum><header>In
+ general</header><text>A mining permit holder may submit to the Secretary concerned an application to modify the mining permit.</text>
+						</subparagraph><subparagraph id="id0A8129BE448640829F0FA6869E089DB2"><enum>(B)</enum><header>Approval</header>
+							<clause id="idB06196ACAD1B4140BB8596952E309EBA"><enum>(i)</enum><header>In
+ general</header><text>In determining whether to approve or disapprove a proposed modification to a mining permit, the Secretary concerned shall make the same determinations as are required in the case of an original mining permit.</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="id061F5AD544144989923D4A21A78C26BC"><enum>(ii)</enum><header>Exceptions</header><text>Clause (i) shall not apply to minor modifications to a mining permit or instances in which the nature of the modifications make compliance with the requirements unnecessary, as determined by the Secretary concerned.</text>
+							</clause></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idCBDAC486B63F466D872AEBCAF97C4C67"><enum>(2)</enum><header>Modifications
+			 from Secretary concerned</header>
+						<subparagraph commented="no" display-inline="no-display-inline" id="idAD7F6F82081447A5BAFE0A07D1FC7C09"><enum>(A)</enum><header>In
+ general</header><text>The Secretary concerned may require reasonable modification to any permit on a determination that the requirements of this Act or other applicable law cannot be met if the permit is followed as approved.</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id7675FB3A15FB4E97A4E2F2D994382C46"><enum>(B)</enum><header>Requirements
+ for determination</header><text>A determination under subparagraph (A) shall be—</text>
+ <clause commented="no" display-inline="no-display-inline" id="id5CA7B37E14384DE88F9F674EBF775057"><enum>(i)</enum><text>based on a written finding; and</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="id1B5BE92C263142E39CB229F40DC223D6"><enum>(ii)</enum><text>subject to notice and hearing requirements established by the Secretary concerned.</text>
+							</clause></subparagraph></paragraph></subsection><subsection commented="no" id="IDdb552ae3ba0d4f9ba1b58a98d4be19c2"><enum>(f)</enum><header>Land use
+			 fees</header>
+					<paragraph commented="no" id="ID6602ef9a4090483daee3363cff774e04"><enum>(1)</enum><header>In
+ general</header><text>In the case of Federal land included in a mining permit approved under this section after the date of enactment of this Act, or Federal land added pursuant to a modification to a permit or plan of operations if the modification is approved after the date of enactment of this Act, not later than August 31 of each year, the operator shall pay a land use fee in an amount established by the Secretary by regulation that is equal to 4 times the claim maintenance fee imposed under section 102(a)(1) for each 20 acres of Federal land that is included within the mine permit area.</text>
+					</paragraph><paragraph commented="no" id="ID94089463ef2d4733b44ee698f993ff7c"><enum>(2)</enum><header>Additional
+ fee</header><text>The land use fee imposed under this subsection shall be in addition to the claim maintenance fees imposed under section 102(a).</text>
+					</paragraph><paragraph commented="no" id="ID6136a053aaf04e6ca23d46316f306e90"><enum>(3)</enum><header>Authorized
+ activities</header><text>Upon approval by the Secretary concerned of a mining permit and upon payment of the land use fee as required by this subsection, the operator may use and occupy all Federal land within the mine permit area for such uses as are approved in the mining permit if the uses are undertaken in accordance with all applicable law.</text>
+ </paragraph><paragraph commented="no" id="ID0333bf5781bf4625aa627560e3133d7e"><enum>(4)</enum><header>Adjustment</header><text>Land use fees imposed under this subsection shall be adjusted as necessary to correspond to any adjustment in the claim maintenance fees imposed under section 102(a).</text>
+					</paragraph><paragraph id="IDc3775a438f374727a63a7709cccade05"><enum>(5)</enum><header>Disposition of
+ funds</header><text>Any amounts received under this subsection shall be deposited in the Fund.</text>
+					</paragraph></subsection><subsection id="ID34f054adb0ab41f2b110454be787c1b4"><enum>(g)</enum><header>Temporary
+			 cessation of operations</header>
+					<paragraph id="idF14EF078539448B4A3491B0300260005"><enum>(1)</enum><header>In
+ general</header><text>An operator conducting mineral activities under this title may not temporarily cease mineral activities for a period of greater than 180 days unless—</text>
+ <subparagraph id="id65AD2B3580F0444A93C60978AC759CE1"><enum>(A)</enum><text>the Secretary concerned has approved the temporary cessation; or</text>
+ </subparagraph><subparagraph id="id8FD9B956FA284DAD8A10CE0C2DCC9C23"><enum>(B)</enum><text>the temporary cessation is permitted under the exploration or mining permit.</text>
+						</subparagraph></paragraph><paragraph id="IDc2e56e85c4dc4e9cb472984e2f29d76a"><enum>(2)</enum><header>Multiple
+ temporary cessations</header><text>The Secretary concerned may approve more than 1 temporary cessation for mineral activities under a permit.</text>
+					</paragraph><paragraph id="idD75863D640E347988C67FF145BDF954D"><enum>(3)</enum><header>Interim
+ management plan</header><text>Any operator temporarily ceasing mineral activities shall follow an interim management plan approved by the Secretary concerned.</text>
+					</paragraph></subsection></section><section id="ID2703bfd1e9a14064a84c9f4800860092"><enum>304.</enum><header>Financial
+			 assurances</header>
+				<subsection id="IDc3d4187539ab466498b8bfc9762f04dd"><enum>(a)</enum><header>In
+ general</header><text>Before beginning any mineral activities requiring an exploration or mining permit under this Act, an operator shall provide to the Secretary concerned evidence of a bond, surety, or other financial assurance approved by the Secretary concerned in an amount determined, after public notice and comment, by the Secretary concerned to be sufficient to ensure the completion of reclamation under section 306 and the restoration of any land or water adversely affected by the mineral activities if the work (including any interim stabilization and infrastructure maintenance activities) would be performed by the Secretary concerned (or a third party retained by the Secretary concerned) in the event of forfeiture.</text>
+				</subsection><subsection id="ID9dd6a28c3a594093bd3dca0011f70de9"><enum>(b)</enum><header>Land and water
+ covered</header><text>The financial assurance shall cover—</text> <paragraph id="id3E38E78CE26A477EBABAF76C507F45BA"><enum>(1)</enum><text>all land within the initial permit area;</text>
+ </paragraph><paragraph id="idE5DDAD0974F348DD9CB9615612FEA6AC"><enum>(2)</enum><text>all affected water that may require restoration, treatment, or other management as a result of mineral activities; and</text>
+ </paragraph><paragraph id="idB8E9351DF2024CBFBE77BFE9AC5C2E1D"><enum>(3)</enum><text>all land added and water affected pursuant to any permit modification.</text>
+ </paragraph></subsection><subsection id="IDc58d1f8b9f6a46849765f1bea3e23330"><enum>(c)</enum><header>Review</header><text>Not later than 3 years after the date on which an operator provides financial assurance in an amount determined under subsection (a) and not later than every 3 years thereafter, the Secretary concerned shall—</text>
+ <paragraph id="id0171D3921487476FAA1DAFD9FB88C77D"><enum>(1)</enum><text>review the financial assurance to determine if the amount of the financial assurance is adequate for purposes of this section; and</text>
+ </paragraph><paragraph id="id13B02ADC0D794A848ECAFC446243D572"><enum>(2)</enum><text>if the Secretary concerned determines that the amount of the financial assurance is not adequate, adjust the amount of the financial assurance in accordance with this section.</text>
+					</paragraph></subsection><subsection id="ID6660c42b5aab4db98ef8a924e2be6538"><enum>(d)</enum><header>Reduction</header>
+					<paragraph id="id73EB93014C2844C4A8EAF0231182FA27"><enum>(1)</enum><header>In
+ general</header><text>The Secretary concerned may reduce the amount of the financial assurance required if the Secretary concerned determines that a portion of the reclamation is completed in accordance with section 306.</text>
+ </paragraph><paragraph id="id7DBDCFC6138B47EF9DE7840DE60368C4"><enum>(2)</enum><header>Notice</header><text>Before reducing or releasing the amount of financial assurance pursuant to this subsection, the Secretary concerned shall provide public notice and a reasonable opportunity for public notice and comment in accordance with subsection (g).</text>
+					</paragraph></subsection><subsection id="ID686be0e331f547648f4614f26595045f"><enum>(e)</enum><header>Incremental
+			 financial assurance</header>
+					<paragraph id="idB23DBECA741F4DA1BA80AC9C379FB9B2"><enum>(1)</enum><header>In
+ general</header><text display-inline="yes-display-inline">The Secretary concerned may authorize amounts of financial assurance for incremental mineral activities if—</text>
+ <subparagraph id="ID2e63f762917a452eae7bb01b68d3b251"><enum>(A)</enum><text>no mineral activities are allowed beyond the activities for which financial assurance is provided;</text>
+ </subparagraph><subparagraph id="IDa5d1fc76fd8a4326b4fd0d6ede2d2d3d"><enum>(B)</enum><text>the financial assurance for an increment covers all reclamation costs within the permit area for the increment; and</text>
+ </subparagraph><subparagraph id="IDe5263c6f578441a793c138b9772269e4"><enum>(C)</enum><text>the amount and terms of the financial assurance for each increment are reviewed annually.</text>
+ </subparagraph></paragraph><paragraph id="ID601892ae43d64ea3bad59fa32960afba"><enum>(2)</enum><header>Review</header><text>Notwithstanding subsection (c), the Secretary concerned shall—</text>
+ <subparagraph id="id28149891C34240F7AA810E08D3256DC7"><enum>(A)</enum><text>review at least on an annual basis the amount and terms of the financial assurance for any increment; and</text>
+ </subparagraph><subparagraph id="idC55710AC1E744B708320FE0E074256C8"><enum>(B)</enum><text>adjust the financial assurance as appropriate.</text>
+ </subparagraph></paragraph></subsection><subsection id="IDad43e7c6c86046b199f0c27b54bfc8d2"><enum>(f)</enum><header>Duration</header><text>The financial assurance required under this section shall be held for the duration of the mineral activities and for an additional period to cover the responsibility of the operator for reclamation, long-term maintenance, and effluent treatment as specified in subsection (h).</text>
+ </subsection><subsection id="ID92e58260c77946f88cf9d573ae038f3e"><enum>(g)</enum><header>Release</header><text>Subject to subsections (h) and (i), the Secretary concerned may, after public notice and a reasonable opportunity for public comment and after inspection, release in whole or in part the financial assurance required under this section if the Secretary concerned determines that—</text>
+ <paragraph id="ID331f17907b3046a39ae6097013d38b38"><enum>(1)</enum><text>reclamation covered by the financial assurance has been accomplished as required by this Act and other applicable law; and</text>
+ </paragraph><paragraph id="IDf807ac486ff64fd38724b8bd7812881d"><enum>(2)</enum><text>the terms and conditions of any other applicable Federal and State requirements have been fulfilled.</text>
+					</paragraph></subsection><subsection commented="no" id="ID3f87e205f8c9427b8fa3f5bbf7e9db36"><enum>(h)</enum><header>Release of
+ financial assurance for water</header><text>If the Secretary concerned does not require the establishment of a trust fund or other long-term funding mechanism under subsection (i), the portion of the financial assurance attributable to the estimated cost of treatment of any discharge or other water-related condition resulting from mineral activities shall not be released until the public has been provided notice and an opportunity to comment in accordance with subsection (g) and—</text>
+ <paragraph commented="no" id="IDa1c127fe5c11425aa048c5d6d1137f73"><enum>(1)</enum><text>the discharge has ceased for a period of at least 5 years, as determined through ongoing monitoring and testing; or</text>
+ </paragraph><paragraph commented="no" id="ID02ddfda6281c4b7cbff27c85811221c9"><enum>(2)</enum><text>if the discharge continues, the operator has met all applicable effluent limitations and water quality standards for a period of at least 5 years.</text>
+					</paragraph></subsection><subsection commented="no" id="ID86c442f1ae7d4ee3b616ca6447a05b41"><enum>(i)</enum><header>Long-Term
+			 financial assurances</header>
+					<paragraph commented="no" id="IDf1d65f9145e34813a818b09ab5046f3f"><enum>(1)</enum><header>In
+ general</header><text>Notwithstanding subsections (d) and (g), if any discharge or other water-related condition resulting from mineral activities requires treatment in order to meet the applicable effluent limitations and water quality standards, the financial assurance shall cover the estimated cost of maintaining the treatment for the period that will be needed after the cessation of mineral activities.</text>
+					</paragraph><paragraph commented="no" id="ID89b8c584098b44eea383e6a18463cf09"><enum>(2)</enum><header>Long-term
+			 funding mechanisms</header>
+						<subparagraph commented="no" id="idC5343865849046148FE170C9A6CAAB88"><enum>(A)</enum><header>In
+ general</header><text>The Secretary concerned shall, if determined necessary by the Secretary concerned, require the operator to establish a trust fund or other funding mechanism to provide financial assurances to ensure the continuation of long-term treatment or other management to achieve water quality standards and for other long-term, post-mining maintenance or monitoring requirements.</text>
+ </subparagraph><subparagraph commented="no" id="id370E4F9D7BEF49788D39F73D80F7A3BD"><enum>(B)</enum><header>Amount</header><text>The amount of funding shall be adequate to provide for construction, long-term operation, maintenance, or replacement of any treatment facilities and infrastructure, for as long as the treatment and facilities are needed after mine closure.</text>
+ </subparagraph><subparagraph commented="no" id="id375E98F0AB9B45A68FAB6DD30E992039"><enum>(C)</enum><header>Liability</header><text>Nothing in this paragraph allows any person to transfer any liability arising from mineral activities to any other person.</text>
+						</subparagraph></paragraph></subsection><subsection id="ID112bcb437adf435babeae4ff830afac6"><enum>(j)</enum><header>Report</header>
+					<paragraph id="id23F9C17F16864864859E18FC52D5F6F9"><enum>(1)</enum><header>In
+ general</header><text>Not later than 3 years after the date of enactment of this Act, the Secretary, in consultation with the Secretary of Agriculture and the Administrator of the Environmental Protection Agency, shall conduct a review and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report regarding the sufficiency of financial assurances for locatable minerals activities (including exploration and mining) on Federal land.</text>
+ </paragraph><paragraph id="id2D00A6A432924ECEAD99D80DBF62DB81"><enum>(2)</enum><header>Topics</header><text>The report shall address—</text>
+ <subparagraph id="ID34928a03a011455e99daa395c6e1aa23"><enum>(A)</enum><text>methods for establishing financial assurances levels;</text>
+ </subparagraph><subparagraph id="ID0abbceed16994a83a7217b3bd6ed1cc0"><enum>(B)</enum><text>the type, level, and adequacy of financial assurances required for exploration activities;</text>
+ </subparagraph><subparagraph id="IDff41ed39a10f4ea087577a865c0b9073"><enum>(C)</enum><text>for each mine on Federal land—</text>
+ <clause id="idF985B34596974FC3B20239431F2220A3"><enum>(i)</enum><text>the dates of approval of any plan of operation or mining permit;</text>
+ </clause><clause id="id0DEB39B039F446329781AC1853E1108C"><enum>(ii)</enum><text>the acreage involved;</text>
+ </clause><clause id="id8D23A29E2CFD43F491E7AAE1CD6541EA"><enum>(iii)</enum><text>the expected life of the mine;</text>
+ </clause><clause id="idF3B14828EF0942E7A218BB6CD1D2AAE3"><enum>(iv)</enum><text>the type, level, and adequacy of financial assurance; and</text>
+ </clause><clause id="id929188855271490EBFAD3FDE680E03A2"><enum>(v)</enum><text>whether the mine is expected to require long-term water treatment or maintenance after mine closure;</text>
+ </clause></subparagraph><subparagraph id="IDa1ce1ef771074c8da40f16ef9225322c"><enum>(D)</enum><text>the effectiveness of various types of financial assurances; and</text>
+ </subparagraph><subparagraph id="ID3836577d904f4fada4389026c7fff660"><enum>(E)</enum><text>the availability of and costs associated with various types of financial assurances.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="ID37e8e7c7d7774348a4994c29d80790e3"><enum>(3)</enum><header>Recommendations</header><text>The report shall include any recommendations for modifications to Federal law or applicable regulations to improve the effectiveness of financial assurances for locatable mineral activities described in paragraph (1).</text>
+					</paragraph></subsection></section><section id="ID6ca5c92525914b5fadac252aaa71c8da"><enum>305.</enum><header>Transfer,
+ assignment, or sale of right</header><text display-inline="no-display-inline">The Secretary concerned shall approve the transfer, assignment, or sale of rights of an exploration or mining permit only if the successor in interest agrees in writing to assume the liability and reclamation responsibilities (including the financial assurance requirements under section 304 (including applicable regulations)) established by the permit under this Act, without affecting the liability of the transferor under any other law or exploration or mining permit.</text>
+			</section><section id="H3FC784E2362C468DACA3F0CEF072DB60"><enum>306.</enum><header>Operation and
+			 reclamation</header>
+				<subsection id="id0628228D05EC49CA8959D269AFE6D580"><enum>(a)</enum><header>In
+ general</header><text>The operator shall restore land and water subject to mineral activities carried out under a permit issued under this title to a condition capable of supporting—</text>
+ <paragraph id="idD94F92A8399F46DC9FF953C8503950A9"><enum>(1)</enum><text>the uses that the land and water was capable of supporting before surface disturbance by the operator; or</text>
+ </paragraph><paragraph id="id3E72488F855146E496C0B4B61C9046C7"><enum>(2)</enum><text>other beneficial uses that conform to applicable land use plans (including, if appropriate, the generation of renewable energy), as determined by the Secretary concerned.</text>
+					</paragraph></subsection><subsection id="id24FE5ACD04434BBE974F64475D5F2BD5"><enum>(b)</enum><header>Timing</header>
+					<paragraph id="idDB4FAE4352884BB8A42006A7F3E7E74E"><enum>(1)</enum><header>In
+ general</header><text>Reclamation activities shall be carried out as contemporaneously as practicable with the conduct of mineral activities.</text>
+					</paragraph><paragraph id="idEF3ED04610844970A0B5F729994A5F57"><enum>(2)</enum><header>Temporary
+ cessation</header><text>If mineral activities are ceased for a period other than a temporary cessation as approved by the Secretary concerned, reclamation activities shall begin immediately.</text>
+					</paragraph></subsection><subsection id="id0FC3FCBFC4C84D4BBA2C50D75951CC3D"><enum>(c)</enum><header>Administration
+ of land</header><text>Notwithstanding section 302(b) of the Federal Land Policy and Management Act of 1976 (<external-xref legal-doc="usc" parsable-cite="usc/43/1732">43 U.S.C. 1732(b)</external-xref>), the first section of the Act of June 4, 1897 (commonly known as the <quote>Organic Act of 1897</quote>) (<external-xref legal-doc="usc" parsable-cite="usc/16/478">16 U.S.C. 478</external-xref>), or the Forest and Rangeland Renewable Resources Planning Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/16/1600">16 U.S.C. 1600 et seq.</external-xref>), and in accordance with this title and applicable law, unless expressly stated otherwise in this Act, the Secretary concerned—</text>
+ <paragraph id="idee30d82c187244c09cec78db1c0ae7a3"><enum>(1)</enum><text>shall ensure that mineral activities on any Federal land that is subject to a mining claim, millsite claim, or tunnel site claim are carefully controlled to prevent undue degradation of public land and resources; and</text>
+ </paragraph><paragraph id="idc04317a6eaf8440aaeea03c82aadb862"><enum>(2)</enum><text>shall not grant permission to engage in mineral activities if the Secretary concerned, after considering the evidence, makes a determination that undue degradation would result from those activities.</text>
+					</paragraph></subsection><subsection commented="no" id="H2479114755D340F2A3B93540E214EE14"><enum>(d)</enum><header>Operation and
+ reclamation standards</header><text display-inline="yes-display-inline">The Secretary and the Secretary of Agriculture shall jointly promulgate regulations that carry out this Act.</text>
+				</subsection><subsection id="IDbe7b8c9216f449199e110549c20ef36f"><enum>(e)</enum><header>Relationship to
+ other laws</header><text>The requirements of this Act shall be in addition to any requirements applicable to mineral activities under—</text>
+ <paragraph id="id52931EBDF7C34913B653C982CBA4A335"><enum>(1)</enum><text>the <act-name parsable-cite="FLPMA">Federal Land Policy and Management Act of 1976</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/43/1701">43 U.S.C. 1701 et seq.</external-xref>);</text>
+ </paragraph><paragraph id="id06D24DBB448A40A58EF89550290B2CAE"><enum>(2)</enum><text>the National Forest Management Act of 1976 (<external-xref legal-doc="usc" parsable-cite="usc/16/472a">16 U.S.C. 472a et seq.</external-xref>); and</text>
+ </paragraph><paragraph id="idA3D69C62765F47ED8F656EC9D5AF8FF2"><enum>(3)</enum><text>the Act of June 4, 1897 (commonly known as the <quote>Organic Act of 1897 </quote>) (<external-xref legal-doc="usc" parsable-cite="usc/16/473">16 U.S.C. 473–482</external-xref>, 551).</text>
+					</paragraph></subsection></section><section commented="no" id="H445C0565F07D4ED200AABE89DE07A2B8"><enum>307.</enum><header>Land open to
+ location</header><text display-inline="no-display-inline">Section 202(e) of the Federal Land Policy and Management Act of 1976 (<external-xref legal-doc="usc" parsable-cite="usc/43/1712">43 U.S.C. 1712(e)</external-xref>) is amended—</text>
+ <paragraph commented="no" id="IDfa785ff389e4444b91dbb412e538c08f"><enum>(1)</enum><text>in paragraph (3), by striking <quote>removed from or restored to the operation of the Mining Law of 1872, as amended (R.S. 2318–2352; <external-xref legal-doc="usc" parsable-cite="usc/30/21">30 U.S.C. 21 et seq.</external-xref>) or</quote>; and</text>
+ </paragraph><paragraph commented="no" id="ID934e7fb0766a4da58098413eee7efbce"><enum>(2)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id8A7160A6BDFA4269AE0EFDEC974F651E" style="OLC">
+						<paragraph commented="no" id="ID7fd6288966be4b03b2470032b0a133a5"><enum>(4)</enum><header>Review of
+				land</header>
+							<subparagraph commented="no" id="idE0C852F8590F49629DA5F277DC5BB80C"><enum>(A)</enum><header>In
+ general</header><text>Not later than 3 years after the date of enactment of this paragraph, each Secretary concerned, acting through the local Federal land manager, shall, consistent with the respective jurisdiction of each Secretary concerned, undertake and complete a review of—</text>
+ <clause commented="no" id="idAADE64B4EF7149B48C939B4A624B9BF9"><enum>(i)</enum><text>public land designated as a wilderness study area or National Forest System land identified as suitable for wilderness designation;</text>
+ </clause><clause commented="no" id="idEDA0035C54424DBEA2DE4C4DC3394716"><enum>(ii)</enum><text>areas of critical environmental concern;</text>
+ </clause><clause id="ID3f45ec9df1f24609ba7eac1009985713"><enum>(iii)</enum><text>Federal land in which mineral activities pose a reasonable likelihood of substantial adverse impacts on National Conservation System units;</text>
+ </clause><clause id="ID7a3008a06d8b4aa188fb5a0286ef2d39"><enum>(iv)</enum><subclause commented="no" display-inline="yes-display-inline" id="idAE8D905D22DE4F7CBE65EA64FD41C5A2"><enum>(I)</enum><text>areas designated for inclusion in the National Wild and Scenic Rivers System pursuant to the Wild and Scenic Rivers Act (<external-xref legal-doc="usc" parsable-cite="usc/16/1271">16 U.S.C. 1271 et seq.</external-xref>);</text>
+ </subclause><subclause id="id25697D2C1E8A4A38A727ADD443672A9C" indent="up1"><enum>(II)</enum><text>areas designated for potential addition to the System pursuant to section 5(a) of that Act (<external-xref legal-doc="usc" parsable-cite="usc/16/1276">16 U.S.C. 1276(a)</external-xref>); and</text>
+ </subclause><subclause id="id820086524F864182BD6216B4BA98E9E9" indent="up1"><enum>(III)</enum><text>areas determined to be eligible for inclusion in the System pursuant to section 5(d) of that Act (<external-xref legal-doc="usc" parsable-cite="usc/16/1276">16 U.S.C. 1276(d)</external-xref>); and</text>
+ </subclause></clause><clause id="IDcc810bbeca3c4f73ac5fba748d6f95f3"><enum>(v)</enum><text>the areas identified in the set of inventoried roadless area maps contained in the Forest Service Roadless Areas Conservation, Final Environmental Impact Statement, volume 2, dated November 2000.</text>
+								</clause></subparagraph></paragraph><paragraph id="ID971ad4d7ef804c77bf4e19c07fcc4de4"><enum>(5)</enum><header>Withdrawals of
+				land</header>
+							<subparagraph id="id6A3B1DE629E64D43A95E440E6FE1C260"><enum>(A)</enum><header>In
+ general</header><text>Subsequent to review in accordance with paragraph (4), in addition to withdrawals made pursuant to section 204 and subject to valid existing rights, tracts of Federal land may, pursuant to this paragraph, be removed from operation of sections 2318 through 2352 of the Revised Statutes (commonly known and referred to in this subsection as the <quote>Mining Law of 1872</quote>) (<external-xref legal-doc="usc" parsable-cite="usc/30/21">30 U.S.C. 21 et seq.</external-xref>) if the Secretary, based on the analysis of the local Federal land manager, and in the case of National Forest System land, on the recommendation of the Secretary of Agriculture based on the analysis of the local Federal land manager, determines that the action is appropriate after application of the criteria established under subsection (c).</text>
+							</subparagraph><subparagraph commented="no" id="idEF0319C341144AA6BC999E7FB91247EA"><enum>(B)</enum><header>Revision of
+ land use plans</header><text>The Secretary concerned, acting through the local Federal land manager, shall revise or amend the applicable land use plan, as appropriate, to provide for removal of land, subject to valid existing rights, from operation of the Mining Law of 1872 on a determination by the Secretary under subparagraph (A) that the land should be removed from operation of that Act.</text>
+							</subparagraph><subparagraph commented="no" id="idA025CADDB77D444D8DF4F8E73EEA825F"><enum>(C)</enum><header>Segregation
+ from general mining laws pending completion</header><text>On a determination by the Secretary that the land should be removed from operation of the Mining Law of 1872, the land shall be immediately segregated from operation of the Mining Law of 1872 until the plan amendment or revision is completed.</text>
+							</subparagraph><subparagraph commented="no" id="id68FC419E6D6345D28CE7298A34DE3CAD"><enum>(D)</enum><header>Completion
+ deadline</header><text>Any amendment or revision of a land use plan shall be completed not later than 1 year after the date of the determination of the Secretary under subparagraph (A).</text>
+							</subparagraph></paragraph><paragraph commented="no" id="ID5a28900cf0af47458dcce4bd1e6f99bd"><enum>(6)</enum><header>Petition for
+ review</header><text>The Governor of a State, the head of an Indian tribe, or an appropriate local government official may petition—</text>
+ <subparagraph commented="no" id="id17E51E0FB41049E2B9C56EC2E0F5DE57"><enum>(A)</enum><text>the Secretary concerned to direct the local Federal land manager to undertake a review under paragraph (4); and</text>
+ </subparagraph><subparagraph commented="no" id="id6C05E4634B374F33BE51C6960528FCCE"><enum>(B)</enum><text>the Secretary to determine whether land within the State should be removed from operation of the Mining Law of 1872, subject to valid existing rights, pursuant to paragraph (5).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></section><section commented="no" display-inline="no-display-inline" id="idE0ABE98B8FB44D039EF4FAE6E13FC50C"><enum>308.</enum><header>State
+ law</header><text display-inline="no-display-inline">Any reclamation, environmental, public health protection, bonding, or inspection standard or requirement in State law (including regulations) that meets or exceeds the requirements of this Act shall not be considered to be inconsistent with this Act.</text>
+			</section><section id="id096AB6B84A184E2B88309C9A0EF3A185"><enum>309.</enum><header>Inspection and
+			 monitoring</header>
+				<subsection id="id2E8D95456BF34EB28AE0C69793C7C132"><enum>(a)</enum><header>Inspections</header>
+					<paragraph id="id319371A90FE34F4B81FF53BFD5B26321"><enum>(1)</enum><header>In
+ general</header><text>The Secretary concerned shall make inspections of mineral activities to ensure compliance with this Act.</text>
+ </paragraph><paragraph id="id1BDDF950B1D24B8B8858017C464EC984"><enum>(2)</enum><header>Timing</header><text>The Secretary concerned shall establish the frequency of inspections for mineral activities conducted under a permit issued under this Act, with the Secretary concerned requiring not less than 1 complete inspection per calendar quarter.</text>
+					</paragraph><paragraph id="idEB3C6B1422524EB395B0FAE9F263962A"><enum>(3)</enum><header>Annual
+ inspections</header><text>After revegetation has been established in accordance with a reclamation plan, the Secretary concerned shall conduct not less than 2 complete inspections per year.</text>
+					</paragraph><paragraph id="id4B0A3E98B5A64215A41C80C66014B311"><enum>(4)</enum><header>Seasonal
+ activities</header><text>The Secretary concerned shall have the discretion to modify the inspection frequency for mineral activities that are conducted on a seasonal basis, except that the Secretary concerned shall require not less than 2 complete inspections per calendar year.</text>
+					</paragraph><paragraph id="id9C6B4A38E18B42119C70ED678DF77062"><enum>(5)</enum><header>Financial
+ assurance</header><text>Inspections shall continue under this subsection until the final release of financial assurance.</text>
+ </paragraph></subsection><subsection id="id4FA464774A8E4001A6A3CCAB76936B34"><enum>(b)</enum><header>Monitoring</header><text>The Secretary concerned shall require all operators—</text>
+ <paragraph id="id92AA31308947406E87D99C46F4BAAE1C"><enum>(1)</enum><text>to develop and maintain a monitoring and evaluation system to identify compliance with all requirements of a permit approved under this Act; and</text>
+ </paragraph><paragraph id="id9D8D2A51A368442DBBFE1DD71096F00D"><enum>(2)</enum><text>to submit such reports as may be required by the Secretary concerned.</text>
+					</paragraph></subsection></section></title><title id="H4C311C9203784B73A13802B7C79C3115"><enum>IV</enum><header>Hardrock Minerals
+			 Reclamation Fund</header>
+			<section id="HB9C48332F4C14DB7A9A675FC769C1D4"><enum>401.</enum><header>Establishment of
+			 Fund</header>
+ <subsection id="HBD4D577DEE76494A914E4F2010505969"><enum>(a)</enum><header>Establishment</header><text display-inline="yes-display-inline">There is established in the Treasury of the United States a separate account, to be known as the <quote>Hardrock Minerals Reclamation Fund</quote>, consisting of—</text>
+ <paragraph commented="no" id="HCD90B450F265428D9CF352AB17030870"><enum>(1)</enum><text>any amounts received by the United States under section 101;</text>
+ </paragraph><paragraph id="HDD1AD570C4754871935D98A4E5336DF6"><enum>(2)</enum><text display-inline="yes-display-inline">any amounts collected under section 102 (subject to the requirements of section 102(c)(1));</text>
+ </paragraph><paragraph id="H1085DB179A45468A81F83CE1A8D931B2"><enum>(3)</enum><text>any amounts donated to the Fund by persons, corporations, associations, and foundations;</text>
+ </paragraph><paragraph id="HDC30B73FBE4B4D4F934FBCE0A5BC0070"><enum>(4)</enum><text>any amounts collected under section 201;</text>
+ </paragraph><paragraph id="ID2fa234b162dd46cf87b586e1f385ec2f"><enum>(5)</enum><text>any amounts collected under section 303(e);</text>
+ </paragraph><paragraph id="IDd5d13f71dd5c4add939b9a31faac2e88"><enum>(6)</enum><text>any amounts collected under section 403;</text>
+ </paragraph><paragraph id="H5825EC76B9724A4C9000000001B01E8E"><enum>(7)</enum><text>any amounts collected under sections 203 and 502; and</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="HC638FD49EB8F46328432941D00E18500"><enum>(8)</enum><text>any income on investments under subsection (b).</text>
+					</paragraph></subsection><subsection id="idD3E04FD89A9B443D84A54E437F1CF25B"><enum>(b)</enum><header>Investment</header>
+					<paragraph id="idC24D5C77AD2A45ED9EDF880EC3416AD1"><enum>(1)</enum><header>In
+ general</header><text>The Secretary shall notify the Secretary of the Treasury of any portion of the Fund that the Secretary determines is not required to meet current withdrawals.</text>
+					</paragraph><paragraph id="id2978D04022A543428329CE15345A1ACF"><enum>(2)</enum><header>Eligible
+ investments</header><text>The Secretary of the Treasury shall invest portions of the Fund identified under paragraph (1) in public debt securities with maturities suitable for the needs of the Fund.</text>
+ </paragraph><paragraph id="idEE27551B34F1494F93A415133410BE3E"><enum>(3)</enum><header>Interest</header><text>Investments in public debt securities shall bear interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketplace obligations of the United States of comparable maturity.</text>
+ </paragraph></subsection><subsection id="H6257F43C38B54E699761311857007F61"><enum>(c)</enum><header>Administration</header><text display-inline="yes-display-inline">The Fund shall be administered by the Secretary, acting through the Director of the Office of Surface Mining Reclamation and Enforcement.</text>
+ </subsection><subsection id="H79A79FC35A384157A22725AFF039B8FA"><enum>(d)</enum><header>Expenditures</header><text>Subject to section 402, amounts in the Fund may, without fiscal year limitation and without further appropriation—</text>
+ <paragraph id="idADE3E595B524405E81BE6A7A02AF3121"><enum>(1)</enum><text>be expended by the Secretary for the purposes described in section 402;</text>
+ </paragraph><paragraph id="id13C586D5322141A1AD157E7D2977DE8E"><enum>(2)</enum><text display-inline="yes-display-inline">be transferred by the Secretary to the Director of the Bureau of Land Management, the Chief of the Forest Service, the Director of the National Park Service, the Director of the United States Fish and Wildlife Service, or the head of any other Federal agency, that develops, implements, and has the ability to carry out all or a significant portion of a reclamation program under this title; or</text>
+ </paragraph><paragraph id="IDbd9efbc93768424687563f858fa57305"><enum>(3)</enum><text>be transferred by the Secretary to an Indian tribe or a State with an approved reclamation program, as provided in subsection (e).</text>
+					</paragraph></subsection><subsection id="ID07cc6a4345e94351bad1f0d95cf9b7fb"><enum>(e)</enum><header>State and
+			 tribal reclamation programs</header>
+					<paragraph id="id49F0A0230F214F3E925F7FB66EC943F1"><enum>(1)</enum><header>In
+ general</header><text>Each State having within the borders of the State, or tribe having within the borders of the reservation of the tribe, mined land that is eligible for reclamation under this title may submit to the Secretary a reclamation program for the land.</text>
+ </paragraph><paragraph id="id3BF765D7F94B402CAF582ED29F49B1AE"><enum>(2)</enum><header>Approval</header><text>If the Secretary determines that a State or tribe has developed and submitted a program for reclamation of abandoned mines consistent with the priorities established under section 402(c) and has the ability and necessary State or tribal legislation to implement this title, the Secretary shall—</text>
+ <subparagraph id="id4DB55EF55AE24403BAFB91C81DD67664"><enum>(A)</enum><text>approve the program; and</text>
+ </subparagraph><subparagraph id="id8C698F3CAF7B42A0840990E79E3B3CD7"><enum>(B)</enum><text>grant to the State or tribe the exclusive responsibility and authority to implement the approved program.</text>
+						</subparagraph></paragraph><paragraph id="id7ABB320A0CDC4BCE8B95AA86B0D9A2F4"><enum>(3)</enum><header>Withdrawal of
+ approval</header><text>The Secretary shall withdraw the approval and authorization if the Secretary determines that the State or tribal program is not in compliance with procedures, guidelines, and requirements established by the Secretary.</text>
+					</paragraph><paragraph id="ID1b9c2a8b43a14e26a361ceea686520dc"><enum>(4)</enum><header>Approval of
+ existing programs</header><text>Subject to paragraph (3), any State program in an abandoned hardrock mine State or tribal program for reclamation of abandoned mines approved under title IV of the Surface Mining Control and Reclamation Act of 1977 (<external-xref legal-doc="usc" parsable-cite="usc/30/1231">30 U.S.C. 1231 et seq.</external-xref>) before the date of enactment of this Act and in good standing with the Secretary as of that date shall be considered approved under this title.</text>
+					</paragraph></subsection></section><section display-inline="no-display-inline" id="H0ED9F722D317474B9BF600030532D1B4"><enum>402.</enum><header>Use and
+			 objectives of the Fund</header>
+				<subsection id="idA4D1AD42DF6D4FB89F10BE49A928B1E8"><enum>(a)</enum><header>Use</header>
+					<paragraph id="id3FB679E81CB94D41AEE5FB4CE9B245CA"><enum>(1)</enum><header>In
+ general</header><text>The Secretary may, subject to the availability of appropriations, use amounts in the Fund for the reclamation and restoration of land and water resources adversely affected by past hardrock minerals and mining and related activities in abandoned hardrock mine States and on Indian land located within the exterior boundaries of abandoned hardrock mine States, including the conduct of activities—</text>
+ <subparagraph id="idCD42F65BFD334391AC45F8FD86A7B8E9"><enum>(A)</enum><text>to protect public health and safety;</text>
+ </subparagraph><subparagraph id="id2E03671725B045839AC3FE3AA4AA1B5C"><enum>(B)</enum><text>to prevent, abate, treat, and control water pollution created by abandoned mine drainage, including activities conducted in watersheds;</text>
+ </subparagraph><subparagraph id="idF006E4458FD6452EBA788982444856F7"><enum>(C)</enum><text>to reclaim and restore abandoned surface and underground mined areas;</text>
+ </subparagraph><subparagraph id="idC724AB03F10B473FA48BD5DCE6750DB2"><enum>(D)</enum><text>to reclaim and restore abandoned milling and processing areas;</text>
+ </subparagraph><subparagraph id="id16DCF14CDAA7412FA3FC7A6E1FA0786F"><enum>(E)</enum><text>to backfill, seal, or otherwise control abandoned underground mine entries;</text>
+ </subparagraph><subparagraph id="idA3E0CD98EFB949B9BADF7D174798FA00"><enum>(F)</enum><text>to revegetate land adversely affected by past mining activities—</text>
+ <clause id="id12179FE3EE564206A4393FE688A505E7"><enum>(i)</enum><text>to prevent erosion and sedimentation; and</text>
+ </clause><clause id="id3E5B73FAFCF94B08806FFF581F004BD3"><enum>(ii)</enum><text>for any other reclamation purpose;</text>
+ </clause></subparagraph><subparagraph id="id8E9BEAE58E6B4C299C8E2205B6EFCB6B"><enum>(G)</enum><text>to control surface subsidence due to abandoned underground mines; and</text>
+ </subparagraph><subparagraph id="id61322C828E4D42F6B3FED8B7EAE15A3B"><enum>(H)</enum><text>to enhance fish and wildlife habitat.</text>
+ </subparagraph></paragraph><paragraph id="id4787730454A54AF4BBA2008E50AA4879"><enum>(2)</enum><header>Determination</header><text>Before expending amounts in the Fund for the purposes described in paragraph (1), the Secretary shall make a determination that there is no continuing reclamation responsibility of the claim holder, operator, or other person who abandoned the site before completion of the required reclamation under Federal or State law.</text>
+ </paragraph></subsection><subsection commented="no" id="H36B8D31505A1443199EF731760A400B"><enum>(b)</enum><header>Allocation</header><text display-inline="yes-display-inline">Of the amounts deposited in the Fund each fiscal year—</text>
+ <paragraph commented="no" id="id61786D63BC364E91B40943B00EB9259D"><enum>(1)</enum><text display-inline="yes-display-inline">20 percent shall be allocated by the Secretary for expenditure by the Secretary or, if a State or Indian tribe has an approved program pursuant to section 401(e), by the State or Indian tribe, in the States in which, or on Indian land on which, hardrock minerals are produced, based on a formula reflecting existing production in the State or on the land of the Indian tribe;</text>
+ </paragraph><paragraph commented="no" id="id5F0FB16DF0AB404189CE7093C3FF3E52"><enum>(2)</enum><text display-inline="yes-display-inline">30 percent shall be allocated by the Secretary for expenditure by the Secretary or, if a State or Indian tribe has an approved program pursuant to section 401(e), by the State or Indian tribe, in the States and on Indian land using a formula based on the quantity of hardrock minerals historically produced in the State or from the Indian land before the date of enactment of this Act;</text>
+ </paragraph><paragraph commented="no" id="ID88a8d40ab269438c815a5513bf79039c"><enum>(3)</enum><text>25 percent shall be allocated by the Secretary for expenditure on Federal land;</text>
+ </paragraph><paragraph commented="no" id="idB7F578CCC65D409DA937E1D496E9BCCE"><enum>(4)</enum><text>10 percent shall be available to the Secretary for grants under subsection (e);</text>
+ </paragraph><paragraph commented="no" id="IDba267598adcb4f33826fcfb38d6d6639"><enum>(5)</enum><text>10 percent shall be available to the Secretary for grants under subsection (f); and</text>
+ </paragraph><paragraph commented="no" id="ID9ab7cd91827641d181a5026bacd0cf5c"><enum>(6)</enum><text>5 percent shall be available for administrative expenses of the United States, Indian tribes, and the States to accomplish the purposes of this title.</text>
+					</paragraph></subsection><subsection id="IDad64daf7cad040ed9142c581bfd8e759"><enum>(c)</enum><header>Priorities</header>
+					<paragraph id="ID5b57425f3f294c08a950d9514695d6ee"><enum>(1)</enum><header>In
+ general</header><text>Subject to paragraph (2), expenditures from the Fund shall be based on the following priorities:</text>
+ <subparagraph id="IDc55d45a86d6f4f25ab69f380e04bfc9e"><enum>(A)</enum><text>The conduct of activities to protect public health and safety from the adverse effects of past hardrock mineral mining activities, including activities addressing surface water and groundwater contaminants.</text>
+ </subparagraph><subparagraph id="ID8f029af4f20a491fb89caeccec2191fb"><enum>(B)</enum><text>The conduct of activities to restore land, water, and fish and wildlife resources degraded by the adverse effects of past hardrock mineral mining activities, including restoration activities in watershed areas.</text>
+						</subparagraph></paragraph><paragraph id="IDae818b63898d464c8183abb12e8f4dac"><enum>(2)</enum><header>Multiple
+ priorities</header><text>In complying with the priorities established under this subsection, funds may be expended for reclamation activities under paragraph (1)(B) before the completion of all reclamation projects under paragraph (1)(A) if the expenditure of the funds for reclamation activities under paragraph (1)(B) is made in conjunction with reclamation activities under paragraph (1)(A).</text>
+					</paragraph><paragraph id="ID427c69fba1ba4eda810348a208c3803d"><enum>(3)</enum><header>Minimum
+ expenditure</header><text>Notwithstanding paragraphs (1) and (2), not less than 25 percent of the expenditures by the Secretary on Federal lands for any year shall be for the purposes described in paragraph (1)(B).</text>
+					</paragraph></subsection><subsection id="H9CCC76C7BEF94B4A95A946DE55C1BE00"><enum>(d)</enum><header>Eligible land
+			 and water</header>
+					<paragraph id="H7CD89D022B804267BC5F7D86B3D3F2C"><enum>(1)</enum><header>In
+ general</header><text>Amounts may be expended for reclamation activities under this section only with respect to land or water resources if the land or water resources have been—</text>
+ <subparagraph id="id2BCB4058DB7F4292BDA35E6A151C5686"><enum>(A)</enum><text>affected by hardrock mineral mining activities; and</text>
+ </subparagraph><subparagraph id="id2FCC060EFBCA4958AC75B75534DB8ED5"><enum>(B)</enum><text>abandoned or left in an inadequate reclamation status.</text>
+						</subparagraph></paragraph><paragraph id="H6535327B47884E588F21220916D4CB7B"><enum>(2)</enum><header>Specific sites
+ and areas not eligible</header><text>Section 411(d) of the Surface Mining Control and Reclamation Act of 1977 (<external-xref legal-doc="usc" parsable-cite="usc/30/1240a">30 U.S.C. 1240a(d)</external-xref>) shall apply to expenditures from the Fund.</text>
+					</paragraph><paragraph id="HF485919418B84C5CACF61D57D62FABFC"><enum>(3)</enum><header>Inventory</header>
+						<subparagraph id="idA332AC80F81A4D7E806A1BB59D275AA6"><enum>(A)</enum><header>In
+ general</header><text>The Secretary shall—</text> <clause id="id6E763891498A4DE7826F83FF36CB0535"><enum>(i)</enum><text>prepare and maintain a publicly available inventory of abandoned hardrock minerals mines on Federal land, State land, other publicly owned land, private land, and any abandoned mine on Indian land that may be eligible for expenditures under this section; and</text>
+ </clause><clause id="id1BBB296C40A24128B2E141079E947896"><enum>(ii)</enum><text>submit to Congress an annual report that describes the progress in reclaiming the sites listed on the inventory.</text>
+							</clause></subparagraph><subparagraph id="idB471F34C23F04D26A24FF8DA438A63EA"><enum>(B)</enum><header>Maximum
+ expenditure</header><text>The Secretary shall expend not more than $5,000,000 to carry out the inventory required by this paragraph.</text>
+						</subparagraph></paragraph></subsection><subsection id="ID1da4b270a30f4c11b86a2a4b6792019e"><enum>(e)</enum><header>Grants to
+			 certain States</header>
+					<paragraph id="IDd35d06d37e0343b1810f3f935e726cb3"><enum>(1)</enum><header>In
+ general</header><text>The Secretary shall use amounts made available under subsection (b)(4) to make grants to States, other than abandoned hardrock mine States, to carry out reclamation and restoration of land and water resources adversely affected by past hardrock minerals and mining activities, including the conduct of activities described in subsection (a)(1).</text>
+ </paragraph><paragraph id="ID2568512fecc74d449518a00f184013ed"><enum>(2)</enum><header>Determination</header><text>Before awarding a grant under this subsection, the Secretary shall make a determination that there is no continuing reclamation responsibility of any person who abandoned the site before completion of required reclamation under Federal or State law.</text>
+ </paragraph><paragraph id="ID4f18a8c9ea0d4e79ae2e2a254e69553d"><enum>(3)</enum><header>Criteria</header><text>The Secretary shall establish by regulation the procedures and criteria for awarding grants under this subsection, which shall include—</text>
+ <subparagraph id="IDa0da5dd1fe8b40359ec4307428534086"><enum>(A)</enum><text>consistency with the priorities established under subsection (c)(1); and</text>
+ </subparagraph><subparagraph id="IDb61386ea9e9d45a9a5305c0977fd4910"><enum>(B)</enum><text>priority for those projects for which Federal funding is not available under other laws or programs.</text>
+						</subparagraph></paragraph></subsection><subsection commented="no" id="IDe6f831dabda044c1a6162ea4027dcaa0"><enum>(f)</enum><header>Grants to
+ public entities and nonprofit organizations</header><text display-inline="yes-display-inline">The Secretary shall use amounts made available under subsection (b)(5) to make grants to public entities (including State fish and game agencies and local governments) and nonprofit organizations (based on criteria established by the Secretary by regulation) to carry out activities that support collaborative restoration projects to improve fish and wildlife habitat affected by past hardrock minerals and mining activities, including activities that—</text>
+ <paragraph commented="no" id="id4B0B3803BC714864B90B48A32369156E"><enum>(1)</enum><text>improve water quality and quantity;</text>
+ </paragraph><paragraph commented="no" id="id90D61D2CA98D4B059999761ED86AAB1B"><enum>(2)</enum><text>restore watersheds in which historic mining dewatered or otherwise fragmented stream habitats;</text>
+ </paragraph><paragraph commented="no" id="id20E5BDCCAE5B47839B987082C9FC078E"><enum>(3)</enum><text>restore instream habitat conditions necessary to support aquatic species;</text>
+ </paragraph><paragraph commented="no" id="idD5333197024A43AA80956B9DF91B130B"><enum>(4)</enum><text>restore vegetative cover and streamside areas to control erosion and improve conditions for fish and wildlife;</text>
+ </paragraph><paragraph commented="no" id="id8C49FAC7E0F54B7C94332C36DDC2E2A6"><enum>(5)</enum><text>control and remove noxious weeds and invasive species associated with historic mining disturbances that affect fish and wildlife;</text>
+ </paragraph><paragraph commented="no" id="id6FCEB90D1DBC46DEAA69084C7C4664B3"><enum>(6)</enum><text>restore fish and wildlife habitat in cases in which previous hardrock minerals and mining activity limits fish and wildlife productivity;</text>
+ </paragraph><paragraph commented="no" id="id1E183C7069024A88BDD973A3FA9D47F7"><enum>(7)</enum><text>protect and restore fish and wildlife habitat in areas affected by historic minerals and mining activity; and</text>
+ </paragraph><paragraph commented="no" id="idC9A1BAE2B1C545E5B1BDDB5A39587E35"><enum>(8)</enum><text>mitigate impacts to watersheds affected by past hardrock minerals and mining activities.</text>
+					</paragraph></subsection><subsection id="id59C6EC08CE0E4654898CFF77C1B08471"><enum>(g)</enum><header>Response or
+			 removal actions</header>
+					<paragraph id="id9DED87993537415DA76C7F7E83559B21"><enum>(1)</enum><header>In
+ general</header><text>Reclamation and restoration activities conducted under this section that constitute a removal or remedial action under section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (<external-xref legal-doc="usc" parsable-cite="usc/42/9601">42 U.S.C. 9601</external-xref>) shall be conducted only with the concurrence of the Administrator of the Environmental Protection Agency.</text>
+					</paragraph><paragraph id="idC1D52AA10CEB4F0F98188C519F8B4D9F"><enum>(2)</enum><header>Memorandum of
+ understanding</header><text>The Secretary and the Administrator of the Environmental Protection Agency shall enter into a memorandum of understanding to establish procedures for consultation, concurrence, training, the exchange of technical expertise, and the conduct of joint activities, as appropriate, that provide assurances that reclamation or restoration activities under this section shall not be conducted in a manner that—</text>
+ <subparagraph id="id03594D5376EF41D298DE25D5FD7B4E91"><enum>(A)</enum><text>increases the costs or likelihood of removal or remedial actions under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (<external-xref legal-doc="usc" parsable-cite="usc/42/9601">42 U.S.C. 9601 et seq.</external-xref>); or</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idC9CD2A206E544C3AA78963E9AD8C9E95"><enum>(B)</enum><text>to the maximum extent practicable, avoids oversight by multiple agencies.</text>
+						</subparagraph></paragraph></subsection></section><section id="idE7DDCFD136A640C784227F2F43D2092E"><enum>403.</enum><header>Abandoned mine
+			 land reclamation fee</header>
+				<subsection id="ID2027c8bcf0ca4e8894fcb25d86d0af83"><enum>(a)</enum><header>Imposition of
+ fee</header><text>Each operator of a hardrock minerals mining operation shall pay to the Secretary, for deposit in the Fund, a reclamation fee in an amount established by the Secretary by regulation of not less than 0.6 percent, and not more than 2.0 percent, of the value of the production from the hardrock minerals mining operation for each calendar year.</text>
+				</subsection><subsection id="id1755CA40E0E443F2A9E42B6B581DF0E3"><enum>(b)</enum><header>Value of
+ production</header><text>For purposes of this section, the Secretary shall determine the value of production in the same manner as provided under section 201(a).</text>
+				</subsection><subsection id="ID9720dc3828974401bf916569182ee5d4"><enum>(c)</enum><header>Payment
+ deadline</header><text>The reclamation fee shall be paid not later than 60 days after the end of each calendar year beginning with the first calendar year occurring after the date of enactment of this Act.</text>
+				</subsection><subsection id="ID5fe12984f2ab482b91b81b4c6b635d6d"><enum>(d)</enum><header>Deposit of
+ revenues</header><text>Amounts received by the Secretary under subsection (a) shall be deposited into the Fund.</text>
+ </subsection><subsection id="IDe377a604b0364426941bb3677cfc2e19"><enum>(e)</enum><header>Effect</header><text>Nothing in this section requires a reduction in, or otherwise affects, any similar fee required under any law (including regulations) of any State.</text>
+				</subsection></section></title><title id="id8D0D8DB32FF64F64ADEFBF2E14ACEE9E"><enum>V</enum><header>Transition rules,
+			 administrative provisions, and miscellaneous provisions</header>
+			<section id="HC65341AC9DFA444EB5786FF0FC319448"><enum>501.</enum><header>Transition
+			 rules</header>
+				<subsection id="H7F703C9F0F12400DBBA40273C8EBDE9B"><enum>(a)</enum><header>Applicability</header>
+					<paragraph id="idA5272398D3D649DDB1A7E862754C6364"><enum>(1)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Except as provided in paragraph (2), section 201(b), and section 303(f), the requirements of this Act apply to any mining claim, millsite, or tunnel site located under the general mining laws, before, on, or after the date of enactment of this Act.</text>
+					</paragraph><paragraph id="H411625490BF24943A33BA673BDA0043C"><enum>(2)</enum><header>Preexisting
+ claim</header><text>If a plan of operations is approved or a notice of operations is filed for mineral activities on any claim or site referred to in paragraph (1) before the date of enactment of this Act—</text>
+ <subparagraph id="idADA263478EF647148197664EB9E9D6B5"><enum>(A)</enum><text>during the 10-year period beginning on the date of enactment of this Act—</text>
+ <clause id="idB443C60F6D2248D2B97D9454CF9DA87F"><enum>(i)</enum><text>mineral activities at the claim or site shall be subject to the plan of operations or notice of operations; and</text>
+ </clause><clause id="idA720F83792B840E3B53DCF6AA11F61DA"><enum>(ii)</enum><text>if the Secretary concerned determines that any modifications to the plan of operations are minor, modification may be made in accordance with the laws applicable before the date of enactment of this Act; and</text>
+ </clause></subparagraph><subparagraph id="id286ED147E31B4B8D86AD6FF43DD6E489"><enum>(B)</enum><text>the operator shall bring the mineral activities into compliance with this Act (including implementing regulations) by the end of the 10-year period beginning on the date of enactment of this Act.</text>
+ </subparagraph></paragraph><paragraph id="ID678a5ba0e5a24b42a2280eb5300ab340"><enum>(3)</enum><header>Fees</header><text>Except as provided in sections 201(b) and 303(f), all fees required to be paid under this Act shall apply beginning on the date of enactment of this Act to—</text>
+ <subparagraph id="idC82CF51888BA40EB854ECF98E756CA6F"><enum>(A)</enum><text>any mining claim, millsite, or tunnel site located under the general mining laws (including production from the claim or site) before, on, or after the date of enactment of this Act;</text>
+ </subparagraph><subparagraph id="idFCCD34DFF39449978930CE9D21B28FB9"><enum>(B)</enum><text>all land covered by a plan of operations or a notice of operations, exploration permit, or mining permit; and</text>
+ </subparagraph><subparagraph id="IDa5ad409c601e49ecad2d9847111544c2"><enum>(C)</enum><text>with respect to the fee established by section 403, any production on or after the date of enactment of this Act from any hardrock minerals mining operation.</text>
+						</subparagraph></paragraph></subsection><subsection id="idDEF97F61FFC44D8A91DAEBE3261AB166"><enum>(b)</enum><header>Application of
+			 Act to beneficiation and processing of non-Federal minerals on Federal
+			 land</header>
+					<paragraph id="id801435ADC609435F9522BA6DCB5526A1"><enum>(1)</enum><header>In
+ general</header><text>This Act (including the surface management and operation requirements of title III) shall apply in the same manner and to the same extent to mining claims, millsites, and tunnel sites used for beneficiation or processing activities for any mineral without regard to whether the legal and beneficial title to the mineral is held by the United States.</text>
+ </paragraph><paragraph id="idB3B974A372824F50A4421146F6698C8F"><enum>(2)</enum><header>Applicability</header><text>This subsection applies only to minerals that—</text>
+ <subparagraph id="idC642EE4F968D402688FFE54177C51C2B"><enum>(A)</enum><text>are locatable minerals; or</text>
+ </subparagraph><subparagraph id="id5957A63A57B5475AA21D193F7C404C97"><enum>(B)</enum><text>would be locatable minerals if the legal and beneficial title to the minerals were held by the United States.</text>
+						</subparagraph></paragraph></subsection></section><section commented="no" id="id6079309C417D45A7BD84391901BFEEC0"><enum>502.</enum><header>Enforcement</header>
+				<subsection commented="no" id="HF016B39EB5674AB6884D5FE6C7EE54A2"><enum>(a)</enum><header>Orders</header>
+					<paragraph commented="no" id="id47D723FCC5AF455DADA392AF87ECD0C7"><enum>(1)</enum><header>Notice of
+			 violation</header>
+						<subparagraph commented="no" id="idB54D0C7EA89F4AD39A6963920C94B3BA"><enum>(A)</enum><header>In
+ general</header><text>If the Secretary concerned determines that any person is in violation of any surface management or operation requirement under title III or any regulation promulgated to carry out such a requirement or any permit condition required pursuant to title III, the Secretary concerned shall provide to the person a notice that describes the violation and any necessary corrective actions.</text>
+						</subparagraph><subparagraph commented="no" id="id5BA154CD572E4FCE8DC3FEDFA0B9E22C"><enum>(B)</enum><header>Abatement
+			 period</header>
+							<clause commented="no" id="idDFBC8FF2943148EF84A3DA7CD09E69ED"><enum>(i)</enum><header>In
+ general</header><text>Subject to clause (ii), a person that receives notice under subparagraph (A) shall have not more than 90 days after the date of receipt of the notice to abate the violation.</text>
+ </clause><clause commented="no" id="id40AD605DBBF94D6EA1F8C0ED0839BCD7"><enum>(ii)</enum><header>Extension</header><text>The Secretary concerned may extend the period described in clause (i) if the person shows good cause for the extension, as determined by the Secretary concerned.</text>
+							</clause></subparagraph></paragraph><paragraph commented="no" id="id0FB5E26573EE44A6B025F4FCA5BC28C0"><enum>(2)</enum><header>Cessation
+			 order</header>
+						<subparagraph commented="no" id="id3C861E39D3074111B62CB798148654CC"><enum>(A)</enum><header>In
+ general</header><text>The Secretary concerned shall immediately order a cessation of mineral activities if the Secretary concerned determines that any condition or practice exists, or any person is in violation of any requirement of a permit approved, or notice of operations submitted, under this Act, that is causing, or can reasonably be expected to cause—</text>
+ <clause commented="no" id="id65ACA92C3F5D4B089C2A4C8A46280AC2"><enum>(i)</enum><text>an imminent danger to the health or safety of the public; or</text>
+ </clause><clause commented="no" id="idBC7D48130A8142DFA719B973224B7E9E"><enum>(ii)</enum><text>significant, imminent harm to land, air, water, or fish or wildlife resources.</text>
+							</clause></subparagraph><subparagraph commented="no" id="id244150A09D41488BA9124FDE9E295937"><enum>(B)</enum><header>Requirements</header>
+							<clause commented="no" id="id17A5E04BEF804199ACC38FD0EEBB6302"><enum>(i)</enum><header>In
+ general</header><text>A cessation order issued under subparagraph (A) shall remain in effect until the Secretary concerned—</text>
+ <subclause commented="no" id="idE00639F282D84988B14CEB5CB4C13B2C"><enum>(I)</enum><text>determines that the condition, practice, or violation has been abated; or</text>
+ </subclause><subclause commented="no" id="id74F6E483EBE34B1D92FE1C7FE7761CAB"><enum>(II)</enum><text>modifies, vacates, or terminates the cessation order.</text>
+ </subclause></clause><clause commented="no" id="idC4EC23E9858C4A68941C904B19422E33"><enum>(ii)</enum><header>Abatement</header><text>In any cessation order issued under subparagraph (A), the Secretary concerned shall—</text>
+ <subclause commented="no" id="idF55CF772BCE647C9BCC6551037B20765"><enum>(I)</enum><text>identify the steps necessary to abate the violation in the most expeditious manner practicable; and</text>
+ </subclause><subclause commented="no" id="id33EC5F0234A6457B967675D7B59ED781"><enum>(II)</enum><text>require appropriate financial assurances to ensure that the abatement obligations are met.</text>
+								</subclause></clause></subparagraph><subparagraph commented="no" id="idC36C44B2E01A4364AD181C7ABFBE2047"><enum>(C)</enum><header>Enforcement</header>
+							<clause commented="no" id="idBBA2669ECF8D47819BBDDE39036A2735"><enum>(i)</enum><header>In
+ general</header><text>If the required abatement has not been completed by the date that is 30 days after the date on which an order is issued under subparagraph (A), the Secretary concerned shall bring against the person failing to complete the abatement an enforcement action that is most likely to bring about abatement in the most expeditious manner practicable, including seeking appropriate injunctive relief to bring about abatement.</text>
+ </clause><clause commented="no" display-inline="no-display-inline" id="id834D5A575F4A44F9979F789EDCE34821"><enum>(ii)</enum><header>Effect</header><text>Nothing in this subparagraph precludes the Secretary concerned from taking alternative enforcement action before the date described in clause (i).</text>
+ </clause></subparagraph></paragraph><paragraph commented="no" id="idA2838D4506FC43989A0E461E49010D6F"><enum>(3)</enum><header>Modifications</header><text>The Secretary concerned may modify, vacate, or terminate any notice or order issued under paragraph (1) or (2).</text>
+					</paragraph><paragraph commented="no" id="id7D9EFFA14AD14224858B8226ED17A5D9"><enum>(4)</enum><header>Forfeiture</header>
+						<subparagraph commented="no" id="idD77CAA74F20A40629876EFF4A18417DC"><enum>(A)</enum><header>In
+ general</header><text>If a person fails to abate a violation or defaults on the terms of the permit, the Secretary concerned shall forfeit the financial assurance for the permit as necessary to ensure abatement and reclamation under this Act.</text>
+ </subparagraph><subparagraph commented="no" id="id39AFE547BD224E298482C7300EED8FD9"><enum>(B)</enum><header>Alternatives</header><text>The Secretary concerned may prescribe conditions under which a surety may perform reclamation in accordance with the approved permit and applicable law instead of forfeiture.</text>
+ </subparagraph><subparagraph commented="no" id="idBF9A245758D54AC1A9DA227F58C79542"><enum>(C)</enum><header>Liability</header><text>In the event of forfeiture, the claim holder or operator, or a subsidiary, parent company, corporation, or partner of the claim holder, or operator shall be jointly and severally liable for any remaining reclamation obligations under this Act.</text>
+						</subparagraph></paragraph></subsection><subsection commented="no" id="id20AAC6712BBA4BDE99876509583BB73B"><enum>(b)</enum><header>Civil
+			 penalties</header>
+					<paragraph id="ID47e980ba66c4490aaf0406559042d732"><enum>(1)</enum><header>In
+ general</header><text>Subject to paragraph (2), any person that violates any surface management or operation requirement under title III, any regulation promulgated to carry out such a requirement, or any permit condition required pursuant to title III may be assessed a civil penalty by the Secretary concerned.</text>
+					</paragraph><paragraph id="id9BCCA6175ACE43D4999489B50828F858"><enum>(2)</enum><header>Cessation
+ order</header><text>If the violation leads to the issuance of a cessation order under subsection (a)(2), the Secretary concerned shall assess the civil penalty.</text>
+					</paragraph><paragraph id="id0CFAF80F353E4AE88BF03094E6F70E12"><enum>(3)</enum><header>Maximum
+ amount</header><text>The penalty shall not exceed $5,000 for each violation.</text>
+					</paragraph><paragraph id="id1AFA536BAD9541F9BF1608EEF4E08840"><enum>(4)</enum><header>Continuing
+ violations</header><text>Each day of continuing violation may be considered a separate violation for purposes of penalty assessments.</text>
+					</paragraph><paragraph id="id64E5F9C365A2415E82F1088667535102"><enum>(5)</enum><header>Factors
+ affecting amount</header><text>In determining the amount of the penalty for a violation by a person, the Secretary concerned shall consider—</text>
+ <subparagraph id="id748191C2D7BE44BEB54E3B812FD0BCAA"><enum>(A)</enum><text>the history of the person of previous violations;</text>
+ </subparagraph><subparagraph id="id9EDDF6B1EA8144D8B956C732A53C86D4"><enum>(B)</enum><text>the seriousness of the violation, including any irreparable harm to the environment and any hazard to the health or safety of the public;</text>
+ </subparagraph><subparagraph id="id576B6F02E3C74682A82056EC9DC3105D"><enum>(C)</enum><text>whether the person was negligent; and</text>
+ </subparagraph><subparagraph id="id5D5031AEE76C4779A3946071DEF1DBEC"><enum>(D)</enum><text>the demonstrated good faith of the person charged in attempting to achieve rapid compliance after notification of the violation.</text>
+						</subparagraph></paragraph><paragraph id="ID8083f408b32d43149045102184e58594"><enum>(6)</enum><header>Corporate
+ liability</header><text>If a corporate permittee is in violation of a requirement of any surface management or operations requirement under title III of this Act, any regulation promulgated to carry out such a requirement, or any permit condition required pursuant to title III, or fails or refuses to comply with a notice or an order issued under subsection (a), any director, officer, or agent of the corporation who willfully and knowingly authorized, ordered, or carried out the violation, failure, or refusal shall be subject to civil penalties, fines, and imprisonment that may be imposed under a person under this subsection, subsection (d) or (e).</text>
+					</paragraph></subsection><subsection id="ID3db9da2e66ba4bf285fc1a2a49262ef9"><enum>(c)</enum><header>Administrative
+			 review</header>
+					<paragraph id="IDe78c390c805241b093c7d138025cd43f"><enum>(1)</enum><header>Compliance
+ order</header><text>Any person issued a notice of violation or a cessation order under subsection (a) may apply to the Secretary concerned for review of the notice or order by the date that is not later than 30 days after receipt of the notice or order.</text>
+					</paragraph><paragraph id="IDd62a4f749d1d4c5ba6c620b448a86fc8"><enum>(2)</enum><header>Civil
+ penalty</header><text>Any person who is subject to a civil penalty assessed by the Secretary concerned under this section may apply to the Secretary concerned for review of the penalty by the date that is not later than 30 days after the date on which the person receives notice of the penalty.</text>
+ </paragraph><paragraph id="ID3c3c45607dba414aadc0f7a1248f18b0"><enum>(3)</enum><header>Hearing</header><text>The Secretary concerned shall provide an opportunity for a hearing on the record subject to section 554 of title 5, United States Code, at the request of any person that is—</text>
+ <subparagraph id="idED6DD7D3EC1B45C5A9189B9F9A4F0219"><enum>(A)</enum><text>issued a notice of violation under subsection (a)(1);</text>
+ </subparagraph><subparagraph id="idCE7A7BD30CC846B7BB1C063E7EA0C856"><enum>(B)</enum><text>issued a cessation order under subsection (a)(2); or</text>
+ </subparagraph><subparagraph id="idB68DDA62E45942F1877609EC4CCDAA90"><enum>(C)</enum><text>subject to civil penalties under subsection (b).</text>
+						</subparagraph></paragraph></subsection><subsection commented="no" id="id1DEDAF3FA46643FF80D8C78B543F2569"><enum>(d)</enum><header>Civil
+			 action</header>
+					<paragraph commented="no" id="idF1A993355D3444BF99526C290A6B5B88"><enum>(1)</enum><header>In
+ general</header><text>The Secretary concerned may submit to the Attorney General a request to bring a civil action for relief, including a permanent or temporary injunction or restraining order and the imposition of civil penalties, in any appropriate district court of the United States, if a person—</text>
+ <subparagraph commented="no" id="idF3A73DB8545746EF9AC73207978A2A7F"><enum>(A)</enum><text>violates, fails, or refuses to comply with any notice or order issued by the Secretary concerned under subsection (a); or</text>
+ </subparagraph><subparagraph commented="no" id="idEAF1DDFEC0D04A1F999B314912896523"><enum>(B)</enum><text>interferes with, hinders, or delays the Secretary concerned in carrying out an inspection under section 309.</text>
+						</subparagraph></paragraph><paragraph commented="no" id="idBB2B9FB34398409FA54650744A924A1E"><enum>(2)</enum><header>Relief</header>
+						<subparagraph commented="no" id="id714545EE730240E89B970AFA20C1930C"><enum>(A)</enum><header>In
+ general</header><text>The court hearing a civil action brought under paragraph (1) shall have the jurisdiction to provide any relief that the court determines to be appropriate.</text>
+ </subparagraph><subparagraph commented="no" id="id65BE2E5329A1435FA6AD732825A764FE"><enum>(B)</enum><header>Review</header><text>Any relief granted by the court to enforce an order under paragraph (1) shall continue in effect until the date on which all proceedings for review of the order are completed or terminated unless the court granting the relief sets the relief aside.</text>
+						</subparagraph></paragraph></subsection><subsection commented="no" id="id854C1C0A2741461AA45007A5260B5E74"><enum>(e)</enum><header>Criminal
+			 penalties</header>
+					<paragraph commented="no" id="id1BEAF8FF12B646A3BDEC696826C30713"><enum>(1)</enum><header>False
+			 statements; tampering</header>
+						<subparagraph commented="no" id="id84FE0947642740358A3B3E80EA59CC50"><enum>(A)</enum><header>In
+ general</header><text>A person shall, on conviction, be punished by a fine of not more than $25,000, imprisonment for not more than 1 year, or fine and imprisonment if the person willfully and knowingly—</text>
+ <clause commented="no" id="id6EA27CA6A3D94E1D8AE8D9DA79E5E33C"><enum>(i)</enum><text>makes any false material statement, representation, or certification in, omits or conceals material information from, or unlawfully alters, any mining claim, notice of location, application, record, report, plan, or other document filed or required to be maintained under this Act; or</text>
+ </clause><clause commented="no" id="idD4798073C85A407C95406891F65C5FA3"><enum>(ii)</enum><text>falsifies, tampers with, renders inaccurate, or fails to install any monitoring device or method required to be maintained under this Act.</text>
+							</clause></subparagraph><subparagraph commented="no" id="id6E284E38599943DBB2FFCDD6C4ADFAD8"><enum>(B)</enum><header>Second
+ violation</header><text>If a conviction of a person under subparagraph (A) is for a violation committed after a first conviction of the person under that subparagraph, punishment shall be by a fine of not more than $50,000, imprisonment of not more than 2 years, or fine and imprisonment.</text>
+						</subparagraph></paragraph><paragraph commented="no" id="id3D6669081682475A903DCDA7E0753EA2"><enum>(2)</enum><header>Knowing
+			 violations</header>
+						<subparagraph commented="no" id="idD6C609BAEE324AE9B9C0AC9DAF56D676"><enum>(A)</enum><header>In
+ general</header><text>A person shall, on conviction, be punished by a fine of not more than $25,000, imprisonment for not more than 1 year, or both if the person willfully and knowingly—</text>
+ <clause commented="no" id="idB79086FA88D449D8BABD388BE8906589"><enum>(i)</enum><text>engages in mineral activities without a permit if required under section 302 or 303; or</text>
+ </clause><clause commented="no" id="id2D51FFF1ED6745CDB6CD6F6EBEE0C5CE"><enum>(ii)</enum><text>violates any surface management or operation requirement under title III (including any regulation promulgated to carry out the requirement) or any requirement, condition, or limitation of a permit issued under this Act.</text>
+							</clause></subparagraph><subparagraph commented="no" id="id938B6F4594874FB19F13F7111EBD14E2"><enum>(B)</enum><header>Second
+ violation</header><text>If a conviction of a person under subparagraph (A) is for a violation committed after the first conviction of the person under that subparagraph, punishment shall be a fine of not more than $50,000, imprisonment of not more than 2 years, or both.</text>
+ </subparagraph></paragraph></subsection><subsection commented="no" id="HCF1E100411AF4C559B68CA23CD009EB2"><enum>(f)</enum><header>Delegation</header><text>Notwithstanding any other provision of law, the Secretary may use personnel of the Office of Surface Mining Reclamation and Enforcement or the Bureau of Land Management to ensure compliance with this Act.</text>
+					<pagebreak></pagebreak></subsection></section><section commented="no" id="idBEF951E21F7D47459BA6075AAD299307"><enum>503.</enum><header>Judicial
+			 review</header>
+				<subsection commented="no" id="id70AA775808434353AC80FE1BCE0154E4"><enum>(a)</enum><header>Rulemaking</header>
+					<paragraph commented="no" id="id88AD0FF8886A42A7AC898DABB65C527A"><enum>(1)</enum><header>In
+ general</header><text>The following shall be subject to judicial review only in the United States Court of Appeals for the District of Columbia:</text>
+ <subparagraph commented="no" id="id9953A9178114426AA2A8A41E7B89E51B"><enum>(A)</enum><text>Any final action by the Secretary concerned in promulgating regulations to carry out this Act.</text>
+ </subparagraph><subparagraph commented="no" id="id8DD3319281F14CA887EAB1843CE95635"><enum>(B)</enum><text>Any other final actions considered to be a rulemaking to carry out this Act.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="id31F4564338E64A779BB2B2B6E2B1ED5B"><enum>(2)</enum><header>Deadline</header><text>A petition for review of any action subject to judicial review under paragraph (1) shall be filed not later than 60 days after the date of the action unless the petition is based solely on grounds arising after the 60-day period.</text>
+					</paragraph></subsection><subsection commented="no" id="id8703CDF315CA474BB9A2B4262D9A0FCD"><enum>(b)</enum><header>Final agency
+ action</header><text display-inline="yes-display-inline">Except as provided in subsection (a), final agency action under this Act shall be subject to judicial review in the district courts of the United States in accordance with section 1391 of title 28, United States Code.</text>
+				</subsection></section><section commented="no" id="idE4410138A24D43D48787D5B8AA45763B"><enum>504.</enum><header>Uncommon
+			 varieties</header>
+ <subsection id="HBE522FB82D1A4D75923E9CA2CD767CDC"><enum>(a)</enum><header>Determinations</header><text>Section 3 of the Act of July 23, 1955 (<external-xref legal-doc="usc" parsable-cite="usc/30/611">30 U.S.C. 611</external-xref>), is amended—</text>
+ <paragraph id="H3679A33B68554A3595CFA9D9D8D0004E"><enum>(1)</enum><text>by striking <quote><header-in-text level="section" other-style="traditional-inline" style="other">Sec.</header-in-text> 3. No deposit</quote> and inserting the following:</text>
+						<quoted-block display-inline="no-display-inline" id="idB318290AFE6B4B898580C3FA9D1CE91B" style="OLC">
+							<section id="idBC7B6865FCA340DFB63A1A78FA295092"><enum>3.</enum><header>Common varieties
+				of mineral materials</header>
+								<subsection id="id0950E39CBF9E44DD952D7059F46F223D"><enum>(a)</enum><header>In
+ general</header><text>No deposit</text></subsection></section><after-quoted-block>;</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H9D9AD07F5AC749B396FA8C9E9945724F"><enum>(2)</enum><text>in the first sentence—</text>
+ <subparagraph id="id6457FC51C6CA437FBECDFB4033402BA0"><enum>(A)</enum><text>by inserting <quote>mineral materials, including</quote> after <quote>varieties of</quote>; and</text>
+ </subparagraph><subparagraph id="H7503CC4E5A114919A9208C54FE60003E"><enum>(B)</enum><text>by striking <quote>or cinders</quote> and inserting <quote>cinders, and clay</quote>;</text>
+ </subparagraph></paragraph><paragraph id="id9881C37361AD4491B9E9F8F57873746D"><enum>(3)</enum><text>by striking <quote><term>Common varieties</term> as used in this Act does not</quote> and inserting the following:</text>
+						<quoted-block display-inline="no-display-inline" id="id1E5F023C331C4AD8B8A47CE96D598F09" style="OLC">
+ <subsection id="id2750F8D6D8874F848F8D1C51B0643979"><enum>(c)</enum><header>Definitions</header><text>In this Act:</text>
+								<paragraph id="idE527C008513148D49468617A534B33D0"><enum>(1)</enum><header>Common
+ varieties</header><text>The term <term>common varieties</term> does not</text></paragraph></subsection><after-quoted-block>;</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="id5B869D37E9454D4DB73DF0FD3CE45A9B"><enum>(4)</enum><text>by striking <quote><term>Petrified wood</term> as used in this Act means</quote> and inserting the following:</text>
+						<quoted-block display-inline="no-display-inline" id="id99B9BCE97EF64CA89BEC3AD1FB686FE6" style="OLC">
+							<paragraph id="id48C4CA4226BC47DE8B16C126CC74425E"><enum>(2)</enum><header>Petrified
+ wood</header><text>The term <term>petrified wood</term> means</text></paragraph><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H07AEA545D8424F68A691E8ED5296121C"><enum>(5)</enum><text>by inserting after subsection (a) the following:</text>
+						<quoted-block display-inline="no-display-inline" id="idF3E95F198DD34AC2AEDD670ADB45DE44" style="OLC">
+							<subsection id="id919933FF295A43FDB5ACFD691D1CD56F"><enum>(b)</enum><header>Disposal of
+				mineral materials</header>
+								<paragraph id="H43CE68FC066B4A96ADE8F087B6980906"><enum>(1)</enum><header>Definition of
+ valid existing rights</header><text>In this subsection, the term <term>valid existing rights</term> means rights to a mining claim located for any mineral material that—</text>
+ <subparagraph id="HFE4ABF01E56B4657B1B581E500122969"><enum>(A)</enum><text>had and still has some property giving mineral material the distinct and special value referred to in this section or, as the case may be, met the definition of block pumice referred to in subsection (c)(1);</text>
+ </subparagraph><subparagraph id="H345BC5B672F349719BB4B6C7B117BF49"><enum>(B)</enum><text>was properly located and maintained under the general mining laws prior to the date of enactment of this subsection;</text>
+ </subparagraph><subparagraph id="H10AEC0343C874EFEA9C96B4FCEE5A2CB"><enum>(C)</enum><text>was supported by a discovery of a valuable mineral deposit within the meaning of the general mining laws as in effect immediately prior to the date of enactment of this subsection; and</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H91A55CA86F084FDCA6F7DA439974961"><enum>(D)</enum><text>continues to be valid under this Act.</text>
+ </subparagraph></paragraph><paragraph id="id274238B07DBD49DBA67E64D29FB7E43B"><enum>(2)</enum><header>Disposal</header><text>Subject to valid existing rights, effective beginning on the date of enactment of this subsection, notwithstanding the references to the term common varieties in this section and to the exception to the term relating to a deposit of materials with some property giving it distinct and special value, all deposits of mineral materials referred to in this section (including the block pumice referred to in subsection (c)(1)) shall be subject to disposal only under the terms and conditions of the Act of July 31, 1947 (commonly known as the <quote>Materials Act of 1947</quote>) (<external-xref legal-doc="usc" parsable-cite="usc/30/601">30 U.S.C. 601 et seq.</external-xref>).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="HAA20A117B8A2483E9DBB161CB5AD7DA9"><enum>(b)</enum><header>Conforming
+ amendment</header><text display-inline="yes-display-inline">The first section of the Act of July 31, 1947 (commonly known as the <quote>Materials Act of 1947</quote>) (<external-xref legal-doc="usc" parsable-cite="usc/30/601">30 U.S.C. 601</external-xref>), is amended in the first sentence by striking <quote>common varieties of</quote>.</text>
+				</subsection></section><section id="id6489B698CA3844E19EA03E687EC05985"><enum>505.</enum><header>Review of
+			 uranium development on Federal land</header>
+				<subsection id="id319DAFCAA25E4019AE4DDBFF860DBF99"><enum>(a)</enum><header>Definition of
+ Federal land</header><text>In this section, the term <term>Federal land</term> means land administered by the Secretary or the Secretary of Agriculture.</text>
+				</subsection><subsection id="IDcb2b76ef629c4d87a7d3c64364c1e4d2"><enum>(b)</enum><header>Review</header>
+					<paragraph id="ID3323f9f3c9bd41658f065d4f0ffd5767"><enum>(1)</enum><header>In
+ general</header><text>Not later than 90 days after the date of enactment of this Act, the Secretary, in consultation with the Secretary of Agriculture, shall enter into an arrangement under which the National Academy of Sciences shall conduct a study of uranium development on Federal land.</text>
+					</paragraph><paragraph id="IDd53ba163203e45eaafd9796139d6a4b1"><enum>(2)</enum><header>Matters to be
+ addressed</header><text>The study shall describe and analyze—</text> <subparagraph id="ID3e114969c3034999bddee2a90312ad58"><enum>(A)</enum><text>the laws applicable to the development of uranium on Federal land and the agencies responsible for administering and enforcing those laws;</text>
+ </subparagraph><subparagraph id="IDd22b2ab16f67484a9d48a871471aae5e"><enum>(B)</enum><text>the requirements relating to the development of uranium under sections 2318 through 2352 of the Revised Statutes (commonly known and referred to in this section as the <quote>Mining Law of 1872</quote>) (<external-xref legal-doc="usc" parsable-cite="usc/30/21">30 U.S.C. 21 et seq.</external-xref>);</text>
+ </subparagraph><subparagraph id="ID84eb76b997e645d4a3c029659045656f"><enum>(C)</enum><text>the requirements relating to the development of uranium under the <act-name parsable-cite="AEA54">Atomic Energy Act of 1954</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/2011">42 U.S.C. 2011 et seq.</external-xref>);</text>
+ </subparagraph><subparagraph id="IDd0a896e149634ca4b674202143987e0e"><enum>(D)</enum><text>the uranium leasing program administered by the Department of Energy under that Act;</text>
+ </subparagraph><subparagraph id="ID281a8ef6351a484683277e0e857ffce1"><enum>(E)</enum><text>the requirements relating to the approval of uranium in-situ leasing recovery and the licensing process required by the Nuclear Regulatory Commission;</text>
+ </subparagraph><subparagraph id="IDcdae1a4888a240f29a5eaf815d4c95ed"><enum>(F)</enum><text>the efficacy of bonds or other forms of financial surety in ensuring the reclamation of Federal land and associated waters impacted by the development of uranium; and</text>
+ </subparagraph><subparagraph id="ID0a321dc60a70426d8bf9c4a9b1dcf9e1"><enum>(G)</enum><text>the efficacy of Federal law in protecting public health and safety and the environment from impacts due to the development of uranium on Federal land.</text>
+ </subparagraph></paragraph></subsection><subsection id="ID8c89d688161b42d4b8fea2c17aceb6b0"><enum>(c)</enum><header>Recommendations</header><text>The study shall—</text>
+ <paragraph id="ID415f5b006c204c34bb30c8cf9bd1209f"><enum>(1)</enum><text>analyze the effectiveness of current Federal requirements applicable to the exploration, development, and production of uranium on Federal land in allowing for the production of uranium while ensuring protection of public health and safety and the environment; and</text>
+ </paragraph><paragraph id="ID79d8afd0736b41ea99cb9895cbe74f2d"><enum>(2)</enum><text>make recommendations as to changes, if any, to Federal law (including regulations) and agency procedures relating to the development of uranium resources on Federal land to allow for the production of uranium while ensuring protection of public health and safety and the environment, including specific recommendations on whether—</text>
+ <subparagraph id="ID0c5cad91329441789fb7506dc1d2d9f8"><enum>(A)</enum><text>future development of uranium on Federal land should be—</text>
+ <clause id="id12C7DC77933D46B7868D5479988D615E"><enum>(i)</enum><text>removed from operation of the Mining Law of 1872; and</text>
+ </clause><clause id="id1629C60C8A3B407187EEC68D2FF9FED8"><enum>(ii)</enum><text>subject to leasing;</text>
+ </clause></subparagraph><subparagraph id="ID6b836b264b7c406aacbae30924deb0b3"><enum>(B)</enum><text>additional requirements (including additional financial assurances or fees) should be applicable to ensure reclamation of uranium mine sites, including abandoned uranium mine sites; and</text>
+ </subparagraph><subparagraph id="ID038a2fefd07b4f99a2b1479d9b83a0f3"><enum>(C)</enum><text>whether additional land should be withdrawn from location and entry of uranium mining claims by the Secretary.</text>
+						</subparagraph></paragraph></subsection><subsection id="ID4e8a0b06ed6045c1b1b0cba7ca0a3363"><enum>(d)</enum><header>Completion of
+ study</header><text>The National Academy of Sciences shall—</text> <paragraph id="IDafdc0c05ef8a423bab5ef663ccec0461"><enum>(1)</enum><text>not later than 18 months after the date of enactment of this Act, submit the findings and recommendations of the study to the Secretary and the Secretary of Agriculture; and</text>
+ </paragraph><paragraph id="IDab70b94ebfd244aeac9e87e774e7b2a3"><enum>(2)</enum><text>on completion of the study, make the results of the study available to the public.</text>
+ </paragraph></subsection><subsection id="ID3f5b3f9ddc464264826d68e83dbcef14"><enum>(e)</enum><header>Report</header><text>Not later than 180 days after receiving the results of the study, the Secretary, in consultation with the Secretary of Agriculture, shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report on—</text>
+ <paragraph id="ID6f0e545d4c504cc1ab151c9b780a2247"><enum>(1)</enum><text>the findings and recommendations of the study;</text>
+ </paragraph><paragraph id="ID2532f5885b4a4381b6746231aa1c7309"><enum>(2)</enum><text>the agreement or disagreement of the Secretaries with each of the findings and recommendations of the study; and</text>
+ </paragraph><paragraph id="ID0687d242b33a46b58b0c6f11a0dbda31"><enum>(3)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="id274780F223814ACAB675D2CBC052F27C"><enum>(A)</enum><text>a plan and timeframe for implementing those recommendations of the study that do not require legislation; or</text>
+ </subparagraph><subparagraph id="id7FCE6F9C1350411F800A045781E5D261" indent="up1"><enum>(B)</enum><text>if the Secretary declines to implement a recommendation, the justification for declining to implement the recommendation.</text>
+						</subparagraph></paragraph></subsection></section><section id="id62147163D1AE4F5BB3AE6872892C3521"><enum>506.</enum><header>Effect</header>
+				<subsection id="idBACA960836D14B308F2720CB51939353"><enum>(a)</enum><header>Special
+			 application of general mining laws</header>
+					<paragraph id="id8374587945BD4C17B4BFDFF12C2EF1DA"><enum>(1)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Nothing in this Act repeals or modifies any Federal law (including regulations), order, or land use plan in effect before the date of enactment of this Act that prohibits or restricts the application of the general mining laws, including laws that provide for special management criteria for operations under the general mining laws as in effect before the date of enactment of this Act, and laws that provide protections of natural and cultural resources and the environment that are equal to or greater than the protections required under this Act.</text>
+					</paragraph><paragraph id="id04F99EF465E544629713142C4243C0E5"><enum>(2)</enum><header>Existing
+ laws</header><text display-inline="yes-display-inline">Any law described in paragraph (1) shall remain in force and effect with respect to claims and sites located or proposed to be located under this Act.</text>
+					</paragraph><paragraph id="id0F727B8017C0479884D5D7DBFC4E5598"><enum>(3)</enum><header>Mineral
+ investigations</header><text display-inline="yes-display-inline">Nothing in this Act applies to or limits mineral investigations, studies, or other mineral activities conducted by any Federal or State agency acting in a governmental capacity under other authorities.</text>
+					</paragraph></subsection><subsection id="idB74ADAE9EA9A4273B83E2E15A023BA5E"><enum>(b)</enum><header>Environmental
+ laws</header><text display-inline="yes-display-inline">Nothing in this Act affects or limits any assessment, investigation, evaluation, or listing under—</text>
+ <paragraph id="id45D78AE4791845EAAAE4D1BD116D93E0"><enum>(1)</enum><text display-inline="yes-display-inline">the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (<external-xref legal-doc="usc" parsable-cite="usc/42/9601">42 U.S.C. 9601 et seq.</external-xref>); or</text>
+ </paragraph><paragraph id="id1EF44AE5D99B453CA39E223EAA9EAC84"><enum>(2)</enum><text display-inline="yes-display-inline">the Solid Waste Disposal Act (<external-xref legal-doc="usc" parsable-cite="usc/42/3251">42 U.S.C. 3251 et seq.</external-xref>).</text>
+					</paragraph></subsection><subsection id="H4C0707055C12446B918E1900C549A682"><enum>(c)</enum><header>Effect on
+			 general mining laws</header>
+					<paragraph id="id99B4D40C736F42FF8AC27D6B27AAB6FE"><enum>(1)</enum><header>In
+ general</header><text>This Act supersedes the general mining laws, except for the provisions of the general mining laws relating to the location of mining claims that are not expressly modified by this Act.</text>
+ </paragraph><paragraph id="id4B37DA71627C4F3AAD796353DA038993"><enum>(2)</enum><header>Limitation</header><text>Nothing in this Act supersedes, modifies, amends, or repeals any provision of Federal law not expressly superseded, modified, amended, or repealed by this Act, other than the general mining laws.</text>
+					</paragraph></subsection></section></title></legis-body></bill>
+
+

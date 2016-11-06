@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC738D138095B4151A5D56DF2A8844143" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3305 IH: EINSTEIN Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3305</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150729">July 29, 2015</action-date>
+			<action-desc><sponsor name-id="H001073">Mr. Hurd of Texas</sponsor> (for himself, <cosponsor name-id="M001157">Mr. McCaul</cosponsor>, and <cosponsor name-id="R000601">Mr. Ratcliffe</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name>, and in addition to the Committee on <committee-name committee-id="HHM00">Homeland Security</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To help enhance American network security and mitigate cybersecurity risks, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HD12FC2052051482880DE872E54013A41" style="OLC">
+ <section id="H379B09F934D84900A869D1F01DA66856" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>EINSTEIN Act of 2015</short-title></quote>.</text> </section><section id="H28D7994BB5A345CAB51F668E05FD97B3"><enum>2.</enum><header>Protection of Federal civilian information systems</header> <subsection id="H21087CC0E8254CA08AE7EC9216D11D93"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subtitle C of title II of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/141">6 U.S.C. 141 et seq.</external-xref>) is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="H7C961FE0DC86426BA3D0AA4BBB213467" style="OLC">
+					<section id="H8FB7608763854B9FBD396F16C48A650F"><enum>230.</enum><header>Available protection of Federal civilian information systems</header>
+ <subsection id="H12006A25BB90458F9D5517AB9DBBF991"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary shall deploy, operate, and maintain, to make available for use by any Federal agency, with or without reimbursement, capabilities to protect Federal agency information and Federal civilian information systems, including technologies to diagnose, detect, prevent, and mitigate against cybersecurity risks involving Federal agency information or Federal civilian information systems.</text>
+ </subsection><subsection id="HC2907D7D84B5479998FEB86E4A669932"><enum>(b)</enum><header>Activities</header><text>In carrying out this section, the Secretary may—</text> <paragraph id="HBA118135F262436E9677422D17199A1D"><enum>(1)</enum><text>access, and Federal agency heads may disclose to the Secretary or a private entity providing assistance to the Secretary under paragraph (2), information traveling to or from or stored on a Federal civilian information system, regardless of from where the Secretary or a private entity providing assistance to the Secretary under paragraph (2) accesses such information, notwithstanding any other provision of law that would otherwise restrict or prevent Federal agency heads from disclosing such information to the Secretary or a private entity providing assistance to the Secretary under paragraph (2);</text>
+ </paragraph><paragraph id="H49028863B9BF47E894F90B7702101D75"><enum>(2)</enum><text>enter into contracts or other agreements, or otherwise request and obtain the assistance of, private entities to deploy, operate, and maintain technologies in accordance with subsection (a); and</text>
+ </paragraph><paragraph id="HC97446B4944E4D1FA2F170FED7C318EC"><enum>(3)</enum><text display-inline="yes-display-inline">retain, use, and disclose information obtained through the conduct of activities authorized under this section only to protect Federal agency information and Federal civilian information systems from cybersecurity risks or in furtherance of the national cybersecurity and communications integration center’s authority under the second section 226, or, with the approval of the Attorney General and if disclosure of such information is not otherwise prohibited by law, to law enforcement only to investigate, prosecute, disrupt, or otherwise respond to—</text>
+ <subparagraph id="HB211078BCCC8426B8613938F67959585"><enum>(A)</enum><text>a violation of section 1030 of title 18, United States Code;</text> </subparagraph><subparagraph id="H0A7E7FF444B44016B80A6AFB93BBBAC7"><enum>(B)</enum><text>an imminent threat of death or serious bodily harm;</text>
+ </subparagraph><subparagraph id="H16503C4507A34497910A05FEDCC8C83F"><enum>(C)</enum><text>a serious threat to a minor, including sexual exploitation or threats to physical safety; or</text> </subparagraph><subparagraph id="H51D1CE4FD9DB4CCBAE22CEC771B39464"><enum>(D)</enum><text>an attempt, or conspiracy, to commit an offense described in any of subparagraphs (A) through (C).</text>
+ </subparagraph></paragraph></subsection><subsection id="H6B106C359ABA43758A75DB05CC823DDC"><enum>(c)</enum><header>Conditions</header><text>Contracts or other agreements under subsection (b)(2) shall include appropriate provisions barring—</text> <paragraph id="H31612EFDDE8D4490B0265609F119D7FD"><enum>(1)</enum><text display-inline="yes-display-inline">the disclosure of information to any entity other than the Department or a Federal agency disclosing information in accordance with subsection (b)(1) that can be used to identify specific persons and is reasonably believed to be unrelated to a cybersecurity risk; and</text>
+ </paragraph><paragraph id="H025B68593EB14894B9383C6313BF8500"><enum>(2)</enum><text>the use of any information to which such private entity gains access in accordance with this section for any purpose other than to protect Federal agency information and Federal civilian information systems against cybersecurity risks or to administer any such contract or other agreement.</text>
+ </paragraph></subsection><subsection id="H5B499B76982840E888FD12AC0BF706BB"><enum>(d)</enum><header>Limitation</header><text display-inline="yes-display-inline">No cause of action shall lie in any court against a private entity for assistance provided to the Secretary in accordance with this section and a contract or agreement under subsection (b)(2).</text>
+ </subsection><subsection id="HB353F4BFB5D444398C37E291CD5138B1"><enum>(e)</enum><header>Definition</header><text>The term <quote>cybersecurity risk</quote> has the meaning given such term in the second section 226 (relating to the national cybersecurity and communications integration center).</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H78260DB8FEE34CBB87EECFC39CFB9A11"><enum>(b)</enum><header>Definitions</header><text>Paragraphs (1) and (2) of the second section 226 of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/148">6 U.S.C. 148</external-xref>; relating to the national cybersecurity and communications integration center) are amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="HDFB389783E80413488E79CA8220AB68E" style="OLC">
+					<paragraph id="H13D800A0416D4C1E84E35C0B2935D205"><enum>(1)</enum>
+ <subparagraph commented="no" display-inline="yes-display-inline" id="H54209F1E43744598A3CEE8492FB31A4B"><enum>(A)</enum><text>except as provided in subparagraph (B), the term <quote>cybersecurity risk</quote> means threats to and vulnerabilities of information or information systems and any related consequences caused by or resulting from unauthorized access, use, disclosure, degradation, disruption, modification, or destruction of such information or information systems, including such related consequences caused by an act of terrorism; and</text>
+ </subparagraph><subparagraph id="H28EFA0561EC84AE2A3D8EB282ABDD22B" indent="up1"><enum>(B)</enum><text>such term does not include any action that solely involves a violation of a consumer term of service or a consumer licensing agreement;</text>
+ </subparagraph></paragraph><paragraph id="HD5D3C4D486E34A049EB87CFD6040BC40"><enum>(2)</enum><text>the term <quote>incident</quote> means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system, or actually or imminently jeopardizes, without lawful authority, an information system;</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H189BD59D39974AB195287D42EA010EFD"><enum>(c)</enum><header>Clerical amendment</header><text>The table of contents of the Homeland Security Act of 2002 is amended by adding at the end the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H9CD7A32E4A2A4BE3B99E8F715507E83D" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">Sec. 230. Available protection of Federal civilian information systems.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

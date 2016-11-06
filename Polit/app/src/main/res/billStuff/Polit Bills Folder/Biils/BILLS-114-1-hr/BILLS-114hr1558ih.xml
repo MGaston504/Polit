@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDD93EE81D5BF41F8AC69C5A06A248053" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1558 IH: Resolving Environmental and Grid Reliability Conflicts Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1558</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150324">March 24, 2015</action-date> 
+<action-desc><sponsor name-id="O000168">Mr. Olson</sponsor> (for himself, <cosponsor name-id="G000410">Mr. Gene Green of Texas</cosponsor>, and <cosponsor name-id="D000482">Mr. Michael F. Doyle of Pennsylvania</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To clarify that compliance with an emergency order under section 202(c) of the Federal Power Act may not be considered a violation of any Federal, State, or local environmental law or regulation, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H2B9FD5608B8E495C9D95DC4A11007AE9" style="OLC"> 
+<section id="H36038B23400F441B9F702FB46169EAB1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Resolving Environmental and Grid Reliability Conflicts Act of 2015</short-title></quote>.</text></section> <section id="H0FE894FE540F4A2894E6CBF76F672DB5"><enum>2.</enum><header>Amendments to the Federal Power Act</header> <subsection id="HFC3168FA8B124C77A7D8036E9C0D994D"><enum>(a)</enum><header>Compliance with or violation of environmental laws while under emergency order</header><text>Section 202(c) of the Federal Power Act (<external-xref legal-doc="usc" parsable-cite="usc/16/824a">16 U.S.C. 824a(c)</external-xref>) is amended—</text> 
+<paragraph id="HD32B93C4A4014A6989FAA87812A6CE7B"><enum>(1)</enum><text>by inserting <quote>(1)</quote> after <quote>(c)</quote>; and</text></paragraph> <paragraph id="H504C241D6FDE4AF68C26ACEE80DAE9AA"><enum>(2)</enum><text>by adding at the end the following:</text> 
+<quoted-block id="H593870978D9043528231AB82E094FB19" style="OLC"> 
+<paragraph id="H83729C5560004D1A89509912F3711B06" indent="up1"><enum>(2)</enum><text>With respect to an order issued under this subsection that may result in a conflict with a requirement of any Federal, State, or local environmental law or regulation, the Commission shall ensure that such order requires generation, delivery, interchange, or transmission of electric energy only during hours necessary to meet the emergency and serve the public interest, and, to the maximum extent practicable, is consistent with any applicable Federal, State, or local environmental law or regulation and minimizes any adverse environmental impacts.</text></paragraph> <paragraph id="HB0CBC3FB551C4A45AC901F562B4F60A3" indent="up1"><enum>(3)</enum><text>To the extent any omission or action taken by a party, that is necessary to comply with an order issued under this subsection, including any omission or action taken to voluntarily comply with such order, results in noncompliance with, or causes such party to not comply with, any Federal, State, or local environmental law or regulation, such omission or action shall not be considered a violation of such environmental law or regulation, or subject such party to any requirement, civil or criminal liability, or a citizen suit under such environmental law or regulation.</text></paragraph> 
+<paragraph id="H442FEC54FF85442DA3604D0FC265E073" indent="up1"><enum>(4)</enum> 
+<subparagraph commented="no" display-inline="yes-display-inline" id="HBE98AB54AD984E08A6B379F383185800"><enum>(A)</enum><text>An order issued under this subsection that may result in a conflict with a requirement of any Federal, State, or local environmental law or regulation shall expire not later than 90 days after it is issued. The Commission may renew or reissue such order pursuant to paragraphs (1) and (2) for subsequent periods, not to exceed 90 days for each period, as the Commission determines necessary to meet the emergency and serve the public interest.</text></subparagraph> <subparagraph id="H0B1904B57EB0401FBC254B90A9E4FCEF" indent="up1"><enum>(B)</enum><text display-inline="yes-display-inline">In renewing or reissuing an order under subparagraph (A), the Commission shall consult with the primary Federal agency with expertise in the environmental interest protected by such law or regulation, and shall include in any such renewed or reissued order such conditions as such Federal agency determines necessary to minimize any adverse environmental impacts to the maximum extent practicable. The conditions, if any, submitted by such Federal agency shall be made available to the public. The Commission may exclude such a condition from the renewed or reissued order if it determines that such condition would prevent the order from adequately addressing the emergency necessitating such order and provides in the order, or otherwise makes publicly available, an explanation of such determination.</text></subparagraph></paragraph> 
+<paragraph id="H5596474E9B49496E8F46042842F9CF01" indent="up1"><enum>(5)</enum><text>If an order issued under this subsection is subsequently stayed, modified, or set aside by a court pursuant to section 313 or any other provision of law, any omission or action previously taken by a party that was necessary to comply with the order while the order was in effect, including any omission or action taken to voluntarily comply with the order, shall remain subject to paragraph (3).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="HCC4CC727C76E48B19D6B4CB3426A9FA7"><enum>(b)</enum><header>Temporary connection or construction by municipalities</header><text>Section 202(d) of the Federal Power Act (<external-xref legal-doc="usc" parsable-cite="usc/16/824a">16 U.S.C. 824a(d)</external-xref>) is amended by inserting <quote>or municipality</quote> before <quote>engaged in the transmission or sale of electric energy</quote>.</text></subsection></section> 
+</legis-body> 
+</bill> 
+
+

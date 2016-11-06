@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2018B9B81A4B42648E645CD6A0DCE9DE" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 492 IH: Ultrasound Informed Consent Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 492</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150122">January 22, 2015</action-date>
+			<action-desc><sponsor name-id="D000615">Mr. Duncan of South Carolina</sponsor> (for himself, <cosponsor name-id="P000588">Mr. Pearce</cosponsor>, <cosponsor name-id="J000255">Mr. Jones</cosponsor>, <cosponsor name-id="R000582">Mr. Roe of Tennessee</cosponsor>, <cosponsor name-id="L000566">Mr. Latta</cosponsor>, <cosponsor name-id="N000186">Mr. Nunnelee</cosponsor>, <cosponsor name-id="M001189">Mr. Messer</cosponsor>, <cosponsor name-id="F000448">Mr. Franks of Arizona</cosponsor>, <cosponsor name-id="G000563">Mr. Gibbs</cosponsor>, <cosponsor name-id="M001144">Mr. Miller of Florida</cosponsor>, and <cosponsor name-id="H001058">Mr. Huizenga of Michigan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To ensure that women seeking an abortion receive an ultrasound and the opportunity to review the
+			 ultrasound before giving informed consent to receive an abortion.</official-title>
+	</form>
+	<legis-body id="H407C9A8A6BCC455CAE93F9BF44C312F8" style="OLC">
+ <section id="HAC6BD0D5306A4B6894918F74C5BCD8E4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ultrasound Informed Consent Act</short-title></quote>.</text> </section><section id="HDC76447801B842E99648BA00FA5BE16E"><enum>2.</enum><header>Amendment to the Public Health Service Act</header><text display-inline="no-display-inline">The Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/201">42 U.S.C. 201 et seq.</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block id="HA20E7E94BF7C4ADA887DAFE54A07D4FB" style="OLC">
+				<title id="H52DA548880B945948C65D3AA61BFBFCF"><enum>XXXIV</enum><header>INFORMED CONSENT</header>
+ <section id="HEF37B436FA2F4D7EA77D94CF149BCA5A"><enum>3401.</enum><header>Definitions</header><text display-inline="no-display-inline">In this title:</text> <paragraph id="HAC7FF5B1F4AF4497B2A8CD0A4E42EFF3"><enum>(1)</enum><header>Abortion</header><text>The term <term>abortion</term> means the intentional use or prescription of any instrument, medicine, drug, substance, device, or method to terminate the life of an unborn child, or to terminate the pregnancy of a woman known to be pregnant, with an intention other than—</text>
+ <subparagraph id="HCCC62C8185154A579E942AB9DE7B1F0A"><enum>(A)</enum><text>to produce a live birth and preserve the life and health of the child after live birth; or</text> </subparagraph><subparagraph id="HAAE5BE09C52F46BB9DF4326738935C65"><enum>(B)</enum><text>to remove an ectopic pregnancy, or to remove a dead unborn child who died as the result of a spontaneous abortion, accidental trauma, or a criminal assault on the pregnant female or her unborn child.</text>
+ </subparagraph></paragraph><paragraph id="H7F90E1E054B7444682F8D9476681813B"><enum>(2)</enum><header>Abortion provider</header><text>The term <term>abortion provider</term> means any person legally qualified to perform an abortion under applicable Federal and State laws.</text> </paragraph><paragraph id="HB774C396659A486880173574D832D9F9"><enum>(3)</enum><header>Unborn child</header><text>The term <term>unborn child</term> means a member of the species homo sapiens, at any stage of development prior to birth.</text>
+ </paragraph><paragraph id="H78DD00AD815147D99873B9FF9981CEC9"><enum>(4)</enum><header>Unemancipated minor</header><text>The term <term>unemancipated minor</term> means a minor who is subject to the control, authority, and supervision of his or her parent or guardian, as determined under State law.</text>
+ </paragraph><paragraph id="HC7B7949F2EB64A8B95D2E7B874749EF2"><enum>(5)</enum><header>Woman</header><text>The term <term>woman</term> means a female human being whether or not she has reached the age of majority.</text></paragraph></section><section id="H44016EEF749347CB89B9F94EBECB905D"><enum>3402.</enum><header>Requirement of informed consent</header> <subsection id="H4850B2ED37E44069B1172F9B6792AC31"><enum>(a)</enum><header>Requirement of compliance by providers</header><text>Any abortion provider in or affecting interstate or foreign commerce, who knowingly performs any abortion, shall comply with the requirements of this title.</text>
+ </subsection><subsection id="H88C6231F18A745A89CD7809A7C884F8A"><enum>(b)</enum><header>Performance and review of ultrasound</header><text>Prior to a woman giving informed consent to having any part of an abortion performed, the abortion provider who is to perform the abortion, or an agent under the supervision of the provider, shall—</text>
+ <paragraph id="H768F7C52F17645A6937B189A371D4CCB"><enum>(1)</enum><text>perform an obstetric ultrasound on the pregnant woman;</text> </paragraph><paragraph id="HDD5A3F8A40D54714838774A90D372CB3"><enum>(2)</enum><text>provide a simultaneous explanation of what the ultrasound is depicting;</text>
+ </paragraph><paragraph id="H979E664CFD184B6AA7CAC46798A76162"><enum>(3)</enum><text>display the ultrasound images so that the pregnant woman may view them; and</text> </paragraph><paragraph id="H129A15B06FE44C6BB8E1C936DE493602"><enum>(4)</enum><text>provide a complete medical description of the ultrasound images, which shall include all of the following: the dimensions of the embryo or fetus, cardiac activity if present and visible, and the presence of external members and internal organs if present and viewable.</text>
+ </paragraph></subsection><subsection id="H2A9D44C95BFF4582B3F1DC3FE6562B1D"><enum>(c)</enum><header>Ability To Turn Eyes Away</header><text>Nothing in this section shall be construed to prevent a pregnant woman from turning her eyes away from the ultrasound images required to be displayed and described to her. Neither the abortion provider nor the pregnant woman shall be subject to any penalty under this title if the pregnant woman declines to look at the displayed ultrasound images.</text></subsection></section><section id="H36DB01C7847141FABD579A670D1B0D8C"><enum>3403.</enum><header>Exception for medical emergencies</header>
+ <subsection id="HB94168A28BFA47A1851B621EFBE76F1B"><enum>(a)</enum><header>Exception</header><text>The provisions of section 3402 shall not apply to an abortion provider if the abortion is necessary to save the life of a mother whose life is endangered by a physical disorder, physical illness, or physical injury, including a life-endangering physical condition caused by or arising from the pregnancy itself.</text>
+ </subsection><subsection id="H97F3BCEEF7F64AB4A9725EAA0EA7B0FF"><enum>(b)</enum><header>Certification</header><text>Upon a determination by an abortion provider under subsection (a) that an abortion is necessary to save the life of a mother, such provider shall include in the medical file of the pregnant woman a truthful and accurate certification of the specific medical circumstances that support such determination.</text></subsection></section><section id="H7F28099823EA4ACC84A507C5EF9387F7"><enum>3404.</enum><header>Penalties for failure to comply</header>
+						<subsection id="H2664535048064775B59559528387D608"><enum>(a)</enum><header>Civil penalties</header>
+ <paragraph id="H7E3612A6DC12488C83719E7E0EECFD18"><enum>(1)</enum><header>In general</header><text>The Attorney General may commence a civil action in Federal court under this section against any abortion provider who knowingly commits an act constituting a violation of this title for a penalty in an amount not to exceed—</text>
+ <subparagraph id="HD6DBB6B7C5FA4904BD89F22DA39AFA3C"><enum>(A)</enum><text>$100,000 for each such violation that is adjudicated in the first proceeding against such provider under this title; and</text>
+ </subparagraph><subparagraph id="H6AEB71DF222F4552AE8115A0EFEFFA33"><enum>(B)</enum><text>$250,000 for each violation of this title that is adjudicated in a subsequent proceeding against such provider under this title.</text>
+ </subparagraph></paragraph><paragraph id="H58311BECDD05438E9C56CB174748AD79"><enum>(2)</enum><header>Notification</header><text>Upon the assessment of a civil penalty under paragraph (1), the Attorney General shall notify the appropriate State medical licensing authority.</text>
+ </paragraph></subsection><subsection id="H8EA75F59CD4446F08218BE87CFC1D2F7"><enum>(b)</enum><header>Private right of action</header><text>A woman upon whom an abortion has been performed in violation of this title may commence a civil action against the abortion provider for any violation of this title for actual and punitive damages. For purposes of the preceding sentence, actual damages are objectively verifiable money damages for all injuries.</text></subsection></section></title><after-quoted-block>.</after-quoted-block></quoted-block>
+ </section><section id="H4B134F88B116489B8C72259BDABDB080"><enum>3.</enum><header>Preemption</header><text display-inline="no-display-inline">Nothing in this Act or the amendments made by this Act shall be construed to preempt any provision of State law to the extent that such State law establishes, implements, or continues in effect disclosure requirements regarding abortion or penalties for failure to comply with such requirements that are more extensive than those provided under the amendment made by this Act.</text>
+ </section><section id="HB95628C35AE14497994C4C166DC8FEB9"><enum>4.</enum><header>Severability</header><text display-inline="no-display-inline">If any provision of this Act, or any application thereof, is found to be unconstitutional, the remainder of this Act and any application thereof shall not be affected by such finding.</text>
+		</section></legis-body>
+</bill>
+
+

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H7360683165D34A99B3ADBCA81220BDD5" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3170 IH: Student Debt Repayment Fairness Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3170</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150722">July 22, 2015</action-date>
+			<action-desc><sponsor name-id="N000185">Mr. Nugent</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to allow without penalty any 529 plan distributions used
+			 for student loans payments.</official-title>
+	</form>
+	<legis-body id="HBFF6CFE538994B1687A62943405BF9CF" style="OLC">
+ <section id="H72CD3C23ADA4418B9156B6017F817406" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Student Debt Repayment Fairness Act</short-title></quote>.</text> </section><section id="H9F8E468F34F84A65B8102B0DF72DAD4E"><enum>2.</enum><header>Student loan payments from qualified tuition plans not subject to penalty tax</header> <subsection id="H3490E51E5C3140DF9B63E304EF4B1FE5"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/529">Section 529(c)(6)</external-xref> of the Internal Revenue Code of 1986 is amended—</text>
+ <paragraph id="H0A790FF0F4C040ECA98890A9AA016B58"><enum>(1)</enum><text>by inserting <quote>(A) <header-in-text level="subparagraph" style="OLC">In general.—</header-in-text></quote> before <quote>The tax</quote> and moving the text 2 ems to the right; and</text> </paragraph><paragraph id="HD0741A8C6ED249FDBE2D2B52BD5CE92E"><enum>(2)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="HFC05D3072093439D830F55F0E85E0B03" style="OLC">
+						<subparagraph id="H5543F8F1F1504AD0AE403C4A6576199B"><enum>(B)</enum><header>Student loans</header>
+ <clause display-inline="no-display-inline" id="H63A3909CD39E44D591FB8649751DD49D"><enum>(i)</enum><header>In general</header><text>Subparagraph (A) shall not apply to any payment or distribution in any taxable year which is includible in gross income and is used to pay principal or interest on indebtedness incurred solely to pay qualified higher education expenses of the designated beneficiary or member of the family of the designated beneficiary which are attributable to education furnished during a period during which the beneficiary or family member was a student at the institution providing such education.</text>
+ </clause><clause id="HF717E7DB7A7B4EDB85527C2C6435928E"><enum>(ii)</enum><header>Refinanced loans</header><text>For purposes of clause (i), the term <quote>indebtedness</quote> includes indebtedness used to refinance indebtedness described in clause (i).</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></subsection><subsection id="H472962747359445696318B909298D8CF"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall apply to payments made in taxable years beginning after December 31, 2014.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

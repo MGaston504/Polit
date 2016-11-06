@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC97CA272BC804CC4902923819C5D8675" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2273 IH: To amend the Colorado River Storage Project Act to authorize the use of the active capacity of the Fontenelle Reservoir.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2273</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150512">May 12, 2015</action-date>
+			<action-desc><sponsor name-id="L000571">Mrs. Lummis</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Colorado River Storage Project Act to authorize the use of the active capacity of the
+			 Fontenelle Reservoir.</official-title>
+	</form>
+	<legis-body id="H43F52ECA69694EB7B59E2D9877A313F2" style="OLC">
+ <section id="HFD0ADB1982434248B8C8C44FA84BD91C" section-type="section-one"><enum>1.</enum><header>Amendments to the Colorado River Storage Project Act</header><text display-inline="no-display-inline">The Act of April 11, 1956 (commonly known as the <quote>Colorado River Storage Project Act</quote>), is amended—</text> <paragraph id="H4FCD298F8F43495A8E29195B24D3839D"><enum>(1)</enum><text>by redesignating section 17 (<external-xref legal-doc="usc" parsable-cite="usc/43/620o">43 U.S.C. 620o</external-xref>) as section 18; and</text>
+ </paragraph><paragraph id="HE4D7EAB760694819BD95EE89BFBA2553"><enum>(2)</enum><text>by inserting after section 16 (<external-xref legal-doc="usc" parsable-cite="usc/43/620n-1">43 U.S.C. 620n–1</external-xref>) the following:</text> <quoted-block display-inline="no-display-inline" id="H3B86EDEECEE24598AD4E70DAFF21B0C0" style="OLC"> <section id="HF6CB3618D17C43B8BE8709A5B5446E58"><enum>17.</enum><header>Authority to make entire active capacity of Fontenelle Reservoir available for use</header> <subsection id="HAA64004A5B78417FA42370FF1B76FA2D"><enum>(a)</enum><header>In general</header><text>The Secretary of the Interior, in cooperation with the State of Wyoming, may amend the Definite Plan Report for the Seedskadee Project authorized under the first section to provide for the study, design, planning, and construction activities that will enable the use of all active storage capacity (as may be defined or limited by legal, hydrologic, structural, engineering, economic, and environmental considerations) of Fontenelle Dam and Reservoir, including the placement of sufficient riprap on the upstream face of Fontenelle Dam to allow the active storage capacity of Fontenelle Reservoir to be used for those purposes for which the Seedskadee Project was authorized.</text>
+						</subsection><subsection id="H1560BCDEA44F4997ACE03E0AE29D5D32"><enum>(b)</enum><header>Cooperative agreements</header>
+ <paragraph id="H8983530E09E74AB98ACE107CBB28504F"><enum>(1)</enum><header>In general</header><text>The Secretary of the Interior may enter into any contract, grant, cooperative agreement, or other agreement that is necessary to carry out subsection (a).</text>
+							</paragraph><paragraph id="H2A87AE26F75942BA96343DE78C743A07"><enum>(2)</enum><header>State of Wyoming</header>
+ <subparagraph id="H8A7980B5E5FA44C1A005BCFC80608BE7"><enum>(A)</enum><header>In general</header><text>The Secretary of the Interior shall enter into a cooperative agreement with the State of Wyoming to work in cooperation and collaboratively with the State of Wyoming for planning, design, related preconstruction activities, and construction of any modification of the Fontenelle Dam under subsection (a).</text>
+ </subparagraph><subparagraph id="H60AFD0636CD04482A42B702849E5E4EB"><enum>(B)</enum><header>Requirements</header><text>The cooperative agreement under subparagraph (A) shall, at a minimum, specify the responsibilities of the Secretary of the Interior and the State of Wyoming with respect to—</text>
+ <clause id="H6F860697C0104187AF6B92A6E89A1E07"><enum>(i)</enum><text>completing the planning and final design of the modification of the Fontenelle Dam under subsection (a);</text>
+ </clause><clause id="HF168C306E9274474B69DCCCFB990D8E4"><enum>(ii)</enum><text>any environmental and cultural resource compliance activities required for the modification of the Fontenelle Dam under subsection (a) including compliance with—</text>
+ <subclause id="H58463C7556B54B2F8A09A36EA730BFC0"><enum>(I)</enum><text>the <act-name parsable-cite="NEPA69">National Environmental Policy Act of 1969</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/4321">42 U.S.C. 4321 et seq.</external-xref>);</text> </subclause><subclause id="H3BD8A60D1B2F4D298B8C11643C0D32A8"><enum>(II)</enum><text>the <act-name parsable-cite="ESA">Endangered Species Act of 1973</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/16/1531">16 U.S.C. 1531 et seq.</external-xref>); and</text>
+ </subclause><subclause id="HB72A48958CD443509509A85261AC2271"><enum>(III)</enum><text>subdivision 2 of division A of subtitle III of title 54, United States Code; and</text> </subclause></clause><clause id="HF7CD8EE3B39C43DA9322AF8BB498ECE9"><enum>(iii)</enum><text>the construction of the modification of the Fontenelle Dam under subsection (a).</text>
+ </clause></subparagraph></paragraph></subsection><subsection id="HE50A326042764F5D96F16EF44D2D39BA"><enum>(c)</enum><header>Funding by State of Wyoming</header><text>Pursuant to the Act of March 4, 1921 (41 Stat. 1404, chapter 161; <external-xref legal-doc="usc" parsable-cite="usc/43/395">43 U.S.C. 395</external-xref>), and as a condition of providing any additional storage under subsection (a), the State of Wyoming shall provide to the Secretary of the Interior funds for any work carried out under subsection (a).</text>
+						</subsection><subsection id="HA72202CCEC2443D2A1A1D8836E4A8A84"><enum>(d)</enum><header>Other contracting authority</header>
+ <paragraph id="HDF3B6FE95F5B4A1CB4120260F72A5055"><enum>(1)</enum><header>In general</header><text>The Secretary of the Interior may enter into contracts with the State of Wyoming, on such terms and conditions as the Secretary of the Interior and the State of Wyoming may agree, for division of any additional active capacity made available under subsection (a).</text>
+ </paragraph><paragraph id="H75BEE6CF7A0144FDA896D3936C7DE84E"><enum>(2)</enum><header>Terms and conditions</header><text>Unless otherwise agreed to by the Secretary of the Interior and the State of Wyoming, a contract entered into under paragraph (1) shall be subject to the terms and conditions of Bureau of Reclamation Contract No. 14–06–400–2474 and Bureau of Reclamation Contract No. 14–06–400–6193.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></section><section id="H2BC25F84CF844168B49D99FE04BACBEB"><enum>2.</enum><header>Savings provisions</header><text display-inline="no-display-inline">Unless expressly provided in this Act, nothing in this Act or an amendment made by this Act modifies, conflicts with, preempts, or otherwise affects—</text>
+ <paragraph id="H8735BBA904624748912CFB7003D2C48C"><enum>(1)</enum><text>the Act of December 31, 1928 (<external-xref legal-doc="usc" parsable-cite="usc/43/617">43 U.S.C. 617 et seq.</external-xref>) (commonly known as the <quote>Boulder Canyon Project Act</quote>);</text> </paragraph><paragraph id="HB860593AB6174E399204561A3D1A46AB"><enum>(2)</enum><text>the Colorado River Compact of 1922, as approved by the Presidential Proclamation of June 25, 1929 (46 Stat. 3000);</text>
+ </paragraph><paragraph id="HFF74B83A46DA43D6B50B49C579869B68"><enum>(3)</enum><text>the Act of July 19, 1940 (<external-xref legal-doc="usc" parsable-cite="usc/43/618">43 U.S.C. 618 et seq.</external-xref>) (commonly known as the <quote>Boulder Canyon Project Adjustment Act</quote>);</text> </paragraph><paragraph id="HEA05592D34F94D859E086A5978858B3C"><enum>(4)</enum><text>the Treaty between the United States of America and Mexico relating to the utilization of waters of the Colorado and Tijuana Rivers and of the Rio Grande, and supplementary protocol signed November 14, 1944, signed at Washington February 3, 1944 (59 Stat. 1219);</text>
+ </paragraph><paragraph id="H59CDE8833AB34671987E81F53D148B5C"><enum>(5)</enum><text>the Upper Colorado River Basin Compact as consented to by the Act of April 6, 1949 (63 Stat. 31);</text> </paragraph><paragraph id="HF70DBFED470A4DEC93901F1C8C62EFD9"><enum>(6)</enum><text>the Act of April 11, 1956 (commonly known as the <quote>Colorado River Storage Project Act</quote>) (<external-xref legal-doc="usc" parsable-cite="usc/43/620">43 U.S.C. 620 et seq.</external-xref>);</text>
+ </paragraph><paragraph id="H978610F87D434CAA8C91330DC59C9A2B"><enum>(7)</enum><text>the Colorado River Basin Project Act (<external-xref legal-doc="public-law" parsable-cite="pl/90/537">Public Law 90–537</external-xref>; 82 Stat. 885); or</text> </paragraph><paragraph id="H3623978EE20F479390D7B5F6B11C0C61"><enum>(8)</enum><text>any State of Wyoming or other State water law.</text>
+			</paragraph></section></legis-body>
+</bill>
+
+

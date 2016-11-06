@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8EE97BA5824542D28C414CBFC690C188" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 175 IH: ENERGY STAR Regulatory Improvement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 175</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="W000809">Mr. Womack</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for the revision of certification requirements for the labeling of certain electronic
+			 products under the Energy Star program.</official-title>
+	</form>
+	<legis-body id="H87CDD98C8C5F4A9CB60446B2C96524EA" style="OLC">
+		<section id="HEBF89D4651214804BFC9EAB9B1F16B1F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>ENERGY STAR Regulatory Improvement Act</short-title></quote>.</text>
+		</section><section id="HE2BE6A0F8CA94000AAACE484E3E8390F" section-type="subsequent-section"><enum>2.</enum><header>Third-party certification under Energy Star program</header><text display-inline="no-display-inline">Section 324A of the Energy Policy and Conservation Act (<external-xref legal-doc="usc" parsable-cite="usc/42/6294a">42 U.S.C. 6294a</external-xref>) is amended by adding at
+			 the end the following:</text>
+			<quoted-block id="H8453B7D427724A42AA03C7D69FE73E88" style="OLC">
+				<subsection id="HE2F24E4F76134454A6D0F9C993F3296A"><enum>(e)</enum><header>Third-Party certification</header>
+					<paragraph id="H69C11E3A9CF24243AE043B221A2102B9"><enum>(1)</enum><header>In general</header><text>Subject to paragraph (2), not later than 180 days after the date of enactment of this subsection,
+			 the Administrator shall revise the certification requirements for the
+			 labeling of consumer, home, and office electronic products for program
+			 partners that have complied with all requirements of the Energy Star
+			 program for a period of at least 18 months.</text>
+					</paragraph><paragraph id="H1D8BE99E9FC342D4A9C57C2A9A13B982"><enum>(2)</enum><header>Administration</header><text>In the case of a program partner described in paragraph (1), the new requirements under paragraph
+			 (1)—</text>
+						<subparagraph id="H491EBD601948446DB750C77F88F6AB67"><enum>(A)</enum><text>shall not require third-party certification for a product to be listed; but</text>
+						</subparagraph><subparagraph id="H385960CAA93F40A0847600D78C272D2C"><enum>(B)</enum><text>may require that test data and other product information be submitted to facilitate product listing
+			 and performance verification for a sample of products.</text>
+						</subparagraph></paragraph><paragraph id="HF1FF3801AB8F4BB48ABB400DB0B463A4"><enum>(3)</enum><header>Third parties</header><text>Nothing in this subsection prevents the Administrator from using third parties in the course of the
+			 administration of the Energy Star program.</text>
+					</paragraph><paragraph id="H2E74ED04E4D64AB887E7366BC9119B74"><enum>(4)</enum><header>Termination</header>
+						<subparagraph id="H97BB2A9959B0451FA59E275408DA00EA"><enum>(A)</enum><header>In general</header><text>Subject to subparagraph (B), an exemption from third-party certification provided to a program
+			 partner under paragraph (1) shall terminate if the program partner is
+			 found to have violated program requirements with respect to at least 2
+			 separate models during a 2-year period.</text>
+						</subparagraph><subparagraph id="HA415633BA6694128968D577DB485B2C8"><enum>(B)</enum><header>Resumption</header><text>A termination for a program partner under subparagraph (A) shall cease if the program partner
+			 complies with all Energy Star program requirements for a period of at
+			 least 3 years.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

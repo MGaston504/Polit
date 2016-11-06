@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HF3C40B5480804B3BA0EC98F8261DA0C8" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2552 IH: Berry Amendment Extension Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2552</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150521">May 21, 2015</action-date>
+			<action-desc><sponsor name-id="O000170">Mr. O’Rourke</sponsor> (for himself, <cosponsor name-id="E000291">Mrs. Ellmers of North Carolina</cosponsor>, and <cosponsor name-id="S001165">Mr. Sires</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prohibit the Department of Homeland Security from procuring certain items directly related to
+			 the national security unless the items are grown, reprocessed, reused, or
+			 produced in the United States, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H304DE65334D840E7AE34B7A936AB93F5" style="OLC">
+ <section id="HBFCC93B0B82D45609A10A1B173CFDD3F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Berry Amendment Extension Act</short-title></quote>.</text> </section><section id="H5EB5C9BC44A84325B3F8D7F0509F4722"><enum>2.</enum><header>Buy American requirement imposed on department of homeland security; exceptions</header> <subsection id="HE6C8290E02A74CBF8665CA2105F577FB"><enum>(a)</enum><header>In General</header><text>Subtitle H of title VIII of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/451">6 U.S.C. 451 et seq.</external-xref>) is amended by adding at the end the following new section:</text>
+				<quoted-block id="HD6EFA2A9EC30470CA7E2CBEFBAA52137" style="OLC">
+					<section id="H08EC7D3DC3D54E9FB4C20F321E9A0362"><enum>890.</enum><header>Buy American requirement; exceptions</header>
+ <subsection id="HC0EFA400C48543B9BD42460563381B59"><enum>(a)</enum><header>Requirement</header><text>Except as provided in subsections (c) through (e), the Secretary may not procure an item described in subsection (b) if the item is not grown, reprocessed, reused, or produced in the United States.</text>
+						</subsection><subsection id="H66406C3190EB487AB17FCDE042FD543E"><enum>(b)</enum><header>Covered Items</header>
+ <paragraph id="HDF9E5765D67D465AB88920FD9CD5F04A"><enum>(1)</enum><header>In general</header><text>An item referred to in subsection (a) is any item described in paragraph (2), if the item is directly related to the national security interests of the United States.</text>
+ </paragraph><paragraph id="HF692E11BECE74926A357B998354B264D"><enum>(2)</enum><header>Items described</header><text>An item described in this paragraph is any article or item of—</text> <subparagraph id="HC1B5C8634882464E96BD8E8AD57B4AF3"><enum>(A)</enum><text>clothing and the materials and components thereof, other than sensors, electronics, or other items added to, and not normally associated with, clothing (and the materials and components thereof);</text>
+ </subparagraph><subparagraph id="H3EAFFD36E5944359A07B012C4F51EFA5"><enum>(B)</enum><text>tents, tarpaulins, or covers;</text> </subparagraph><subparagraph id="H37C0AE14F78C4245A7902CF7E8E3134D"><enum>(C)</enum><text>cotton and other natural fiber products, woven silk or woven silk blends, spun silk yarn for cartridge cloth, synthetic fabric or coated synthetic fabric (including all textile fibers and yarns that are for use in such fabrics), canvas products, or wool (whether in the form of fiber or yarn or contained in fabrics, materials, or manufactured articles); or</text>
+ </subparagraph><subparagraph id="H91A955FC57C04515AD87FDB8DA7FA2D1"><enum>(D)</enum><text>any item of individual equipment manufactured from or containing such fibers, yarns, fabrics, or materials.</text>
+ </subparagraph></paragraph></subsection><subsection id="H92EF63A166F043AFA9975622487D8937"><enum>(c)</enum><header>Availability Exception</header><text>Subsection (a) does not apply to the extent that the Secretary determines that satisfactory quality and sufficient quantity of any such article or item described in subsection (b)(2) grown, reprocessed, reused, or produced in the United States cannot be procured as and when needed.</text>
+ </subsection><subsection id="H36D630253F0449E9B72E9022289C370C"><enum>(d)</enum><header>Exception for Certain Procurements Outside the United States</header><text>Subsection (a) does not apply to the following:</text> <paragraph id="H7846326DE1E24BFD8698FCD3349A58A9"><enum>(1)</enum><text>Procurements by vessels in foreign waters.</text>
+ </paragraph><paragraph id="HA79CA7C30E4C4D12AB9D4C3FB0E70C88"><enum>(2)</enum><text>Emergency procurements.</text> </paragraph></subsection><subsection id="HA46E04ADF598454BB9B073E6D9E3F6CD"><enum>(e)</enum><header>Exception for Small Purchases</header><text>Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of title 10, United States Code.</text>
+ </subsection><subsection id="HEBBB83CB56CF4F1B873719D9A0080F49"><enum>(f)</enum><header>Applicability to Contracts and Subcontracts for Procurement of Commercial Items</header><text>This section is applicable to contracts and subcontracts for the procurement of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act (<external-xref legal-doc="usc" parsable-cite="usc/41/430">41 U.S.C. 430</external-xref>).</text>
+ </subsection><subsection id="H13E679D39B494FA6B8B36472DE4EA2EE"><enum>(g)</enum><header>Geographic Coverage</header><text>In this section, the term <quote>United States</quote> includes the possessions of the United States.</text> </subsection><subsection id="H3B29F01B83D84967A25C3751B263012E"><enum>(h)</enum><header>Notification Required Within 7 Days After Contract Award if Certain Exceptions Applied</header><text>In the case of any contract for the procurement of an item described in subsection (b)(2), if the Secretary applies an exception set forth in subsection (c) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied.</text>
+						</subsection><subsection id="H80B902ED528040C1AA02119B0D94C387"><enum>(i)</enum><header>Training</header>
+ <paragraph id="H50F4B77B8AB244A7A8AEFF9DAEC40012"><enum>(1)</enum><header>In general</header><text>The Secretary shall ensure that each member of the acquisition workforce who participates personally and substantially in the acquisition of textiles on a regular basis receives training on the requirements of this section and the regulations implementing this section.</text>
+ </paragraph><paragraph id="H88CB8DB6780B46F1AC6FB2A1737AAEF7"><enum>(2)</enum><header>Inclusion of information in new training programs</header><text>The Secretary shall ensure that any training program for the acquisition workforce developed or implemented after the date of the enactment of this section includes comprehensive information on the requirements described in paragraph (1).</text>
+ </paragraph></subsection><subsection id="H1E69AD942549466DB879896F8CCCD5A1"><enum>(j)</enum><header>Consistency With International Agreements</header><text display-inline="yes-display-inline">This section shall be applied in a manner consistent with United States obligations under international agreements.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H6A6499935A09445EB5750D06D63D3DF4"><enum>(b)</enum><header>Effective Date</header><text>Section 890 of the Homeland Security Act of 2002, as added by subsection (a), shall apply with respect to contracts entered into by the Department of Homeland Security on and after the date occurring 180 days after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H620B072244D64DB28E96F85C15E1873D" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 200 IH: Commute Less Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 200</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150107">January 7, 2015</action-date>
+			<action-desc><sponsor name-id="S001165">Mr. Sires</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend titles 23 and 49, United States Code, with respect to congestion mitigation and
+			 metropolitan transportation planning, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H79CA3B675F7E4A3198D642716D1B5A06" style="OLC">
+		<section id="HCC1BF803BD81451F9CCFC52D72D1777E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Commute Less Act of 2015</short-title></quote>.</text>
+		</section><section id="H365C083353944070869B9105E0A68B75"><enum>2.</enum><header>Metropolitan transportation planning</header>
+			<subsection id="H3AA8FB526FD8469082535ACB86354532"><enum>(a)</enum><header>Definitions</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/49/5303">Section 5303(b)</external-xref> of title 49, United States Code, is amended—</text>
+				<paragraph id="H85F0F0A5DB9C4B9CA165411934C7E649"><enum>(1)</enum><text>by redesignating paragraph (7) as paragraph (9);</text>
+				</paragraph><paragraph id="H17DABB4F0AC34AC5843C4A269AAF9178"><enum>(2)</enum><text>by redesignating paragraphs (1) through (6) as paragraphs (2) through (7), respectively;</text>
+				</paragraph><paragraph id="H6675EB181B5F475DAD33481243852D7B"><enum>(3)</enum><text>by inserting before paragraph (2) (as so redesignated by paragraph (2) of this subsection) the
+			 following:</text>
+					<quoted-block display-inline="no-display-inline" id="H7590D989C5DD4508B2D7E1E6E8F486FD" style="USC">
+						<paragraph id="H4E554EFF36F141D385E027F3CB9CCEB7"><enum>(1)</enum><header>Employer-based commuter program</header><text display-inline="yes-display-inline">The term <term>employer-based commuter program</term> means a program implemented by an employer that provides employees of that employer with
+			 alternatives to driving to and from work in a vehicle occupied by a single
+			 individual, including the following:</text>
+							<subparagraph id="H154FA073BD7945E99ABE6644C89DF032"><enum>(A)</enum><text>A carpool program.</text>
+							</subparagraph><subparagraph id="H0D2F23CBECA843A1A781F7145BF25A41"><enum>(B)</enum><text>A vanpool program.</text>
+							</subparagraph><subparagraph id="H2A0D51881E2841D09C1985DFB04B7E38"><enum>(C)</enum><text>A transit benefit program.</text>
+							</subparagraph><subparagraph id="H804CBB86A4DF42A1949DE5EAF4AE89AB"><enum>(D)</enum><text>A parking cash-out program.</text>
+							</subparagraph><subparagraph id="HD67D54A6733A48AD8D2A183C43D3DC5C"><enum>(E)</enum><text>A shuttle program.</text>
+							</subparagraph><subparagraph id="HDF512B43DAB542F9B341F83DD414978A"><enum>(F)</enum><text>A telework program.</text></subparagraph></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="H2C143A1A52EE4945A03A44AA3265258B"><enum>(4)</enum><text>by inserting before paragraph (9) (as so redesignated by paragraph (1) of this subsection) the
+			 following:</text>
+					<quoted-block display-inline="no-display-inline" id="HB2D65D504E2E4AB6A94BD0056C2EF4ED" style="USC">
+						<paragraph id="H37BB314DD5764D5DBFF1F83EBE132942"><enum>(8)</enum><header>Transportation management organization</header><text display-inline="yes-display-inline">The term <term>transportation management organization</term> means a local, regional, or statewide association of employers established for the purpose of
+			 providing employees of those employers with alternatives to driving to and
+			 from work in a vehicle occupied by a single individual.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="HA8E9D88B6B0E4CD48696A9C899DFE509"><enum>(b)</enum><header>Development of transportation plan</header>
+				<paragraph id="HEB47D6A838A34923A9050F0F24F8B415"><enum>(1)</enum><header>Transportation plan</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/49/5303">Section 5303(i)(2)</external-xref> of title 49, United States Code, is amended by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H063BF241907E43DCAA04BBC0FA16B1A4" style="USC">
+						<subparagraph id="HD3C70AF03E744928ABC3092564491A0C"><enum>(I)</enum><header>Employer outreach activities and strategies</header><text display-inline="yes-display-inline">Proposed activities and strategies to provide outreach to employers and transportation management
+			 organizations to facilitate the creation and expansion of employer-based
+			 commuter programs.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="HB0E180ACAE164EEDBC9AFC040C574784"><enum>(2)</enum><header>Participation by interested parties</header><text><external-xref legal-doc="usc" parsable-cite="usc/49/5303">Section 5303(i)(6)(A)</external-xref> of title 49, United States Code, is amended by inserting after <quote>the disabled,</quote> the following: <quote>representatives of employers and transportation management organizations,</quote>.</text>
+				</paragraph></subsection><subsection id="H85E07E60ED0C41BB817BB00408843F5B"><enum>(c)</enum><header>Metropolitan TIP</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/49/5303">Section 5303(j)(2)(A)</external-xref> of title 49, United States Code, is amended by striking the period at the end
+			 and inserting <quote>, including projects identified in a relevant commuter trip reduction plan developed under
+			 subsection (r).</quote>.</text>
+			</subsection><subsection id="H096AB3E26D3548B8A751DC5435433E7C"><enum>(d)</enum><header>Transportation management areas</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/49/5303">Section 5303(k)(3)</external-xref> of title 49, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HBFA9AB9CEB05443E8F19857816654FD5" style="USC">
+					<subparagraph id="H7560E36E68AC4C0E9851C70CEAF6F2EE"><enum>(C)</enum><header>Employer involvement</header><text display-inline="yes-display-inline">A process for addressing congestion management under subparagraph (A) shall be developed in
+			 coordination with any relevant employer advisory council established under
+			 subsection (r) and shall include projects identified in the commuter trip
+			 reduction plan of that council.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H58043ADC8088402DBD4EBC2476C47157"><enum>(e)</enum><header>Employer advisory councils and information clearinghouse</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/49/5303">Section 5303</external-xref> of title 49, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HE54470F49E8A4DD4B4EAE8937F742EAF" style="USC">
+					<subsection id="H59F9A5EDB0BF48F6BBF5944B96E8B076"><enum>(r)</enum><header>Employer advisory councils</header>
+						<paragraph id="HB27F7AB38E524046BA8EC814BF2CE801"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Each metropolitan planning organization serving a transportation management area shall establish an
+			 employer advisory council that consists of representatives of employers in
+			 the area served by the metropolitan planning organization.</text>
+						</paragraph><paragraph id="H243A3A976A9F4529882E1F131D1506B1"><enum>(2)</enum><header>Membership</header>
+							<subparagraph id="H4D9187BAD27D4240BE2A893C6A3D0D41"><enum>(A)</enum><header>In general</header><text>An employer advisory council shall consist of not less than 7 representatives of employers and
+			 representatives of identified transportation management organizations in
+			 the area served by the relevant metropolitan planning organization.</text>
+							</subparagraph><subparagraph id="HE6DA4EC1971F471F8D70503D18F6E41D"><enum>(B)</enum><header>Ensuring a diverse cross-section of employers</header><text display-inline="yes-display-inline">In establishing an employer advisory council, a metropolitan planning organization, to the extent
+			 practicable, shall ensure that the membership of the council includes a
+			 diverse cross-section of employers from the area served by the
+			 organization.</text>
+							</subparagraph></paragraph><paragraph id="H6C2278A7FE2246FB8079DF4475460825"><enum>(3)</enum><header>Commuter trip reduction plan</header><text display-inline="yes-display-inline">An employer advisory council established under paragraph (1) shall develop and maintain a commuter
+			 trip reduction plan that identifies—</text>
+							<subparagraph id="HEAB3F6B4BC824CDBBD080529B75BEA04"><enum>(A)</enum><text display-inline="yes-display-inline">commuting patterns in the area served by the relevant metropolitan planning organization;</text>
+							</subparagraph><subparagraph id="H4E3D0756BC3F485E815A02254BBA4AAF"><enum>(B)</enum><text>area goals for the reduction of vehicle miles traveled during peak commuting hours;</text>
+							</subparagraph><subparagraph id="H526EF19F3B1D4CC993474110053B0A2C"><enum>(C)</enum><text>existing and proposed employer-based commuter programs in the area;</text>
+							</subparagraph><subparagraph id="HD23C8CBC230741268F9B31F6E9B8A610"><enum>(D)</enum><text>a series of projects and activities to facilitate achievement of the goals identified under
+			 subparagraph (B); and</text>
+							</subparagraph><subparagraph id="H399F66D0B66D4F348F291B824C0A06D3"><enum>(E)</enum><text>a financing plan for the projects and activities identified under subparagraph (D).</text>
+							</subparagraph></paragraph></subsection><subsection id="H14222914E2D14303B9BC59F62859BC4E"><enum>(s)</enum><header>Information clearinghouse</header><text display-inline="yes-display-inline">The Secretary is authorized to make a grant to a national nonprofit organization engaged in efforts
+			 relating to employer-based commuter programs or another entity to—</text>
+						<paragraph id="H7D063EA664C94F9AB000A6E8C1807579"><enum>(1)</enum><text>establish and operate an information clearinghouse relating to employer investment in
+			 transportation and employer-based commuter programs;</text>
+						</paragraph><paragraph id="HBB1BBFFE583748C78EEF490022823477"><enum>(2)</enum><text>develop an education program with respect to employer investment in transportation and
+			 employer-based commuter programs; and</text>
+						</paragraph><paragraph id="HC22EFD50E27A44258AA71531C4A44827"><enum>(3)</enum><text>provide technical assistance relating to employer-based commuter programs and disseminate
+			 techniques and strategies used by successful employer-based commuter
+			 programs.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="H3B23B82CC6EF462E87ECA63ED9C3F97A"><enum>3.</enum><header>Congestion mitigation during project construction</header><text display-inline="no-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/23/106">Section 106</external-xref> of title 23, United States Code, is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HE3CC389835364384884A7801670DB029" style="USC">
+				<subsection id="HECC2D2DA4B57430287F2D8EF91E0C871"><enum>(k)</enum><header>Congestion mitigation plans</header>
+					<paragraph id="HCBFBD03B50844BF6B7353D67A90414FB"><enum>(1)</enum><header>Requirement</header><text display-inline="yes-display-inline">A recipient of Federal financial assistance under this title for a project with an estimated total
+			 cost of $75,000,000 or more or that will reduce traffic flow (as defined
+			 by the Secretary) for more than 120 days shall prepare a congestion
+			 mitigation plan for such project that includes funding for projects to
+			 reduce vehicle miles traveled during peak commuting hours along the
+			 impacted corridor.</text>
+					</paragraph><paragraph id="H0871E695CFA94DA5842B326C2B942646"><enum>(2)</enum><header>Coordination</header><text>A recipient shall prepare a congestion mitigation plan under paragraph (1) in coordination with any
+			 relevant employer advisory council established under section 5303(r) of
+			 title 49.</text>
+					</paragraph><paragraph id="HC3F5F49631FF4807AA203C27E0383748"><enum>(3)</enum><header>Review by Secretary</header><text>A congestion mitigation plan prepared under paragraph (1) shall be made available to the Secretary
+			 for review upon the request of the Secretary.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="HEB5B1396753A4E6A98E07E2705FAD2B5"><enum>4.</enum><header>Employer-based commuter programs action plan</header>
+			<subsection id="H52EB90197C604050BCA49129D6BADC32"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Transportation shall develop and implement a plan to expand and promote
+			 employer-based commuter programs (as defined in section 5303(b) of title
+			 49, United States Code).</text>
+			</subsection><subsection id="H38936FFB9EA34242912083161F971E15"><enum>(b)</enum><header>Contents</header><text>The plan developed under subsection (a) shall include plans—</text>
+				<paragraph id="H815B5F4803FF4AA3B7100BDFB46F2634"><enum>(1)</enum><text>to amend existing regulations and guidance and, if necessary, develop new regulations and guidance
+			 to ensure that employer-based commuter programs are integrated, to the
+			 extent possible, into all appropriate Federal transportation programs;</text>
+				</paragraph><paragraph id="HFB779B47C0CA4174A4F77858DFC4D963"><enum>(2)</enum><text>to identify best practices with respect to employer-based commuter programs;</text>
+				</paragraph><paragraph id="H82B05F09BACD4FC9A10787A447ED3A6C"><enum>(3)</enum><text>to research the effectiveness and efficiency of employer-based commuter programs; and</text>
+				</paragraph><paragraph id="H41D8D2C626D64685989C6A9C63B5E31E"><enum>(4)</enum><text>to create a national and regional peer exchange program to ensure that developments with respect to
+			 employer-based commuter programs are shared and issues are addressed.</text>
+				</paragraph></subsection><subsection id="H5FDEE1A7EE774A4AA817BCB8AD8A51CB"><enum>(c)</enum><header>Timing</header><text>Not later than 180 days after the date of enactment of this Act, the Secretary shall finalize and
+			 begin implementation of the plan developed under subsection (a).</text>
+			</subsection><subsection id="HC39D6745BB054568A10481E35EEF8919"><enum>(d)</enum><header>Report to Congress</header><text display-inline="yes-display-inline">Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to the
+			 Committee on Transportation and Infrastructure of the House of
+			 Representatives and the Committee on Banking, Housing, and Urban Affairs
+			 and the Committee on Environment and Public Works of the Senate a report
+			 on the implementation and impact of the plan developed under subsection
+			 (a).</text>
+			</subsection></section><section id="H8A93EEEB5A214975811C3C71A57AC75F"><enum>5.</enum><header>Disaster preparedness report</header>
+			<subsection id="HD4439F76976C429CBCB11560F96FA276"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation
+			 shall submit to the Committee on Transportation and Infrastructure of the
+			 House of Representatives and the Committee on Banking, Housing, and Urban
+			 Affairs and the Committee on Environment and Public Works of the Senate a
+			 report with recommendations on how to better integrate employer-based
+			 commuter programs (as defined in <external-xref legal-doc="usc" parsable-cite="usc/49/5303">section 5303(b)</external-xref> of title 49, United
+			 States Code) into emergency planning, preparedness, and response
+			 activities.</text>
+			</subsection><subsection id="HA583C971BCE744AAAB8F3C55F9D9F0F6"><enum>(b)</enum><header>Coordination</header><text display-inline="yes-display-inline">In preparing the report under subsection (a), the Secretary shall consult with—</text>
+				<paragraph id="H86F17120CA084BF49FFC8F2A623CF2ED"><enum>(1)</enum><text>the Administrator of the Federal Emergency Management Agency; and</text>
+				</paragraph><paragraph id="HE81E9134255C4D93B9AC7D48F393065B"><enum>(2)</enum><text>stakeholders, including national and regional organizations and experts that promote employer-based
+			 commuter programs.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

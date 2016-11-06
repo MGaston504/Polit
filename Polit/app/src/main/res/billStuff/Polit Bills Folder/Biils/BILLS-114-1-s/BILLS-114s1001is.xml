@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1001 IS: Small Business Lending Reauthorization Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-04-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1001</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150416">April 16, 2015</action-date>
+			<action-desc><sponsor name-id="S323">Mr. Risch</sponsor> (for himself, <cosponsor name-id="S380">Mr. Peters</cosponsor>, <cosponsor name-id="S377">Mr. Gardner</cosponsor>, and <cosponsor name-id="S324">Mrs. Shaheen</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSSB00">Committee on Small Business and Entrepreneurship</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To establish authorization levels for general business loans for fiscal years 2015 and 2016.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Business Lending Reauthorization Act of 2015</short-title></quote>.</text>
+ </section><section id="id2F22BD68FF36472B9E189695AA67E617"><enum>2.</enum><header>General business loans authorization</header><text display-inline="no-display-inline">Section 20 of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/631">15 U.S.C. 631</external-xref> note) is amended—</text> <paragraph id="id6bb7753b365642f7b37a2ab74d8c2a64"><enum>(1)</enum><text>by redesignating subsection (j) as subsection (f); and</text>
+ </paragraph><paragraph id="id8610cbe403ed4443ab3e3ee9f367814f"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="idF866FD1F99CE42FF8F117103C8F7470E" style="OLC"> <subsection id="id185321BAFC1F4B6C838E4766AC00A037"><enum>(g)</enum><header>Fiscal year 2015</header><text>For fiscal year 2015, the Administrator is authorized to make $20,500,000,000 in general business loans, as provided in section 7(a).</text>
+ </subsection><subsection id="idC5FE06D117904FB0A86EDDA3B052EF3E"><enum>(h)</enum><header>Fiscal year 2016</header><text>For fiscal year 2016, the Administrator is authorized to make $23,500,000,000 in general business loans, as provided in section 7(a).</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

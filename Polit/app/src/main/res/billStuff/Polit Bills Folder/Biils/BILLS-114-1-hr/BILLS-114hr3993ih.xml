@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H87AA00A36F404AD8A508702974F2179A" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3993 IH: Leveraging and Energizing America’s Apprenticeship Programs Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3993</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151105">November 5, 2015</action-date>
+			<action-desc><sponsor name-id="W000808">Ms. Wilson of Florida</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to allow employers a credit against income tax for
+			 employees who participate in qualified apprenticeship programs.</official-title>
+	</form>
+	<legis-body id="H569CD2E77879453AB8A182CE9DE72915" style="OLC">
+ <section id="HBE5006969FAC4830B47115E0A9DD49B4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Leveraging and Energizing America’s Apprenticeship Programs Act</short-title></quote> or the <quote><short-title>LEAP Act</short-title></quote>.</text> </section><section id="H38750B29EA2440CCA866086B527C2FB1"><enum>2.</enum><header>Credit for employees participating in qualified apprenticeship programs</header> <subsection id="H59D5689317BB463FAED1D56980CB1B5F"><enum>(a)</enum><header>In general</header><text>Subpart D of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+				<quoted-block id="H11E61FC34E724F7DB7AD7B6DF30D0CF2" style="OLC">
+					<section id="HE3F50411E19D470394CA662B4BA19F49"><enum>45S.</enum><header>Employees participating in qualified apprenticeship programs</header>
+ <subsection id="H2E472FEEB6104CE6965A422475479FC0"><enum>(a)</enum><header>In general</header><text>For purposes of section 38, the apprenticeship credit determined under this section for the taxable year is an amount equal to the sum of the applicable credit amounts (as determined under subsection (b)) for each of the apprenticeship employees of the employer that exceeds the applicable apprenticeship level (as determined under subsection (e)) during such taxable year.</text>
+ </subsection><subsection id="H5C9BC79CD00B463E9F4E7BD593CF8EF0"><enum>(b)</enum><header>Applicable credit amount</header><text>For purposes of subsection (a), the applicable credit amount for each apprenticeship employee for each taxable year is equal to—</text>
+ <paragraph id="HF46C10F9384E4CC3866B50EC3A0BD5A5"><enum>(1)</enum><text>in the case of an apprenticeship employee who has not attained 25 years of age at the close of the taxable year, $1,500, or</text>
+ </paragraph><paragraph id="HF152C6D157AA4F5F865F3A887AEE60E1"><enum>(2)</enum><text>in the case of an apprenticeship employee who has attained 25 years of age at the close of the taxable year, $1,000.</text>
+ </paragraph></subsection><subsection id="H96E4D4B0522448A78EC211C6C9B06658"><enum>(c)</enum><header>Limitation on number of years which credit may be taken into account</header><text>The apprenticeship credit shall not be allowed for more than 2 taxable years with respect to any apprenticeship employee.</text>
+ </subsection><subsection id="H193CA6AE5C214F9380299088591A8903"><enum>(d)</enum><header>Apprenticeship employee</header><text>For purposes of this section—</text> <paragraph id="H78AD0BC32DBA40AEB5DB14C0D6D3EF3E"><enum>(1)</enum><header>In general</header><text>The term <term>apprenticeship employee</term> means any employee who is—</text>
+ <subparagraph id="H4BCBD41FE7A246E8A65F0132B8C9DC28"><enum>(A)</enum><text>a party to an apprenticeship agreement registered with—</text> <clause id="H73376B2B6BB4411699C679DCB014339B"><enum>(i)</enum><text>the Office of Apprenticeship of the Employment and Training Administration of the Department of Labor, or</text>
+ </clause><clause id="HF3EEC845A13744A99FB300839C761716"><enum>(ii)</enum><text>a recognized State apprenticeship agency; and</text> </clause></subparagraph><subparagraph id="H0E0DEBFCF4194A7AA26EBE6D6B706D86"><enum>(B)</enum><text>employed by the employer in the occupation identified in the apprenticeship agreement described in paragraph (1), whether or not the employer is a party to such agreement.</text>
+ </subparagraph></paragraph><paragraph id="H8D04498A0B87419B841B188D59A43135"><enum>(2)</enum><header>Minimum completion rate for eligible apprenticeship programs</header><text display-inline="yes-display-inline">An employee shall not be treated as an apprenticeship employee unless such apprenticeship agreement is with an apprenticeship program that, for the two-year period ending on the date of the apprenticeship begins, has a completion rate of at least 50 percent.</text>
+							</paragraph></subsection><subsection id="HB2862B6518A34B2EA0326694B2E2D321"><enum>(e)</enum><header>Applicable apprenticeship level</header>
+ <paragraph id="H1085BB5ADADA4666B4271050C96268FE"><enum>(1)</enum><header>In general</header><text>For purposes of this section, the applicable apprenticeship level shall be equal to—</text> <subparagraph id="H98723EBB4BB34DB0B809761ABD95205E"><enum>(A)</enum><text>in the case of any apprenticeship employees described in subsection (b)(1), the amount equal to 80 percent of the average number of such apprenticeship employees of the employer for the 3 taxable years preceding the taxable year for which the credit is being determined, rounded to the next lower whole number; and</text>
+ </subparagraph><subparagraph id="H92DD342C280B465C9A39D33A23844DF8"><enum>(B)</enum><text>in the case of any apprenticeship employees described in subsection (b)(2), the amount equal to 80 percent of the average number of such apprenticeship employees of the employer for the 3 taxable years preceding the taxable year for which the credit is being determined, rounded to the next lower whole number.</text>
+ </subparagraph></paragraph><paragraph id="H72F7BD74CCA44603BD74538B5AEE1F00"><enum>(2)</enum><header>First year of new apprenticeship programs</header><text>In the case of an employer which did not have any apprenticeship employees during any taxable year in the 3 taxable years preceding the taxable year for which the credit is being determined, the applicable apprenticeship level shall be equal to zero.</text>
+ </paragraph></subsection><subsection id="H05BC0BAAE40F43978D775DDA412FC336"><enum>(f)</enum><header>Coordination with other credits</header><text>The amount of credit otherwise allowable under sections 45A, 51(a), and 1396(a) with respect to any employee shall be reduced by the credit allowed by this section with respect to such employee.</text>
+ </subsection><subsection id="H5C38FB2EF4B24372A157585D885E59C5"><enum>(g)</enum><header>Certain rules To apply</header><text>Rules similar to the rules of subsections (i)(1) and (k) of section 51 shall apply for purposes of this section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HEBAD7706F2424EA8BCD73AE0009F7EB9"><enum>(b)</enum><header>Credit made part of general business credit</header><text>Subsection (b) of section 38 of such Code is amended by striking <quote>plus</quote> at the end of paragraph (35), by striking the period at the end of paragraph (36) and inserting <quote>, plus</quote>, and by adding at the end the following new paragraph:</text> <quoted-block id="HE991436312C349CF824B940F79FA7A46" style="OLC"> <paragraph id="H85DC28A43A6C42BA847344C07305A84B"><enum>(37)</enum><text>the apprenticeship credit determined under section 45S(a).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HC2B34F0B596D4C07807464BB18B8B59C"><enum>(c)</enum><header>Denial of double benefit</header><text>Subsection (a) of section 280C of such Code is amended by inserting <quote>45S(a),</quote> after <quote>45P(a),</quote>.</text> </subsection><subsection id="H2F72BBB25AE0429BBD3ACB9DE13469E0"><enum>(d)</enum><header>Clerical amendment</header><text>The table of sections for subpart D of part IV of subchapter A of chapter 1 of such Code is amended by adding at the end the following new item:</text>
+				<quoted-block id="HCF0CFC6D42424F8AAA2B8E346CB28F5B" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">Sec. 45S. Employees participating in qualified apprenticeship programs.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H97E2FF58E1A744CA882054B39DD21C85"><enum>(e)</enum><header>Effective date</header><text>The amendments made by this section shall apply to individuals commencing apprenticeship programs after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

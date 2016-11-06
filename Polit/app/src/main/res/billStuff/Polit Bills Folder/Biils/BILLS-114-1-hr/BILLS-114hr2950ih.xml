@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H1D963EF8F8394922B6D9554923EB78E8" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2950 IH: Small Business Contracting Clarity Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2950</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150707">July 7, 2015</action-date>
+			<action-desc><sponsor name-id="T000473">Mr. Takai</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HSM00">Committee on Small Business</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Small Business Act to streamline and clarify small business contracting opportunities,
+			 and for other purposes.</official-title>
+	</form>
+	<legis-body id="HA4F5182E66064251A662F44765EAD327" style="OLC">
+ <section id="H76BDF6E358A84792B0944D67ADBD5493" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Business Contracting Clarity Act of 2015</short-title></quote>.</text> </section><section id="H848F5F0177654BF9BB6BC11AF359FF2C"><enum>2.</enum><header>Findings and sense of Congress</header> <subsection id="H6EC25000198945319C84A784B77599ED"><enum>(a)</enum><header>Findings</header><text display-inline="yes-display-inline">Congress finds the following:</text>
+ <paragraph id="HD5B9D61FC3B64DE7BC85635B89B68852"><enum>(1)</enum><text display-inline="yes-display-inline">Native Hawaiians make up an economically disadvantaged group.</text> </paragraph><paragraph id="H24674245ACDA410F8BD0C526F11A0403"><enum>(2)</enum><text>According to statistics from 2013, in the United States—</text>
+ <subparagraph id="HDE1CF2FCD36E45FA8251F9714A470BC6"><enum>(A)</enum><text display-inline="yes-display-inline">only 1 in 5 Native Hawaiians had attained a bachelor’s degree or higher (20.5 percent), which is lower than percentage nationally (29.1 percent), the percentage for Whites (32.5 percent), and the percentage for Asians (50.7 percent);</text>
+ </subparagraph><subparagraph id="H1F27B8B7E2C24E80B6D919358F1F9CCC"><enum>(B)</enum><text display-inline="yes-display-inline">the unemployment rate of Native Hawaiians (7.5 percent) was higher than the national unemployment rate (5.9 percent);</text>
+ </subparagraph><subparagraph id="H8228E3FAA30B4648AC1220239E92EDAC"><enum>(C)</enum><text display-inline="yes-display-inline">Native Hawaiians remained underrepresented in management, business, sciences and arts occupations (28.4 percent) in comparison to the national level or representation (36.2 percent);</text>
+ </subparagraph><subparagraph id="H1DBAF4120B5A46FF9AB80376972EFC7D"><enum>(D)</enum><text>the average earnings of a Native Hawaiian household ($70,686) was lower than the national average ($74,657);</text>
+ </subparagraph><subparagraph id="HAFEFE63D0F0C4DDA97D370431A3F4773"><enum>(E)</enum><text display-inline="yes-display-inline">the percentage of Native Hawaiian households receiving benefits from the supplemental nutrition assistance program (18.8 percent) was higher than the national percentage (13.4 percent);</text>
+ </subparagraph><subparagraph id="H3F7F011BB1D646AA872FD1ACF76B030D"><enum>(F)</enum><text display-inline="yes-display-inline">the poverty rate of Native Hawaiian families (13.2 percent) remains higher than the national rate (11.7 percent); and</text>
+ </subparagraph><subparagraph id="H092E37C661EB4F43B8B21A886B1C74C3"><enum>(G)</enum><text display-inline="yes-display-inline">approximately 34 percent of Native Hawaiian households surveyed did not have a savings account, in comparison to 29.5 percent of all households surveyed.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="H68CD09E89C65418FA88A27A374500615"><enum>(3)</enum><text display-inline="yes-display-inline">In 2001, the Department of the Treasury found that Native Hawaiians living on Hawaiian Home Lands (as defined in section 247(d)(2) of the National Housing Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1715z-12">12 U.S.C. 1715z–12(d)(2)</external-xref>)) face significant barriers to capital access, credit, and basic financial services.</text>
+ </paragraph><paragraph id="HFAB063D272894D4382EDB8AE46A2B4C7"><enum>(4)</enum><text display-inline="yes-display-inline">The United States as a whole will benefit from policies that assist Native Hawaiians in economic equality.</text>
+ </paragraph><paragraph id="H37DFE02D3D0F4C4197E14DA66BAD7A38"><enum>(5)</enum><text>Participation in the free enterprise system is essential to gain economic equality and self-sufficiency for Native Hawaiians.</text>
+ </paragraph><paragraph id="H0D9F8219FE2B4B37A3445600D5D6F18D"><enum>(6)</enum><text display-inline="yes-display-inline">Government procurement from Native Hawaiian Organizations (as defined in section 8(a)(15) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/637">15 U.S.C. 637(a)(15)</external-xref>)) offers a way for Native Hawaiians to participate in our free enterprise system by providing goods and services, revenue, and jobs for Native Hawaiians.</text>
+ </paragraph><paragraph id="H18590A6BD0A94C53B3F8F2A3C11D5839"><enum>(7)</enum><text>Consistent promotion of and Federal assistance for Native Hawaiian Organizations will guarantee that Native Hawaiians gain and maintain economic equality.</text>
+ </paragraph></subsection><subsection commented="no" id="H1A0D32D24F134CB390F296B4B8109E72"><enum>(b)</enum><header>Sense of Congress</header><text display-inline="yes-display-inline">It is the sense of Congress that it is in the best interests of the United States to consistently promote and assist Native Hawaiian Organizations.</text>
+			</subsection></section><section id="H5B7FF12DA65A42ADA5DDF2CF7A911BB6" section-type="subsequent-section"><enum>3.</enum><header>Small business conformity</header>
+			<subsection id="HF3BD5DEE4AC8439C984E3CE48BD89869"><enum>(a)</enum><header>HUBZone eligibility</header>
+ <paragraph id="HB4CF7ACF658345A6BA005901CEF79366"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Section 3(p)(3) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/632">15 U.S.C. 632(p)(3)</external-xref>) is amended—</text> <subparagraph id="HC7D99D955525409DA1611471CD0CA699"><enum>(A)</enum><text>by redesignating subparagraphs (D) and (E) as subparagraphs (E) and (F), respectively; and</text>
+ </subparagraph><subparagraph id="H598BC42D7C454243ACE0CD6CC711F458"><enum>(B)</enum><text>by inserting after subparagraph (C) the following:</text> <quoted-block display-inline="no-display-inline" id="HB72004FDC17847759F6A43B296F6984C" style="OLC"> <subparagraph id="H8505D0B116C64EFDB08D2B3032061EF9"><enum>(D)</enum><text display-inline="yes-display-inline">a small business concern—</text>
+ <clause id="H397E54434FB94548B5E8D904502A06F3"><enum>(i)</enum><text display-inline="yes-display-inline">that is wholly owned by one or more Native Hawaiian Organizations (as defined in section 8(a)(15)), or by a corporation that is wholly owned by one or more Native Hawaiian Organizations; or</text>
+ </clause><clause id="HED96AAA721A543B78BE5CBF2C6992845"><enum>(ii)</enum><text display-inline="yes-display-inline">that is owned in part by one or more Native Hawaiian Organizations, or by a corporation that is wholly owned by one or more Native Hawaiian Organizations, if all other owners are either United States citizens or small business concerns;</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="HC1317B913799466B89E3DE26A9255ACA"><enum>(2)</enum><header>Conforming amendment</header><text>Section 3(p)(5)(A)(i)(I)(aa) of the Small Business Act (15 U.S.C. 632(p)(5)(A)(i)(I)(aa)) is amended by striking <quote>subparagraph (A), (B), (C), (D), or (E) of paragraph (3)</quote> and inserting <quote>subparagraph (A), (B), (C), (D), (E) or (F) of paragraph (3)</quote>.</text>
+				</paragraph></subsection><subsection id="H6C4357E6F6C84014A1E2E54E3CB28922"><enum>(b)</enum><header>8<enum-in-header>(a)</enum-in-header> program</header>
+ <paragraph id="H9F3CA13167C741C99A84468DED8BFAF1"><enum>(1)</enum><header>In general</header><text>Section 8(a)(6)(A) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/637">15 U.S.C. 637(a)(6)(A)</external-xref>) is amended by adding at the end the following new sentence: <quote>Native Hawaiian Organizations (as defined in paragraph (15)) shall be deemed to be economically disadvantaged for the purposes of this subsection.</quote>.</text>
+ </paragraph><paragraph id="HD3B0E52E49A948759B0E08DBA288995C"><enum>(2)</enum><header>Applicability</header><text>The amendment made by this subsection shall take effect on the date of enactment of this Act and apply to determinations of economic disadvantage made before, on, or after the date of enactment of this Act.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H89163CA448E24B88910C0FE7F5DEFB78" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 193 IH: Core Opportunity Resources for Equity and Excellence Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 193</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150107">January 7, 2015</action-date>
+			<action-desc><sponsor name-id="F000455">Ms. Fudge</sponsor> (for herself, <cosponsor name-id="H000636">Mr. Hinojosa</cosponsor>, <cosponsor name-id="F000043">Mr. Fattah</cosponsor>, and <cosponsor name-id="H001034">Mr. Honda</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Elementary and Secondary Education Act of 1965 to provide for State accountability in
+			 the provision of access to the core resources for learning, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="HA3DD4A0303EB4111939920509354FB72" style="OLC">
+		<section id="H620266A8A08D4376B3DFC280B7665DB0" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Core Opportunity Resources for Equity and Excellence Act of 2015</short-title></quote>.</text>
+		</section><section id="HEED53A90AFCE46CC9C261C40FA0B574E"><enum>2.</enum><header>State and school district accountability</header>
+			<subsection id="H9CC90795DA95493EAD14CCC12922F452"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Title I of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/6301">20 U.S.C. 6301 et seq.</external-xref>) is amended—</text>
+				<paragraph id="HC5DBD999C4EF49CEA17AF6E9EBE0334B"><enum>(1)</enum><text display-inline="yes-display-inline">in section 1111—</text>
+					<subparagraph id="H2A428E371A46460892F1DCC6C8BAF713"><enum>(A)</enum><text display-inline="yes-display-inline">in subsection (b)—</text>
+						<clause id="HB757A64642A648E882FD6AEED785EC7A"><enum>(i)</enum><text display-inline="yes-display-inline">in paragraph (1)—</text>
+							<subclause id="HED10CA224F2C43BF9E27519FC08BFE62"><enum>(I)</enum><text display-inline="yes-display-inline">in subparagraph (A), by inserting <quote>that lead to college and career readiness by high school graduation and</quote> after <quote>challenging student academic achievement standards</quote>; and</text>
+							</subclause><subclause id="HD64080FA9B5B41CF81C5938050701140"><enum>(II)</enum><text>in subparagraph (D)(i)—</text>
+								<item id="H8693BD6D648749C6940588FFA8D81A28"><enum>(aa)</enum><text>in subclause (II), by striking <quote>and</quote> after the semicolon; and</text>
+								</item><item id="H4D0AE11497C347FCB2E0DE9644FB94D5"><enum>(bb)</enum><text>by adding at the end the following:</text>
+									<quoted-block display-inline="no-display-inline" id="H3CCA881ED4CF439BA7C3976A109DCA1C" style="OLC">
+										<subclause id="H9566A896776D437F91B6742017064878"><enum>(IV)</enum><text>lead to college and career readiness by high school graduation; and</text></subclause><after-quoted-block>; and</after-quoted-block></quoted-block>
+								</item></subclause></clause><clause id="HBEB364B393394CD79B4EF7006783CAC8"><enum>(ii)</enum><text>in paragraph (2), by adding at the end the following:</text>
+							<quoted-block display-inline="no-display-inline" id="H701FF4DEABA945908938BB54459300DD" style="OLC">
+								<subparagraph id="H52A8E00BC76844E0B7E81C8E439B44F6"><enum>(L)</enum><header>State accountability in the provision of access to the core resources for learning</header>
+									<clause id="HD7F2F7E1EDE34EA7908F343837F7540A"><enum>(i)</enum><header>In general</header><text display-inline="yes-display-inline">Each State plan shall demonstrate that the State has developed an accountability system that
+			 ensures that the State’s public school system provides all students within
+			 the State an education that enables the students to succeed from the
+			 earliest grades, and graduate from high school ready for college, career,
+			 and citizenship, through—</text>
+										<subclause id="HB6CF8186A5304317A6CEF6A043846464"><enum>(I)</enum><text>the provision of fair and equitable access to the core resources for learning;</text>
+										</subclause><subclause id="H94A23A727B8940C189392E5654D4508E"><enum>(II)</enum><text>the provision of educational services in local educational agencies that receive funds under this
+			 part; and</text>
+										</subclause><subclause id="H17BB0D455CC84739BC1DE7410BF56C80"><enum>(III)</enum><text>compliance with any final Federal or State court order in any matter concerning the adequacy or
+			 equitableness of the State’s public school system.</text>
+										</subclause></clause><clause id="HB753F3E4311E4E769EE83722B9BFB52A"><enum>(ii)</enum><header>Core resources for learning</header><text>For purposes of this section, the term <quote>core resources for learning</quote> means the resources and student supports necessary to provide all students the opportunity to
+			 develop the knowledge and skills that lead to college and career readiness
+			 by high school graduation. Such resources shall include the following:</text>
+										<subclause id="H2EC9D3BAF1294DD187C8D8DA27439FB5"><enum>(I)</enum><text>High-quality instructional teams, including licensed, credentialed, and profession-ready teachers,
+			 principals, school librarians, counselors, and education support
+			 personnel.</text>
+										</subclause><subclause id="HF6E51A98F4CC45A6A5170FB8DE944422"><enum>(II)</enum><text>Rigorous academic standards and curricula that lead to college and career readiness by high school
+			 graduation, including the extent to which each local educational agency
+			 provides access to such standards and curricula in a manner that is
+			 accessible to all students, including students with disabilities and
+			 English learners.</text>
+										</subclause><subclause id="H4E727EBFAE8C47418188BE3D79D4FB1C"><enum>(III)</enum><text>Equitable and instructionally appropriate class sizes.</text>
+										</subclause><subclause id="H7281348E919A48F59CF125E6CD5F6285"><enum>(IV)</enum><text>Up-to-date instructional materials, technology, and supplies, including textbooks, computers,
+			 mobile devices, and access to broadband.</text>
+										</subclause><subclause id="HCD2B0E0CADB24BBEA800AFB3F98380C7"><enum>(V)</enum><text>Effective school library programs.</text>
+										</subclause><subclause id="H4E897FB553D0415088C067282D45BAAE"><enum>(VI)</enum><text>School facilities and technology, including physically and environmentally sound school buildings
+			 and well-equipped instructional spaces, including laboratories and
+			 libraries.</text>
+										</subclause><subclause id="H12855FB1178F4E12831708E1475F2789"><enum>(VII)</enum><text>Specialized instruction support teams, including school counselors, school social workers, school
+			 psychologists, school nurses, and other qualified professionals involved
+			 in providing assessment, diagnosis, counseling, educational, therapeutic,
+			 and other necessary services (including related services as that term is
+			 defined in section 602 of the Individuals with Disabilities Education Act)
+			 as part of a comprehensive program to meet student needs.</text>
+										</subclause><subclause id="HDB0D98826C834816B5CAE99E7F67F090"><enum>(VIII)</enum><text>Effective programs for family and community engagement in education.</text>
+										</subclause></clause><clause id="HAF7AD1DC3A7D4A7993743666DA2EF20E"><enum>(iii)</enum><header>Reporting</header><text>Each State desiring to receive a grant under this part shall annually report to the Secretary how
+			 the State is meeting the requirements for providing equitable access to
+			 the core resources for learning as required in clause (i) and any areas of
+			 inequitable access, plans to address such inequities, and progress toward
+			 eliminating such inequities.</text>
+									</clause><clause id="H7DBB3CE480A04F85B3EC200344ABE8BA"><enum>(iv)</enum><header>Accountability and remediation</header><text>A State that fails to make progress toward eliminating inequities in access to the core resources
+			 for learning as required in clause (i) identified for 2 or more
+			 consecutive years shall not be eligible to receive funds under any
+			 competitive grant program authorized under this Act.</text></clause></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+						</clause></subparagraph><subparagraph id="HE1CD40AD784746DDBDECBD1B949EC6EE"><enum>(B)</enum><text>in subsection (h)—</text>
+						<clause id="H3B399B127DD14FE1897749DCCA35AAD2"><enum>(i)</enum><text>in paragraph (1)(C)(vii), by striking <quote>information on the performance of local educational agencies in the State regarding making adequate
+			 yearly progress, including the number and names of each school identified
+			 for school improvement under section 1116</quote> and inserting <quote>information on the performance of local educational agencies in the State in providing fair and
+			 equitable access to the core resources for learning and the number and
+			 names of each school and each agency identified for improvement under
+			 section 1116 or under the terms of any waiver granted under section 9401</quote>;</text>
+						</clause><clause id="H2D0B887C032D4DE88388B0E0D1C4C7D9"><enum>(ii)</enum><text>in paragraph (2)(B)—</text>
+							<subclause id="H12D22BE7B17245788FFB32D83BEC2BE7"><enum>(I)</enum><text>in clause (i)—</text>
+								<item id="H775AB08FCC664F4D94495B9997084C81"><enum>(aa)</enum><text>in subclause (I), by striking <quote>and</quote> after the semicolon; and</text>
+								</item><item id="H9C7F991AAE7E4D82A56ADCB10DA06E5E"><enum>(bb)</enum><text>by adding at the end the following:</text>
+									<quoted-block display-inline="no-display-inline" id="H06EC97CE126A456ABE2DECD21ACBFF7C" style="OLC">
+										<subclause id="H0AE96DBBF6434C60AE4634AE90BD879E"><enum>(III)</enum><text>information that shows how students served by the local educational agency are provided access to
+			 the core resources for learning compared to students in the State as a
+			 whole; and</text></subclause><after-quoted-block>; and</after-quoted-block></quoted-block>
+								</item></subclause><subclause id="H1612527767DD4F50B76BB609EEC12CF3"><enum>(II)</enum><text>in clause (ii)—</text>
+								<item id="HF5480F3935F74C72BFBA4286B21031F7"><enum>(aa)</enum><text>in subclause (I), by striking <quote>and</quote> after the semicolon;</text>
+								</item><item id="HF07E5A961DEF45498D1B76DA0740514B"><enum>(bb)</enum><text>in subclause (II), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+								</item><item id="H1C89D9FAA6D043729457B76F48E0F304"><enum>(cc)</enum><text>by adding at the end the following:</text>
+									<quoted-block display-inline="no-display-inline" id="HCB94CF1C0EDA4249879D312C25A315A9" style="OLC">
+										<subclause id="HD7CF5E1E35CB497C977435F2570F1BFB"><enum>(III)</enum><text>information that shows how the school’s students are provided access to the core resources for
+			 learning compared to students in the local educational agency and the
+			 State as a whole.</text></subclause><after-quoted-block>; and</after-quoted-block></quoted-block>
+								</item></subclause></clause><clause id="HF8730DBFAF4848A4A2056AE62B553B21"><enum>(iii)</enum><text>in paragraph (4)—</text>
+							<subclause id="H9CAE2093F5BC4DFFB8CAC12EB1EB241B"><enum>(I)</enum><text>in subparagraph (F), by striking <quote>and</quote> after the semicolon;</text>
+							</subclause><subclause id="H2F9E2827C686468E8EB68F74F7734D13"><enum>(II)</enum><text>in subparagraph (G), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+							</subclause><subclause id="H97A89F76C4D84C6F8F7B39F6509C5C1F"><enum>(III)</enum><text>by adding at the end the following:</text>
+								<quoted-block display-inline="no-display-inline" id="HEA380CDCA6B94D17B520C40DC178C5C6" style="OLC">
+									<subparagraph id="H46D3DA911C714275A6706EB6944A279C"><enum>(H)</enum><text>the number and names of each local educational agency identified for improvement under section 1116
+			 or under the terms of any waiver granted under section 9401, the reason
+			 each such agency was so identified, and the measures taken to address the
+			 achievement problems of each such agency.</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+							</subclause></clause></subparagraph></paragraph><paragraph id="H50B1B0D4E14E42488C38CA64817AEEBE"><enum>(2)</enum><text>in section 1116(c), by striking paragraph (3) and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H49CF1950BC724726BF2A76064BDC187B" style="OLC">
+						<paragraph id="H90BE748C61F2410095EE5D301B2DE76F"><enum>(3)</enum><header>Identification of local educational agency for improvement</header>
+							<subparagraph commented="no" id="H120258F8D0024349AD6BDC4D9422D6C2"><enum>(A)</enum><header>In general</header><text>A State shall identify for improvement—</text>
+								<clause commented="no" id="H984B339248384035A55D8EECB79A73FB"><enum>(i)</enum><text>any local educational agency that, for 2 consecutive years, including the period immediately prior
+			 to the date of enactment of the No Child Left Behind Act of 2001, failed
+			 to make adequate yearly progress as defined in the State's plan under
+			 section 1111(b)(2); or</text>
+								</clause><clause commented="no" id="H8D78203B5B9647F1B7B960CD972FCA06"><enum>(ii)</enum><text>any local educational agency identified under the terms of a waiver granted under section 9401.</text>
+								</clause></subparagraph><subparagraph id="H59C25908756846F7A0AEE9671FB7E7B8"><enum>(B)</enum><header>Intervention in local educational agencies identified for improvement</header><text>With respect to each local educational agency identified for improvement by a State under this
+			 section or under the terms of any waiver granted under section 9401, the
+			 State—</text>
+								<clause id="H38E8353CDA2E41AC87D98F7464475C66"><enum>(i)</enum><text>shall identify any inequities in access to the core resources for learning in the schools served by
+			 the agency; and</text>
+								</clause><clause id="H058AC47C02FC425C9A9E73D55E8A32C0"><enum>(ii)</enum><text>in partnership with such agency, shall develop and implement a plan to address identified
+			 inequities in access to the core resources for learning.</text>
+								</clause></subparagraph><subparagraph id="H2A7610C5619B4F64A6054008F2FC755D"><enum>(C)</enum><header>Definition</header><text>For purposes of this paragraph, the term <quote>core resources for learning</quote> has the meaning given the term in section 1111(b)(2)(L)(ii).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="H6C6EE1312A684F9BB6E8A20BB09DA504"><enum>(b)</enum><header>Restrictions on waivers</header><text>Section 9401(c) of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7861">20 U.S.C. 7861(c)</external-xref>) is
+			 amended—</text>
+				<paragraph id="HDF18B44A95AE4A7E842F2558923DC760"><enum>(1)</enum><text>in paragraph (9)(C), by striking <quote>or</quote> after the semicolon;</text>
+				</paragraph><paragraph id="HBBA720F4ED5F48E99C1809C7933D63DF"><enum>(2)</enum><text>in paragraph (10), by striking the period at the end and inserting <quote>; or</quote>; and</text>
+				</paragraph><paragraph id="H23414E36511A4506B0A9000D5A89EF86"><enum>(3)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="HD1BC32A015564BEB807DCF6FDD6E5693" style="OLC">
+						<paragraph id="HCDE6FE0E609142F5A17A11FF17492796"><enum>(11)</enum><text display-inline="yes-display-inline">accountability for the provision of the core resources for learning (as defined in section
+			 1111(b)(2)(L)(ii)).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

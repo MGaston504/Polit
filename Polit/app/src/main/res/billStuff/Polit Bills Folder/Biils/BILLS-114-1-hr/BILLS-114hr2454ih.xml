@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H82CEE58E964749259BA68B82A587BB53" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2454 IH: To provide for the public disclosure of information regarding surveillance activities under the Foreign Intelligence Surveillance Act of 1978.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2454</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150519">May 19, 2015</action-date>
+			<action-desc><sponsor name-id="P000605">Mr. Perry</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, and in addition to the <committee-name committee-id="">Select Committee on Intelligence (Permanent Select)</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for the public disclosure of information regarding surveillance activities under the
+			 Foreign Intelligence Surveillance Act of 1978.</official-title>
+	</form>
+	<legis-body id="H3BADBCFCCD2941A08501BCCC5F0196B9" style="OLC">
+		<section id="H651F7F1FE02C4BD9BB377CA8AAED8F30" section-type="section-one"><enum>1.</enum><header>Public disclosure of information regarding surveillance activities under the Foreign Intelligence
+			 Surveillance Act of 1978</header>
+ <subsection id="H99D369AF7B6A41469E6939CE6CB343FF"><enum>(a)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="H225282A3E824471DB9E00BE2DCCA87CC"><enum>(1)</enum><header>FISA Court</header><text>The term <term>FISA Court</term> means a court established under section 103 of the Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1803">50 U.S.C. 1803</external-xref>).</text>
+ </paragraph><paragraph id="H3F5C44B0480C4C00B6AF76CE825F6CB4"><enum>(2)</enum><header>Intelligence community</header><text>The term <term>intelligence community</term> has the meaning given that term in section 3(4) of the National Security Act of 1947 (<external-xref legal-doc="usc" parsable-cite="usc/50/3003">50 U.S.C. 3003(4)</external-xref>).</text>
+				</paragraph></subsection><subsection id="H3BD865CC5809487191C4DEF878BBDDBA"><enum>(b)</enum><header>Requirement To disclose</header>
+ <paragraph id="H5352FFF34BD54699B78905CFE05EFFCB"><enum>(1)</enum><header>In general</header><text>If a FISA Court issues a decision that determines that surveillance activities conducted by the Government of the United States have violated the laws or Constitution of the United States, the Attorney General shall publicly disclose the decision in a manner consistent with the protection of the national security of the United States.</text>
+ </paragraph><paragraph id="H37D54EAA32274D9D9872943CC67E8607"><enum>(2)</enum><header>Disclosure described</header><text>For each disclosure required by paragraph (1), the Attorney General shall make available to the public documents sufficient to identify with particularity the statutory or constitutional provision that was determined to have been violated.</text>
+ </paragraph><paragraph id="H70D0C36E672748369BD389B5A3A3719A"><enum>(3)</enum><header>Documents described</header><text>The Attorney General shall satisfy the disclosure requirements in paragraph (2) by—</text> <subparagraph id="HCA0ACB8F94B94E3DB932A241564016AE"><enum>(A)</enum><text>releasing a FISA Court decision in its entirety or as redacted; or</text>
+ </subparagraph><subparagraph id="H7067315DA480435DB1070AD0B49B9330"><enum>(B)</enum><text>releasing a summary of a FISA Court decision.</text> </subparagraph></paragraph><paragraph id="H1E942B874A124BDBB8E1E7D2188C2087"><enum>(4)</enum><header>Extensive disclosure</header><text>The Attorney General shall release as much information regarding the facts and analysis contained in a decision described in paragraph (1) or documents described in paragraph (3) as is consistent with legitimate national security concerns.</text>
+ </paragraph><paragraph id="H1EBC77A99D6B4A18AE90C6F1DEB65114"><enum>(5)</enum><header>Timing of disclosure</header><text>A decision that is required to be disclosed under paragraph (1) shall be disclosed not later than 60 days after the decision is issued.</text>
+				</paragraph></subsection><subsection id="H13F28FBD1AB540F283975968AC524F35"><enum>(c)</enum><header>Director of National Intelligence disclosures to Congress and the public</header>
+ <paragraph id="H808164007D6D4487ADE85EC90E6A33EA"><enum>(1)</enum><header>Requirement for disclosures to Congress</header><text>Not later than 90 days after the date of the enactment of this Act, the Director of National Intelligence shall provide to Congress, in writing, the following information:</text>
+ <subparagraph id="H1C74B9953F134AD491436EF7564F0A40"><enum>(A)</enum><text>Whether the National Security Agency or any other element of the intelligence community has ever collected the cell-site location information of a large number of United States persons with no known connection to suspicious activity, or made plans to collect such information.</text>
+ </subparagraph><subparagraph id="H2214331A38794346BE219BB7F9D73369"><enum>(B)</enum><text>A description of the type and amount of evidence the Director of National Intelligence believes is required to permit the collection of cell-site location information of United States persons for intelligence purposes.</text>
+ </subparagraph><subparagraph id="H1E840E062555479386108AA0EC6C5295"><enum>(C)</enum><text>Whether the National Security Agency or any other element of the intelligence community has ever conducted a warrantless search of a collection of communications collected under section 702 of the Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1881a">50 U.S.C. 1881a</external-xref>) in an effort to find the communications of a particular United States person (other than a corporation).</text>
+ </subparagraph><subparagraph id="H7A46FD54AE2942258AD54F62DCBDFD6C"><enum>(D)</enum><text>If the National Security Agency or any other element of the intelligence community has conducted a search described in subparagraph (C), the number of such searches that have been conducted or an estimate of such number if it is not possible to provide a precise count.</text>
+ </subparagraph><subparagraph id="H8A703CE8F16545B08F59DC4D154525F2"><enum>(E)</enum><text>A specific description of when the United States Government first began relying on authorities under the Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">50 U.S.C. 1801 et seq.</external-xref>) to justify the collection of records pertaining to large numbers of United States persons with no known connection to suspicious activity.</text>
+ </subparagraph><subparagraph id="H8DAC387FD5004764AD299722EF700F57"><enum>(F)</enum><text>Whether representations made to the Supreme Court of the United States by the Department of Justice in the case of Clapper v. Amnesty International USA accurately described the use of authorities under the Foreign Intelligence Surveillance Act of 1978 by the United States Government, and if any representations were inaccurate, which representations were inaccurate and how such representations have been corrected.</text>
+ </subparagraph><subparagraph id="HB5F6621DC8504FEBB4EE7B38867C9CD5"><enum>(G)</enum><text>A listing of FISA Court opinions that identified violations of the law, the Constitution, or FISA Court orders with regard to collection carried out pursuant to section 402, 501, or 702 of the Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1842">50 U.S.C. 1842</external-xref>, 1861, and 1881a) and a description of the violations identified by a FISA Court.</text>
+					</subparagraph></paragraph><paragraph id="HF1584605C3B34DE7B12EF3407A268750"><enum>(2)</enum><header>Form of disclosures</header>
+ <subparagraph id="H530699CD728942E0B1855290A23EC8DB"><enum>(A)</enum><header>Disclosures to the Public</header><text>The written submission required by paragraph (1) shall be made available to the public not later than 15 days after the date it is submitted to Congress.</text>
+ </subparagraph><subparagraph id="HCDB58245C61140748E0A25D78E5F82CC"><enum>(B)</enum><header>Redactions</header><text>If the Director of National Intelligence believes that public disclosure of information in the written submission required by paragraph (1) could cause significant harm to national security, the Director may redact such information from the version made available to the public.</text>
+ </subparagraph><subparagraph id="H4E9A30D1948F437D99AE784EC428D3B0"><enum>(C)</enum><header>Submission to Congress</header><text>If the Director redacts information under subparagraph (B), not later than 30 days after the date the written submission required by paragraph (1) is made available to the public under subparagraph (A), the Director shall submit to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives a statement explaining the specific harm to national security that the disclosure of such information could cause.</text>
+					</subparagraph></paragraph></subsection><subsection id="H2ACF363D6A7D403F816521AC2965E2BB"><enum>(d)</enum><header>Assessment of economic impact of surveillance activities</header>
+ <paragraph id="H0EA02A801A154EDDA7616F7A49F56284"><enum>(1)</enum><header>Requirement for assessment</header><text display-inline="yes-display-inline">The Comptroller General of the United States, in consultation with the United States International Trade Commission, shall conduct an assessment of the economic impact of bulk collection programs conducted under title IV and title V of the Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1841">50 U.S.C. 1841 et seq.</external-xref>), as modified by the USA PATRIOT Act (<external-xref legal-doc="public-law" parsable-cite="pl/107/56">Public Law 107–56</external-xref>; 115 Stat. 272), and of surveillance programs conducted under section 702 of the Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1881a">50 U.S.C. 1881a</external-xref>), in light of the fact that such programs are now public.</text>
+ </paragraph><paragraph id="HFAC5458D1D9947379BE98C1D3D25E412"><enum>(2)</enum><header>Evaluation</header><text display-inline="yes-display-inline">The assessment required by paragraph (1) shall include an evaluation of the impact of these disclosures on United States communication service providers’ ability to compete in foreign markets.</text>
+ </paragraph><paragraph id="H78B18D430609441BACEFA4E96AB11DAA"><enum>(3)</enum><header>Submission to Congress</header><text>Not later than 270 days after the date of the enactment of this Act, the Comptroller General shall submit to Congress the findings of the assessment required by paragraph (1).</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

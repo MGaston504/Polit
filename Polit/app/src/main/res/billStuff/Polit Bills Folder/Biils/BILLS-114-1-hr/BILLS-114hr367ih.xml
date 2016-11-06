@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H86F7A2F39E454243AD947EB51164E277" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 367 IH: Campaign Sunlight Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 367</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150114">January 14, 2015</action-date> 
+<action-desc><sponsor name-id="D000610">Mr. Deutch</sponsor> (for himself, <cosponsor name-id="C001068">Mr. Cohen</cosponsor>, <cosponsor name-id="C001037">Mr. Capuano</cosponsor>, <cosponsor name-id="L000579">Mr. Lowenthal</cosponsor>, <cosponsor name-id="Q000023">Mr. Quigley</cosponsor>, and <cosponsor name-id="V000130">Mr. Vargas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend the Federal Election Campaign Act of 1971 to require the Federal Election Commission to establish and operate a website through which members of the public may view the contents of certain political advertisements, to require the sponsors of such advertisements to furnish the contents of the advertisements to the Commission, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H9EAF467ECC8146F08BEEAB86005BECC0" style="OLC"> 
+<section id="H414B9C0F268D4FC288FB4CEF5D212D7C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Campaign Sunlight Act of 2015</short-title></quote>. </text></section> <section id="HFEE8102F09CC44BE8E3277D51BEEEEBC"><enum>2.</enum><header>Establishment and operation of website of political advertisements</header> <subsection id="H1EC2D622D81E4EA5B1C3112C42A61CE3"><enum>(a)</enum><header>Establishment of website</header><text display-inline="yes-display-inline">Section 318 of the Federal Election Campaign Act of 1971 (<external-xref legal-doc="usc" parsable-cite="usc/52/30120">52 U.S.C. 30120</external-xref>) is amended by adding at the end the following new subsection:</text>
+<quoted-block style="OLC" id="HEF6FCA5B20194441A3F51E570D71BBCE" display-inline="no-display-inline">
+<subsection id="HEDDFFAA51B234CA8A50E1AC570EB3F7C"><enum>(e)</enum><header>Website for contents of political advertisements</header>
+<paragraph id="HC675CA592DA44048862F3DB9E91ECD75"><enum>(1)</enum><header>Website described</header>
+<subparagraph id="HEEF7FEC41EA74D63B4735C5FB2D17915"><enum>(A)</enum><header>In general</header><text>The Commission shall establish and operate a website, to be known as the <quote>Campaign Accountability Site</quote>, through which members of the public may view the contents of political advertisements. </text></subparagraph> <subparagraph id="HC6D3BD1B585C454D95910C6E8B1A1DFE"><enum>(B)</enum><header>Format</header><text>In operating the website under this subsection, the Commission shall—</text>
+<clause id="H50462C3327CF49088777BC276BBA6623"><enum>(i)</enum><text>make the contents of a political advertisement available for viewing in the same format through which the advertisement was disseminated; and</text></clause> <clause id="H58728A138AB645C6B445E1A9A96ED2E1"><enum>(ii)</enum><text display-inline="yes-display-inline">make the sources of the contents of the advertisement available on the website directly or through hyperlinks to the sources, as submitted to the Commission by the sponsor of the advertisement under paragraph (2)(B).</text></clause></subparagraph>
+<subparagraph id="H110E2AED2B714B4FB76BAF5BE669D4F7"><enum>(C)</enum><header>Hyperlink</header><text>The Commission shall make the website established and operated under this subsection available through a hyperlink on the Commission’s official public website.</text></subparagraph></paragraph> <paragraph id="H4D13AC21015041D5932739D39A8EF1B9"><enum>(2)</enum><header>Requiring sponsors of advertisements to provide contents to commission</header> <subparagraph id="H3A9F39B5A82543DC8E9C97DECF62A14F"><enum>(A)</enum><header>In general</header><text>The sponsor of a political advertisement shall submit the contents of the advertisement to the Commission in such format as the Commission may require to enable the Commission to include the advertisement on the website established and operated under paragraph (1).</text></subparagraph>
+<subparagraph id="HDD19838AF6A54963B10374BD92FEE008"><enum>(B)</enum><header>Inclusion of sources cited in contents</header><text>If the contents of a political advertisement include references to any quotation, article, hyperlink, or other source for any statement made in the advertisement, the sponsor of the advertisement shall include the full contents of the source (or a hyperlink to the full contents of the source) in the contents submitted to the Commission under this paragraph.</text></subparagraph> <subparagraph id="H282F1B66FC1842E9B3E06205AEBBA14E"><enum>(C)</enum><header>Deadline for submission</header><text>The sponsor of a political advertisement shall submit the contents of the advertisement to the Commission under subparagraph (A) not later than—</text>
+<clause id="HCC3BBB373EF14A049A7BD57FB6D92D6E"><enum>(i)</enum><text display-inline="yes-display-inline">24 hours after the advertisement is disseminated, in the case of an advertisement that is disseminated during the 7-day period that ends on the date of the election involved; or</text></clause> <clause id="H24030B6E85E547699035F3B859D4BD4F"><enum>(ii)</enum><text>72 hours after the advertisement is disseminated, in the case of an advertisement that is disseminated during any other period.</text></clause></subparagraph>
+<subparagraph id="H0896589F92CB4012913CFA6405525920" display-inline="no-display-inline"><enum>(E)</enum><header>Payment of fee</header><text>If the Commission determines that it is appropriate to impose fees on the sponsors of political advertisements in amounts which do not exceed the amount necessary to cover the costs to the Commission of establishing and operating the website under paragraph (1), at the time the sponsor of a political advertisement submits the contents of the advertisement to the Commission under subparagraph (A), the sponsor shall pay the Commission the amount of any such fee (as determined under a fee schedule established by the Commission). </text></subparagraph> <subparagraph id="HCA936D0887954EB0834C7CFB771A0696"><enum>(F)</enum><header>Sponsor defined</header><text>For purposes of this subsection, the <quote>sponsor</quote> of a political advertisement is—</text>
+<clause id="HCA2B9166847F46B6892A9F5CD8D3FAB9"><enum>(i)</enum><text display-inline="yes-display-inline">in the case of a political advertisement that is described in paragraph (1) or (2) of subsection (a), the authorized political committee involved; or</text></clause> <clause id="HC398FBAE6FD84770AC4BD2A939D75DEE"><enum>(ii)</enum><text>in the case of a political advertisement that is described in paragraph (3) of subsection (a), the person who is required under such paragraph to be identified as the person who paid for the advertisement.</text></clause></subparagraph></paragraph>
+<paragraph id="H0820C53F4FB0416A863E6AE622753CEE"><enum>(3)</enum><header>Political advertisement defined</header><text>In this subsection, a <quote>political advertisement</quote> means a communication that is subject to subsection (a) that refers to a clearly identified candidate and is disseminated during the 1-year period which ends on the date of the election for the office sought by the candidate.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H15BE72259E644DD0B7FC6E69A0ECC5BE"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall apply with respect to political advertisements disseminated after the expiration of the 120-day period that begins on the date of the enactment of this Act.</text></subsection></section> 
+</legis-body> 
+</bill> 
+
+

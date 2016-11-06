@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HFFE83D9870FE442ABC97F4D9F5F76148" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3000 IH: A Necessary and Targeted Impediment to Viruses Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3000</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150709">July 9, 2015</action-date>
+			<action-desc><sponsor name-id="C001090">Mr. Cartwright</sponsor> (for himself, <cosponsor name-id="C000984">Mr. Cummings</cosponsor>, and <cosponsor name-id="H001051">Mr. Hanna</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require the Administrator for General Services to obtain an antivirus product to make available
+			 to Federal agencies in order to provide the product to individuals whose
+			 personally identifiable information may have been compromised.</official-title>
+	</form>
+	<legis-body id="H9A354BBDA87640CDBE7CF0CC8B3D7815" style="OLC">
+ <section id="HC68122EBEEE9426F878AA6E2E418CE6B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>A Necessary and Targeted Impediment to Viruses Act</short-title></quote> or the <quote><short-title>ANTI Viruses Act</short-title></quote>.</text> </section><section id="H6FC3207498B14C91A9FF544BFC1446C7"><enum>2.</enum><header>Requirements for provision of antivirus software to certain individuals affected by data breach</header> <subsection id="H77D09AC418594A29822313C44F8F6209"><enum>(a)</enum><header>Requirement To Procure Antivirus Product</header> <paragraph id="H9F0526409C284C18B170E4EEA6EAF9C8"><enum>(1)</enum><header>In general</header><text>The Administrator for General Services shall procure an antivirus product suitable for Federal agencies to provide to individuals whose personally identifiable information may have been compromised.</text>
+ </paragraph><paragraph id="HA397B3A1024140CC854552AC28551A02"><enum>(2)</enum><header>Deadline</header><text display-inline="yes-display-inline">As soon as practicable after the date of the enactment of this Act, the Administrator shall issue a solicitation for vendors to provide the antivirus product described in paragraph (1). Not later than 1 year after such date, the Administrator shall award the contract for the product.</text>
+ </paragraph></subsection><subsection id="H27D739F29CB945269AFF5CF3A8887354"><enum>(b)</enum><header>Requirement To Provide One-Year License for Use of Antivirus Product</header><text>A Federal agency that experiences a compromise in its computer systems resulting in the loss of personally identifiable information shall provide to any individual directly affected a one-year license of the antivirus product procured under subsection (a).</text>
+ </subsection><subsection id="HEEA4C1BF838D4C709B13C85412ECF105"><enum>(c)</enum><header>Federal agency</header><text display-inline="yes-display-inline">In this section, the term <quote>Federal agency</quote> has the meaning provided the term <quote>Executive agency</quote> in section 105 of title 5, United States Code, and also includes the United States Postal Service and the Postal Regulatory Commission.</text>
+ </subsection><subsection id="HE14E4C52310F4DDDB46C7AEE0ACB919C"><enum>(d)</enum><header>Source of funds</header><text display-inline="yes-display-inline">The funds used by a Federal agency to carry out this Act shall be derived from amounts made available to the agency for operating expenses.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

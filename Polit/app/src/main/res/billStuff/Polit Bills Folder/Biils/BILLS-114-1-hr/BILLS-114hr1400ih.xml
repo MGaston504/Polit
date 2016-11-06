@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H447CED076132424E92B1E5033558C92B" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1400 IH: Medicaid Tax Fairness Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1400</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150317">March 17, 2015</action-date> 
+<action-desc><sponsor name-id="G000568">Mr. Griffith</sponsor> (for himself, <cosponsor name-id="G000558">Mr. Guthrie</cosponsor>, and <cosponsor name-id="B001275">Mr. Bucshon</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To amend title XIX of the Social Security Act to transition the Medicaid thresholds applied for determining acceptable provider taxes, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H28F6232AE673478CB47EE728960722AD" style="OLC"> 
+<section id="H994D32B93A014B8583228F8DE6E4CEE0" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medicaid Tax Fairness Act of 2015</short-title></quote>. </text></section> <section id="H12366CF5F38D4271AA8D09E429ECD017" section-type="subsequent-section"><enum>2.</enum><header>Transition of Medicaid thresholds applied for determining acceptable provider taxes</header><text display-inline="no-display-inline">Section 1903(w)(4)(C)(ii) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396b">42 U.S.C. 1396b(w)(4)(C)(ii)</external-xref>) is amended by striking the period at the end and inserting the following: </text>
+<quoted-block style="OLC" id="HB186F444314E46B58311D6B079911F4B" display-inline="yes-display-inline"><text display-inline="yes-display-inline">and except that the following percentages shall be substituted for <quote>6 percent</quote> each place it appears for portions of fiscal years occurring in the following years:</text> <subclause id="HA6C7B70BBD8D4506A345202C6BC2B499" commented="no" indent="up1"><enum>(I)</enum><text display-inline="yes-display-inline">For 2016, 5.9 percent.</text></subclause>
+<subclause id="HAF06517CFFC748A6A8288538056FB334" indent="up1"><enum>(II)</enum><text>For 2017, 5.8 percent.</text></subclause> <subclause id="H23BB615110804CFE8C1912E2BF6BBD2A" indent="up1"><enum>(III)</enum><text>For 2018, 5.7 percent.</text></subclause>
+<subclause id="HD7BC693397124BCE9C041E314E1F701E" indent="up1"><enum>(IV)</enum><text>For 2019, 5.6 percent.</text></subclause> <subclause id="H1461544029F74928BFECC3D96C006C92" indent="up1"><enum>(V)</enum><text>For 2020 and each year thereafter, 5.5 percent.</text></subclause><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body> 
+</bill> 
+
+

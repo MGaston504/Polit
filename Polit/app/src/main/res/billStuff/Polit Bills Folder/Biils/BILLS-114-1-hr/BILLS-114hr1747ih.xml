@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H54FF6C215E5942F6902F7EA93CE3AC90" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1747 IH: Special Needs Tax Credit Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1747</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150413">April 13, 2015</action-date>
+			<action-desc><sponsor name-id="D000610">Mr. Deutch</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to provide a credit to individuals for legal expenses
+			 paid with respect to establishing guardianship of a disabled individual.</official-title>
+	</form>
+	<legis-body id="HB4C73350342349CC875290597960F6D4" style="OLC">
+ <section id="H3F8EE59605C54F03B1F98A1DB8888234" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Special Needs Tax Credit Act</short-title></quote>.</text> </section><section id="H174CB2CCFAF84363917F4AB14664F767"><enum>2.</enum><header>Credit for legal expenses paid with respect to establishing guardianship of a disabled individual</header> <subsection id="HA4EA712A868B40408D4CA2243EDE5F72"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subpart C of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 (relating to refundable credits) is amended by inserting after section 36B the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="H9A521446DBC945DAA12C217ADA960C4F" style="OLC">
+					<section id="H192FE7F795F54B83BE61D4CAD7EC9FB8"><enum>36C.</enum><header>Credit for legal expenses paid with respect to establishing guardianship of a disabled individual</header>
+ <subsection id="H3050320ED24D45718747C8A32D56A413"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">In the case of an individual, there shall be allowed as a credit against the tax imposed by this subtitle an amount equal to the qualified legal guardianship expenses paid or incurred by the taxpayer during the taxable year.</text>
+ </subsection><subsection id="H22D019941D444768AE3AED42EFEDF84E"><enum>(b)</enum><header>Dollar limitation</header><text>The credit allowed under subsection (a) to any taxpayer with respect to any disabled individual for any taxable year shall not exceed the excess of—</text>
+ <paragraph id="HDF2710C2D9724DDA8E76BE6CBC05D54A"><enum>(1)</enum><text>$5,000, over</text> </paragraph><paragraph id="HE645CD624DC54CBBA969B5A50C8B9C2D"><enum>(2)</enum><text>the aggregate amount allowed as credit under subsection (a) to such taxpayer with respect to such disabled individual for all prior taxable years.</text>
+ </paragraph></subsection><subsection id="HB6C822B9C406487191156067911C9DE2"><enum>(c)</enum><header>Phaseout based on adjusted gross income</header><text>The dollar limitation applicable under subsection (b) shall be reduced by the amount which bears the same ratio to such dollar limitation (determined without regard to this subsection) as—</text>
+ <paragraph id="HD41704CD700949D793B00644BFE11641"><enum>(1)</enum><text>the excess of—</text> <subparagraph id="HF30B045708DB4C19985CE9C2E4E6B9EA"><enum>(A)</enum><text>the taxpayer’s adjusted gross income, over</text>
+ </subparagraph><subparagraph id="H59CD07B6BAFF4325A91950D8E49768B4"><enum>(B)</enum><text>$75,000 (twice such amount in the case of a joint return), bears to</text> </subparagraph></paragraph><paragraph id="HD9FE8FEE106B44E8B81599A34136D55A"><enum>(2)</enum><text>$15,000 (twice such amount in the case of a joint return).</text>
+ </paragraph></subsection><subsection id="HD97338AFACB7403B96EAF1D5A3117275"><enum>(d)</enum><header>Qualified legal guardianship expenses</header><text>For purposes of this section, the term <term>qualified legal guardianship expenses</term> means amounts paid or incurred by an individual as legal expenses in establishing such individual as the legal guardian of a disabled individual.</text>
+ </subsection><subsection id="HAF0E78D3EB5C4A8B9C2E9C9D774765D3"><enum>(e)</enum><header>Disabled individual</header><text display-inline="yes-display-inline">For purposes of this section, the term <term>disabled individual</term> means any individual who is disabled (within the meaning of section 1614(a)(3) of the Social Security Act).</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H1DCBCD86ACA64F06B849DFD04F0B22AA"><enum>(b)</enum><header>Conforming amendments</header>
+ <paragraph id="HE6F2B560C5BC4658906EB0D21003C6CE"><enum>(1)</enum><text>Section 6211(b)(4)(A) of such Code is amended by inserting <quote>36C,</quote> after <quote>36B,</quote>.</text> </paragraph><paragraph id="H1E9968D10C614CA79382E44E5D8D3A79"><enum>(2)</enum><text>Section 1324(b)(2) of title 31, United States Code, is amended by inserting <quote>36C,</quote> after <quote>36B,</quote>.</text>
+ </paragraph><paragraph id="H4F8AD0D32ED3420E8874D52B9606E531"><enum>(3)</enum><text>The table of sections for subpart C of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 36B the following new item:</text>
+					<quoted-block display-inline="no-display-inline" id="H764311BC90C24362A8D0B4D45E6AAAB9" style="OLC">
+						<toc container-level="quoted-block-container" idref="H9A521446DBC945DAA12C217ADA960C4F" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+							<toc-entry idref="H192FE7F795F54B83BE61D4CAD7EC9FB8" level="section">Sec. 36C. Credit for legal expenses paid with respect to establishing guardianship of a disabled
+			 individual.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="HAC43391589054769AE1BD52D4A4E1E71"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1718 IS: Four Rationers Repeal Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-07-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 1718</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150708">July 8, 2015</action-date><action-desc><sponsor name-id="S260">Mr. Roberts</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To provide for the repeal of certain provisions of the Patient Protection and Affordable Care Act
+			 that have the effect of rationing health care.</official-title></form>
+	<legis-body>
+ <section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Four Rationers Repeal Act of 2015</short-title></quote>.</text>
+		</section><section id="id16F045CEAF25403494FD2B87E376DEAE" section-type="subsequent-section"><enum>2.</enum><header>Repeal of the
+ Independent Payment Advisory Board</header><text display-inline="no-display-inline">Effective as of the enactment of the Patient Protection and Affordable Care Act (<external-xref legal-doc="public-law" parsable-cite="pl/111/148">Public Law 111–148</external-xref>), sections 3403 and 10320 of such Act (including the amendments made by such sections) are repealed, and any provision of law amended by such sections is hereby restored as if such sections had not been enacted into law.</text>
+		</section><section id="id188B67103B4544508C98D021B260DE49"><enum>3.</enum><header>Repeal of the
+		Center for Medicare and Medicaid Innovation</header>
+			<subsection id="idEC063EC685474708BD792299952E6B35"><enum>(a)</enum><header>In
+ general</header><text>Section 1115A of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1315a">42 U.S.C. 1315a</external-xref>) is repealed.</text>
+			</subsection><subsection id="idBB7876BF53E04B7FA8FD2D799C021852"><enum>(b)</enum><header>Conforming
+		amendments</header>
+				<paragraph commented="no" display-inline="no-display-inline" id="id1B44A752BBC049BF8D0CC10D4F86C5E4"><enum>(1)</enum><header>Title XVIII of
+ SSA</header><text>Section 1899(b)(4)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395jjj">42 U.S.C. 1395jjj(b)(4)(A)</external-xref>) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id554C90E0F90044AC8F6AFD22A4DB4D54" style="OLC">
+ <subparagraph commented="no" display-inline="no-display-inline" id="id3D03D0CDDEA344CFAF20BF27358CC3D8"><enum>(A)</enum><text>A program or demonstration project that involves shared savings under this title.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph><paragraph id="id5B979D0D82DB4502A17704DE495A30F4"><enum>(2)</enum><header>Title XIX of SSA</header><text>Section 1902(a) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396a">42 U.S.C. 1396a(a)</external-xref>) is amended—</text>
+ <subparagraph id="id7A04B81A60E840AD90551D76EC0EF386"><enum>(A)</enum><text>in paragraph (79), by adding <quote>and</quote> after the semicolon at the end;</text>
+ </subparagraph><subparagraph id="idE7D0F37478444413B63C3B3EDC086711"><enum>(B)</enum><text>in paragraph (80), by striking <quote>; and</quote> and inserting a period; and</text>
+ </subparagraph><subparagraph id="id4E462973FC4542F7936E31496D0E533E"><enum>(C)</enum><text>by striking paragraph (81).</text>
+ </subparagraph></paragraph><paragraph id="id6B0C74DD399D4F94AD959B06B1DE68CC"><enum>(3)</enum><header>PHSA</header><text>Section 933 of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/299b-33">42 U.S.C. 299b–33</external-xref>) is amended—</text>
+ <subparagraph id="id85C0F9B299B7476F80E7AE8157FC23C6"><enum>(A)</enum><text>by striking subsection (f); and</text>
+ </subparagraph><subparagraph id="id5CABD96C443A439FB4B6109BAA1BBEA2"><enum>(B)</enum><text>by redesignating subsection (g) as subsection (f).</text>
+ </subparagraph></paragraph><paragraph id="id9ECBBD6F84264E8AA3AF592C63E2531C"><enum>(4)</enum><header>PPACA</header><text>The Patient Protection and Affordable Care Act (<external-xref legal-doc="public-law" parsable-cite="pl/111/148">Public Law 111–148</external-xref>) is amended—</text>
+ <subparagraph id="id34FCB6D78C3E4C49BBE7C193899103BB"><enum>(A)</enum><text>in section 2705 (<external-xref legal-doc="usc" parsable-cite="usc/42/1315a">42 U.S.C. 1315a</external-xref> note)—</text>
+ <clause id="idBF0185B32DA646A3B9DD5B3C4BF8D586"><enum>(i)</enum><text>in subsection (a), by striking <quote>shall, in coordination</quote> and that follows through <quote>establish</quote> and inserting <quote>shall establish</quote>; and</text>
+ </clause><clause id="idB129BC074FC74755AA93CA940046FFC7"><enum>(ii)</enum><text>in subsection (d)(2), by striking <quote>section 1115A(b)(3) of the Social Security Act (as so added)</quote> and inserting <quote>the Social Security Act</quote>; and</text>
+ </clause></subparagraph><subparagraph id="id06FA34D7A66641FD823C83118989CBBB"><enum>(B)</enum><text>in section 10328(b) (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-104">42 U.S.C. 1395w–104</external-xref> note), by striking <quote>or to study</quote> and all that follows through <quote>3021</quote>.</text>
+ </subparagraph></paragraph></subsection><subsection id="idA5095AF130D54FABB1767927AAB00679"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall take effect on the date of enactment of this Act.</text> </subsection></section><section id="id46B50F80EEF246478496E6DFA1B53417"><enum>4.</enum><header>Repeal of certain United States Preventive Services Task Force authority</header> <subsection id="idBB658699658A4232B67B428CA5864D3C"><enum>(a)</enum><header>Authority To determine benefits</header><text display-inline="yes-display-inline">Section 2713(a) of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300gg-13">42 U.S.C. 300gg–13(a)</external-xref>) is amended—</text>
+ <paragraph id="idCEFF5B3969014F47BCD9F6E110AF19CE"><enum>(1)</enum><text display-inline="yes-display-inline">by striking paragraph (1);</text> </paragraph><paragraph id="idFCFF91B0C4E4412299D0956587991776"><enum>(2)</enum><text display-inline="yes-display-inline">in paragraph (3), by striking <quote>not described in paragraph (1)</quote>; and</text>
+ </paragraph><paragraph id="idEC0EBA5EEFCC4754B633A68E2F85A661"><enum>(3)</enum><text>by redesignating paragraphs (2) through (5) as paragraphs (1) through (4), respectively.</text> </paragraph></subsection><subsection id="id17DA10B5C88E4BFBA74635BF20A25C7F"><enum>(b)</enum><header>Repeal of Community Preventive Services Task Force</header><text>Section 4003 of the Patient Protection and Affordable Care Act (<external-xref legal-doc="public-law" parsable-cite="pl/111/148">Public Law 111–148</external-xref>) is repealed and the provisions of the Public Health Service Act amended by such section are restored or revived as if such section 4003 had not been enacted.</text>
+			</subsection></section><section id="id518805F1C3184FBDB7E38AC1395E8308"><enum>5.</enum><header>Prohibition on
+			 Certain Uses of Data Obtained from Comparative Effectiveness Research;
+			 Accounting for Personalized Medicine and Differences in Patient Treatment
+			 Response</header>
+			<subsection id="idFF5466E0B76E494DA4E87455130B7ADE"><enum>(a)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, the Secretary of Health and Human Services—</text>
+ <paragraph id="id24111E4BF57748A28D021F2CC9E1CEE5"><enum>(1)</enum><text display-inline="yes-display-inline">shall not use data obtained from the conduct of comparative effectiveness research, including such research that is conducted or supported using funds appropriated under the American Recovery and Reinvestment Act of 2009 (<external-xref legal-doc="public-law" parsable-cite="pl/111/5">Public Law 111–5</external-xref>) or authorized or appropriated under the Patient Protection and Affordable Care Act (<external-xref legal-doc="public-law" parsable-cite="pl/111/148">Public Law 111–148</external-xref>), to deny or delay coverage of an item or service under a Federal health care program (as defined in section 1128B(f) of the Social Security Act (42 U.S.C. 1320a–7b(f))); and</text>
+ </paragraph><paragraph id="ID59a96b9809a344eaac47c81fa5319709"><enum>(2)</enum><text>shall ensure that comparative effectiveness research conducted or supported by the Federal Government accounts for factors contributing to differences in the treatment response and treatment preferences of patients, including patient-reported outcomes, genomics and personalized medicine, the unique needs of health disparity populations, and indirect patient benefits.</text>
+				</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id066FDF71BF284CF39CF8ABF2C6363419"><enum>(b)</enum><header>Rule of
+ construction</header><text>Nothing in this section shall be construed as affecting the authority of the Commissioner of Food and Drugs under the Federal Food, Drug, and Cosmetic Act or the Public Health Service Act.</text></subsection></section></legis-body></bill>
+
+

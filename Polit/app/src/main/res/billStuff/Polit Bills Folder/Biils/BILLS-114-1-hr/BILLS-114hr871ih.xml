@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H504338831A2D43428A59FD29B33DC037" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 871 IH: Formerly Incarcerated Voter Registration Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 871</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150211">February 11, 2015</action-date>
+			<action-desc><sponsor name-id="J000294">Mr. Jeffries</sponsor> (for himself and <cosponsor name-id="M001188">Ms. Meng</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 18, United States Code, to direct the Bureau of Prisons to provide certain voting
+			 information to Federal prisoners upon their release from prison.</official-title>
+	</form>
+	<legis-body id="H927834E331644783858D0B1FF02E3BBA" style="OLC">
+ <section id="H4038FB6ECBE548889783391E9ABAFE1E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Formerly Incarcerated Voter Registration Act of 2015</short-title></quote>.</text> </section><section id="H86B6E0BEA8BA446E8129220C8D5A485F"><enum>2.</enum><header>Provision of voting information to Federal prisoners</header><text display-inline="no-display-inline">Section 4042(a)(E) of title 18, United States Code, is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HC4E17D83E4C24E78BE55BF01C5427EAF" style="USC">
+ <clause id="H51520CA7DB9A4E08A81D7218FB45A394"><enum>(viii)</enum><text display-inline="yes-display-inline">The laws and regulations governing the right of an individual convicted of a felony who has been released from prison to vote in each State, and, for the State in which the prisoner will reside upon release, any voter registration or application forms that the prisoner will need to complete in order to vote. For purposes of this clause, the term <term>State</term> includes the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

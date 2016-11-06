@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S621 IS: Preventing Antibiotic Resistance Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-03-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 621</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150302">March 2, 2015</action-date><action-desc><sponsor name-id="S221">Mrs. Feinstein</sponsor> (for herself, <cosponsor name-id="S252">Ms. Collins</cosponsor>, <cosponsor name-id="S331">Mrs. Gillibrand</cosponsor>, and <cosponsor name-id="S366">Ms. Warren</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Federal Food, Drug, and Cosmetic Act to ensure the safety and effectiveness of
+			 medically important antimicrobials approved for use in the prevention and
+			 control of animal diseases, in order to minimize the development of
+			 antibiotic-resistant bacteria.</official-title></form>
+	<legis-body id="HBD4A645823F04386A0B52903F778D522" style="OLC">
+ <section id="H31F72AF810FF45438D365278EDD8A63B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Preventing Antibiotic Resistance Act of 2015</short-title></quote>.</text>
+ </section><section id="H79549DAE2C4E4302BFDFD268E2F21071"><enum>2.</enum><header>Purpose</header><text display-inline="no-display-inline">The purpose of this Act is to ensure the safety and effectiveness of medically important antimicrobials approved for use in the prevention and control of animal diseases, in order to minimize the development of antibiotic-resistant bacteria.</text>
+		</section><section id="H8622D991CFD84C93AFFB17E342DE050A"><enum>3.</enum><header>Evidence of safety
+			 of medically important veterinary antimicrobials</header>
+			<subsection id="HF2A8078D34EF41DBB09055B5D9519C6F"><enum>(a)</enum><header>Applications
+ pending or submitted after enactment</header><text>Section 512(d)(1) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360b">21 U.S.C. 360b(d)(1)</external-xref>) is amended—</text>
+ <paragraph id="HDCAAE38161384355A993DE33D7F5109E"><enum>(1)</enum><text>in the first sentence—</text>
+ <subparagraph id="H25F1E62275C84A8E8A7B23232457EC06"><enum>(A)</enum><text>in subparagraph (H), by striking <quote>or</quote> at the end;</text>
+ </subparagraph><subparagraph id="H4E7384A50574489D9A04E3B89A55DB6D"><enum>(B)</enum><text>in subparagraph (I), by inserting <quote>or</quote> at the end; and</text>
+ </subparagraph><subparagraph id="H5B3E05DD3BD9474AB1255052B999C902"><enum>(C)</enum><text>by inserting after subparagraph (I) the following:</text>
+						<quoted-block id="H7DBB8DA351664928927920ACCE183690" style="OLC">
+ <subparagraph id="HD2DA9C9482C0498387E774830E8E4A2B"><enum>(J)</enum><text>with respect to a medically important antimicrobial (as defined in subsection (q)), the applicant has failed to demonstrate that a New Animal Drug Application for an antimicrobial labeled for disease prevention or control fails to meet the criteria in subsection (q)(2)(A);</text></subparagraph><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="H2369384792E64BF2AAE755401B1E6336"><enum>(2)</enum><text>in the second sentence, by striking <quote>(A) through (I)</quote> and inserting <quote>(A) through (J)</quote>.</text>
+				</paragraph></subsection><subsection id="H0AD6E75193CE4D049107DBB187E8BCB9"><enum>(b)</enum><header>Ensuring judicious use in animals of medically important
+ antimicrobials</header><text>Section 512 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360b">21 U.S.C. 360b</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block id="H0032508606FA496AB9891225265DDC2C" style="OLC">
+					<subsection id="HC2CF2463631B4195AFCCF82ECB3F0A2F"><enum>(q)</enum><header>Ensuring judicious use in animals of medically important
+				antimicrobials</header>
+ <paragraph id="H194FDEE1648841B4A4E6CFEFE77CE31D"><enum>(1)</enum><header>Applicability</header><text>This subsection applies to medically important antimicrobials approved for use in a food-producing animal—</text>
+ <subparagraph id="H41862A6C7D9C4710BB38B03ED3BD856F"><enum>(A)</enum><clause commented="no" display-inline="yes-display-inline" id="idD8B030404527462FAC537EBB926B8616"><enum>(i)</enum><text>for which there is in effect an approval of an application or an exemption under subsection (b), (i), or (j) of section 505; or</text>
+ </clause><clause id="idB5BD88B6F88945D1B9644D23F2BFDB76" indent="up1"><enum>(ii)</enum><text>that is otherwise marketed for human use;</text>
+ </clause></subparagraph><subparagraph id="idD065E3E84CF94BC5ACAABDDF85E33C76"><enum>(B)</enum><text>for which the Food and Drug Administration has initiated or completed withdrawal or modification of an approved label for growth promotion, feed efficiency, or other production use or over-the-counter use, in accordance with the Guidance for Industry entitled, <quote>New Animal Drugs and New Animal Drug Combination Products, Administered in or on Medicated Feed or Drinking Water of Food-Producing Animals: Recommendations for Drug Sponsors for Voluntarily Aligning Product Use Conditions with GFI #209</quote>, published in December 2013; and</text>
+ </subparagraph><subparagraph id="id3FA8634E0E01496CB335033F6C779264"><enum>(C)</enum><text>for which the Food and Drug Administration has approved a label—</text> <clause id="id4E74C5087D1B4E648544B6B233C64053"><enum>(i)</enum><text>for disease control or prevention at the same or similar dosage level as applicable for the approved production use described in subparagraph (B);</text>
+ </clause><clause id="id7935CA4F73C14FE18B8955F9B5A11DC9"><enum>(ii)</enum><text>that does not specify an explicitly defined duration of therapy; or</text> </clause><clause id="id91A6EC8467C946A086E61BAF3D99F608"><enum>(iii)</enum><text>specifying a dosage that is not expected to treat a specific bacterial pathogen.</text>
+								</clause></subparagraph></paragraph><paragraph id="H7957C19A34A94E9B9D0E22CCCC6A69A4"><enum>(2)</enum><header>Review of disease prevention and control approvals</header>
+ <subparagraph id="id0F66519D86024ED2966B931EE91B320D"><enum>(A)</enum><header>In general</header><text>Not later than January 1, 2017, the Secretary shall initiate a process whereby—</text>
+ <clause id="id0293CC8003F4424FAAEC9F45E2982D87"><enum>(i)</enum><text>not later than January 1, 2018, a sponsor of an antimicrobial drug described in paragraph (1) shall submit to the Secretary evidence demonstrating that, with respect to such drug—</text>
+ <subclause id="id98290B31C9BA4FEB8225A387A7FC90D0"><enum>(I)</enum><text>there is evidence of effectiveness in controlling or preventing bacterial disease;</text> </subclause><subclause id="idb50d9c48d12a4c27bda030159a04880b"><enum>(II)</enum><text>an approved use is consistent with accepted veterinary practice;</text>
+ </subclause><subclause id="idee37e3482a234b06935fbc32f6487a7c"><enum>(III)</enum><text>an approved use is linked to a specific etiologic agent;</text> </subclause><subclause id="iddd552f13c0b841b38faeb8576c9e92ee"><enum>(IV)</enum><text>an approved use is appropriately targeted to animals at risk of developing a specific bacterial disease;</text>
+ </subclause><subclause id="id9deb91f205f04399ba72a4c5fa32606f"><enum>(V)</enum><text>an approved use has an explicitly defined duration of therapy; and</text> </subclause><subclause id="idf41eb9411c21431ca94f4ff37f51238c"><enum>(VI)</enum><text>there is reasonable certainty of no harm to human health due to the development of antimicrobial resistance; and</text>
+ </subclause></clause><clause id="idC08ADB73A98B47AABD8C6D9814AABE7D"><enum>(ii)</enum><subclause commented="no" display-inline="yes-display-inline" id="id81789A1C2FCC42A197E7C3DAB1A0FC2D"><enum>(I)</enum><text>if the Secretary determines that the evidence submitted under clause (i) is sufficient to demonstrate that the drug meets the requirements described in subclauses (I) through (VI) of such clause, not later than December 31, 2018, the Secretary shall issue a revised label approval for the antimicrobial drug, as necessary; or</text>
+ </subclause><subclause id="idF4F7AD1535B24918B05130800C29B39F" indent="up1"><enum>(II)</enum><text>if the Secretary determines that the evidence submitted under clause (i) is insufficient to demonstrate that the drug meets the requirements described in subclauses (I) through (VI) of such clause, not later than December 31, 2018, the Secretary shall withdraw approval of any indication claims described in paragraph (1)(C) for which the Secretary determines the evidence is insufficient and, as necessary, issue a revised label approval.</text>
+ </subclause></clause></subparagraph><subparagraph id="id5392C74AD5974295A9CEF5181BFC2D6E"><enum>(B)</enum><header>Withdrawal of claims</header><text>On or before January 1, 2018, the sponsor of a drug described in paragraph (1) may request the approval of the Secretary to remove any label claim described in paragraph (1)(C), and the Secretary shall approve any such request and, as necessary, issue a revised label. The sponsor shall not be required to submit the evidence required under subparagraph (A)(i) with respect to any claim so withdrawn.</text>
+ </subparagraph></paragraph><paragraph id="HA9C1575E3794454FBCC4D4377D53C85F"><enum>(3)</enum><header>Exemptions</header><text>In the case of a drug that is a medically important antimicrobial for which the Secretary grants an exemption under section 505(i), the withdrawal of indication claims in a food-producing animal in accordance with paragraph (2)(B) shall be effective on the date that is 2 years after the date on which the Secretary grants the exemption, unless, not later than 2 years after the date on which the Secretary grants the exemption, the Secretary provides a written determination of intent to extend the exemption.</text>
+ </paragraph><paragraph id="H8345B1B0B472438394492D269DAF97E5"><enum>(4)</enum><header>Definition</header><text>In this subsection, the term <term>medically important antimicrobial</term> means a drug that—</text>
+ <subparagraph id="H82E049A3B32644AFB987CFC6A9311956"><enum>(A)</enum><text>is intended for use in food-producing animals; and</text>
+ </subparagraph><subparagraph id="H8444E9CF213D4DEF9337399D17108667"><enum>(B)</enum><text>is composed wholly or partly of—</text>
+ <clause id="HED66A36DA17544AFBC37FA805AB89E52"><enum>(i)</enum><text>any kind of penicillin, tet­ra­cy­cline, mac­ro­lide, lin­cos­amide, strep­to­gram­in, aminoglycoside, sul­fon­amide, ceph­a­lo­spo­rin, or flu­o­ro­quin­o­lone; or</text>
+ </clause><clause id="H4E0B81DCAAFB4A6089EF43F3E85077F0"><enum>(ii)</enum><text>a drug from an antimicrobial class that is listed as <quote>highly important</quote>, <quote>critically important</quote>, or <quote>important</quote> by the World Health Organization in the latest edition of its publication entitled <quote>Critically Important Antimicrobials for Human Medicine</quote> (or a successor publication).</text></clause></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="id7C099FF449A04E1BAC9130CC9B27C5D0"><enum>4.</enum><header>Sense of the
+			 Senate regarding veterinary oversight of use of medically important
+			 antimicrobials</header>
+			<subsection id="id6f0053d807a240ec99c372c62d339c71"><enum>(a)</enum><header>In
+ general</header><text>It is the sense of the Senate that a valid veterinarian-client-patient relationship should exist to ensure that medically important antimicrobials are used in food-producing animals in a manner that is consistent with professionally accepted best practices.</text>
+			</subsection><subsection id="id84f52339b2de4a75888c636c1be173ce"><enum>(b)</enum><header>Veterinarian-Client-Patient
+ relationship</header><text>In this section, the term <term>veterinarian-client-patient relationship</term> means a relationship in which all of the following criteria are met:</text>
+ <paragraph id="id6d4c2139fe6744d5afd7e3ca65655da9"><enum>(1)</enum><text>The veterinarian has assumed the responsibility for making medical judgments regarding the health of the patient and the client has agreed to follow the veterinarian's instructions.</text>
+ </paragraph><paragraph id="idc8a0824db5d943459f7e03b7c8b035a4"><enum>(2)</enum><text>The veterinarian has sufficient knowledge of the patient to initiate at least a general or preliminary diagnosis of the medical condition of the patient. This means that the veterinarian is personally acquainted with the keeping and care of the patient by virtue of—</text>
+ <subparagraph id="idbe89e26a1d1b4f419047d487eb88d5ba"><enum>(A)</enum><text>a timely examination of the patient by the veterinarian; or</text>
+ </subparagraph><subparagraph id="id066181b982dc433b91d7831893e0a57e"><enum>(B)</enum><text>medically appropriate and timely visits by the veterinarian to the premises where the animal or animals are kept.</text>
+ </subparagraph></paragraph><paragraph id="id8d2d1cca67dd4ae381a5a86cc63726ee"><enum>(3)</enum><text>The veterinarian is readily available for follow-up evaluation or has arranged for veterinary emergency coverage and continuing care and treatment.</text>
+ </paragraph><paragraph id="id8503f66cd3c042e88ab3da541536a257"><enum>(4)</enum><text>The veterinarian provides oversight of treatment, compliance, and outcome.</text>
+ </paragraph><paragraph id="id20fb51fd3b044959a2e8d5cb549c2c93"><enum>(5)</enum><text display-inline="yes-display-inline">Patient records are maintained.</text></paragraph></subsection></section></legis-body></bill> 
+

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HCDFE42C37B9745E08D69932099BC0DCA" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1551 IH: Highway Restoration Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1551</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150323">March 23, 2015</action-date>
+			<action-desc><sponsor name-id="S000051">Mr. Sanford</sponsor> (for himself, <cosponsor name-id="J000296">Mr. Jolly</cosponsor>, <cosponsor name-id="B001289">Mr. Byrne</cosponsor>, <cosponsor name-id="D000615">Mr. Duncan of South Carolina</cosponsor>, <cosponsor name-id="M001182">Mr. Mulvaney</cosponsor>, <cosponsor name-id="A000367">Mr. Amash</cosponsor>, <cosponsor name-id="M001187">Mr. Meadows</cosponsor>, <cosponsor name-id="R000597">Mr. Rice of South Carolina</cosponsor>, and <cosponsor name-id="M001184">Mr. Massie</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to phaseout the Mass Transit Account.</official-title>
+	</form>
+	<legis-body id="HC73BA2ECDCC84AEC8E9B69BF574BAEAE" style="OLC">
+ <section id="H491272BDDB624FD68F9212C16D006051" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Highway Restoration Act of 2015</short-title></quote>.</text> </section><section id="H458BC409428447CC908FCD39A48686FE"><enum>2.</enum><header>Phaseout of Mass Transit Account</header> <subsection id="H2064068F25FB43B380AAD9075F921556"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/9503">Section 9503(e)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HC9F8D65D11CD4496AA4695BC11C90389" style="OLC">
+ <paragraph id="H1F72188007FB454FA76BE9C82E5F5C1C"><enum>(6)</enum><header>Phaseout</header><text display-inline="yes-display-inline">In the case of fiscal years beginning after September 30, 2015, each rate determined under paragraph (2) shall be the applicable percentage of such rate. For purposes of the preceding sentence, the applicable percentage shall be determined under the following table:</text>
+						<table align-to-level="section" blank-lines-before="1" colsep="1" frame="topbot" line-rules="hor-ver" rowsep="0" rule-weights="4.4.4.0.0.0" table-template-name="Generic: 2 text, 1st longer" table-type=""><tgroup cols="2" grid-typeface="1.1" no-carding="1" rowsep="0" thead-tbody-ldg-size="10.10.12"><colspec coldef="txt" colname="column1" colwidth="258pts" min-data-value="200" rowsep="0"></colspec><colspec coldef="fig" colname="column2" colwidth="151.88pt" min-data-value="12"></colspec><thead><row><entry align="center" colname="column1" morerows="0" namest="column1" rowsep="1">In the case of fiscal year:</entry><entry align="center" colname="column2" morerows="0" namest="column2" rowsep="1">The applicable<linebreak></linebreak> percentage is:</entry></row></thead><tbody><row><entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2016</entry><entry align="right" colname="column2" leader-modify="clr-ldr" rowsep="0">80 percent</entry></row><row><entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2017</entry><entry align="right" colname="column2" leader-modify="clr-ldr" rowsep="0">60 percent</entry></row><row><entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2018</entry><entry align="right" colname="column2" leader-modify="clr-ldr" rowsep="0">40 percent</entry></row><row><entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2019</entry><entry align="right" colname="column2" leader-modify="clr-ldr" rowsep="0">20 percent</entry></row><row><entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2020 and each fiscal year thereafter</entry><entry align="right" colname="column2" leader-modify="clr-ldr" rowsep="0">0 percent.</entry></row></tbody></tgroup></table></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H6CE9C77D78CE40F69D1470289D79383B"><enum>(b)</enum><header>Conforming amendment</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/9503">Section 9503(e)(5)(A)</external-xref> of the Internal Revenue Code of 1986 is amended is amended by striking <quote>paragraph (2)</quote> and inserting <quote>paragraphs (2) and (6)</quote>.</text> </subsection><subsection id="HFD7024C342064CAC832CFAEF66CB60B6"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to years beginning after September 30, 2015.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

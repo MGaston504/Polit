@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H445B20277791423085206859BE43B983" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 198 IH: Multimodal Opportunities Via Enhanced Freight Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 198</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150107">January 7, 2015</action-date>
+			<action-desc><sponsor name-id="S001165">Mr. Sires</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend titles 23 and 49, United States Code, to establish national policies and programs to
+			 strengthen freight-related infrastructure, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H6A3E4EDC641549C18EB502EE1AF58452" style="OLC">
+		<section id="H5B2F51B2818E43B79196104C300E2CDA" section-type="section-one"><enum>1.</enum><header>Short title; table of contents</header>
+			<subsection id="HF06353F7D55048FCA1E2F738D0A45368"><enum>(a)</enum><header>Short title</header><text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Multimodal Opportunities Via Enhanced Freight Act of 2015</short-title></quote> or the <quote><short-title>MOVE Freight Act of 2015</short-title></quote>.</text>
+			</subsection><subsection id="HE3171C9D7231430EB377D1E87950AA80"><enum>(b)</enum><header>Table of contents</header><text>The table of contents for this Act is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="H5B2F51B2818E43B79196104C300E2CDA" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="HAC4BF6839B054D72B7B02854FF101A14" level="section">Sec. 2. Findings.</toc-entry>
+					<toc-entry idref="H553BBD09CEF24096B705B7A973588CC3" level="title">Title I—National and State Freight Policy and Planning</toc-entry>
+					<toc-entry idref="H359F02ACD0634687AFF7ACB0C3349B18" level="section">Sec. 101. National freight policy.</toc-entry>
+					<toc-entry idref="H905111E7E25B41F7B5A671AD6D7E2787" level="section">Sec. 102. State freight plans.</toc-entry>
+					<toc-entry idref="H7C8F9D7336E9419882E4C3D4DB3BA575" level="title">Title II—National Freight Infrastructure Investment </toc-entry>
+					<toc-entry idref="HCA94C899ED2F4390A591AEB81FE661FE" level="section">Sec. 201. National freight infrastructure investment grants.</toc-entry></toc>
+			</subsection></section><section id="HAC4BF6839B054D72B7B02854FF101A14"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+			<paragraph id="H0BC35A703F6D4890BFCD4DE4D7B2DB48"><enum>(1)</enum><text display-inline="yes-display-inline">The rapid and cost efficient movement of goods throughout the United States supply chain, and
+			 particularly through United States trade gateways and corridors, is vital
+			 to securing the Nation’s economic future and maintaining the Nation’s
+			 competitiveness in world markets.</text>
+			</paragraph><paragraph id="HC6412E5DFEDC4CF09D06EA3FB5973D07"><enum>(2)</enum><text>More than $16 trillion worth of freight was moved in the United States in 2010, accounting for $13
+			 trillion in domestic shipments and $3 trillion in international exports
+			 and imports.</text>
+			</paragraph><paragraph id="H523A602837214ACB9A40D0C55FA7A732"><enum>(3)</enum><text>Freight is forecasted to grow, with indicators showing that United States shipments will more than
+			 double between 2010 and 2040 to roughly $39.5 trillion annually, with an
+			 estimated $10.3 trillion worth of goods using multiple modes of
+			 transportation each year.</text>
+			</paragraph><paragraph id="HC1707E9534BD46278B1013ACFE1E49E1"><enum>(4)</enum><text>By 2020, the Nation’s projected surface transportation infrastructure deficiencies are expected to
+			 cost the national economy cumulatively almost $900 billion in gross
+			 domestic product, rising to $2.7 billion through 2040.</text>
+			</paragraph><paragraph id="H152A19E1D7A644CE972F46A87DD53057"><enum>(5)</enum><text>It is the responsibility of the Federal Government to support business by helping to ensure
+			 multimodal freight networks that will provide reliable, efficient, and
+			 safe transportation, allowing cost-effective transport of goods to markets
+			 near and far.</text>
+			</paragraph><paragraph id="HD87BD92B25B144BEB2B3628498DF1859"><enum>(6)</enum><text>A national campaign of strategic investment to expand capacity and increase efficiency can
+			 circumvent the projected loss in United States productivity and decline in
+			 global competitiveness.</text>
+			</paragraph><paragraph id="HE7B8CD65A4AE481DAD63D0849BC31E18"><enum>(7)</enum><text display-inline="yes-display-inline">In establishing national policies and programs to strengthen freight-related infrastructure, the
+			 President, Federal officials, and other relevant stakeholders should
+			 consider the critical importance of freight to United States businesses
+			 and global economic competitiveness.</text>
+			</paragraph><paragraph id="HD8962A9271D64C14A46AA521A5639A6A"><enum>(8)</enum><text display-inline="yes-display-inline">Under the Constitution, it is the role of the Federal Government to protect and promote commerce
+			 with foreign nations and among the States through all reasonable means,
+			 including through investment in goods movement infrastructure.</text>
+			</paragraph></section><title id="H553BBD09CEF24096B705B7A973588CC3"><enum>I</enum><header>National and State Freight Policy and Planning</header>
+			<section id="H359F02ACD0634687AFF7ACB0C3349B18"><enum>101.</enum><header>National freight policy</header>
+				<subsection id="H5A2F95E6FD214C8693F1F069E36C7301"><enum>(a)</enum><header>National freight network defined</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/23/101">Section 101(a)</external-xref> of title 23, United States Code, is amended—</text>
+					<paragraph id="H5745729DB62A4D96A42638DF7B8F2B8E"><enum>(1)</enum><text>by redesignating paragraphs (15) through (34) as paragraphs (16) through (35), respectively; and</text>
+					</paragraph><paragraph id="H5061574903B446D7A8345D0002827C1F"><enum>(2)</enum><text>by inserting after paragraph (14) the following:</text>
+						<quoted-block display-inline="no-display-inline" id="HCCA394AEF04C417F9E6A86FC9D52B465" style="OLC">
+							<paragraph id="HB98D8A24621440A7979762F9B5FE90DF"><enum>(15)</enum><header>National freight network</header><text display-inline="yes-display-inline">The term <term>national freight network</term> means a network composed of highways, railways, navigable waterways, seaports, airports, freight
+			 intermodal connectors, and aerotropolis transportation systems most
+			 critical to the multimodal movement of freight.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection id="HE3E89A6BAB8840F8BCF8DB9B0A82D738"><enum>(b)</enum><header>Establishment and designation of national freight network</header><text>Subsections (c) and (d) of <external-xref legal-doc="usc" parsable-cite="usc/23/167">section 167</external-xref> of title 23, United States Code, are amended to read as
+			 follows:</text>
+					<quoted-block display-inline="no-display-inline" id="H041C824CDC93451E8D6A1B1CF8BC4AE9" style="OLC">
+						<subsection id="HE4BBC2AFD6A3443DBC2EFACCF1002CD0"><enum>(c)</enum><header>Establishment of national freight network</header>
+							<paragraph id="HCD4719A7308045408E55BDC4F5E0E498"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary shall establish a national freight network in accordance with this section to assist
+			 States in strategically directing resources toward improved system
+			 performance for efficient movement of freight—</text>
+								<subparagraph id="H0DF82E65FC0E4D5594A607D730D86E37"><enum>(A)</enum><text>on highways (including highways on the national highway system), railways, navigable waterways,
+			 freight intermodal connectors, and aerotropolis transportation systems;
+			 and</text>
+								</subparagraph><subparagraph id="HF5D480E8F6BE4A9E8D45418B43D0132A"><enum>(B)</enum><text>into and out of inland ports, seaports, and airports.</text>
+								</subparagraph></paragraph><paragraph id="HDC71FD5144C74FDEA5C03CDDEBEA7D8D"><enum>(2)</enum><header>Network components</header><text display-inline="yes-display-inline">The national freight network shall consist of multimodal transportation infrastructure, including—</text>
+								<subparagraph id="HC34505D748DD4C848A45EB0CED50C2B7"><enum>(A)</enum><text display-inline="yes-display-inline">the primary freight network, as designated by the Secretary under subsection (d) (referred to in
+			 this section as the <term>primary freight network</term>) as the network composed of highways, railways, navigable waterways, seaports, airports, freight
+			 intermodal connectors, and aerotropolis transportation systems most
+			 critical to the multimodal movement of freight;</text>
+								</subparagraph><subparagraph id="HFE012C4865EE43E49B8000C04A94857B"><enum>(B)</enum><text>the portions of the Interstate System not designated as part of the primary freight network; and</text>
+								</subparagraph><subparagraph id="H2A68DF8CA2B347008347E28B5222926E"><enum>(C)</enum><text>critical rural freight corridors established under subsection (e).</text>
+								</subparagraph></paragraph></subsection><subsection id="H760276F132BE4F7AA131CFB55CC544CE"><enum>(d)</enum><header>Designation of primary freight network</header>
+							<paragraph id="H0C7807BD53DF439F91A28C009FACB982"><enum>(1)</enum><header>Initial designation of primary freight network</header>
+								<subparagraph id="H2CE25AA93DD44B15868A650182D2DD5B"><enum>(A)</enum><header>Designation</header><text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this section, the Secretary shall designate a
+			 multimodal primary freight network—</text>
+									<clause id="HF5EE06596F0444489FD4DB11ECA359C2"><enum>(i)</enum><text>based on an inventory of national freight volume conducted by the Secretary, in consultation with
+			 stakeholders, including system users, transport providers, and States; and</text>
+									</clause><clause id="H291ACAB781964D31A0777DFFA70960F8"><enum>(ii)</enum><text display-inline="yes-display-inline">that shall be comprised of—</text>
+										<subclause id="HE98701C563BD40AA9334A31A81E16186"><enum>(I)</enum><text>not more than 27,000 miles of existing major freight corridors that are most critical;</text>
+										</subclause><subclause id="H1BBDB9C59E88460EBAA2D7397F8A79CE"><enum>(II)</enum><text display-inline="yes-display-inline">critical rail corridors;</text>
+										</subclause><subclause id="H00616A8BE0894D9EBEE680E0A9914D68"><enum>(III)</enum><text>critical intermodal connections; and</text>
+										</subclause><subclause id="HBF804180CD5C462CBEE50426576AB902"><enum>(IV)</enum><text display-inline="yes-display-inline">critical inland port, seaport, and airport infrastructure, at the discretion of the Secretary.</text>
+										</subclause></clause></subparagraph><subparagraph id="HDC7BDE2224BD4AE9B4CC045D68D1BF22"><enum>(B)</enum><header>Factors for designation</header><text>In designating the primary freight network, the Secretary shall consider—</text>
+									<clause id="H5FF440190F48433ABB9EF8181F15F1A9"><enum>(i)</enum><text display-inline="yes-display-inline">the generation of national economic benefits, including job creation, expanded business
+			 opportunities, and benefits to the gross domestic product;</text>
+									</clause><clause id="H70F2DECDCDAA4EFDA967E223850DA482"><enum>(ii)</enum><text>the origins and destinations of freight movement in the United States;</text>
+									</clause><clause id="HA60379A787C6413FB69DE737379B5608"><enum>(iii)</enum><text>the total freight tonnage and value of freight moved;</text>
+									</clause><clause id="H9EAD22DF40D9432B878E6CA8265E9F02"><enum>(iv)</enum><text>the percentage of annual average daily traffic;</text>
+									</clause><clause id="HD5DB7E22B5FD410293381D88EE2E3157"><enum>(v)</enum><text>land and maritime ports of entry;</text>
+									</clause><clause id="HAC4B0AFC26894CBD9CCF0CB210A7085D"><enum>(vi)</enum><text>access to energy exploration, development, installation, or production areas;</text>
+									</clause><clause id="H98EE5B81C369475893EE2538EAE7004E"><enum>(vii)</enum><text>population centers; and</text>
+									</clause><clause id="HE7F2FC6849AE4E37A93ACBEBA1B416DB"><enum>(viii)</enum><text>network connectivity.</text>
+									</clause></subparagraph></paragraph><paragraph id="H6D4CD8816DD144CFB75449B3D6C09107"><enum>(2)</enum><header>Additional miles on multimodal primary freight network</header><text>In addition to the miles of existing major freight corridors initially designated under paragraph
+			 (1), the Secretary may increase the number of miles designated as part of
+			 the primary freight network by not more than 3,000 additional miles of
+			 freight corridors (which may include existing or planned corridors)
+			 critical to future efficient movement of goods on the primary freight
+			 network.</text>
+							</paragraph><paragraph id="H89E426BA16184C9285907C5297952DA5"><enum>(3)</enum><header>Redesignation of primary freight network</header><text>Effective beginning 10 years after the designation of the primary freight network and every 10
+			 years thereafter, using the designation factors described in paragraph
+			 (1), the Secretary shall redesignate the primary freight network
+			 (including additional mileage described in paragraph (2)).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection></section><section id="H905111E7E25B41F7B5A671AD6D7E2787"><enum>102.</enum><header>State freight plans</header><text display-inline="no-display-inline">Section 1118(a) of MAP–21 (<external-xref legal-doc="usc" parsable-cite="usc/23/167">23 U.S.C. 167</external-xref> note; 126 Stat. 473) is amended—</text>
+				<paragraph id="HD4AFF457673941729B85ADE58399DA3A"><enum>(1)</enum><text>by striking <quote>encourage</quote> and inserting <quote>require</quote>; and</text>
+				</paragraph><paragraph id="H8D3BF313DA2E4012AD17D307E6BFB02C"><enum>(2)</enum><text>by adding at the end the following: <quote>Each State shall coordinate with neighboring States to ensure multistate network continuity and
+			 connectivity.</quote>.</text>
+				</paragraph></section></title><title id="H7C8F9D7336E9419882E4C3D4DB3BA575"><enum>II</enum><header>National Freight Infrastructure Investment </header>
+			<section id="HCA94C899ED2F4390A591AEB81FE661FE"><enum>201.</enum><header>National freight infrastructure investment grants</header>
+				<subsection id="H533125E2FF8541D0B3A7698A5FEF1108"><enum>(a)</enum><header>Establishment of Program</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/55">Chapter 55</external-xref> of title 49, United States Code, is amended by adding at the end the following:</text>
+					<quoted-block id="HFF509BF1198B49ED9D60CFF5E3977985" style="USC">
+						<subchapter id="H2EE079C5FC2B4BFF89B5DF56A17BB472"><enum>III</enum><header>Financial Assistance</header>
+							<section id="H8AB3D61374EC4FEEBDE525EBA69CC3CF"><enum>5581.</enum><header>National freight infrastructure investment grants</header>
+								<subsection id="HA2DF855EB0DA495B96940F1F37323182"><enum>(a)</enum><header>Establishment of Program</header><text>The Secretary of Transportation shall establish a competitive grant program to provide financial
+			 assistance for capital investments that improve the efficiency of the
+			 national transportation system to move freight.</text>
+								</subsection><subsection id="H5DB7E725FF72479FA6DC18BBEFE1DB95"><enum>(b)</enum><header>Eligible Projects</header><text>An applicant is eligible for a grant under this section for—</text>
+									<paragraph id="HD86D61C3E8FA4047873DC44814F2AE55"><enum>(1)</enum><text>a port development or improvement project;</text>
+									</paragraph><paragraph id="H5BA43A4502584F51961B43D14717310E"><enum>(2)</enum><text>a multimodal terminal facility project;</text>
+									</paragraph><paragraph id="H1DFABB055E9745D9AD7452A7CC8ECB1B"><enum>(3)</enum><text>a land port of entry project;</text>
+									</paragraph><paragraph id="HA1574AF1A5DF44758A335916A6F0A609"><enum>(4)</enum><text>a freight rail improvement or capacity expansion project;</text>
+									</paragraph><paragraph id="HE6EBA2BA00FB4E45BA64A52783F516AD"><enum>(5)</enum><text>an intelligent transportation system project primarily for freight benefit that reduces congestion
+			 or improves safety;</text>
+									</paragraph><paragraph id="HFA8889F08CB94D33BF0F2C5D1D922BD3"><enum>(6)</enum><text>a project that improves access to a port or terminal facility;</text>
+									</paragraph><paragraph id="H3368DF41FF11471EB72CA627B67A8514"><enum>(7)</enum><text display-inline="yes-display-inline">an aerotropolis system, which for purposes of this section is a planned and coordinated multimodal
+			 freight and passenger transportation network that, as determined by the
+			 Secretary, provides efficient, cost-effective, sustainable, and intermodal
+			 connectivity to a defined region of economic significance centered around
+			 a major airport; or</text>
+									</paragraph><paragraph id="HC71F9D03CFD041808A8A15C05081F7B5"><enum>(8)</enum><text>planning, preparation, or design of any project described in this subsection.</text>
+									</paragraph></subsection><subsection id="H4B3C3A2A2DF448EFA97CED748BD4C460"><enum>(c)</enum><header>Project Selection Criteria</header><text>In determining whether to award a grant to an eligible applicant under this section, the Secretary
+			 shall consider the extent to which the project—</text>
+									<paragraph id="H650E5AE437CF40FF8A1093B21C10A87D"><enum>(1)</enum><text>supports the objectives of the national freight strategic plan developed under section 167(f) of
+			 title 23;</text>
+									</paragraph><paragraph id="HBC05E4FCB9C6452980B4410BE11CE9DE"><enum>(2)</enum><text>leverages Federal investment by encouraging non-Federal contributions to the project, including
+			 contributions from public-private partnerships;</text>
+									</paragraph><paragraph id="H4701B0DEB3AA425F837EE361DA748504"><enum>(3)</enum><text>improves the mobility of goods and commodities;</text>
+									</paragraph><paragraph id="H28E70269D25148738348F9A4D835D5E2"><enum>(4)</enum><text>incorporates new and innovative technologies, including freight-related intelligent transportation
+			 systems;</text>
+									</paragraph><paragraph id="H68B4F49FF9F2464EA7B244255B9F4E14"><enum>(5)</enum><text>improves energy efficiency or reduces greenhouse gas emissions;</text>
+									</paragraph><paragraph id="H83768FA9BB60440A8ADE1BE17EEDD930"><enum>(6)</enum><text>helps maintain or protect the environment, including reducing air and water pollution;</text>
+									</paragraph><paragraph id="HC1DFB6F48B464575898809FD29D6DF17"><enum>(7)</enum><text>reduces congestion;</text>
+									</paragraph><paragraph id="HFB37F0C5208F4F23B722CC94960086D5"><enum>(8)</enum><text>improves the condition of the freight infrastructure, including bringing it into a state of good
+			 repair;</text>
+									</paragraph><paragraph id="H266347D963D0425ABD4AA6E4EA17A40B"><enum>(9)</enum><text>improves safety, including reducing transportation accidents, injuries, and fatalities;</text>
+									</paragraph><paragraph id="HEA3CFC506F3A46DDA5BDB418C0FAFE3C"><enum>(10)</enum><text>demonstrates that the proposed project cannot be readily and efficiently realized without Federal
+			 support and participation; and</text>
+									</paragraph><paragraph id="H63D6A0E2B3C74B908C70809809646D59"><enum>(11)</enum><text>enhances national or regional economic development, growth, and competitiveness.</text>
+									</paragraph></subsection><subsection id="H37D67A5589CE4B809D297CAD94C2F829"><enum>(d)</enum><header>Letters of Intent</header>
+									<paragraph id="HEEBC710B4F63457B8C452119D935D8E2"><enum>(1)</enum><header>Issuance</header><text>The Secretary may issue a letter of intent to an applicant announcing an intention to obligate, for
+			 a major capital project under this subsection, an amount from future
+			 available budget authority specified in law that is not more than the
+			 amount stipulated as the financial participation of the Secretary in the
+			 project.</text>
+									</paragraph><paragraph id="H42FCEA1E82F84ADB93F1C82749FEC362"><enum>(2)</enum><header>Notice to Congress</header><text>At least 30 days before issuing a letter under paragraph (1), the Secretary shall notify in writing
+			 the Committee on Commerce, Science, and Transportation of the Senate and
+			 the Committee on Transportation and Infrastructure of the House of
+			 Representatives of the proposed letter or agreement. The Secretary shall
+			 include with the notification a copy of the proposed letter or agreement,
+			 the criteria used under subsection (c) for selecting the project for a
+			 grant award, and a description of how the project meets such criteria.</text>
+									</paragraph><paragraph id="H49766525499D4D63A772B9ED92C3179B"><enum>(3)</enum><header>Limitation</header><text>An obligation or administrative commitment may be made only when amounts are made available. The
+			 letter of intent shall state that the contingent commitment is not an
+			 obligation of the Federal Government, and is subject to the availability
+			 of funds under Federal law and to Federal laws in force or enacted after
+			 the date of the contingent commitment.</text>
+									</paragraph></subsection><subsection id="H3E47F11AB3D7404BB6535B7AF6566CCA"><enum>(e)</enum><header>Federal Share of Net Project Cost</header>
+									<paragraph id="H50BD97F1BC594BE29E38F3C9D8511C01"><enum>(1)</enum><header>Estimate of net project cost</header><text>Based on engineering studies, studies of economic feasibility, and information on the expected use
+			 of equipment or facilities, the Secretary shall estimate the net project
+			 cost.</text>
+									</paragraph><paragraph id="H3B88ACD07C79439CAB205EF11EC9CFE8"><enum>(2)</enum><header>Federal share</header><text>The Federal share of a grant for the project shall not exceed 80 percent of the project net capital
+			 cost.</text>
+									</paragraph><paragraph id="HE91F0D8E3BBB4BB1B36FAB252241F27D"><enum>(3)</enum><header>Priority</header><text>The Secretary shall give priority in allocating future obligations and contingent commitments to
+			 incur obligations to grant requests seeking a lower Federal share of the
+			 project net capital cost.</text>
+									</paragraph></subsection><subsection id="H341CDB0F34C74EECB4870F93CFCDE660"><enum>(f)</enum><header>Cooperative agreements</header>
+									<paragraph id="H04347DCCEB8B4A78A50A138416B635D4"><enum>(1)</enum><header>In general</header><text>An applicant may enter into an agreement with any public, private, or nonprofit entity to
+			 cooperatively implement any project funded with a grant under this
+			 subchapter.</text>
+									</paragraph><paragraph id="H08A1972903774B45BA1DE4AA91530E29"><enum>(2)</enum><header>Forms of participation</header><text>Participation by an entity under paragraph (1) may consist of—</text>
+										<subparagraph id="HCAAFCC235DE24E0CACBE3E988DF52E33"><enum>(A)</enum><text>ownership or operation of any land, facility, vehicle, or other physical asset associated with the
+			 project;</text>
+										</subparagraph><subparagraph id="H5BA98A2A50824233BE0F8829901A3465"><enum>(B)</enum><text>cost sharing of any project expense or non-Federal share of the project cost, including in-kind
+			 contributions;</text>
+										</subparagraph><subparagraph id="HD14257E8B4694F4AAA075CD2D23E6DC8"><enum>(C)</enum><text>carrying out administration, construction management, project management, project operation, or any
+			 other management or operational duty associated with the project; and</text>
+										</subparagraph><subparagraph id="H94588C73D8724EC5AC655C7E480BB45F"><enum>(D)</enum><text>any other form of participation approved by the Secretary.</text>
+										</subparagraph></paragraph></subsection><subsection id="H4305EEB392BB47DBAF53A704570C5FD7"><enum>(g)</enum><header>Oversight Program</header>
+									<paragraph id="H661CDA8707E14690B1361EF0CC1F0F4D"><enum>(1)</enum><header>Establishment</header>
+										<subparagraph id="H49B6E2A04CAC495A806015638DAB456B"><enum>(A)</enum><header>In general</header><text>The Secretary shall establish an oversight program to monitor the effective and efficient use of
+			 funds authorized to carry out this section.</text>
+										</subparagraph><subparagraph id="H240E6D2519184FB2BEC7CEA19AE3A6A2"><enum>(B)</enum><header>Minimum requirement</header><text>At a minimum, the program shall be responsive to all areas relating to financial integrity and
+			 project delivery.</text>
+										</subparagraph></paragraph><paragraph id="HB08EDBBA68154983ABB23530F9EE1D38"><enum>(2)</enum><header>Financial integrity</header>
+										<subparagraph id="H89C1E00FA40C4B1490A11F5E0400B17F"><enum>(A)</enum><header>Financial management systems</header><text>The Secretary shall perform annual reviews that address elements of the applicant’s financial
+			 management systems that affect projects approved under subsection (a).</text>
+										</subparagraph><subparagraph id="H009B60107EB643D8BCD9F6A7D7F5AEC5"><enum>(B)</enum><header>Project costs</header><text>The Secretary shall develop minimum standards for estimating project costs and shall periodically
+			 evaluate the practices of applicants for estimating project costs,
+			 awarding contracts, and reducing project costs.</text>
+										</subparagraph></paragraph><paragraph id="H37C41F8DFDB74934ADA19754C39EE865"><enum>(3)</enum><header>Project delivery</header><text>The Secretary shall perform annual reviews that address elements of the project delivery system of
+			 an applicant, which elements include one or more activities that are
+			 involved in the life cycle of a project from conception to completion of
+			 the project.</text>
+									</paragraph><paragraph id="H218908EE5C874844BD77ABBEB0B304E8"><enum>(4)</enum><header>Responsibility of the applicants</header>
+										<subparagraph id="H63F56648E16C41BE91599CF7A5E573B8"><enum>(A)</enum><header>In general</header><text>Each applicant shall submit to the Secretary for approval such plans, specifications, and estimates
+			 for each proposed project as the Secretary may require.</text>
+										</subparagraph><subparagraph id="H8EA380A250544342A70DD597F357B568"><enum>(B)</enum><header>Applicant subrecipients</header><text>The applicant shall be responsible for determining that a subrecipient of Federal funds under this
+			 section has—</text>
+											<clause id="H7E8DB2EC43324C2E98CB9FC5B678DFE8"><enum>(i)</enum><text>adequate project delivery systems for projects approved under this section; and</text>
+											</clause><clause id="HECD45FC4BFA14A91AA04F47784E0E2CC"><enum>(ii)</enum><text>sufficient accounting controls to properly manage such Federal funds.</text>
+											</clause></subparagraph><subparagraph id="HC4640CE5F4F34A018C5BF8C2DA38959B"><enum>(C)</enum><header>Periodic review</header><text>The Secretary shall periodically review the monitoring of subrecipients by the applicant.</text>
+										</subparagraph></paragraph><paragraph id="HA1213B4C86204BF18598C89A7539E78E"><enum>(5)</enum><header>Specific oversight responsibilities</header><text>Nothing in this section shall affect or discharge any oversight responsibility of the Secretary
+			 specifically provided for under this title or other Federal law.</text>
+									</paragraph></subsection><subsection id="HD0A7382016A142F09C2AFFB44825017F"><enum>(h)</enum><header>Major Projects</header>
+									<paragraph id="H345DE02AF5A845E5BD77FCA7AE30BE2E"><enum>(1)</enum><header>In general</header><text>A recipient of a grant for a project under this section with an estimated total cost of
+			 $500,000,000 or more, and a recipient for such other projects as may be
+			 identified by the Secretary, shall submit to the Secretary for each
+			 project—</text>
+										<subparagraph id="HB428252117784ECEB900344E8BEDEE2B"><enum>(A)</enum><text>a project management plan; and</text>
+										</subparagraph><subparagraph id="H1036A4C306F3403BA8A7A222F693190D"><enum>(B)</enum><text>an annual financial plan.</text>
+										</subparagraph></paragraph><paragraph id="H50B89C52C1D54A2A843368B2C57C147D"><enum>(2)</enum><header>Project management plan</header><text>A project management plan shall document—</text>
+										<subparagraph id="HFFD72CE36C9143BAA13F23ECE41E91E2"><enum>(A)</enum><text>the procedures and processes that are in effect to provide timely information to the project
+			 decisionmakers to effectively manage the scope, costs, schedules, quality
+			 of, and the Federal requirements applicable to, the project; and</text>
+										</subparagraph><subparagraph id="HD362789B92AC44D8804E222BF0A76D6F"><enum>(B)</enum><text>the role of the agency leadership and management team in the delivery of the project.</text>
+										</subparagraph></paragraph><paragraph id="HEB2987F9C46A4A83944FEE3F142F1A94"><enum>(3)</enum><header>Financial plan</header><text>A financial plan shall—</text>
+										<subparagraph id="HF77B8295867A4D1A979D905E0508C741"><enum>(A)</enum><text>be based on detailed estimates of the cost to complete the project; and</text>
+										</subparagraph><subparagraph id="H6C8DEB7EAEF64507A8C8F225A1117EFE"><enum>(B)</enum><text>provide for the annual submission of updates to the Secretary that are based on reasonable
+			 assumptions, as determined by the Secretary, of future increases in the
+			 cost to complete the project.</text>
+										</subparagraph></paragraph></subsection><subsection id="H984AF046F2DB4897BAB68CFFBC4E7786"><enum>(i)</enum><header>Other projects</header><text>A recipient of Federal financial assistance for a project under this section with an estimated
+			 total cost of $100,000,000 or more that is not covered by subsection (h)
+			 shall prepare an annual financial plan. Annual financial plans prepared
+			 under this subsection shall be made available to the Secretary for review
+			 upon the request of the Secretary.</text>
+								</subsection><subsection id="HBF71D5BE226A4734BCE3029C029046C8"><enum>(j)</enum><header>Other terms and conditions</header><text>The Secretary shall determine what additional grant terms and conditions are necessary and
+			 appropriate to meet the requirements of this section.</text>
+								</subsection><subsection id="H279571A409A243E4B5D54C7C31182421"><enum>(k)</enum><header>Regulations</header><text>Not later than 1 year after the date of enactment of this section, the Secretary shall prescribe
+			 regulations to implement this section.</text>
+								</subsection><subsection id="H96A6067E8E9741DFBF21FBE37A62D8BD"><enum>(l)</enum><header>Applicant defined</header><text>In this section, the term <term>applicant</term> includes a State, a political subdivision of a State, government-sponsored authorities and
+			 corporations, and the District of Columbia.</text>
+								</subsection><subsection id="H30BDEB43AB98424F95730B785F064E7C"><enum>(m)</enum><header>Secretarial oversight</header>
+									<paragraph id="H4A20BD61575C4A068D829BFBAB4D11D1"><enum>(1)</enum><header>Construction oversight</header><text>The Secretary may use no more than 1 percent of amounts made available in a fiscal year for capital
+			 projects under this section to enter into contracts to oversee the
+			 construction of such projects.</text>
+									</paragraph><paragraph id="HDB58DB0DC1FE48A89B87A8986317057A"><enum>(2)</enum><header>Compliance reviews and audits</header><text>The Secretary may use amounts available under paragraph (1) to make contracts for safety,
+			 procurement, management, and financial compliance reviews and audits of a
+			 recipient of amounts under paragraph (1).</text>
+									</paragraph><paragraph id="HD104FD1BA3D248F3A0B2E90BD3FF749A"><enum>(3)</enum><header>Federal costs</header><text>The Federal Government shall pay the entire cost of carrying out a contract under this subsection.</text></paragraph></subsection></section></subchapter><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="H1392B9E0857F4B61B8EDA999B4B22EB9"><enum>(b)</enum><header>Conforming Amendment</header><text>The analysis for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/55">chapter 55</external-xref> of title 49, United States Code, is amended by adding at the end the
+			 following:</text>
+					<quoted-block display-inline="no-display-inline" id="H75BC5021E0B54EC8BCBAEF9CE0143F18" style="USC">
+						<toc regeneration="no-regeneration">
+							<toc-entry level="subchapter">Subchapter III—Financial Assistance</toc-entry>
+							<toc-entry level="section">5581. National freight infrastructure investment grants.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection></section></title></legis-body>
+</bill>
+
+

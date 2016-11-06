@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5FC3DA09E3E4453BAA1C28F5C48CE9CB" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1173 IH: Ban Insider Trading Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1173</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150227">February 27, 2015</action-date>
+			<action-desc><sponsor name-id="L000562">Mr. Lynch</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Securities Exchange Act of 1934 to prohibit trading on material inside information.</official-title>
+	</form>
+	<legis-body id="HC4B0AC47FC0A4EF79715C26D8A855F3D" style="OLC">
+ <section id="H165BC89AAE1143FBB588A7E07AAEF1BD" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ban Insider Trading Act of 2015</short-title></quote>.</text> </section><section id="HD5F337E7D8FB4D9D92D3E01093B401DE"><enum>2.</enum><header>Prohibiting trading on material inside information</header> <subsection id="HF32252190E2A41B1964F9C23ECF1F7DC"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 10 of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78j">15 U.S.C. 78j</external-xref>) is amended by inserting after subsection (c) the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HC0A4B85A29684D279C1FC688F4919F63" style="OLC">
+					<subsection id="H6937E4FD2B764ED49C31C1AC0BBD6EA5"><enum>(d)</enum><header>Trading on material inside information</header>
+ <paragraph id="H6E0ABDF4DF1C49A3ACDFC406239CF2A3"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">To purchase or sell any security, or any securities-based swap agreement, based on information that the person knows or, considering factors including financial sophistication, knowledge of and experience in financial matters, position in a company, and amount of assets under management, should know is material information and inside information.</text>
+ </paragraph><paragraph id="H672430D33CF84F90B60DFA08A2E93C12"><enum>(2)</enum><header>Rules of construction</header><text display-inline="yes-display-inline">Nothing in this subsection may be construed—</text> <subparagraph id="H3A65498C050247559C9B4898222B1551"><enum>(A)</enum><text>to affect liability under subsection (b); or</text>
+ </subparagraph><subparagraph commented="no" id="HBB3638A753F643798025C1B77C47927A"><enum>(B)</enum><text>to require for an action under paragraph (1) a personal benefit to any party.</text> </subparagraph></paragraph><paragraph id="H0BA0254572DD4215B839D60854360EFE"><enum>(3)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this subsection:</text>
+ <subparagraph id="H48C0EDB5FA8E472784CE53705DD93F9D"><enum>(A)</enum><header>Inside information</header><text display-inline="yes-display-inline">The term <quote>inside information</quote> means information that is—</text> <clause id="H44ECECB8591C46198DC555D14A4BC32D"><enum>(i)</enum><text>nonpublic; and</text>
+ </clause><clause id="HBEAADAF1319145A2A8DA5078468C4581"><enum>(ii)</enum><text>obtained—</text> <subclause id="HF382D67DF6334946BA49C98EFC1AA84E"><enum>(I)</enum><text>illegally;</text>
+ </subclause><subclause id="H4DA71918836D43A4A43B82CA11D8963F"><enum>(II)</enum><text display-inline="yes-display-inline">directly or indirectly from an issuer with an expectation of confidentiality or that such information will only be used for a legitimate business purposes; or</text>
+ </subclause><subclause id="H6E99CDAA0A614AC698C950297013AA6B"><enum>(III)</enum><text display-inline="yes-display-inline">in violation of a fiduciary duty.</text> </subclause></clause></subparagraph><subparagraph id="HC66D5B7751F3444DB320AC7AE809560B"><enum>(B)</enum><header>Material information</header><text display-inline="yes-display-inline">The term <quote>material information</quote> means information that relates, directly or indirectly, to an issuer or a security, and that, if it were made public, would be likely to have a significant effect on the price of a security.</text>
+							</subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H67194B63B10A44988FF69246C4BDA264"><enum>(b)</enum><header>Liability for disclosing material inside information</header><text display-inline="yes-display-inline">Section 20(e) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78t">15 U.S.C. 78t(e)</external-xref>) is amended—</text> <paragraph id="HA9B782B96DA741BF826D1477DFB39CEF"><enum>(1)</enum><text display-inline="yes-display-inline">by striking <quote>(e)</quote> and all that follows through <quote>For</quote> and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H2C5924F0B8044FE5B434F4E06EAC0D2C" style="OLC">
+						<subsection id="HC91A8B19662F4489BA8B956AAA72BCDA"><enum>(e)</enum><header>Prosecution of persons who aid and abet violations</header>
+ <paragraph id="HBC9FBED38DB945D6958AD06F69C375EB"><enum>(1)</enum><header>In general</header><text>For</text></paragraph></subsection><after-quoted-block>; and</after-quoted-block></quoted-block> </paragraph><paragraph id="H5048FD5878D04AC1A0A51CE62035AF17"><enum>(2)</enum><text display-inline="yes-display-inline">by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H9070E8BB7D4543C3B163DF945C65E508" style="OLC">
+ <paragraph id="HC91AEA633333447EB8A8CE58979950D1"><enum>(2)</enum><header>Prosecution of persons who facilitate violations of section <enum-in-header>10(d)</enum-in-header></header><text display-inline="yes-display-inline">A person shall be deemed to have violated section 10(d) if the person intentionally discloses without a legitimate business purpose to another person information that the discloser knows or, considering factors including financial sophistication, knowledge of and experience in financial matters, position in a company, and amount of assets under management, should know is material information and inside information, as such terms are defined, respectively, in section 10(d)(3).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H5AE4EE0B292D47F0B4791879E4F3DC51"><enum>(c)</enum><header>Technical amendment</header><text display-inline="yes-display-inline">Section 10 of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78j">15 U.S.C. 78j</external-xref>) is amended in the matter preceding subsection (a) by striking <quote>exchange—</quote> and inserting <quote>exchange:</quote>.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

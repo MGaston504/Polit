@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1409 IS: Supporting Positive Outcomes After Release Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1409</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150521">May 21, 2015</action-date>
+			<action-desc><sponsor name-id="S369">Mr. Markey</sponsor> (for himself, <cosponsor name-id="S253">Mr. Durbin</cosponsor>, and <cosponsor name-id="S307">Mr. Brown</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XIX of the Social Security Act to require States to suspend, rather than terminate,
+			 an individual's eligibility for medical assistance under the State
+			 Medicaid plan while such individual is an inmate of a public institution.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Supporting Positive Outcomes After Release Act</short-title></quote>.</text>
+		</section><section id="id2B14EDD95E2F451A863CB70F9C1A825A"><enum>2.</enum><header>Suspension of Medicaid benefits for inmates of public institutions</header>
+ <subsection id="id45E0B7320130497FB710FECD6E57457E"><enum>(a)</enum><header>In general</header><text>Section 1902 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396a">42 U.S.C. 1396a</external-xref>) is amended—</text> <paragraph id="id8B538CA8AF0F4E8DA4CC06CB2AEDF6B3"><enum>(1)</enum><text>in subsection (a)—</text>
+ <subparagraph id="id04E4951A655143BFA1FD247DFB69FFEC"><enum>(A)</enum><text>by striking <quote>and</quote> at the end of paragraph (80);</text> </subparagraph><subparagraph id="id46329DFA17C34FA481B6EFD3735F5247"><enum>(B)</enum><text>by striking the period at the end of paragraph (81) and inserting <quote>; and</quote>; and</text>
+ </subparagraph><subparagraph id="idF945559530314C53BAE580780245B8F3"><enum>(C)</enum><text>by inserting after paragraph (81) the following new paragraph:</text> <quoted-block act-name="" id="id9784206C56934232BED1DD514E1924CC" style="traditional"> <paragraph id="id22A7A85B9BC84F9883950975AC9A71DD"><enum>(82)</enum><text display-inline="yes-display-inline">provide that the State shall not terminate (but may suspend) enrollment under a State plan for medical assistance for an individual who is an eligible individual (as defined in subsection (ll)(1)) because the individual is an inmate of a public institution (as defined in subsection (ll)(2)).</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+					</subparagraph></paragraph><paragraph id="H51D3630154BB4454989508E7D35E59C7">
+					<enum>(2)</enum>
+ <text>by adding at the end the following new subsection:</text> <quoted-block display-inline="no-display-inline" id="H064341044A2F46F98F28D2391108800A" style="OLC"> <subsection id="H1696BBBC17DB4B0C9DCA364F5372A670"> <enum>(ll)</enum> <header>Eligible individual; public institution</header> <text display-inline="yes-display-inline">For purposes of subsection (a)(82) and this subsection:</text>
+							<paragraph commented="no" id="HD42A716D9D454313A97D41BA9C3F570F">
+								<enum>(1)</enum>
+								<header>Eligible individual</header>
+ <text display-inline="yes-display-inline">The term <term>eligible individual</term> means an individual who is an inmate of a public institution and was enrolled for medical assistance under the State plan immediately before becoming an inmate of such a public institution or who becomes eligible to enroll for such medical assistance while an inmate of a public institution.</text>
+							</paragraph><paragraph id="HA7E57A7D1EF742B0B422719050093E53">
+								<enum>(2)</enum>
+								<header>Inmate of a public institution</header>
+ <text display-inline="yes-display-inline">The term <term>inmate of a public institution</term> has the meaning given such term for purposes of applying the subdivision (A) following paragraph (29) of section 1905(a), taking into account the exception in such subdivision for a patient of a medical institution.</text>
+							</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection commented="no" id="H2272D2C8CD784D5FA9D3B8EF7274E66A">
+				<enum>(b)</enum>
+				<header>No change in exclusion from medical assistance for inmates of public institutions</header>
+ <text>Nothing in this section shall be construed as changing the exclusion from medical assistance under the subdivision (A) following paragraph (29) of section 1905(a) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396d">42 U.S.C. 1396d(a)</external-xref>), including any applicable restrictions on a State submitting claims for Federal financial participation under title XIX of such Act for such assistance.</text>
+			</subsection><subsection id="HFDAB1E5276124E8B811B4481F3F92FFC">
+				<enum>(c)</enum>
+				<header>Effective date</header>
+				<paragraph id="HBE3017A404844E57B270AE42B593E8EB">
+					<enum>(1)</enum>
+					<header>In general</header>
+ <text>Except as provided in paragraph (2), the amendments made by subsection (a) shall apply to eligibility and enrollment of individuals who become inmates of public institutions on or after the date that is 1 year after the date of the enactment of this Act.</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="HB359C1F303DC4270B8CE5AD0374F35D6"><enum>(2)</enum><header>Rule for changes requiring state legislation</header><text>In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by subsection (a), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

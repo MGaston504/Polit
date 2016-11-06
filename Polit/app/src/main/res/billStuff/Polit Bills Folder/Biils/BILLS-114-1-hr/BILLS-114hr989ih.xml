@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8D3C80BE337C4252B5E80E2B6E66D3E9" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 989 IH: Capital Access for Small Businesses and Jobs Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 989</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150213">February 13, 2015</action-date>
+			<action-desc><sponsor name-id="K000210">Mr. King of New York</sponsor> (for himself, <cosponsor name-id="S000344">Mr. Sherman</cosponsor>, <cosponsor name-id="H001051">Mr. Hanna</cosponsor>, <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>, <cosponsor name-id="H001064">Mr. Heck of Washington</cosponsor>, <cosponsor name-id="I000057">Mr. Israel</cosponsor>, <cosponsor name-id="J000255">Mr. Jones</cosponsor>, <cosponsor name-id="N000179">Mrs. Napolitano</cosponsor>, <cosponsor name-id="P000597">Ms. Pingree</cosponsor>, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, <cosponsor name-id="C001092">Mr. Collins of New York</cosponsor>, <cosponsor name-id="P000599">Mr. Posey</cosponsor>, <cosponsor name-id="S001150">Mr. Schiff</cosponsor>, <cosponsor name-id="T000472">Mr. Takano</cosponsor>, <cosponsor name-id="H001068">Mr. Huffman</cosponsor>, and <cosponsor name-id="M001137">Mr. Meeks</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To clarify the National Credit Union Administration authority to improve credit union safety and
+			 soundness.</official-title>
+	</form>
+	<legis-body id="H4C34E476867C4C38A3A5159AC443EDBE" style="OLC">
+ <section id="H76BFA23BF7C443D09DCB9C3D9E7070C7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Capital Access for Small Businesses and Jobs Act</short-title></quote>.</text> </section><section id="HBBF39D47AC6049D6AC08D3026292732F"><enum>2.</enum><header>Improving credit union safety and soundness</header><text display-inline="no-display-inline">The Federal Credit Union Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1751">12 U.S.C. 1751 et seq.</external-xref>) is amended—</text>
+ <paragraph id="H14210A040A9C46BA8C98996B98C2FF9A"><enum>(1)</enum><text>in section 107—</text> <subparagraph id="H1B7ECEE17B1B4C5CAA2C4C7F5E65E878"><enum>(A)</enum><text>in paragraph (16), by striking <quote>and</quote> at the end;</text>
+ </subparagraph><subparagraph id="H4BD13090B05A45CD99A6529467880AAA"><enum>(B)</enum><text>in paragraph (17), by striking the period and inserting <quote>; and</quote>; and</text> </subparagraph><subparagraph id="HE178AA6232624C15B2639E8FC22E7E43"><enum>(C)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="HA54337BC0C6B41078E537200A15A83DC" style="OLC">
+ <paragraph id="H89D6C69578044783B051F7E9BC344A4D"><enum>(18)</enum><text display-inline="yes-display-inline">to receive payments on uninsured non-share accounts described under section 216(o)(2)(D), subject to such terms, rates, and conditions as may be established by the board of directors, within limitations prescribed by the Board.</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="H7D8A1311D3964E32BD3B30F6FF42A2BF"><enum>(2)</enum><text>in section 216—</text> <subparagraph id="H8D654A21494E45F7ACFB29C5211672DE"><enum>(A)</enum><text display-inline="yes-display-inline">in subsection (b)(1)(B)(ii), by striking <quote>must rely</quote> and inserting <quote>rely predominantly</quote>; and</text>
+ </subparagraph><subparagraph id="HC82C25E7AC5C4DDA9136E839C7565FA2"><enum>(B)</enum><text display-inline="yes-display-inline">in subsection (o)(2)—</text> <clause id="HC148D69D377A4A59AB12B2E10EE566CA"><enum>(i)</enum><text>in subparagraph (B), by striking <quote>and</quote> at the end;</text>
+ </clause><clause id="HAE11ED02928B472DBDADD087C0917084"><enum>(ii)</enum><text>in subparagraph (C)(ii), by striking the period and inserting <quote>; and</quote>; and</text> </clause><clause id="HB464890EF8EB4E67A3D53AF0128EE345"><enum>(iii)</enum><text>by adding at the end the following:</text>
+						<quoted-block display-inline="no-display-inline" id="HC6A2E3A168924073899734B140DEC78F" style="OLC">
+ <subparagraph id="H2186C8A2909C4615847949137A26D3D1"><enum>(D)</enum><text display-inline="yes-display-inline">with respect to any insured credit union other than a low-income credit union, includes uninsured non-share accounts as authorized by the Board, that—</text>
+ <clause id="HF1620B47AD45463FA19A4812AFD85D19"><enum>(i)</enum><text>do not alter the cooperative nature of the credit union;</text> </clause><clause id="HD07095EC7CE14A8C881BF65CA0A36648"><enum>(ii)</enum><text>are subordinate to all other claims against the credit union, including the claims of creditors, shareholders, and the Fund;</text>
+ </clause><clause id="HB687F991B5C94DD2A34376BDBE87817B"><enum>(iii)</enum><text>are available to be applied to cover operating losses of the credit union in excess of its retained earnings and, to the extent so applied, will not be replenished;</text>
+ </clause><clause id="HDB667BA0EB3D4BD2A86307D92D24CA00"><enum>(iv)</enum><text>if they have a stated maturity, have an initial maturity of at least 5 years;</text> </clause><clause id="H6A03FE54CF6D40079BFDF782D6A6054B"><enum>(v)</enum><text display-inline="yes-display-inline">if they have a stated maturity, the net worth value of such accounts may be discounted at the discretion of the Board when the remaining maturity is less than 5 years;</text>
+ </clause><clause id="H1C96E9CB05A945C7A7B0AAE9D07B9276"><enum>(vi)</enum><text display-inline="yes-display-inline">are subject to disclosure and consumer protection requirements as determined by the Board;</text> </clause><clause id="H24666DCD6CAB453F9E062CD05FA28D4E"><enum>(vii)</enum><text>are offered by a credit union that is determined by the Board to be sufficiently capitalized and well-managed; and</text>
+ </clause><clause id="H80E0D95879AD406FBFD6E17E8FD1A375"><enum>(viii)</enum><text>are subject to such rules and regulations as the Board may establish.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </clause></subparagraph></paragraph></section></legis-body> </bill> 
+

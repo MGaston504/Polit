@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA95C8FC4E0664BD79EF8E0BCFC6C06FE" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2984 IH: Fair RATES Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2984</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150708">July 8, 2015</action-date>
+			<action-desc><sponsor name-id="K000379">Mr. Kennedy</sponsor> (for himself, <cosponsor name-id="N000015">Mr. Neal</cosponsor>, <cosponsor name-id="M001190">Mr. Mullin</cosponsor>, <cosponsor name-id="K000378">Mr. Kinzinger of Illinois</cosponsor>, <cosponsor name-id="L000559">Mr. Langevin</cosponsor>, <cosponsor name-id="M001196">Mr. Moulton</cosponsor>, <cosponsor name-id="K000375">Mr. Keating</cosponsor>, <cosponsor name-id="L000562">Mr. Lynch</cosponsor>, <cosponsor name-id="C001101">Ms. Clark of Massachusetts</cosponsor>, <cosponsor name-id="W000800">Mr. Welch</cosponsor>, <cosponsor name-id="K000382">Ms. Kuster</cosponsor>, <cosponsor name-id="P000597">Ms. Pingree</cosponsor>, <cosponsor name-id="C001084">Mr. Cicilline</cosponsor>, <cosponsor name-id="M000312">Mr. McGovern</cosponsor>, <cosponsor name-id="C001037">Mr. Capuano</cosponsor>, and <cosponsor name-id="T000465">Ms. Tsongas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Power Act to provide that any inaction by the Federal Energy Regulatory
+			 Commission that allows a rate change to go into effect shall be treated as
+			 an order by the Commission for purposes of rehearing and court review.</official-title>
+	</form>
+	<legis-body id="HD700DE826CCF4103B00E918464FD5CB2" style="OLC">
+ <section id="HD09C04B536C34957B8931504106BFBBE" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fair Ratepayer Accountability, Transparency, and Efficiency Standards Act</short-title></quote> or the <quote>Fair RATES Act</quote>.</text> </section><section id="HA287AC3B35EE4408A964302FDDDA8B7B"><enum>2.</enum><header>Amendment to the Federal Power Act</header><text display-inline="no-display-inline">Subsection (d) of section 205 of the Federal Power Act (<external-xref legal-doc="usc" parsable-cite="usc/16/824d">16 U.S.C. 824d(d)</external-xref>) is amended by adding at the end the following: <quote>Any absence of action by the Commission that allows a change to take effect under this section, including the Commission allowing the sixty days’ notice herein provided to expire without Commission action, shall be treated as an order issued by the Commission accepting such change for purposes of section 313.</quote>.</text>
+		</section></legis-body>
+</bill>
+
+

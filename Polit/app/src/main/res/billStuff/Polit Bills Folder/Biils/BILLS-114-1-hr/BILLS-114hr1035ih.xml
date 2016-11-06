@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H85098C9F5AE44CCCB4CB75774E980E7C" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1035 IH: Federal Firefighters Fairness Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1035</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150224">February 24, 2015</action-date>
+			<action-desc><sponsor name-id="C001036">Mrs. Capps</sponsor> (for herself and <cosponsor name-id="M001181">Mr. Meehan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/81">chapter 81</external-xref> of title 5, United States Code, to create a presumption that a disability or
+			 death of a Federal employee in fire protection activities caused by any of
+			 certain diseases is the result of the performance of such employee’s duty.</official-title>
+	</form>
+	<legis-body id="H004C92CC659749E3A7FE0B0B8B8D3404" style="OLC">
+ <section id="HA5DCA292058C45CB91A99E0DF4BC4C88" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Federal Firefighters Fairness Act of 2015</short-title></quote>.</text> </section><section id="HD2EA22221870478292BB1A2288C628A9"><enum>2.</enum><header>Certain diseases presumed to be work-related cause of disability or death for Federal employees in fire protection activities</header> <subsection id="HCF75B6BC02C8497BB64A662BDE6201B1"><enum>(a)</enum><header>Definition</header><text>Section 8101 of title 5, United States Code, is amended—</text>
+ <paragraph id="H64C6E95E5C2D4CB4BBF2E933E5217291"><enum>(1)</enum><text>by striking <quote>and</quote> at the end of paragraph (19);</text> </paragraph><paragraph id="H8B7A4F6616174EC2B36AF3A3522DF083"><enum>(2)</enum><text>by striking the period at the end of paragraph (20) and inserting <quote>; and</quote>; and</text>
+ </paragraph><paragraph id="HBB1A762B1B4D4964BE765AB719F3F893"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block id="H0316CB8EB11C4BB591B0AC7295A7B64B" style="USC"> <paragraph id="H468D1BD421DD45649EE367D7EA8DBAFA"><enum>(21)</enum><text><quote>employee in fire protection activities</quote> means a firefighter, paramedic, emergency medical technician, rescue worker, ambulance personnel, or hazardous material worker, who—</text>
+ <subparagraph id="HC1025614966D429C98A295517A991E2C"><enum>(A)</enum><text>is trained in fire suppression;</text> </subparagraph><subparagraph id="HC72A4AF9EB5E4F288241E0FFABCA46A7"><enum>(B)</enum><text>has the legal authority and responsibility to engage in fire suppression;</text>
+ </subparagraph><subparagraph id="H3C39DC72B19A405A98D11FC247EAD470"><enum>(C)</enum><text>is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk; and</text>
+ </subparagraph><subparagraph id="H7BB1E9CDFBDC4B4980E51AB962B5274D"><enum>(D)</enum><text>performs such activities as a primary responsibility of his or her job.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></subsection><subsection id="H62A733B5262E48E381D38A323DA4A10D"><enum>(b)</enum><header>Presumption relating to employees in fire protection activities</header><text>Section 8102 of title 5, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block id="H6B370085A4F94951BF387730ACC400C0" style="USC">
+					<subsection id="HA4EA7A0493744C4FADFD0606B87AAF73"><enum>(c)</enum>
+ <paragraph commented="no" display-inline="yes-display-inline" id="H14029BC8700A4C89BE0184E7339CEA5B"><enum>(1)</enum><text>With regard to an employee in fire protection activities, a disease specified in paragraph (3) shall be presumed to be proximately caused by the employment of such employee, subject to the length of service requirements specified. The disability or death of an employee in fire protection activities due to such a disease shall be presumed to result from personal injury sustained while in the performance of such employee’s duty. Such presumptions may be rebutted by a preponderance of the evidence.</text>
+ </paragraph><paragraph id="HE549D2D85A504FFCA477B6A5C36DE61A" indent="up1"><enum>(2)</enum><text>Such presumptions apply only if the employee in fire protection activities is diagnosed with the disease for which presumption is sought within 10 years of the last active date of employment as an employee in fire protection activities.</text>
+ </paragraph><paragraph id="HE7A5F47FF9E64C42BF35B4DE4BB736A3" indent="up1"><enum>(3)</enum><text>The following diseases shall be presumed to be proximately caused by the employment of the employee in fire protection activities:</text>
+ <subparagraph id="H9008771395D9468586C787745FC7B38A"><enum>(A)</enum><text>If the employee has been employed for a minimum of 5 years in aggregate as an employee in fire protection activities:</text>
+ <clause id="H17FE78159F1B4FA3B8447FC3D22B7B36"><enum>(i)</enum><text>Heart disease.</text> </clause><clause id="H50E383F0F75C4728B8407870EBF99057"><enum>(ii)</enum><text>Lung disease.</text>
+ </clause><clause id="HD6F0B23AD33946BFB447C51BAA6574A8"><enum>(iii)</enum><text>The following cancers:</text> <subclause id="H001EDF7ACFE142B28B45F2C0B7B7EB80"><enum>(I)</enum><text>Brain cancer.</text>
+ </subclause><subclause id="HD6E26E015276444FBA08E47F1BC837EF"><enum>(II)</enum><text>Cancer of the blood or lymphatic systems.</text> </subclause><subclause id="HDF192B49A90D44A88B503BC33B72EC53"><enum>(III)</enum><text>Leukemia.</text>
+ </subclause><subclause id="H0380EE901FF04EF09521CE14BCC7A80B"><enum>(IV)</enum><text>Lymphoma (except Hodgkin’s disease).</text> </subclause><subclause id="HDF878C66ACBC4ECF821296492BC873FA"><enum>(V)</enum><text>Multiple myeloma.</text>
+ </subclause><subclause id="H4D9658EFE90240B8A6BCBC7A6BCC0695"><enum>(VI)</enum><text>Bladder cancer.</text> </subclause><subclause id="H0FA4EAAA12FE43D8AC8077F73AB75C7E"><enum>(VII)</enum><text>Kidney cancer.</text>
+ </subclause><subclause id="H97DD93B20B5348C191B123FC0E6FE9B9"><enum>(VIII)</enum><text>Testicular cancer.</text> </subclause><subclause id="H2C50A88B72C840CAA89C31F7A8EC116E"><enum>(IX)</enum><text>Cancer of the digestive system.</text>
+ </subclause><subclause id="H95882472740B476A96170089BD6483B3"><enum>(X)</enum><text>Colon cancer.</text> </subclause><subclause id="H39AD1114B90A42C7BECED4A5B9655A90"><enum>(XI)</enum><text>Liver cancer.</text>
+ </subclause><subclause id="H770937CCED5E425C82D3AD58B16D966D"><enum>(XII)</enum><text>Skin cancer.</text> </subclause><subclause id="H055C8353FCF34C1AAD4BF0D4140A72C0"><enum>(XIII)</enum><text>Lung cancer.</text>
+ </subclause></clause><clause id="H424539245236400C93122C5F9B36B124"><enum>(iv)</enum><text>Any other cancer the contraction of which the Secretary of Labor through regulations determines to be related to the hazards to which an employee in fire protection activities may be subject.</text>
+ </clause></subparagraph><subparagraph id="HAAA208A99D834AA7B515F94BBD5D3E7F"><enum>(B)</enum><text>Regardless of the length of time an employee in fire protection activities has been employed, any uncommon infectious disease, including but not limited to tuberculosis, hepatitis A, B, or C, the human immunodeficiency virus (HIV), and any other uncommon infectious disease the contraction of which the Secretary of Labor through regulations determines to be related to the hazards to which an employee in fire protection activities may be subject.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HBEF476AAE1934F0E970020DCE965CE2E"><enum>(c)</enum><header>Report</header><text>Not later than 5 years after the date of enactment of this Act, the National Institute of Occupational Safety and Health in the Centers for Disease Control and Prevention shall examine the implementation of this Act and appropriate scientific and medical data related to the health risks associated with firefighting and submit to Congress a report which shall include—</text>
+ <paragraph id="HCB49487A318B4AAB896ABCFB27D8E685"><enum>(1)</enum><text>an analysis of the injury claims made under this Act;</text> </paragraph><paragraph id="HA8A0A601FF7E49DEBFDD1BAA7BA2E4CA"><enum>(2)</enum><text>an analysis of the available research related to the health risks associated with firefighting; and</text>
+ </paragraph><paragraph id="H0C08CE757BD845C3B45ADC24C3F08E2D"><enum>(3)</enum><text>recommendations for any administrative or legislative actions necessary to ensure that those diseases most associated with firefighting are included in the presumption created by this Act.</text>
+ </paragraph></subsection><subsection id="H3E42166537A04C1386463E4F6DD89C85"><enum>(d)</enum><header>Effective date</header><text>The amendment made by this section applies to an injury that is first diagnosed or a death that occurs, on or after the date of enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

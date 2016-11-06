@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1416 IS: To amend title 54, United States Code, to limit the authority to reserve water rights in designating a national monument.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1416</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150521">May 21, 2015</action-date>
+			<action-desc><sponsor name-id="S358">Mr. Flake</sponsor> (for himself, <cosponsor name-id="S197">Mr. McCain</cosponsor>, <cosponsor name-id="S346">Mr. Lee</cosponsor>, and <cosponsor name-id="S118">Mr. Hatch</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 54, United States Code, to limit the authority to reserve water rights in
+			 designating a national monument.</official-title>
+	</form>
+	<legis-body>
+ <section id="id5C0F6B2E62A54BC5A055D22C1D73261B" section-type="section-one"><enum>1.</enum><header>Reservation of water rights at national monuments</header><text display-inline="no-display-inline">Section 320301 of title 54, United States Code, is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="idFA0C94B9DEB54D5881BAD4232EBDA776" style="OLC"> <subsection id="idF3D1BD9F4BB145A5AF1463BBD326611D"><enum>(e)</enum><header>Water rights</header> <paragraph id="idD8E17E9C5F07431185331965B88359BE"><enum>(1)</enum><header>No reservation of water rights</header><text>In designating a national monument under subsection (a), the President may not reserve any implied or expressed water rights associated with the national monument.</text>
+ </paragraph><paragraph id="id0972BBA5E016499CB5DF22A98E065752"><enum>(2)</enum><header>Applicable law</header><text>Water rights associated with a national monument designated under subsection (a) may only be acquired for the national monument in accordance with the laws of the State in which the water rights are to be located.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

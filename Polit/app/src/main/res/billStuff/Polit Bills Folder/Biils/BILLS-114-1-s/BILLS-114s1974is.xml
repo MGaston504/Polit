@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1974 IS: Relationship Lending Preservation Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-08-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1974</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150805">August 5, 2015</action-date>
+			<action-desc><sponsor name-id="S360">Ms. Heitkamp</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require the Bureau of Consumer Financial Protection to amend its regulations relating to
+			 qualified mortgages, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Relationship Lending Preservation Act of 2015</short-title></quote>.</text>
+		</section><section id="id37d95aafbec84aceabd4d17539a0e5c8"><enum>2.</enum><header>Qualified mortgage amendment</header>
+ <subsection id="id63AA70AC9F3D4A528198C1C29DF27CDC"><enum>(a)</enum><header>Definitions</header><text>In this section—</text> <paragraph id="idFFF70919B53D4FCCAAA00A0D2E39C400"><enum>(1)</enum><text>the term <term>affiliate</term> has the meaning given the term in section 2(k) of the Bank Holding Company Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/12/1841">12 U.S.C. 1841(k)</external-xref>);</text>
+ </paragraph><paragraph id="idA17E0A38090542848D38D092EEDF761A"><enum>(2)</enum><text>the term <term>Bureau</term> means the Bureau of Consumer Financial Protection;</text> </paragraph><paragraph id="id1C2AEA313DFD427DBBD378A49A91F7BF"><enum>(3)</enum><text>the terms <term>community financial institution</term> and <term>Federal Home Loan Bank System</term> have the meanings given those terms in section 2 of the Federal Home Loan Bank Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1422">12 U.S.C. 1422</external-xref>);</text>
+ </paragraph><paragraph id="idA9BE99F83DB849A98F793ABD1199B7AD"><enum>(4)</enum><text>the term <term>creditor</term> has the meaning given that term in section 103 of the Truth in Lending Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1602">15 U.S.C. 1602</external-xref>);</text> </paragraph><paragraph id="idC5AAE0121A064AF092F3EFAF6B1E1940"><enum>(5)</enum><text>the term <term>Federal Home Loan Bank</term> means a bank established under the authority of the Federal Home Loan Bank Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1421">12 U.S.C. 1421 et seq.</external-xref>); and</text>
+ </paragraph><paragraph id="id0C516D074CEF40CF8E2A01FF0FBD99B8"><enum>(6)</enum><text>the term <term>qualified mortgage</term> has the meaning given that term in section 129C(b)(2)(A) of the Truth in Lending Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1639c">15 U.S.C. 1639c(b)(2)(A)</external-xref>).</text>
+ </paragraph></subsection><subsection id="id345B62A003204C5E8B9CE04CB865BF1C"><enum>(b)</enum><header>Requirement To issue regulations</header><text display-inline="yes-display-inline">Not later than 9 months after the date of enactment of this Act, the Bureau shall issue regulations that provide that the term <term>qualified mortgage</term> includes any mortgage loan that—</text>
+ <paragraph id="id88676298c52145428347fcfed6e8ea28"><enum>(1)</enum><text>is extended by a creditor that—</text> <subparagraph id="id4918FBE9A8F2474FB856AE9E4CEB62CE"><enum>(A)</enum><text>together with its affiliates, has less than $10,000,000,000 in total consolidated assets; and</text>
+ </subparagraph><subparagraph id="id817BAC322C7748E1B5875968CD06B029"><enum>(B)</enum><text>is a member of a Federal Home Loan Bank;</text> </subparagraph></paragraph><paragraph id="idc8d9d8fe613a44a481fdd43090dd00d8"><enum>(2)</enum><text>meets the requirements of clauses (i), (ii), (iv), (v), (vii), and (viii) of section 129C(b)(2)(A) of the Truth in Lending Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1639c">15 U.S.C. 1639c(b)(2)(A)</external-xref>);</text>
+ </paragraph><paragraph id="ide8ffa420d18143fdafed15d7b6c47ed9"><enum>(3)</enum><text>is eligible to be purchased by a Federal Home Loan Bank pursuant to requirements established by the Federal Home Loan Bank, including underwriting and documentation requirements; and</text>
+ </paragraph><paragraph id="id9F44A10F228A4A33B8B39E835B69AA9D"><enum>(4)</enum><text>is eligible to be purchased and is held by a Federal Home Loan Bank pursuant to regulations issued by the Federal Housing Finance Agency.</text>
+				</paragraph></subsection><subsection id="id591C73FC06D84704884059448779F7C9"><enum>(c)</enum><header>Assessment of regulations</header>
+ <paragraph id="idEAB9A58F0C9042149A9760A6C1A296DC"><enum>(1)</enum><header>In general</header><text>The Bureau shall conduct, in consultation with the Federal Housing Finance Agency, an assessment of the regulations issued under subsection (b), which shall—</text>
+ <subparagraph id="id3E965B5704A64F71B0FF6E35B651685E"><enum>(A)</enum><text>address, among other relevant factors, the usage of the regulations by community financial institutions, the impact of the regulations on access to residential mortgage loans, and whether the Federal Home Loan Banks have established underwriting and documentation requirements; and</text>
+ </subparagraph><subparagraph id="id0ED000EDBCA2420CBA9A003F42485C18"><enum>(B)</enum><text>reflect available evidence and any data that the Bureau reasonably may collect.</text> </subparagraph></paragraph><paragraph id="idC8FA041A961E4BB7AA0C3E9ED6B71439"><enum>(2)</enum><header>Report</header><text>Not later than 4 years after the date on which the Bureau issues the regulations under subsection (b), the Bureau shall publish and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the assessment conducted under paragraph (1).</text>
+ </paragraph><paragraph id="id1834437DD54F42A6AB937CAC7EE0B728"><enum>(3)</enum><header>Public comment required</header><text>Before publishing the report under paragraph (2), the Bureau shall invite public comment on recommendations for modifying, expanding, or eliminating the regulations issued under subsection (b).</text>
+ </paragraph></subsection><subsection id="idd04744bf9b2f4b2f9f017f1a4bb89635"><enum>(d)</enum><header>Revision of regulations</header><text>Beginning 5 years after the date on which the Bureau issues the regulations under subsection (b), the Bureau may revise those regulations if the Bureau determines that the revision is necessary—</text>
+ <paragraph id="id15C20508D1F146D784B0C2039180B954"><enum>(1)</enum><text>to protect the safety of mortgage loan borrowers or lenders; or</text> </paragraph><paragraph id="id66FD94D8FCB144DEA31ED43A79CC4777"><enum>(2)</enum><text>to increase access to mortgage credit.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

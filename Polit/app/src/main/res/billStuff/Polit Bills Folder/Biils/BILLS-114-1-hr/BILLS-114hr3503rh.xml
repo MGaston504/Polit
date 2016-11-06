@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="HB07071A197384E0AA53501871411D072" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3503 RH: Department of Homeland Security Support to Fusion Centers Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IB</distribution-code>
+		<calendar display="yes">Union Calendar No. 245</calendar>
+		<congress display="yes">114th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>H. R. 3503</legis-num>
+		<associated-doc display="yes" role="report">[Report No. 114–322]</associated-doc>
+		<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150911">September 11, 2015</action-date>
+			<action-desc><sponsor name-id="M001197">Ms. McSally</sponsor> (for herself, <cosponsor name-id="M001157">Mr. McCaul</cosponsor>, <cosponsor name-id="K000210">Mr. King of New York</cosponsor>, <cosponsor name-id="L000583">Mr. Loudermilk</cosponsor>, and <cosponsor name-id="B001269">Mr. Barletta</cosponsor>) introduced the following bill; which was referred to the <committee-name added-display-style="italic" committee-id="HHM00" deleted-display-style="strikethrough">Committee on Homeland Security</committee-name></action-desc>
+		</action>
+		<action>
+			<action-date>November 2, 2015</action-date>
+			<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the
+			 Union, and ordered to be printed</action-desc>
+			<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction>
+			<action-instruction>For text of introduced bill, see copy of bill as introduced on September 11, 2015</action-instruction>
+		</action>
+		<action display="yes">
+			<action-desc display="yes"><pagebreak></pagebreak></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To require an assessment of fusion center personnel needs, and for other purposes.<pagebreak></pagebreak></official-title>
+	</form>
+	<legis-body changed="added" committee-id="HHM00" display-enacting-clause="yes-display-enacting-clause" id="HF345A7A676364CC6B1AE68906F361F42" reported-display-style="italic" style="OLC">
+ <section id="H4739F46F4B274CE5A766E94BCB42479F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Department of Homeland Security Support to Fusion Centers Act of 2015</short-title></quote>.</text> </section><section id="HC038ECF2E8CF4D2DB42D1DD9A575B3DA"><enum>2.</enum><header>Fusion center personnel needs assessment</header> <subsection id="H801FB358DCE34A838908A0C0ACD4781E"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 120 days after the date of the enactment of this Act, the Under Secretary of Intelligence and Analysis of the Department of Homeland Security, in coordination with the appropriate components and offices of the Department and the Homeland Security Advisors of the States, shall, in consultation with the principal officials of the fusion centers in the National Network of Fusion Centers, conduct a needs assessment of Department personnel assigned to fusion centers pursuant to subsection (c) of section 210A of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/124h">6 U.S.C. 124h</external-xref>), including an assessment of whether deploying additional Department personnel to such fusion centers would enhance the Department’s mission under section 101(b) of such Act and the National Network of Fusion Centers. The assessment required under this subsection shall include the following:</text>
+ <paragraph id="HC776E60657E94948852D1C6AE086F9F5"><enum>(1)</enum><text>Information on the current deployment of the Department’s personnel to each fusion center.</text> </paragraph><paragraph id="H23C395012B8641E5A264875559C37381"><enum>(2)</enum><text>Information on the roles and responsibilities of the Office of Intelligence and Analysis’ intelligence officers, intelligence analysts, senior reports officers, reports officers, and regional directors deployed to fusion centers.</text>
+ </paragraph><paragraph id="H8CF7A87663A942B6B8F9C181E45847BE"><enum>(3)</enum><text display-inline="yes-display-inline">Information on Federal resources, in addition to personnel, provided to each fusion center.</text> </paragraph><paragraph id="H7A759A87303B45428B10CAC9035D93C9"><enum>(4)</enum><text display-inline="yes-display-inline">An assessment of whether deploying additional personnel, as described in paragraph (2), would enhance intelligence and information sharing between the Department and Federal, State, local, tribal, and territorial partners.</text>
+ </paragraph><paragraph id="H0034FDDC51C44965AACB78D541AC497A"><enum>(5)</enum><text>An assessment of fusion centers located in jurisdictions along land and maritime borders of the United States, and the degree to which deploying personnel, as appropriate, from the U.S. Customs and Border Protection, U.S. Immigration and Customs Enforcement, and the Coast Guard to such fusion centers would enhance the integrity and security at such borders by helping Federal, State, local, and tribal law enforcement authorities to identify, investigate, and interdict persons, weapons, and related contraband that pose a threat to homeland security.</text>
+ </paragraph><paragraph id="H0EA48364B26A4439AE56DC38FDCBB11C"><enum>(6)</enum><text>An assessment of fusion centers located in jurisdictions with large and medium hub airports, and the degree to which deploying, as appropriate, personnel from the Transportation Security Administration to such fusion centers would enhance the integrity and security of aviation security.</text>
+ </paragraph></subsection><subsection id="HEC672BFC63D540C2816F7EC1E499EF9C"><enum>(b)</enum><header>Report</header><text>Not later than 60 days after the completion of the assessment required under subsection (a), the Under Secretary of Intelligence and Analysis of the Department of Homeland Security, in coordination with the appropriate components and offices of the Department of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate such assessment, together with a report on the following:</text>
+ <paragraph id="H00141B9D45624CA392D7D6FE8CA150DE"><enum>(1)</enum><text display-inline="yes-display-inline">The number of personnel assigned to fusion centers from the Office of Intelligence and Analysis of the Department of Homeland Security, including a breakdown of the types of positions assigned and the methodology for determining the fusion centers to which such personnel are assigned.</text>
+ </paragraph><paragraph id="H31A1989DF2774B0D89A194F2CC46E6D2"><enum>(2)</enum><text display-inline="yes-display-inline">The number of personnel assigned to the National Network of Fusion Centers from components and offices of the Department of Homeland Security and the methodology for determining the fusion centers to which such personnel are assigned.</text>
+ </paragraph><paragraph id="HA75A168D9E084D23B25DF0348AB7BB6B"><enum>(3)</enum><text>An implementation plan for determining how the Department’s personnel resources will be allocated to fusion centers in the future.</text>
+				</paragraph></subsection></section><section id="HD80CA552D6A34612BDE8C1FE131AAE0C"><enum>3.</enum><header>Program for State and local analyst clearances</header>
+ <subsection id="H6366FCA91DAC41C39510CFE334E5B700"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Under Secretary of Intelligence and Analysis of the Department of Homeland Security, in collaboration with the Chief Security Officer of the Department, shall establish a program to provide eligibility for access to information classified as Top Secret pursuant to Executive Order 13526 (<external-xref legal-doc="usc" parsable-cite="usc/50/3161">50 U.S.C. 3161</external-xref> note) for State and local analysts located in fusion centers.</text>
+ </subsection><subsection id="H2DCCC053AE1649B89D6DDA87CB9A9770"><enum>(b)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than two years after the establishment of the program required under subsection (a), the Under Secretary of Intelligence and Analysis of the Department of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the following:</text>
+ <paragraph id="H37F0EDACE0934FD58845B2892F215D9B"><enum>(1)</enum><text>The effects of such program on the Department’s ability to sponsor such Top Secret clearances for State and local analysts located in designated fusion centers.</text>
+ </paragraph><paragraph id="HE8D310B1FDB34551A42A0523A468A62B"><enum>(2)</enum><text>The effects of such program on enhancing information sharing with State, local, tribal, and territorial partners.</text>
+ </paragraph><paragraph id="H6E07821F92F544E2B4FE973CB8ABDE2A"><enum>(3)</enum><text>The cost for providing additional training and providing such Top Secret clearances for State and local analysts.</text>
+ </paragraph><paragraph id="HB9BE7C23859343768F8280397C3B3CFB"><enum>(4)</enum><text>The effect of such program on increasing the situational awareness of key stakeholders of the fusion centers, including Federal, State, local, tribal, and territorial law enforcement and emergency response providers.</text>
+ </paragraph></subsection></section><section id="HF8E9749E87CA4EAF82D8C030EBFDCC52"><enum>4.</enum><header>Information technology assessment</header><text display-inline="no-display-inline">The Under Secretary of Intelligence and Analysis of the Department of Homeland Security, in collaboration with the Chief Information Officer of the Department and representatives from the National Network of Fusion Centers, shall conduct an assessment of information systems (as such term is defined in section 3502 of title 44, United States Code) used to share homeland security information between the Department and fusion centers in the National Network of Fusion Centers and make upgrades to such systems, as appropriate. Such assessment shall include the following:</text>
+ <paragraph id="HEA119B9C9EEB4B5D9E4BFB2B4604CB9A"><enum>(1)</enum><text display-inline="yes-display-inline">An evaluation of the accessibility and ease of use of such systems by fusion centers in the National Network of Fusion Centers.</text>
+ </paragraph><paragraph id="HF4D00F1394264A9188B0D9FAC10FEF79"><enum>(2)</enum><text>A review to determine how to establish improved interoperability of departmental information systems with existing information systems used by fusion centers in the National Network of Fusion Centers.</text>
+ </paragraph><paragraph id="HBA69C4F16C9749EABD8816EEEB72C8B1"><enum>(3)</enum><text>An evaluation of participation levels of departmental components and offices of information systems used to share homeland security information with fusion centers in the National Network of Fusion Centers.</text>
+ </paragraph></section><section id="H2C62FEBC41994B6DA5E440E90E55E6EA"><enum>5.</enum><header>Memorandum of understanding</header><text display-inline="no-display-inline">Not later than one year after the date of the enactment of this Act, the Under Secretary of Intelligence and Analysis of the Department of Homeland Security shall enter into a memorandum of understanding with each fusion center in the National Network of Fusion Centers regarding the type of information fusion centers will provide to the Department and whether such information may be subject to public disclosure.</text>
+ </section><section id="H9308D0ACC55948619B9A8CDCECBD9302"><enum>6.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> <paragraph id="HAEE58090FED545AD88CEC283C1752641"><enum>(1)</enum><header>Fusion center</header><text>The term <quote>fusion center</quote> has the meaning given such term in subsection (j) of section 210A of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/124h">6 U.S.C. 124h</external-xref>).</text>
+ </paragraph><paragraph id="H8D0AA36FCFAA49448D4373CEC1967684"><enum>(2)</enum><header>National Network of Fusion Centers</header><text display-inline="yes-display-inline">The term <quote>National Network of Fusion Centers</quote> means a decentralized arrangement of fusion centers intended to enhance individual State and urban area fusion centers’ ability to leverage the capabilities and expertise of all such fusion centers for the purpose of enhancing analysis and homeland security information sharing nationally.</text>
+			</paragraph></section></legis-body>
+	<endorsement display="yes">
+		<action-date>November 2, 2015</action-date>
+		<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the
+			 Union, and ordered to be printed</action-desc></endorsement>
+</bill>
+
+

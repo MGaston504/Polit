@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H75C33EFF00544197B54E533186C2B407" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3327 IH: Kids Before Cons Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3327</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150729">July 29, 2015</action-date>
+			<action-desc><sponsor name-id="C001092">Mr. Collins of New York</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prohibit the awarding of Federal Pell Grants to incarcerated individuals, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="H2749DAF0A46D43D2B479966BEF019875" style="OLC">
+ <section id="HBCA9F2876C1545559D3D76B9BDE027B8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Kids Before Cons Act</short-title></quote>.</text> </section><section id="H8E011190F6244BAF9E1156D7BF11C77D"><enum>2.</enum><header>Limitations on waivers for experimental sites</header><text display-inline="no-display-inline">Section 487A(b)(3) (<external-xref legal-doc="usc" parsable-cite="usc/20/1094a">20 U.S.C. 1094a(b)(3)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HCA849F3164AB497AAD2A07C8C1FB0F37" style="OLC">
+ <subparagraph id="H090B515BF1404C2DB8E8F453BAF84B6D"><enum>(C)</enum><header>Limitations</header><text display-inline="yes-display-inline">Nothing in subparagraph (B) or any other provision of this Act shall be construed to—</text> <clause id="H218D2AE637F04FE2A2B3175CCD9F3007"><enum>(i)</enum><text>authorize the Secretary to waive the prohibition under section 401(b)(6) on awarding a Federal Pell Grant to an incarcerated individual or any other individual described in such section 401(b)(6);</text>
+ </clause><clause id="H096A938E56CB4DE794F8F0C2497D3570"><enum>(ii)</enum><text display-inline="yes-display-inline">authorize the Secretary to waive the prohibition under 484(b)(5) on awarding a loan under this title to an incarcerated individual; or</text>
+ </clause><clause id="H874DD49547884408BB97C31084E84E42"><enum>(iii)</enum><text>authorize the Secretary to award funds to institutions of higher education for providing postsecondary education to incarcerated individuals.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="H1735EF6F7C8D47E9B78C1DACA287967F"><enum>3.</enum><header>Study on incarceration rates</header>
+ <subsection id="HC2404E8ECE3B4AD6AEA60B434F492667"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 90 days after the date of enactment of this Act, the Secretary of Education shall—</text> <paragraph id="H837D244BB9754DEEB21ECC3BA59E29AD"><enum>(1)</enum><text>carry out a study to determine whether the incarceration rates of students enrolled in a charter school or private school as a result of participation in a voucher program is lower than the incarceration rates of students enrolled in a traditional public school in the same geographic area with similar parent income levels; and</text>
+ </paragraph><paragraph id="H6375F47AD05F47A39140ABE8D5215E2F"><enum>(2)</enum><text display-inline="yes-display-inline">publish the results of such study on its publically available website.</text> </paragraph></subsection><subsection id="H0F0DB10F94634FF6AC404294AEEFFDDA"><enum>(b)</enum><header>Incarceration rates</header><text>In comparing incarceration rates for purposes of subsection (a), the Secretary of Education—</text>
+ <paragraph id="H71451B5BFB114F3492F72D971A275E2E"><enum>(1)</enum><text>may use incarceration rate data available from prior years; and</text> </paragraph><paragraph id="H2AA4036107E04EDF9129A71FFBC40B41"><enum>(2)</enum><text>shall include a comparison of post-graduation incarceration rates of students described in subsection (a).</text>
+ </paragraph></subsection><subsection id="H5FAA50AE7EEE4DE99394B361067AC836"><enum>(c)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HCEB4702FE04C4D729674EB291091BE98"><enum>(1)</enum><header>Charter school</header><text>The term <term>charter school</term> has the meaning given the term in section 5210 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7221i">20 U.S.C. 7221i</external-xref>).</text>
+ </paragraph><paragraph id="HF1F28BA2BBEF4D93B96D2518DAC24F38"><enum>(2)</enum><header>Other ESEA terms</header><text display-inline="yes-display-inline">The terms <term>elementary school</term>, <term>parent</term>, <term>secondary school</term>, and <term>State</term> have the meanings given the terms in section 9101 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>).</text>
+ </paragraph><paragraph id="HE9C8BF9F95854C40BC7E6368DBE3E62E"><enum>(3)</enum><header>Private school</header><text display-inline="yes-display-inline">The term <term>private school</term> means a private elementary school or secondary school.</text> </paragraph><paragraph id="H63EFE742FAB64D34A05ABF68EAC0420F"><enum>(4)</enum><header>Voucher program</header><text display-inline="yes-display-inline">The term <term>voucher program</term> means a program that allows participating parents to use State funds to enroll their children in a private school.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

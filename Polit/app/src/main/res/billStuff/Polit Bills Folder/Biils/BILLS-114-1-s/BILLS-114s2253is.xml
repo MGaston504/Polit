@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2253 IS: Department of Veterans Affairs Veterans Education Relief and Restoration Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-11-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2253</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151105">November 5, 2015</action-date>
+			<action-desc><sponsor name-id="S341">Mr. Blumenthal</sponsor> (for himself, <cosponsor name-id="S384">Mr. Tillis</cosponsor>, <cosponsor name-id="S354">Ms. Baldwin</cosponsor>, <cosponsor name-id="S307">Mr. Brown</cosponsor>, <cosponsor name-id="S253">Mr. Durbin</cosponsor>, <cosponsor name-id="S331">Mrs. Gillibrand</cosponsor>, <cosponsor name-id="S361">Ms. Hirono</cosponsor>, <cosponsor name-id="S364">Mr. Murphy</cosponsor>, <cosponsor name-id="S259">Mr. Reed</cosponsor>, <cosponsor name-id="S366">Ms. Warren</cosponsor>, and <cosponsor name-id="S247">Mr. Wyden</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSVA00">Committee on Veterans' Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to provide veterans affected by closures of educational
+			 institutions certain relief and restoration of educational benefits, and
+			 for other purposes. </official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Department of Veterans Affairs Veterans Education Relief and Restoration Act of 2015</short-title></quote>.</text>
+		</section><section id="id2b9e300129ed4b97a4b70cf365a48c13"><enum>2.</enum><header>Restoration of entitlement to educational assistance and other relief for veterans affected by
+			 closures of educational institutions</header>
+			<subsection id="id2a882bb8dc0f47339c25a35f3db5e2a5"><enum>(a)</enum><header>Educational assistance</header>
+ <paragraph id="id2B1E293C85694E7AA1E5522333004C0B"><enum>(1)</enum><header>In general</header><text>Section 3312 of title 38, United States Code, is amended by adding at the end the following new subsection:</text>
+					<quoted-block display-inline="no-display-inline" id="id8ecf499c00b246a8b1b6427404ad88af" style="OLC">
+						<subsection id="id7559015eff8546d9b3809ac726527034"><enum>(d)</enum><header>Discontinuation of education due to closure of educational institution</header>
+ <paragraph id="id9118af09c35142748a9b659ab9cb901b"><enum>(1)</enum><header>In general</header><text>Any payment of educational assistance described in paragraph (2) shall not—</text> <subparagraph id="idc1d648452efc4d20957f236e36d0bdc6"><enum>(A)</enum><text>be charged against any entitlement to educational assistance of the individual concerned under this chapter; or</text>
+ </subparagraph><subparagraph id="idaedfb5a048e1453891877045dd996ead"><enum>(B)</enum><text>be counted against the aggregate period for which section 3695 of this title limits the individual’s receipt of educational assistance under this chapter.</text>
+ </subparagraph></paragraph><paragraph id="idea99607276a64e59bd7721f0d7d1f77d"><enum>(2)</enum><header>Description of payment of educational assistance</header><text>Subject to paragraph (3), the payment of educational assistance described in this paragraph is the payment of such assistance to an individual for pursuit of a course or courses under this chapter if the Secretary finds that the individual—</text>
+ <subparagraph id="id523b36b0285b4ef699c256c74bee488f"><enum>(A)</enum><text>was forced to discontinue such course pursuit as a result of a permanent closure of an educational institution; and</text>
+ </subparagraph><subparagraph id="idbbade5e1b7ad450c8712defe4cc2aa54"><enum>(B)</enum><text>did not receive credit, or lost training time, toward completion of the program of education being pursued at the time of such closure.</text>
+ </subparagraph></paragraph><paragraph id="ide8488d6f24d04e479ddd3bc16dc396a5"><enum>(3)</enum><header>Period for which payment not charged</header><text>The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the aggregate of—</text>
+ <subparagraph id="id41F005D829DD45AC8C96031A6F249789"><enum>(A)</enum><text>the portion of the period of enrollment in the course or courses from which the individual failed to receive credit or with respect to which the individual lost training time, as determined under paragraph (2)(B), and</text>
+ </subparagraph><subparagraph id="idA484CF3BB4674A97AFDA12D1DFDEC711"><enum>(B)</enum><text>the period by which monthly stipend is extended under section 3680(a)(2)(B) of this title.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="id55F3E8CC1BF14F488B2431DA6979B3A2"><enum>(2)</enum><header>Applicability</header><text>Subsection (d) of such section, as added by paragraph (1), shall apply with respect to courses and programs of education discontinued as described in subparagraph (A) or (B) of paragraph (2) of such subsection in fiscal year 2015 or any fiscal year thereafter.</text>
+				</paragraph></subsection><subsection id="id6e6d23efab1d4f99b22cd54444e2dd33"><enum>(b)</enum><header>Monthly housing stipend</header>
+ <paragraph id="id23BD47CCC35F4FE7AA1485DF4CE8BF3F"><enum>(1)</enum><header>In general</header><text>Section 3680(a) of such title is amended—</text> <subparagraph id="id86540B0FEB8E43C2BE8837262A8EB2B3"><enum>(A)</enum><text>by striking the matter after paragraph (3)(B);</text>
+ </subparagraph><subparagraph id="idC24E9A9103814D269CA592227E8CBC22"><enum>(B)</enum><text>in paragraph (3), by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively;</text> </subparagraph><subparagraph id="id4D27CBFDF8044EE7AAC0C05C2EC133FB"><enum>(C)</enum><text>by redesignating paragraphs (1) through (3) as subparagraphs (A) through (C), respectively;</text>
+ </subparagraph><subparagraph id="id53BC9F81CF2D40709B671E9BDC37C393"><enum>(D)</enum><text>in the matter before subparagraph (A), as redesignated, in the first sentence, by striking <quote>Payment of</quote> and inserting <quote>(1) Except as provided in paragraph (2), payment of</quote>; and</text> </subparagraph><subparagraph id="id23B3390551954C7BA8C6D7F7E69E56D7"><enum>(E)</enum><text>by adding at the end the following new paragraph (2):</text>
+						<quoted-block display-inline="no-display-inline" id="idDA1F562A1ED04817BB7EF4A67EB019FE" style="OLC">
+ <paragraph id="idA4E5D53BF2234025A6AB7587C80203FA" indent="up1"><enum>(2)</enum><text>Notwithstanding paragraph (1), the Secretary may, pursuant to such regulations as the Secretary shall prescribe, continue to pay allowances to eligible veterans and eligible persons enrolled in courses set forth in paragraph (1)(A)—</text>
+ <subparagraph id="id871e90d0534c4380bd94090c3e356e40"><enum>(A)</enum><text>during periods when schools are temporarily closed under an established policy based on an Executive order of the President or due to an emergency situation, except that the total number of weeks for which allowances may continue to be so payable in any 12-month period may not exceed four weeks; or</text>
+ </subparagraph><subparagraph id="id0af2ab6008ca44c7aff9ef1bbb520ee2"><enum>(B)</enum><text>solely for the purpose of awarding a monthly housing stipend described in section 3313 of this title, during periods following a permanent school closure, except that payment of such a stipend may only be continued until the earlier of—</text>
+ <clause id="idE05382578E134E95B558EBD9CDFD9746"><enum>(i)</enum><text>the date of the end of the term, quarter, or semester during which the school closure occurred; and</text>
+ </clause><clause id="id9216A8A13CCC41E1ABF4854770E2161B"><enum>(ii)</enum><text>the date that is 4 months after the date of the school closure.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="id92F4ED054E4D4E7FA94A3FCA59FCB7FA"><enum>(2)</enum><header>Conforming amendment</header><text>Paragraph (1)(C)(ii) of such section, as redesignated, is amended by striking <quote>described in subclause (A) of this clause</quote> and inserting <quote>described in clause (ii)</quote>.</text> </paragraph></subsection></section></legis-body> </bill> 
+

@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2211 IS: Spectrum Relocation Fund Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-10-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2211</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20151027">October 27, 2015</action-date>
+			<action-desc><sponsor name-id="S347">Mr. Moran</sponsor> (for himself and <cosponsor name-id="S326">Mr. Udall</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To authorize additional uses of the Spectrum Relocation Fund.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Spectrum Relocation Fund Act of 2015</short-title></quote>.</text>
+		</section><section id="HF33936332C64461FBFA227BAD1C358D0"><enum>2.</enum><header>Additional uses of Spectrum Relocation Fund</header>
+ <subsection id="HFD25FEEBB08A46E581250F6F73C137F0"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 118 of the National Telecommunications and Information Administration Organization Act (<external-xref legal-doc="usc" parsable-cite="usc/47/928">47 U.S.C. 928</external-xref>) is amended—</text>
+ <paragraph id="H67BBFC348E1645E99D6E58EC9240138C"><enum>(1)</enum><text>by redesignating subsection (g) as subsection (i); and</text> </paragraph><paragraph id="HC07821B96A0F4B2E8BC32E9976DC8287"><enum>(2)</enum><text>by inserting after subsection (f) the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H8F363FD0090A43D5B69778B9292FCF49" style="OLC">
+						<subsection id="HC543490C60584BCD9B75A13AFB7DA81D">
+							<enum>(g)</enum>
+							<header>Additional payments for research and development and planning activities</header>
+							<paragraph id="HF5A4CB463C3D492F91C09A8A20850A24">
+								<enum>(1)</enum>
+								<header>Amounts available</header>
+ <text>Notwithstanding subsections (c) through (e)—</text> <subparagraph id="H83449D385CD346C4A20A3313F54B52AC"><enum>(A)</enum><text>there are appropriated from the Fund on the date of the enactment of the <short-title>Spectrum Relocation Fund Act of 2015</short-title>, and available to the Director of OMB for use in accordance with paragraph (2), not more than $500,000,000 from amounts in the Fund on such date of enactment; and</text>
+ </subparagraph><subparagraph id="HF8ADA9884E2B432AB91631477D76B727"><enum>(B)</enum><text display-inline="yes-display-inline">there are appropriated from the Fund after such date of enactment, and available to the Director of OMB for use in accordance with such paragraph, not more than 10 percent of the amounts deposited in the Fund after such date of enactment.</text>
+								</subparagraph></paragraph><paragraph id="H30361C5FEA194353B757FE9CA812B263">
+								<enum>(2)</enum>
+								<header>Use of amounts</header>
+								<subparagraph id="HA9C4E56F5B944A80B74CD96E691AE9D8">
+									<enum>(A)</enum>
+									<header>In general</header>
+ <text display-inline="yes-display-inline">The Director of OMB may use amounts made available under paragraph (1) to make payments requested by Federal entities for research and development, engineering studies, economic analyses, or other planning activities intended to improve the efficiency and effectiveness of the spectrum use of Federal entities in order to make available frequencies described in subparagraph (C) for reallocation for non-Federal use or shared Federal and non-Federal use, or a combination thereof, and for auction in accordance with such reallocation.</text>
+ </subparagraph><subparagraph commented="no" id="HAB0AEFC9913C4ECC8FF4F97D1C99EF7E"><enum>(B)</enum><header>Systems that improve efficiency and effectiveness of Federal spectrum use</header><text display-inline="yes-display-inline">For purposes of a payment under subparagraph (A) for activities with respect to systems that improve the efficiency and effectiveness of the spectrum use of Federal entities, such systems include the following:</text>
+ <clause commented="no" id="H74FB7D4B40E945808C35166658C16331"><enum>(i)</enum><text display-inline="yes-display-inline">Systems that have increased functionality or that increase the ability of a Federal entity to accommodate spectrum sharing with non-Federal entities.</text>
+ </clause><clause commented="no" id="H32BF538EEEF0463EAF6EB6B4AC8A4355"><enum>(ii)</enum><text>Systems that consolidate functions or services that have been provided using separate systems.</text> </clause><clause commented="no" id="H71F6A3CB4A1A4AAD9EDDA20A34F05ED1"><enum>(iii)</enum><text>Non-spectrum technology or systems.</text>
+ </clause></subparagraph><subparagraph commented="no" id="HAF1FC1129EE845F8B15C660C4EE91503"><enum>(C)</enum><header>Frequencies described</header><text>The frequencies described in this subparagraph are, with respect to a payment under subparagraph (A), frequencies that—</text>
+ <clause commented="no" id="HFA9BB7423FCA4768B034AE0C8C781E4C"><enum>(i)</enum><text>are assigned to a Federal entity; and</text> </clause><clause commented="no" id="HB83BF7DF800949CF9815348ACBC0C4F7"><enum>(ii)</enum><text>at the time of the activities conducted with such payment, are not identified for auction.</text>
+									</clause></subparagraph><subparagraph id="H4EBFDE699BFD455A8ED05F65D3E5C934">
+									<enum>(D)</enum>
+									<header>Conditions</header>
+ <text>The Director of OMB may not make a payment to a Federal entity under subparagraph (A)—</text> <clause id="H2C09F73CA8424695AFFA582A41E23AC4"><enum>(i)</enum><text>unless—</text>
+ <subclause id="H9E9EE8DB2B2E4FE1A080979896D68EE9"><enum>(I)</enum><text>the Federal entity has submitted to the Technical Panel established under section 113(h)(3) a plan describing the activities that the Federal entity will conduct with such payment;</text>
+ </subclause><subclause id="H79B0860B888B4C06944ED4F16C3781CD"><enum>(II)</enum><text>the Technical Panel has approved such plan under subparagraph (E); and</text> </subclause><subclause id="HCCE306E747DC4068A19D8CDF9DAB5FBB"><enum>(III)</enum><text>the Director of OMB has submitted the plan approved under subparagraph (E) to the congressional committees described in subsection (d)(2)(C); and</text>
+ </subclause></clause><clause id="HA9EA39829CA34B18859EC5A55AF53B71"><enum>(ii)</enum><text>until 60 days have elapsed after submission of the plan under clause (i)(III).</text> </clause></subparagraph><subparagraph id="H7BAD13751914482289F16CF4DC64D532"><enum>(E)</enum><header>Review by Technical Panel</header> <clause id="H69C88480FC104C9C872C2E12AC464012"><enum>(i)</enum><header>In general</header><text>Not later than 120 days after a Federal entity submits a plan under subparagraph (D)(i)(I) to the Technical Panel established under section 113(h)(3), the Technical Panel shall approve or disapprove such plan.</text>
+ </clause><clause commented="no" id="H40F53C12D5B04308A78F92342B6ADC5C"><enum>(ii)</enum><header>Criteria for review</header><text>In considering whether to approve or disapprove a plan under this subparagraph, the Technical Panel shall consider whether—</text>
+ <subclause commented="no" id="H7CD1E39D0B014ABEB38832757AA0F902"><enum>(I)</enum><text>the activities that the Federal entity will conduct with the payment will—</text> <item commented="no" id="HCDE276FC663B4DB1988270010B4D4452"><enum>(aa)</enum><text display-inline="yes-display-inline">increase the probability of relocation from or sharing of Federal spectrum;</text>
+ </item><item commented="no" id="H78C979439C74440395612A7939E227A2"><enum>(bb)</enum><text>facilitate an auction intended to occur not later than 8 years after the payment; and</text> </item><item commented="no" id="HE4A279DA7B944C16BC2A2335FEB24A2E"><enum>(cc)</enum><text>increase the net expected auction proceeds in an amount not less than the time value of the amount of the payment; and</text>
+ </item></subclause><subclause commented="no" id="HCEA457962C784781A76E72E0ECE3AA32"><enum>(II)</enum><text>the transfer will leave sufficient amounts in the Fund for the other purposes of the Fund.</text> </subclause></clause></subparagraph></paragraph><paragraph commented="no" id="idD09A464D03834CAF8EE1A369C188D227"><enum>(3)</enum><header>Definition of Federal entity</header><text>For purposes of this subsection, the term <term>Federal entity</term> has the meaning given the term in section 113(l).</text>
+ </paragraph></subsection><subsection id="H78BBEB8704F1442982B0C045BF235A5E"><enum>(h)</enum><header>Prioritization of payments</header><text>In determining whether to make payments under subsections (f) and (g), the Director of OMB shall, to the extent practicable, prioritize payments under subsection (g).</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H276ED71D636044C8BF280B714A87C9A8"><enum>(b)</enum><header>Administrative support for Technical Panel</header><text display-inline="yes-display-inline">Section 113(h)(3)(C) of the National Telecommunications and Information Administration Organization Act (<external-xref legal-doc="usc" parsable-cite="usc/47/923">47 U.S.C. 923(h)(3)(C)</external-xref>) is amended by striking <quote>this subsection and subsection (i)</quote> and inserting <quote>this subsection, subsection (i), and section 118(g)(2)(E)</quote>.</text>
+			</subsection><subsection commented="no" id="H53FFC3EA529E46E7877D941B9B1A45F6"><enum>(c)</enum><header>Eligible Federal entities</header>
+ <paragraph commented="no" id="idA5567983DE564CB69FFCDDBC7BD69755"><enum>(1)</enum><header>Relocation of and spectrum sharing by Federal Government stations</header><text display-inline="yes-display-inline">Section 113 of the National Telecommunications and Information Administration Organization Act (<external-xref legal-doc="usc" parsable-cite="usc/47/923">47 U.S.C. 923</external-xref>) is amended—</text>
+ <subparagraph commented="no" id="HA459BC59FD3042BF971A79FA619CA0B2"><enum>(A)</enum><text>in subsection (g)—</text> <clause commented="no" id="H48E3D4887FA149848E1C8A33DA2F554D"><enum>(i)</enum><text>in paragraph (1)—</text>
+ <subclause commented="no" id="HAFEA0727553140A491BC3C1F0144489B"><enum>(I)</enum><text>by striking <quote>authorized to use a band of eligible frequencies described in paragraph (2) and</quote>;</text> </subclause><subclause commented="no" id="H3C9CF52692CE487F863D72FA5E110B2E"><enum>(II)</enum><text>by inserting <quote>eligible</quote> after <quote>auction of</quote>; and</text>
+ </subclause><subclause commented="no" id="H4124F63195B94FD1B1BE99033542CC41"><enum>(III)</enum><text>by inserting <quote>eligible</quote> after <quote>reallocation of</quote>; and</text> </subclause></clause><clause commented="no" id="H20BA05E03B6D4B11AE9080339A4ED63F"><enum>(ii)</enum><text>in paragraph (3)(A)—</text>
+ <subclause commented="no" id="id180655DDD1F04ED897567A6F47C641DF"><enum>(I)</enum><text>in the matter preceding clause (i), by striking <quote>previously assigned to such entity or the sharing of spectrum frequencies assigned to such entity</quote> and inserting <quote>or the sharing of spectrum frequencies</quote>;</text> </subclause><subclause id="H734FA4D3302945F7988BB064D3D77ACD"><enum>(II)</enum><text>in clause (iv), by striking <quote>and</quote> at the end;</text>
+ </subclause><subclause id="HBB0EA0119AF94F45BD7F083A6484B663"><enum>(III)</enum><text>in clause (v), by striking the period and inserting <quote>; and</quote>; and</text> </subclause><subclause id="H81B5C1098EB24D009D841A710071D958"><enum>(IV)</enum><text>by adding at the end the following:</text>
+								<quoted-block display-inline="no-display-inline" id="H453EC60268CA4E38BD875876A4C1ED03" style="OLC">
+ <clause commented="no" display-inline="no-display-inline" id="H94433382986644799AE8DBE51A197776"><enum>(vi)</enum><text display-inline="yes-display-inline">the costs incurred by an incumbent Federal entity to accommodate sharing the spectrum frequencies assigned to such entity with a Federal entity the operations of which are being relocated from eligible frequencies described in paragraph (2).</text></clause><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </subclause></clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H544B5381A0744E64B55E9615AFC10F18"><enum>(B)</enum><text>in subsection (h)(1), by striking <quote>authorized to use any such frequency</quote>.</text> </subparagraph></paragraph><paragraph id="H50446BA697744C00A317B39EEBB6ADD3"><enum>(2)</enum><header>Spectrum Relocation Fund</header><text display-inline="yes-display-inline">Section 118 of the National Telecommunications and Information Administration Organization Act (<external-xref legal-doc="usc" parsable-cite="usc/47/928">47 U.S.C. 928</external-xref>) is amended—</text>
+ <subparagraph id="HC6E7B3873C6C468AAB1F4BDBD61A650D"><enum>(A)</enum><text>in subsection (c), by striking <quote>with respect to</quote> and all that follows and inserting the following:</text> <quoted-block display-inline="yes-display-inline" id="H47AC647169E946598903EACB31455131" style="OLC"> <text>with respect to—</text><paragraph id="H6864CD27CE3846E9A94ABEAF8CE9217B"><enum>(1)</enum><text display-inline="yes-display-inline">relocation from or sharing of such eligible frequencies; or</text> </paragraph><paragraph id="HE5DD8E39D3A54CE58D95EF0258CCD655"><enum>(2)</enum><text>in the case of an incumbent Federal entity described in section 113(g)(3)(A)(vi), accommodating sharing the spectrum frequencies assigned to such entity with a Federal entity the operations of which are being relocated from such eligible frequencies.</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </subparagraph><subparagraph id="H4CC4CDD42C144BED8FCF34A0A9F982F7"><enum>(B)</enum><text>in subsection (d)(3)(B)(ii), by inserting <quote>except in the case of an incumbent Federal entity described in section 113(g)(3)(A)(vi),</quote> before <quote>the transition plan</quote>.</text> </subparagraph></paragraph></subsection></section></legis-body> </bill> 
+

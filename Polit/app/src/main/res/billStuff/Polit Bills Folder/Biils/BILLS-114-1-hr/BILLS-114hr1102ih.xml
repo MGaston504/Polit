@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H042474E45BED4437A7CE6EFE84E680E9" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1102 IH: Police Accountability Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1102</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150226">February 26, 2015</action-date>
+			<action-desc><sponsor name-id="J000288">Mr. Johnson of Georgia</sponsor> (for himself, <cosponsor name-id="R000053">Mr. Rangel</cosponsor>, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, <cosponsor name-id="E000288">Mr. Ellison</cosponsor>, <cosponsor name-id="R000515">Mr. Rush</cosponsor>, <cosponsor name-id="B001270">Ms. Bass</cosponsor>, <cosponsor name-id="C001080">Ms. Chu of California</cosponsor>, <cosponsor name-id="P000593">Mr. Perlmutter</cosponsor>, <cosponsor name-id="T000193">Mr. Thompson of Mississippi</cosponsor>, <cosponsor name-id="W000808">Ms. Wilson of Florida</cosponsor>, <cosponsor name-id="L000551">Ms. Lee</cosponsor>, <cosponsor name-id="C001049">Mr. Clay</cosponsor>, and <cosponsor name-id="C001061">Mr. Cleaver</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 18, United States Code, to provide a penalty for assault or homicide committed by
+			 certain State or local law enforcement officers, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HCC2BFA72F02F4C35971CB2EBAB37EDF3" style="OLC">
+ <section id="HEA54770CAE954CC6865AE139BB959C81" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Police Accountability Act of 2015</short-title></quote>.</text> </section><section id="H3B48194DF377428D9C9DA6E930E383AF" section-type="subsequent-section"><enum>2.</enum><header>Assault or homicide by certain State or local law enforcement officers</header> <subsection id="HADF31C50B9D64BB78DBE11F7C20D5F23"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/1">Chapter 1</external-xref> of title 18, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H522E9340B9BC45D0A5C1D52BD5F980B2" style="USC">
+					<section id="HC838C4E37DE9440A9A3631FD56CB251D"><enum>28.</enum><header>Assault or homicide by certain State or local law enforcement officers</header>
+ <subsection id="H8286144FC4DB46BFABFF1809BC308BE9"><enum>(a)</enum><header>Offense</header><text display-inline="yes-display-inline">Whoever, being a State or local law enforcement officer in a public agency which receives Federal funding under subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/42/3750">42 U.S.C. 3750 et seq.</external-xref>) engages in any conduct in the line of duty that, were the conduct to occur in the special maritime and territorial jurisdiction of the United States, would constitute an offense under section 1111 or 1112 shall be punished as is provided for that offense under such section.</text>
+ </subsection><subsection id="H7F270008CBF14B89B8947D63D89F364D"><enum>(b)</enum><header>Definition</header><text display-inline="yes-display-inline">In this section—</text> <paragraph id="HB2C3AB0507DB4101AB715358453B29C4"><enum>(1)</enum><text>the term <term>State or local law enforcement officer</term> means an employee of a State or local government—</text>
+ <subparagraph id="HE9E7FA7F6EEE4760A1B09A22FFD6172E"><enum>(A)</enum><text>who has statutory authority to make arrests or apprehensions;</text> </subparagraph><subparagraph id="H2CEF2730189E4E1699E606224715AA3D"><enum>(B)</enum><text>who is authorized by the agency of the employee to carry firearms; and</text>
+ </subparagraph><subparagraph id="HDE2733D5189F4A3AA6325232EA065C94"><enum>(C)</enum><text>whose duties are primarily—</text> <clause id="HB180F981D4F5444686FD33EB6861CA30"><enum>(i)</enum><text>engagement in or supervision of the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law; or</text>
+ </clause><clause id="HB5D4B981D4414F379DCA5EDC920DC9F4"><enum>(ii)</enum><text>the protection of Federal, State, local, or foreign government officials against threats to personal safety; and</text>
+ </clause></subparagraph></paragraph><paragraph id="HE0831693908346FC917815970EB56026"><enum>(2)</enum><text>the term <term>State or local government</term> means the government—</text> <subparagraph id="H8208030AD08F4B4D9CD47CDBF8906807"><enum>(A)</enum><text>of a State, the District of Columbia, the Commonwealth of Puerto Rico, or any other territory or possession of the United States; or</text>
+ </subparagraph><subparagraph id="H37DA9C14F77F41A49E1231E2F5B2D381"><enum>(B)</enum><text>of a political subdivision of such a State, District, Commonwealth, territory or possession.</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="HC6500F34A3A944519311B908C9B54FF1"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/1">chapter 1</external-xref> of title 18, United States Code, is amended by adding at the end the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H74F8CD417C7446EDBDE359BD7AC7D218" style="USC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">28. Assault or homicide by certain State or local law enforcement officers.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H93A0D9E161EE41B5B740AB0C74C73130" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4216 IH: Consumer Financial Choice and Capital Markets Protection Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4216</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151210">December 10, 2015</action-date>
+			<action-desc><sponsor name-id="M001160">Ms. Moore</sponsor> (for herself and <cosponsor name-id="S001187">Mr. Stivers</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To protect the investment choices of American investors, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HE80F84EC710B477B93DE416C076CB14B" style="OLC">
+ <section id="H86B5BDDBCEFF40C9A28740E721522EC6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Consumer Financial Choice and Capital Markets Protection Act of 2015</short-title></quote>.</text> </section><section id="H211EEBBA09CF4D81A8C31163FEC68367"><enum>2.</enum><header>Treatment of money market funds under the Investment Company Act of 1940</header><text display-inline="no-display-inline">The Investment Company Act of 1940 (<external-xref legal-doc="usc" parsable-cite="usc/15/80a">15 U.S.C. 80a et seq.</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HEF9ACBC9E3F4417FAEA849296C070514" style="OLC">
+				<section id="HEB78FCDD2F1C47439FE4752D52444B26"><enum>66.</enum><header>Money market funds</header>
+ <subsection id="H7F93B741270442959666112FE64109FF"><enum>(a)</enum><header>Election To be treated as money market fund</header><text display-inline="yes-display-inline">Notwithstanding any other provision of this title, any open-end investment company (or a separate series thereof) may elect, in its registration statement filed under section 8, to be a money market fund and may compute the current price per share, for purposes of distribution or redemption and repurchase, of any redeemable security issued by the company using the amortized cost method of valuation, or the penny-rounding method of pricing, regardless of whether its shareholders are limited to natural persons, if—</text>
+ <paragraph id="HEDC7200650E640F591816E4A94E5AEA8"><enum>(1)</enum><text>the company or series has as its objective the generation of income and preservation of capital through investment in short-term, high-quality debt securities;</text>
+ </paragraph><paragraph id="H330449A4EF644961A92CE5E93A3282F7"><enum>(2)</enum><text>the company or series elects to maintain a stable net asset value per share or stable price per share, by virtue of the amortized cost valuation method, as that term is defined in section 270.2a–7(a)(2) of title 17, Code of Federal Regulations, as in effect on the date of enactment of this section, and in accordance with the requirements specified with respect to the use of the amortized cost valuation method as set forth in that section, as in effect on the date of enactment of this section, or the penny-rounding pricing method, as that term is defined in section 270.2a–7(a)(21) of title 17, Code of Federal Regulations, as in effect on the date of enactment of this section, and in accordance with the requirements specified with respect to the use of the penny-rounding pricing method as set forth in that section, as in effect on the date of enactment of this section, the board of directors of the company has determined, in good faith, that—</text>
+ <subparagraph id="H83C81DA49A2F46989E1B38F6222D9901"><enum>(A)</enum><text>it is in the best interests of the company or series, and its shareholders, to do so; and</text> </subparagraph><subparagraph id="H81EBF233621A43058F0C636EFA51A4DB"><enum>(B)</enum><text>the money market fund will continue to use such method or methods only as long as the board of directors believes that the resulting share price fairly reflects the market-based net asset value per share of the company or series; and</text>
+ </subparagraph></paragraph><paragraph id="HBD4260942CB94A3AA664A99E5DC140B8"><enum>(3)</enum><text>the company or series agrees to comply with such quality, maturity, diversification, and liquidity requirements, including reasonable procedural and recordkeeping requirements and provisions relating to liquidity fees and restrictions on redemptions, as the Commission, by rule or regulation or order, may prescribe or has prescribed as necessary or appropriate in the public interest or for the protection of investors to the extent that such requirements and provisions are not inconsistent with this section.</text>
+						</paragraph></subsection><subsection id="H595D5843A415462A85BC8F982406C4AA"><enum>(b)</enum><header>Prohibition against Federal Government bailouts of money market funds</header>
+ <paragraph id="HB5F86F3AAED649DD8700F0036A12043C"><enum>(1)</enum><header>Definitions</header><text>In this subsection—</text> <subparagraph id="H5BD6C2B60BCC46BDB3841D8829050F74"><enum>(A)</enum><text>the term <term>covered Federal assistance</term> means Federal assistance used for the purpose of—</text>
+ <clause id="H04106CAAEB1C4A06B7B44A3C62FFA8F5"><enum>(i)</enum><text>making any loan to, or purchasing any stock, equity interest, or debt obligation of, any money market fund;</text>
+ </clause><clause id="H80B5D8C97EC74252BA1D95FC53761DB5"><enum>(ii)</enum><text>guaranteeing any loan or debt issuance of any money market fund; or</text> </clause><clause id="HD6B0795B5BF44549801BC2CC9CAD9FA5"><enum>(iii)</enum><text>entering into any assistance arrangement (including tax breaks), loss sharing, or profit sharing with any money market fund; and</text>
+ </clause></subparagraph><subparagraph id="H076369C2F5984C328F70E603F4D0895C"><enum>(B)</enum><text>the term <term>Federal assistance</term> means—</text> <clause id="HFA2C6AED03A84C8C82F43F0B2EDF710A"><enum>(i)</enum><text>insurance or guarantees by the Federal Deposit Insurance Corporation;</text>
+ </clause><clause id="H2A46F6E2ACD0485AB449434CA79A9E38"><enum>(ii)</enum><text>transactions involving the Secretary of the Treasury; or</text> </clause><clause id="HB5999EDFF85E4107852C68AFA6934890"><enum>(iii)</enum><text>the use of any advances from any Federal Reserve credit facility or discount window that is not part of a program or facility with broad-based eligibility established in unusual or exigent circumstances.</text>
+ </clause></subparagraph></paragraph><paragraph id="H05C9CC9E08F14761B300A2B82E4A31E6"><enum>(2)</enum><header>Prohibition</header><text>Notwithstanding any other provision of law (including regulations), covered Federal assistance may not be provided directly to any money market fund.</text>
+ </paragraph></subsection><subsection id="H9EFA2F897FA34C12BBA0D7794C370D8E"><enum>(c)</enum><header>Disclosure of the prohibition against Federal Government bailouts of money market funds</header><text>No principal underwriter of a redeemable security issued by a money market fund nor any dealer shall offer or sell any such security to any person unless the prospectus of the money market fund and any advertising or sales literature for such fund prominently discloses the prohibition against direct covered Federal assistance as described in subsection (b). The Commission may, after consultation with and taking into account the views of the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the Department of the Treasury, adopt rules and regulations, and issue orders consistent with the protection of investors, prescribing the manner in which the disclosure under this subsection shall be provided.</text>
+ </subsection><subsection id="HB3B2DA95B810468584AD05A1538923CC"><enum>(d)</enum><header>Continuing obligation To meet requirements of this title</header><text>A company that elects to be a money market fund in accordance with subsection (a) or is otherwise a money market fund operating in accordance with the rules and regulations of the Commission applicable to money market funds shall remain subject to the provisions of this title and the rules and regulations of the Commission thereunder that would otherwise apply to a registered open-end company, as long as those provisions do not conflict with the provisions of this section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

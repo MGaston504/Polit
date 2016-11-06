@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9F14665F0CB84CCC98799A95B2173FEB" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2470 IH: Private Prison Information Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2470</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150520">May 20, 2015</action-date> 
+<action-desc><sponsor name-id="J000032">Ms. Jackson Lee</sponsor> (for herself, <cosponsor name-id="R000515">Mr. Rush</cosponsor>, <cosponsor name-id="S000185">Mr. Scott of Virginia</cosponsor>, <cosponsor name-id="J000288">Mr. Johnson of Georgia</cosponsor>, <cosponsor name-id="N000002">Mr. Nadler</cosponsor>, <cosponsor name-id="C001068">Mr. Cohen</cosponsor>, <cosponsor name-id="L000397">Ms. Lofgren</cosponsor>, <cosponsor name-id="L000287">Mr. Lewis</cosponsor>, <cosponsor name-id="R000053">Mr. Rangel</cosponsor>, <cosponsor name-id="D000096">Mr. Danny K. Davis of Illinois</cosponsor>, <cosponsor name-id="C001049">Mr. Clay</cosponsor>, <cosponsor name-id="C000984">Mr. Cummings</cosponsor>, and <cosponsor name-id="C000714">Mr. Conyers</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To require non-Federal prisons and detention facilities holding Federal prisoners under a contract with the Federal Government to make available to the public the same information pertaining to facility operations and to prisoners held in such facilities that Federal prisons and detention facilities are required to make available.</official-title> 
+</form> 
+<legis-body id="H14EB91EF47B742B1BAA5DE92F83C1586" style="OLC"> 
+<section id="HB749D4544261490CA6AF474ABC76187B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Private Prison Information Act of 2015</short-title></quote>.</text></section> <section id="HF72E1F1E1CC541D8A1B8E38FF769728B"><enum>2.</enum><header>Freedom of Information Act applicable for contract prisons</header> <subsection id="HF8FFD12F191C4135B36BC68EC0A3A9AB"><enum>(a)</enum><header>In General</header><text display-inline="yes-display-inline">Records relating to the operation of a Contract Facility, and to prisoners held in Contract Facilities, that are in the possession of an applicable entity shall be subject to section 552 of title 5, United States Code (popularly known as the Freedom of Information Act), in the same manner as records maintained by a Federal agency operating a Federal prison or other Federal detention facility would be subject to such section of title 5, including—</text>
+<paragraph id="HC611C0ACC2634FA7B0B5DEF923DC8D41"><enum>(1)</enum><text>the duty to release information about the operation of the non-Federal prison or detention facility; and</text></paragraph> <paragraph id="HCF0BC2BDDF584F45B8551F45B5BC2467"><enum>(2)</enum><text>the applicability of the exceptions and exemptions available under such section.</text></paragraph></subsection>
+<subsection id="HEB618A6345934A099A50869034C103DA"><enum>(b)</enum><header>Regulations</header><text display-inline="yes-display-inline">A Federal agency that contracts with, or provides funds to, an applicable entity to incarcerate or detain Federal prisoners in a non-Federal prison or detention facility shall promulgate regulations or guidance to ensure compliance by the applicable entity with <internal-xref idref="HF8FFD12F191C4135B36BC68EC0A3A9AB" legis-path="2.(a)">subsection (a)</internal-xref>.</text></subsection> <subsection commented="no" id="H2732645D330345C28404D298E4DE4F94"><enum>(c)</enum><header>No Federal funds for compliance</header><text display-inline="yes-display-inline">No Federal funds may be used to assist applicable entities with compliance with this section or section 552 of title 5, United States Code.</text></subsection>
+<subsection id="HF277CB44BD534007A01DEF373A4E96B0"><enum>(d)</enum><header>Civil Action</header><text display-inline="yes-display-inline">Any party aggrieved by a violation of section 552 of title 5, United States Code, by an applicable entity, as such section is applicable to such an entity in accordance with <internal-xref idref="HF8FFD12F191C4135B36BC68EC0A3A9AB" legis-path="2.(a)">subsection (a)</internal-xref>, may, in a civil action, obtain appropriate relief, including an award under subsection (a)(4)(E) of section 552 of such title 5, against the applicable entity for the violation.</text></subsection> <subsection id="HB8638C90F2594EF6862CFC9E5972F025"><enum>(e)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section:</text>
+<paragraph id="HBE830DC9DC124C37920CB87BF09BC3F5"><enum>(1)</enum><header>Applicable entity</header><text>The term <term>applicable entity</term> means—</text> <subparagraph id="HD294BB6A74D043329BEAF8421B381391"><enum>(A)</enum><text display-inline="yes-display-inline">a nongovernmental entity that directly or indirectly contracts with or receives funds from the Federal Government to incarcerate or detain Federal prisoners in a Contract Facility; or</text></subparagraph>
+<subparagraph id="H2EDBF383E71E4F35AF2606D91B7BBB80"><enum>(B)</enum><text>a State or local governmental entity with a contract or intergovernmental service agreement with the Federal Government to incarcerate or detain Federal prisoners in a Contract Facility.</text></subparagraph></paragraph> <paragraph id="H7C76808DBE054A6489B60D04ABD66E4B"><enum>(2)</enum><header>Contract Facility</header><text>The term <term>Contract Facility</term> means a prison or other correctional or detention facility that is—</text>
+<subparagraph id="H67B6C7E849B540BCA04BA585F24E5076"><enum>(A)</enum><text>owned or operated by a nongovernmental entity, a State, or a local government; and</text></subparagraph> <subparagraph id="H2CA3DF64A44F4313BD1038AF355EA870"><enum>(B)</enum><text>incarcerates or detains Federal prisoners pursuant to a contract or intergovernmental agreement to which any Federal agency is a party.</text></subparagraph></paragraph>
+<paragraph id="H1BDE1A4A46AE48B4BD502D79F367D81E"><enum>(3)</enum><header>Federal prisoner</header><text display-inline="yes-display-inline">The term <term>Federal prisoner</term> means any person incarcerated, detained, or otherwise held under the custody, authority, or jurisdiction of any Federal agency or department.</text></paragraph></subsection></section> </legis-body> </bill> 
+

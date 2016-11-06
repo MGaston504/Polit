@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HAAF1E5572203418FAFD1DA35CD1A8CC4" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 4206 IH: 21st Century Power Grid Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 4206</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151209">December 9, 2015</action-date>
+			<action-desc><sponsor name-id="S001168">Mr. Sarbanes</sponsor> (for himself, <cosponsor name-id="E000291">Mrs. Ellmers of North Carolina</cosponsor>, and <cosponsor name-id="M001166">Mr. McNerney</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HSY00">Science, Space, and Technology</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for a technology demonstration program related to the modernization of the electric
+			 grid.</official-title>
+	</form>
+	<legis-body id="H8D4E70C61F14495AAD2C15C556F5F2FF" style="OLC">
+ <section id="HDB3AEAAE88054505921F243255CB56FA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>21st Century Power Grid Act</short-title></quote>.</text> </section><section id="H4F9BFF27E6234DA79819DD71D1DD7F3F"><enum>2.</enum><header>Technology demonstration on the distribution system</header> <subsection id="H862F3C155B014E64B8C13CB550B7C446"><enum>(a)</enum><header>In general</header><text>The Secretary of Energy shall establish a financial assistance program to carry out eligible projects related to the modernization of the electric grid, including the application of technologies to improve observability, advanced controls, and prediction of system performance on the distribution system and related transmission system inter-dependencies.</text>
+ </subsection><subsection id="HCB06DBE145BC4C329FE9F3ED6C725EFF"><enum>(b)</enum><header>Eligible projects</header><text>To be eligible for financial assistance under subsection (a), a project shall—</text> <paragraph id="HF701CD2E3EB64EAB9D2FF28212D2D3A7"><enum>(1)</enum><text>be designed to—</text>
+ <subparagraph id="H732D63367EAD40A29E254BBE0F649D3F"><enum>(A)</enum><text>improve the performance and efficiency of the future electric grid, while ensuring the continued provision of safe, secure, reliable, and affordable power; and</text>
+ </subparagraph><subparagraph id="H7ED82CF3B6DA438CA9D387745B1A589E"><enum>(B)</enum><text>provide new options for customer-owned resources; and</text> </subparagraph></paragraph><paragraph id="HB62DC7D0781E4835A8DE310C6671A19D"><enum>(2)</enum><text>demonstrate—</text>
+ <subparagraph id="H4DF5A57206F84143932BBC55BA0C1866"><enum>(A)</enum><text>secure integration and management of energy resources, including distributed energy generation, combined heat and power, micro-grids, energy storage, electric vehicles, energy efficiency, demand response, and intelligent loads; and</text>
+ </subparagraph><subparagraph id="H05B284F5CE2C43EDA4F5032C35CDB012"><enum>(B)</enum><text>secure integration and interoperability of communications and information technologies;</text> </subparagraph></paragraph><paragraph id="H060044306B55400687329E7CA4E0023F"><enum>(3)</enum><text>include the participation of a partnership consisting of two or more entities that—</text>
+ <subparagraph id="H412F2352609C4038B14DE23EA3D38107"><enum>(A)</enum><text>may include—</text> <clause id="HA8B77A0FD5BA4938BFF74EB34CE25417"><enum>(i)</enum><text>any institution of higher education;</text>
+ </clause><clause id="H77DC4183B0E149AC9266D8B15C465CBC"><enum>(ii)</enum><text>a National Laboratory;</text> </clause><clause id="HE5239AD455B74E858F124723475E1888"><enum>(iii)</enum><text>a representative of a State or local government;</text>
+ </clause><clause id="HC3ABDFAA8A2E403B921B5ED7EF940572"><enum>(iv)</enum><text>a representative of an Indian tribe; or</text> </clause><clause id="H74C32007C8C64C90ADB06DE3E08363F1"><enum>(v)</enum><text>a Federal power marketing administration; and</text>
+ </clause></subparagraph><subparagraph id="H93830A536EBA41C4BEB98EE1FF609BD0"><enum>(B)</enum><text>shall include at least one of any of—</text> <clause id="H331F1F46D52C4430843A86B112C2F026"><enum>(i)</enum><text>an investor-owned electric utility;</text>
+ </clause><clause id="HC9BD2CF75C0340D1A9CE5B4481DF28AF"><enum>(ii)</enum><text>a publicly owned utility;</text> </clause><clause id="HCCFB4B8EA6F54E74952EC96603C6E9D2"><enum>(iii)</enum><text>a technology provider;</text>
+ </clause><clause id="HB84070145185460AB33928F7375E268A"><enum>(iv)</enum><text>a rural electric cooperative;</text> </clause><clause id="HD18D47DC86A04DDBBC9402DA04770B83"><enum>(v)</enum><text>a regional transmission organization; or</text>
+ </clause><clause id="HB8BFA167D36147F5B51A08ED3BCFA29F"><enum>(vi)</enum><text>an independent system operator.</text> </clause></subparagraph></paragraph></subsection><subsection id="H4C901A01BAB340D989FB11C5290A5B87"><enum>(c)</enum><header>Cybersecurity plan</header><text>Each eligible project carried out pursuant to subsection (a) shall include the development of a cybersecurity plan written in accordance with guidelines developed by the Secretary.</text>
+ </subsection><subsection id="H3CB94DFA68544F698E02CB69ADA61F42"><enum>(d)</enum><header>Privacy risk analysis</header><text display-inline="yes-display-inline">Each eligible project carried out pursuant to subsection (a) shall include a privacy impact assessment that evaluates the project against the 5 core concepts in the Voluntary Code of Conduct of the Department of Energy, commonly known as the <quote>DataGuard Energy Data Privacy Program</quote>, or the most recent revisions to the privacy program of the Department.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1949 IS: Mobile Device Theft Deterrence Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-08-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>1st Session</session><legis-num>S. 1949</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20150805">August 5, 2015</action-date><action-desc><sponsor name-id="S270">Mr. Schumer</sponsor> (for himself, <cosponsor name-id="S311">Ms. Klobuchar</cosponsor>, <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>, and <cosponsor name-id="S223">Mrs. Boxer</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To make it unlawful to alter or remove the unique equipment identification number of a mobile
+			 device. </official-title></form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+ title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Mobile Device Theft Deterrence Act of 2015</short-title></quote>.</text>
+		</section><section id="idDF69C24814B043A8921F7324751A936A"><enum>2.</enum><header>Altering or
+			 removing mobile device unique equipment identification numbers</header>
+			<subsection id="id4F9A5DEB78634F67A9CD3632FEA67FE4"><enum>(a)</enum><header>In
+ general</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/25">Chapter 25</external-xref> of title 18, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id002852687E9645AFB1B726028F989DF4" style="USC">
+					<section id="id57E238E73AC842B2A27F478EEB3489FA"><enum>515.</enum><header>Altering or
+				removing unique mobile device equipment identification numbers</header>
+ <subsection id="id34B563C06EC04970A2324F7E9BDFBDEC"><enum>(a)</enum><header>Definitions</header><text>In this section—</text>
+ <paragraph id="idF60D46E5180044E7BFABFCBE10BE1432"><enum>(1)</enum><text>the term <term>manufacturer</term> means a person who has lawfully obtained the right to assign a mobile device equipment identification number to a mobile device before the initial sale of the mobile device; and</text>
+ </paragraph><paragraph id="idECB4B81C97EE4173B95551052DB067B4"><enum>(2)</enum><text>the term <term>unique mobile device equipment identification number</term> means—</text>
+ <subparagraph id="idC964EF9079494F54A9DFCB36CE8A4C3D"><enum>(A)</enum><text>an international mobile equipment identity number;</text>
+ </subparagraph><subparagraph id="id9090EB5621214539A1A5FAFF2BCDD8C6"><enum>(B)</enum><text>electronic serial number; or</text>
+ </subparagraph><subparagraph id="id755D5244DBCF43189C35CB9CC12C6E45"><enum>(C)</enum><text>any other number or signal—</text>
+ <clause id="id5B6EE50650124673AA95A0501C543421"><enum>(i)</enum><text>that identifies a specific mobile wireless communications device; and</text>
+ </clause><clause id="id59F216217FB64617A6983323F24C1CAE"><enum>(ii)</enum><text>has the same function and purposes as a number described in subparagraph (A) or (B).</text>
+ </clause></subparagraph></paragraph></subsection><subsection id="id0C68D9890DC1475C8C2E4D2FC739972F"><enum>(b)</enum><header>Prohibition</header><text>Except as provided in subsection (d), it shall be unlawful to—</text>
+ <paragraph id="id5ABDCAF14EDB48AF830946C01D518046"><enum>(1)</enum><text>knowingly remove, obliterate, tamper with, or alter a mobile device identification number; or</text>
+ </paragraph><paragraph id="id5BD88F98312D4FBD9AA03E379116F2BE"><enum>(2)</enum><text>knowingly use, produce, traffic in, have control or custody of, or possess hardware or software, knowing it has been configured to engage in the conduct described in paragraph (1).</text>
+ </paragraph></subsection><subsection id="id567475C07F00425B9129F310035669E3"><enum>(c)</enum><header>Penalty</header><text>Any person who violates subsection (b) shall be fined under this title, imprisoned not more than 5 years, or both.</text>
+ </subsection><subsection commented="no" id="id52D1789860194B3D965AF035FD3F107D"><enum>(d)</enum><header>Exception</header><text>Subsection (b) shall not apply to the manufacturer of a mobile device, a person that engineers, tests, repairs, or refurbishes a mobile device, or a person that implements technologies for the purpose of protecting the security and privacy of mobile device end users while allowing the transmission of the mobile device identification number to service providers, unless the manufacturer or person knows that the mobile device or part involved is stolen.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="idE99CCAF081584BB78CD4554CD151B5A1"><enum>(b)</enum><header>Technical and
+ conforming amendment</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/25">chapter 25</external-xref> of title 18, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/18/514">section 514</external-xref> the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idE22A09CADBB947F6895CFE81BC2523CD" style="OLC"><toc><toc-entry bold="off" level="section">515. Altering or removing
+				unique mobile device equipment identification
+				numbers.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section></legis-body></bill>
+
+

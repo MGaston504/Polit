@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6B442E2C7AF64417A0BE57B4D35EC1E2" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3978 IH: Ensuring Fair Access to Veterans Healthcare Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3978</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151105">November 5, 2015</action-date>
+			<action-desc><sponsor name-id="L000580">Ms. Michelle Lujan Grisham of New Mexico</sponsor> (for herself, <cosponsor name-id="M001180">Mr. McKinley</cosponsor>, <cosponsor name-id="L000570">Mr. Ben Ray Luján of New Mexico</cosponsor>, and <cosponsor name-id="P000588">Mr. Pearce</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans’ Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to establish an Ombudsman within the Veterans Health
+			 Administration of the Department of Veterans Affairs.</official-title>
+	</form>
+	<legis-body id="H29360D64D4EB4A6BA93CBB6762B4020E" style="OLC">
+ <section id="H5E4E8FA89BBA4A1484F830B06906BD57" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ensuring Fair Access to Veterans Healthcare Act</short-title></quote>.</text> </section><section id="H86E96FC3B30E4DC8A5A9FB8B4408DEC1" section-type="subsequent-section"><enum>2.</enum><header>Establishment of Office of the Ombudsman</header> <subsection id="HC29A7E4F9E244C8DB8CA4E2CEEBEC0A2"><enum>(a)</enum><header>Establishment</header><text>Subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/73">chapter 73</external-xref> of title 38, United States Code, is amended by adding at the end the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HF3DB8CF2078446BCB5C0B4598ABB60ED" style="USC">
+					<section id="H00F5B2E93A6742CA98B6AEFC3299AA17"><enum>7310.</enum><header>Office of the Ombudsman</header>
+ <subsection id="H9EC40BE0144741548E8BC0DCBADAE988"><enum>(a)</enum><header>Establishment</header><text display-inline="yes-display-inline">There is established in the Veterans Health Administration an Office of the Ombudsman (in this section referred to as the <quote>Office</quote>). The Office shall be headed by an Ombudsman appointed by the Secretary. The Ombudsman shall report directly to and be under the general supervision of the Secretary, but shall not report to, or be subject to supervision by, any other officer of the Department of Veterans Affairs. Neither the Secretary nor any other such officer may prevent or prohibit the Ombudsman from carrying out the duties of the Ombudsman.</text>
+ </subsection><subsection commented="no" id="H560F55FA9B02478D922C378FB4AEA093"><enum>(b)</enum><header>Duties of office</header><text>The Office shall carry out the following duties:</text> <paragraph commented="no" id="HC91AC250B5434C5E8828D4D7971E2B60"><enum>(1)</enum><text>Identify, investigate, and resolve complaints that—</text>
+ <subparagraph commented="no" id="H329BF9E953D6409998CACB2892BC03EA"><enum>(A)</enum><text>are made by, or on behalf of, covered patients; and</text> </subparagraph><subparagraph id="HC38C5748861D46D1BF47159513459317"><enum>(B)</enum><text>relate to action, inaction, or decisions made by employees of the Department that may adversely affect the health, safety, welfare, or rights of covered patients.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="H55E374F70E444391AA9BE43E139420D9"><enum>(2)</enum><text display-inline="yes-display-inline">Assist covered patients in finding patient advocates, veterans service organizations, or other similar entities to represent and advocate for the health, safety, welfare, and rights of the covered patient.</text>
+ </paragraph><paragraph id="H8BD16A7E743D433EA7CCAB293290F69C"><enum>(3)</enum><text>Inform covered patients of the means of obtaining assistance described in paragraph (2).</text> </paragraph><paragraph id="H939C0BC7248D43A48D3C02EE97EEFD37"><enum>(4)</enum><text>Ensure that covered patients have regular and timely access to the services provided by the Office, including with respect to receiving timely responses to complaints.</text>
+ </paragraph><paragraph commented="no" id="H375A31EECDF84F7BB8BE7FB78BD1B902"><enum>(5)</enum><text>Analyze, monitor, and provide comments and suggestions to the Secretary with respect to the development and implementation of actions made by the Secretary relating to the health, safety, welfare, and rights of covered patients.</text>
+ </paragraph><paragraph id="H44AAFDE42E1046B5983BACDE16664766"><enum>(6)</enum><text>Administer the reporting system described in subsection (d).</text> </paragraph><paragraph commented="no" id="H60329A05B2A34D2B8344B13DD9F39FA1"><enum>(7)</enum><text>Provide training to local ombudsmen and volunteers described in subsection (c).</text>
+ </paragraph><paragraph id="HB2A298EEC3444A2D91E0054312A96602"><enum>(8)</enum><text>Other activities that the Secretary considers appropriate.</text> </paragraph></subsection><subsection id="H969871D9C8FC4770859B74EDFD5EF08F"><enum>(c)</enum><header>Local ombudsmen</header> <paragraph commented="no" display-inline="yes-display-inline" id="H8EF577C7293D40FB8D301BE638FB5487"><enum>(1)</enum><text display-inline="yes-display-inline">Using amounts otherwise authorized to be appropriated for the medical facilities of the Department, each medical facility shall have a local ombudsman responsible for carrying out the duties of the Office at such location.</text>
+ </paragraph><paragraph id="H537976F6FDC642509D0F5B03592AD186" indent="up1"><enum>(2)</enum><text>A local ombudsman shall—</text> <subparagraph id="H2A9BC3109B6843EB89375661933992A9"><enum>(A)</enum><text display-inline="yes-display-inline">carry out the assistance described in paragraph (2) of subsection (b) to ensure the protection of the health, safety, welfare, or rights of covered patients;</text>
+ </subparagraph><subparagraph id="H9EB592AF54CE4E8F9268F312ECA370CF"><enum>(B)</enum><text display-inline="yes-display-inline">ensure that covered patients have regular, timely access to the Office, including with respect to receiving timely responses to complaints described in paragraph (1) of such subsection;</text>
+ </subparagraph><subparagraph id="HFC163FC90B7A474DBBD1079891E3FFA4"><enum>(C)</enum><text>identify, investigate, and determine how to resolve such complaints; and</text> </subparagraph><subparagraph id="HA9C135A25AE64B63B73244DA3F8F2340"><enum>(D)</enum><text display-inline="yes-display-inline">train local volunteers from civic organizations to assist the local ombudsman by working directly with covered patients to develop individual action plans relating to the health, safety, welfare, and rights of the covered patient.</text>
+ </subparagraph></paragraph></subsection><subsection id="H63004FD68E75437180C7A56C0E83D750"><enum>(d)</enum><header>Reporting system</header><text>The Ombudsman shall establish and administer a uniform reporting system to collect and analyze data relating to complaints described in subsection (b)(1) in order to identify to the Secretary and determine how to resolve significant problems in the medical facilities of the Department.</text>
+ </subsection><subsection id="H82CD136E1AEC4EE9AF531888E6F9CB96"><enum>(e)</enum><header>Cooperation</header><text>The Secretary shall ensure that each medical facility of the Department cooperates with the Office in carrying out this section.</text>
+ </subsection><subsection id="HBD2BDE709A3443E19FF39AE89312CD28"><enum>(f)</enum><header>Annual report</header><text>The Ombudsman shall submit to the Secretary and Congress an annual report that contains the following with respect to the year covered by the report:</text>
+ <paragraph id="H341C6932BE704650988D2A35888B29A9"><enum>(1)</enum><text>A description of the activities carried out by the Office.</text> </paragraph><paragraph id="H520F5A1AF72F43DBA5355146E4173B2D"><enum>(2)</enum><text>An analysis of the data described in subsection (d).</text>
+ </paragraph><paragraph id="H0254E09E8D89458587FB42CADDF310D6"><enum>(3)</enum><text>An evaluation of the problems experienced by, and the complaints made by or on behalf of, covered patients.</text>
+ </paragraph><paragraph id="HE34FC18A9F5D4D4A89C921A4D0D91341"><enum>(4)</enum><text>Recommendations for—</text> <subparagraph id="H1B3E7999F2354BD4965D8CB5BAAFA3EB"><enum>(A)</enum><text>improving the quality of care and life of covered patients; and</text>
+ </subparagraph><subparagraph id="H2CACAA017FBD4DC9A0035112D5D6DA77"><enum>(B)</enum><text>protecting the health, safety, welfare, and rights of covered patients.</text> </subparagraph></paragraph><paragraph id="H7F8D0D118ACE4F86A19832D8D2A5DCED"><enum>(5)</enum><text>An analysis of the success of the Office, including—</text>
+ <subparagraph id="HC696FBD876894A308F1961470D1766AC"><enum>(A)</enum><text>a description of the services provided to covered patients as described in subsection (b)(2); and</text> </subparagraph><subparagraph id="HFAF7E5B6E98C490AAD6387F5BB48C49B"><enum>(B)</enum><text>an identification of barriers to the Office for better carrying out the duties of the Office.</text>
+ </subparagraph></paragraph><paragraph id="HF7D905EDEE034E648FC7907316C25007"><enum>(6)</enum><text>Any comments and suggestions described in subsection (b)(5).</text> </paragraph><paragraph id="H409E2C333BCE4423AE20EF9CB72A47E7"><enum>(7)</enum><text>Any other information the Ombudsman considers appropriate.</text>
+ </paragraph></subsection><subsection id="H8C05606CE5E04200A8344A379ED7EE08"><enum>(g)</enum><header>Covered patient described</header><text display-inline="yes-display-inline">In this section, the term <term>covered patient</term> means an individual who is receiving medical care or hospital services at a medical facility of the Department.</text>
+						</subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H1CE2A2D042014E61A4E9F110683A3EB6"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 7309 the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H75697C71BB2646E88B0BC05DC716CEDD" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">7310. Office of the Ombudsman.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

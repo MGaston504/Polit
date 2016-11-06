@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H390BD2EF000D451F90F739046D7D12B2" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3967 IH: Stop Social Security Garnishment for Student Debt Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3967</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151105">November 5, 2015</action-date>
+			<action-desc><sponsor name-id="G000551">Mr. Grijalva</sponsor> (for himself, <cosponsor name-id="E000288">Mr. Ellison</cosponsor>, <cosponsor name-id="F000455">Ms. Fudge</cosponsor>, <cosponsor name-id="J000294">Mr. Jeffries</cosponsor>, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, <cosponsor name-id="T000472">Mr. Takano</cosponsor>, <cosponsor name-id="V000128">Mr. Van Hollen</cosponsor>, <cosponsor name-id="K000009">Ms. Kaptur</cosponsor>, <cosponsor name-id="R000588">Mr. Richmond</cosponsor>, <cosponsor name-id="C000714">Mr. Conyers</cosponsor>, <cosponsor name-id="P000034">Mr. Pallone</cosponsor>, <cosponsor name-id="H001034">Mr. Honda</cosponsor>, <cosponsor name-id="M000404">Mr. McDermott</cosponsor>, <cosponsor name-id="P000607">Mr. Pocan</cosponsor>, <cosponsor name-id="L000551">Ms. Lee</cosponsor>, <cosponsor name-id="W000808">Ms. Wilson of Florida</cosponsor>, <cosponsor name-id="N000002">Mr. Nadler</cosponsor>, <cosponsor name-id="C001068">Mr. Cohen</cosponsor>, <cosponsor name-id="F000043">Mr. Fattah</cosponsor>, and <cosponsor name-id="L000581">Mrs. Lawrence</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 31, United States Code, to prohibit administrative offset of social security benefit
+			 payments with respect to claims arising from Federal student loans, and
+			 for other purposes.</official-title>
+	</form>
+	<legis-body id="H231C79733A4A4980AE1149A79D62E96C" style="OLC">
+ <section id="HD43453D873774EB1A47EDE7E8224F4C8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Social Security Garnishment for Student Debt Act of 2015</short-title></quote>.</text> </section><section id="H8726E16C4A794FE290302F503CE3017C"><enum>2.</enum><header>Prohibition on administrative offset</header> <subsection id="H420D0628961F4A6BB3A73657AD8489DA"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 3716(c)(3) of title 31, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HA440EEDBE3734E6DB6AC9EE49B04DD35" style="OLC">
+					<subparagraph id="H25195D841D2D4EA6BDD3105BB10453C6" indent="up2"><enum>(E)</enum>
+ <clause commented="no" display-inline="yes-display-inline" id="H9008F5BF338F48AE99DF91A32E7222AF"><enum>(i)</enum><text>Notwithstanding subparagraph (A), no claim arising from a Federal student loan may be collected by administrative offset of any payment described in subparagraph (A)(i).</text>
+ </clause><clause id="HCE460E36BE64439A9FF930CA9ACA68A7" indent="up1"><enum>(ii)</enum><text display-inline="yes-display-inline">For purposes of this subparagraph, the term <quote>Federal student loan</quote> means any Federal student loan that is made, insured, or guaranteed under title IV of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1070">20 U.S.C. 1070 et seq.</external-xref>).</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H504977C92BBE4EA79039E4EA1D63ECA8"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall apply with respect to payments made after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

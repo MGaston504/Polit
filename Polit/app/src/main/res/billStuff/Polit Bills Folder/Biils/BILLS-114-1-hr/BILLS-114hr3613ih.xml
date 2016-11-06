@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6C333AB53DAA403E9FA9E001B6720631" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3613 IH: Transit Bus Procurement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3613</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150925">September 25, 2015</action-date>
+			<action-desc><sponsor name-id="C001090">Mr. Cartwright</sponsor> (for himself and <cosponsor name-id="H001068">Mr. Huffman</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend title 40, United States Code, to provide certain purchasing authority for recipients or
+			 subrecipients of grants under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/53">chapter 53</external-xref> of title 49 of such Code, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body id="H0F7E1DD6D3AD47EB8EC4F707551249B9" style="OLC">
+ <section commented="no" id="HA8FF227648E8426DBDFED2C2A0B4D429" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Transit Bus Procurement Act</short-title></quote>.</text> </section><section id="H6E47146CD4A543748CA0E512AB677C11"><enum>2.</enum><header>Purchasing authority</header><text display-inline="no-display-inline">Section 502 of title 40, United States Code, is amended—</text>
+ <paragraph id="H8341E61DDC1A4B55B0D77C14FBF8C98C"><enum>(1)</enum><text>by redesignating subsection (f) as subsection (g); and</text> </paragraph><paragraph id="H4AC2A85058EB41ED9094BD3C46BDB97B"><enum>(2)</enum><text>by inserting after subsection (e) the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="H983F92F1560E4B95B64E9751083F3F20" style="USC">
+					<subsection id="H774101D0FFCF456A8D664E868578EBB0"><enum>(f)</enum><header>Use of supply schedules for the purchase of buses</header>
+ <paragraph id="HF69E3D95464C47D2B886E23E2BBBEA82"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Administrator shall provide access to sources of supply for buses to recipients or subrecipients of Federal assistance under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/53">chapter 53</external-xref> of title 49, United States Code, to obtain buses for use in public transportation.</text>
+ </paragraph><paragraph id="HA3CAB61C73A54CFAB0DF593BCC6FA3E9"><enum>(2)</enum><header>Department of Transportation</header><text display-inline="yes-display-inline">The Secretary of Transportation shall restrict access to sources of supply of the General Services Administration to obtain buses to recipients or subrecipients described in paragraph (1) in areas with a population of less than 200,000 and to recipients or subrecipients in areas with a population of 200,000 or more with 100 or fewer buses in fixed route service during peak service hours.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

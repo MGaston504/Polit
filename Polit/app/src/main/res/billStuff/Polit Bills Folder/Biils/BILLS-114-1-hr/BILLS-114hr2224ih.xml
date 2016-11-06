@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9EABE5AEA78E4E7EB5A7FD083A611E9D" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2224 IH: Youth Access to American Jobs Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 2224</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150501">May 1, 2015</action-date> 
+<action-desc><sponsor name-id="L000560">Mr. Larsen of Washington</sponsor> (for himself, <cosponsor name-id="M000404">Mr. McDermott</cosponsor>, and <cosponsor name-id="T000469">Mr. Tonko</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To establish a pilot program to promote public-private partnerships among apprenticeships or other job training programs, local educational agencies, and community colleges, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HD78870BE7EA94A99B12475BB5B19A2E1" style="OLC"> 
+<section id="HD593EDD9FD5C4CF491C73BBCF38007E4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Youth Access to American Jobs Act of 2015</short-title></quote>.</text></section> <section id="H42D8B8F3B7664AE7848219CF4D21948F"><enum>2.</enum><header>2–2–2 Pilot Program</header> <subsection id="HBA151382A3F2482D815F158628F9C245"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">From the amounts appropriated to carry out this Act, the Secretary of Education, in consultation with the Secretary of Labor, shall award grants to 10 eligible entities to carry a program described in subsection (c) for eligible students.</text></subsection> 
+<subsection id="H738A60B60ABB49589C35EAE8F7392304"><enum>(b)</enum><header>Application requirements</header><text>An eligible entity that desires to receive a grant under this section shall submit an application to the Secretary as such time, in such manner, and containing such information as the Secretary may require.</text></subsection> <subsection id="H16CEEED7592F41EFBC3C04A1C389B66D"><enum>(c)</enum><header>Uses of funds</header><text>An eligible entity that receives a grant under this section shall use such grant to carry out a program under which each eligible student participating in the program—</text> 
+<paragraph id="HB02FA0754D334F1A9CB208E60AECA085"><enum>(1)</enum><text display-inline="yes-display-inline">during grades 11 and 12 at a secondary school served by the local educational agency in the eligible entity, takes STEM and STEM-focused Career and Technical Education courses and courses that prepare such student for community college;</text></paragraph> <paragraph id="H576031DBA457473D8133664A89B9024A"><enum>(2)</enum><text>upon graduating from the secondary school, enrolls in a course of study related to the manufacturing field at the community college in the eligible entity; and</text></paragraph> 
+<paragraph id="H3AE93DAB5796443E9B28F960D7A82A32"><enum>(3)</enum><text>upon receiving an associate’s degree from the community college, enrolls and participates, for a 2-year period, in—</text> <subparagraph id="H06CBB0E4022C4634A97672D98E6B5D1E"><enum>(A)</enum><text>the State apprenticeship program in the eligible entity; or</text></subparagraph> 
+<subparagraph id="HF871D6CF55CB4FDA8B2A653187325426"><enum>(B)</enum><text>the joint-labor management training program in the eligible entity.</text></subparagraph></paragraph></subsection> <subsection id="H8F1E52E7E28C4FB4AD77880A341913FA"><enum>(d)</enum><header>Eligible students</header><text display-inline="yes-display-inline">To be eligible to participate in a program described in subsection (c), a student shall, prior to participating in the program, demonstrate academic ability and a commitment to pursue a career in a manufacturing field or other vocational or career and technical education field.</text></subsection> 
+<subsection id="H1BF992A0B1F94C2081F88CD50FE29EEA"><enum>(e)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="H0F1D59B475F44AEC8AFF862F3D3F4EAC"><enum>(1)</enum><header>Community college</header><text display-inline="yes-display-inline">The term <quote>community college</quote> has the meaning given the term in section 312(f) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1058">20 U.S.C. 1058(f)</external-xref>).</text></paragraph> 
+<paragraph id="HFE689D81C0EB42AD824AE5036358AF21"><enum>(2)</enum><header>Eligible entity</header><text>The term <quote>eligible entity</quote> means a partnership among—</text> <subparagraph id="HDBF7616227144999BF4E36B9BF97C590"><enum>(A)</enum><text>a local educational agency;</text></subparagraph> 
+<subparagraph id="HBB125396474049FCB19D0B51991691F0"><enum>(B)</enum><text>a community college; and</text></subparagraph> <subparagraph id="H06216DF70B064E06A39C047BE83B9703"><enum>(C)</enum><text>a State apprenticeship program or a joint-labor management training program.</text></subparagraph></paragraph> 
+<paragraph id="H5984C5AB62534A5EBBB21F789CFC02A3"><enum>(3)</enum><header>ESEA terms</header><text>The terms <quote>local educational agency</quote>, <quote>secondary school</quote>, and <quote>State</quote> have the meanings given the terms in section 9101 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>).</text></paragraph> <paragraph id="H23D1362795E24F698EAD2C6621FAB0BD"><enum>(4)</enum><header>Secretary</header><text>The term <quote>Secretary</quote> means the Secretary of Education.</text></paragraph> 
+<paragraph id="H72C951387ACE453C94B42E7213A1314D"><enum>(5)</enum><header>State apprenticeship program</header><text>The term <quote>State apprenticeship program</quote> means an apprenticeship program that provides an apprenticeship with an employer in the manufacturing field to students with an associate’s degree related to the field of manufacturing.</text></paragraph> <paragraph id="H4F3C7E1296794F159349CC4B1C3EFBCA"><enum>(6)</enum><header>STEM</header><text display-inline="yes-display-inline">The term <quote>STEM</quote> means—</text> 
+<subparagraph id="H2F6CE5C3CBED4076A85093ACDBFC6992"><enum>(A)</enum><text>science, technology, engineering, and mathematics; and</text></subparagraph> <subparagraph id="H816FDECFD4C5439E92F7FCC4B58C3517"><enum>(B)</enum><text>other career and technical education subjects that build on the subjects described in subparagraph (A).</text></subparagraph></paragraph></subsection></section> 
+</legis-body> 
+</bill> 
+
+

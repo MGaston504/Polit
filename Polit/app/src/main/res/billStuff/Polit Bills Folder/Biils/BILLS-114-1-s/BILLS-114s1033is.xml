@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1033 IS: Quadrennial Energy Review Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-04-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1033</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150421">April 21, 2015</action-date>
+			<action-desc><sponsor name-id="S337">Mr. Coons</sponsor> (for himself, <cosponsor name-id="S289">Mr. Alexander</cosponsor>, <cosponsor name-id="S326">Mr. Udall</cosponsor>, <cosponsor name-id="S247">Mr. Wyden</cosponsor>, and <cosponsor name-id="S359">Mr. Heinrich</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Department of Energy Organization Act to replace the current requirement for a
+			 biennial energy policy plan with a Quadrennial Energy Review, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Quadrennial Energy Review Act of 2015</short-title></quote>.</text>
+ </section><section id="id637830d6a6fc4524be96d94ed0d034e7"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds that—</text> <paragraph id="idd21f79b05c004e6ab853bedb0eeb0736"><enum>(1)</enum><text>the President’s Council of Advisors on Science and Technology recommends that the United States develop a governmentwide Federal energy policy and update the policy regularly with strategic Quadrennial Energy Reviews similar to the reviews conducted by the Department of Defense and other Federal agencies; and</text>
+ </paragraph><paragraph id="id2eb1c45044134eceb7c07813ebda1a39"><enum>(2)</enum><text>the development of an energy policy resulting from a Quadrennial Energy Review would—</text> <subparagraph id="idd241688bc012430f8231fce454350c73"><enum>(A)</enum><text>enhance the energy security of the United States;</text>
+ </subparagraph><subparagraph id="id48acde71dbbd47f58f92898f475cd873"><enum>(B)</enum><text>create jobs; and</text> </subparagraph><subparagraph id="ida4db3cae789744248f1c78a4810d22cd"><enum>(C)</enum><text>mitigate environmental harm.</text>
+				</subparagraph></paragraph></section><section id="id14c3c2978ef2476eac8dcbdbcf075033"><enum>3.</enum><header>Quadrennial Energy Review</header>
+ <subsection id="id92e335bd4de94bb1855fedaa5857a43c"><enum>(a)</enum><header>In general</header><text>Section 801 of the Department of Energy Organization Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7321">42 U.S.C. 7321</external-xref>) is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="id9f12898b141e44f5b561a7a38aafcf73" style="OLC">
+					<section id="id34d7c92ab895411ea381de6580eee839"><enum>801.</enum><header>Quadrennial Energy Review</header>
+						<subsection id="id0df95990544446a186b0b5b0a4b8bc88"><enum>(a)</enum><header>Quadrennial Energy Review Task Force</header>
+ <paragraph id="id39a2c1dc98f34641944af6a3bd1231c1"><enum>(1)</enum><header>Establishment</header><text>Once every 4 years after the date of enactment of the Quadrennial Energy Review Act of 2015, the President shall establish a Quadrennial Energy Review Task Force (referred to in this section as the <quote>Task Force</quote>) to coordinate the Quadrennial Energy Review.</text>
+ </paragraph><paragraph id="id6054354a29114439af423c61a6ecd16d"><enum>(2)</enum><header>Cochairpersons</header><text>The President shall designate appropriate senior Federal Government officials to be cochairpersons of the Task Force.</text>
+ </paragraph><paragraph id="idb8c643fda3e8415ba9e2fdd050e36d0a"><enum>(3)</enum><header>Membership</header><text>The Task Force may be comprised of representatives at level I or II of the Executive Schedule of—</text> <subparagraph id="ida85b8f9560714a7aa4b97aa830abec02"><enum>(A)</enum><text>the Department of Energy;</text>
+ </subparagraph><subparagraph id="idf3077445b0be4bdda743320976773140"><enum>(B)</enum><text>the Department of Commerce;</text> </subparagraph><subparagraph id="id2fdc8296a63f4596bdedf64810cf9ad8"><enum>(C)</enum><text>the Department of Defense;</text>
+ </subparagraph><subparagraph id="ide8371fa58970419da75e1194bba6e91d"><enum>(D)</enum><text>the Department of State;</text> </subparagraph><subparagraph id="ida2f27a1b3ba948f0a4868f326e344fc7"><enum>(E)</enum><text>the Department of the Interior;</text>
+ </subparagraph><subparagraph id="idc1a3131623314ee1b1663f576a1eef9e"><enum>(F)</enum><text>the Department of Agriculture;</text> </subparagraph><subparagraph id="id58867f2e5d3d45408198b23800d5a99b"><enum>(G)</enum><text>the Department of the Treasury;</text>
+ </subparagraph><subparagraph id="idff2a14faee8c48a2bebe901384868054"><enum>(H)</enum><text>the Department of Transportation;</text> </subparagraph><subparagraph id="ida210f2711f704c2ab23c75b28e421da6"><enum>(I)</enum><text>the Office of Management and Budget;</text>
+ </subparagraph><subparagraph id="id17df6f392c3144b8b05821844494ef3d"><enum>(J)</enum><text>the National Science Foundation;</text> </subparagraph><subparagraph id="id566f9625873b4592b22d8633ec6bdf37"><enum>(K)</enum><text>the Environmental Protection Agency; and</text>
+ </subparagraph><subparagraph id="id13907e68f04a4750b7ab0ec47101e1cc"><enum>(L)</enum><text>such other Federal agencies, and entities within the Executive Office of the President, as the President considers to be appropriate.</text>
+								</subparagraph></paragraph></subsection><subsection id="id3e6ca897a632477483cd0be0ed4f483b"><enum>(b)</enum><header>Conduct of review</header>
+ <paragraph id="id446020cbf8c74258b1b29ccfa6722059"><enum>(1)</enum><header>In general</header><text>Each Quadrennial Energy Review shall be conducted to—</text> <subparagraph id="id1be159c5817244c0916c678bf087ecd8"><enum>(A)</enum><text>provide an integrated view of important national energy objectives and Federal energy policy; and</text>
+ </subparagraph><subparagraph id="idd9f3a25a9c9845a49574f188e807cc1d"><enum>(B)</enum><text>identify the maximum practicable alignment of research programs, incentives, regulations, and partnerships.</text>
+ </subparagraph></paragraph><paragraph id="id7df9bf611ebd407e9b4cbe524a80d116"><enum>(2)</enum><header>Elements</header><text>A Quadrennial Energy Review shall—</text> <subparagraph id="idb485910fc252435f8534c670b793bf53"><enum>(A)</enum><text>establish integrated, governmentwide national energy objectives in the context of economic, environmental, and security priorities;</text>
+ </subparagraph><subparagraph id="idc7e61f888fad4af1a8fd34bff4bc5e79"><enum>(B)</enum><text>recommend coordinated actions across Federal agencies;</text> </subparagraph><subparagraph id="idae3e4e75138e45b0bd194ffbd3f24a0b"><enum>(C)</enum><text>identify the resources needed for the invention, adoption, and diffusion of energy technologies;</text>
+ </subparagraph><subparagraph id="idcf2d2d0931a1483c95cf2455e13ca882"><enum>(D)</enum><text>provide a strong analytical base for Federal energy policy decisions;</text> </subparagraph><subparagraph id="id558b9bae4dce46649c4e9f688f0a1b54"><enum>(E)</enum><text>consider reasonable estimates of future Federal budgetary resources when making recommendations; and</text>
+ </subparagraph><subparagraph id="idaadf1ce241ce4348826d4da7f707622c"><enum>(F)</enum><text>be conducted with substantial input from—</text> <clause id="id388967790d9f4a2e8cc0708d0adb68c6"><enum>(i)</enum><text>Congress;</text>
+ </clause><clause id="idb5616858c0e4468fb222ae10978fb6fe"><enum>(ii)</enum><text>the energy industry;</text> </clause><clause id="id64913cc4e1f14300917fc399ef9cf2f7"><enum>(iii)</enum><text>academia;</text>
+ </clause><clause id="idff97498586764583bb2c1329abed7569"><enum>(iv)</enum><text>State, local, and tribal governments;</text> </clause><clause id="id8647ec783efd4e82867cbdd9612fb939"><enum>(v)</enum><text>nongovernmental organizations; and</text>
+ </clause><clause id="ide53b28e624dc4821973135c678400a1e"><enum>(vi)</enum><text>the public.</text> </clause></subparagraph></paragraph></subsection><subsection id="id7a436c64eb0048618d85ed4ecd125e08"><enum>(c)</enum><header>Submission of Quadrennial Energy Review to Congress</header> <paragraph id="idf78bcc2285d649a4a0c8118361a20240"><enum>(1)</enum><header>In general</header><text>The President—</text>
+ <subparagraph id="iddb7af83db62e4b32bc0b6fbfbcd46627"><enum>(A)</enum><text>shall publish and submit to Congress a report on the Quadrennial Energy Review once every 4 years; and</text>
+ </subparagraph><subparagraph id="id0c5a4265028541e7b491e051b9a726ce"><enum>(B)</enum><text>more frequently than once every 4 years, as the President determines to be appropriate, may prepare and publish interim reports as part of the Quadrennial Energy Review.</text>
+ </subparagraph></paragraph><paragraph id="id42a9389f21f9435483671626514ba02b"><enum>(2)</enum><header>Inclusions</header><text>The reports described in paragraph (1) shall address or consider, as appropriate—</text> <subparagraph id="id8627d257bdf04ce6af091a2a35a472e7"><enum>(A)</enum><text>an integrated view of short-term, intermediate-term, and long-term objectives for Federal energy policy in the context of economic, environmental, and security priorities;</text>
+ </subparagraph><subparagraph id="id431cc4b098214682808f883c4289290d"><enum>(B)</enum><text>potential executive actions (including programmatic, regulatory, and fiscal actions) and resource requirements—</text>
+ <clause id="id14d44d996c40403488caea204f87b720"><enum>(i)</enum><text>to achieve the objectives described in subparagraph (A); and</text> </clause><clause id="id1e3f7d72b2b3465f9dd1e595a8f96b8a"><enum>(ii)</enum><text>to be coordinated across multiple agencies;</text>
+ </clause></subparagraph><subparagraph id="id268234df6d82499c941c86838c2efe1e"><enum>(C)</enum><text>analysis of the existing and prospective roles of parties (including academia, industry, consumers, the public, and Federal agencies) in achieving the objectives described in subparagraph (A), including—</text>
+ <clause id="id249d2f9014294ff0922aae14f43b17dc"><enum>(i)</enum><text>an analysis by energy use sector, including—</text> <subclause id="id2e61fb30c9f74a4f8b47578820af8c9e"><enum>(I)</enum><text>commercial and residential buildings;</text>
+ </subclause><subclause id="id3ad41aa602044b5ab8379d5b1fde40e8"><enum>(II)</enum><text>the industrial sector;</text> </subclause><subclause id="idfebe5603e2624a90a6bca0d6b1560e37"><enum>(III)</enum><text>transportation; and</text>
+ </subclause><subclause id="id913997e298c242fe9038f6d92b2470aa"><enum>(IV)</enum><text>electric power;</text> </subclause></clause><clause id="id4ca7b061f1e04523a98d77a6fda8c68d"><enum>(ii)</enum><text>requirements for invention, adoption, development, and diffusion of energy technologies as they relate to each of the energy use sectors; and</text>
+ </clause><clause id="idaef19097d3a54ddfb93f405e68447397"><enum>(iii)</enum><text>other research that informs strategies to incentivize desired actions;</text> </clause></subparagraph><subparagraph id="id4a73fa0d9ab042f38e9255db7a3eb061"><enum>(D)</enum><text>assessment of policy options to increase domestic energy supplies and energy efficiency;</text>
+ </subparagraph><subparagraph id="id28aa1e7a2e764f609ae9de37e39a826c"><enum>(E)</enum><text>evaluation of national and regional energy storage, transmission, and distribution requirements, including requirements for renewable energy;</text>
+ </subparagraph><subparagraph id="id49c845c50fec442285c3916ba48568bd"><enum>(F)</enum><text>an integrated plan for the involvement of the Federal Laboratories in energy programs;</text> </subparagraph><subparagraph id="idcfef3f238a39431980823d69d8e06f62"><enum>(G)</enum><text>portfolio assessments that describe the optimal deployment of resources, including prioritizing financial resources for energy-relevant programs;</text>
+ </subparagraph><subparagraph id="id4d76d3e5f3ae4ea983c6c3db719758ff"><enum>(H)</enum><text>mapping of the linkages among basic research and applied programs, demonstration programs, and other innovation mechanisms across the Federal agencies;</text>
+ </subparagraph><subparagraph id="id074ed7f430b44c6eb6150cc602027f3d"><enum>(I)</enum><text>identification of, and projections for, demonstration projects, including timeframes, milestones, sources of funding, and management;</text>
+ </subparagraph><subparagraph id="id82b40c2400d64f3db35845e4934e3390"><enum>(J)</enum><text>identification of public and private funding needs for various energy technologies, systems, and infrastructure, including consideration of public-private partnerships, loans, and loan guarantees;</text>
+ </subparagraph><subparagraph id="id8d01555eee4a4bda87e3a22fda720901"><enum>(K)</enum><text>assessment of global competitors and an identification of programs that can be enhanced with international cooperation;</text>
+ </subparagraph><subparagraph id="idf5760740beef49799802a04031476af5"><enum>(L)</enum><text>identification of policy gaps that need to be filled to accelerate the adoption and diffusion of energy technologies, including consideration of—</text>
+ <clause id="id20535bb64acd482499b3031a7397b773"><enum>(i)</enum><text>Federal tax policies; and</text> </clause><clause id="idb8d3758c34ae407b946fbf27bb477ae7"><enum>(ii)</enum><text>the role of Federal agencies as early adopters and purchasers of new energy technologies;</text>
+ </clause></subparagraph><subparagraph id="id31f98c8916bf4257a6758fcbce530223"><enum>(M)</enum><text>priority listing for implementation of objectives and actions taking into account estimated Federal budgetary resources;</text>
+ </subparagraph><subparagraph id="id416eec1bb278452789761e1887b791af"><enum>(N)</enum><text>analysis of—</text> <clause id="id7e6ae35fe3d244b8bf334bb9cb15f091"><enum>(i)</enum><text>points of maximum leverage for policy intervention to achieve outcomes; and</text>
+ </clause><clause id="ida17cbab76ebe434db9e5faa88fd4fb05"><enum>(ii)</enum><text>areas of energy policy that can be most effective in meeting national goals for the energy sector; and</text>
+ </clause></subparagraph><subparagraph id="idffe3c321f081450bb0f4cb1335da73ea"><enum>(O)</enum><text>recommendations for executive branch organization changes to facilitate the development and implementation of Federal energy policies.</text>
+ </subparagraph></paragraph></subsection><subsection id="id11bc0b60860a4421acba919eb8a5eea0"><enum>(d)</enum><header>Report development</header><text>The Secretary of Energy shall provide such support for the Quadrennial Energy Review with the necessary analytical, financial, and administrative support for the conduct of each Quadrennial Energy Review required under this section as may be requested by the cochairpersons designated under subsection (a)(2).</text>
+ </subsection><subsection id="id3b83d388b4e94a2a8b1bdfd1321e0146"><enum>(e)</enum><header>Cooperation</header><text>The heads of applicable Federal agencies shall cooperate with the Secretary and provide such assistance, information, and resources as the Secretary may require to assist in carrying out this section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="ide14d1bf0ec034ad4895ad45e88e63629"><enum>(b)</enum><header>Table of contents amendment</header><text>The item relating to section 801 in the table of contents of such Act is amended to read as follows:</text>
+				<quoted-block id="id40aaf699-b4df-40cd-ba0f-ff984b196057" style="OLC"><toc><toc-entry idref="id34d7c92ab895411ea381de6580eee839" level="section">Sec. 801. Quadrennial Energy Review.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="idc0d6a577a8bf482db61d1418d8cb1394"><enum>(c)</enum><header>Administration</header><text>Nothing in this Act or an amendment made by this Act supersedes, modifies, amends, or repeals any provision of Federal law not expressly superseded, modified, amended, or repealed by this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

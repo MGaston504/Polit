@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S749 IS: The Honest Scoring Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-03-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 749</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150317">March 17, 2015</action-date>
+			<action-desc><sponsor name-id="S349">Mr. Portman</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSBU00">Committee on the Budget</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require dynamic scoring of major legislation. </official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>The Honest Scoring Act of 2015</short-title></quote>.</text>
+		</section><section id="idFDD915BE06404455997406D2EF31A1B9"><enum>2.</enum><header>Honest accounting estimates</header>
+ <subsection id="id597269A3197048279833AC0C2854E6C5"><enum>(a)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="id7E747E5F3C1B4E539E352237E6A710F4"><enum>(1)</enum><header>Budget</header><text>The term <term>budget</term> means—</text>
+ <subparagraph id="id48907179DDB74EF3A2480588082AF217"><enum>(A)</enum><text>a concurrent resolution on the budget; or</text> </subparagraph><subparagraph id="id52210F96F2824C6A8D8A9A3C55621B4F"><enum>(B)</enum><text>a written statement submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the Senate that establishes allocations, aggregates, and levels for purposes of enforcing the Congressional Budget Act of 1974.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="id24884D19B47145048416D61FF719F9A6"><enum>(2)</enum><header>Budgetary effects</header><text>The term <term>budgetary effects</term> means changes in outlays or revenues.</text> </paragraph><paragraph id="id5043E5EC67EC42B39121CD4B7754BCA9"><enum>(3)</enum><header>Major legislation</header> <subparagraph id="id2F7404D4F77A42B9802D7B9FE19D9218"><enum>(A)</enum><header>Definition</header><text>The term <term>major legislation</term> means any bill, resolution, conference report, or treaty—</text>
+ <clause id="id76ED1699C70645E09549886F781BA431"><enum>(i)</enum><text>for which an estimate is prepared under section 402 of the Congressional Budget Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/2/653">2 U.S.C. 653</external-xref>) that indicates that not less than 1 of the amounts described in subparagraph (B), before incorporating macroeconomic effects, is greater than $15,000,000,000 in any fiscal year of the estimate; or</text>
+ </clause><clause id="id22874D10DF4445F0981426070095062A"><enum>(ii)</enum><text>designated as major legislation by the Chairman of the Committee on the Budget of the Senate or the Chairman of the Committee of the Budget of the House of Representatives.</text>
+ </clause></subparagraph><subparagraph id="id81C2E8D5AB0E4514A602958498D33594"><enum>(B)</enum><header>Amounts</header><text>The amounts described in this subparagraph are—</text> <clause id="id5ECC52AF024E463185BB95A068816139"><enum>(i)</enum><text>the sum of the individual positive changes in budgetary effects, not including timing shifts, resulting from such measure; and</text>
+ </clause><clause id="idE8DBFD2900E3402789CEB52ED7CF7248"><enum>(ii)</enum><text>the sum of the absolute value of the individual negative budgetary effects, not including timing shifts, resulting from such measure.</text>
+ </clause></subparagraph></paragraph><paragraph id="idF685EE7B46C64A088C1CE9104A872514"><enum>(4)</enum><header>Timing shifts</header><text>The term <term>timing shifts</term> means—</text> <subparagraph id="idF61D03B9A86D4C3089F5869B4D2E632F"><enum>(A)</enum><text>a delay of the date on which outlays flowing from direct spending would otherwise occur from one fiscal year to the next fiscal year; or</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idB6B4CE0567F34943B76F808A0C8891F7"><enum>(B)</enum><text>an acceleration of the date on which revenues would otherwise occur from one fiscal year to the next fiscal year.</text>
+ </subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id64DD8944F2AF47CA9A5A1A3EBD5702C4"><enum>(b)</enum><header>Requirement for CBO estimates</header><text>An estimate provided by the Congressional Budget Office under section 402 of the Congressional Budget Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/2/653">2 U.S.C. 653</external-xref>) for any major legislation shall include—</text>
+ <paragraph id="id5d1396bd681149c8b369031cb77054c1"><enum>(1)</enum><text>an estimate of budgetary effects without macroeconomic effects;</text> </paragraph><paragraph id="idedb4a2c5dbdf4ded9880b8135df2ef5b"><enum>(2)</enum><text>an estimate of the budgetary effects from changes in economic output, employment, capital stock, interest rates, and other macroeconomic variables resulting from the major legislation, which shall delineate between revenue and outlay effects; and</text>
+ </paragraph><paragraph id="id2c8e63d3a5634959b54784a59aec5785"><enum>(3)</enum><text>a total estimate of the budgetary effects incorporating the macroeconomic budgetary effects.</text> </paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="idE85F5D2DE8804DFA98125AF7EAEA4F2F"><enum>(c)</enum><header>Requirement for JCT estimates</header><text>An estimate provided by the Joint Committee on Taxation to the Director of the Congressional Budget Office under section 201(f) of the Congressional Budget Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/2/601">2 U.S.C. 601(f)</external-xref>) for any major legislation shall include—</text>
+ <paragraph id="id82070d4102094fcb904bcc965864064d"><enum>(1)</enum><text>an estimate of budgetary effects without macroeconomic effects;</text> </paragraph><paragraph id="id4b14ed2c9b994667bca91c3dea113fc8"><enum>(2)</enum><text>an estimate of the budgetary effects from changes in economic output, employment, capital stock, interest rates, and other macroeconomic variables resulting from the major legislation, which shall delineate between revenue and outlay effects; and</text>
+ </paragraph><paragraph id="id76f47ed947db42438277315d87ab68ee"><enum>(3)</enum><text>a total estimate of the budgetary effects incorporating the macroeconomic budgetary effects.</text> </paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id864CD863197D42DD8A959416F7CF347C"><enum>(d)</enum><header>Contents of estimates</header><text>An estimate required to be provided under subsection (b) or (c) shall include—</text>
+ <paragraph id="id37bf5c51a44a4fb08a729751b35596ca"><enum>(1)</enum><text>a qualitative assessment of the budgetary effects (including macroeconomic variables described in subsections (b) and (c)) of the major legislation in the 20-fiscal year period beginning after the last fiscal year of the most recently adopted budget that sets forth appropriate levels required under section 301 of the Congressional Budget Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/2/632">2 U.S.C. 632</external-xref>); and</text>
+ </paragraph><paragraph id="id66f2d5227f884d7985b85b957537c276"><enum>(2)</enum><text>an identification of the assumptions and the source of data underlying the estimate.</text> </paragraph></subsection></section></legis-body> </bill> 
+

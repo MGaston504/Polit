@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD10534833FA141E0951B6A4A14510420" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2566 IH: Improving Rural Call Quality and Reliability Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2566</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150521">May 21, 2015</action-date>
+			<action-desc><sponsor name-id="Y000066">Mr. Young of Iowa</sponsor> (for himself, <cosponsor name-id="W000800">Mr. Welch</cosponsor>, <cosponsor name-id="Z000018">Mr. Zinke</cosponsor>, <cosponsor name-id="P000258">Mr. Peterson</cosponsor>, <cosponsor name-id="P000607">Mr. Pocan</cosponsor>, <cosponsor name-id="L000565">Mr. Loebsack</cosponsor>, and <cosponsor name-id="N000127">Mr. Nolan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Communications Act of 1934 to ensure the integrity of voice communications and to
+			 prevent unjust or unreasonable discrimination among areas of the United
+			 States in the delivery of such communications.</official-title>
+	</form>
+	<legis-body id="HA5EF9869DB4246E8A082EBA37224C191" style="OLC">
+ <section id="H6607F16E26694D60B5D1824EBD3E8347" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Improving Rural Call Quality and Reliability Act of 2015</short-title></quote>.</text> </section><section id="H53185355D2FD4255A975043618227C02" section-type="subsequent-section"><enum>2.</enum><header>Ensuring the integrity of voice communications</header><text display-inline="no-display-inline">Part II of title II of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/251">47 U.S.C. 251 et seq.</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H27E42BA5C00840F8ACC8B93670798354" style="OLC">
+				<section id="H642FC2CD6BC44C358A345CA6FF6E0C9A"><enum>262.</enum><header>Ensuring the integrity of voice communications</header>
+ <subsection id="H45733FCD9D6F4E2D9CB48CA86B520E4C"><enum>(a)</enum><header>Registration and compliance by intermediate providers</header><text display-inline="yes-display-inline">An intermediate provider that offers or holds itself out as offering the capability to transmit covered voice communications from one destination to another and that charges any rate to any other entity (including an affiliated entity) for the transmission shall—</text>
+ <paragraph id="HAFC148B293EA443EBB6CEC23A228C42A"><enum>(1)</enum><text display-inline="yes-display-inline">register with the Commission; and</text> </paragraph><paragraph id="H8ACAF5919C9A4D18A36078EF6E3D9900"><enum>(2)</enum><text display-inline="yes-display-inline">comply with the service quality standards for such transmission to be established by the Commission under subsection (c)(1)(B).</text>
+ </paragraph></subsection><subsection id="H6BBEA539425E4EDBA6A45820E8E4B55E"><enum>(b)</enum><header>Required use of registered intermediate providers</header><text display-inline="yes-display-inline">A covered provider may not use an intermediate provider to transmit covered voice communications unless such intermediate provider is registered under subsection (a)(1).</text>
+					</subsection><subsection id="HC7AD50176ADF4D68A4A7FFD98EEFEB79"><enum>(c)</enum><header>Commission rules</header>
+ <paragraph id="HC9ECAF710FCF4C81ABA2B573838444EA"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this section, the Commission shall promulgate rules to establish—</text>
+ <subparagraph id="HDFA63C684CB34477B8AB4DCC9012B964"><enum>(A)</enum><text>a registry to record registrations under subsection (a)(1); and</text> </subparagraph><subparagraph id="H3A059CDAE59A41C6AB07E4011A319DF4"><enum>(B)</enum><text>service quality standards for the transmission of covered voice communications by intermediate providers.</text>
+ </subparagraph></paragraph><paragraph id="HCD4B81F2096F4A8E83E6F9093CFD9AB5"><enum>(2)</enum><header>Requirements</header><text display-inline="yes-display-inline">In promulgating the rules required by paragraph (1), the Commission shall—</text> <subparagraph id="HB42E81C0418F4A3F9C9E0D98A520C968"><enum>(A)</enum><text display-inline="yes-display-inline">ensure the integrity of the transmission of covered voice communications to all customers in the United States; and</text>
+ </subparagraph><subparagraph id="HDF988C05CBBB4D05BEEFB24ADC0C748F"><enum>(B)</enum><text display-inline="yes-display-inline">prevent unjust or unreasonable discrimination among areas of the United States in the delivery of covered voice communications.</text>
+ </subparagraph></paragraph></subsection><subsection id="HD2E4683423454709B1462E061244B1DC"><enum>(d)</enum><header>Public availability of registry</header><text>The Commission shall make the registry established under subsection (c)(1)(A) publicly available on the website of the Commission.</text>
+ </subsection><subsection id="H23E28F6663C5472396CE34D91D106A07"><enum>(e)</enum><header>Scope of application</header><text display-inline="yes-display-inline">The requirements of this section shall apply regardless of the format by which any communication or service is provided, the protocol or format by which the transmission of such communication or service is achieved, or the regulatory classification of such communication or service.</text>
+ </subsection><subsection id="H4189B0409BAD49888E1346EE055EE007"><enum>(f)</enum><header>Rule of construction</header><text>Nothing in this section shall be construed to affect the regulatory classification of any communication or service.</text>
+ </subsection><subsection id="H5F4D78A530C24DFB87CCECBE5B18A961"><enum>(g)</enum><header>Effect on other laws</header><text>Nothing in this section shall be construed to preempt the authority of a State public utility commission or other relevant State agency to collect data, or investigate and enforce State law and regulations, regarding the completion of intrastate voice communications, regardless of the format by which any communication or service is provided, the protocol or format by which the transmission of such communication or service is achieved, or the regulatory classification of such communication or service.</text>
+ </subsection><subsection id="H22D4A290082B4F9984C0969C868D3B37"><enum>(h)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HC38B4F66F7B849BE92134661FAD37F09"><enum>(1)</enum><header>Covered provider</header><text>The term <term>covered provider</term> has the meaning given the term in section 64.2101 of title 47, Code of Federal Regulations, or any successor thereto.</text>
+ </paragraph><paragraph id="HA5AE2FD1F91542749DD67F45A8F83829"><enum>(2)</enum><header>Covered voice communication</header><text>The term <term>covered voice communication</term> means a voice communication (including any related signaling information) that is generated—</text> <subparagraph id="H7EDCF3CB29BC444C878603351EBA516B"><enum>(A)</enum><text>from the placement of a call from a connection using a North American Numbering Plan resource or a call placed to a connection using such a numbering resource; and</text>
+ </subparagraph><subparagraph id="H9772FE97A81B4354BAD2EB833E00DE94"><enum>(B)</enum><text>through any service provided by a covered provider.</text> </subparagraph></paragraph><paragraph id="H1B6711F660E846709F7630F54002800A"><enum>(3)</enum><header>Intermediate provider</header><text>The term <term>intermediate provider</term> means any entity that—</text>
+ <subparagraph id="H12B3DF7910C440FB8FFDC6573120827F"><enum>(A)</enum><text>carries or processes traffic that is generated from the placement of a call from a connection using a North American Numbering Plan resource or a call placed to a connection using such a numbering resource; and</text>
+ </subparagraph><subparagraph id="H846D060681EE49CEB87F97C032D62D82"><enum>(B)</enum><text>does not itself originate or terminate such traffic in the context of the carriage or processing.</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </section></legis-body> </bill> 
+

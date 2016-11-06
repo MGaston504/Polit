@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2A1B4DF8FFB1490FB8BF332AE54A4964" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1678 IH: National Positioning, Navigation, and Timing Resilience and Security Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress> <session>1st Session</session> 
+<legis-num>H. R. 1678</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150326">March 26, 2015</action-date> 
+<action-desc><sponsor name-id="G000559">Mr. Garamendi</sponsor> (for himself, <cosponsor name-id="H001048">Mr. Hunter</cosponsor>, <cosponsor name-id="D000191">Mr. DeFazio</cosponsor>, and <cosponsor name-id="L000554">Mr. LoBiondo</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To require the Secretary of Defense to establish a backup for the global positioning system, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HD25C4A05309949F290DE2ACFD566B7E6" style="OLC"> 
+<section id="H874E53080794483B83622C907D52853F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>National Positioning, Navigation, and Timing Resilience and Security Act of 2015</short-title></quote>.</text></section> <section id="H869F08AB965D4B60B083331FD65BD2B2"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text> 
+<paragraph id="H1610653C65BC4F018DE873F3AD097A44"><enum>(1)</enum><text display-inline="yes-display-inline">Global Positioning System (GPS) satellite signals are used by all critical infrastructure sectors in the United States and are crucial to the reliable and secure operation of defense systems operated by the United States Armed Forces.</text></paragraph> <paragraph id="HDB9A7D0B19C343E3906398CCE77D509D"><enum>(2)</enum><text>Use and dependence on GPS signals in the United States continues to grow.</text></paragraph> 
+<paragraph id="H1192724BA0074F4DAF9870C675362770"><enum>(3)</enum><text>GPS signals are relatively weak and consequently unable to reach many indoor environments or underground installations, which limits their use for first responders, law enforcement, the Armed Forces, and other users.</text></paragraph> <paragraph id="HB143EB5F85A149569B622926F2729215"><enum>(4)</enum><text>Due to the relative weakness of GPS signals, such signals can be easily corrupted, degraded, or denied access to.</text></paragraph> 
+<paragraph id="H86E3D609CDA1437ABE15F2B9DEFDAD50"><enum>(5)</enum><text>There is an increasing use of inexpensive and widely available GPS jammers by organized crime syndicates and rogue states.</text></paragraph> <paragraph id="H7DEAC7B0B4B64C10B9A362FB5C7AB809"><enum>(6)</enum><text>A prolonged disruption of GPS signals caused by jamming or other cyber security threats would cause serious national security, intelligence, and economic disruption for the United States.</text></paragraph> 
+<paragraph id="HCF5DDD0FB50047CF91F35B45913D5272"><enum>(7)</enum><text>Since 2004, the Federal Government has recognized that the absence of a reliable backup system for GPS is a glaring economic and security threat to the United States, and has reaffirmed its interest in developing an enhanced long-range navigation system (LORAN), or eLORAN, as a reliable land-based backup for GPS signals.</text></paragraph> <paragraph id="HC47E5C5F00004B2D8E5A7F187473DFAB"><enum>(8)</enum><text>The establishment of a land-based positioning, navigation, and timing backup system to complement GPS as soon as practicable is essential to secure the economic and national security interests of the United States.</text></paragraph></section> 
+<section id="HFBBAB3FBD99D436FBD9CF5BBB2B2F429"><enum>3.</enum><header>Backup global positioning system</header> 
+<subsection id="HA129EF1BED4B47CB9DABA6792493A21E"><enum>(a)</enum><header>Establishment</header><text display-inline="yes-display-inline">Section 2281 of title 10, United States Code, is amended by—</text> <paragraph id="H04D8F30A413849259F2E29890B1BE8B2"><enum>(1)</enum><text>redesignating subsection (d) as subsection (e); and</text></paragraph> 
+<paragraph id="H8C6ACF7C6F9D4279801FA0C3FFD20AEA"><enum>(2)</enum><text>by inserting after subsection (c) the following new subsection:</text> <quoted-block style="USC" id="HE7B4930CF7274463B2C582CF3C7D9629" display-inline="no-display-inline"> <subsection id="HAC2C70BB3810470796014B2EFBA39E06"><enum>(d)</enum><header>Land-Based complementary and backup system</header> <paragraph id="HBEE6A5D7530F44EEBCDF596F2BDE235B"><enum>(1)</enum><header>In general</header><text>The Secretary of Defense, in consultation with the Commandant of the Coast Guard and the Secretary of Transportation, shall provide for the establishment, sustainment, and operation of a reliable land-based positioning, navigation, and timing system to provide a complement to and backup for GPS to ensure the availability of uncorrupted or non-degraded positioning, navigation, and timing signals for military and civilian users if GPS signals are corrupted, degraded, unreliable, or otherwise unavailable.</text></paragraph> 
+<paragraph id="HBED2B4A559644C1DB72520623FB9512B"><enum>(2)</enum><header>Requirements</header><text>The system established under paragraph (1) shall—</text> <subparagraph id="H096779D5A835405C9CEC739F4D28029B"><enum>(A)</enum><text>be wireless, terrestrial, and wide-area;</text></subparagraph> 
+<subparagraph id="H49F3E97F3B7E4D6D9B562BC4B257C764"><enum>(B)</enum><text>provide a precise, high-power 100 kilohertz signal;</text></subparagraph> <subparagraph id="H470391638E1D4E6EA901D8272F308A0D"><enum>(C)</enum><text>be resilient and extremely difficult to disrupt or degrade;</text></subparagraph> 
+<subparagraph id="H51D70580EEEF4770ADFA2D07230425BB"><enum>(D)</enum><text>be able to penetrate underground and inside buildings;</text></subparagraph> <subparagraph id="H1A1ED85DB80446FFADF362843BF8DAD9"><enum>(E)</enum><text>take full advantage of existing, unused government long-range navigation system (commonly known as <quote>LORAN</quote>) infrastructure;</text></subparagraph> 
+<subparagraph id="HD7E4CF0AC6AE425CAB1C432FD511CA72"><enum>(F)</enum><text>incorporate the expertise and contributions of the private sector to quickly establish a system architecture, build, and operate a land-based GPS back-up system; and</text></subparagraph> <subparagraph id="H95FBD3390A1A45CF9D80A2EA33CC96C3"><enum>(G)</enum><text>work in concert with and complement any other similar positioning, navigation, and timing systems, including enhanced long-range navigation systems (commonly known as <quote>eLORAN</quote>).</text></subparagraph></paragraph> </subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="H34F6772D482B4432BC2CE9ADE04465DA"><enum>(b)</enum><header>Implementation date</header><text>The Secretary of Defense, in consultation with the Commandant of the Coast Guard and the Secretary of Transportation, shall ensure that the system required under subsection (d) of section 2281 of title 10, United States Code, as inserted by subsection (a) of this section, is fully operational not later than three years after the date of the enactment of this Act.</text></subsection></section> </legis-body> </bill> 
+

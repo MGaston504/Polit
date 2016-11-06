@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H264BE6F28CEE454D934CB617FF6E34E2" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 144 IH: Alternative Maximum Tax Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 144</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150106">January 6, 2015</action-date>
+			<action-desc><sponsor name-id="J000296">Mr. Jolly</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to establish a maximum rate of Federal, State, and local
+			 tax imposed on taxpayers.</official-title>
+	</form>
+	<legis-body id="HEF078C010BC848B08B247466A079CEB9" style="OLC">
+		<section id="H4D5EC6B896634C22AE49B9104FFD4CC1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Alternative Maximum Tax Act</short-title></quote> or the <quote><short-title>Max Tax Act</short-title></quote>.</text>
+		</section><section id="H7E4EB707B9C845D28B73D601FF0393C6" section-type="subsequent-section"><enum>2.</enum><header>Maximum tax imposed</header>
+			<subsection id="HC6B2DD0FC25648E6BB6ACD4DDD973489"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Part I of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by inserting
+			 after section 3 the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HE2F6808BFE27467E80F9E1C9EB44B784" style="OLC">
+					<section id="H1FF0702B4396401A8BAD51C4C0699533"><enum>4.</enum><header>Maximum tax imposed</header>
+						<subsection id="H7E37B22B0C3941AB86E4E68B2D14494F"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding any other provision of this subtitle, the tax imposed under this chapter on a
+			 taxpayer other than a corporation for the taxable year shall not exceed
+			 the amount which, when added to the tax amounts described in subsection
+			 (b), bears the same ratio as 50 percent of adjusted gross income of the
+			 taxpayer for the taxable year bears to the adjusted gross income of the
+			 taxpayer for the taxable year.</text>
+						</subsection><subsection id="H79130E9E47A34F08B2096A055815D526"><enum>(b)</enum><header>Tax amounts described</header><text>For purposes of this section, the tax amounts described in this subsection are the amounts of tax
+			 paid
+			 for any period (or allocable portion thereof) in the taxable year under
+			 any of the following Federal, State, or local taxes:</text>
+							<paragraph id="H43B2D4E81BE341809886B97D0439EE61"><enum>(1)</enum><text display-inline="yes-display-inline">Air transportation taxes.</text>
+							</paragraph><paragraph id="H44C870259406498DB43D364CDC9C6E54"><enum>(2)</enum><text>Biodiesel fuel taxes.</text>
+							</paragraph><paragraph id="H0C6EE556849C4331A34775A451B3DF0E"><enum>(3)</enum><text>Cigarette taxes.</text>
+							</paragraph><paragraph id="HFA32A00F9B3B4203882BE74AECEF6D96"><enum>(4)</enum><text>Medicare tax.</text>
+							</paragraph><paragraph id="H4C137A6150224A218CA9EBB794E9150D"><enum>(5)</enum><text>Social Security tax.</text>
+							</paragraph><paragraph id="H60F52DB768A94FE5B98F55C2C99B41D0"><enum>(6)</enum><text>Estate taxes.</text>
+							</paragraph><paragraph id="H3920B0D2102E48418716F82AC39F5EA4"><enum>(7)</enum><text>Insurance taxes, including insurance premium taxes, excise taxes on comprehensive health insurance
+			 plans, and individual health insurance mandate taxes.</text>
+							</paragraph><paragraph id="HC61DA1BDF7E846B181EC17DDB531CC93"><enum>(8)</enum><text>Federal unemployment taxes.</text>
+							</paragraph><paragraph id="H5B0853902DFE49998782DCD8817A20CA"><enum>(9)</enum><text>Garbage taxes.</text>
+							</paragraph><paragraph id="H9901DEBC7E024A4891A496158EB4CFA8"><enum>(10)</enum><text>Gasoline taxes.</text>
+							</paragraph><paragraph id="HCEA49ADCDFD64870BBC905EEF29642EB"><enum>(11)</enum><text>Gift taxes.</text>
+							</paragraph><paragraph id="H54D8A8E6D0E2447788CCD8B30432AC44"><enum>(12)</enum><text>Hotel taxes.</text>
+							</paragraph><paragraph id="H7500D5A86B424247B1521D6A3C3E85B4"><enum>(13)</enum><text>Import taxes.</text>
+							</paragraph><paragraph id="H05AAFCD4C46B4877B11C6228EFF2AA24"><enum>(14)</enum><text>Income tax, including city, State, and county.</text>
+							</paragraph><paragraph id="H696B670D9B134AA38E1C8FDD1A2B88C5"><enum>(15)</enum><text>Inheritance taxes.</text>
+							</paragraph><paragraph id="HFAB61221FF3147468462602467EFDE20"><enum>(16)</enum><text>Interstate user diesel fuel taxes.</text>
+							</paragraph><paragraph id="H2DBDE21B18EF4CEBB23393950A800D6D"><enum>(17)</enum><text>Inventory taxes.</text>
+							</paragraph><paragraph id="HA8F39FE9223145DD9E9E420C72E42B8E"><enum>(18)</enum><text>Liquor taxes.</text>
+							</paragraph><paragraph id="HD15E1D5EDFA646238E9CE821F042AA8D"><enum>(19)</enum><text>Luxury taxes.</text>
+							</paragraph><paragraph id="HA10CA85F2FF94B33AFFAC3DD4182D7B2"><enum>(20)</enum><text>Medicare taxes.</text>
+							</paragraph><paragraph id="H1E275208B4C54B66ADF7C4C0C7E3DFC8"><enum>(21)</enum><text>Taxes enacted under the Patient Protection and Affordable Care Act, including the individual
+			 mandate excise tax and the Medicare tax surcharge on investment income of
+			 high earning Americans.</text>
+							</paragraph><paragraph id="H21E79DA668014B1FBC36058E99E2D58B"><enum>(22)</enum><text>Tangible personal property taxes.</text>
+							</paragraph><paragraph id="HB8A77AF6EBD14E33883D4B5FF8E5A200"><enum>(23)</enum><text>Real estate taxes.</text>
+							</paragraph><paragraph id="HE671B5B8B1D246B7BCBE9C444AC12697"><enum>(24)</enum><text>Sales taxes.</text>
+							</paragraph><paragraph id="H9792DB9B440849EE814B756C30B9CC6D"><enum>(25)</enum><text>Self-employment taxes.</text>
+							</paragraph><paragraph id="HE989E2C9B56A4C6D9537A26EEE241EB5"><enum>(26)</enum><text>Service charge taxes.</text>
+							</paragraph><paragraph id="H30C0596CC94746D7B9BCFF8247A7E1E5"><enum>(27)</enum><text>Sewer and water taxes.</text>
+							</paragraph><paragraph id="H8B852F5F800D444D93F51A30AC768B9A"><enum>(28)</enum><text>Special assessments (city and county).</text>
+							</paragraph><paragraph id="H00F162C1E9EF4CF39F94F9C404413F3E"><enum>(29)</enum><text>State unemployment taxes (SUTA).</text>
+							</paragraph><paragraph id="H6DC96B3EA35246B3AFAF2DFC12488189"><enum>(30)</enum><text>Tanning taxes.</text>
+							</paragraph><paragraph id="H8C3BB7F708594F2C91CC900EB100E2B3"><enum>(31)</enum><text>Telephone-related taxes, including telephone 911 service taxes, telephone Federal excise taxes,
+			 telephone Federal universal service fee taxes, telephone minimum usage
+			 surcharge taxes, telephone State and local taxes, telephone universal
+			 access taxes.</text>
+							</paragraph><paragraph id="H188B4F8C707140138335C1F3FDB83B80"><enum>(32)</enum><text>Tire taxes.</text>
+							</paragraph><paragraph id="H501C7357FCCD4FCDAC995A769AE77A09"><enum>(33)</enum><text>Use taxes (city, county, and State).</text>
+							</paragraph><paragraph id="H3BAB1E7844AB4BC89AEB4F21EB804450"><enum>(34)</enum><text>Utility taxes.</text>
+							</paragraph><paragraph id="HCA8959360AA8447BB5E1D1830B0548BF"><enum>(35)</enum><text>Vehicle registration taxes.</text>
+							</paragraph><paragraph id="HB4876C912E6B478EA6C999555151ACEA"><enum>(36)</enum><text>Waste management taxes.</text>
+							</paragraph><paragraph id="H4D0D4907E83C4314B9682E9B3B39230E"><enum>(37)</enum><text>Workers compensation taxes.</text>
+							</paragraph></subsection><subsection id="HE78B68E7C8D841CE91253B09C263234C"><enum>(c)</enum><header>Regulations</header><text>The Secretary shall prescribe such regulations as may be necessary to carry out this section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HAA2B465E090C480B9CD4242AE1F8B084"><enum>(b)</enum><header>Clerical amendment</header><text display-inline="yes-display-inline">The table of sections for part I of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986
+			 is amended by inserting after the item relating to section 3 the following
+			 new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H36FA387C1B3D410D9B564FFA1768264F" style="OLC">
+					<toc container-level="quoted-block-container" idref="HE2F6808BFE27467E80F9E1C9EB44B784" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+						<toc-entry idref="H1FF0702B4396401A8BAD51C4C0699533" level="section">Sec. 4. Maximum tax imposed.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H2D2368EE3D8144FC90B744C66CA6B95D"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after the date of the
+			 enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

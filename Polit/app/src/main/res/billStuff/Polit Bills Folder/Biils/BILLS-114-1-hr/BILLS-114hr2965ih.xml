@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H26CAFED4EB634E40AF61C8DDD70F0E02" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2965 IH: Building on Local District Flexibility in IDEA Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-07-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2965</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150708">July 8, 2015</action-date>
+			<action-desc><sponsor name-id="W000798">Mr. Walberg</sponsor> (for himself, <cosponsor name-id="M001194">Mr. Moolenaar</cosponsor>, <cosponsor name-id="R000587">Mr. Ribble</cosponsor>, <cosponsor name-id="B001271">Mr. Benishek</cosponsor>, and <cosponsor name-id="B001293">Mr. Bishop of Michigan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Individuals with Disabilities Education Act to provide certain exceptions to the
+			 maintenance of effort requirement for local educational agencies, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body id="H6CB9833633F64BE582C21CE8F12D9DAC" style="OLC">
+ <section id="H4D050824997A46A3BDA3CCFAE6563113" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Building on Local District Flexibility in IDEA Act</short-title></quote>.</text> </section><section id="HB1719DA41547410680197E86328E4DF4"><enum>2.</enum><header>Exceptions to the maintenance of effort requirement for local educational agencies</header><text display-inline="no-display-inline">Section 613(a)(2) of the Individuals with Disabilities Education Act (<external-xref legal-doc="usc" parsable-cite="usc/20/1413">20 U.S.C. 1413(a)(2)</external-xref>) is amended—</text>
+ <paragraph id="HD1569E7509254EBEABA4F645B2C6C3E6"><enum>(1)</enum><text>in subparagraph (A)(iii), by striking <quote>subparagraphs (B) and (C)</quote> and inserting <quote>subparagraphs (B), (C), and (E)</quote>;</text> </paragraph><paragraph id="H09D887A27ADD41F3ABDB2598904F23FC"><enum>(2)</enum><text>in subparagraph (B)—</text>
+ <subparagraph id="H850082CA35EA459E9DFB2251C27E02B9"><enum>(A)</enum><text>in clause (iii)(III), by striking <quote>or</quote> at the end;</text> </subparagraph><subparagraph id="H5C4DD6DF32A045CFAD63F0C2021BC5F8"><enum>(B)</enum><text>in clause (iv), by striking the period at the end and inserting a semicolon; and</text>
+ </subparagraph><subparagraph id="HC57575BF9C6345B8A0D69BA1977AD307"><enum>(C)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H7D57C8124B93464B8C599824AB362C95" style="OLC"> <clause id="H5EDF200C40CD400FBBD66D484A307333"><enum>(v)</enum><text display-inline="yes-display-inline">improved efficiencies that do not result in a reduction in special education services; or</text>
+ </clause><clause id="H994FBCAA5A85415D836C6686DE9AFF7F"><enum>(vi)</enum><text display-inline="yes-display-inline">the reduction of expenditures for employment related benefits provided to special education personnel (such as pay, retirement contributions, annual and sick leave, and health and life insurance) provided that such reduction of expenditures does not result in a reduction in special education services.</text>
+						</clause><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="H8205B01E10644D649D0100E74D2070CE"><enum>(3)</enum><text display-inline="yes-display-inline">by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="HB355EAEFD1454E3F871924AE4746BA6A" style="OLC"> <subparagraph id="H027B90256EA541DA905B0DBD3151B837"><enum>(E)</enum><header>Waivers for exceptional or uncontrollable circumstances</header><text display-inline="yes-display-inline">The State educational agency may waive the requirements of subparagraph (A)(iii) for a local educational agency, for 1 fiscal year at a time, if—</text>
+ <clause id="H61FFC1C556EA484EAE87A70786361A10"><enum>(i)</enum><text display-inline="yes-display-inline">the State educational agency determines that the local educational agency has not reduced the level of expenditures for the education of children with disabilities for such fiscal year disproportionately to other expenditures; and</text>
+						</clause><clause id="H7289C47505B4465D9099B5925D705C1F"><enum>(ii)</enum>
+ <subclause commented="no" display-inline="yes-display-inline" id="H6E97744A02BC47778AD0B4754FF0D2F2"><enum>(I)</enum><text>the State educational agency determines that granting a waiver would be equitable due to exceptional or uncontrollable circumstances such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the local educational agency; or</text>
+ </subclause><subclause id="H01F73C5AB3FE43048AF6A43A84E78E9D" indent="up1"><enum>(II)</enum><text>the local educational agency provides clear and convincing evidence to the State educational agency that all children with disabilities have available to them a free appropriate public education and the State educational agency concurs with the evidence provided by the local educational agency.</text>
+							</subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HBB87EEBF721144F88C09A04F6BCD35FC" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 584 IH: EPIC Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 584</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150128">January 28, 2015</action-date>
+			<action-desc><sponsor name-id="D000621">Mr. DeSantis</sponsor> (for himself, <cosponsor name-id="M001184">Mr. Massie</cosponsor>, <cosponsor name-id="R000587">Mr. Ribble</cosponsor>, <cosponsor name-id="G000566">Mr. Gowdy</cosponsor>, <cosponsor name-id="M001182">Mr. Mulvaney</cosponsor>, <cosponsor name-id="B001294">Mr. Blum</cosponsor>, and <cosponsor name-id="B001283">Mr. Bridenstine</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name>, and in addition to the Committee on <committee-name committee-id="HGO00">Oversight and Government Reform</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 5, United States Code, to provide for the termination of certain retirement benefits
+			 for Members of Congress, except the right to continue participating in the
+			 Thrift Savings Plan, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HF988A8810962438EB363CFCB67C173BF" style="OLC">
+ <section id="HD89ADF28F605445D80BC9FE6076FD617" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>End Pensions in Congress Act</short-title></quote> or the <quote>EPIC Act</quote>.</text> </section><section display-inline="no-display-inline" id="HC8C61AD9E292488185EA8D89D1506164"><enum>2.</enum><header>Amendments relating to the Civil Service Retirement System</header> <subsection id="HC994B2173EA04F65B13DBF2FF72DB992"><enum>(a)</enum><header>In general</header><text>Subchapter III of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/83">chapter 83</external-xref> of title 5, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/5/8335">section 8335</external-xref> the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H70EC7BFE31A9437F83576EDEE236DA43" style="USC">
+					<section id="H49959FF6393047BCB9B60F6B93A05F6C"><enum>8335a.</enum><header>Termination of further retirement coverage of Members of Congress</header>
+ <subsection id="HB7B1AB9539FA41D7B12F6F67AF864357"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding any other provision of this subchapter and subject to subsection (f), effective as of the date of enactment of this section—</text>
+ <paragraph id="HEEEC6C33D9004241BA6900547ADBE5D8"><enum>(1)</enum><text>a Member shall not be subject to this subchapter for any further period of time; and</text> </paragraph><paragraph id="H4907AB669C204C9C8D19D4B0F17A403F"><enum>(2)</enum><text>no further Government contributions or deductions from basic pay may be made with respect to such Member for deposit in the Treasury of the United States to the credit of the Fund.</text>
+ </paragraph></subsection><subsection display-inline="no-display-inline" id="HF0D53C400E59486A87F7CF949FFADB56"><enum>(b)</enum><header>Prior rights not affected</header><text>Nothing in subsection (a) shall be considered to nullify, modify, or otherwise affect any right, entitlement, or benefit under this subchapter with respect to any Member covering any period prior to the date of enactment of this section.</text>
+ </subsection><subsection id="H8DED0A002E6443B79F65947FAC8958AA"><enum>(c)</enum><header>Right To participate in thrift savings plan not affected</header><text>Nothing in subsection (a) shall affect the eligibility of a Member to participate in the Thrift Savings Plan in accordance with otherwise applicable provisions of law.</text>
+ </subsection><subsection id="H5555A93A6654442B9B1B827E9FEA9AD6"><enum>(d)</enum><header>Regulations</header><text>Any regulations necessary to carry out this section may—</text> <paragraph id="H380175B216E14109A1332F4B57A55326"><enum>(1)</enum><text>except with respect to matters under paragraph (2), be prescribed by the Director of the Office of Personnel Management; and</text>
+ </paragraph><paragraph id="H8CAB9633FE254124BC7E6BD9A22FD6AB"><enum>(2)</enum><text>with respect to matters relating to the Thrift Savings Plan, be prescribed by the Executive Director (as defined by section 8401(13)).</text>
+ </paragraph></subsection><subsection id="H600B113008B34B8EA73CACCF83942BA5"><enum>(e)</enum><header>Exclusion</header><text>For purposes of this section, the term <term>Member</term> does not include the Vice President.</text> </subsection><subsection commented="no" id="H159345E48F5846598E3624DFF70A4FEE"><enum>(f)</enum><header>Opt-In</header><text display-inline="yes-display-inline">Not later than 90 days after the date of enactment of this section, a Member covered by this subchapter as of such date of enactment may elect, by giving notice in writing to the official by whom such Member is paid, to remain subject to this subchapter.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H082CBE4A82D14739BE59693B30E0876F"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/83">chapter 83</external-xref> of title 5, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/5/8335">section 8335</external-xref> the following:</text>
+				<quoted-block id="H8DC2A2619C644206988D1D35583E97F1" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">8335a. Termination of further retirement coverage of Members of Congress.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="HACFF0566076C4B7794B0E29A4B0D25B8"><enum>3.</enum><header>Amendments relating to the Federal Employees Retirement System</header>
+ <subsection id="H9A71B47A8EDC4667BCC90330CA33C8C6"><enum>(a)</enum><header>In general</header><text>Subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/84">chapter 84</external-xref> of title 5, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/5/8425">section 8425</external-xref> the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H89E7124349994B01B6C6DFC2BD7B6EF6" style="USC">
+					<section id="HFA6D589B90D4480CB15C95CF97C4003A"><enum>8425a.</enum><header>Termination of further retirement coverage of Members of Congress</header>
+ <subsection id="HCEE0F92897194A18A42BA7B78902A16C"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding any other provision of this chapter, effective as of the date of enactment of this section—</text>
+ <paragraph id="H55E78C2509464CD99C662D40F8C0F65B"><enum>(1)</enum><text>subject to subsection (f), in the case of an individual who first becomes a Member before such date of enactment—</text>
+ <subparagraph id="HF707B780F22C43B1B696D7AD1E1D0261"><enum>(A)</enum><text display-inline="yes-display-inline">such Member shall not be subject to this chapter for any further period of time after such date of enactment; and</text>
+ </subparagraph><subparagraph id="H26E64EFB66C04449846BBBB255FBE5C3"><enum>(B)</enum><text>no further Government contributions or deductions from basic pay may be made with respect to such Member for deposit in the Treasury of the United States to the credit of the Fund; and</text>
+ </subparagraph></paragraph><paragraph id="H0DE99B5986DC41D4A223A754E4151226"><enum>(2)</enum><text>in the case of an individual who first becomes a Member on or after such date of enactment—</text> <subparagraph id="H2C90A9DB73D44ED59FAA738012C60C38"><enum>(A)</enum><text>such Member shall not be subject to this chapter; and</text>
+ </subparagraph><subparagraph id="H84994AFD67814078B741E1F0B057A031"><enum>(B)</enum><text>no Government contributions or deductions from basic pay may be made with respect to such Member for deposit in the Treasury of the United States to the credit of the Fund.</text>
+ </subparagraph></paragraph></subsection><subsection display-inline="no-display-inline" id="H9C35B9A849F846258676E9CCC86EF461"><enum>(b)</enum><header>Prior rights not affected</header><text>Nothing in subsection (a) shall be considered to nullify, modify, or otherwise affect any right, entitlement, or benefit under this chapter with respect to any Member covering any period prior to the date of enactment of this section.</text>
+ </subsection><subsection id="H4D87C1B4F6284D93BE2E9B9CE89C983D"><enum>(c)</enum><header>Right To participate in thrift savings plan not affected</header><text>Nothing in subsection (a) or (b) shall affect the eligibility of a Member to participate in the Thrift Savings Plan in accordance with otherwise applicable provisions of law.</text>
+						</subsection><subsection id="H2612C923509F4A21BB6FEE9DB98A3684"><enum>(d)</enum><header>Regulations</header>
+ <paragraph id="H75F08ED8B4564A1DA451E6C38933DE99"><enum>(1)</enum><header>In general</header><text>Any regulations necessary to carry out this section may—</text> <subparagraph id="H5C6D21C5BB1542A79E4E9FC9E9EC50C5"><enum>(A)</enum><text>except with respect to matters under subparagraph (B), be prescribed by the Director of the Office of Personnel Management; and</text>
+ </subparagraph><subparagraph id="H23A41C8208B844578E7AF0F407C9DCAC"><enum>(B)</enum><text>with respect to matters relating to the Thrift Savings Plan, be prescribed by the Executive Director (as defined by section 8401(13)).</text>
+ </subparagraph></paragraph><paragraph id="H127B7B88CA3D443A941B2A74BA1E1611"><enum>(2)</enum><header>Refunds</header><text>Notwithstanding subsection (b), the regulations under paragraph (1)(A) shall, in the case of a Member who has not completed at least 5 years of civilian service as of the date of enactment of this section, provide that the lump-sum credit shall be payable to such Member to the same extent and in the same manner as if such Member satisfied paragraphs (1) through (4) of section 8424(a) as of such date of enactment.</text>
+ </paragraph></subsection><subsection id="H6457EC69856C45339F4158FAB4C78AC3"><enum>(e)</enum><header>Exclusions</header><text display-inline="yes-display-inline">For purposes of this section, the term <term>Member</term> does not include the Vice President.</text> </subsection><subsection commented="no" id="H971B3112796449979EE73BE8B7E71C42"><enum>(f)</enum><header>Opt-In for Members</header><text display-inline="yes-display-inline">Not later than 90 days after the date of enactment of this section, a Member covered by this chapter as of such date may elect, by giving notice in writing to the official by whom such Member is paid, to remain subject to this chapter.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HA9C458A3A4904CE29C2E7005D022C463"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/84">chapter 84</external-xref> of title 5, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/5/8425">section 8425</external-xref> the following:</text>
+				<quoted-block id="H1B491826E65A4B469A31A1D6F0C12289" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">8425a. Termination of further retirement coverage of Members of Congress.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

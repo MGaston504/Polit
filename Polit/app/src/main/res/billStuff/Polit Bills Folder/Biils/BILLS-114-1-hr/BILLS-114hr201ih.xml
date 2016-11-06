@@ -1,0 +1,853 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H906C599E7A634DFAABDCD0B7A9215E03" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 201 IH: Community Parks Revitalization Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-01-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 201</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150107">January 7, 2015</action-date>
+			<action-desc><sponsor name-id="S001165">Mr. Sires</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name>, and in addition to the Committees on <committee-name committee-id="HED00">Education and the Workforce</committee-name> and <committee-name committee-id="HII00">Natural Resources</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To authorize the Secretary of Housing and Urban Development to establish a program enabling
+			 communities to better leverage resources to address health, economic
+			 development, and conservation concerns through needed investments in
+			 parks, recreational areas, facilities, and programs, and for other
+			 purposes.</official-title>
+	</form>
+	<legis-body id="H23BA5DAEF56F439AABB071139F7D2AD7" style="OLC">
+		<section id="H789556220AAB492AADF09CA0C57CB625" section-type="section-one"><enum>1.</enum><header>Short title and table of contents</header>
+			<subsection id="HFBBEEAB98BFF4DB8808A2AEBB93B41C9"><enum>(a)</enum><header>Short title</header><text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Community Parks Revitalization Act</short-title></quote>.</text>
+			</subsection><subsection id="H89EE17EAD30047339E2A7593A081ADF9"><enum>(b)</enum><header>Table of contents</header><text>The table of contents for this Act is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="H789556220AAB492AADF09CA0C57CB625" level="section">Sec. 1. Short title and table of contents.</toc-entry>
+					<toc-entry idref="H27CB716A93884FCA89541CA79E1A934F" level="title">Title I—Community parks revitalization program</toc-entry>
+					<toc-entry idref="HFEC9810A430A41A4A8B987728B6A1B6A" level="section">Sec. 101. Findings.</toc-entry>
+					<toc-entry idref="H07BB761A432C48B68F3898EBE3605295" level="section">Sec. 102. Purposes.</toc-entry>
+					<toc-entry idref="H78707AA4D4074CF190429C73DDE06395" level="section">Sec. 103. Community parks revitalization program.</toc-entry>
+					<toc-entry idref="HD9F8C44D92324EAEA5B22105E5DB734F" level="section">Sec. 104. Requirements for rehabilitation and construction grants.</toc-entry>
+					<toc-entry idref="H3C5CEB3DC82A464A899054BCDE801D7B" level="section">Sec. 105. Requirements for innovation and recreation program grants.</toc-entry>
+					<toc-entry idref="HB2FD48DFB3414AA2A2F1081FA4B28C93" level="section">Sec. 106. Local commitments to system recovery and maintenance.</toc-entry>
+					<toc-entry idref="HFED16DEB59DD4A93BCAA959ECDAD43F5" level="section">Sec. 107. Matching of State amounts, State action incentive.</toc-entry>
+					<toc-entry idref="H4186802F5BF64EFA854AC9A48D9BF75B" level="section">Sec. 108. Conversion of recreation property.</toc-entry>
+					<toc-entry idref="H4FDD7280AFCC4A52B82729BE67F60F29" level="section">Sec. 109. Coordination of program.</toc-entry>
+					<toc-entry idref="HF24C86A1EFF3493BAF701BA341B64379" level="section">Sec. 110. Reports; recordkeeping; audit and examination.</toc-entry>
+					<toc-entry idref="HEFA185D2D163413AB09A1BCF12651D91" level="section">Sec. 111. Reports to Congress.</toc-entry>
+					<toc-entry idref="H6E67FD41090C4C6891B0A6905186DEA3" level="section">Sec. 112. Definitions.</toc-entry>
+					<toc-entry idref="HECE61F2DCAE843739BCC2E3DBB5F105C" level="section">Sec. 113. Regulations.</toc-entry>
+					<toc-entry idref="H60792DE8C7FF4F258BCEAF76C84A94A0" level="section">Sec. 114. Authorization of appropriations.</toc-entry>
+					<toc-entry idref="H9E77FDE692754432B14941F2BEE40559" level="title">Title II—Secured loans and loan guarantees for parks and recreation infrastructure development</toc-entry>
+					<toc-entry idref="H36D37D6A01C34F0796BEA102705ACF71" level="section">Sec. 201. Purposes.</toc-entry>
+					<toc-entry idref="HCE90874F8BC34CBD89E29AF31B5932DC" level="section">Sec. 202. Authority to provide assistance.</toc-entry>
+					<toc-entry idref="H6A58805F1C694B219965F86A7A9837A5" level="section">Sec. 203. Eligible entities.</toc-entry>
+					<toc-entry idref="H4CCF1E57D7F74F6392B1F2D78939E059" level="section">Sec. 204. Projects eligible for assistance.</toc-entry>
+					<toc-entry idref="HF3C8D16A3D9344BCA2C08A551DA95D1D" level="section">Sec. 205. Activities eligible for assistance.</toc-entry>
+					<toc-entry idref="HD3EF5A0120B848CEAFF1FA92510EE08F" level="section">Sec. 206. Applications.</toc-entry>
+					<toc-entry idref="HB60C63D36F50456E983213A402DB0BAB" level="section">Sec. 207. Determination of eligibility and project selection.</toc-entry>
+					<toc-entry idref="H46D59385FE1F4DB1B427BB7C48A1A917" level="section">Sec. 208. Secured loans and loan guarantees.</toc-entry>
+					<toc-entry idref="H4FA24761FC6F45498A9CD8779F680ABF" level="section">Sec. 209. Program administration.</toc-entry>
+					<toc-entry idref="H53BC4F8F0BED484BAF488F0CBD71EFC4" level="section">Sec. 210. State and local permits.</toc-entry>
+					<toc-entry idref="HCB4FB41CFC774294BCDFD4512FF59072" level="section">Sec. 211. Definitions.</toc-entry>
+					<toc-entry idref="H9008FC6F39C44CC4B9D5538253AF4FBA" level="section">Sec. 212. Regulations.</toc-entry>
+					<toc-entry idref="HD306F4880E404B2B90CE5857CBE422AB" level="section">Sec. 213. Funding.</toc-entry>
+					<toc-entry idref="H47774F2738AA4CD79BBD0B9CCFFE01F6" level="section">Sec. 214. Report to Congress.</toc-entry></toc>
+			</subsection></section><title id="H27CB716A93884FCA89541CA79E1A934F"><enum>I</enum><header>Community parks revitalization program</header>
+			<section id="HFEC9810A430A41A4A8B987728B6A1B6A"><enum>101.</enum><header>Findings</header><text display-inline="no-display-inline">The Congress finds the following:</text>
+				<paragraph id="H870DC6E47749416695295E32A7BAAA7A"><enum>(1)</enum><text>Currently, over 80 percent of our Nation’s population lives in urban areas.</text>
+				</paragraph><paragraph id="H936B9522EB9F4BE19BC121EA9A8C9868"><enum>(2)</enum><text>Economic competitiveness, which includes the ability to create jobs, stimulate growth, attract
+			 businesses, investment, tourism, and a highly skilled workforce, is
+			 closely related to the availability of fully functional park and
+			 recreation systems in America’s metropolitan areas.</text>
+				</paragraph><paragraph id="H31F238E547E0415D995383F50201C868"><enum>(3)</enum><text>According to the American Society of Civil Engineers, parks, beaches, and other recreational
+			 facilities contribute $730 billion per year to the U.S. economy, support
+			 nearly 6.5 million jobs, and contribute to cleaner air and water and
+			 higher property values.</text>
+				</paragraph><paragraph id="H4BCA2FEE06244F1D92CF99B5EC40D03B"><enum>(4)</enum><text>Despite spending on parks at the State and local level, the acreage of parkland per resident in
+			 urban areas is declining due to rapid increases in population.</text>
+				</paragraph><paragraph id="HAA44731660484E90931EDF204A2B9AC1"><enum>(5)</enum><text>A lack of access to public parks and recreation areas and facilities, as well as deteriorating and
+			 unsafe play areas, leads to an increase in physical inactivity, which in
+			 turn contributes to higher rates of obesity.</text>
+				</paragraph><paragraph id="HCC6553957ECD466E913124D6EDC51AD6"><enum>(6)</enum><text>According to the Centers for Disease Control and Prevention, over the past 25 years, rates of
+			 obesity have more than tripled among adolescents ages 12 to 19 and doubled
+			 among adults ages 20 to 74 and children ages 6 to 11.</text>
+				</paragraph><paragraph id="H2D41F44B2FDB48E89ABEE92E84D4041D"><enum>(7)</enum><text>Obesity and related health problems put a strain on our Nation’s economy, as the annual costs of
+			 medical spending and lost productivity from individuals in the United
+			 States being obese and overweight are estimated to be $147,000,000,000.</text>
+				</paragraph><paragraph id="H76A1F23D635249079C4184D8F05700ED"><enum>(8)</enum><text>A study by the Centers for Disease Control found that the creation of, or enhanced access to,
+			 places for physical activity, such as parks, led to a 25.6 percent
+			 increase in the percentage of people exercising on 3 or more days a week,
+			 which improves the physical and mental health of our citizens.</text>
+				</paragraph><paragraph id="HE650C65431F849F4A00CE08538769FC5"><enum>(9)</enum><text>There are nearly 23 million veterans in the United States. Many have mental and physical
+			 disabilities from injuries sustained during their service in Iraq and
+			 Afghanistan.</text>
+				</paragraph><paragraph id="H52826772FC504B51A2CB4E2355E0817D"><enum>(10)</enum><text>Parks and recreation agencies are providing vital programs for veterans, with and without
+			 disabilities, and for their families, that provide physical, mental, and
+			 social benefits to improve their overall quality of life as they
+			 transition to civilian living.</text>
+				</paragraph><paragraph id="H28F736A76E4148F383B874F5F8D53B35"><enum>(11)</enum><text>According to the Juvenile Justice Bulletin, without structured, supervised activities in the
+			 after-school hours, youth are at greater risk of being victims of crime or
+			 participating in anti-social behaviors between 2:00 p.m. and 6:00 p.m. The
+			 peak hour for juvenile crime is between 3:00 p.m. and 4:00 p.m., the first
+			 hour after most students are dismissed from school. Urban parks decrease
+			 juvenile delinquency by providing quality after-school programs during
+			 these critical hours.</text>
+				</paragraph><paragraph id="H50A39B4ADA3A486D963F0003B463FEEE"><enum>(12)</enum><text display-inline="yes-display-inline">Parks also add to the environmental viability of communities. While cities currently spend tens of
+			 billions of dollars on treatment of storm water runoff and air pollution,
+			 studies have shown that parkland saves cities millions of dollars in storm
+			 water management and air pollution expenses by capturing precipitation,
+			 reducing runoff, and absorbing air pollutants.</text>
+				</paragraph></section><section id="H07BB761A432C48B68F3898EBE3605295"><enum>102.</enum><header>Purposes</header><text display-inline="no-display-inline">The purposes of this title are—</text>
+				<paragraph id="HA168A1D4C35941EEA2735E94854486B0"><enum>(1)</enum><text>to authorize the Secretary of Housing and Urban Development to establish a program enabling
+			 communities to better leverage resources to address health, economic
+			 development, and conservation concerns through needed investments in
+			 parks, recreational areas, facilities, and programs;</text>
+				</paragraph><paragraph id="H821AD0F8B83F4551BF6C78E8C51972E1"><enum>(2)</enum><text>to improve and revitalize urban areas through economic development;</text>
+				</paragraph><paragraph id="H0087139CCB564CE296E86DBA16CFFFF7"><enum>(3)</enum><text>to prevent and improve chronic disease outcomes, including cardiovascular disease, diabetes,
+			 depression, and obesity;</text>
+				</paragraph><paragraph id="H5BDCC57625BE49288E6F7CD3B61C8386"><enum>(4)</enum><text>to improve recreational areas and facilities and expand recreation services in urban areas with a
+			 high incidence of crime and help expand recreation opportunities for
+			 at-risk youth;</text>
+				</paragraph><paragraph id="H795E56534D924E19A171BB9EC056C148"><enum>(5)</enum><text>to promote collaboration between local agencies involved in parks and recreation, law enforcement,
+			 youth social services, and juvenile justice system;</text>
+				</paragraph><paragraph id="HB8890EB1D5234699B096C86C9C968952"><enum>(6)</enum><text>to ensure accessibility to therapeutic recreation services and to provide recreation opportunities
+			 for injured or disabled members of the Armed Forces; and</text>
+				</paragraph><paragraph id="H25B666263F39417EBE053CF337969478"><enum>(7)</enum><text>to encourage the use of environmentally responsible components and sustainable landscape features,
+			 and promote cost effective solutions to issues such as storm water
+			 management, water conservation, and air quality.</text>
+				</paragraph></section><section id="H78707AA4D4074CF190429C73DDE06395"><enum>103.</enum><header>Community parks revitalization program</header>
+				<subsection id="HB203D067FEC4445F8CB64F0A6A780048"><enum>(a)</enum><header>In general</header><text>The Secretary of Housing and Urban Development shall carry out a community parks revitalization
+			 program under this title under which the Secretary shall, from amounts
+			 appropriated pursuant to section 114, award the following grants on a
+			 competitive basis:</text>
+					<paragraph display-inline="no-display-inline" id="H4EFC1E8E6807472782F626FD78DC0084"><enum>(1)</enum><header>Rehabilitation and construction grants</header><text>The Secretary shall make rehabilitation and construction capital grants in accordance with the
+			 criteria established pursuant to section 104(a) to eligible local
+			 governments for the purpose of—</text>
+						<subparagraph id="H48A99DE2E4FD4D65989AEAADD3E54E4A"><enum>(A)</enum><text>rebuilding, remodeling, expanding, integrating, or developing existing or building new recreational
+			 areas and facilities, including improvements in park landscapes,
+			 infrastructure, buildings, and support facilities; and</text>
+						</subparagraph><subparagraph id="H110D8D12FEED4745B513DD939B47268C"><enum>(B)</enum><text>the provision of lighting, emergency phones, or other capital improvements to improve the security
+			 of urban parks, but not including routine maintenance and upkeep
+			 activities.</text>
+						</subparagraph></paragraph><paragraph id="H54EF918834424B85B2E027E2F15EBE71"><enum>(2)</enum><header>Innovation and recreation program grants</header><text display-inline="yes-display-inline">The Secretary shall make innovation and recreation program grants in accordance with the criteria
+			 established pursuant to section 105(a) to eligible local governments to
+			 cover costs of personnel, facilities, equipment, supplies, or services
+			 designed to demonstrate innovative and cost effective ways to augment park
+			 and recreation opportunities, or support new or existing programs, that
+			 increase access to recreation opportunities for returning veterans and
+			 active duty military and their families or provide constructive
+			 alternatives for youth at risk for engaging in criminal behavior.</text>
+					</paragraph><paragraph id="H0568B1582C0645028AE7B45E8589EEC1"><enum>(3)</enum><header>Recovery action program grants</header><text>The Secretary shall make recovery action program grants to eligible local governments for planning
+			 and development of local park and recreation recovery action programs
+			 required under section 106, including for resource and needs assessment,
+			 coordination, citizen involvement and planning, and program development
+			 activities to encourage public definition of goals and develop priorities
+			 and strategies for overall recreation system recovery.</text>
+					</paragraph></subsection><subsection id="H56D7D76E83C54242A967BCF899D789F1"><enum>(b)</enum><header>Eligibility</header>
+					<paragraph id="HF381AF92D7594DB1A166ADCB6FD6A76C"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">For the purposes of this title, any local government located within a standard metropolitan
+			 statistical area, as determined in accordance with the most recent
+			 decennial Census, shall be eligible to apply for and receive grant awards
+			 pursuant to subsection (a).</text>
+					</paragraph><paragraph id="H20D14626DDED4D4689B2E7644ED20D41"><enum>(2)</enum><header>Partial eligibility waiver</header>
+						<subparagraph id="H8A19FD2EC38144E0962C57C749E3E26C"><enum>(A)</enum><header>Designation</header><text display-inline="yes-display-inline">The Secretary may designate local governments not located within standard metropolitan statistical
+			 areas, as determined in accordance with the most recent decennial Census,
+			 as eligible to receive grant awards pursuant to subsection (a).</text>
+						</subparagraph><subparagraph id="H042A3E7BCBE6400DBE109B4DFD7C4E9B"><enum>(B)</enum><header>Limitation on amounts</header><text>The aggregate amount of grants made to eligible local governments that receive such status pursuant
+			 to subparagraph (A) of this paragraph shall not exceed 15 percent of the
+			 total amounts appropriated pursuant to this title for all grants under
+			 subsection (a).</text>
+						</subparagraph></paragraph></subsection><subsection id="H251CA4CC4C8849189E56A2E84FABE757"><enum>(c)</enum><header>Matching requirement</header>
+					<paragraph id="H1163ABA555D14645B3D1618792DD222D"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary shall ensure that each eligible local government that receives a grant pursuant to
+			 subsection (a) shall supplement, in accordance with this subsection, the
+			 amount received under such grant with an amount that is not less than <fraction>3/7</fraction> of such grant amount; except that, in the case of grants under subsection (a)(3), the Secretary
+			 shall ensure that each eligible local government shall supplement the
+			 amount received under such grant with amount that is not less than such
+			 grant amount.</text>
+					</paragraph><paragraph commented="no" id="HC2046438066C447C89D149736574C30F"><enum>(2)</enum><header>Use</header><text>Supplemental amounts made available in accordance with paragraph (1) shall be used only for
+			 projects and activities for which grant amounts are eligible to be used.</text>
+					</paragraph><paragraph id="H5D4996C9F3DB4AFE938DD9F6DCFCB50F"><enum>(3)</enum><header>Sources for supplemental funds</header>
+						<subparagraph id="HB1ED0D9172A5494ABC10909B2600EA47"><enum>(A)</enum><header>Limitation on federal funds</header><text>Supplemental funds required by paragraph (1) may not include any amounts made available from a
+			 Federal grant program, other than—</text>
+							<clause id="H53B2092F428048D8B3669F9485C9E2A1"><enum>(i)</enum><text>the community development block grant program under title I of the Housing and Community
+			 Development Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/42/5301">42 U.S.C. 5301 et seq.</external-xref>);</text>
+							</clause><clause commented="no" id="H0BC0AFD1A6354732B1890BED7C826840"><enum>(ii)</enum><text>any Federal program for general revenue sharing with local governments; or</text>
+							</clause><clause commented="no" id="H642ED829D3CC46E98BD1FE482E7FFFDD"><enum>(iii)</enum><text display-inline="yes-display-inline">any Federal program that provides block grants to States and localities to develop, promote,
+			 implement, and manage energy efficiency and conservation projects and
+			 programs designed to reduce fossil fuel emissions, reduce energy use,
+			 improve energy efficiency, and create and retain jobs.</text>
+							</clause></subparagraph><subparagraph id="H43B40BA37A0E437BB8FB15447AAA030A"><enum>(B)</enum><header>State and private amounts</header><text>The Secretary may require that a portion of the supplemental funds required by paragraph (1) come
+			 from the State or private sources.</text>
+						</subparagraph><subparagraph id="H517727797B464304AEB68F6BF8795138"><enum>(C)</enum><header>Non-federal funds</header><text>Supplemental funds required by paragraph (1) may include—</text>
+							<clause id="HCD9793F61C844B17868C03E1031C005D"><enum>(i)</enum><text>general or specific purpose State or local revenues;</text>
+							</clause><clause id="HE98DBA622239464596FB2F16685E125E"><enum>(ii)</enum><text>State categorical grants;</text>
+							</clause><clause id="HF9370260D1854C8DBDCD89845019140C"><enum>(iii)</enum><text>special appropriations under State law;</text>
+							</clause><clause id="H74E15CD65F2B49F2ADE9977E50FFDEFE"><enum>(iv)</enum><text>donations of land, building, or building materials;</text>
+							</clause><clause id="HC8524BE9E0694947BEBB7CF40101F668"><enum>(v)</enum><text>in-kind construction, technical, and planning services; and</text>
+							</clause><clause id="HAEDE44399EDE4940BE713974C11D74E3"><enum>(vi)</enum><text>any combination of funds described in this subparagraph.</text>
+							</clause></subparagraph></paragraph></subsection><subsection display-inline="no-display-inline" id="H084DF9153B6741EB885BBA5112F9E44A"><enum>(d)</enum><header>Transfer</header><text>At the discretion of an eligible local government receiving a rehabilitation and construction grant
+			 under subsection (a)(1) or an innovation and recreation program grant
+			 under subsection (a)(2), and if consistent with the approved application
+			 for such grant, the a grant may be transferred in whole or in part to
+			 private nonprofit agencies, provided that assisted recreational areas and
+			 facilities owned or managed by such private nonprofit agencies offer
+			 recreation opportunities to the general population within the
+			 jurisdictional boundaries of the local government.</text>
+				</subsection><subsection id="HF397CB8252A74EDCA761566B5738D932"><enum>(e)</enum><header>Payments</header><text>Grant payments may be made only for rehabilitation and construction or innovation and recreation
+			 projects and programs approved by the Secretary. In the case of
+			 rehabilitation and construction and innovation projects, such payments may
+			 be made periodically consistent with the rate of progress toward the
+			 satisfactory completion of a project, except that the Secretary may, when
+			 appropriate, make advance payments on approved rehabilitation and
+			 construction and innovation projects in an amount not to exceed 20 percent
+			 of the total project cost.</text>
+				</subsection><subsection id="H0D3DFFFD647748C4AED9250D812329BE"><enum>(f)</enum><header>Modification of project</header><text>The Secretary may authorize modification of an approved rehabilitation and construction or
+			 innovation project only when a grantee has adequately demonstrated that
+			 such modification is necessary because of circumstances not foreseeable at
+			 the time such project was proposed.</text>
+				</subsection></section><section id="HD9F8C44D92324EAEA5B22105E5DB734F"><enum>104.</enum><header>Requirements for rehabilitation and construction grants</header>
+				<subsection id="H798F478B1D474BE49C750B0C19F027AE"><enum>(a)</enum><header>Priority criteria</header><text display-inline="yes-display-inline">The Secretary shall establish priority criteria for the selection and approval of projects to be
+			 funded by a rehabilitation and construction grant made pursuant to section
+			 103(a)(1), which shall include whether and the extent to which the project
+			 would—</text>
+					<paragraph id="H370505F510D14EFE81A2539DF812F2F1"><enum>(1)</enum><text>serve a community with a high population density;</text>
+					</paragraph><paragraph id="H1B5834CB0F724F43B6FBE0D52B7829EA"><enum>(2)</enum><text>address demonstrated deficiencies in the condition of existing recreational areas and facilities in
+			 the project neighborhood;</text>
+					</paragraph><paragraph id="H3F51EBAE5BA1445AA5A1552050589040"><enum>(3)</enum><text>address demonstrated deficiencies in access to neighborhood recreation opportunities, particularly
+			 for minority and low- and moderate-income residents, veterans or active
+			 duty military families, and residents with physical or mental
+			 disabilities;</text>
+					</paragraph><paragraph id="H73DB25CE07EB484DA73A9158A8BF0C54"><enum>(4)</enum><text>serve a community with a higher than average number of unemployed people as a percentage of the
+			 civilian labor force of the project neighborhood;</text>
+					</paragraph><paragraph id="H6194AD6110A6464780ACD594A97F9200"><enum>(5)</enum><text>include public participation in determining rehabilitation or development needs and the extent to
+			 which a project supports or complements target activities undertaken as
+			 part of a local government’s overall community development and urban
+			 revitalization program;</text>
+					</paragraph><paragraph id="HE8BF4A6CE54948F4A6714D5DA5DF2FC2"><enum>(6)</enum><text>provide employment opportunities for minorities, youth, and low- and moderate-income residents in
+			 the project neighborhood;</text>
+					</paragraph><paragraph id="H03A81B56E9E946CCB57D65E75B898486"><enum>(7)</enum><text>provide for participation of neighborhood, nonprofit, or tenant organizations in the proposed
+			 rehabilitation and construction activity or in subsequent maintenance,
+			 staffing, or supervision of recreational areas and facilities;</text>
+					</paragraph><paragraph id="HD158E4173D3E4A2C8241A18EBE1F286D"><enum>(8)</enum><text>demonstrate State, local, and private support for the project, as evidenced by commitments of
+			 non-Federal resources to project construction or operation;</text>
+					</paragraph><paragraph id="H2D32CF0CAB63459A84D14F0CD0D3C5E7"><enum>(9)</enum><text>build recreational areas and facilities in areas that are located within one-half of a mile of
+			 public housing or a school and do not currently have indoor or outdoor
+			 facilities;</text>
+					</paragraph><paragraph id="H5DD384E76EFB4F2E9DDEDC6B2316D262"><enum>(10)</enum><text>create, maintain, or revitalize playgrounds or active play areas for children;</text>
+					</paragraph><paragraph id="H43D6B3F7462543AEA7E860B6815C0F2F"><enum>(11)</enum><text>connect children to the outdoors for physical activity and access to nature;</text>
+					</paragraph><paragraph id="H214FBFF332DB4418B2061768EC36B5BE"><enum>(12)</enum><text>promote physical activity for individuals and the community at large;</text>
+					</paragraph><paragraph id="H987D723DB85D41C0867E62BB669FD44F"><enum>(13)</enum><text>work collaboratively with local governments, colleges, and universities, and other institutions to
+			 track the longitudinal rates of chronic diseases in the community such as
+			 cardiovascular disease, diabetes, depression, and obesity;</text>
+					</paragraph><paragraph id="H21A21A8339414AF0A3DE7574CE2DEACA"><enum>(14)</enum><text>use environmentally beneficial components such as sustainable landscape features and upcycled and
+			 recycled materials;</text>
+					</paragraph><paragraph id="HC8E0476062934BF99DDE6C777BC0D8A2"><enum>(15)</enum><text>provide environmental benefits to urban areas, by including—</text>
+						<subparagraph id="HE5D846421B91422E82FE802A9A3053DA"><enum>(A)</enum><text>updating lighting;</text>
+						</subparagraph><subparagraph id="HD7CC97251D8A4AC9BA09232564314CD7"><enum>(B)</enum><text>planting trees;</text>
+						</subparagraph><subparagraph id="H1BEE5ED377D242F69F4AEC83125BB64E"><enum>(C)</enum><text>increasing the urban forestry canopy;</text>
+						</subparagraph><subparagraph id="HDC8FC73B41E24EEAB240C0A0C6FE0367"><enum>(D)</enum><text>improving stormwater management;</text>
+						</subparagraph><subparagraph id="H475B3F2E3D024DE6A331DD5D2845C634"><enum>(E)</enum><text>increasing green infrastructure;</text>
+						</subparagraph><subparagraph id="HDBAC818DC96243E0B7146DB708A11873"><enum>(F)</enum><text>employing water conservation measures; or</text>
+						</subparagraph><subparagraph id="H57E019B377244B8FA951D3F27AF786FD"><enum>(G)</enum><text>adding green spaces;</text>
+						</subparagraph></paragraph><paragraph id="H73E1FFFA0AD94D748E5F7480CAD38D48"><enum>(16)</enum><text>connect to public transportation;</text>
+					</paragraph><paragraph id="HD8D1133C7297406BA5FE7A0B32BB365F"><enum>(17)</enum><text display-inline="yes-display-inline">apply the LEED Green Building Guidelines of the U.S. Green Building Council or other sustainability
+			 benchmarks that incorporate energy efficiency components, such as energy
+			 efficient lighting and heating ventilation and air conditioning (HVAC)
+			 systems and apply the SITES sustainable landscape guidelines of the
+			 Sustainable Sites Initiative;</text>
+					</paragraph><paragraph id="H072EB02550B440C0BC9A71C69CE2151A"><enum>(18)</enum><text>contain safe trails or routes, such as trails, bikeways, and sidewalks that connect to
+			 neighborhoods and enhance access to parks and recreational areas and
+			 facilities; and</text>
+					</paragraph><paragraph id="HD09E44A6AA3A4AB7992C42A1527B6403"><enum>(19)</enum><text>update existing equipment or facilities or construct new facilities or sites, to comply with the
+			 most recent accessibility guidelines published by the United States Access
+			 Board, specifically by removing architectural barriers so that sites
+			 comply or exceed the requirements of the final guidelines for the
+			 accessibility of recreational areas and facilities.</text>
+					</paragraph></subsection><subsection id="HD14575E76F1B4ED3AD20B2528E04CA51"><enum>(b)</enum><header>Limitation on use of funds</header><text display-inline="yes-display-inline">Not more than 10 percent of any amounts made available pursuant to section 114 for rehabilitation
+			 and construction grants under section 103(a)(1) in any fiscal year may be
+			 used for the acquisition of lands or interests in land.</text>
+				</subsection></section><section id="H3C5CEB3DC82A464A899054BCDE801D7B"><enum>105.</enum><header>Requirements for innovation and recreation program grants</header>
+				<subsection id="H916E7730482D49ADA2E1C8E74C353BE1"><enum>(a)</enum><header>Priority criteria</header><text display-inline="yes-display-inline">The Secretary shall establish priority criteria for the selection and approval of projects and
+			 programs to be funded by an innovation and recreation program grant made
+			 pursuant to section 103(a)(2), including whether and the extent to which
+			 the project or program—</text>
+					<paragraph id="HA075455586A845C3AC36077461F4D46C"><enum>(1)</enum><text>promotes the unique integration of recreation with other community services, such as
+			 transportation, public housing and public safety, either to expand or
+			 update current services or to link programs within the social service
+			 structure of a neighborhood or between neighborhoods;</text>
+					</paragraph><paragraph id="H70BB6574BF874D839DBE1E9D522DCF3D"><enum>(2)</enum><text>utilizes new management and cost-saving or service-efficient approaches for improving the delivery
+			 of recreation services;</text>
+					</paragraph><paragraph id="H445F6DED51B844AF965E4717E180C1BF"><enum>(3)</enum><text>serves communities with a high population of active military families or veterans;</text>
+					</paragraph><paragraph id="H72136F51EC4643498417A3890B73C398"><enum>(4)</enum><text>ensures accessibility to therapeutic recreation services and provides recreation opportunities for
+			 injured or disabled members of the Armed Forces;</text>
+					</paragraph><paragraph id="H175F137894E24965B363C0629F582D68"><enum>(5)</enum><text>employs veterans or youth, or uses youth volunteers;</text>
+					</paragraph><paragraph id="HCB84598169394CBBB204D3E010E38C9E"><enum>(6)</enum><text>enhances or expands youth development in neighborhoods and communities by engaging youth in
+			 environmental stewardship, conservation, and service projects;</text>
+					</paragraph><paragraph id="HE9C6692AF57C4B808FEA5D09B82F3230"><enum>(7)</enum><text>targets youth that are at the greatest risk of becoming involved in violence and crime;</text>
+					</paragraph><paragraph id="HE4EB32F337F949DE9ABA28061C62AD5A"><enum>(8)</enum><text>demonstrates past success in providing constructive alternatives to youth at risk for engaging in
+			 criminal behavior;</text>
+					</paragraph><paragraph id="HD4EA56A10979410195A480F4783B00C7"><enum>(9)</enum><text>demonstrates collaboration between local park and recreation, juvenile justice, law enforcement,
+			 and youth social service agencies and nongovernmental entities, including
+			 private, nonprofit agencies; and</text>
+					</paragraph><paragraph id="H70BB6CC2E7EB487F84240403100D668F"><enum>(10)</enum><text>shows the greatest potential of being continued with non-Federal funds or may serve as models for
+			 other communities.</text>
+					</paragraph></subsection><subsection display-inline="no-display-inline" id="H0BA9A0895F1F4549818B1B8D6285408E"><enum>(b)</enum><header>Special considerations</header><text>Each innovation and recreation program grant shall be used in accordance with the goals,
+			 priorities, and implementation strategies expressed in the local park and
+			 recreation recovery action program established pursuant to section 106 for
+			 the eligible local government receiving the grant, with particular regard
+			 to the special considerations set forth in the program pursuant to section
+			 106(b).</text>
+				</subsection></section><section id="HB2FD48DFB3414AA2A2F1081FA4B28C93"><enum>106.</enum><header>Local commitments to system recovery and maintenance</header>
+				<subsection id="H6D79C6C010514F6AB1F775B88391CE87"><enum>(a)</enum><header>Local park and recreation recovery action programs</header>
+					<paragraph id="HB2B50DA51E6A45A38F640C3623A58679"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">As a requirement for approval of a project or program for a grant under paragraph (1) or (2) of
+			 section 103(a), the eligible local government applying for the grant shall
+			 submit to the Secretary a local park and recreation recovery action
+			 program that—</text>
+						<subparagraph id="HD962EB60DAFC4901AAE9A2F1F67983F5"><enum>(A)</enum><text>provides evidence of its commitment to ongoing planning, rehabilitation, service, operation, and
+			 maintenance programs for its park and recreation systems; and</text>
+						</subparagraph><subparagraph id="HCF393C670149490DA66F654C3D365AF3"><enum>(B)</enum><text>maximizes coordination of all community resources, including other federally supported urban
+			 development and recreation programs.</text>
+						</subparagraph></paragraph><paragraph id="H2876A456573B465CA0F71E9C51936633"><enum>(2)</enum><header>Interim preliminary programs</header><text>The Secretary shall provide, by regulation, that during an initial interim period the requirement
+			 under paragraph (1) for an eligible local government to submit a local
+			 park and recreation recover action program may be satisfied by submission
+			 of a preliminary action program to be carried out by the eligible local
+			 government that defines objectives, priorities, and implementation
+			 strategies for overall system recovery and maintenance and commit such
+			 local government to a scheduled program development process.</text>
+					</paragraph><paragraph id="H653C65631325461DA771D625746536A4"><enum>(3)</enum><header>5-year action program</header><text display-inline="yes-display-inline">After the expiration of the interim period under paragraph (2), each eligible local government that
+			 applies for a grant under paragraph (1) or (2) of section 103(a) shall, as
+			 a condition of eligibility for such grant, submit to the Secretary a
+			 5-year park and recreation recovery action program that demonstrates—</text>
+						<subparagraph id="HEFCF2D53418E485EBAEA3FC997CF9B78"><enum>(A)</enum><text>identification of recovery objectives, priorities, and implementation strategies;</text>
+						</subparagraph><subparagraph id="HE29CA3DBC6B6409CB11D0FC6DEF0C44F"><enum>(B)</enum><text>adequate planning for rehabilitation of specific recreational areas and facilities, including
+			 projections of the cost of proposed projects;</text>
+						</subparagraph><subparagraph id="HBDBBB8E2363048828AB1AF0380942168"><enum>(C)</enum><text>capacity and commitment to ensure that facilities provided or improved under this title shall
+			 thereafter continue to be adequately maintained, protected, staffed, and
+			 supervised;</text>
+						</subparagraph><subparagraph id="H8DEB684AED884CC48DF3196D9B393C8F"><enum>(D)</enum><text>intention to maintain total local public outlays for park and recreation purposes at levels at
+			 least equal to those in the year preceding that in which grant assistance
+			 is sought, except in any case where a reduction in park and recreation
+			 outlays is proportionate to a reduction in overall spending by the
+			 applicant; and</text>
+						</subparagraph><subparagraph id="H7695B08DB8F94EC9AD8966745A8FFEF2"><enum>(E)</enum><text>the relationship of the park and recreation recovery action program to overall community
+			 development and urban revitalization efforts.</text>
+						</subparagraph></paragraph><paragraph id="HFF6E4EAD7F084D3D94D6EA8D567859D1"><enum>(4)</enum><header>Continuing planning process</header><text>The Secretary may, in such cases as the Secretary considers appropriate, encourage local
+			 governments to meet recovery action program requirements under this
+			 section through a continuing planning process that includes periodic
+			 improvements and updates in recovery action program submissions to
+			 eliminate identified gaps in program information and policy development.</text>
+					</paragraph></subsection><subsection id="H510C006337C84A5986E670C95F8ECE23"><enum>(b)</enum><header>Special considerations</header><text>Each local park and recreation recovery action program required by this section shall address, at a
+			 minimum, the following special considerations:</text>
+					<paragraph id="HBB9ABA356AB74541B4E4F4C3C1CA1674"><enum>(1)</enum><text>Rehabilitation of existing recreational areas and facilities, including—</text>
+						<subparagraph id="HA6946B43FE764C7DA70DB2DF93197B23"><enum>(A)</enum><text>general systemwide renovation;</text>
+						</subparagraph><subparagraph id="H643598C8287D4A5F9457A51661BF69CC"><enum>(B)</enum><text>special rehabilitation requirements for recreational areas and facilities in areas of high
+			 population concentration and economic distress; and</text>
+						</subparagraph><subparagraph id="H2FF316FAB7F04D648AB13D65CC464586"><enum>(C)</enum><text>restoration of outstanding or unique structures, landscaping, or similar features in parks of
+			 historical or architectural significance.</text>
+						</subparagraph></paragraph><paragraph id="HDABF645FADBE467F8E9966B98D04637F"><enum>(2)</enum><text>Local commitments to innovative and cost-effective programs and projects at the neighborhood level
+			 to augment recovery of park and recreation systems, including—</text>
+						<subparagraph id="H1BCE44B063254BFE847300838B380D3E"><enum>(A)</enum><text>recycling of abandoned schools and other public buildings for recreation purposes;</text>
+						</subparagraph><subparagraph id="H159DD7F3A59D4571AA4596A1CD38B0F4"><enum>(B)</enum><text>multiple use of operating educational and other public buildings;</text>
+						</subparagraph><subparagraph id="H4F0D8A0A1E2141089B46F6E39AA188F0"><enum>(C)</enum><text>purchase of recreation services on a contractual basis;</text>
+						</subparagraph><subparagraph id="HE292E5C0A1AD43FB9E09B1622064EF63"><enum>(D)</enum><text>use of mobile facilities and recreational, cultural, and educational programs or other innovative
+			 approaches to improving access for neighborhood residents;</text>
+						</subparagraph><subparagraph id="H70900DA62D0146AEB4383151BCC1865B"><enum>(E)</enum><text>integration of the recovery action program with federally assisted projects to maximize recreation
+			 opportunities through conversion of abandoned railroad and highway
+			 rights-of-way, waterfront, and other redevelopment efforts and such other
+			 federally assisted projects, as appropriate;</text>
+						</subparagraph><subparagraph id="HCAB10EBA90394B57BC2A9F9FC1D26A67"><enum>(F)</enum><text>conversion to recreational use of street space, derelict land, and other public lands not now
+			 designated for neighborhood recreational use; and</text>
+						</subparagraph><subparagraph id="HF43B06847BB14790AF4559FCE6711507"><enum>(G)</enum><text>use of various forms of compensated and uncompensated land regulation, tax inducements, or other
+			 means to encourage the private sector to provide neighborhood park and
+			 recreation facilities and programs.</text>
+						</subparagraph></paragraph></subsection><subsection id="H5DF55342C1A142978871B3A739F5B23D"><enum>(c)</enum><header>Publication of requirements</header><text>The Secretary shall establish and publish in the Federal Register requirements for preparation,
+			 submission, and updating of local park and recreation recovery action
+			 programs required under this section.</text>
+				</subsection><subsection id="HF66E300009144B328CD1A2C3F9A0859D"><enum>(d)</enum><header>Innovation and recreation program grants for at-Risk youth</header><text>To be eligible to receive an innovation and recreation program grant under section 103(a)(2) to be
+			 used to provide recreation opportunities or programs for at-risk youth, an
+			 eligible local government shall—</text>
+					<paragraph id="H4A13D641ABF24D2BBD814D7A6ABC5753"><enum>(1)</enum><text>include in its 5-year park and recreation recovery action program required under subsection (a)(3)
+			 the goal of—</text>
+						<subparagraph id="HBA50B1141B5B4BB6A98BD2779D738530"><enum>(A)</enum><text>utilizing new ideas, concepts, and approaches aimed at improving facility design, operations, or
+			 programming in the delivery of recreation services;</text>
+						</subparagraph><subparagraph id="HF7E18CB35F8A409F9D5DDA091C533694"><enum>(B)</enum><text>increased access of therapeutic or other recreation services to veterans and military families; or</text>
+						</subparagraph><subparagraph id="H1D647DCBAC354EBEB23C1A51C5B5FC67"><enum>(C)</enum><text>reducing crime and juvenile delinquency; and</text>
+						</subparagraph></paragraph><paragraph id="H2CA3FB54B33A4C86B83E3DC1F087BECB"><enum>(2)</enum><text display-inline="yes-display-inline">provide a description of—</text>
+						<subparagraph id="HF013E367E87D431A89BC8FE9032D986A"><enum>(A)</enum><text>implementation strategies to achieve such goals; and</text>
+						</subparagraph><subparagraph id="H21C283CD5B164007B7D4E3DE6CC3DB8E"><enum>(B)</enum><text>how the local government is coordinating its recreation programs with other community development
+			 or service agencies.</text>
+						</subparagraph></paragraph></subsection></section><section id="HFED16DEB59DD4A93BCAA959ECDAD43F5"><enum>107.</enum><header>Matching of State amounts, State action incentive</header>
+				<subsection id="H60A3026AE6F841188146B4E1081898F5"><enum>(a)</enum><header>Increase in grant amounts</header><text display-inline="yes-display-inline">The Secretary may increase Federal rehabilitation and construction, innovation, and at-risk youth
+			 recreation grants authorized in section 103(a) by providing an additional
+			 match equal to the total match provided by a State of up to 15 percent of
+			 total project or program costs, except that in no event may—</text>
+					<paragraph id="H16B82BB90E08462CAF15DA03FB438BC4"><enum>(1)</enum><text display-inline="yes-display-inline">such additional grant amount exceed 15 percent of the total project or program cost; or</text>
+					</paragraph><paragraph id="HE244B968843840F3B9176E9A2992FA42"><enum>(2)</enum><text>the aggregate amount of the grant and the additional grant amounts under this subsection exceed 85
+			 percent of total project or program cost.</text>
+					</paragraph></subsection><subsection id="HE85352C42BE5470C8A7F06DAB6F248CA"><enum>(b)</enum><header>State action incentive</header><text>The Secretary shall further encourage the States to assist in assuring that local recovery plans
+			 and programs are adequately implemented by cooperating with the Department
+			 of Housing and Urban Development in monitoring local park and recreation
+			 recovery action programs and in assuring consistency of such plans and
+			 programs, where appropriate, with State recreation policies as set forth
+			 in statewide comprehensive outdoor recreation plans.</text>
+				</subsection></section><section id="H4186802F5BF64EFA854AC9A48D9BF75B"><enum>108.</enum><header>Conversion of recreation property</header>
+				<subsection id="HB5B988FA644B46FA9F465F03B0E4338E"><enum>(a)</enum><header>No conversion without approval</header><text display-inline="yes-display-inline">No property improved or developed with assistance under a grant under this title may be converted
+			 for uses other than for public recreation, without the approval of the
+			 Secretary.</text>
+				</subsection><subsection id="H98C5590DC994494E8BE9CC14475C9187"><enum>(b)</enum><header>Standard for approval</header><text>The Secretary may approve such conversion only—</text>
+					<paragraph id="HB504DBBD40294512B9106C7E115098C9"><enum>(1)</enum><text>if the Secretary determines the conversion to be consistent with the current local park and
+			 recreation recovery action program for the local government that improved
+			 or developed the property; and</text>
+					</paragraph><paragraph id="H87CBFDD1ED614DD6B2A91EE40B3D37B0"><enum>(2)</enum><text>subject to such conditions as the Secretary determines necessary to ensure the provision of
+			 adequate recreation properties and opportunities of reasonably equivalent
+			 location and usefulness.</text>
+					</paragraph></subsection></section><section id="H4FDD7280AFCC4A52B82729BE67F60F29"><enum>109.</enum><header>Coordination of program</header><text display-inline="no-display-inline">The Secretary shall—</text>
+				<paragraph id="H9D99815D0EE04110A0EA3F43A63460BE"><enum>(1)</enum><text>coordinate the community parks revitalization program for grants under this title with other
+			 Federal departments and agencies and with State agencies that administer
+			 programs and policies affecting urban areas such as the White House Office
+			 of Urban Policy and departments that administer programs and policies
+			 affecting climate change, green jobs, housing, urban development, natural
+			 resources management, employment, transportation, community services, and
+			 voluntary action;</text>
+				</paragraph><paragraph id="HDC16655A051C4DED81A7647DBB6C6BA0"><enum>(2)</enum><text>encourage maximum coordination of the program between appropriate State agencies and local
+			 government applicants; and</text>
+				</paragraph><paragraph id="HB044C4A283FA4D86B60C4585ACFFA736"><enum>(3)</enum><text>require that local government applicants include provisions for participation of community and
+			 neighborhood residents, including youth, and for public-private
+			 coordination in recovery action program planning and project selection.</text>
+				</paragraph></section><section id="HF24C86A1EFF3493BAF701BA341B64379"><enum>110.</enum><header>Reports; recordkeeping; audit and examination</header>
+				<subsection id="H886DA28A57FD4EA6989060E91B4059F8"><enum>(a)</enum><header>Reports</header><text>Each recipient of assistance under this title shall submit to the Secretary, for each fiscal year
+			 such assistance is received, an annual report detailing the projects and
+			 programs undertaken with such assistance, the number of jobs created by
+			 such assistance, and any other information the Secretary determines
+			 appropriate based on the priority criteria established by the Secretary
+			 under sections 105 and 106.</text>
+				</subsection><subsection id="H5DEEF824BFB141AE8C7680F5C93A4D85"><enum>(b)</enum><header>Recordkeeping</header><text>Each recipient of assistance under this title shall keep such records as the Secretary shall
+			 prescribe, including records that fully disclose the amount and
+			 disposition of project or program undertakings in connection with which
+			 assistance under this title is given or used, and the amount and nature of
+			 that portion of the cost of the project or program undertaking supplied by
+			 other sources, and such other records as will facilitate an effective
+			 audit.</text>
+				</subsection><subsection id="HBCC30407DF864FDEB913422C5F839515"><enum>(c)</enum><header>Audit and examination</header><text>The Secretary and the Comptroller General of the United States, or their duly authorized
+			 representatives, shall have access, for the purpose of audit and
+			 examination, to any books, documents, papers, and records of a recipient
+			 of assistance under this title that are pertinent to such assistance.</text>
+				</subsection></section><section id="HEFA185D2D163413AB09A1BCF12651D91"><enum>111.</enum><header>Reports to Congress</header>
+				<subsection id="H1A3C7C1610D2489FAFE010C71C04749D"><enum>(a)</enum><header>Interim report</header><text>Not later than 5 years after the date of enactment of this Act, the Secretary shall submit to the
+			 Congress an interim report containing such findings and recommendations as
+			 the Secretary determines appropriate with respect to the community parks
+			 revitalization program established pursuant to this title.</text>
+				</subsection><subsection id="H3308D93E27C447BC88779774EF97B659"><enum>(b)</enum><header>Final report</header><text display-inline="yes-display-inline">Not later than 10 years after the date of enactment of this Act, the Secretary shall submit to
+			 Congress a report describing the overall impact of the community parks
+			 revitalization program established pursuant to this title.</text>
+				</subsection></section><section id="H6E67FD41090C4C6891B0A6905186DEA3"><enum>112.</enum><header>Definitions</header><text display-inline="no-display-inline">In this title, the following definitions shall apply:</text>
+				<paragraph id="H7F41B1F5BAE8441AA912D522DCA65AAC"><enum>(1)</enum><text>The term <quote>eligible local government</quote> means a local government that, pursuant to section 103(b), is eligible for a grant under section
+			 103(a).</text>
+				</paragraph><paragraph id="H600CB04E1E394E368020002F4B9EE00E"><enum>(2)</enum><text>The term <quote>insular areas</quote> means Guam, the Virgin Islands, American Samoa, and the Northern Mariana Islands.</text>
+				</paragraph><paragraph id="H009EA929F608470D9B76664EB43C3EB8"><enum>(3)</enum><text>The term <quote>local government</quote> means any city, county, town, township, parish, village, or any local or regional special
+			 district, such as a park district, conservation district, or park
+			 authority.</text>
+				</paragraph><paragraph id="H3FC45B5377224FA0A0263C71B9C3382B"><enum>(4)</enum><text>The term <quote>maintenance</quote> means all commonly accepted practices necessary to keep recreational areas and facilities
+			 operating in a state of good repair and to protect such areas and
+			 facilities from deterioration resulting from normal wear and tear.</text>
+				</paragraph><paragraph id="H86E6A1A3621444129800559D06D0429F"><enum>(5)</enum><text>The term <quote>private nonprofit agency</quote> means a community-based, non-profit organization, corporation, or association organized for
+			 purposes of providing recreation, conservation, and educational services
+			 directly to urban residents on either a neighborhood or community-wide
+			 basis through voluntary donations, voluntary labor, or public or private
+			 grants.</text>
+				</paragraph><paragraph id="H8B523A12D77A4F6F967E1BF8D1470A7A"><enum>(6)</enum><text>The term <quote>recreational areas and facilities</quote> means indoor or outdoor parks, buildings, sites, or other facilities that are dedicated to
+			 recreation purposes and administered by public or private nonprofit
+			 agencies to serve the recreation needs of community residents, with
+			 emphasis on public facilities readily accessible to residential
+			 neighborhoods, including multiple-use community centers that have
+			 recreation as a primary purpose, but not including major sports arenas,
+			 exhibition areas, and conference halls used primarily for commercial
+			 sports, spectator, or display activities.</text>
+				</paragraph><paragraph id="HCC7EF530007E493AA3D19D930F118132"><enum>(7)</enum><text>The term <quote>Secretary</quote> means the Secretary of Housing and Urban Development.</text>
+				</paragraph><paragraph id="H2285EBB7B9CE45ABB812788D7C8CDF24"><enum>(8)</enum><text>The term <quote>State</quote> means any State of the United States (or any instrumentality of a State approved by the Governor),
+			 the District of Columbia, and the Commonwealth of Puerto Rico.</text>
+				</paragraph></section><section id="HECE61F2DCAE843739BCC2E3DBB5F105C"><enum>113.</enum><header>Regulations</header>
+				<subsection id="HB8B604D8A6AA45FB86989BEA64FEB422"><enum>(a)</enum><header>Regulations</header><text>Not later than 180 days after the date of the enactment of this Act, the Secretary shall promulgate
+			 regulations establishing the community parks revitalization program under
+			 this title to provide the grants authorized in section 103(a), in
+			 accordance with this title.</text>
+				</subsection><subsection id="H2399C0144AAC49D0AF070C1C4AF866C3"><enum>(b)</enum><header>Requirements</header><text>The regulations required under this section shall include—</text>
+					<paragraph id="H5AAF619FA6B04BBF8C8F00F18ACF583C"><enum>(1)</enum><text>the criteria necessary to carry out sections 104, 105, and 106;</text>
+					</paragraph><paragraph id="HCBF27FDD96324864A8C4704F82E28FD7"><enum>(2)</enum><text>requirements regarding the form of, and elements to be included in, applications by eligible local
+			 governments for grants under this title, requirements for and detailed
+			 instructions on the process for submitting such applications, and
+			 deadlines for such applications;</text>
+					</paragraph><paragraph id="HA729457135744ACCBE6D440586AB7A72"><enum>(3)</enum><text>criteria pursuant to sections 104(a) and 105(a) for priority in selection and approval by the
+			 Secretary of projects or programs to receive grant funds;</text>
+					</paragraph><paragraph id="H6BB4486E9B88480DB91E642EA2C66601"><enum>(4)</enum><text>guidelines regarding whether an applicant may modify a pending application and the process for
+			 modifying pending applications, and guidelines for submitting a request
+			 for modification of a project awarded grant funding under this title after
+			 such an award has been made; and</text>
+					</paragraph><paragraph id="HA1DBC0D9D4184AD6BDA380A08F05346B"><enum>(5)</enum><text>penalties that will be assessed on local governments awarded a grant under this title for failure
+			 to comply with the reporting and recordkeeping requirements under section
+			 110, which shall provide penalties up to and including rescission of grant
+			 amounts for repetitive violations.</text>
+					</paragraph></subsection></section><section id="H60792DE8C7FF4F258BCEAF76C84A94A0"><enum>114.</enum><header>Authorization of appropriations</header>
+				<subsection id="H72D857AC080A478B96E8CBCE04AAF9FE"><enum>(a)</enum><header>In general</header><text>There are authorized to be appropriated such sums as may be necessary to carry out this title for
+			 each of fiscal years 2015 through 2024.</text>
+				</subsection><subsection id="HF5444E3ACB734680AF42488B979EBDB0"><enum>(b)</enum><header>Limitation on innovation and recreation program grants</header><text>Not more than 10 percent of any amounts appropriated pursuant to subsection (a) of this section in
+			 any fiscal year may be used for grants under section 103(a)(2).</text>
+				</subsection><subsection id="H1FDA6458BBBA4AFDAFEB77C0D8E14C34"><enum>(c)</enum><header>Limitation on recovery action program grants</header><text display-inline="yes-display-inline">Not more than 3 percent of any amounts appropriated pursuant to subsection (a) of this section in
+			 any fiscal year may be used for grants under section 103(a)(3).</text>
+				</subsection><subsection id="HA569CADE67DA482C9244CE8BDF02EBA8"><enum>(d)</enum><header>Grants for insular areas</header><text>Notwithstanding any other provision of this title, the Secretary may use not more than 2 percent of
+			 any amounts appropriated pursuant to subsection (a) in any fiscal year may
+			 to provide rehabilitation and construction grants under section 103(a)(1),
+			 innovation and recreation program grants under section 103(a)(2), and
+			 recovery action program grants under section 103(a)(3) to be used in the
+			 insular areas. Any such grants shall not be subject to sections 103(c) and
+			 107(a) (relating to matching amounts), and may only be subject to such
+			 conditions, reports, plans, and agreements, if any, as determined by the
+			 Secretary.</text>
+				</subsection></section></title><title id="H9E77FDE692754432B14941F2BEE40559"><enum>II</enum><header>Secured loans and loan guarantees for parks and recreation infrastructure development</header>
+			<section id="H36D37D6A01C34F0796BEA102705ACF71"><enum>201.</enum><header>Purposes</header><text display-inline="no-display-inline">The purposes of this title are—</text>
+				<paragraph id="H758DAB8A9AE04E7183BAD9A3C509FFA3"><enum>(1)</enum><text>to promote increased development of parks and recreation infrastructure by establishing additional
+			 opportunities for financing parks and recreation projects;</text>
+				</paragraph><paragraph id="H8FDE5089A10C4025BD0B496024203A05"><enum>(2)</enum><text>to attract new investment capital to infrastructure projects that are capable of generating revenue
+			 streams through user fees or other dedicated funding sources;</text>
+				</paragraph><paragraph id="H85CCE38FD12A49DAB93892B8F78618C6"><enum>(3)</enum><text>to complement existing Federal funding sources and address budgetary constraints on the National
+			 Park Service; and</text>
+				</paragraph><paragraph id="HB12346C091604B9CABDD1B0B3FD5E624"><enum>(4)</enum><text>to leverage private investment in parks and recreation infrastructure.</text>
+				</paragraph></section><section id="HCE90874F8BC34CBD89E29AF31B5932DC"><enum>202.</enum><header>Authority to provide assistance</header><text display-inline="no-display-inline">The Secretary of Housing and Urban Development may provide financial assistance under section 208
+			 to eligible entities to carry out parks and infrastructure projects
+			 selected for such assistance pursuant to section 207.</text>
+			</section><section id="H6A58805F1C694B219965F86A7A9837A5"><enum>203.</enum><header>Eligible entities</header><text display-inline="no-display-inline">Financial assistance under section 208 may be provided only to the following entities:</text>
+				<paragraph id="HCD376C651D0A48F2BC7C1F03F52699C8"><enum>(1)</enum><text>A corporation.</text>
+				</paragraph><paragraph id="HB1E0E96013584B6FBDED27F109A861F3"><enum>(2)</enum><text>A partnership.</text>
+				</paragraph><paragraph id="H30CAF3CDF4CC4F0D87F3E7B4960DD835"><enum>(3)</enum><text>A joint venture.</text>
+				</paragraph><paragraph id="HDB9ACE5243F6461A8421CCDE9FD8B51F"><enum>(4)</enum><text>A trust.</text>
+				</paragraph><paragraph id="HCC4C968A684547158F8C79F7CEDFB1D6"><enum>(5)</enum><text>A Federal, State, or local governmental entity, agency, or special purpose park and recreation
+			 district.</text>
+				</paragraph><paragraph id="HCFF7419B807B4DD49BC2D4E0008E7714"><enum>(6)</enum><text>A State infrastructure financing authority.</text>
+				</paragraph></section><section id="H4CCF1E57D7F74F6392B1F2D78939E059"><enum>204.</enum><header>Projects eligible for assistance</header><text display-inline="no-display-inline">Financial assistance may be provided under section 208, subject to section 207, only for the
+			 following types of projects:</text>
+				<paragraph id="HFE66BD83F2264A3DA8374A0D50A38280"><enum>(1)</enum><text>A project for the development of indoor or outdoor parks, buildings, sites, or other facilities
+			 that are dedicated to recreation purposes and administered by public or
+			 private nonprofit agencies to serve the recreation needs of community
+			 residents, including multiple-use community centers that have recreation
+			 as a primary purpose, but not including major sports arenas, exhibition
+			 areas, and conference halls used primarily for commercial sports,
+			 spectator, or display activities.</text>
+				</paragraph><paragraph id="HFD6D064D05AE4E7FA8FCDCCDAE740EDC"><enum>(2)</enum><text>A project for the construction, planning, and design of on-road and off-road trail facilities for
+			 pedestrians, bicyclists, and other nonmotorized forms of transportation,
+			 including sidewalks, bicycle infrastructure, pedestrian and bicycle
+			 signals, traffic calming techniques, lighting and other safety-related
+			 infrastructure, and transportation projects to achieve compliance with the
+			 Americans with Disabilities Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/42/12101">42 U.S.C. 12101 et seq.</external-xref>).</text>
+				</paragraph><paragraph id="H324923BEAFA24F2CBDFD71C64C566872"><enum>(3)</enum><text>A project for the construction, planning, and design of infrastructure-related projects and systems
+			 that will provide safe routes for non-drivers, including children, older
+			 adults, and individuals with disabilities to access daily needs.</text>
+				</paragraph><paragraph id="H8FA885805A7544D99EB8813D1F26F8EA"><enum>(4)</enum><text>A project for the conversion and use of abandoned railroad corridors for trails for pedestrians,
+			 bicyclists, or other nonmotorized transportation users.</text>
+				</paragraph><paragraph id="H632D46C960B74985908A3F32B3253E83"><enum>(5)</enum><text>A project for the construction of turnouts, overlooks, and viewing areas.</text>
+				</paragraph></section><section id="HF3C8D16A3D9344BCA2C08A551DA95D1D"><enum>205.</enum><header>Activities eligible for assistance</header><text display-inline="no-display-inline">Amounts from a loan made or guaranteed under section 208 provided for an eligible project may be
+			 used for costs of carrying out such project, including costs of—</text>
+				<paragraph id="H7566945448F841DB91D7DE93186F684C"><enum>(1)</enum><text>development-phase activities, including planning, feasibility analysis, revenue forecasting,
+			 environmental review, permitting, preliminary engineering and design work,
+			 and other preconstruction activities;</text>
+				</paragraph><paragraph id="H3B31CCEA495A421EA293F8ED544E2947"><enum>(2)</enum><text>construction, reconstruction, rehabilitation, preservation, and replacement activities;</text>
+				</paragraph><paragraph id="HB714B42800D5450BAB02328F6CDA2B15"><enum>(3)</enum><text>the acquisition of real property (including water rights, land relating to the project, and
+			 improvements to land), environmental mitigation, construction
+			 contingencies, and acquisition of equipment;</text>
+				</paragraph><paragraph id="HC8A852BCE7AC4CFDBC5BC1B7A6ACD745"><enum>(4)</enum><text>capitalized interest necessary to meet market requirements, reasonably required reserve funds,
+			 capital issuance expenses, and other carrying costs during construction;
+			 and</text>
+				</paragraph><paragraph id="HEB6440A461794D45B1ACA06151F65725"><enum>(5)</enum><text>refinancing interim construction funding, long-term project obligations, or a secured loan or loan
+			 guarantee made under this title.</text>
+				</paragraph></section><section id="HD3EF5A0120B848CEAFF1FA92510EE08F"><enum>206.</enum><header>Applications</header>
+				<subsection id="H8842CEE2CC0C43A6A55C839C1ED3ED35"><enum>(a)</enum><header>In general</header><text>The Secretary shall provide for eligible entities to submit applications for selection of eligible
+			 projects to receive financial assistance under section 208, at such time,
+			 in such manner, and containing such information as the Secretary may
+			 require.</text>
+				</subsection><subsection id="HEE653065CDD348C0B2CEE718D91A3CD4"><enum>(b)</enum><header>Combined projects</header><text>The Secretary shall provide that in the case only of an eligible entity described in section
+			 203(6), such an entity may submit a single application for a combination
+			 of projects, each of which is an eligible project under paragraphs (1)
+			 through (5) of section 205.</text>
+				</subsection></section><section id="HB60C63D36F50456E983213A402DB0BAB"><enum>207.</enum><header>Determination of eligibility and project selection</header>
+				<subsection id="H1065C966C0F34EB5A2457BB8122AE65D"><enum>(a)</enum><header>Selection of projects</header><text display-inline="yes-display-inline">Using the selection criteria under subsection (c) of this section, the Secretary shall select, from
+			 applications submitted pursuant to section 206, eligible projects that
+			 meet the criteria under subsection (b) of this section for financial
+			 assistance under section 208.</text>
+				</subsection><subsection id="H3370925B949D4AC09FBB363518CDDEF0"><enum>(b)</enum><header>Project requirements</header><text>An eligible project may not be selected to receive financial assistance under section 208 unless
+			 the Secretary determines that the project meets all of the following
+			 criteria:</text>
+					<paragraph id="H38A02FB0D7254718B56D4958AE678142"><enum>(1)</enum><header>Creditworthiness</header>
+						<subparagraph id="HEC25F5F913954E5983C754562C33B709"><enum>(A)</enum><header>In general</header><text>Subject to subparagraph (B), the project shall be creditworthy, as determined by the Secretary as
+			 applicable, to shall ensure that any financing for the project has
+			 appropriate security features, such as a rate covenant, to ensure
+			 repayment.</text>
+						</subparagraph><subparagraph id="H3056CF988EE84F238EB823CA1F172D5F"><enum>(B)</enum><header>Preliminary rating opinion letter</header><text>The Secretary shall require the applicant for each project to provide, as part of the application
+			 for the project under section 206, a preliminary rating opinion letter
+			 from at least one rating agency indicating that the senior project
+			 obligations of the project (which may be the Federal credit instrument)
+			 have the potential to achieve an investment-grade rating.</text>
+						</subparagraph><subparagraph id="HC57049F2674C48A0B4E12BFF36CA18AF"><enum>(C)</enum><header>Special rule for certain combined projects</header><text>The Secretary shall develop a credit evaluation process for a Federal credit instrument provided to
+			 a State infrastructure financing authority for a project described in
+			 section 206(b), which may include requiring the provision of a preliminary
+			 rating opinion letter from at least one rating agency.</text>
+						</subparagraph></paragraph><paragraph id="H299345E0DF4B401ABF2BD96D76965438"><enum>(2)</enum><header>Eligible project costs</header><text>The costs of the eligible project shall be reasonably anticipated to be not less than $20,000,000.</text>
+					</paragraph><paragraph id="HF9C40BA4CD4A4D028F9BF61AF0E2157A"><enum>(3)</enum><header>Dedicated revenue sources</header><text>The Federal credit instrument for the project shall be repayable, in whole or in part, from
+			 dedicated revenue sources that also secure the project obligations.</text>
+					</paragraph><paragraph id="H07657320F10A4B959CE4462F545876AE"><enum>(4)</enum><header>Public sponsorship of private entities</header><text>In the case of a project carried out by an entity that is not a State or local government or an
+			 agency or instrumentality of a State or local government, the project
+			 shall be publicly sponsored.</text>
+					</paragraph></subsection><subsection id="HF9C7FE7B30C347BCA0DB76692142A4C0"><enum>(c)</enum><header>Selection criteria</header>
+					<paragraph id="H08CDDE76C12048CCAF04750A7C05D6BB"><enum>(1)</enum><header>Establishment</header><text display-inline="yes-display-inline">The Secretary shall establish criteria for the selection of projects that meet the eligibility
+			 requirements of subsection (b). Such criteria shall be designed to ensure
+			 a diversity of project types and geographical locations, and shall include
+			 the following:</text>
+						<subparagraph id="HD9CBC60DEB274DB3B1BF928B9CA2B853"><enum>(A)</enum><text>The extent to which the project is statewide or regionally significant, with respect to the
+			 generation of increased recreational opportunities.</text>
+						</subparagraph><subparagraph id="H421BED2237A041E5A1EDA127A5B8467F"><enum>(B)</enum><text>The extent to which assistance under this title would foster innovative public-private partnerships
+			 and attract private debt or equity investment.</text>
+						</subparagraph><subparagraph id="H7B153186A8904A5D97DC7724CDBC54AB"><enum>(C)</enum><text>The likelihood that assistance under this title would enable the project to proceed at an earlier
+			 date than the project would otherwise be able to proceed.</text>
+						</subparagraph><subparagraph id="HD822CA25A9874A549AEAEC07806AA7ED"><enum>(D)</enum><text>The extent to which the project uses new or innovative approaches.</text>
+						</subparagraph><subparagraph id="H8E6A9FBC441B465EAC48D30E017E78E3"><enum>(E)</enum><text>The amount of budget authority required to fund the Federal credit instrument for the project made
+			 available under this title.</text>
+						</subparagraph><subparagraph id="H3E10CF5764C94206B80E8C3A0F0DEE2B"><enum>(F)</enum><text>The extent to which the project helps maintain or protect the environment.</text>
+						</subparagraph><subparagraph id="H01CC4FB61BDB4AA5A21163638643CE1C"><enum>(G)</enum><text>The extent to which assistance under this section reduces the contribution of Federal grant
+			 assistance to the project.</text>
+						</subparagraph></paragraph><paragraph id="HCFEAD5131CE64AF388D531D303BEAD8C"><enum>(2)</enum><header>Special rule for certain combined projects</header><text>For a project described in section 206(b), the Secretary shall only consider the criteria described
+			 in subparagraphs (B) through (G) of paragraph (1).</text>
+					</paragraph></subsection><subsection id="H9E92995B69CC4E91BCD15BF20B357091"><enum>(d)</enum><header>Federal requirements</header><text>Nothing in this section may be construed to alter, affect, or annul the applicability of any other
+			 Federal laws or regulations.</text>
+				</subsection></section><section id="H46D59385FE1F4DB1B427BB7C48A1A917"><enum>208.</enum><header>Secured loans and loan guarantees</header>
+				<subsection id="HCCA374254D9A47A58D2CF35D01CCC5C6"><enum>(a)</enum><header>Authority</header><text display-inline="yes-display-inline">The Secretary may enter into agreements with eligible entities to make, and may make, secured loans
+			 to such entities as provided under this section for eligible projects
+			 selected under section 207 for financial assistance under this section.</text>
+				</subsection><subsection id="H9AB2BD38FB2B467CB089361BA88C8918"><enum>(b)</enum><header>Use</header>
+					<paragraph id="H994E63F9CEE44882B8C173D3A36B0BA4"><enum>(1)</enum><header>In general</header><text>The proceeds of a secured loan under this section shall be used only—</text>
+						<subparagraph id="H67107B18B48144A786D783DE5AD538F0"><enum>(A)</enum><text>to finance eligible project costs of an eligible project selected under section 207;</text>
+						</subparagraph><subparagraph id="HC84B30FBDA6148099B5B9EDA14AB423B"><enum>(B)</enum><text display-inline="yes-display-inline">subject to paragraph (2) of this subsection, to refinance interim construction financing of
+			 eligible project costs of an eligible project selected under section 207;
+			 or</text>
+						</subparagraph><subparagraph id="H1F5D349013874304A06A392B50ECE1DF"><enum>(C)</enum><text>to refinance long-term project obligations or Federal credit instruments, if such refinancing
+			 provides additional funding capacity for the completion, enhancement, or
+			 expansion of a project that—</text>
+							<clause id="HBC7C348F0BF440E9A261B195D2F419C7"><enum>(i)</enum><text display-inline="yes-display-inline">is selected under section 207; or</text>
+							</clause><clause id="HE501E044500548B2B887E238FAEF5166"><enum>(ii)</enum><text>was originally financed, in whole or in part, with amounts provided other than under this title, if
+			 the project otherwise meets the requirements of section 207.</text>
+							</clause></subparagraph></paragraph><paragraph id="H043F9267404648D48D6C3648A0D97516"><enum>(2)</enum><header>Limitation on refinancing of interim construction financing</header><text>The proceeds of a secured loan under this section made for an eligible project may not be used for
+			 the purpose under paragraph (1)(B) after the expiration of the 12-month
+			 period beginning upon the date of substantial completion of the project.</text>
+					</paragraph></subsection><subsection id="H95923B9B5C33429EA7E8901563AF4332"><enum>(c)</enum><header>Risk assessment</header><text>Before entering into an agreement under this subsection for a secured loan, the Secretary, in
+			 consultation with the Director of the Office of Management and Budget and
+			 each rating agency providing a preliminary rating opinion letter under
+			 section 207(b)(1)(B), shall determine an appropriate capital reserve
+			 subsidy amount for the secured loan, taking into account each such
+			 preliminary rating opinion letter.</text>
+				</subsection><subsection id="H18109FBFFDBC4730BEFF59EFD488F4DC"><enum>(d)</enum><header>Investment-Grade rating requirement for senior obligations</header><text>The execution of a secured loan under this section shall be contingent on receipt by the senior
+			 obligations of the project of an investment-grade rating.</text>
+				</subsection><subsection id="H9557A8BB3EFC4682B874B82DD7C1B5DA"><enum>(e)</enum><header>Terms and limitations</header>
+					<paragraph id="HF105280F95804F899AA11229C5C9DFED"><enum>(1)</enum><header>Maximum amount</header><text>The amount of a secured loan under this section shall not exceed the lesser of—</text>
+						<subparagraph id="HF327DBD348D7493BA437788C2C3CFBD0"><enum>(A)</enum><text>an amount equal to 49 percent of the reasonably anticipated eligible project costs; or</text>
+						</subparagraph><subparagraph id="H6F02BD8582264436B4CC44988B5E9590"><enum>(B)</enum><text>if the secured loan does not receive an investment-grade rating, the amount of the senior project
+			 obligations of the project.</text>
+						</subparagraph></paragraph><paragraph id="HE69EF5A7BB16435DB388BC07A72D7784"><enum>(2)</enum><header>Payment</header><text>A secured loan under this section—</text>
+						<subparagraph id="HDBC76931727344EEA47DE01E17133749"><enum>(A)</enum><text>shall be payable, in whole or in part, from State or local taxes, user fees, or other dedicated
+			 revenue sources that also secure the senior project obligations of the
+			 relevant project;</text>
+						</subparagraph><subparagraph id="HF6E5599CB94441E3B048A9C97347A72F"><enum>(B)</enum><text>shall include a rate covenant, coverage requirement, or similar security feature supporting the
+			 project obligations; and</text>
+						</subparagraph><subparagraph id="H5922CBF378DD44B297BE08A1586519CB"><enum>(C)</enum><text>may have a lien on revenues described in subparagraph (A), subject to any lien securing project
+			 obligations.</text>
+						</subparagraph></paragraph><paragraph id="H93F1A59256F348DB8D93F40F427EA99B"><enum>(3)</enum><header>Interest rate</header><text>The interest rate on a secured loan under this section shall be—</text>
+						<subparagraph id="HAC014071832B4F24A253028B9013DF63"><enum>(A)</enum><text>not less than the yield on United States Treasury securities of a similar maturity to the maturity
+			 of the secured loan on the date of execution of the loan agreement; and</text>
+						</subparagraph><subparagraph id="H15128954037348BEB826EB4945D15A84"><enum>(B)</enum><text>fixed for the term of the loan.</text>
+						</subparagraph></paragraph><paragraph id="HD1D47A1B5A5C47DC828D9E3689F936DE"><enum>(4)</enum><header>Maturity date</header>
+						<subparagraph id="H5F1B60EF649F41CF87CEE4AA68D0E346"><enum>(A)</enum><header>In general</header><text>Except as provided in subparagraph (B), the final maturity date of a secured loan under this
+			 section for an eligible project shall be not later than 35 years after the
+			 date of substantial completion of the project.</text>
+						</subparagraph><subparagraph id="HC928F512831B4BA2A444D3396320598B"><enum>(B)</enum><header>Special rule for State infrastructure financing authorities</header><text>The final maturity date of a secured loan under this section made to a State infrastructure
+			 financing authority shall be not later than 35 years after the date on
+			 which loan amounts are first disbursed.</text>
+						</subparagraph></paragraph><paragraph id="H636BA60E19BA4E9AAA74DCAF45A5AB5D"><enum>(5)</enum><header>Nonsubordination</header><text>A secured loan under this section shall not be subordinated to the claims of any holder of project
+			 obligations in the event of bankruptcy, insolvency, or liquidation of the
+			 obligor.</text>
+					</paragraph><paragraph id="H705940F3256D40DA854E20116DEA2368"><enum>(6)</enum><header>Fees</header><text>The Secretary may establish fees in connection with a secured loan under this section, in amounts
+			 sufficient to cover all or a portion of the costs to the Federal
+			 Government of secured loans under this section.</text>
+					</paragraph><paragraph id="H66933FF17A894799A7351982576F0929"><enum>(7)</enum><header>Use of proceeds for payment of non-Federal share</header><text>The proceeds of a secured loan under this section may be used to pay any non-Federal share required
+			 with respect to other funding obtained for project costs, but only if such
+			 secured loan is repaid using non-Federal funds.</text>
+					</paragraph><paragraph id="H541B2A3E63A140E1A8E8C00F66D4D0C4"><enum>(8)</enum><header>Maximum Federal involvement</header><text>For any project for which assistance is provided under this title, the total amount of Federal
+			 assistance from all sources, including this title, shall not exceed 80
+			 percent of the total project cost.</text>
+					</paragraph><paragraph id="H4863DB6F994D4CD3A6866E0C45DC9ED1"><enum>(9)</enum><header>Others</header><text>A secured loan provided for a project under this section shall be subject to such other terms and
+			 conditions, and contain such covenants, representations, warranties, and
+			 requirements (including requirements for audits), as the Secretary
+			 determines to be appropriate.</text>
+					</paragraph></subsection><subsection id="HF0617C56EDF045B698FFE99ED1B186DB"><enum>(f)</enum><header>Repayment</header>
+					<paragraph id="H22FB31002DE74A4095F107EC4BC619B5"><enum>(1)</enum><header>Schedule</header><text>The Secretary shall establish a repayment schedule for each secured loan provided under this
+			 section, based on the projected cash flow from project revenues and other
+			 repayment sources.</text>
+					</paragraph><paragraph id="H195254DE3BAC4478A5662E650D5B55F7"><enum>(2)</enum><header>Commencement</header>
+						<subparagraph id="H082AD1A8557540D9A10171E6BEE17914"><enum>(A)</enum><header>In general</header><text>Except as provided in subparagraph (B), scheduled loan repayments of principal or interest on a
+			 secured loan under this section for an eligible project shall commence not
+			 later than 5 years after the date of substantial completion of the
+			 project.</text>
+						</subparagraph><subparagraph id="H83B25944931B41769AA2D195A45C115A"><enum>(B)</enum><header>Special rule for State infrastructure financing authorities</header><text>Scheduled loan repayments of principal or interest on a secured loan made under this section to a
+			 State infrastructure financing authority shall commence not later than 5
+			 years after the date on which amounts are first disbursed.</text>
+						</subparagraph></paragraph><paragraph id="H8F6793001A7740ECA9C94F9195218673"><enum>(3)</enum><header>Deferred payments</header>
+						<subparagraph id="H194C924A57FB4BC58767EA71991A7048"><enum>(A)</enum><header>Authorization</header><text>If, at any time after the date of substantial completion of a project for which a secured loan is
+			 provided under this section, the project is unable to generate sufficient
+			 revenues to pay the scheduled loan repayments of principal and interest on
+			 the loan, the Secretary may, subject to subparagraph (C), allow the
+			 obligor to add unpaid principal and interest to the outstanding balance of
+			 the secured loan.</text>
+						</subparagraph><subparagraph id="HA61A0697FF68413B95D2947746BF4A0D"><enum>(B)</enum><header>Interest</header><text>Any payment deferred pursuant to subparagraph (A) shall—</text>
+							<clause id="H1685162EF9444A37A02F3D68489ED44B"><enum>(i)</enum><text>continue to accrue interest in accordance with subsection (e)(3) until fully repaid; and</text>
+							</clause><clause id="HFC21FDDAC113415ABE2168D727D20153"><enum>(ii)</enum><text>be amortized over the remaining term of the secured loan.</text>
+							</clause></subparagraph><subparagraph id="H56F41CA362C84290BDFEEE5681FDE36F"><enum>(C)</enum><header>Criteria</header><text>Any payment deferral pursuant to subparagraph (A) shall be contingent on the project meeting—</text>
+							<clause id="HF5787AC334164CAFAE7F24B1994B0294"><enum>(i)</enum><text>standards for reasonable assurance of repayment, as the Secretary shall establish; and</text>
+							</clause><clause id="HDB3C82F2F05B478FABA1031138E0D808"><enum>(ii)</enum><text>such other criteria as the Secretary may establish.</text>
+							</clause></subparagraph></paragraph><paragraph id="HEDFE093FD4D64E3AAF349A66DABED522"><enum>(4)</enum><header>Prepayment</header>
+						<subparagraph id="H8B63DADF00E84A4DA3988136D7F96C67"><enum>(A)</enum><header>Use of excess revenues</header><text>Any excess revenues from an eligible project that remain after satisfying scheduled debt service
+			 requirements on the project obligations and secured loan and all deposit
+			 requirements under the terms of any trust agreement, bond resolution, or
+			 similar agreement securing project obligations may be applied annually to
+			 prepay a secured loan under this section without penalty.</text>
+						</subparagraph><subparagraph id="HA024E7A6110747D8BA9B80A5576C184D"><enum>(B)</enum><header>Use of proceeds of refinancing</header><text>A secured loan under this section may be prepaid at any time, without penalty, from the proceeds of
+			 refinancing from non-Federal funding sources.</text>
+						</subparagraph></paragraph></subsection><subsection id="HE3450B980FEA44AB8661191AEFAABF1A"><enum>(g)</enum><header>Sale of secured loans</header>
+					<paragraph id="H3F2F5A26203D4758AEA8E33D9A072819"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Subject to paragraph (2), if the Secretary determines that the sale or reoffering of a secured loan
+			 under this section for an eligible project can be made on favorable terms,
+			 the Secretary may sell the loan to another entity or reoffer the loan into
+			 the capital markets as soon as practicable after the date of substantial
+			 completion of a project and after providing notice to the obligor.</text>
+					</paragraph><paragraph id="HA31C21EC38BD442BA10390E4B6E2E674"><enum>(2)</enum><header>Consent of obligor</header><text>In making a sale or reoffering under paragraph (1), the Secretary may not change the original terms
+			 and conditions of the secured loan without the written consent of the
+			 obligor.</text>
+					</paragraph></subsection><subsection id="HB7B04ABA5F514B538D68114DF43BE785"><enum>(h)</enum><header>Loan guarantees</header>
+					<paragraph id="H26DD40FC9FB04B2EAB142E61D54FA148"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">In lieu of making a secured loan under this section for an eligible project, the Secretary may
+			 provide a loan guarantee for a project obligation for the project funded
+			 by a qualified lender (as such term is defined in section 211), but only
+			 if the Secretary determines that the cost as such term is defined in
+			 section 502 of the Federal Credit Reform Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/2/661a">2 U.S.C. 661a</external-xref>) of
+			 the loan guarantee is substantially the same as or less than that of
+			 making a secured loan.</text>
+					</paragraph><paragraph id="H8B9B1954B6A949CB86DE1AAE8941A7C9"><enum>(2)</enum><header>Terms</header><text>The terms of a loan guarantee provided under this subsection shall be consistent with the terms
+			 established in this section for a secured loan, except that the interest
+			 rate on the guaranteed loan and any prepayment features shall be
+			 negotiated between the obligor and the qualified lender, subject to the
+			 consent of the Secretary.</text>
+					</paragraph></subsection></section><section id="H4FA24761FC6F45498A9CD8779F680ABF"><enum>209.</enum><header>Program administration</header>
+				<subsection id="HC6AEF3FB248F45829B52CE4162D5B1A0"><enum>(a)</enum><header>Requirement</header><text>The Secretary shall establish a uniform system to service the Federal credit instruments made
+			 available under this title.</text>
+				</subsection><subsection id="HB1B52FF44926404AAC140BDF15732D52"><enum>(b)</enum><header>Fees</header>
+					<paragraph id="HEFCB609DA8D14518BD2D42B11EB543E9"><enum>(1)</enum><header>In general</header><text>The Secretary may collect and spend fees, to the extent provided in advance in appropriations Acts,
+			 in amounts sufficient to cover—</text>
+						<subparagraph id="H81661FEC3C3E4D90A69193DBBAEA1477"><enum>(A)</enum><text>the costs of services obtained pursuant to subsection (d); and</text>
+						</subparagraph><subparagraph id="H27B5F2F8FF2D49F9B019538A5395D047"><enum>(B)</enum><text>all or a portion of the costs to the Federal Government of servicing the Federal credit instruments
+			 provided under this title.</text>
+						</subparagraph></paragraph></subsection><subsection id="HF0CEA1741F5F4C77B882EA8AA89935B5"><enum>(c)</enum><header>Servicer</header>
+					<paragraph id="H32DE26BF8BC24532922E1B8E1BD2BB87"><enum>(1)</enum><header>In general</header><text>The Secretary may appoint a financial entity to assist the Secretary in servicing Federal credit
+			 instruments provided under this title.</text>
+					</paragraph><paragraph id="HD7D8BC0A526942AD98A47640E4F0C9FF"><enum>(2)</enum><header>Duties</header><text>A servicer appointed under paragraph (1) shall act as the agent for the Secretary.</text>
+					</paragraph><paragraph id="H625E3A19929C4CEF961E2DBAC9D3706E"><enum>(3)</enum><header>Fee</header><text>A servicer appointed under paragraph (1) shall receive a servicing fee, subject to approval by the
+			 Secretary.</text>
+					</paragraph></subsection><subsection id="HE366EA270EC5445FA3F72D52F2305A35"><enum>(d)</enum><header>Assistance from experts</header><text>The Secretary may retain the services, including counsel, of organizations and entities with
+			 expertise in the field of municipal and project finance to assist in the
+			 underwriting and servicing of Federal credit instruments provided under
+			 this title.</text>
+				</subsection></section><section id="H53BC4F8F0BED484BAF488F0CBD71EFC4"><enum>210.</enum><header>State and local permits</header><text display-inline="no-display-inline">The provision of financial assistance under section 208 for an eligible project shall not—</text>
+				<paragraph id="H8F764B2B872F44E09AA00D6B180AFC47"><enum>(1)</enum><text>relieve any recipient of such assistance of any obligation to obtain any required State or local
+			 permit or approval with respect to the project;</text>
+				</paragraph><paragraph id="H310067D51C03490CB1BBCEF208A98C57"><enum>(2)</enum><text>limit the right of any unit of State or local government to approve or regulate any rate of return
+			 on private equity invested in the project; or</text>
+				</paragraph><paragraph id="HDEBAB6375C7A4DE2B9F01C360079D25A"><enum>(3)</enum><text>otherwise supersede any State or local law or regulation applicable to the construction or
+			 operation of the project.</text>
+				</paragraph></section><section id="HCB4FB41CFC774294BCDFD4512FF59072"><enum>211.</enum><header>Definitions</header><text display-inline="no-display-inline">In this title, the following definitions shall apply:</text>
+				<paragraph id="H7594165795B54D809432FC9770E4237D"><enum>(1)</enum><header>Commercial sports</header><text>The term <quote>commercial sport</quote> means a sports enterprise of which profit-making forms a major part.</text>
+				</paragraph><paragraph id="H9EBEFEAB049A43FB8853E84A55F5F013"><enum>(2)</enum><header>Eligible entity</header><text>The term <quote>eligible entity</quote> means an entity eligible pursuant to section 203 to receive financial assistance under section
+			 208.</text>
+				</paragraph><paragraph id="HF8B80471812E43D09A8ECA44BDCE87F2"><enum>(3)</enum><header>Eligible project</header><text>The term <quote>eligible project</quote> means a project for which financial assistance under section 208 may be provided, pursuant to
+			 section 204.</text>
+				</paragraph><paragraph id="H126A8D70C5F74B7AA8192BD1A58097BF"><enum>(4)</enum><header>Eligible project costs</header><text>The term <quote>eligible project costs</quote> means, with respect to an eligible project, any costs of the project eligible under section 205 to
+			 be paid with amounts from a loan made or guaranteed pursuant to section
+			 208.</text>
+				</paragraph><paragraph id="H7EEC6E7F0E7840FCAFC57175C55CEAD2"><enum>(5)</enum><header>Federal credit instrument</header><text>The term <quote>Federal credit instrument</quote> means a secured loan made, or loan guarantee provided, under section 208.</text>
+				</paragraph><paragraph id="H46E382E9DC3E42C1BF26AC8058127D71"><enum>(6)</enum><header>Investment-grade rating</header><text>The term <quote>investment-grade rating</quote> means, with respect to project obligations, a rating of BBB minus, Baa3, bbb minus, BBB (low), or
+			 higher as assigned by a rating agency.</text>
+				</paragraph><paragraph commented="no" id="H31682A10EA0545A6B50E4D1B5F3420EB"><enum>(7)</enum><header>Loan guarantee</header><text display-inline="yes-display-inline">The term <quote>loan guarantee</quote> means any guarantee or other pledge by the Secretary to pay all or part of the principal of, and
+			 interest on, a loan or other debt obligation.</text>
+				</paragraph><paragraph commented="no" id="HF0B65ED232754B3999B7E22FC9C6112E"><enum>(8)</enum><header>Obligor</header><text display-inline="yes-display-inline">The term <quote>obligor</quote> means—</text>
+					<subparagraph id="HCED071E0E7E34D19A9A233DBD90DFFB1"><enum>(A)</enum><text>with respect to a Federal credit instrument that is a secured loan under section 208, the eligible
+			 entity that is primarily liable for payment of the principal of, or
+			 interest on, the loan; and</text>
+					</subparagraph><subparagraph id="H0BC89CA60CDD4E54A3C0B6AD96CABA88"><enum>(B)</enum><text>with respect to a Federal credit instrument that is a loan guarantee under section 208(h), the
+			 eligible entity that is primarily liable for payment of the loan or other
+			 debt obligation repayment of which is guaranteed pursuant to such section.</text>
+					</subparagraph></paragraph><paragraph id="H8686768533F74229B53FF2DDB40A5FEF"><enum>(9)</enum><header>Project obligation</header><text>The term <quote>project obligation</quote> means, with respect to an eligible project, any note, bond, debenture, or other debt obligation
+			 issued by an obligor in connection with the financing of the project. Such
+			 term does not include a Federal credit instrument.</text>
+				</paragraph><paragraph id="H154077FFE3704AA683E76E51C9A1A0CB"><enum>(10)</enum><header>Qualified lender</header>
+					<subparagraph id="HFE316712872F4A66A8B2F0027D3CD04D"><enum>(A)</enum><header>In general</header><text>The term <quote>qualified lender</quote> means any non-Federal qualified institutional buyer, as such term is defined in section
+			 230.144A(a) of title 17, Code of Federal Regulations (or any successor
+			 regulation), known as Rule 144A(a) of the Securities and Exchange
+			 Commission and issued under the Securities Act of 1933 (15 U.S.C. 77a et
+			 seq.).</text>
+					</subparagraph><subparagraph id="H24241730E69B4E4F8E0EBE81CBA65226"><enum>(B)</enum><header>Inclusions</header><text>Such term includes—</text>
+						<clause id="H8F168C00A7C5490CAE1AD89F263E9350"><enum>(i)</enum><text>a qualified retirement plan (as defined in <external-xref legal-doc="usc" parsable-cite="usc/26/4974">section 4974(c)</external-xref> of the Internal Revenue Code of 1986)
+			 that is a qualified institutional buyer; and</text>
+						</clause><clause id="H57E695DDC75B42408DD0188127E9B54C"><enum>(ii)</enum><text>a governmental plan (as defined in <external-xref legal-doc="usc" parsable-cite="usc/26/414">section 414(d)</external-xref> of the Internal Revenue Code of 1986) that is a
+			 qualified institutional buyer.</text>
+						</clause></subparagraph></paragraph><paragraph id="H1D7F7DF7A8474AA1B66B898623AAEBFC"><enum>(11)</enum><header>Rating agency</header><text>The term <quote>rating agency</quote> means a credit rating agency registered with the Securities and Exchange Commission as a
+			 nationally recognized statistical rating organization (as defined in
+			 section 3(a) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c(a)</external-xref>)).</text>
+				</paragraph><paragraph id="H69A0E4D1DE474089855ABA5A462C0654"><enum>(12)</enum><header>Secretary</header><text>The term <quote>Secretary</quote> means the Secretary of Housing and Urban Development.</text>
+				</paragraph><paragraph id="H84C37F79CD0544389000790FF1E6B93B"><enum>(13)</enum><header>Secured loan</header><text>The term <quote>secured loan</quote> means a direct loan or other debt obligation issued by an obligor and funded by the Secretary
+			 pursuant to section 208.</text>
+				</paragraph><paragraph id="H040BD848CB0A4021B339CBE4BBD29A40"><enum>(14)</enum><header>State</header><text>The term <quote>State</quote> means a State, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory
+			 or possession of the United States.</text>
+				</paragraph><paragraph id="H29D0DA391A8C4AAE9939FA71A1A10470"><enum>(15)</enum><header>State infrastructure financing authority</header><text>The term <quote>State infrastructure financing authority</quote> means the State entity established or designated by the Governor of a State to receive assistance
+			 under this title.</text>
+				</paragraph><paragraph commented="no" id="H6F5812C67C524D74952535C6F0114E7D"><enum>(16)</enum><header>Subsidy amount</header><text display-inline="yes-display-inline">The term <quote>subsidy amount</quote> means, with respect to a Federal credit instrument, the amount of budget authority sufficient to
+			 cover the estimated long-term cost to the Federal Government of the
+			 Federal credit instrument, as calculated on a net present value basis,
+			 excluding administrative costs and any incidental effects on governmental
+			 receipts or outlays in accordance with the Federal Credit Reform Act of
+			 1990 (<external-xref legal-doc="usc" parsable-cite="usc/2/661">2 U.S.C. 661 et seq.</external-xref>).</text>
+				</paragraph><paragraph id="HBD579A3FF3FF44A5A9009E7DB8E8A88F"><enum>(17)</enum><header>Substantial completion</header><text>The term <quote>substantial completion</quote> means, with respect to a project, the earliest date on which a project is considered capable of
+			 performing the functions for which the project is designed.</text>
+				</paragraph></section><section id="H9008FC6F39C44CC4B9D5538253AF4FBA"><enum>212.</enum><header>Regulations</header><text display-inline="no-display-inline">The Secretary may issue such regulations as the Secretary considers appropriate to carry out this
+			 title.</text>
+			</section><section commented="no" id="HD306F4880E404B2B90CE5857CBE422AB"><enum>213.</enum><header>Funding</header><text display-inline="no-display-inline">From amounts made available for Federal purposes under section 5 of the Land and Water Conservation
+			 Fund Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/16/460l-7">16 U.S.C. 460<italic>l</italic>–7</external-xref>), there is authorized to be
+			 appropriated to the Secretary to carry out this title $50,000,000
+			 for each of fiscal years 2015 through 2019, to remain available until
+			 expended, of which in each such fiscal year—</text>
+				<paragraph commented="no" id="HAA7AB9136CEE40ED82AB9D8EDAFE8005"><enum>(1)</enum><text>the Secretary may use for the administration of this title, including program administration under
+			 section 209, not more than $2,200,000; and</text>
+				</paragraph><paragraph commented="no" id="H52BE54EC0912493392D37AC3941FCA9A"><enum>(2)</enum><text display-inline="yes-display-inline">the remainder shall be available for costs (as such term is defined in section 502 of the Federal
+			 Credit Reform Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/2/661a">2 U.S.C. 661a</external-xref>)) of loans and loan guarantees
+			 under section 208.</text>
+				</paragraph></section><section id="H47774F2738AA4CD79BBD0B9CCFFE01F6"><enum>214.</enum><header>Report to Congress</header><text display-inline="no-display-inline">Not later than 2 years after the date of enactment of this Act, and every 2 years thereafter, the
+			 Secretary shall submit to the Congress a report summarizing the financial
+			 performance of the projects that are receiving, or have received,
+			 assistance under this title, including a recommendation as to whether the
+			 objectives of this title are being met.</text>
+			</section></title></legis-body>
+</bill>
+
+

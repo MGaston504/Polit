@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H421AFD270E1D44D49236F6057C0D486F" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1216 IH: Maker-Taker Conflict of Interest Reform Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>114th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 1216</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150303">March 3, 2015</action-date> 
+<action-desc><sponsor name-id="L000562">Mr. Lynch</sponsor> (for himself, <cosponsor name-id="C001037">Mr. Capuano</cosponsor>, <cosponsor name-id="E000288">Mr. Ellison</cosponsor>, and <cosponsor name-id="H000636">Mr. Hinojosa</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To require the Securities and Exchange Commission to carry out a pilot program to examine maker-taker pricing, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HC837C0CCA0DA499AA986EDE692ED38BF" style="OLC"> 
+<section id="HDCF042C1B7AF4DEA88F7DC0C7B1B92A1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Maker-Taker Conflict of Interest Reform Act of 2015</short-title></quote>. </text></section> <section id="HAAF21BC9FFE84532B2618E424331432C"><enum>2.</enum><header>Pilot program to examine maker-taker pricing</header> <subsection id="H5235121553A743E0B22F1F9D8FCD0FD6"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 90 days after the date of the enactment of this Act, the Securities and Exchange Commission shall begin a 6-month pilot program to examine of maker-taker pricing, under which the Commission shall—</text> 
+<paragraph id="H47BE443048B0495D86FF9396D0929AF6"><enum>(1)</enum><text>identify a random sample of 50 issuers (the <quote>sample group</quote>) out of the 100 issuers with the most frequently-traded securities;</text></paragraph> <paragraph id="HE6C827FEF6F540038420DFD173C86277"><enum>(2)</enum><text>during such 6-month period, prohibit the payment of rebates (or comparable inducements) on any trade of securities of the issuers in the sample group; and</text></paragraph> 
+<paragraph id="H05185DF18A5244708744F71AC65D459F"><enum>(3)</enum><text>compare the effects of such prohibition on the issuers in the sample group compared to the 50 issuers not so chosen (the <quote>control group</quote>).</text></paragraph></subsection> <subsection id="HFABDBA7F8A074A8982A0AA5C37CBDC24"><enum>(b)</enum><header>Report</header> <paragraph id="H20EE144BD98E4FF2B0AA95D089845FB9"><enum>(1)</enum><header>In general</header><text>Not later than 6 months after the end of the program required under subsection (a), the Commission shall issue a report to the Congress containing all of the findings and determinations made in carrying out such program, along with any legislative or regulatory recommendations the Commission may have.</text></paragraph> 
+<paragraph id="H805BE59B142444809CAFE171A3B9DEA1"><enum>(2)</enum><header>Factors to consider</header><text display-inline="yes-display-inline">In preparing the report required under paragraph (1), the Commission shall consider factors relevant to the impact of rebates (or comparable inducements) on equity markets, including—</text> <subparagraph id="HD197808FC3344A218DC336CB96689DDC"><enum>(A)</enum><text display-inline="yes-display-inline">whether maker-taker pricing creates a potential conflict of interest between brokers and their clients by incentivizing brokers to use routing that may be cost-effective for them, but which may not be the best method of execution for their clients;</text></subparagraph> 
+<subparagraph id="HE522914D3B0446A1B99101B982A976C7"><enum>(B)</enum><text>whether maker-taker pricing reduces, or potentially reduces, market transparency and distorts price discovery insofar as rebates and fees are not disclosed in displayed quotes, thereby causing displayed spreads to be narrower or wider than actual spreads; and</text></subparagraph> <subparagraph id="H58097CE4AF904A618AB06BA840F7A3FC"><enum>(C)</enum><text>whether maker-taker pricing compromises, or potentially compromises, efficiency and liquidity by—</text> 
+<clause id="H9DE1E9BA76FB4FE99134656AF4D65289"><enum>(i)</enum><text>contributing to increased length in exchange queues;</text></clause> <clause id="HFC917179A1DD41939D9C4E335D0C6FEC"><enum>(ii)</enum><text>causing passive market participants to trade more aggressively to access liquidity;</text></clause> 
+<clause id="H37F57A14AFA249DA82EDC4715E91A27A"><enum>(iii)</enum><text>contributing to a reduction in liquidity in times of market stress, particularly for less liquid securities;</text></clause> <clause id="HCD5FF8BFA1284A94BB39B3A3494E4611"><enum>(iv)</enum><text>incentivizing a proliferation of order types, rebates, and fees, thereby resulting in increased fragmentation of order flow; and</text></clause> 
+<clause id="HBAF14B51D30A4552AB1036DD9476F761"><enum>(v)</enum><text>fostering excessive intermediation by certain market participants that trade in part or in whole to capture rebates (or comparable inducements) or avoid fees.</text></clause></subparagraph> </paragraph></subsection> <subsection id="H3A8AB8D2AD9C4237824E6DB858AF80A1"><enum>(c)</enum><header>Commission authority</header><text display-inline="yes-display-inline">The Commission may make such adjustments to the pilot program under this section as the Commission considers necessary or appropriate to ensure that such program can provide statistically meaningful or reliable results.</text></subsection> 
+<subsection id="HE40D2933A62F45DAA9923238D95EA641"><enum>(d)</enum><header>Definitions</header><text>For purposes of this section:</text> <paragraph id="H26B2919E56FC4480929A7C7BAB755D74"><enum>(1)</enum><header>Maker-taker pricing</header><text display-inline="yes-display-inline">The term <quote>maker-taker pricing</quote> means any pricing model by any trading venue that provides rebates (or comparable inducements) or fees to market participants to either provide liquidity to, or to take liquidity from, that trading venue.</text></paragraph> 
+<paragraph id="HAD8C66C813834F0F9806D98D33F976A5"><enum>(2)</enum><header>Rebates</header><text>The term <quote>rebates</quote> means funds provided by a trading venue to certain participants in a transaction on that venue.</text></paragraph> <paragraph id="H8ACD5D1BDD0E4365BD9946311E1B51D1"><enum>(3)</enum><header>Comparable inducements</header><text>The term <quote>comparable inducements</quote> means items or services of value (other than rebates) provided by a trading venue to certain participants in a transaction on that venue, including free or reduced-cost market data, connectivity ports, co-location space, and technology services.</text></paragraph></subsection> </section> 
+</legis-body> 
+</bill> 
+
+

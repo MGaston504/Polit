@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S411 IS: Natural Gas Gathering Enhancement Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-02-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 411</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150209">February 9, 2015</action-date>
+			<action-desc><sponsor name-id="S317">Mr. Barrasso</sponsor> (for himself, <cosponsor name-id="S360">Ms. Heitkamp</cosponsor>, <cosponsor name-id="S254">Mr. Enzi</cosponsor>, and <cosponsor name-id="S344">Mr. Hoeven</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To authorize the approval of natural gas pipelines and establish deadlines and expedite permits for
+			 certain natural gas gathering lines on Federal land and Indian land.</official-title>
+	</form>
+	<legis-body>
+		<section id="id2B5A26B12C3E45D7AA5E7625F3D3C4D3" section-type="section-one">
+			<enum>1.</enum>
+			<header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Natural Gas Gathering Enhancement Act</short-title></quote>.</text> </section><section id="id81A6B244148E49B88B06081D21DA5B06" section-type="subsequent-section"> <enum>2.</enum> <header>Findings</header> <text display-inline="no-display-inline">Congress finds that—</text>
+			<paragraph id="id6c88dfe2818e4522b2defd14b4d3c202">
+				<enum>(1)</enum>
+ <text>record volumes of natural gas production in the United States as of the date of enactment of this Act are providing enormous benefits to the United States, including by—</text>
+				<subparagraph id="id95dc65022c37468ebc6fd6da5efaf3ad">
+					<enum>(A)</enum>
+ <text>reducing the need for imports of natural gas, thereby directly reducing the trade deficit;</text> </subparagraph><subparagraph id="idb95c030bb2c64d2090f0575793006136"> <enum>(B)</enum> <text>strengthening trade ties among the United States, Canada, and Mexico;</text>
+				</subparagraph><subparagraph id="idaa80fabd19894982aae2b2d8a963b53c">
+					<enum>(C)</enum>
+ <text>providing the opportunity for the United States to join the emerging global gas trade through the export of liquefied natural gas;</text>
+				</subparagraph><subparagraph id="idf1a97c02f7f74cdda9afc0233c0ed53d">
+					<enum>(D)</enum>
+ <text>creating and supporting millions of new jobs across the United States;</text> </subparagraph><subparagraph id="id256d78eab8304824af17443cb3a43cdf"> <enum>(E)</enum> <text>adding billions of dollars to the gross domestic product of the United States every year;</text>
+				</subparagraph><subparagraph id="id28eaadc152d8475db2d684a874f952a9">
+					<enum>(F)</enum>
+ <text>generating additional Federal, State, and local government tax revenues; and</text> </subparagraph><subparagraph id="id8eb1c9b3c48f4db3a8e41b976c08b75f"> <enum>(G)</enum> <text>revitalizing the manufacturing sector by—</text>
+ <clause id="id381DCECB4600405FAB44A8CECCAA8C56"><enum>(i)</enum><text>significantly increasing commercial demand for steel; and</text> </clause><clause id="id1B5CDF34C3E142F280AAC4389035A0F1"><enum>(ii)</enum><text>providing abundant and affordable feedstock;</text>
+					</clause></subparagraph></paragraph><paragraph id="idf1f25a7a3c8740dead9d3e97d393ca38">
+				<enum>(2)</enum>
+ <text>natural gas is lost due to venting and flaring, primarily in areas where natural gas infrastructure has not been developed quickly enough, such as States with large quantities of Federal land and Indian land;</text>
+			</paragraph><paragraph id="ide5980f460a3e4ceeb13255858fb20b51">
+				<enum>(3)</enum>
+ <text>permitting processes can hinder the development of natural gas infrastructure, such as pipeline lines and gathering lines on Federal land and Indian land; and</text>
+			</paragraph><paragraph id="id5acb54a4e2cd4fe4b9de3763b78a7273">
+				<enum>(4)</enum>
+ <text>additional authority for the Secretary of the Interior to approve natural gas pipelines and gathering lines on Federal land and Indian land would—</text>
+				<subparagraph id="id0B52A60172F44F928861A6465C774A13">
+					<enum>(A)</enum>
+ <text>assist in bringing gas to market that would otherwise be vented or flared; and</text> </subparagraph><subparagraph id="id9B7FCBE5F6EA4CDAA67885EE852C2E78"> <enum>(B)</enum> <text>significantly increase royalties collected by the Secretary of the Interior and disbursed to Federal, State, and tribal governments and individual Indians.</text>
+				</subparagraph></paragraph></section><section id="idA41CF0950C014035BECDE95CE7DBF5CA" section-type="subsequent-section">
+			<enum>3.</enum>
+ <header>Authority to approve natural gas pipelines</header><text display-inline="no-display-inline">Section 100902 of title 54, United States Code, is amended—</text> <paragraph id="id89C06A7DDFB348A1AB1B56E5597BA38F"><enum>(1)</enum><text>in subsection (a)(1)—</text>
+ <subparagraph id="id9964E199B0CC4D87ABBDA3B9D31051B1"><enum>(A)</enum><text>in the matter preceding subparagraph (A), by striking <quote>Under regulations</quote> and inserting <quote>Notwithstanding section 28 of the Mineral Leasing Act (<external-xref legal-doc="usc" parsable-cite="usc/30/185">30 U.S.C. 185</external-xref>), under regulations</quote>;</text> </subparagraph><subparagraph id="idE2DF71942F034238AA11AE14EC7FF3D7"><enum>(B)</enum><text>in subparagraph (B), by striking <quote>and</quote> at the end;</text>
+ </subparagraph><subparagraph id="idED2223DA629547EE98B2724CECADA4E4"><enum>(C)</enum><text>in subparagraph (C), by striking the period at the end and inserting <quote>; and</quote>; and</text> </subparagraph><subparagraph id="idA60FC076ED2340808755197AB7AAECA7"><enum>(D)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="idC4A1917894674589B7799627E51D8540" style="OLC">
+ <subparagraph id="id89A43259FC69435A90EB14011FF25C4F"><enum>(D)</enum><text>natural gas pipelines.</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block> </subparagraph></paragraph><paragraph id="id457A420F2A424FC19075C8C917304A2F"><enum>(2)</enum><text>in subsection (b)—</text>
+ <subparagraph id="idFAB40521601044819764240FE130914C"><enum>(A)</enum><text>in paragraph (1)—</text> <clause id="id2E61B03981764F0BA0F882FEF31716A3"><enum>(i)</enum><text>in subparagraph (B), by striking <quote>and</quote> at the end;</text>
+ </clause><clause id="id4CD0BFE6E0914F138BDF15EABBD6591A"><enum>(ii)</enum><text>in subparagraph (C), by striking the period at the end and inserting <quote>; and</quote>; and</text> </clause><clause id="id892BECB342414E3886006FEA402A9F15"><enum>(iii)</enum><text>by adding at the end the following:</text>
+						<quoted-block display-inline="no-display-inline" id="id2F3FE9778AC64586B660238C1F4FCA52" style="OLC">
+ <subparagraph id="id1001EC574C4B450CAC1363FEE1E7F4E9"><enum>(D)</enum><text>natural gas pipelines.</text></subparagraph><after-quoted-block>;</after-quoted-block></quoted-block> </clause></subparagraph><subparagraph id="idce9d4f383f784b6d9a2930a451636ec1"><enum>(B)</enum><text>in paragraph (2), in the matter preceding subparagraph (A), by striking <quote>A right of way under</quote> and inserting <quote>Except as provided in paragraph (5), a right-of-way granted under</quote>; and</text>
+ </subparagraph><subparagraph id="id7AC8EBC5D92A4B9F90A37EF0AD63D8A5"><enum>(C)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="idf3f1ab0dfff344daa299dbfe15892f84" style="OLC"> <paragraph id="id94a5a2d8ed73469eb5586206ebf8659b"><enum>(5)</enum><header>Right-of-way for natural gas pipelines</header><text>Notwithstanding paragraph (2), a right-of-way granted under paragraph (1)(D) shall—</text>
+ <subparagraph id="id87c74a294b414f5eacc36a164b441a9a"><enum>(A)</enum><text>be for a term of not more than 30 years; and</text> </subparagraph><subparagraph id="id747100ccf921401abdeb062830c23963"><enum>(B)</enum><text>not exceed 50 feet in width after construction of the natural gas pipeline.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subparagraph></paragraph></section><section id="idA5D0E86567A547C0B9C1E38536661482" section-type="subsequent-section">
+			<enum>4.</enum>
+			<header>Certain natural gas gathering lines located on Federal land and Indian land</header>
+			<subsection id="idF767A96D5C6D4EC3BB629A15802F9BD3">
+				<enum>(a)</enum>
+				<header>In general</header>
+ <text>Subtitle B of title III of the Energy Policy Act of 2005 (<external-xref legal-doc="public-law" parsable-cite="pl/109/58">Public Law 109–58</external-xref>; 119 Stat. 685) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id3DA1786B9C6D4D40A7A9530911B95402" style="OLC">
+					<section id="idB7A6528A6038481E920D50DB43F42651">
+						<enum>319.</enum>
+						<header>Certain natural gas gathering lines located on Federal land and Indian land</header>
+						<subsection id="id0BAB9DD51912413197E1AEEC32BA59F0">
+							<enum>(a)</enum>
+							<header>Definitions</header>
+ <text>In this section:</text> <paragraph id="id88F453C38D654EAAB063B7DE43310712"> <enum>(1)</enum> <header>Gas gathering line and associated field compression unit</header> <subparagraph id="idB2203C5D8AC448FF91E85CAE6D801D67"> <enum>(A)</enum> <header>In general</header> <text>The term <term>gas gathering line and associated field compression unit</term> means—</text>
+									<clause id="idF789C502C83B45078F3204D1331BAF00">
+										<enum>(i)</enum>
+ <text>a pipeline that is installed to transport natural gas production associated with 1 or more wells drilled and completed to produce oil or gas; and</text>
+									</clause><clause id="id947D5F92CF4E473D87911FED74AB8F6E">
+										<enum>(ii)</enum>
+ <text>if necessary, a compressor to raise the pressure of that transported natural gas to higher pressures suitable to enable the gas to flow into pipelines and other facilities.</text>
+									</clause></subparagraph><subparagraph id="id6D54E6AA60024194B43D86CAFE8EA2BE">
+									<enum>(B)</enum>
+									<header>Exclusions</header>
+ <text>The term <term>gas gathering line and associated field compression unit</term> does not include a pipeline or compression unit that is installed to transport natural gas from a processing plant to a common carrier pipeline or facility.</text>
+								</subparagraph></paragraph><paragraph id="id7EB656C658374406A14B6CD2BE4B55EF">
+								<enum>(2)</enum>
+								<header>Federal land</header>
+								<subparagraph id="idA9A4F7D5E2A84ADDBE86961F07FA98D3">
+									<enum>(A)</enum>
+									<header>In general</header>
+ <text>The term <term>Federal land</term> means land the title to which is held by the United States.</text> </subparagraph><subparagraph id="id96E3181E8EDD48EBB40269620588E646"> <enum>(B)</enum> <header>Exclusions</header> <text>The term <quote>Federal land</quote> does not include—</text>
+									<clause id="id7833FB1716184850A03962BFC94BAF76">
+										<enum>(i)</enum>
+ <text>a unit of the National Park System;</text> </clause><clause id="ID1e8fbc363b1944fc8a86484ae79029d0"> <enum>(ii)</enum> <text>a unit of the National Wildlife Refuge System;</text>
+									</clause><clause id="IDb3635f784eca47deab3a57cda3d600f1">
+										<enum>(iii)</enum>
+ <text>a component of the National Wilderness Preservation System; or</text>
+ </clause><clause id="idadb2785dfa714b2aa5ec0f8bbc6fc668"><enum>(iv)</enum><text>Indian land.</text> </clause></subparagraph></paragraph><paragraph id="id595B31F0AD174E3D88DAE76DE235C16F"> <enum>(3)</enum> <header>Indian land</header> <text>The term <term>Indian land</term> means land the title to which is held by—</text>
+								<subparagraph id="id3ECE33124B494A75B246192477DE1E9D">
+									<enum>(A)</enum>
+ <text>the United States in trust for an Indian tribe or an individual Indian; or</text> </subparagraph><subparagraph id="id13A3B262FDA142D286B081448068B2D7"> <enum>(B)</enum> <text>an Indian tribe or an individual Indian subject to a restriction by the United States against alienation.</text>
+								</subparagraph></paragraph></subsection><subsection id="idD744373CA82144D79028451AB69F7A90">
+							<enum>(b)</enum>
+							<header>Certain natural gas gathering lines</header>
+							<paragraph id="id4DEA1C074F7D443CA6344F6A49F73560">
+								<enum>(1)</enum>
+								<header>In general</header>
+ <text>Subject to paragraph (2), the issuance of a sundry notice or right-of-way for a gas gathering line and associated field compression unit that is located on Federal land or Indian land and that services any oil or gas well shall be considered to be an action that is categorically excluded (as defined in section 1508.4 of title 40, Code of Federal Regulations (as in effect on the date of enactment of this Act)) for purposes of the National Environmental Policy Act of 1969 (<external-xref legal-doc="usc" parsable-cite="usc/42/4321">42 U.S.C. 4321 et seq.</external-xref>) if the gas gathering line and associated field compression unit are—</text>
+								<subparagraph id="id4F50858E995A4128B3549971E16E22B1">
+									<enum>(A)</enum>
+ <text>within a field or unit for which an approved land use plan or an environmental document prepared pursuant to the National Environmental Policy Act of 1969 (<external-xref legal-doc="usc" parsable-cite="usc/42/4321">42 U.S.C. 4321 et seq.</external-xref>) analyzed transportation of natural gas produced from 1 or more oil or gas wells in that field or unit as a reasonably foreseeable activity; and</text>
+								</subparagraph><subparagraph id="id4F5C353E2D304D3D93ADB24E44D1E0CA">
+									<enum>(B)</enum>
+ <text>located adjacent to or within—</text> <clause id="id65E216F075F245E2A7BB1558457AED53"><enum>(i)</enum><text>any existing disturbed area; or</text>
+ </clause><clause id="id3538755222674854A7ABB2F040997109"><enum>(ii)</enum><text>an existing corridor for a right-of-way.</text> </clause></subparagraph></paragraph><paragraph id="id6609EE88E38C48DCBD9AE9825D9780F1"><enum>(2)</enum><header>Applicability</header><text>Paragraph (1) shall apply to Indian land, or a portion of Indian land, for which the Indian tribe with jurisdiction over the Indian land submits to the Secretary of the Interior a written request that paragraph (1) apply to that Indian land (or portion of Indian land).</text>
+ </paragraph></subsection><subsection id="idE9C2D58A661A4CD1A08F83DA313AF220"><enum>(c)</enum><header>Effect on other law</header><text>Nothing in this section affects or alters any requirement—</text> <paragraph id="id40025006CB15412FACD9DC4AA4368548"><enum>(1)</enum><text>relating to prior consent under—</text>
+ <subparagraph id="id821A5F82032A414F9B84129BA13D5AF0"><enum>(A)</enum><text>section 2 of the Act of February 5, 1948 (<external-xref legal-doc="usc" parsable-cite="usc/25/324">25 U.S.C. 324</external-xref>); or</text> </subparagraph><subparagraph id="idC218722E880C4631A16A3F3FB96FBE5D"><enum>(B)</enum><text>section 16(e) of the Act of June 18, 1934 (<external-xref legal-doc="usc" parsable-cite="usc/25/476">25 U.S.C. 476(e)</external-xref>) (commonly known as the <quote>Indian Reorganization Act</quote>);</text>
+ </subparagraph></paragraph><paragraph id="id886D00FC4CCF4D8C86C48F7BF21B45E3"><enum>(2)</enum><text>under section 106 of the National Historic Preservation Act (<external-xref legal-doc="usc" parsable-cite="usc/16/470f">16 U.S.C. 470f</external-xref>); or</text> </paragraph><paragraph id="id1C638E6F73D74F4694E53DEB73ED6E81"><enum>(3)</enum><text>under any other Federal law (including regulations) relating to tribal consent for rights-of-way across Indian land.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="idd1194a40891849849d6bff6baaf7d4d0">
+				<enum>(b)</enum>
+				<header>Assessments</header>
+ <text>Title XVIII of the Energy Policy Act of 2005 (<external-xref legal-doc="public-law" parsable-cite="pl/109/58">Public Law 109–58</external-xref>; 119 Stat. 1122) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idef6567662d4248c0943690bed8cdb90d" style="OLC">
+					<section id="idf9217e87adfe41c7afedc2aca2df3f15">
+						<enum>1841.</enum>
+						<header>Natural gas gathering system assessments</header>
+						<subsection id="id8c0677af55ba4d42913a77bb1ffc915e">
+							<enum>(a)</enum>
+							<header>Definition of gas gathering line and associated field compression unit</header>
+ <text>In this section, the term <quote>gas gathering line and associated field compression unit</quote> has the meaning given the term in section 319.</text> </subsection><subsection id="id9884101B55A04F10A807A71384B77B36"> <enum>(b)</enum> <header>Study</header> <text>Not later than 1 year after the date of enactment of the <short-title>Natural Gas Gathering Enhancement Act</short-title>, the Secretary of the Interior, in consultation with other appropriate Federal agencies, States, and Indian tribes, shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a study identifying—</text>
+							<paragraph id="id46a25db73a524fc1b85c88a2c0216727">
+								<enum>(1)</enum>
+ <text>any actions that may be taken, under Federal law (including regulations), to expedite permitting for gas gathering lines and associated field compression units that are located on Federal land or Indian land, for the purpose of transporting natural gas associated with oil and gas production on any land to a processing plant or a common carrier pipeline for delivery to markets; and</text>
+							</paragraph><paragraph id="idb2ee5527cf404d73a7611d2c75d69763">
+								<enum>(2)</enum>
+ <text>any proposed changes to Federal law (including regulations) to expedite permitting for gas gathering lines and associated field compression units that are located on Federal land, for the purpose of transporting natural gas associated with oil and gas production on any land to a processing plant or a common carrier pipeline for delivery to markets.</text>
+							</paragraph></subsection><subsection id="idfe35408c8a33415185344696bc6eae75">
+							<enum>(c)</enum>
+							<header>Report</header>
+ <text>Not later than 1 year after the date of enactment of the <short-title>Natural Gas Gathering Enhancement Act</short-title>, and every 1 year thereafter, the Secretary of the Interior, in consultation with other appropriate Federal agencies, States, and Indian tribes, shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes—</text>
+							<paragraph id="id80748d1ae94847d898fb91acbcfd3522">
+								<enum>(1)</enum>
+ <text>the progress made in expediting permits for gas gathering lines and associated field compression units that are located on Federal land or Indian land, for the purpose of transporting natural gas associated with oil and gas production on any land to a processing plant or a common carrier pipeline for delivery to markets; and</text>
+							</paragraph><paragraph id="id1d240885872348c5a54767533ef1a391">
+								<enum>(2)</enum>
+ <text>any issues impeding that progress.</text> </paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="id311F627C702E474EABA2D68D18AD4D42"> <enum>(c)</enum> <header>Technical amendments</header> <paragraph id="id480C505F96744DB1B656ADB96B46DAD1"> <enum>(1)</enum> <text>Section 1(b) of the Energy Policy Act of 2005 (<external-xref legal-doc="public-law" parsable-cite="pl/109/58">Public Law 109–58</external-xref>; 119 Stat. 594) is amended by adding at the end of subtitle B of title III the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id987D5826FC2440E2BF1C695A4A86DF82" style="OLC">
+						<toc>
+							<toc-entry bold="off" level="section">Sec. 319.  Natural gas gathering lines located on Federal land and Indian land.</toc-entry>
+						</toc>
+						<after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="idF98C2F7800284321BD5862A7623C2277">
+					<enum>(2)</enum>
+ <text>Section (1)(b) of the Energy Policy Act of 2005 (<external-xref legal-doc="public-law" parsable-cite="pl/109/58">Public Law 109–58</external-xref>; 119 Stat. 594) is amended by adding at the end of title XXVIII the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id5C1B1EF42B19456EBEDBADB3FEFCD9DC" style="OLC">
+						<toc>
+							<toc-entry bold="off" level="section">Sec. 1841.  Natural gas gathering system assessments.</toc-entry>
+						</toc>
+						<after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection></section><section id="idCB2AD31065DC42AD840246D264791289"><enum>5.</enum><header>Deadlines for permitting natural gas gathering lines under the Mineral Leasing Act</header><text display-inline="no-display-inline">Section 28 of the Mineral Leasing Act (<external-xref legal-doc="usc" parsable-cite="usc/30/185">30 U.S.C. 185</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="idB63A149971094ECD8C40C8C6F07A54CF" style="OLC">
+ <subsection id="id3C5FD772548E48148A63729195879A57"><enum>(z)</enum><header>Natural gas gathering lines</header><text>The Secretary of the Interior or other appropriate agency head shall issue a sundry notice or right-of-way for a gas gathering line and associated field compression unit (as defined in section 319(a) of the Energy Policy Act of 2005) that is located on Federal land not later than 90 days after the date on which the applicable agency head receives the request for issuance unless the Secretary or agency head finds that the sundry notice or right-of-way would violate the National Historic Preservation Act (<external-xref legal-doc="usc" parsable-cite="usc/16/470">16 U.S.C. 470 et seq.</external-xref>) or the <act-name parsable-cite="ESA">Endangered Species Act of 1973</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/16/1531">16 U.S.C. 1531 et seq.</external-xref>).</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

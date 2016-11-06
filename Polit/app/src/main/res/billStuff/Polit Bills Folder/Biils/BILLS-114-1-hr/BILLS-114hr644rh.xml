@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="HCF7C5F3351A74F338E22835C1FE496B8" public-private="public"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 644 RH: Fighting Hunger Incentive Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IB</distribution-code> 
+<calendar display="yes">Union Calendar No. 12</calendar> 
+<congress display="yes">114th CONGRESS</congress> <session display="yes">1st Session</session> 
+<legis-num>H. R. 644</legis-num> 
+<associated-doc role="report" display="yes">[Report No. 114–18]</associated-doc> 
+<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150202">February 2, 2015</action-date> 
+<action-desc><sponsor name-id="R000585">Mr. Reed</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00" added-display-style="italic" deleted-display-style="strikethrough">Committee on Ways and Means</committee-name></action-desc> 
+</action> 
+<action>
+<action-date date="20150209">February 9, 2015</action-date>
+<action-desc>Additional sponsors: <cosponsor name-id="T000462">Mr. Tiberi</cosponsor>, <cosponsor name-id="S001179">Mr. Schock</cosponsor>, <cosponsor name-id="C001106">Mr. Costello of Pennsylvania</cosponsor>, <cosponsor name-id="K000376">Mr. Kelly of Pennsylvania</cosponsor>, <cosponsor name-id="G000564">Mr. Gibson</cosponsor>, <cosponsor name-id="P000594">Mr. Paulsen</cosponsor>, and <cosponsor name-id="N000181">Mr. Nunes</cosponsor></action-desc>
+</action>
+<action> 
+<action-date date="20150209">February 9, 2015</action-date> 
+<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action-desc> 
+<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction> 
+<action-instruction>For text of introduced bill, see copy of bill as introduced on February 2, 2015</action-instruction> 
+</action> 
+<action display="yes"> 
+<action-desc display="yes"><pagebreak/></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To amend the Internal Revenue Code of 1986 to permanently extend and expand the charitable deduction for contributions of food inventory.<pagebreak/></official-title> 
+</form> 
+<legis-body display-enacting-clause="yes-display-enacting-clause" changed="added" style="OLC" committee-id="HWM00" reported-display-style="italic" id="HDB36BA2AEDCC47BDB13C14E84F35197A">
+<section id="H2EDFA5DD5C984C5CB676240F260DBEA9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fighting Hunger Incentive Act of 2015</short-title></quote>.</text></section> <section id="HE443E508D0044A6AB1B5DA03B66B852B"><enum>2.</enum><header>Extension and expansion of charitable deduction for contributions of food inventory</header> <subsection id="H4BD08E797A8A4C90B974A58B8777829D"><enum>(a)</enum><header>Permanent extension</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/170">Section 170(e)(3)(C)</external-xref> of the Internal Revenue Code of 1986 is amended by striking clause (iv).</text></subsection>
+<subsection id="H87BDE2787FC140B183C00D48886F8B49"><enum>(b)</enum><header>Increase in limitation</header><text display-inline="yes-display-inline">Section 170(e)(3)(C) of such Code, as amended by subsection (a), is amended by striking clause (ii), by redesignating clause (iii) as clause (iv), and by inserting after clause (i) the following new clauses:</text> <quoted-block display-inline="no-display-inline" id="HDE32D633C67D41F9A3B41FF25637CF02" style="OLC"> <clause id="H4D4B778384E34615A259638BE587A7EF"><enum>(ii)</enum><header>Limitation</header><text display-inline="yes-display-inline">The aggregate amount of such contributions for any taxable year which may be taken into account under this section shall not exceed—</text>
+<subclause id="H21B1C799F5BE473A903EAE15CC04ACFB"><enum>(I)</enum><text>in the case of any taxpayer other than a C corporation, 15 percent of the taxpayer’s aggregate net income for such taxable year from all trades or businesses from which such contributions were made for such year, computed without regard to this section, and</text></subclause> <subclause id="HD4D2649D32C84324BB321EFD31C5B38A"><enum>(II)</enum><text>in the case of a C corporation, 15 percent of taxable income (as defined in subsection (b)(2)(D)).</text></subclause></clause>
+<clause id="HD4DB9B0C7C9D421AA0F70D7F8BC7E941"><enum>(iii)</enum><header>Rules related to limitation</header>
+<subclause id="H191C765A15704836BF7CC4480D165525"><enum>(I)</enum><header>Carryover</header><text>If such aggregate amount exceeds the limitation imposed under clause (ii), such excess shall be treated (in a manner consistent with the rules of subsection (d)) as a charitable contribution described in clause (i) in each of the 5 succeeding taxable years in order of time.</text></subclause> <subclause id="H2A34E435FB6C4522B6822A4563747551"><enum>(II)</enum><header>Coordination with overall corporate limitation</header><text>In the case of any charitable contribution allowable under clause (ii)(II), subsection (b)(2)(A) shall not apply to such contribution, but the limitation imposed by such subsection shall be reduced (but not below zero) by the aggregate amount of such contributions. For purposes of subsection (b)(2)(B), such contributions shall be treated as allowable under subsection (b)(2)(A).</text></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="H61BE5E3F13C14B239A5D388BF928BC67"><enum>(c)</enum><header>Determination of basis for certain taxpayers</header><text>Section 170(e)(3)(C) of such Code, as amended by subsections (a) and (b), is amended by adding at the end the following new clause:</text> <quoted-block display-inline="no-display-inline" id="H21B68CC59B3C45C3B10BEB7A0B65C7C0" style="OLC"> <clause id="H47377C3DF321456D99C33D709F583AE7"><enum>(v)</enum><header>Determination of basis for certain taxpayers</header><text>If a taxpayer—</text>
+<subclause id="HF38D6983F4A84BAE9E8DC3A47CD196C8"><enum>(I)</enum><text>does not account for inventories under section 471, and</text></subclause> <subclause id="H84ED643DB8254BF5A51648A2DA656EF7"><enum>(II)</enum><text>is not required to capitalize indirect costs under section 263A,</text></subclause><continuation-text continuation-text-level="clause">the taxpayer may elect, solely for purposes of subparagraph (B), to treat the basis of any apparently wholesome food as being equal to 25 percent of the fair market value of such food.</continuation-text></clause><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="H34E4A45A9C6B451F9F74E950604CD679"><enum>(d)</enum><header>Determination of fair market value</header><text display-inline="yes-display-inline">Section 170(e)(3)(C) of such Code, as amended by subsections (a), (b), and (c), is amended by adding at the end the following new clause:</text> <quoted-block display-inline="no-display-inline" id="H7EA174FDB01741D9AB0BB39989669FF5" style="OLC"> <clause id="HCAB4F4AFDB7E4549B76C69E0635B4006"><enum>(vi)</enum><header>Determination of fair market value</header><text>In the case of any such contribution of apparently wholesome food which cannot or will not be sold solely by reason of internal standards of the taxpayer, lack of market, or similar circumstances, or by reason of being produced by the taxpayer exclusively for the purposes of transferring the food to an organization described in subparagraph (A), the fair market value of such contribution shall be determined—</text>
+<subclause id="H401A649B438F4A7DB7A437800335A903"><enum>(I)</enum><text>without regard to such internal standards, such lack of market, such circumstances, or such exclusive purpose, and</text></subclause> <subclause id="H47AEE74ED19A4AEBA9E39D4995B11483"><enum>(II)</enum><text>by taking into account the price at which the same or substantially the same food items (as to both type and quality) are sold by the taxpayer at the time of the contribution (or, if not so sold at such time, in the recent past).</text></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="H35664FD043654084AC35A445A5A43C75"><enum>(e)</enum><header>Effective Date</header>
+<paragraph id="H45C11A2BAAC747D298A0C302A23280B2"><enum>(1)</enum><header>In general</header><text>Except as otherwise provided in this subsection, the amendments made by this section shall apply to contributions made after the date of the enactment of this Act, in taxable years ending after such date.</text></paragraph> <paragraph id="H831C9AFF623E4D30858328830C52A490"><enum>(2)</enum><header>Limitation; applicability to C corporations</header><text>The amendments made by subsection (b) shall apply to contributions made in taxable years ending after the date of the enactment of this Act.</text></paragraph></subsection></section>
+</legis-body> 
+<endorsement display="yes">
+<action-date date="20150209">February 9, 2015</action-date>
+<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action-desc> </endorsement> 
+</bill> 
+
+

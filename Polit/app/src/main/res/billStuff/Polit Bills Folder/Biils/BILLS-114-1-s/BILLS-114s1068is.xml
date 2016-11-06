@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1068 IS: To amend the Federal Power Act to protect the bulk-power system from cyber security threats.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-04-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1068</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150423">April 23, 2015</action-date>
+			<action-desc><sponsor name-id="S323">Mr. Risch</sponsor> (for himself and <cosponsor name-id="S359">Mr. Heinrich</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Federal Power Act to protect the bulk-power system from cyber security threats.</official-title>
+	</form>
+	<legis-body>
+ <section id="S1" section-type="section-one"><enum>1.</enum><header>Cyber security threats</header><text display-inline="no-display-inline">Part II of the Federal Power Act (<external-xref legal-doc="usc" parsable-cite="usc/16/824">16 U.S.C. 824 et seq.</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="ide28018dd20484619b9bc91e25106abfb" style="OLC">
+				<section id="idfe5296980ff3421082f9b336678a82f9"><enum>224.</enum><header>Cyber security threats</header>
+ <subsection id="id576f7ced2bd244ed87fb43636ef36972"><enum>(a)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="id460CC7D4477740B48E23831D99DC7831"><enum>(1)</enum><header>Bulk-power system</header><text>The term <term>bulk-power system</term> has the meaning given the term in section 215.</text>
+ </paragraph><paragraph id="idc2792ae7d49d4c3092a97e4fd8104f8c"><enum>(2)</enum><header>Cyber security threat</header><text>The term <term>cyber security threat</term> means the imminent danger of a malicious act that disrupts, attempts to disrupt, or poses a significant risk of disrupting the operation of programmable electronic devices or communications networks (including hardware, software, and data) essential to the reliable operation of the bulk-power system.</text>
+ </paragraph><paragraph id="idE449B9D213FF4C89902D895156510799"><enum>(3)</enum><header>Electric Reliability Organization</header><text>The term <term>Electric Reliability Organization</term> has the meaning given the term in section 215.</text> </paragraph><paragraph id="id3a0006c836e5454b9ae4542c285b6577"><enum>(4)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of Energy.</text>
+						</paragraph></subsection><subsection id="id54e1b1b18f294ac4bae83846b3bc8ce1"><enum>(b)</enum><header>Emergency authority of Secretary</header>
+ <paragraph id="idb506e02c70414425bc19825581ce5329"><enum>(1)</enum><header>In general</header><text>If the President submits to the Secretary a written notice of a determination by the President that immediate action is necessary to protect the bulk-power system from a cyber security threat, the Secretary may require, by order and with or without notice, any entity that owns, controls, or operates a bulk-power system facility to take such actions as the Secretary determines will best avert or mitigate the cyber security threat.</text>
+ </paragraph><paragraph id="id6ac7eae57f854f41831e29b125c892c3"><enum>(2)</enum><header>Coordination with Canada and Mexico</header><text>In exercising the authority pursuant to this subsection, the Secretary is encouraged to consult and coordinate with the appropriate officials in Canada and Mexico responsible for the protection of cyber security of the interconnected North American electricity grid.</text>
+ </paragraph><paragraph id="id426253e5316243bead74426aeca9a60f"><enum>(3)</enum><header>Consultation</header><text>Before exercising authority pursuant to this subsection, to the maximum extent practicable, taking into consideration the nature of an identified cyber security threat and the urgency of need for action, the Secretary shall consult regarding implementation of actions that will effectively address the cyber security threat with—</text>
+ <subparagraph id="id612f285e1b884bd58f1bb390a26d4923"><enum>(A)</enum><text>any entities potentially subject to the cyber security threat that own, control, or operate bulk-power system facilities;</text>
+ </subparagraph><subparagraph id="idb9a65bf218024143b28a06769a945978"><enum>(B)</enum><text>the Electric Reliability Organization;</text> </subparagraph><subparagraph id="idbb49f710e1994c7a8d3b5395a046e38c"><enum>(C)</enum><text>the Electricity Sub-sector Coordinating Council (as defined in the document entitled <quote>Homeland Security Presidential Directive 7: Critical Infrastructure Identification, Prioritization, and Protection</quote>); and</text>
+ </subparagraph><subparagraph id="id4A05BCFBEF8A4FD0B0E7A077C4C597C8"><enum>(D)</enum><text>officials of other Federal departments and agencies, as appropriate.</text> </subparagraph></paragraph><paragraph id="idfe09cf78c77641b087e32eae57f46379"><enum>(4)</enum><header>Cost recovery</header> <subparagraph id="id942BCFD8750C461D9334B9D344B9475C"><enum>(A)</enum><header>In general</header><text>The Commission shall establish a mechanism that permits owners, operators, or users of the bulk-power system to seek recovery of prudently incurred costs required to implement actions ordered by the Secretary under this subsection.</text>
+ </subparagraph><subparagraph id="id287CE4735FE142AA8BEECEC5001FD039"><enum>(B)</enum><header>Requirements</header><text>Any rate or charge approved under a mechanism established under this paragraph—</text> <clause id="id73A0D726D0934C2D8B17F24061A64A68"><enum>(i)</enum><text>shall be just and reasonable; and</text>
+ </clause><clause id="idEBF01C0FB974451EAB42704126C81657"><enum>(ii)</enum><text>shall not be unduly discriminatory or preferential.</text> </clause></subparagraph></paragraph></subsection><subsection id="id090cc44fcb344470962ef28e626eb357"><enum>(c)</enum><header>Duration of emergency orders</header><text>An order issued by the Secretary pursuant to subsection (b) shall remain in effect for not longer than the 30-day period beginning on the effective date of the order, unless, during that 30 day-period, the Secretary—</text>
+ <paragraph id="id05C87BC8D5284ACBA801B5E630ADD73D"><enum>(1)</enum><text>provides to interested persons an opportunity to submit written data, recommendations, and arguments; and</text>
+ </paragraph><paragraph id="idAC855D70ABD149BEB7C64C70C71F7362"><enum>(2)</enum><text>affirms, amends, or repeals the order, subject to the condition that an amended order shall not exceed a total duration of 90 days.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

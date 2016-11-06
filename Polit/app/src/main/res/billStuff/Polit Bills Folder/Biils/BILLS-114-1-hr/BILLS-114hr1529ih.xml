@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC2F18E393A634BA49953E932BFA51E36" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1529 IH: Community Institution Mortgage Relief Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1529</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150323">March 23, 2015</action-date>
+			<action-desc><sponsor name-id="S000344">Mr. Sherman</sponsor> (for himself and <cosponsor name-id="L000569">Mr. Luetkemeyer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Truth in Lending Act and the Real Estate Settlement Procedures Act of 1974 to modify
+			 the requirements for community financial institutions with respect to
+			 certain rules relating to mortgage loans, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HCE77D490482C4DE2871BBC857179AA73" style="OLC">
+ <section id="H19DB09D93C2244DA9D24AD9CDAE1F7BD" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Community Institution Mortgage Relief Act of 2015</short-title></quote>.</text> </section><section id="HA9350AEA270B471C80EBCA1B004223C2"><enum>2.</enum><header>Community financial institution mortgage relief</header> <subsection id="H7D93F70EF33B447798D66C8D6F14A659"><enum>(a)</enum><header>Exemption from escrow requirements for loans held by smaller creditors</header><text>Section 129D of the Truth in Lending Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1639d">15 U.S.C. 1639d</external-xref>) is amended—</text>
+ <paragraph id="H17C62E64E11D4D1B98120B9120F45478"><enum>(1)</enum><text>by adding at the end the following:</text> <quoted-block id="H43C98B6FD8434BB18537BBED6D4FA635" style="OLC"> <subsection id="HDDE237D81E1F48C1935E34BFF0612A78"><enum>(k)</enum><header>Safe harbor for loans held by smaller creditors</header> <paragraph id="H3DC51AA5119B422AAF8153AFD1F0F154"><enum>(1)</enum><header>In general</header><text>A creditor shall not be in violation of subsection (a) with respect to a loan if—</text>
+ <subparagraph id="HE92CEC62B68B4C3A8288EEA4B66C4F8D"><enum>(A)</enum><text display-inline="yes-display-inline">the creditor has consolidated assets of $10,000,000,000 or less; and</text> </subparagraph><subparagraph id="H94A51B4E90B94CCEA0367822F77DCC72"><enum>(B)</enum><text display-inline="yes-display-inline">the creditor holds the loan on the balance sheet of the creditor for the 3-year period beginning on the date of the origination of the loan.</text>
+ </subparagraph></paragraph><paragraph id="HBAB9A9046E9247D5B78111EFA7B48B9A"><enum>(2)</enum><header>Exception for certain transfers</header><text display-inline="yes-display-inline">In the case of a creditor that transfers a loan to another person by reason of the bankruptcy or failure of the creditor, the purchase of the creditor, or a supervisory act or recommendation from a State or Federal regulator, the creditor shall be deemed to have complied with the requirement under paragraph (1)(B).</text></paragraph></subsection><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H916917D18D184CB68E5D936F14D2C46E"><enum>(2)</enum><text>by striking the term <quote>Board</quote> each place such term appears and inserting <quote>Bureau</quote>.</text> </paragraph></subsection><subsection id="HC56223EA22D8478B82489CDD078F0E14"><enum>(b)</enum><header>Modification to exemption for small servicers of mortgage loans</header><text>Section 6 of the Real Estate Settlement Procedures Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/12/2605">12 U.S.C. 2605</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HC702ACDCD4FB4D2D832E8553E40EBEEE" style="OLC">
+ <subsection id="H319C74D8160E490EBE8E8E201E34773D"><enum>(n)</enum><header>Small Servicer Exemption</header><text display-inline="yes-display-inline">The Bureau shall, by regulation, provide exemptions to, or adjustments for, the provisions of this section for a servicer that annually services 20,000 or fewer mortgage loans, in order to reduce regulatory burdens while appropriately balancing consumer protections.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

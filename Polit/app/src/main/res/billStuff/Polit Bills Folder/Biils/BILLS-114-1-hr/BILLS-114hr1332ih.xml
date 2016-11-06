@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H19790929672E4280B5537D7B3B2C14C6" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1332 IH: Deny Amnesty Credits Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1332</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150304">March 4, 2015</action-date>
+			<action-desc><sponsor name-id="W000814">Mr. Weber of Texas</sponsor> (for himself, <cosponsor name-id="Y000065">Mr. Yoho</cosponsor>, <cosponsor name-id="J000255">Mr. Jones</cosponsor>, <cosponsor name-id="B001289">Mr. Byrne</cosponsor>, <cosponsor name-id="P000599">Mr. Posey</cosponsor>, <cosponsor name-id="B001274">Mr. Brooks of Alabama</cosponsor>, <cosponsor name-id="R000597">Mr. Rice of South Carolina</cosponsor>, and <cosponsor name-id="S001183">Mr. Schweikert</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to disallow the earned income tax credit and the child
+			 tax credit for individuals who are not lawfully present in the United
+			 States or who have received work authorization pursuant to certain
+			 deferred action programs.</official-title>
+	</form>
+	<legis-body id="H941EC270F2CD4E81ABA5B18DABFA6CCC" style="OLC">
+ <section id="H585067AFD0E94CC9811C5D1762CA0653" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Deny Amnesty Credits Act of 2015</short-title></quote>.</text> </section><section id="H9D00847217A94CC0BA3BAA4FEB454A05"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+ <paragraph id="HEC56226BFBA141D58AA01EDEE46BA25B"><enum>(1)</enum><text display-inline="yes-display-inline">On June 15, 2012, the Secretary of Homeland Security announced that certain undocumented aliens could apply for deferred action and work authorization under the Deferred Action for Childhood Arrivals program (DACA), a program not authorized by law.</text>
+ </paragraph><paragraph id="HAEF35D3186034A3CBA20D23D065B7DDB"><enum>(2)</enum><text>As of the end of last year, the Federal Government has approved 787,068 DACA applications.</text> </paragraph><paragraph id="H9F8320A7761B41888340D77608237F73"><enum>(3)</enum><text>On November 20, 2014, the President announced additional executive actions with regards to deferred action and work authorization for undocumented aliens, including the creation of the Deferred Action for Parents of Americans and Lawful Permanent Residents program (DAPA), a program not authorized by law.</text>
+ </paragraph><paragraph id="HFCFCA04D31EC46719D0D17210C3F22A8"><enum>(4)</enum><text>These deferred action and work authorization programs would allow undocumented aliens to qualify for the Earned Income Tax Credit (EITC) and the Child Tax Credit (CTC).</text>
+ </paragraph><paragraph id="H88C51A88B00D49D88F16B583B425C724"><enum>(5)</enum><text>Article 1, Section 9, Clause 7 of the United States Constitution clearly grants Congress the sole authority to permit the expenditure of taxpayer funds.</text>
+ </paragraph><paragraph id="H7BAA2F2F15294D50AD501699DD9A89DD"><enum>(6)</enum><text>Because of these unauthorized programs, direct spending from the United States Treasury under these credits could increase by $10.2 billion over ten years according to the Congressional Budget Office.</text>
+			</paragraph></section><section id="H0B234B781ADD438E9C327E767CE99936"><enum>3.</enum><header>Denial of earned income tax credit for aliens receiving work authorization pursuant to certain
+			 deferred action programs</header>
+ <subsection id="HD186436ADDE44862B375D326CC618AD3"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/32">Section 32(c)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="HAC874B9241A3447CB740EB75AA58EE24" style="OLC">
+ <subparagraph id="H1925805E741242B2B51D857A55F83FF2"><enum>(G)</enum><header>Exception for deferred action beneficiary</header><text display-inline="yes-display-inline">The term <term>eligible individual</term> does not include any individual who for any portion of the taxable year is granted employment authorization pursuant to a program not specifically authorized by law which provides aliens with deferred action on removal.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H10F411F03E474F90BB8C21D190DD7202"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall apply to—</text> <paragraph id="H736BB2EF2D4841C7AE0EE08B022ABCC3"><enum>(1)</enum><text>any return of tax which is filed after the date of the enactment of this Act, and</text>
+ </paragraph><paragraph id="H14FCF0601DE74232BCE44941BF7CE599"><enum>(2)</enum><text>any amendment or supplement (to any return of tax) which is filed after such date (without regard to the date on which the return of tax is filed).</text>
+				</paragraph></subsection></section><section id="H831B25AAC0DD44E9BD265661B322768A"><enum>4.</enum><header>Denial of child tax credit for aliens receiving work authorization pursuant to certain deferred
+			 action programs and aliens not lawfully present</header>
+ <subsection id="HB9FAB1FC9C674D1BB755AD2B8D0E0985"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/24">Section 24</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H24732605F4FD49B39CDA7EBFA33BE429" style="OLC">
+ <paragraph id="HEA21A191567A4891B6B6C8A285D77BF3"><enum>(5)</enum><header>Exception for deferred action beneficiary</header><text display-inline="yes-display-inline">In the case of an individual who for any portion of the taxable year has in effect employment authorization pursuant to a program not specifically authorized by law which provides aliens with deferred action on removal, this subsection shall not apply.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				<quoted-block display-inline="no-display-inline" id="HF166AFF13BAB487C8A4EEDABEE112E83" style="OLC">
+ <subsection id="HFDA6F51C2B464FECBC2918D36668CBC4"><enum>(g)</enum><header>Exception for certain aliens</header><text display-inline="yes-display-inline">No credit shall be allowed under this section to any individual—</text> <paragraph id="HA81396A6A5A6436A81970292FEEBA3A1"><enum>(1)</enum><text>who is not lawfully present in the United States at any time during the taxable year, or</text>
+ </paragraph><paragraph id="H55D15481B4A1422DBAF85344716B1A0C"><enum>(2)</enum><text display-inline="yes-display-inline">who for any portion of the taxable year is granted employment authorization pursuant to a program not specifically authorized by law which provides aliens with deferred action on removal.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H876F988ABBCB4681864B0FE8D17A6315"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to taxable years beginning after December 31, 2014.</text> </subsection></section></legis-body> </bill> 
+

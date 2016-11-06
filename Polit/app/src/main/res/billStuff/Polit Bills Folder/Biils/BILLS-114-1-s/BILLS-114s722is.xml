@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S722 IS: To extend the date after which interest earned on obligations held in the wildlife restoration fund may be available for apportionment.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-03-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 722</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150311">March 11, 2015</action-date>
+			<action-desc><sponsor name-id="S337">Mr. Coons</sponsor> (for himself and <cosponsor name-id="S318">Mr. Wicker</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEV00">Committee on Environment and Public Works</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To extend the date after which interest earned on obligations held in the wildlife restoration fund
+			 may be available for apportionment.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Interest on obligations held in the wildlife restoration fund</header>
+ <text display-inline="no-display-inline">Section 3(b)(2)(C) of the Pittman-Robertson Wildlife Restoration Act (<external-xref legal-doc="usc" parsable-cite="usc/16/669b">16 U.S.C. 669b(b)(2)(C)</external-xref>) is amended by striking <quote>2016</quote> and inserting <quote>2026</quote>.</text>
+		</section></legis-body>
+</bill>
+
+

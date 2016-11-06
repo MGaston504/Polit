@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S2097 IS: HIV Clinical Services Improvement Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-09-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 2097</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150929">September 29, 2015</action-date>
+			<action-desc><sponsor name-id="S354">Ms. Baldwin</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XIX of the Social Security Act to provide for payment for Medicaid services
+			 furnished by Ryan White part C grantees under a cost-based prospective
+			 payment system.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>HIV Clinical Services Improvement Act</short-title></quote>.</text>
+		</section><section id="HD02937DFF6D546CFAA936D1EAD7E601C"><enum>2.</enum><header>Medicaid payment
+			 for services furnished by Ryan White part C grantees on a cost-based
+			 prospective payment system</header>
+			<subsection id="H8AEFB569CD2046088E6D1A392332F2B6"><enum>(a)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Section 1902 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396a">42 U.S.C. 1396a</external-xref>) is amended—</text>
+ <paragraph id="H04929E4E96EC493DB66B31ECD47883D0"><enum>(1)</enum><text>in subsection (a)(15), by inserting before the semicolon at the end the following: <quote>and provide for payment for services described in section 1905(a) provided by a recipient of a grant under part C of title XXVI of the Public Health Service Act in accordance with subsection (ll)</quote>; and</text>
+ </paragraph><paragraph id="H068754148CCB4B89B44450BAE99C5FC2"><enum>(2)</enum><text>by adding at the end the following new subsection:</text>
+					<quoted-block display-inline="no-display-inline" id="HD6E39871C5D14F8C967B00BED8D66D53" style="OLC">
+						<subsection id="H81C2970194C74CED8C362C7C3E9FF8BE"><enum>(ll)</enum><header>Payment for
+				services provided by Ryan White part C grantees</header>
+							<paragraph id="HD711B9FF0FC9404790D20C98923544C3"><enum>(1)</enum><header>In
+ general</header><text display-inline="yes-display-inline">Beginning with fiscal year 2016 with respect to services furnished on or after January 1, 2016, and each succeeding fiscal year, the State plan shall provide for payment for services described in section 1905(a) (in this subsection referred to as <quote>Medicaid covered services</quote>) furnished by a recipient of a grant under part C of title XXVI of the Public Health Service Act (in this subsection referred to as a <quote>grantee</quote>) in accordance with the provisions of this subsection.</text>
+							</paragraph><paragraph id="H349DA27B53CF46EC968A5C9BB4FD623D"><enum>(2)</enum><header>Fiscal year
+ 2016</header><text>Subject to paragraph (4), for services furnished on and after January 1, 2016, during fiscal year 2016, the State plan shall provide for payment for such services in an amount (calculated on a per visit or similar basis as specified by the Secretary) that is equal to 100 percent of the average of the costs of the grantee of furnishing such services during fiscal years 2014 and 2015 which are reasonable and related to the cost of furnishing such services, or based on such other tests of reasonableness as the Secretary prescribes in regulations under section 1833(a)(3), or, in the case of services to which such regulations do not apply, the same methodology used under section 1833(a)(3), adjusted to take into account any increase or decrease in the scope of such services furnished by the grantee during fiscal year 2016.</text>
+							</paragraph><paragraph id="HC67A91753AEE4BC7A0678CCE92F06272"><enum>(3)</enum><header>Fiscal year 2017
+ and succeeding fiscal years</header><text>Subject to paragraph (4), for services furnished during fiscal year 2017 or a succeeding fiscal year, the State plan shall provide for payment for such services in an amount (calculated on a per visit or similar basis) that is equal to the amount calculated for such services under this subsection for the preceding fiscal year—</text>
+ <subparagraph id="HB5B56C88860547E58007321AE36ACE99"><enum>(A)</enum><text>increased by the percentage increase in the MEI (as defined in section 1842(i)(3)) applicable to primary care services (as defined in section 1842(i)(4)) for that fiscal year; and</text>
+ </subparagraph><subparagraph id="HA2D3ACC61DAF418A9FA8541698EA654F"><enum>(B)</enum><text>adjusted to take into account any increase or decrease in the scope of such services furnished by the grantee during that fiscal year.</text>
+								</subparagraph></paragraph><paragraph id="H8DEF40E1165A4184BA41F2FEA02D6220"><enum>(4)</enum><header>Establishment of
+ initial year payment amount for new grantees</header><text>In any case in which an entity first becomes a grantee after fiscal year 2015, the State plan shall provide for payment for Medicaid covered services furnished by the entity in the first fiscal year in which the entity so qualifies in an amount (calculated on a per visit or similar basis) that is equal to 100 percent of the costs of furnishing such services during such fiscal year based on the rates established under this subsection for the fiscal year for other such grantees located in the same or adjacent area with a similar case load or, in the absence of such a grantee, in accordance with the regulations and methodology referred to in paragraph (2) or based on such other tests of reasonableness as the Secretary may specify. For each fiscal year following the fiscal year in which the entity first qualifies, the State plan shall provide for the payment amount to be calculated in accordance with paragraph (3).</text>
+							</paragraph><paragraph id="H84E34795A6864D33BA118272EA997C95"><enum>(5)</enum><header>Administration
+				in the case of managed care</header>
+								<subparagraph id="HC9AD65D9EEC64AF2A239218F32661250"><enum>(A)</enum><header>In
+ general</header><text>In the case of services furnished by a grantee pursuant to a contract between the grantee and a managed care entity (as defined in section 1932(a)(1)(B)), the State plan shall provide for payment to the grantee by the State of a supplemental payment equal to the amount (if any) by which the amount determined under paragraphs (2), (3), and (4) exceeds the amount of the payments provided under the contract.</text>
+								</subparagraph><subparagraph id="H903D59142D3E4B36836DF972CD22AC86"><enum>(B)</enum><header>Payment
+ schedule</header><text>The supplemental payment required under subparagraph (A) shall be made pursuant to a payment schedule agreed to by the State and the grantee, but in no case less frequently than every 4 months.</text>
+								</subparagraph></paragraph><paragraph id="H85DE0A9D8566455E9E3DA3F41E6D7425"><enum>(6)</enum><header>Alternative
+ payment methodologies</header><text>Notwithstanding any other provision of this section, the State plan may provide for payment in any fiscal year to a grantee for Medicaid covered services in an amount which is determined under an alternative payment methodology that—</text>
+ <subparagraph id="H09C62CB1266844F1B1C12EBDC4715AC4"><enum>(A)</enum><text>is agreed to by the State and the grantee; and</text>
+ </subparagraph><subparagraph id="H6957B058065E4212B4802680BC9740B9"><enum>(B)</enum><text>results in payment to the grantee of an amount which is at least equal to the amount otherwise required to be paid to the grantee under this subsection.</text>
+ </subparagraph></paragraph><paragraph commented="no" id="id6B066096E3ED4FB1898E09015D333D8C"><enum>(7)</enum><header>Quality management and reporting requirements</header><text>The Secretary shall require that, as appropriate, a grantee shall be subject to quality management and reporting requirements comparable to those imposed on federally qualified health centers, including reporting of encounter data, clinical outcomes data, quality data, and such other data as the Secretary shall require, as a condition of such grantee receiving payment for Medicaid covered services under this subsection.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="HFF96D7F2920E4E9381FB81C1BDB8897A"><enum>(b)</enum><header>Effective
+			 date</header>
+ <paragraph id="H0C346FBDBE454ACB89771E221E2C92F6"><enum>(1)</enum><text display-inline="yes-display-inline">Except as provided in paragraph (2), the amendments made by subsection (a) shall apply to services furnished on or after January 1, 2016, without regard to whether or not final regulations to carry out such amendment have been promulgated by such date.</text>
+ </paragraph><paragraph commented="no" display-inline="no-display-inline" id="HB0B82ABC39A343109734938CF50DAE17"><enum>(2)</enum><text>In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirement imposed by the amendments made by subsection (a), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet this additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

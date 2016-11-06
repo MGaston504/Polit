@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HFEDC9692056E4490BA0F59B8FE1EA66F" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 899 IH: Religious Worker Visa Reciprocity Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-02-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 899</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150211">February 11, 2015</action-date>
+			<action-desc><sponsor name-id="K000362">Mr. King of Iowa</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require the country of origin of certain special immigrant religious workers to extend
+			 reciprocal immigration treatment to nationals of the United States.</official-title>
+	</form>
+	<legis-body id="HDD408DF6660B4B8CABB9AEC337ED5057" style="OLC">
+ <section id="H60CC274D45584727A01B1000DF55775D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Religious Worker Visa Reciprocity Act of 2015</short-title></quote>.</text> </section><section id="HFA68640AA9B54D6CA54348A1E4A0ED52"><enum>2.</enum><header>Requiring reciprocal immigration treatment</header><text display-inline="no-display-inline">Section 204(a)(1)(G) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1154">8 U.S.C. 1154(a)(1)(G)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H1E3D4D80A3C54838B6BE8E9D40DB9B91" style="traditional">
+ <clause id="HDE1AC5C9613D4EE9B8D1DDEF0E192C9D" indent="up3"><enum>(iii)</enum><text display-inline="yes-display-inline">Beginning on October 1, 2015, no petition may be approved for classification of an alien as a special immigrant under section 101(a)(27)(C) if the Secretary of Homeland Security has determined that the country of the alien’s nationality—</text>
+ <subclause id="H311C9F9F3DA94ADD9BEEDF3BA8DBCE3A"><enum>(I)</enum><text>is identified as a <term>Country of Particular Concern</term> or a country where religious freedom is of significant interest in the 2013 International Religious Freedom Report; or</text>
+ </subclause><subclause id="HE9095886321D4C1EB9C8D7D82D5AFAAE"><enum>(II)</enum><text>does not extend reciprocal immigration treatment to nationals of the United States who are seeking resident status in order to work in a religious vocation or occupation.</text></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>
+
+

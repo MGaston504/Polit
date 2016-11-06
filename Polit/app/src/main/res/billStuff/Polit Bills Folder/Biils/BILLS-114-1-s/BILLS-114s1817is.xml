@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S1817 IS: Smarter Regulations Through Advance Planning and Review Act of 2015</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2015-07-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>114th CONGRESS</congress><session>1st Session</session>
+		<legis-num>S. 1817</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20150721">July 21, 2015</action-date>
+			<action-desc><sponsor name-id="S360">Ms. Heitkamp</sponsor> (for herself and <cosponsor name-id="S378">Mr. Lankford</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To improve the effectiveness of major rules in accomplishing their regulatory objectives by
+			 promoting retrospective review, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Smarter Regulations Through Advance Planning and Review Act of 2015</short-title></quote> or the <quote><short-title>Smarter Regs Act of 2015</short-title></quote>.</text>
+		</section><section id="id9C507CDD2DD744AE93559D7A7F1A9CCC"><enum>2.</enum><header>Incorporating retrospective review into new major rules</header>
+ <subsection id="idB96A45790CD046B1994EFEDFF6B77C6F"><enum>(a)</enum><header>In general</header><text>Subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/5">chapter 5</external-xref> of title 5, United States Code, is amended—</text> <paragraph id="idC45711A3C131492DA896751F5B25B9B6"><enum>(1)</enum><text display-inline="yes-display-inline">in section 551—</text>
+ <subparagraph id="id380AD8EC86324B45B104122BC7E96738"><enum>(A)</enum><text display-inline="yes-display-inline">in paragraph (13), by striking <quote>; and</quote> and inserting a semicolon;</text> </subparagraph><subparagraph id="id2CEDAFBE5475403A88BAD9EBECABB284"><enum>(B)</enum><text display-inline="yes-display-inline">in paragraph (14), by striking the period at the end and inserting a semicolon; and</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idAD655AD9109C41AD99B5672080A8EB34"><enum>(C)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="id5F1FCEFB8B234F2B9510EE7CBDCD6DAA" style="OLC"> <paragraph id="id9ac39d9dc82e441f992268944ce2ab47"><enum>(15)</enum><text><term>Administrator</term> means the Administrator of the Office of Information and Regulatory Affairs of the Office of Management and Budget; and</text>
+ </paragraph><paragraph id="id1739C0B71C094B10A01B6FBC1F7DBDD7"><enum>(16)</enum><text><term>major rule</term> means any rule that the Administrator finds has resulted in or is likely to result in—</text>
+ <subparagraph id="id1834ad018c204021b01691ebc8e05c4e"><enum>(A)</enum><text>an annual effect on the economy of $100,000,000 or more;</text> </subparagraph><subparagraph id="id30677dd1108144f6aa4870ce7da48a09"><enum>(B)</enum><text>a major increase in costs or prices for consumers, individual industries, Federal, State, or local government agencies, or geographic regions; or</text>
+ </subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id27F3FAB1A8E8404C9693E49BF6CD246B"><enum>(C)</enum><text>significant adverse effects on competition, employment, investment, productivity, innovation, or on the ability of United States-based enterprises to compete with foreign-based enterprises in domestic and export markets.</text></subparagraph></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id89B880CAF5374C4E91D0A0BB14258732"><enum>(2)</enum><text>in section 553, by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="id48C04413071E418880EF4C441617F5B2" style="OLC"> <subsection id="idDE4F109338C447BC87235BDC1BD6DCC0"><enum>(f)</enum><header>Regulation-Specific Frameworks</header> <paragraph id="idD8ED675F25904899BA6C05E18F6BD436"><enum>(1)</enum><header>In general</header><text>Beginning 180 days after the date of enactment of this subsection, when an agency publishes a proposed or final major rule in the Federal Register, the agency shall include a framework for reassessing the major rule under paragraph (2), which shall include—</text>
+ <subparagraph id="idF6602E9F790A43E5813C4742ED2221B9"><enum>(A)</enum><text>a clear statement of the regulatory objectives of the major rule, including the societal benefit and cost of the major rule;</text>
+ </subparagraph><subparagraph id="id5A60F3BC44334C148CC8912B361143DD"><enum>(B)</enum><text>the methodology by which the agency plans to analyze the major rule, including metrics by which the agency can measure—</text>
+ <clause id="idB060786DACC3423D927E0EB577309E29"><enum>(i)</enum><text>the effectiveness and benefits of the major rule in producing the regulatory objectives of the major rule; and</text>
+ </clause><clause id="idB61FB6F3459C4CC88178B20FABCA9441"><enum>(ii)</enum><text>the impacts, including any costs, of the major rule on regulated entities;</text> </clause></subparagraph><subparagraph id="idD1DE12503E9C4E5BA2E324E39BA633A7"><enum>(C)</enum><text>a plan for gathering data regarding the metrics described in subparagraph (B) on an ongoing basis, or at periodic times, during the implementation of the major rule, including the method by which the agency will invite the public to participate in the review process and seek input from other agencies, taking into account any burden to the public in supplying relevant data to agencies; and</text>
+ </subparagraph><subparagraph id="id45CDDBF3116C457291F37344668B5CDC"><enum>(D)</enum><text>a specific time frame, as appropriate to the major rule and not more than 10 years, under which the agency shall conduct the reassessment of the major rule in accordance with paragraph (2)(A).</text>
+								</subparagraph></paragraph><paragraph id="idC9DD67C97551496E995E6FC5B16708FD"><enum>(2)</enum><header>Reassessment</header>
+ <subparagraph id="idAD8D8257C234485A8E6999EDAF0D7BC4"><enum>(A)</enum><header>In general</header><text>Each agency shall assess the data collected under paragraph (1)(C), using the methodology set forth in paragraph (1)(B), with respect to a major rule—</text>
+ <clause id="id534ECFC50AE2469A9F44A09C96004599"><enum>(i)</enum><text>to analyze how the actual benefits and costs of the major rule may have varied from those anticipated at the time the major rule was issued; and</text>
+ </clause><clause id="id3E2454087ADD4A31ADEDDAB7A4B5C02F"><enum>(ii)</enum><text>to determine whether—</text> <subclause id="id5592D15054784F9583CFFAB5E55AC389"><enum>(I)</enum><text>the major rule is accomplishing its regulatory objective;</text>
+ </subclause><subclause id="idE8673DFBBD8D4E92A1AA4ED9AB65409F"><enum>(II)</enum><text>the major rule has been rendered unnecessary, taking into consideration—</text> <item id="idF53DE9F8889A4EA190C11E0D6F2BD9FB"><enum>(aa)</enum><text>changes in the subject area affected by the major rule; and</text>
+ </item><item id="id89A9E50A086D41F6941252BFB51924A3"><enum>(bb)</enum><text>whether the major rule overlaps, duplicates, or conflicts with other rules or, to the extent feasible, State and local government regulations; and</text>
+ </item></subclause><subclause id="id43E2911D6EC34CDBB366586219456495"><enum>(III)</enum><text>other alternatives to the major rule or modification of the major rule could achieve better results while imposing a smaller burden on society or at a lower cost, taking into consideration any cost already incurred.</text>
+ </subclause></clause></subparagraph><subparagraph id="id6418016577B14AE2A7169B833EAB0F8C"><enum>(B)</enum><header>Subsequent assessments</header><text>If, after a reassessment of a major rule under subparagraph (A), an agency determines that the major rule will remain in effect with or without modification, the agency shall—</text>
+ <clause id="idEFC4958B21034FEA9E0B5D3E31BE2DD5"><enum>(i)</enum><text>determine a specific time, as appropriate to the major rule and not more than 10 years, under which the agency shall conduct another assessment of the major rule in accordance with subparagraph (A); and</text>
+ </clause><clause id="id36E3D67788A3429C9C8F6C165AEE42A9"><enum>(ii)</enum><text>if the assessment conducted under clause (i) does not result in a repeal of the major rule, periodically reassess the major rule in accordance with subparagraph (A) to ensure the major rule continues to meet the regulatory objective.</text>
+ </clause></subparagraph><subparagraph id="id8F970B1289ED41C48B7AB2D150CAFFB5"><enum>(C)</enum><header>Publication</header><text>Not later than 180 days after the date on which an agency completes a reassessment of a major rule under subparagraph (A), the agency shall publish a notice of availability of the results of the reassessment in the Federal Register, including the specific time for any subsequent assessment of the major rule under subparagraph (B)(i), if applicable.</text>
+ </subparagraph></paragraph><paragraph id="idB7643DB768D844B7855BFBC5492C2A6C"><enum>(3)</enum><header>OMB oversight</header><text>The Administrator shall—</text> <subparagraph id="idc1d5963b160f4815acc85d03ab24d7c1"><enum>(A)</enum><text>issue guidance for agencies regarding the development of the framework under paragraph (1) and the conduct of the reassessments under paragraph (2)(A);</text>
+ </subparagraph><subparagraph id="id841707a08451437eaf2c201ef7fd775b"><enum>(B)</enum><text>oversee the timely compliance of agencies with this subsection; and</text> </subparagraph><subparagraph id="idfd45359f9cd6437b96ee9e1eb1880781"><enum>(C)</enum><text>ensure that the results of each reassessment conducted under paragraph (2)(A) are—</text>
+ <clause id="id4B182D75B85E4DAF9A98050E4FA44E4E"><enum>(i)</enum><text>published promptly on a centralized Federal website; and</text> </clause><clause id="idB66641051B4643F3BAFDDE662607945A"><enum>(ii)</enum><text>noticed in the Federal Register in accordance with paragraph (2)(C).</text>
+ </clause></subparagraph></paragraph><paragraph id="id8FBAEF9E558A4229AE46151EBB231DA0"><enum>(4)</enum><header>Rule of construction</header><text>Nothing in this subsection shall be construed to affect—</text> <subparagraph id="id1A73DF5B48734B2DB73B9CDEE7D1E157"><enum>(A)</enum><text>the authority of an agency to reassess or modify a major rule of the agency earlier than the end of the time frame specified for the major rule under paragraph (1)(D); or</text>
+ </subparagraph><subparagraph id="id0DBC0B50A5D24A0EB1BC03A5DB4F2141"><enum>(B)</enum><text>any other provision of law that requires an agency to conduct retrospective reviews of rules issued by the agency.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="idA4A6C510E9174AE4A31A1ECD7ECD45E8"><enum>(b)</enum><header>Authorization of appropriations</header><text>There are authorized to be appropriated such sums as may be necessary to carry out the amendments made by subsection (a).</text></subsection></section></legis-body></bill>
+
+

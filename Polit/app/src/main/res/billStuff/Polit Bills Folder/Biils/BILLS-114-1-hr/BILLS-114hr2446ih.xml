@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H67E058FF3EBA4E08A5CF81ED42D5632E" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 2446 IH: To amend title XIX of the Social Security Act to require the use of electronic visit verification for personal care services furnished under the Medicaid program, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-05-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2446</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150519">May 19, 2015</action-date>
+			<action-desc><sponsor name-id="G000558">Mr. Guthrie</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XIX of the Social Security Act to require the use of electronic visit verification
+			 for personal care services furnished under the Medicaid program, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body id="HF7B12BDB6CBD4A2EA736D8831ED8801C" style="OLC">
+		<section id="H3C9E69C606DC44A997E1EC498A1FB597" section-type="section-one"><enum>1.</enum><header>Electronic visit verification system required for personal care services under Medicaid</header>
+ <subsection id="H596D310837AC40D781F4EBCF043BD162"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1903 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396b">42 U.S.C. 1396b</external-xref>) is amended by inserting after subsection (k) the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="HD02F80B0C1E541E0921A60F4B0B15F7B" style="traditional">
+					<subsection id="HBA12AE4AFDD44004B461DBEF3F125431"><enum>(l)</enum>
+ <paragraph commented="no" display-inline="yes-display-inline" id="HDAD1BC6E1827494D98C5FBBBAF9B3775"><enum>(1)</enum><text display-inline="yes-display-inline">Subject to paragraph (2), with respect to any amount expended for medical assistance for services described in section 1915(d)(5)(C)(i) or such similar services as the Secretary may specify furnished in a calendar quarter beginning on or after January 1, 2018, unless a State has in place an electronic visit verification system for personal care services specified under regulations under section 1905(a)(24)<italic></italic> furnished in such quarter, the Federal medical assistance percentage shall be reduced—</text>
+ <subparagraph id="H46B4773FEF5A418C8C97A68F1A476F0C" indent="up1"><enum>(A)</enum><text display-inline="yes-display-inline">for calendar quarters in 2018 and 2019, by .25 percentage points;</text> </subparagraph><subparagraph id="H21870D5E66FF4C31B4420878D736E032" indent="up1"><enum>(B)</enum><text display-inline="yes-display-inline">for calendar quarters in 2020, by .5 percent percentage points;</text>
+ </subparagraph><subparagraph id="HB484E0A02173487D9825441F0BCB6DFA" indent="up1"><enum>(C)</enum><text display-inline="yes-display-inline">for calendar quarters in 2021, by .75 percentage points; and</text> </subparagraph><subparagraph id="HFE39EAA3305E4A61B633A086226929AF" indent="up1"><enum>(D)</enum><text display-inline="yes-display-inline">for calendar quarters in 2022 and each year thereafter, by 1 percentage point.</text>
+ </subparagraph></paragraph><paragraph id="H2364944E4570469B95E851A5695F7CA5" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">Paragraph (1) shall not apply in the case of a State that, as of the date of the enactment of this subsection, has in place any system for the electronic verification of visits conducted as part of personal care services specified under regulations under section 1905(a)(24) furnished under the State plan.</text>
+ </paragraph><paragraph id="HFB983E76BC3F42CF8C2F78C5BE4AFBFC" indent="up1"><enum>(3)</enum><text display-inline="yes-display-inline">In this subsection, the term <quote>electronic visit verification system</quote> means a system under which visits conducted as part of personal care services specified under regulations under section 1905(a)(24)<italic></italic> furnished under the State plan are electronically verified with respect to—</text>
+ <subparagraph id="H6CD3051D42F9492BB96D4D65C0D59C8A"><enum>(A)</enum><text>the date of the service;</text> </subparagraph><subparagraph id="H6839DB06CE6F40498631D5ADB04149A1"><enum>(B)</enum><text>the site of the service;</text>
+ </subparagraph><subparagraph id="H33D5248D5E8046B3B1E5B120364415D2"><enum>(C)</enum><text>the provider of the service; and</text> </subparagraph><subparagraph id="H7039522C1D1F4802910BC0A317E1F01E"><enum>(D)</enum><text>the duration of the service.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H82CD7142319840B5849377A17CE43445"><enum>(b)</enum><header>Rule of construction</header><text display-inline="yes-display-inline">Nothing in the amendment made by this section may be construed as establishing an employer-employee relationship between the agency or entity that provides for personal care services specified under regulations under section 1905(a)(24) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396d">42 U.S.C. 1396d(a)(24)</external-xref>)<italic></italic> under a State plan under title XIX of the Social Security Act and the individuals who, under a contract with such an agency or entity, furnish such services for purposes of part 552 of title 29, Code of Federal Regulations (or any successor regulations). <italic></italic></text>
+			</subsection></section></legis-body>
+</bill>
+
+

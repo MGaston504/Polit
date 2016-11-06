@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H015D1752C077440F9AFB3D02D40EA8DA" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1665 IH: Alternative Fuel Tax Parity Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-03-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1665</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150326">March 26, 2015</action-date>
+			<action-desc><sponsor name-id="Y000064">Mr. Young of Indiana</sponsor> (for himself, <cosponsor name-id="L000557">Mr. Larson of Connecticut</cosponsor>, <cosponsor name-id="T000238">Mr. Thornberry</cosponsor>, and <cosponsor name-id="K000188">Mr. Kind</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to equalize the excise tax on liquefied natural gas and
+			 liquefied petroleum gas.</official-title>
+	</form>
+	<legis-body id="H32E56B78899A440CB629EC605EF1E6C9" style="OLC">
+ <section id="HF7BB5B9D3B3D4CDEB08C6B3CCA69A617" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Alternative Fuel Tax Parity Act</short-title></quote>.</text> </section><section id="H98BCE5F6A52A4A049A2C3006F28D1B45"><enum>2.</enum><header>Equalization of excise taxes and credits on liquefied natural gas and liquefied petroleum gas</header> <subsection id="H5440CB9EDF8B45AA928F6285F42BE57A"><enum>(a)</enum><header>Liquefied petroleum gas</header> <paragraph id="H950F4275355D4DFCAEE3D42711D5C419"><enum>(1)</enum><header>In general</header><text>Subparagraph (B) of <external-xref legal-doc="usc" parsable-cite="usc/26/4041">section 4041(a)(2)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>and</quote> at the end of clause (i), by redesignating clause (ii) as clause (iii), and by inserting after clause (i) the following new clause:</text>
+					<quoted-block id="H27A233B95D8B414A8298C9CEFBC98B1A" style="OLC">
+ <clause id="H99E8A106DB794024B294588E23E8FDFD"><enum>(ii)</enum><text>in the case of liquefied petroleum gas, 18.3 cents per energy equivalent of a gallon of gasoline, and</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="HB14316543CE54EB8B921D2A076F5DDB2"><enum>(2)</enum><header>Energy equivalent of a gallon of gasoline</header><text>Paragraph (2) of <external-xref legal-doc="usc" parsable-cite="usc/26/4041">section 4041(a)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following:</text>
+					<quoted-block id="H36ED43F785AD47ADB90ACA83BD2C646B" style="OLC">
+ <subparagraph id="H89A0A029665748CD8D983C30F4D6E7D5"><enum>(C)</enum><header>Energy equivalent of a gallon of gasoline</header><text display-inline="yes-display-inline">For purposes of this paragraph, the term <term>energy equivalent of a gallon of gasoline</term> means, with respect to a liquefied petroleum gas fuel, the amount of such fuel having a Btu content of 115,400 (lower heating value). For purposes of the preceding sentence, a Btu content of 115,400 (lower heating value) is equal to 5.75 pounds of liquefied petroleum gas.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="HAB85B68DAF274E0589FDF2A49E394C21"><enum>(b)</enum><header>Liquefied natural gas</header>
+ <paragraph id="H5E0102E7DFBE4A49A937F6A51D7D45EF"><enum>(1)</enum><header>In general</header><text>Subparagraph (B) of <external-xref legal-doc="usc" parsable-cite="usc/26/4041">section 4041(a)(2)</external-xref> of the Internal Revenue Code of 1986, as amended by subsection (a)(1), is amended by striking <quote>and</quote> at the end of clause (ii), by striking the period at the end of clause (iii) and inserting <quote>, and</quote> and by inserting after clause (iii) the following new clause:</text>
+					<quoted-block id="H6D8047869DED482C92E394C3A875FB59" style="OLC">
+ <clause id="H5B5E394370DF47E68A4C723929742362"><enum>(iv)</enum><text>in the case of liquefied natural gas, 24.3 cents per energy equivalent of a gallon of diesel.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph><paragraph id="H1B3EA9ABC34E40C9BD97E70452002E67"><enum>(2)</enum><header>Energy equivalent of a gallon of diesel</header><text>Paragraph (2) of <external-xref legal-doc="usc" parsable-cite="usc/26/4041">section 4041(a)</external-xref> of the Internal Revenue Code of 1986, as amended by subsection (a)(2), is amended by adding at the end the following:</text>
+					<quoted-block id="H929CAF9D4FDD45AAB3B93047C19687D5" style="OLC">
+ <subparagraph id="H597A1097B9874BC388A1D551BB655F27"><enum>(D)</enum><header>Energy equivalent of a gallon of diesel</header><text display-inline="yes-display-inline">For purposes of this paragraph, the term <term>energy equivalent of a gallon of diesel</term> means, with respect to a liquefied natural gas fuel, the amount of such fuel having a Btu content of 128,700 (lower heating value). For purposes of the preceding sentence, a Btu content of 128,700 (lower heating value) is equal to 6.06 pounds of liquefied natural gas.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="HAEC730FA2AED4C6EBDAEE9AE38EDF24C"><enum>(3)</enum><header>Alternative fuel credit for liquefied natural gas</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/6426">Section 6426(d)</external-xref> of the Internal Revenue Code of 1986 is amended by redesignating paragraph (5) as paragraph (6) and by inserting after paragraph (4) the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H0592DC77E5C349B2918AD52F47075F36" style="OLC">
+ <paragraph id="H27D8A8100EB04F138C08FCA93B3423EC"><enum>(5)</enum><header>Special rule for liquefied natural gas</header><text display-inline="yes-display-inline">In the case of liquefied natural gas, the alternative fuel credit is the product of 50 cents and the per energy equivalent of a gallon of diesel (as defined in section 4041(a)(2)(D)) for the number of gallons of liquefied natural gas sold by the taxpayer for use as a fuel in a motor vehicle or motorboat, sold by the taxpayer for use as a fuel in aviation, or so used by the taxpayer.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H7BBEA34756F04A0BAC6586AA43E4DFE2"><enum>(4)</enum><header>Conforming amendments</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/4041">Section 4041(a)(2)(B)(iii)</external-xref> of the Internal Revenue Code of 1986, as redesignated by subsection (a)(1), is amended—</text>
+ <subparagraph id="HFAE032F0D82145E8BB94284F49AE066C"><enum>(A)</enum><text>by striking <quote>liquefied natural gas,</quote>, and</text> </subparagraph><subparagraph id="HBE365EE3810D456284F02762BBA44FD6"><enum>(B)</enum><text>by striking <quote>peat), and</quote> and inserting <quote>peat) and</quote>.</text>
+ </subparagraph></paragraph></subsection><subsection id="H732B051A2F9F410BAC9EB2A262D1549D"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to any sale or use of fuel after December 31, 2015.</text> </subsection></section></legis-body> </bill> 
+

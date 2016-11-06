@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5BEA421884B14C868C4863339D7EA9FF" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3887 IH: Driver Accountability and Accident Prevention (DAAP) Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-11-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3887</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20151103">November 3, 2015</action-date>
+			<action-desc><sponsor name-id="C000266">Mr. Chabot</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 49, United States Code, to increase certain penalties relating to commercial motor
+			 vehicle safety, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HA20D2AD31C744F379E76CB8F77D39C30" style="OLC">
+ <section id="idB3CBD10DA3E248DF9734418B209A3AE6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Driver Accountability and Accident Prevention (DAAP) Act of 2015</short-title></quote>.</text></section><section id="HA8AFD4108CA54ADF9CFFB8759DA9DA84" section-type="subsequent-section"><enum>2.</enum><header>Penalties</header> <subsection id="HEC5D4702989C4D81990B1D717C2ACFA4"><enum>(a)</enum><header>Civil penalty</header><text display-inline="yes-display-inline">Section 521(b)(2)(A) of title 49, United States Code, is amended by striking <quote>$2,500</quote> and inserting <quote>$5,000</quote>.</text>
+ </subsection><subsection id="HE97C552B7C824DBABE21AEF48988E120"><enum>(b)</enum><header>Criminal penalty</header><text display-inline="yes-display-inline">Section 521(b)(6)(A) of title 49, United States Code, is amended by striking <quote>$2,500</quote> and inserting <quote>$5,000</quote>.</text> </subsection><subsection id="H25DE3D8729464691985C10031C4A659A"><enum>(c)</enum><header>Disqualifications</header> <paragraph id="HF7076426F6794DD9B876A08CF9961EF0"><enum>(1)</enum><header>First violation or committing felony</header><text display-inline="yes-display-inline">Section 31310(b)(1) of title 49, United States Code, is amended—</text>
+ <subparagraph id="HA5551656F5E8462687FCD5BCAA9B6680"><enum>(A)</enum><text>in subparagraph (D), by striking <quote>; or</quote> and inserting a semicolon;</text> </subparagraph><subparagraph id="H73F7D06FE1674E26B22157FBFB37F371"><enum>(B)</enum><text>in subparagraph (E), by striking the period at the end and inserting <quote>; or</quote>; and</text>
+ </subparagraph><subparagraph id="H9A2A1AA3F32D4F73BC93956C263753E8"><enum>(C)</enum><text>by adding at the end the following new subparagraph:</text> <quoted-block display-inline="no-display-inline" id="HB1E032FFB1714CFB9980B180A5B55753" style="OLC"> <subparagraph id="H6C903BEC88754A1282426A4C1FC8CA2E" indent="up1"><enum>(F)</enum><text display-inline="yes-display-inline">determined by the Secretary to have operated a commercial motor vehicle that the individual knew or reasonably should have known had a defect that resulted in a fatality.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subparagraph></paragraph><paragraph id="H2F26FEEFBE514B0CB60D44426BD5AF76"><enum>(2)</enum><header>Second and multiple violations</header><text display-inline="yes-display-inline">Section 31310(c)(1) of title 49, United States Code, is amended—</text> <subparagraph id="H55EDDCF54D854D6C872E4C9E441FE9DD"><enum>(A)</enum><text>in subparagraph (E), by striking <quote>; or</quote> and inserting a semicolon;</text>
+ </subparagraph><subparagraph id="H08DE933341BA45DEA4E55DD8259E8437"><enum>(B)</enum><text>by redesignating subparagraph (F) as subparagraph (G);</text> </subparagraph><subparagraph id="H8D49F86DA9294B15AEF2F8017602A340"><enum>(C)</enum><text>in subparagraph (G) (as so redesignated)—</text>
+ <clause id="H104DC0C4D2D84CE0B47BA06EE6A845F1"><enum>(i)</enum><text>by striking <quote>(E)</quote> and inserting <quote>(F)</quote>; and</text> </clause><clause id="H14A01363F0294ED78CD4226BE92637C3"><enum>(ii)</enum><text>by inserting <quote>, operations,</quote> after <quote>violations</quote>; and</text>
+ </clause></subparagraph><subparagraph id="HAED0A6FDA3BE4801AB1422B30068D7BB"><enum>(D)</enum><text>by inserting after subparagraph (E) the following new subparagraph:</text> <quoted-block display-inline="no-display-inline" id="HC64AB2840C914DFDB84A6EA9D9049C7A" style="OLC"> <subparagraph id="HAA4364938FBF467396DAC0C853F0A5D0" indent="up1"><enum>(F)</enum><text display-inline="yes-display-inline">determined by the Secretary to have more than once operated a commercial motor vehicle that the individual knew or reasonably should have known had a defect that resulted in a fatality; or</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph></paragraph></subsection></section></legis-body>
+</bill>
+
+

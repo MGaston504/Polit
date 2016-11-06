@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="HFED7E05652DE428D9A69032DB1581592" public-private="public"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3231 RH: Federal Intern Protection Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-12-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IB</distribution-code> 
+<calendar display="yes">Union Calendar No. 289</calendar> 
+<congress display="yes">114th CONGRESS</congress> <session display="yes">1st Session</session> 
+<legis-num>H. R. 3231</legis-num> 
+<associated-doc role="report" display="yes">[Report No. 114–383]</associated-doc> 
+<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20150728">July 28, 2015</action-date> 
+<action-desc><sponsor name-id="C000984">Mr. Cummings</sponsor> (for himself, <cosponsor name-id="S000185">Mr. Scott of Virginia</cosponsor>, and <cosponsor name-id="M001188">Ms. Meng</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00" added-display-style="italic" deleted-display-style="strikethrough">Committee on Oversight and Government Reform</committee-name></action-desc> 
+</action> 
+<action>
+<action-date date="20151218">December 18, 2015</action-date>
+<action-desc>Additional sponsor: <cosponsor name-id="N000147">Ms. Norton</cosponsor></action-desc>
+</action>
+<action> 
+<action-date date="20151218">December 18, 2015</action-date> 
+<action-desc>Reported with amendments, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action-desc> 
+<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction> 
+<action-instruction>For text of introduced bill, see copy of bill as introduced on July 28, 2015</action-instruction> 
+</action> 
+<action display="yes"> 
+<action-desc display="yes"><pagebreak/></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To amend title 5, United States Code, to protect unpaid interns in the Federal government from workplace harassment and discrimination, and for other purposes.<pagebreak/></official-title> 
+</form> 
+<legis-body display-enacting-clause="yes-display-enacting-clause" changed="added" style="OLC" committee-id="HGO00" reported-display-style="italic" id="H972BC54720544C3780435459DBE52ACD"> 
+<section id="HC873CB2ED4C74BC1935D38D8D59CF21C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Federal Intern Protection Act of 2015</short-title></quote>.</text></section> <section id="HA9C100E139B64D518A7BB6943A42284B"><enum>2.</enum><header>Prohibited personnel practices</header> <subsection id="H195CCCE1B7FC4563AF37AF13A6905797"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 2302 of title 5, United States Code, is amended by adding at the end the following:</text> 
+<quoted-block display-inline="no-display-inline" id="HA96563D559D04537A5900FA23E36DDB3" style="USC"> 
+<subsection id="HE77BC429D54344C6B7EC58B5FAB5CA51"><enum>(g)</enum> 
+<paragraph commented="no" display-inline="yes-display-inline" id="H8D8E7CD3C5C0429193DBFFD4D664FADB"><enum>(1)</enum><text display-inline="yes-display-inline">All protections afforded to an employee under subparagraphs (A), (B), and (D) of subsection (b)(1) shall be afforded, in the same manner and to the same extent, to an intern and an applicant for internship. </text></paragraph> <paragraph id="H801A226590D045EA8967D8313C0270F5" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">For purposes of the application of this subsection, a reference to an employee shall be considered a reference to an intern in—</text> 
+<subparagraph id="HE06ACAE0E2354C92B821AF637A9E468D"><enum>(A)</enum><text>section 717 of the Civil Rights Act of 1964 (<external-xref legal-doc="usc" parsable-cite="usc/42/2000e-16">42 U.S.C. 2000e–16</external-xref>);</text></subparagraph> <subparagraph id="H34FF2E70314047958733724F6774701A"><enum>(B)</enum><text display-inline="yes-display-inline">sections 12 and 15 of the Age Discrimination in Employment Act of 1967 (<external-xref legal-doc="usc" parsable-cite="usc/29/631">29 U.S.C. 631</external-xref>, 633a); and</text></subparagraph> 
+<subparagraph id="H2820D7A4A8B64D5E99F6CC6AFB8EE416"><enum>(C)</enum><text display-inline="yes-display-inline">section 501 of the Rehabilitation Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/29/791">29 U.S.C. 791</external-xref>).</text></subparagraph></paragraph> <paragraph id="H47F83F1285B04951B973AABA737B963C" indent="up1"><enum>(3)</enum><text>In this subsection, the term <quote>intern</quote> means an individual who performs uncompensated voluntary service in an agency to earn credit awarded by an educational institution or to learn a trade or occupation.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="HE18F931E55AB43908A906D4BB75E0FB5"><enum>(b)</enum><header>Conforming amendment</header><text>Section 3111(c)(1) of title 5, United States Code, is amended by inserting <quote>section 2302(g) (relating to prohibited personnel practices),</quote> before <quote>chapter 81</quote>.</text></subsection></section> </legis-body><official-title-amendment>Amend the title so as to read: <quote>A bill to amend title 5, United States Code, to protect unpaid interns in the Federal Government from workplace harassment and discrimination, and for other purposes.</quote>.</official-title-amendment> <endorsement display="yes"> <action-date date="20151218">December 18, 2015</action-date> <action-desc>Reported with amendments, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action-desc></endorsement> </bill> 
+

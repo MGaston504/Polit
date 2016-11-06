@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA1DA083DDFF14EDB99278B32CB7B2ED6" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 3651 IH: Positive Train Control Enforcement and Implementation Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-09-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3651</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150930">September 30, 2015</action-date>
+			<action-desc><sponsor name-id="S001154">Mr. Shuster</sponsor> (for himself, <cosponsor name-id="D000191">Mr. DeFazio</cosponsor>, <cosponsor name-id="D000612">Mr. Denham</cosponsor>, and <cosponsor name-id="C001037">Mr. Capuano</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 49, United States Code, to provide for the extension of certain deadlines related to
+			 positive train control, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H014AD1201FF347AEA13BE407BBE86209" style="OLC">
+ <section id="H74C3D9BF0F1D4B3E9B27981312F2B126" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Positive Train Control Enforcement and Implementation Act of 2015</short-title></quote>.</text> </section><section commented="no" id="HDDCE80C4054A4FDB87DEBA07F50C8C7B" section-type="subsequent-section"><enum>2.</enum><header>Ensuring safe implementation of positive train control on poisonous or toxic-by-inhalation and passenger rail lines</header><text display-inline="no-display-inline">Section 20157 of title 49, United States Code, is amended—</text>
+ <paragraph commented="no" id="H6CE918DC9CAB4315829E23DE64CAC398"><enum>(1)</enum><text>in subsection (a)(1)—</text> <subparagraph commented="no" id="H8DC0561CB9E44572A16EE0E3C17CE7F2"><enum>(A)</enum><text display-inline="yes-display-inline">by striking <quote>18 months after the date of enactment of the Rail Safety Improvement Act of 2008</quote> and inserting <quote>60 days after the date of enactment of the <short-title>Positive Train Control Enforcement and Implementation Act of 2015</short-title></quote>;</text>
+ </subparagraph><subparagraph commented="no" id="H3D905659C762404DAB79F27CC87BA6B5"><enum>(B)</enum><text>by striking <quote>develop</quote> and inserting <quote>revise</quote>;</text> </subparagraph><subparagraph commented="no" id="H18316E282C964B3B9F37A8E98FE5EDD2"><enum>(C)</enum><text>by striking <quote>December 31, 2015</quote> and inserting <quote>December 31, 2018, or the deadline determined appropriate by the Secretary pursuant to paragraph (2)</quote>; and</text>
+ </subparagraph><subparagraph commented="no" id="H37DA2C1ADC984E899565CA3D328540CA"><enum>(D)</enum><text>in subparagraph (B) by striking <quote>parts</quote> and inserting <quote>sections</quote>;</text> </subparagraph></paragraph><paragraph commented="no" id="H528E24AD3DA84B98A3C248AF9DA72FA8"><enum>(2)</enum><text>by striking subsection (a)(2) and inserting the following:</text>
+				<quoted-block id="H4C76E7B776C9495FBE122857DFEE609A" style="USC">
+					<paragraph commented="no" id="HBAEEE24B4804497CB100BB9609442C9C"><enum>(2)</enum><header>Authority to extend deadline</header>
+ <subparagraph commented="no" id="H93D76348F7914267B1C93F69043F2676"><enum>(A)</enum><text display-inline="yes-display-inline">The Secretary may extend the deadline described in paragraph (1) of this subsection, applicable to each carrier or entity required to submit a plan under paragraph (1), for a period not to exceed 12 months if such a carrier or entity demonstrates to the satisfaction of the Secretary that such carrier or entity—</text>
+ <clause commented="no" id="HD7EAD830AB364E6CAD4FBE1CD6C404F5"><enum>(i)</enum><text>will not be able to implement a positive train control system by the deadline described in paragraph (1) due to technical, programmatic, or operational challenges, such as availability of public funding, spectrum, technology, and interoperability standards;</text>
+ </clause><clause commented="no" id="H9334352F45A54EC094025CB6218EB658"><enum>(ii)</enum><text>has taken actions to address such challenges and mitigate risks to successful implementation of a positive train control system; and</text>
+ </clause><clause commented="no" id="HB9F69D51F40D4654BF193E07EC024C06"><enum>(iii)</enum><text>has made good faith efforts to implement the plan described in paragraph (1).</text> </clause></subparagraph><subparagraph commented="no" id="H15037C44EBF0459CAB8D10269D47D00F"><enum>(B)</enum> <clause commented="no" display-inline="yes-display-inline" id="H80146A50A0DC42CBBD83094312A27FD6"><enum>(i)</enum><text display-inline="yes-display-inline">The Secretary may grant an additional one-time extension of the deadline described in paragraph (1), applicable to each carrier or entity required to submit a plan under paragraph (1), not to exceed 12 months, if such a carrier or entity, or a group thereof, is not able to fully implement a positive train control system on or before the date that is the last day of the extension granted under subparagraph (A), and such carrier or entity—</text>
+ <subclause commented="no" id="H1D2E42BE595B4B78B89583CCDD47568A" indent="up1"><enum>(I)</enum><text>demonstrates to the satisfaction of the Secretary that implementing a positive train control system was delayed due to 1 or more circumstances beyond the control of the carrier or entity, such as a delay in Federal approval of a plan, testing, or certification; or</text>
+ </subclause><subclause commented="no" id="H360469AB0B284E0DA672DB1916E85736" indent="up1"><enum>(II)</enum><text display-inline="yes-display-inline">demonstrates to the satisfaction of the Secretary—</text> <item id="H9F4A14604768424BBD43707205F6423F"><enum>(aa)</enum><text display-inline="yes-display-inline">that such carrier or entity will not be able to implement a positive train control system by the deadline described in paragraph (1) due to technical, programmatic, or operational challenges;</text>
+ </item><item id="H79FC195E5786449A8CB8B8BD4776DF3E"><enum>(bb)</enum><text>due diligence in its efforts to fully implement a positive train control system; and</text> </item><item commented="no" display-inline="no-display-inline" id="H087A6C73B82B424D96FF538D219AD715"><enum>(cc)</enum><text>that substantial progress has been made in deploying positive train control, to the extent feasible.</text>
+ </item></subclause></clause><clause commented="no" id="H32E0460B1B4C4449A379DB143DC9F1A6" indent="up1"><enum>(ii)</enum><text>A demonstrating carrier or entity under clause (i) must certify to the Secretary in writing that such carrier or entity will be in full compliance with the requirements of this section on or before the date that is the last date of the extension granted under clause (i).</text>
+							</clause></subparagraph></paragraph><paragraph commented="no" id="H8A01972B86A14510B67BBBF32CECC202"><enum>(3)</enum><header>Implementation</header>
+ <subparagraph commented="no" id="HAA700A175E2344E0B3AB206833D4C45C"><enum>(A)</enum><text>The revised plan shall—</text> <clause commented="no" id="H52AA8EF18CAA4A58A77E374D5B441F3A"><enum>(i)</enum><text>describe how the railroad carrier or entity will provide for interoperability of the system with movements of trains of other railroad carriers or entities over its lines;</text>
+ </clause><clause commented="no" id="HF953277E5DFC4618BBEBD3E0DF752716"><enum>(ii)</enum><text>to the extent practical, provide for implementation of the system in a manner that addresses areas of greater risk before areas of lesser risk;</text>
+ </clause><clause commented="no" id="HDBAB0C6A1F4C44CABF8FC98150AE31EC"><enum>(iii)</enum><text>comply with this section and subpart I of part 236 of title 49, Code of Federal Regulations; and</text> </clause><clause commented="no" id="H03051B1D3AE94D2FA8D4EEDD1BAAE431"><enum>(iv)</enum><text>include a detailed schedule and sequence for fully implementing a positive train control system in accordance with this section and such regulations.</text>
+ </clause></subparagraph><subparagraph commented="no" id="H10BF71BE334C481C99E06C7AFD58B6ED"><enum>(B)</enum><text display-inline="yes-display-inline">The railroad carrier shall implement a positive train control system in accordance with such plan.</text></subparagraph></paragraph><after-quoted-block>;</after-quoted-block></quoted-block> </paragraph><paragraph commented="no" id="HFA2D98160F74444181B6F8B723E39582"><enum>(3)</enum><text>by striking subsections (c) and (d) and inserting the following:</text>
+				<quoted-block id="H52CC334ED3FF43CE81D7A0EB2EA7558A" style="USC">
+ <subsection commented="no" id="HEDB0E2567B00426C95CCDD69E7D3BC23"><enum>(c)</enum><header>Progress reports</header><text>Not later than January 1, 2017, and annually thereafter until full implementation of positive train control systems has been completed, each railroad carrier or entity required to revise and transmit a plan under subsection (a) shall submit to the Secretary a report on the progress of such carrier or entity toward implementing positive train control systems.</text>
+					</subsection><subsection commented="no" id="H6CBC21ECFEDB4A62B72D41EDD34F23A7"><enum>(d)</enum><header>Reports</header>
+ <paragraph commented="no" display-inline="no-display-inline" id="HD8E0116059094D03B6BA3F7277EB6F7C"><enum>(1)</enum><header>Congressional notification</header><text>Not later than April 1, 2018, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the progress of the railroad carriers in implementing positive train control systems.</text>
+ </paragraph><paragraph commented="no" id="H58BB6827565A4502BDF7259687EB4F3A"><enum>(2)</enum><header>Public availability</header><text>The Secretary shall make available to the public on the Department of Transportation’s Internet Web site each progress report submitted pursuant to paragraph (1) and subsection (c).</text></paragraph></subsection><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph commented="no" id="HA653E5C1380D4F8882A447DBF22CC80B"><enum>(4)</enum><text>in subsection (h)—</text> <subparagraph commented="no" id="H7DD713F4C40B40CE97B234D44C8EF6A1"><enum>(A)</enum><text>by striking <quote>The Secretary</quote> and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H32B651CEE6034A8190F3DD5318B7EAE3" style="USC">
+ <paragraph commented="no" id="H8C69E365D2834D05852CFF3A3C27D2E6"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block> </subparagraph><subparagraph commented="no" id="H03CDA81902BE4DFF9E72DFC7701ADF82"><enum>(B)</enum><text>by adding at the end the following:</text>
+					<quoted-block id="H576B2FDB2C374F83AB53EE9B36074D7F" style="USC">
+ <paragraph commented="no" id="H01BFC4C375104F91AA4284436E751A05"><enum>(2)</enum><header>Provisional operation</header><text>In lieu of the requirements of paragraph (1), the Secretary may authorize a railroad carrier or other entity to commence operation in revenue service of a positive train control system or component to the extent necessary to enable the safe implementation of positive train control systems in phases.</text></paragraph><after-quoted-block>. </after-quoted-block></quoted-block>
+				</subparagraph></paragraph></section></legis-body>
+</bill>
+
+

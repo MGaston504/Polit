@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA5C7E3998CF94E98A757B37C4601370C" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 HR 1839 IH: RAISE Act of 2015</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2015-04-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>114th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1839</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20150416">April 16, 2015</action-date>
+			<action-desc><sponsor name-id="M001156">Mr. McHenry</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Securities Act of 1933 to exempt certain transactions involving purchases by
+			 accredited investors, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H3725F61B27DB49C9B4095E60A329D909" style="OLC">
+ <section id="H7AA33502B02140EB8B9999148E55A62B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Reforming Access for Investments in Startup Enterprises Act of 2015</short-title></quote> or the <quote>RAISE Act of 2015</quote>.</text> </section><section id="HE424CBDDFFD645DDAAB852F180D99ADB"><enum>2.</enum><header>Exempted transactions</header> <subsection id="H177B1ACFEC324D8FA5F738A1CCF4E8F5"><enum>(a)</enum><header>Exempted transactions</header><text display-inline="yes-display-inline">Section 4 of the Securities Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/15/77d">15 U.S.C. 77d</external-xref>) is amended—</text>
+ <paragraph id="HC8AE20DCECA84C658605CC620ADB54A1"><enum>(1)</enum><text>in subsection (a), by adding at the end the following new paragraph:</text> <quoted-block display-inline="no-display-inline" id="H1BF59A10097C40929AD119C8E5413A10" style="OLC"> <paragraph id="H534E84989F04476FBE1A2FE02D9C9627"><enum>(7)</enum><text display-inline="yes-display-inline">transactions meeting the requirements of subsection (d).</text></paragraph><after-quoted-block>; </after-quoted-block></quoted-block>
+ </paragraph><paragraph id="HC927049F3CF84468B4188100F51B161C"><enum>(2)</enum><text display-inline="yes-display-inline">by redesignating the second subsection (b) (relating to securities offered and sold in compliance with Rule 506 of Regulation D) as subsection (c); and</text>
+ </paragraph><paragraph id="H471EB982EC114984806677925EE813E5"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H5B80D6151B1144A19106C587A75A9616" style="traditional"> <subsection id="H1050B1D3D9F648889FB94C07CF19B6A8"><enum>(d)</enum> <paragraph commented="no" display-inline="yes-display-inline" id="HB164C7538992455594386F561FFC47E3"><enum>(1)</enum><text>The transactions referred to in subsection (a)(7) are transactions where—</text>
+ <subparagraph id="H48A0A863268046BBA9ECD9151308C948"><enum>(A)</enum><text>each purchaser is an accredited investor, as that term is defined in section 230.501(a) of title 17, Code of Federal Regulations (or any successor thereto); and</text>
+ </subparagraph><subparagraph id="HC658680F2AEA42C59A6DD6E1ABA13FA1"><enum>(B)</enum><text display-inline="yes-display-inline">if any securities sold in reliance on subsection (a)(7) are offered by means of any general solicitation or general advertising, all such sales are made through a platform available only to accredited investors.</text>
+ </subparagraph></paragraph><paragraph id="HBE4D7F78AC1948E7BB97D9BAE5562045" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">Securities sold in reliance on subsection (a)(7) shall be deemed to have been acquired in a transaction not involving any public offering.</text>
+ </paragraph><paragraph id="HB66ED89373DF4802AB6C46667973846E" indent="up1"><enum>(3)</enum><text display-inline="yes-display-inline">The exemption provided by this subsection shall not be available for a transaction where the seller is—</text>
+ <subparagraph id="HB46287BA87CB4280A80468B7C5601132"><enum>(A)</enum><text>an issuer, its subsidiaries or parent;</text> </subparagraph><subparagraph id="HAA111BA1809948B9BD542B60BDDAD3B7"><enum>(B)</enum><text>an underwriter acting on behalf of the issuer, its subsidiaries or parent, which receives compensation from the issuer with respect to such sale; or</text>
+ </subparagraph><subparagraph id="H3A01280D82154E6EA053B93189205F1B"><enum>(C)</enum><text>a dealer.</text> </subparagraph></paragraph><paragraph id="H92CF251DD6AE4F8DA084BDFE9AA89A4F" indent="up1"><enum>(4)</enum><text display-inline="yes-display-inline">A transaction meeting the requirements of this subsection shall be deemed not to be a distribution for purposes of section 2(a)(11).</text>
+							</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="HB5AEBB52206D4C63B6ED0DDBDB72B838"><enum>(b)</enum><header>Exemption in connection with certain exempt offerings</header><text display-inline="yes-display-inline">Section 18(b)(4) of the Securities Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/15/77r">15 U.S.C. 77r(b)(4)</external-xref>) is amended—</text> <paragraph id="HE56D27AA8E13489EA1B67F4A1CBBFB8C"><enum>(1)</enum><text>by redesignating the second subparagraph (D) and subparagraph (E) as subparagraphs (E) and (F), respectively;</text>
+ </paragraph><paragraph id="H9473B24121B646E685E6ABD80E5CFED3"><enum>(2)</enum><text>in subparagraph (E), as so redesignated, by striking <quote>; or</quote> and inserting a semicolon;</text> </paragraph><paragraph id="H7FC24BA1A2034970B8308528F634E50C"><enum>(3)</enum><text>in subparagraph (F), as so redesignated, by striking the period and inserting <quote>; or</quote>; and</text>
+ </paragraph><paragraph id="HAE13C86459434FB7A7D7606A81CD5710"><enum>(4)</enum><text>by adding at the end the following new subparagraph:</text> <quoted-block display-inline="no-display-inline" id="H1BD1AC26FA364212AED535B321195AAF" style="traditional"> <subparagraph id="H14E78EE2167A4509A0A5210335F46B3C"><enum>(G)</enum><text>section 4(a)(7).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+
