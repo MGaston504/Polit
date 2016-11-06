@@ -22,17 +22,12 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
 public class FrontPageScrollingActivity extends AppCompatActivity {
 
-    /**
-     * ATTENTION: This was auto-generated to implement the App Indexing API.
-     * See https://g.co/AppIndexing/AndroidStudio for more information.
-     */
     private GoogleApiClient client;
 
     @Override
@@ -43,31 +38,10 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
         //final Spinner spinner = (Spinner) findViewById(R.id.spinner)
         String sort = "current_status_date";
 
-
-
-//        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-//        setSupportActionBar(toolbar);
-//
-//        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-//        fab.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-//                        .setAction("Action", null).show();
-//            }
-//        });
         new MyAsyncTask().execute(String.format("https://www.govtrack.us/api/v2/bill?sort=-%s", sort));
         // ATTENTION: This was auto-generated to implement the App Indexing API.
         // See https://g.co/AppIndexing/AndroidStudio for more information.
         client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
-    }
-    public void step2 (String sort){
-
-        //String sort = "current_status_date";
-
-        //"title_without_number" "introduced_date" 
-
-
     }
 
     @Override
@@ -79,9 +53,6 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
@@ -91,53 +62,6 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    protected String[] grabURL(/*String name*/) throws IOException {
-
-        int pageNum = 0;
-
-        String name = "bill?sort=created";
-
-        URL url = new URL(String.format("https://www.govtrack.us/api/v2/%s", name));
-
-        ////////////////JSON
-        HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
-        String[] result = new String[]{"Error"};
-
-        try {
-            BufferedReader reader = new BufferedReader(new InputStreamReader(urlConnection.getInputStream()));
-            StringBuilder sb = new StringBuilder();
-
-            String line = null;
-            while ((line = reader.readLine()) != null) {
-                sb.append(line + "\n");
-            }
-            result = sb.toString().split("\n");
-
-        } catch (Exception e) {
-            // Oops
-
-        } finally {
-            //woopsss
-        }
-
-        return result;
-
-        ///////////////
-
-        /*
-        bill?sort=created
-        bills/{bill-type}/{bill-type}{number}/data.json
-        bills/{bill-type}/{bill-type}{number}/text-versions/{version}/...
-        amendments/{amdt-type}/{amdt-type}{amdt-number}/data.json
-        votes/{session}/{chamber}{vote-number}/data.json
-
-         */
-    }
-
-    /**
-     * ATTENTION: This was auto-generated to implement the App Indexing API.
-     * See https://g.co/AppIndexing/AndroidStudio for more information.
-     */
     public Action getIndexApiAction() {
         Thing object = new Thing.Builder()
                 .setName("FrontPageScrolling Page") // TODO: Define a title for the content shown.
@@ -154,8 +78,6 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
     public void onStart() {
         super.onStart();
 
-        // ATTENTION: This was auto-generated to implement the App Indexing API.
-        // See https://g.co/AppIndexing/AndroidStudio for more information.
         client.connect();
         AppIndex.AppIndexApi.start(client, getIndexApiAction());
     }
@@ -164,8 +86,6 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
     public void onStop() {
         super.onStop();
 
-        // ATTENTION: This was auto-generated to implement the App Indexing API.
-        // See https://g.co/AppIndexing/AndroidStudio for more information.
         AppIndex.AppIndexApi.end(client, getIndexApiAction());
         client.disconnect();
     }
@@ -245,7 +165,7 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
             List<String> listItems = new ArrayList<>();
 
             for (int i = 0; i < titleList.size(); i++) {
-                listItems.add(String.format("%s\nINTRODUCED:\t\t%s\nDATE OF LAST MAJOR ACTION:\t\t%s",
+                listItems.add(String.format("\n%s\n\nINTRODUCED:\t\t%s\nDATE OF LAST MAJOR ACTION:\t\t%s\n",
                         titleList.get(i), introList.get(i), statusList.get(i)));
             }
 
