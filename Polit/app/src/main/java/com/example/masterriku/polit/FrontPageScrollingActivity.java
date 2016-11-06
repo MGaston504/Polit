@@ -6,10 +6,14 @@ import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.TextView;
+
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -17,6 +21,8 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.util.ArrayList;
+import java.util.List;
 
 public class FrontPageScrollingActivity extends AppCompatActivity {
 
@@ -80,19 +86,6 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
             String line = null;
             while ((line = reader.readLine()) != null) {
                 sb.append(line + "\n");
-//                if (line.substring(0, 20) == "\"introduced_date\":"){
-//                    line.substring(22);
-//             }
-                /*
-                introduced_date
-                    "introduced_date": "2011-01-05",
-                current_status_date
-                    "current_status_date": "2011-01-05",
-                title
-                    "lock_title": false,
-                terms
-
-                 */
             }
             result = sb.toString().split("\n");
 
@@ -136,27 +129,8 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
 
                 while ((line = reader.readLine()) != null)
                 {
-//                JSONObject jsonObject = new JSONObject(line);
-//                jsonObject
                     sb.append(line + "\n");
-//                if (line.substring(0, 20) == "\"introduced_date\":"){
-//                    line.substring(22);
-//             }
-                /*
-                introduced_date
-                    "introduced_date": "2011-01-05",
-                current_status_date
-                    "current_status_date": "2011-01-05",
-                title
-                    "lock_title": false,
-                terms
-
-                 */
                 }
-//            if (sb==null){
-//                return "you messed up";
-//            }
-                //new JSONObject(responseStrBuilder.toString());
                 reader.close();
                 result = sb.toString();//.split("\n");
             } catch (IOException i){
@@ -167,10 +141,34 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
 
         protected void onPostExecute(String result) {
 
-//            String page = new Communicator().executeHttpGet("Some URL");
-//            JSONObject jsonObject = new JSONObject(page);
+            List<String> titleList = new ArrayList<>();
+            List<String> introList = new ArrayList<>();
+            List<String> statusList = new ArrayList<>();
+
+            try{
+                JSONObject jsonObject = new JSONObject(result);
+                JSONArray objects = jsonObject.getJSONArray("objects");
+
+                for (int i = 0; i < objects.length(); i++) {
+                    JSONObject JSONiter = objects.getJSONObject(i);
+                    titleList.add(JSONiter.getString("title_without_number"));
+                    introList.add(JSONiter.getString("introduced_date"));
+                    statusList.add(JSONiter.getString("current_status_date"));
+                }
+            } catch (JSONException j){
+                titleList.add(j.toString());
+                introList.add(j.toString());
+                statusList.add(j.toString());
+            }
 
             TextView textView = (TextView) findViewById(R.id.billList);
+
+            StringBuilder sb = new StringBuilder();
+            for (String x: titleList) {
+                sb.append(x + "\n");
+            }
+            result = sb.toString();
+
             textView.setText(result); //"a regular piece of text"
 //            JSONObject obj = new JSONObject("introduced_date");
         }
