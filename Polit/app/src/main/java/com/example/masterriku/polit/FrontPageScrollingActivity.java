@@ -1,5 +1,8 @@
 package com.example.masterriku.polit;
 
+import android.app.ListActivity;
+import android.content.Intent;
+import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -9,6 +12,9 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
+import android.widget.ListView;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -21,6 +27,7 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class FrontPageScrollingActivity extends AppCompatActivity {
@@ -112,7 +119,7 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
          */
     }
 
-    class MyAsyncTask extends AsyncTask<String, Void, String> {
+    class MyAsyncTask extends AsyncTask<String, Void, String>{
 
         @Override
         protected String doInBackground(String... strings) {
@@ -180,7 +187,20 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
         }
 
         public void MiddleGround(List<String> titleList, List<String> introList, List<String> statusList){
+            for(int i = 0; i < (titleList.size() - 1); i++){
 
+            }
+
+            for(int i = 0; i < (introList.size() - 1); i++){
+
+            }
+
+            for(int i = 0; i < (statusList.size() - 1); i++){
+
+            }
+
+            Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.google.com"));
+            startActivity(browserIntent);
         }
     }
 }
