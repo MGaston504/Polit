@@ -15,6 +15,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
+import android.widget.Spinner;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -201,6 +202,8 @@ public class FrontPageScrollingActivity extends AppCompatActivity {
 
             Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.google.com"));
             startActivity(browserIntent);
+
+            Spinner s = (Spinner) findViewById(R.id.spinner2);
         }
     }
 }
